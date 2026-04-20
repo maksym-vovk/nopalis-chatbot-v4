@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "city": "San Cristobal de la Barranca",
+      "colonia": "El Escalon",
+      "postal_code": [
+        "45255"
+      ]
+    },
+    {
+      "city": "San Cristobal de la Barranca",
+      "colonia": "El Sauz",
+      "postal_code": [
+        "45259"
+      ]
+    },
+    {
+      "city": "San Cristobal de la Barranca",
+      "colonia": "Llano Grande",
+      "postal_code": [
+        "45257"
+      ]
+    },
+    {
+      "city": "San Cristobal de la Barranca",
+      "colonia": "Los Pueblitos",
+      "postal_code": [
+        "45255"
+      ]
+    },
+    {
+      "city": "San Cristobal de la Barranca",
+      "colonia": "San Cristobal de La Barranca",
+      "postal_code": [
+        "45250"
+      ]
+    },
+    {
+      "city": "San Cristobal de la Barranca",
+      "colonia": "Santa Cruz de Atistique",
+      "postal_code": [
+        "45259"
+      ]
+    },
+    {
+      "city": "San Cristobal de la Barranca",
+      "colonia": "Techalutla",
+      "postal_code": [
+        "45256"
+      ]
+    },
+    {
+      "city": "San Cristobal de la Barranca",
+      "colonia": "Tepeaca",
+      "postal_code": [
+        "45256"
+      ]
+    }
+  ]
+}

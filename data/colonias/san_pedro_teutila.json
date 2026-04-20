@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "San Pedro Teutila",
+      "colonia": "Piedra Ancha o la Raya",
+      "postal_code": [
+        "68621"
+      ]
+    },
+    {
+      "city": "San Pedro Teutila",
+      "colonia": "San Juan Teutila",
+      "postal_code": [
+        "68622"
+      ]
+    },
+    {
+      "city": "San Pedro Teutila",
+      "colonia": "San Pedro Teutila",
+      "postal_code": [
+        "68620"
+      ]
+    },
+    {
+      "city": "San Pedro Teutila",
+      "colonia": "Santo Domingo del Rio",
+      "postal_code": [
+        "68620"
+      ]
+    }
+  ]
+}

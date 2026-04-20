@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Miguel Tequixtepec",
+      "colonia": "Palo Solo",
+      "postal_code": [
+        "69369"
+      ]
+    },
+    {
+      "city": "San Miguel Tequixtepec",
+      "colonia": "San Miguel Tequixtepec",
+      "postal_code": [
+        "69360"
+      ]
+    },
+    {
+      "city": "San Miguel Tequixtepec",
+      "colonia": "Santa Cruz Capulalpan",
+      "postal_code": [
+        "69361"
+      ]
+    }
+  ]
+}

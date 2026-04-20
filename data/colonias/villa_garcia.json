@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "city": "Villa Garcia",
+      "colonia": "Agua Gorda",
+      "postal_code": [
+        "98910"
+      ]
+    },
+    {
+      "city": "Villa Garcia",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "98900"
+      ]
+    },
+    {
+      "city": "Villa Garcia",
+      "colonia": "Granadas",
+      "postal_code": [
+        "98918"
+      ]
+    },
+    {
+      "city": "Villa Garcia",
+      "colonia": "Los Campos",
+      "postal_code": [
+        "98919"
+      ]
+    },
+    {
+      "city": "Villa Garcia",
+      "colonia": "Montesa",
+      "postal_code": [
+        "98918"
+      ]
+    },
+    {
+      "city": "Villa Garcia",
+      "colonia": "Tierritas Blancas",
+      "postal_code": [
+        "98910"
+      ]
+    },
+    {
+      "city": "Villa Garcia",
+      "colonia": "Villa Flores",
+      "postal_code": [
+        "98900"
+      ]
+    },
+    {
+      "city": "Villa Garcia",
+      "colonia": "Villa Garcia Centro",
+      "postal_code": [
+        "98900"
+      ]
+    }
+  ]
+}

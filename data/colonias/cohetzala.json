@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Cohetzala",
+      "colonia": "El Platanar",
+      "postal_code": [
+        "74741"
+      ]
+    },
+    {
+      "city": "Cohetzala",
+      "colonia": "Santa Maria Cohetzala",
+      "postal_code": [
+        "74740"
+      ]
+    },
+    {
+      "city": "Cohetzala",
+      "colonia": "Santa Monica",
+      "postal_code": [
+        "74740"
+      ]
+    }
+  ]
+}

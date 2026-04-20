@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Xochitlan Todos Santos",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "75660"
+      ]
+    },
+    {
+      "city": "Xochitlan Todos Santos",
+      "colonia": "San Jeronimo Alfaro",
+      "postal_code": [
+        "75664"
+      ]
+    },
+    {
+      "city": "Xochitlan Todos Santos",
+      "colonia": "Xochitlan",
+      "postal_code": [
+        "75660"
+      ]
+    }
+  ]
+}

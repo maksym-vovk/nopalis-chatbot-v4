@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Santiago Tamazola",
+      "colonia": "San Bartolo Salinas",
+      "postal_code": [
+        "69105"
+      ]
+    },
+    {
+      "city": "Santiago Tamazola",
+      "colonia": "San Jose  Zocoteaca de Bravo",
+      "postal_code": [
+        "69106"
+      ]
+    },
+    {
+      "city": "Santiago Tamazola",
+      "colonia": "San Luis Morelia",
+      "postal_code": [
+        "69104"
+      ]
+    },
+    {
+      "city": "Santiago Tamazola",
+      "colonia": "Santa Ana Rayon",
+      "postal_code": [
+        "69101"
+      ]
+    },
+    {
+      "city": "Santiago Tamazola",
+      "colonia": "Santiago Tamazola",
+      "postal_code": [
+        "69100"
+      ]
+    }
+  ]
+}

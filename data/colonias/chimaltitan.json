@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Chimaltitan",
+      "colonia": "Agua Caliente",
+      "postal_code": [
+        "46305"
+      ]
+    },
+    {
+      "city": "Chimaltitan",
+      "colonia": "Chimaltitan",
+      "postal_code": [
+        "46300"
+      ]
+    },
+    {
+      "city": "Chimaltitan",
+      "colonia": "Cocuasco",
+      "postal_code": [
+        "46310"
+      ]
+    },
+    {
+      "city": "Chimaltitan",
+      "colonia": "Tepizuac",
+      "postal_code": [
+        "46330"
+      ]
+    }
+  ]
+}

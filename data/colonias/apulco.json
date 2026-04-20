@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Apulco",
+      "colonia": "Agua Blanca",
+      "postal_code": [
+        "99921"
+      ]
+    },
+    {
+      "city": "Apulco",
+      "colonia": "San Pedro Apulco",
+      "postal_code": [
+        "99920"
+      ]
+    },
+    {
+      "city": "Apulco",
+      "colonia": "Tenayuca",
+      "postal_code": [
+        "99930"
+      ]
+    }
+  ]
+}

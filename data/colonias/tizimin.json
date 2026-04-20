@@ -1,0 +1,782 @@
+{
+  "data": [
+    {
+      "city": "Tizimin",
+      "colonia": "8 Calles",
+      "postal_code": [
+        "97702"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "97703",
+        "97704",
+        "97716"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Aviacion",
+      "postal_code": [
+        "97702"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "97702",
+        "97707",
+        "97713"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Bondzonot Numero Dos",
+      "postal_code": [
+        "97706"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Buena Esperanza",
+      "postal_code": [
+        "97706"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Campestre San Francisco",
+      "postal_code": [
+        "97702"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Cenote Azul",
+      "postal_code": [
+        "97713"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Chan Cenote",
+      "postal_code": [
+        "97717"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Chan San Antonio",
+      "postal_code": [
+        "97705"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Chan Tres Reyes",
+      "postal_code": [
+        "97716"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Chenkeken",
+      "postal_code": [
+        "97706"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Chunsubul",
+      "postal_code": [
+        "97706"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Colonia Yucatan",
+      "postal_code": [
+        "97710"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Comichen",
+      "postal_code": [
+        "97702"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Dolores",
+      "postal_code": [
+        "97707"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Dzadz Palma",
+      "postal_code": [
+        "97706"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Dzonot Ake",
+      "postal_code": [
+        "97710"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Dzonot Box",
+      "postal_code": [
+        "97706"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Dzonot Carretero",
+      "postal_code": [
+        "97707"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Dzonot Mezo",
+      "postal_code": [
+        "97717"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Dzonot Tigre",
+      "postal_code": [
+        "97706"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "El Cuyo",
+      "postal_code": [
+        "97707"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "El Eden (Yaxic)",
+      "postal_code": [
+        "97716"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "El Limonar",
+      "postal_code": [
+        "97715"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "El Ramonal",
+      "postal_code": [
+        "97710"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "97707"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Felipe Carrillo Puerto Dos",
+      "postal_code": [
+        "97710"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Felipe Carrillo Puerto Numero Uno",
+      "postal_code": [
+        "97716"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Fovissste",
+      "postal_code": [
+        "97702"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "97715"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Huayita",
+      "postal_code": [
+        "97703"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Jacinto Canek",
+      "postal_code": [
+        "97702"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Justo Sierra",
+      "postal_code": [
+        "97702"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Kabichen",
+      "postal_code": [
+        "97710"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Kikil",
+      "postal_code": [
+        "97705"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "97716"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "La Libertad",
+      "postal_code": [
+        "97713"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "La Sierra",
+      "postal_code": [
+        "97710"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "97702"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "97703",
+        "97710"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Libre Union",
+      "postal_code": [
+        "97706"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Los Aguacates",
+      "postal_code": [
+        "97704"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "97702",
+        "97703"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Luis Rosado Vega",
+      "postal_code": [
+        "97715"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Manuel Cepeda Peraza",
+      "postal_code": [
+        "97715"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Moctezuma",
+      "postal_code": [
+        "97707"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Nuevo Leon",
+      "postal_code": [
+        "97715"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Nuevo Tezoco",
+      "postal_code": [
+        "97715"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Orizaba",
+      "postal_code": [
+        "97710"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Papoinah",
+      "postal_code": [
+        "97716"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Paraiso",
+      "postal_code": [
+        "97713"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Quintana",
+      "postal_code": [
+        "97716"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Rancho Grande",
+      "postal_code": [
+        "97713"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Residencial Del Parque",
+      "postal_code": [
+        "97704"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Residencial Tizimin",
+      "postal_code": [
+        "97702"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Samaria",
+      "postal_code": [
+        "97713"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "97706"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "San Arturo",
+      "postal_code": [
+        "97715"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "97703"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "San Enrique",
+      "postal_code": [
+        "97710"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "97707"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "San Hipolito",
+      "postal_code": [
+        "97715"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "97715"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "San Isidro Chuncopo",
+      "postal_code": [
+        "97710"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "San Isidro Kancabdzonot",
+      "postal_code": [
+        "97717"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "San Isidro Kilometro Catorce (San Isidro)",
+      "postal_code": [
+        "97716"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "San Jose Montecristo",
+      "postal_code": [
+        "97716"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "San Jose Nabalam",
+      "postal_code": [
+        "97703"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "San Juan",
+      "postal_code": [
+        "97707",
+        "97715"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "97717"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "San Lorenzo Chiquila",
+      "postal_code": [
+        "97717"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "San Luis Tzuctuk",
+      "postal_code": [
+        "97710"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "San Manuel",
+      "postal_code": [
+        "97716"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "San Martin",
+      "postal_code": [
+        "97702"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "97713"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "San Pedro Bacab",
+      "postal_code": [
+        "97715"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "San Pedro Juarez",
+      "postal_code": [
+        "97710"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "San Pedro Sacboc",
+      "postal_code": [
+        "97714"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "San Roman",
+      "postal_code": [
+        "97706"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "97713"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Santa Clara",
+      "postal_code": [
+        "97715"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Santa Clara Dzibalku",
+      "postal_code": [
+        "97706"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "97700"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "97715"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Santa Isabel",
+      "postal_code": [
+        "97713"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "97702",
+        "97714"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Santa Maria de Lima",
+      "postal_code": [
+        "97704"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Santa Pilar",
+      "postal_code": [
+        "97713"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "97716"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Santa Rosa Concepcion",
+      "postal_code": [
+        "97712"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Santa Rosa y Anexas",
+      "postal_code": [
+        "97713"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "97703"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Sucopo",
+      "postal_code": [
+        "97705"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Teapa",
+      "postal_code": [
+        "97710"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Tixcancal",
+      "postal_code": [
+        "97717"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Tizimin Centro",
+      "postal_code": [
+        "97700"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Trascorral",
+      "postal_code": [
+        "97717"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Tres Marias",
+      "postal_code": [
+        "97715"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Villas Campestre",
+      "postal_code": [
+        "97702"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Viva",
+      "postal_code": [
+        "97702"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "X-Cail",
+      "postal_code": [
+        "97706"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Xkalax de Dzibalku",
+      "postal_code": [
+        "97706"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "X-Lal",
+      "postal_code": [
+        "97706"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "X-Pambiha",
+      "postal_code": [
+        "97705"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "X-Panhatoro",
+      "postal_code": [
+        "97706"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Yaxcheku",
+      "postal_code": [
+        "97710"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Yohactun de Hidalgo",
+      "postal_code": [
+        "97707"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Yokdzonot Meneses",
+      "postal_code": [
+        "97705"
+      ]
+    },
+    {
+      "city": "Tizimin",
+      "colonia": "Zoologico",
+      "postal_code": [
+        "97702"
+      ]
+    }
+  ]
+}

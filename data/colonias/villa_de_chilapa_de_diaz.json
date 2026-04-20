@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Villa de Chilapa de Diaz",
+      "colonia": "San Marcos Monte de Leon",
+      "postal_code": [
+        "69545"
+      ]
+    },
+    {
+      "city": "Villa de Chilapa de Diaz",
+      "colonia": "Santo Domingo Nundo",
+      "postal_code": [
+        "69541"
+      ]
+    },
+    {
+      "city": "Villa de Chilapa de Diaz",
+      "colonia": "Villa de Chilapa de Diaz",
+      "postal_code": [
+        "69540"
+      ]
+    }
+  ]
+}

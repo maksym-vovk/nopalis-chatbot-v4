@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "San Juan Tepeuxila",
+      "colonia": "San Andres Papalo",
+      "postal_code": [
+        "68661"
+      ]
+    },
+    {
+      "city": "San Juan Tepeuxila",
+      "colonia": "San Juan Tepeuxila",
+      "postal_code": [
+        "68660"
+      ]
+    },
+    {
+      "city": "San Juan Tepeuxila",
+      "colonia": "San Juan Teponaxtla",
+      "postal_code": [
+        "68660"
+      ]
+    },
+    {
+      "city": "San Juan Tepeuxila",
+      "colonia": "San Pedro Cuyaltepec",
+      "postal_code": [
+        "68660"
+      ]
+    },
+    {
+      "city": "San Juan Tepeuxila",
+      "colonia": "San Sebastian Tlacolula",
+      "postal_code": [
+        "68660"
+      ]
+    }
+  ]
+}

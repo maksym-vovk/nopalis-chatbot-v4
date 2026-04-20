@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "city": "La Libertad",
+      "colonia": "Aldama 1",
+      "postal_code": [
+        "29977"
+      ]
+    },
+    {
+      "city": "La Libertad",
+      "colonia": "Benito Juarez Centro",
+      "postal_code": [
+        "29974"
+      ]
+    },
+    {
+      "city": "La Libertad",
+      "colonia": "El Guano 1ra. Seccion",
+      "postal_code": [
+        "29977"
+      ]
+    },
+    {
+      "city": "La Libertad",
+      "colonia": "Jose Maria Morelos y Pavon Saquila",
+      "postal_code": [
+        "29971"
+      ]
+    },
+    {
+      "city": "La Libertad",
+      "colonia": "La Libertad",
+      "postal_code": [
+        "29970"
+      ]
+    },
+    {
+      "city": "La Libertad",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "29973"
+      ]
+    },
+    {
+      "city": "La Libertad",
+      "colonia": "Zaragoza 1a Secc",
+      "postal_code": [
+        "29972"
+      ]
+    },
+    {
+      "city": "La Libertad",
+      "colonia": "Zaragoza 2a Secc",
+      "postal_code": [
+        "29972"
+      ]
+    }
+  ]
+}

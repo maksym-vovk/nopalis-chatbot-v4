@@ -1,0 +1,377 @@
+<html lang="es" dir="ltr">
+
+<head>
+    <link rel="preconnect" href="//everad-commander-prod.b-cdn.net/">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hemos recibido su solicitud</title>
+    <link rel="stylesheet"
+          href="//everad-commander-prod.b-cdn.net/76981_fbc408ce-ed17-4107-b029-f94fbfe1f36d/default-css/subscribe-1.css">
+    <link href="images/favicon.ico" rel="icon" type="image/x-icon">
+    <meta name="referrer" content="unsafe-url">
+    <style type="text/css">
+        .order-modal,
+        .users-online {
+            cursor: pointer;
+            position: fixed;
+            right: 20px;
+            top: 120px;
+            width: 320px;
+            background-color: rgba(0, 0, 0, .9);
+            color: #fff;
+            transition: all 1s;
+            font-size: 19px;
+            line-height: 22px;
+            border-radius: 10px;
+            z-index: 9999;
+            opacity: 0;
+            visibility: hidden
+        }
+
+        .order-modal > div,
+        .users-online > div {
+            margin: 10px
+        }
+
+        .order-modal > div > span,
+        .users-online > div > span {
+            display: inline-block;
+            vertical-align: middle;
+            width: calc(100% - 75px);
+            margin-left: 10px
+        }
+
+        .show-order,
+        .show-order-last {
+            opacity: 1;
+            visibility: visible;
+            transition: all 1s
+        }
+
+        .blink {
+            color: red !important;
+            animation-name: blinker;
+            animation-duration: 1s;
+            animation-timing-function: linear;
+            animation-iteration-count: infinite;
+            -webkit-animation-name: blinker;
+            -webkit-animation-duration: 1s;
+            -webkit-animation-timing-function: linear;
+            -webkit-animation-iteration-count: infinite;
+            -moz-animation-name: blinker;
+            -moz-animation-duration: 1s;
+            -moz-animation-timing-function: linear;
+            -moz-animation-iteration-count: infinite;
+            text-decoration: line-through
+        }
+
+        .blink_me {
+            font-size: 24px;
+            color: red;
+            font-weight: 700
+        }
+
+        .show-order-last:before,
+        .show-order:before {
+            -webkit-transform: rotate(45deg);
+            -ms-transform: rotate(45deg);
+            -o-transform: rotate(45deg);
+            transform: rotate(45deg)
+        }
+
+        .show-order-last:after,
+        .show-order-last:before,
+        .show-order:after,
+        .show-order:before {
+            content: "";
+            position: absolute;
+            right: 0;
+            top: -15px;
+            width: 15px;
+            height: 5px;
+            background: red;
+            transition: all 1s
+        }
+
+        .show-order-last:after,
+        .show-order:after {
+            -webkit-transform: rotate(-45deg);
+            -ms-transform: rotate(-45deg);
+            -o-transform: rotate(-45deg);
+            transform: rotate(-45deg)
+        }
+
+        .everad-sprite {
+            background: url(data:image/png;base64,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) no-repeat;
+            display: inline-block;
+            vertical-align: middle;
+            width: 50px;
+            height: 50px;
+            margin-right: 5px
+        }
+
+        .everad-sprite-bucket {
+            background-position: -5px -5px
+        }
+
+        .everad-sprite-callback {
+            background-position: -65px -5px
+        }
+
+        .everad-sprite-online_user {
+            background-position: -5px -65px
+        }
+
+        @media screen and (max-width: 767px) {
+
+            .cookie-popup-on .order-modal,
+            .cookie-popup-on .users-online {
+                top: auto;
+                right: 10px;
+                bottom: 35px;
+                width: 300px
+            }
+        }
+
+        @media screen and (max-width: 405px) {
+
+            .cookie-popup-on .order-modal,
+            .cookie-popup-on .users-online {
+                bottom: 45px
+            }
+        }
+
+        @media screen and (max-width: 335px) {
+
+            .cookie-popup-on .order-modal,
+            .cookie-popup-on .users-online {
+                bottom: 60px
+            }
+        }
+
+        @media screen and (max-width: 767px) {
+
+            .order-modal,
+            .users-online {
+                top: auto;
+                right: 10px;
+                bottom: 10px;
+                width: 300px
+            }
+        }
+
+        @-moz-keyframes blinker {
+            0% {
+                opacity: 1
+            }
+
+            50% {
+                opacity: 0
+            }
+
+            to {
+                opacity: 1
+            }
+        }
+
+        @-webkit-keyframes blinker {
+            0% {
+                opacity: 1
+            }
+
+            50% {
+                opacity: 0
+            }
+
+            to {
+                opacity: 1
+            }
+        }
+
+        @keyframes blinker {
+            0% {
+                opacity: 1
+            }
+
+            50% {
+                opacity: 0
+            }
+
+            to {
+                opacity: 1
+            }
+        }
+    </style>
+
+</head>
+
+<body data-long-time-text="7 минут" data-invalid-name-text="¡Introduzca su nombre correctamente!"
+      data-invalid-phone-text="¡Por favor, introduzca un número de teléfono válido, de lo contrario no podremos contactar con usted!">
+
+<div class="content">
+    <div class="panel">
+        <div class="panel-body">
+            <div class="thank-you">¡Gracias! ¡Su pedido <span class="thank-you__order-id">№635861</span> se ha realizado
+                con éxito!
+            </div>
+            <div class="we-will-call-you we-will-call-you__timer" style="display: none;">
+                Nos comunicaremos con usted en <span class="we-will-call-you__countdown">00:07:00</span> minuto
+            </div>
+            <div class="we-will-call-you we-will-call-you__title">
+                Dentro de poco, un operador se pondrá en contacto con usted para aclarar los detalles.
+            </div>
+            <form class="parent x_resubmit_form">
+                <div class="data js-data">
+                    <div class="data__block">
+                        <div class="data__item">
+                            <span class="data__key">Su nombre:</span>
+                            <span class="x_client_name"></span>
+                        </div>
+                        <div class="data__item">
+                            <span class="data__key">Su número de teléfono:</span>
+                            <span class="x_client_phone"></span>
+                        </div>
+
+                    </div>
+
+                    <span class="js-change-btn data__change">
+                            <svg width="15" height="15" viewbox="0 0 15 15" fill="none"
+                                 xmlns="http://www.w3.org/2000/svg">
+                                <path d="M1 14H4.25L5.0625 13.1875M1 14V10.75L1.8125 9.9375M1 14H14M9.53125 2.21875L10.75 1L14 4.25L12.7812 5.46875M9.53125 2.21875L12.7812 5.46875M9.53125 2.21875L1.8125 9.9375M12.7812 5.46875L5.0625 13.1875M1.8125 9.9375L5.0625 13.1875"
+                                      stroke="#777777"/>
+                            </svg>
+
+                            Editar
+                        </span>
+                </div>
+                <div class="correction js-change">
+                    <div class="correction__block">
+                        <p class="correction__title">Cambiar datos</p>
+                        <div class="correction__close js-btn-cancel">
+                            <span>Cancelar</span>
+                        </div>
+                    </div>
+                    <div class="correction__item">
+                        <label class="correction__label">Su nombre</label>
+                        <input class="correction__input correction__input--name" type="text" name="name"
+                               autocomplete="name">
+                    </div>
+                    <div class="correction__item">
+                        <label class="correction__label">Su número de teléfono</label>
+                        <input class="correction__input correction__input--phone" type="tel" name="phone" required
+                               autocomplete="tel">
+                        <input type="hidden" name="order_id" value="">
+                    </div>
+                    <div class="correction__buttons button">
+                        <button class="button__item js-btn-change">
+                            Editar
+                        </button>
+                        <span class="button__item js-btn-cancel button__item--cancel">
+                                No cambiar
+                            </span>
+                    </div>
+                </div>
+                <input type="hidden" name="sid1" value="<?php echo $_POST['sid1']; ?>"/>
+            </form>
+            <div class="cta">
+                <div class="cta__item">
+                    <svg width="40" height="40" viewbox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="20" cy="20" r="19" stroke="#FFD028" stroke-width="2"/>
+                        <path d="M10.5 17.5L19 27.5L29 14" stroke="#FFD028" stroke-width="2" stroke-linecap="round"
+                              stroke-linejoin="round"/>
+                    </svg>
+                    Verifique si el teléfono que ingresó está correcto
+                </div>
+                <div class="cta__item">
+                    <svg width="40" height="40" viewbox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="20" cy="20" r="19" stroke="#FFD028" stroke-width="2"/>
+                        <path d="M10.5 17.5L19 27.5L29 14" stroke="#FFD028" stroke-width="2" stroke-linecap="round"
+                              stroke-linejoin="round"/>
+                    </svg>
+                    Desactive el modo silencioso
+                </div>
+                <div class="cta__item">
+                    <svg width="40" height="40" viewbox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="20" cy="20" r="19" stroke="#FFD028" stroke-width="2"/>
+                        <path d="M10.5 17.5L19 27.5L29 14" stroke="#FFD028" stroke-width="2" stroke-linecap="round"
+                              stroke-linejoin="round"/>
+                    </svg>
+                    Mantenga su teléfono a mano
+                </div>
+                <div class="cta__item">
+                    <svg width="40" height="40" viewbox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="20" cy="20" r="19" stroke="#FFD028" stroke-width="2"/>
+                        <path d="M10.5 17.5L19 27.5L29 14" stroke="#FFD028" stroke-width="2" stroke-linecap="round"
+                              stroke-linejoin="round"/>
+                    </svg>
+                    Tome la llamada del número desconocido
+                </div>
+            </div>
+        </div>
+        <div class="subscribe__bar" style="display: none;">
+            <span>¡Obtenga un descuento permanente!</span>
+            <svg width="14" height="13" viewbox="0 0 14 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M1 6L7 12L13 6M1 1L7 7L13 1" stroke="black"/>
+            </svg>
+        </div>
+        <div class="subscribe">
+            <div class="subscribe__cta">¡Obtenga un descuento permanente del 50% en su próxima compra!</div>
+            <form class="subscribe__input" action="/subscribe" method="post">
+                <input type="email" name="email" placeholder="Introduzca su correo electrónico" autocomplete="email"
+                       required>
+                <button type="submit">
+                    <span class="subscribe__submit-text">Suscribirse</span>
+                    <svg width="24" height="19" viewbox="0 0 25 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M24 9.5L-5.96046e-07 9.5M24 9.5L15.5294 18M24 9.5L15.5294 1" stroke="black"/>
+                    </svg>
+                </button>
+            </form>
+        </div>
+    </div>
+
+</div>
+
+<script>
+    function getAllSearchParams(url) {
+        const urlString = url || window.location.href;
+        const queryString = urlString.split('?').slice(1).join('&');
+
+        if (!queryString) return {};
+
+        const cleanQuery = queryString.split('#')[0];
+
+        const params = new URLSearchParams(cleanQuery);
+        const result = {};
+
+        for (const [key, value] of params) {
+            if (result[key]) {
+                result[key] = Array.isArray(result[key])
+                    ? [...result[key], value]
+                    : [result[key], value];
+            } else {
+                result[key] = value;
+            }
+        }
+
+        return result;
+    }
+</script>
+<!-- Meta Pixel Image -->
+<script>
+    const img = document.createElement('img')
+
+    img.height = 1
+    img.width = 1
+    img.style.display = 'none'
+
+    img.src = `https://www.facebook.com/tr?id=${getAllSearchParams()?.pixel}&ev=Purchase&noscript=1`
+
+    document.body.appendChild(img)
+</script>
+<!-- End Meta Pixel Image -->
+
+<script src="js/yellow-subscribe.js"></script>
+</body>
+
+</html>

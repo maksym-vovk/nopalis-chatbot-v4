@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Andres Huaxpaltepec",
+      "colonia": "Cubitan de Dolores",
+      "postal_code": [
+        "71777"
+      ]
+    },
+    {
+      "city": "San Andres Huaxpaltepec",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "71771"
+      ]
+    },
+    {
+      "city": "San Andres Huaxpaltepec",
+      "colonia": "San Andres Huaxpaltepec",
+      "postal_code": [
+        "71770"
+      ]
+    }
+  ]
+}

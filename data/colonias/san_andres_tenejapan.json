@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "San Andres Tenejapan",
+      "colonia": "Encino Grande",
+      "postal_code": [
+        "94850"
+      ]
+    },
+    {
+      "city": "San Andres Tenejapan",
+      "colonia": "La Cumbre de San Andres",
+      "postal_code": [
+        "94850"
+      ]
+    },
+    {
+      "city": "San Andres Tenejapan",
+      "colonia": "Quiniatla",
+      "postal_code": [
+        "94850"
+      ]
+    },
+    {
+      "city": "San Andres Tenejapan",
+      "colonia": "San Andres Tenejapa",
+      "postal_code": [
+        "94850"
+      ]
+    },
+    {
+      "city": "San Andres Tenejapan",
+      "colonia": "Tierra Colorada",
+      "postal_code": [
+        "94850"
+      ]
+    }
+  ]
+}

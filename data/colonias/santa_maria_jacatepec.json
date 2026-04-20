@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "city": "Santa Maria Jacatepec",
+      "colonia": "Cerro Concha",
+      "postal_code": [
+        "68468"
+      ]
+    },
+    {
+      "city": "Santa Maria Jacatepec",
+      "colonia": "La Florida",
+      "postal_code": [
+        "68467"
+      ]
+    },
+    {
+      "city": "Santa Maria Jacatepec",
+      "colonia": "La Joya de Santa Maria Jacatepec",
+      "postal_code": [
+        "68466"
+      ]
+    },
+    {
+      "city": "Santa Maria Jacatepec",
+      "colonia": "Loma del Carmen",
+      "postal_code": [
+        "68467"
+      ]
+    },
+    {
+      "city": "Santa Maria Jacatepec",
+      "colonia": "Macedonio Alcala",
+      "postal_code": [
+        "68466"
+      ]
+    },
+    {
+      "city": "Santa Maria Jacatepec",
+      "colonia": "Santa Maria Jacatepec",
+      "postal_code": [
+        "68465"
+      ]
+    },
+    {
+      "city": "Santa Maria Jacatepec",
+      "colonia": "Vega del Sol",
+      "postal_code": [
+        "68465"
+      ]
+    }
+  ]
+}

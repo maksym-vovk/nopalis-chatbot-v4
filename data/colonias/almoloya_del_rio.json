@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Almoloya del Rio",
+      "colonia": "Almoloya del Rio",
+      "postal_code": [
+        "52540"
+      ]
+    },
+    {
+      "city": "Almoloya del Rio",
+      "colonia": "Campesina-Emiliano Zapata",
+      "postal_code": [
+        "52544"
+      ]
+    },
+    {
+      "city": "Almoloya del Rio",
+      "colonia": "La Puerta",
+      "postal_code": [
+        "52542"
+      ]
+    },
+    {
+      "city": "Almoloya del Rio",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "52540"
+      ]
+    }
+  ]
+}

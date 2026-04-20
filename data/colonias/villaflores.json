@@ -1,0 +1,565 @@
+{
+  "data": [
+    {
+      "city": "Villaflores",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "30478"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "30 de Septiembre",
+      "postal_code": [
+        "30478"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Agronomos Mexicanos",
+      "postal_code": [
+        "30491"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Almacenes",
+      "postal_code": [
+        "30479"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Bajial",
+      "postal_code": [
+        "30476"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "30485"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Bicentenario",
+      "postal_code": [
+        "30479"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Buena Suerte",
+      "postal_code": [
+        "30478"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Calzada Larga",
+      "postal_code": [
+        "30474"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Cristobal Obregon",
+      "postal_code": [
+        "30495"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "30471"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Delicias del Carmen",
+      "postal_code": [
+        "30483"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Dieciseis de Septiembre",
+      "postal_code": [
+        "30473"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Doctor Domingo Chanona",
+      "postal_code": [
+        "30492"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "El Brasil",
+      "postal_code": [
+        "30478"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "El Brasilito",
+      "postal_code": [
+        "30476"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "30488"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "30476"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "El Portillo",
+      "postal_code": [
+        "30488"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "El Zapotal",
+      "postal_code": [
+        "30474"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Esquipulas",
+      "postal_code": [
+        "30478"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "30472"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Frayles",
+      "postal_code": [
+        "30478"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Fraylescano",
+      "postal_code": [
+        "30479"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "30479"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Guaymas",
+      "postal_code": [
+        "30488"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Hermenegildo Galeana",
+      "postal_code": [
+        "30473"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Huanacaxtle",
+      "postal_code": [
+        "30479"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "30471"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Jesus Maria Garza",
+      "postal_code": [
+        "30484"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Joaquin Miguel Gutierrez",
+      "postal_code": [
+        "30486"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Josefa Ortiz de Dominguez",
+      "postal_code": [
+        "30491"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "La Calzada",
+      "postal_code": [
+        "30478"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "La Ceiba",
+      "postal_code": [
+        "30478"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "La Embajada",
+      "postal_code": [
+        "30476"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "La Fraylesca",
+      "postal_code": [
+        "30476"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "La Gironda",
+      "postal_code": [
+        "30479"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "La Gloria",
+      "postal_code": [
+        "30478"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "La Herradura",
+      "postal_code": [
+        "30478"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "La Popular",
+      "postal_code": [
+        "30476"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "30476"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Las Gardenias",
+      "postal_code": [
+        "30479"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "La Union",
+      "postal_code": [
+        "30478"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "30480"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Libertad Melchor Ocampo",
+      "postal_code": [
+        "30494"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "30498"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Los Fraylescanos",
+      "postal_code": [
+        "30479"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "30478"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Matias Castellanos",
+      "postal_code": [
+        "30476"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Matzumon",
+      "postal_code": [
+        "30476"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Miguel Hidalgo (Concepcion)",
+      "postal_code": [
+        "30470"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Nambiyugua",
+      "postal_code": [
+        "30476"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Nueva Esperanza",
+      "postal_code": [
+        "30478"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Nueva Ventura",
+      "postal_code": [
+        "30491"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Nuevo Mexico",
+      "postal_code": [
+        "30496"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Nuevo Milenio",
+      "postal_code": [
+        "30476"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Paso Trapichi",
+      "postal_code": [
+        "30476"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Progreso Agrario",
+      "postal_code": [
+        "30496"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Reforma",
+      "postal_code": [
+        "30479"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "30491"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Roblada Grande",
+      "postal_code": [
+        "30480"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "30478"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "30476"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "San Jose",
+      "postal_code": [
+        "30478"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "San Juan",
+      "postal_code": [
+        "30478"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "San Martin",
+      "postal_code": [
+        "30479"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "30479"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Santa Catarina",
+      "postal_code": [
+        "30476",
+        "30479"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Santa Cruz la Union",
+      "postal_code": [
+        "30479"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Santa Margarita",
+      "postal_code": [
+        "30478"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "30478"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Siglo XXI",
+      "postal_code": [
+        "30479"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Solidaridad",
+      "postal_code": [
+        "30479"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Tenochtitlan",
+      "postal_code": [
+        "30487"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Tierra y Libertad",
+      "postal_code": [
+        "30499"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Union y Progreso",
+      "postal_code": [
+        "30488"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "ursulo Galvan",
+      "postal_code": [
+        "30493"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Villaflores Centro",
+      "postal_code": [
+        "30475"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Villahermosa",
+      "postal_code": [
+        "30493"
+      ]
+    },
+    {
+      "city": "Villaflores",
+      "colonia": "Villa Hidalgo",
+      "postal_code": [
+        "30473"
+      ]
+    }
+  ]
+}

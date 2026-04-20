@@ -1,0 +1,397 @@
+{
+  "data": [
+    {
+      "city": "Tala",
+      "colonia": "Acacias",
+      "postal_code": [
+        "45310"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Ahuisculco",
+      "postal_code": [
+        "45330"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Alfredo V. Bonfil",
+      "postal_code": [
+        "45307"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Camichines",
+      "postal_code": [
+        "45303"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Camino Real",
+      "postal_code": [
+        "45306"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Castro Urdiales (Pacana)",
+      "postal_code": [
+        "45325"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Cuisillos",
+      "postal_code": [
+        "45320"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Cuspala",
+      "postal_code": [
+        "45341"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "El alamo",
+      "postal_code": [
+        "45305"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "El Carrizalito",
+      "postal_code": [
+        "45306"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "45310"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "45300"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "45307"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "El Ranchito (San Isidro)",
+      "postal_code": [
+        "45325"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "45310",
+        "45310"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "El Venado",
+      "postal_code": [
+        "45300"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Encinos",
+      "postal_code": [
+        "45306"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Gamboa",
+      "postal_code": [
+        "45308"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "45307"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "INFONAVIT Lagunitas",
+      "postal_code": [
+        "45308"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Ingenio de Tala",
+      "postal_code": [
+        "45308"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Jacarandas",
+      "postal_code": [
+        "45300"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Jardines del Valle",
+      "postal_code": [
+        "45307"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Jardines de San Javier",
+      "postal_code": [
+        "45307"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Jardines de Tala",
+      "postal_code": [
+        "45308"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "La Culebra",
+      "postal_code": [
+        "45340"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "La Estacion",
+      "postal_code": [
+        "45310"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "La Estancia",
+      "postal_code": [
+        "45306"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "La Estancia 2da. Seccion",
+      "postal_code": [
+        "45306"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "La Higuera",
+      "postal_code": [
+        "45303"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "La Higuerita",
+      "postal_code": [
+        "45303"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "La Mision",
+      "postal_code": [
+        "45305"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Las Navajas",
+      "postal_code": [
+        "45335"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Las Rosas",
+      "postal_code": [
+        "45307"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "La Villita",
+      "postal_code": [
+        "45345"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Libertad",
+      "postal_code": [
+        "45308"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Los Cerritos",
+      "postal_code": [
+        "45300"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "45307"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Los Maestros",
+      "postal_code": [
+        "45308"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Los Ruisenores",
+      "postal_code": [
+        "45314"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Manuel M Dieguez",
+      "postal_code": [
+        "45306"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Mazatepec",
+      "postal_code": [
+        "45340"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Milenio",
+      "postal_code": [
+        "45303"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Obrera",
+      "postal_code": [
+        "45308"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Parque Industrial King Way",
+      "postal_code": [
+        "45306"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Paseos del Sol",
+      "postal_code": [
+        "45303"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Puerta Grande",
+      "postal_code": [
+        "45308"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Rancho Solo el Rodeo",
+      "postal_code": [
+        "45340"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "San Antonio Mazatepec",
+      "postal_code": [
+        "45340"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "45308"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "San Ignacio de Carboneras",
+      "postal_code": [
+        "45349"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "San Isidro Mazatepec",
+      "postal_code": [
+        "45340"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "San Juan de los Arcos",
+      "postal_code": [
+        "45331"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Tala Centro",
+      "postal_code": [
+        "45300"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Tempisque",
+      "postal_code": [
+        "45300"
+      ]
+    },
+    {
+      "city": "Tala",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "45303"
+      ]
+    }
+  ]
+}

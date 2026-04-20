@@ -1,0 +1,307 @@
+{
+  "data": [
+    {
+      "city": "Chiautempan",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "90802"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Chalma",
+      "postal_code": [
+        "90804"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Constitucion",
+      "postal_code": [
+        "90806"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "De Fatima",
+      "postal_code": [
+        "90804"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Del Carmen",
+      "postal_code": [
+        "90805"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "El Alto",
+      "postal_code": [
+        "90807"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "El Llanito",
+      "postal_code": [
+        "90804"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Guadalupe Ixcotla",
+      "postal_code": [
+        "90810"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Industrial",
+      "postal_code": [
+        "90802"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Jose Agustin Arrieta",
+      "postal_code": [
+        "90805"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "La Concha",
+      "postal_code": [
+        "90805"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "90804"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "La Magdalena",
+      "postal_code": [
+        "90802"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "La Malinche",
+      "postal_code": [
+        "90807"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "90805"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Llanos de Tepetlapa",
+      "postal_code": [
+        "90802"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "90804"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "90802"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Lucero",
+      "postal_code": [
+        "90800"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Nueva",
+      "postal_code": [
+        "90806"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Panzacola",
+      "postal_code": [
+        "90805",
+        "90805"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Puente Picazo",
+      "postal_code": [
+        "90802"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Ramontla",
+      "postal_code": [
+        "90820"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Reforma",
+      "postal_code": [
+        "90805"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "San Bartolome Cuahuixmatlac",
+      "postal_code": [
+        "90820"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "San Onofre",
+      "postal_code": [
+        "90802"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "San Pedro Munoztla",
+      "postal_code": [
+        "90820"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "San Pedro Tlalcuapan de Nicolas Bravo",
+      "postal_code": [
+        "90820"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "San Pedro Xochiteotla",
+      "postal_code": [
+        "90820"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "San Rafael Tepatlaxco",
+      "postal_code": [
+        "90821"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "90805"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Santa Ana Chiautempan Centro",
+      "postal_code": [
+        "90800"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "90802"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Santa Cruz Guadalupe",
+      "postal_code": [
+        "90810"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Santa Cruz Tetela",
+      "postal_code": [
+        "90802"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Tepetlapa",
+      "postal_code": [
+        "90805"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Texcacoac",
+      "postal_code": [
+        "90806",
+        "90806"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Tlapacoyac",
+      "postal_code": [
+        "90803"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Villa de las Flores",
+      "postal_code": [
+        "90803"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Villas del Sabinal",
+      "postal_code": [
+        "90807"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Xaltantla",
+      "postal_code": [
+        "90800"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Xaxala",
+      "postal_code": [
+        "90806"
+      ]
+    },
+    {
+      "city": "Chiautempan",
+      "colonia": "Ximentla",
+      "postal_code": [
+        "90802"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Villa Talea de Castro",
+      "colonia": "Otatitlan de Morelos",
+      "postal_code": [
+        "68822"
+      ]
+    },
+    {
+      "city": "Villa Talea de Castro",
+      "colonia": "San Bartolome Yatoni",
+      "postal_code": [
+        "68821"
+      ]
+    },
+    {
+      "city": "Villa Talea de Castro",
+      "colonia": "Santa Gertrudis",
+      "postal_code": [
+        "68820"
+      ]
+    },
+    {
+      "city": "Villa Talea de Castro",
+      "colonia": "Villa Talea de Castro",
+      "postal_code": [
+        "68820"
+      ]
+    }
+  ]
+}

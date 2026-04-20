@@ -1,0 +1,754 @@
+{
+  "data": [
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Agostadero (San Jose Agostadero)",
+      "postal_code": [
+        "50357"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Agua Limpia",
+      "postal_code": [
+        "50333"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Barrancas",
+      "postal_code": [
+        "50314"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Boshi Chiquito",
+      "postal_code": [
+        "50326"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Boshi Grande",
+      "postal_code": [
+        "50323"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Boshindo",
+      "postal_code": [
+        "50333"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Boti (Boti Agostadero)",
+      "postal_code": [
+        "50350"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Botidi",
+      "postal_code": [
+        "50310"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Bovini",
+      "postal_code": [
+        "50314"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "50314"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Canada del Gallo",
+      "postal_code": [
+        "50353"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Candeje",
+      "postal_code": [
+        "50343"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Cerrito de Tixmadeje",
+      "postal_code": [
+        "50340"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Chanteje",
+      "postal_code": [
+        "50335"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Conejeras",
+      "postal_code": [
+        "50354"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Constituyentes",
+      "postal_code": [
+        "50303"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Dateje",
+      "postal_code": [
+        "50313"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Deshpe",
+      "postal_code": [
+        "50333"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Detina",
+      "postal_code": [
+        "50344"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Detina (San Antonio Detina)",
+      "postal_code": [
+        "50345"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Dongu Barrio Dos",
+      "postal_code": [
+        "50310"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Dongu Barrio Uno",
+      "postal_code": [
+        "50345"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Dongu (Dongu Centro)",
+      "postal_code": [
+        "50345"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Dongu Puerto",
+      "postal_code": [
+        "50345"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Doxteje Barrio II",
+      "postal_code": [
+        "50343"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Doxteje Barrio Primero",
+      "postal_code": [
+        "50343"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Doxteje Centro",
+      "postal_code": [
+        "50343"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "El Capulin (Barrio el Capulin la Loma)",
+      "postal_code": [
+        "50355"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "El Ermitano",
+      "postal_code": [
+        "50344"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "El Medrano",
+      "postal_code": [
+        "50334"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "El Nogal",
+      "postal_code": [
+        "50306"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "El Pedregal de Tixmadeje",
+      "postal_code": [
+        "50343"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "El Triangulo",
+      "postal_code": [
+        "50300"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Endeje",
+      "postal_code": [
+        "50303"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Esdoca Barrio I",
+      "postal_code": [
+        "50310"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Esdoca (Esdoca Centro)",
+      "postal_code": [
+        "50310"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Gando",
+      "postal_code": [
+        "50356"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Ganzda",
+      "postal_code": [
+        "50313"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "50340"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Hacienda Toto",
+      "postal_code": [
+        "50313"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Hermosa Provincia",
+      "postal_code": [
+        "50343"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Hondiga",
+      "postal_code": [
+        "50333"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Huamango (La Mesa de San Miguel Huamango)",
+      "postal_code": [
+        "50345"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Independencia",
+      "postal_code": [
+        "50305"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Juando",
+      "postal_code": [
+        "50357"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "La Camelia",
+      "postal_code": [
+        "50305"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "La Caridad",
+      "postal_code": [
+        "50326"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "La Cumbre",
+      "postal_code": [
+        "50310"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "50337"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "La Estancia Sector I",
+      "postal_code": [
+        "50335"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "La Estancia Sector II",
+      "postal_code": [
+        "50335"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "La Florida",
+      "postal_code": [
+        "50344"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "La Huerta",
+      "postal_code": [
+        "50314"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "50336"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "La Loma (Santa Maria la Loma)",
+      "postal_code": [
+        "50355"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "La Manga",
+      "postal_code": [
+        "50324"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "La Nopalera",
+      "postal_code": [
+        "50350"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "La Palma",
+      "postal_code": [
+        "50344"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "La Penita",
+      "postal_code": [
+        "50357"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "50343"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Las Arenas (San Agustin)",
+      "postal_code": [
+        "50315"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Las Chivas (El Cerro)",
+      "postal_code": [
+        "50335"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Las Golondrinas",
+      "postal_code": [
+        "50314"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Las Mangas",
+      "postal_code": [
+        "50356"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "50337"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Las Palomas",
+      "postal_code": [
+        "50314"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Las Trojes",
+      "postal_code": [
+        "50315"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "La Teresa (Santa Teresa)",
+      "postal_code": [
+        "50354"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "La Venta (Barrio la Venta)",
+      "postal_code": [
+        "50325"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Loma de Enmedio",
+      "postal_code": [
+        "50353"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Loma del Fresno",
+      "postal_code": [
+        "50357"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Loma de San angel",
+      "postal_code": [
+        "50336"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "50313"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Los Charcos",
+      "postal_code": [
+        "50357"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Los Pilares",
+      "postal_code": [
+        "50315"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "50304"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "50350"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Los Toriles",
+      "postal_code": [
+        "50356"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Mado Sector I",
+      "postal_code": [
+        "50324"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Mado Sector II",
+      "postal_code": [
+        "50315"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Manuel Hinojosa",
+      "postal_code": [
+        "50303"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Muyteje",
+      "postal_code": [
+        "50354"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "50305"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Pathe",
+      "postal_code": [
+        "50333"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Penasco de Dios",
+      "postal_code": [
+        "50300"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Pueblo Nuevo",
+      "postal_code": [
+        "50337"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Puentecillas",
+      "postal_code": [
+        "50353"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "50306"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Rincon de Juando",
+      "postal_code": [
+        "50353"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Rincon de San Francisco Shaxni",
+      "postal_code": [
+        "50353"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "San Agustin la Loma",
+      "postal_code": [
+        "50355"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "San Antonio las Palmas",
+      "postal_code": [
+        "50324"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "San Francisco Shaxni",
+      "postal_code": [
+        "50357",
+        "50357"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "San Ildefonso (San Ildefonso Yolotepec)",
+      "postal_code": [
+        "50326"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "San Jose Bocto",
+      "postal_code": [
+        "50336"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "San Juanico Sector I",
+      "postal_code": [
+        "50325"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "San Juanico Sector II",
+      "postal_code": [
+        "50325"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "San Nicolas Acambay",
+      "postal_code": [
+        "50325"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "San Pedro de los Metates",
+      "postal_code": [
+        "50330"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Santa Maria las Arenas",
+      "postal_code": [
+        "50315"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Santa Maria las Arenas Dos",
+      "postal_code": [
+        "50315"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Tixmadeje",
+      "postal_code": [
+        "50344"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Tixmadeje Chiquito",
+      "postal_code": [
+        "50343"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Tixmadeje Grande Barrio II",
+      "postal_code": [
+        "50343"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Tixmadeje Grande (Santa Maria Tixmadeje)",
+      "postal_code": [
+        "50343"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Valle de los Espejos",
+      "postal_code": [
+        "50306"
+      ]
+    },
+    {
+      "city": "Acambay de Ruiz Castaneda",
+      "colonia": "Villa de Acambay de Ruiz Castaneda Centro",
+      "postal_code": [
+        "50300"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,866 @@
+{
+  "data": [
+    {
+      "city": "Guadalcazar",
+      "colonia": "abrego",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Aguaje de Sanchez",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Andana",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "78884"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Cantarranas",
+      "postal_code": [
+        "78870"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Charco Blanco",
+      "postal_code": [
+        "78886"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Charco Cercado",
+      "postal_code": [
+        "78880"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Colonia Agricola San Jose",
+      "postal_code": [
+        "78884"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Colonia Menonita del Huizache",
+      "postal_code": [
+        "78880"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Crucero de Charco Cercado (El Parador)",
+      "postal_code": [
+        "78880"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Crucero la Polvora",
+      "postal_code": [
+        "78897"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Crucero la Presita (Tanque la Presita)",
+      "postal_code": [
+        "78887"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Crucero Noria de las Flores",
+      "postal_code": [
+        "78887"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Crucero Pozas de Santa Ana",
+      "postal_code": [
+        "78887"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Cuajimalpa",
+      "postal_code": [
+        "78880"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Domingo Gamez",
+      "postal_code": [
+        "78894"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "El Aguaje de Garcia",
+      "postal_code": [
+        "78886"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "El Anteojo",
+      "postal_code": [
+        "78897"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "El Barrial",
+      "postal_code": [
+        "78897"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "El Fraile",
+      "postal_code": [
+        "78890"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "El Huaricho",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "El Huizache",
+      "postal_code": [
+        "78880"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "El Jaujal",
+      "postal_code": [
+        "78894"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "El Jicote",
+      "postal_code": [
+        "78895"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "El Milagro de Guadalupe",
+      "postal_code": [
+        "78893"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "El Murcielago",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "El Oro",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "El Paisano",
+      "postal_code": [
+        "78895"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "El Plan",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "El Puerto de la Clavellina",
+      "postal_code": [
+        "78894"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "El Quelital",
+      "postal_code": [
+        "78884"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "78887"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "El Refugio del Amparito",
+      "postal_code": [
+        "78883"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "El Terrero de los Posadas",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "El Tulillo",
+      "postal_code": [
+        "78890"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Entronque de Guadalcazar",
+      "postal_code": [
+        "78886"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Entronque de Matehuala (El Huizache)",
+      "postal_code": [
+        "78880"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Estanque Blanco",
+      "postal_code": [
+        "78893"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Guadalcazar",
+      "postal_code": [
+        "78870"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "La Boquilla",
+      "postal_code": [
+        "78890"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "La Campana",
+      "postal_code": [
+        "78887"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "La Cieneguilla (Jose Ubaldo Garcia Nieto)",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "La Esperanza (Nunez)",
+      "postal_code": [
+        "78887"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "La Estacada",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Laguna de Gerardo",
+      "postal_code": [
+        "78887"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "La Hincada",
+      "postal_code": [
+        "78884"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "La Huerta de los Conches",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "La Joya de la Laja",
+      "postal_code": [
+        "78894"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "La Media Nega",
+      "postal_code": [
+        "78890"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "La Naranjita",
+      "postal_code": [
+        "78890"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "La Negrita",
+      "postal_code": [
+        "78887"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "La Noria de las Flores",
+      "postal_code": [
+        "78887"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "La Nueva Jerusalen (La Borrega)",
+      "postal_code": [
+        "78887"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "La Palapa",
+      "postal_code": [
+        "78897"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "La Pedrera",
+      "postal_code": [
+        "78880"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "La Polvora",
+      "postal_code": [
+        "78897"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Las Lagunas",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Las Negritas",
+      "postal_code": [
+        "78883"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Las Trojas (San Miguel)",
+      "postal_code": [
+        "78886"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "La Tapada",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "78887"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "La Ventana",
+      "postal_code": [
+        "78896"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "La Verdolaga",
+      "postal_code": [
+        "78880"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "La Yerbabuena",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Los Amoles",
+      "postal_code": [
+        "78880"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Los angeles Numero Dos",
+      "postal_code": [
+        "78894"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Los angeles Numero Uno",
+      "postal_code": [
+        "78894"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Los Anteojos",
+      "postal_code": [
+        "78895"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "78886"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Los Torres [Restaurante]",
+      "postal_code": [
+        "78897"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Los Tres Reales",
+      "postal_code": [
+        "78897"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Minas de Plata",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Norias del Refugio",
+      "postal_code": [
+        "78897"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Nunez",
+      "postal_code": [
+        "78887"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Palos Altos",
+      "postal_code": [
+        "78886"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Peyote",
+      "postal_code": [
+        "78887"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Potreritos",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Potrero de los Sanchez",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Potrero de Pinedas",
+      "postal_code": [
+        "78886"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Potrero San Julian",
+      "postal_code": [
+        "78897"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Pozas de Santa Ana",
+      "postal_code": [
+        "78887"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Pozo Colorado",
+      "postal_code": [
+        "78896"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Pozo de Acuna",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Presa de Guadalupe",
+      "postal_code": [
+        "78883"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Presa el Pinto",
+      "postal_code": [
+        "78894"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Presita del Tepetate",
+      "postal_code": [
+        "78896"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Progreso",
+      "postal_code": [
+        "78883"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Puerta de Jesus Maria (La Rosita)",
+      "postal_code": [
+        "78890"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Puerto de las Matianas",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Ranchito Grande (La Loma)",
+      "postal_code": [
+        "78894"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Rancho el Castillo",
+      "postal_code": [
+        "78887"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Rancho la Cieneguilla",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "78895"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Realejo",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Rincon de Santa Elena",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "78883"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "San Antonio del Tulillo",
+      "postal_code": [
+        "78890"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "San Antonio de Trojes",
+      "postal_code": [
+        "78883"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "78897"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "San Cristobal",
+      "postal_code": [
+        "78886"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "San Francisco de los Toros",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "San Francisco del Tulillo",
+      "postal_code": [
+        "78890"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "San Gregorio",
+      "postal_code": [
+        "78890"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "San Ignacio",
+      "postal_code": [
+        "78890"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "78885",
+        "78887"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "San Jose de Cervantes",
+      "postal_code": [
+        "78886"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "San Jose de las Flores",
+      "postal_code": [
+        "78880"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "San Juan sin Agua",
+      "postal_code": [
+        "78880"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "San Martin (San Martin del Tanquito)",
+      "postal_code": [
+        "78890"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "San Mauricio (La Carbonera)",
+      "postal_code": [
+        "78893"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "San Miguel (El Llano)",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "San Nicolas Tolentino",
+      "postal_code": [
+        "78886"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "78873"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "San Pedro el Alto",
+      "postal_code": [
+        "78886"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "San Rafael de los Nietos",
+      "postal_code": [
+        "78884"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Santa Maria del Tecomate",
+      "postal_code": [
+        "78887"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "78885"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Santa Rita del Rucio",
+      "postal_code": [
+        "78897"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "78883"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "San Vicente",
+      "postal_code": [
+        "78895"
+      ]
+    },
+    {
+      "city": "Guadalcazar",
+      "colonia": "Soledad de la Biznaga",
+      "postal_code": [
+        "78890"
+      ]
+    }
+  ]
+}

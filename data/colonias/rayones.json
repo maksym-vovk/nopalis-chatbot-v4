@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Rayones",
+      "colonia": "Ignacio Zaragoza (El Barreal)",
+      "postal_code": [
+        "67680"
+      ]
+    },
+    {
+      "city": "Rayones",
+      "colonia": "Jose Maria Morelos (Santa Rosa)",
+      "postal_code": [
+        "67670"
+      ]
+    },
+    {
+      "city": "Rayones",
+      "colonia": "Pedro Carrizales",
+      "postal_code": [
+        "67690"
+      ]
+    },
+    {
+      "city": "Rayones",
+      "colonia": "Rayones",
+      "postal_code": [
+        "67650"
+      ]
+    }
+  ]
+}

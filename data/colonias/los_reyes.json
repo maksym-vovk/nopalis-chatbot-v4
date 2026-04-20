@@ -1,0 +1,708 @@
+{
+  "data": [
+    {
+      "city": "Los Reyes",
+      "colonia": "Agua Blanca",
+      "postal_code": [
+        "60324"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Altavista",
+      "postal_code": [
+        "60378"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Ampliacion los Manantiales",
+      "postal_code": [
+        "60376"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Atapan",
+      "postal_code": [
+        "60420"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Atlanca",
+      "postal_code": [
+        "95061"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Brinco del Diablo",
+      "postal_code": [
+        "60373"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Camelinas",
+      "postal_code": [
+        "60393"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Camino Real",
+      "postal_code": [
+        "60377"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Carlos Galvez Betancourt",
+      "postal_code": [
+        "60370"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Centro",
+      "postal_code": [
+        "60300"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Chaniro (Xhaniro)",
+      "postal_code": [
+        "60413"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Cheratillo",
+      "postal_code": [
+        "60423"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Cherato",
+      "postal_code": [
+        "60433"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Del Valle",
+      "postal_code": [
+        "60390"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Dieciocho de Marzo",
+      "postal_code": [
+        "60433"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "El Chorrito",
+      "postal_code": [
+        "60365"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "El Manantial",
+      "postal_code": [
+        "60376"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "El Molino",
+      "postal_code": [
+        "60364"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "El Sol",
+      "postal_code": [
+        "60393"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "60390"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Erendira",
+      "postal_code": [
+        "60385"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Ferrocarril",
+      "postal_code": [
+        "60385"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "60378"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Fray Juan de San Miguel",
+      "postal_code": [
+        "60360"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Fundacion los Reyes 1594",
+      "postal_code": [
+        "60378"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Guadalajarita",
+      "postal_code": [
+        "60379"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Guadalupana",
+      "postal_code": [
+        "60374"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Heroe de Nacozari",
+      "postal_code": [
+        "60394"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Imbaracuaro",
+      "postal_code": [
+        "60421"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Independencia",
+      "postal_code": [
+        "60374"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Jardin",
+      "postal_code": [
+        "60350"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Jardines del Paraiso",
+      "postal_code": [
+        "60364"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Jardines de San Gabriel",
+      "postal_code": [
+        "60364"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Jardines de San Juan",
+      "postal_code": [
+        "60330"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "J. Jesus Diaz Tzirio",
+      "postal_code": [
+        "60410"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "La Calabaza",
+      "postal_code": [
+        "60403"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "La Concordia",
+      "postal_code": [
+        "60378"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "La Higuerita (Colonia San Rafael)",
+      "postal_code": [
+        "60425"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "La Loma",
+      "postal_code": [
+        "60393",
+        "60425"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "La Minzita",
+      "postal_code": [
+        "60393"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "La Palma",
+      "postal_code": [
+        "60433"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "La Paz",
+      "postal_code": [
+        "60320"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "60376"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Las Fuentes",
+      "postal_code": [
+        "60380"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Las Zirandas",
+      "postal_code": [
+        "60385"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "60410"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "La Tortuguita",
+      "postal_code": [
+        "60394"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "60340"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "La Zarzamora",
+      "postal_code": [
+        "60413"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Llanos de San Gabriel",
+      "postal_code": [
+        "60373"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Lomas de San Juan",
+      "postal_code": [
+        "60330"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Los Arcos",
+      "postal_code": [
+        "60394"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Los Limones",
+      "postal_code": [
+        "60400"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Los Mangos",
+      "postal_code": [
+        "60370"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Los Palillos",
+      "postal_code": [
+        "60400"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "60364"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Los Pozos (Tzirio Chico)",
+      "postal_code": [
+        "60410"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Los Purengues",
+      "postal_code": [
+        "60330"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Los Tejones",
+      "postal_code": [
+        "60401"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Manantiales",
+      "postal_code": [
+        "60376"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Mexico",
+      "postal_code": [
+        "60384"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Monteverde",
+      "postal_code": [
+        "60379"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Nueva Erendira",
+      "postal_code": [
+        "60385"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Oasis de Itzicuaro",
+      "postal_code": [
+        "60373"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Oruscato",
+      "postal_code": [
+        "60422"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Pamatacuaro",
+      "postal_code": [
+        "60430"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Praderas de Itzicuaro",
+      "postal_code": [
+        "60390"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Privada Salazar",
+      "postal_code": [
+        "60373"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Purembe",
+      "postal_code": [
+        "60364"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Querendaro",
+      "postal_code": [
+        "60414"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Quinta Real",
+      "postal_code": [
+        "60380"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Reyes",
+      "postal_code": [
+        "95060"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Salazar y Abasolo",
+      "postal_code": [
+        "60364"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "San Antonio Tierras Blancas",
+      "postal_code": [
+        "60430"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "San Benito",
+      "postal_code": [
+        "60434"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "San Gabriel",
+      "postal_code": [
+        "60364",
+        "60373"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "San Gabriel I",
+      "postal_code": [
+        "60364"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "San Gabriel II",
+      "postal_code": [
+        "60364"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "San Gabriel III",
+      "postal_code": [
+        "60364"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "60430"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "San Jose",
+      "postal_code": [
+        "60384"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "San Jose de Gracia",
+      "postal_code": [
+        "60432"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "San Juan de Dios",
+      "postal_code": [
+        "60330"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "San Luis (Suren)",
+      "postal_code": [
+        "60434"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "60431"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "60424"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "60400"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "60322"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "60360",
+        "60435"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Sicuicho",
+      "postal_code": [
+        "60431"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Sindicato Nacional Azucarero",
+      "postal_code": [
+        "60370",
+        "60373"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Taapan (Tapan)",
+      "postal_code": [
+        "60435"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Tlaquetzala",
+      "postal_code": [
+        "95060"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Urengüitiro (San Martin)",
+      "postal_code": [
+        "60430"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Verde Valle",
+      "postal_code": [
+        "60394"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Villa Oriental",
+      "postal_code": [
+        "60373"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Villa Paraiso",
+      "postal_code": [
+        "60377"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Xirango de Pamatacuaro (Sombra Alegre)",
+      "postal_code": [
+        "60434"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Zacan",
+      "postal_code": [
+        "60432"
+      ]
+    },
+    {
+      "city": "Los Reyes",
+      "colonia": "Zoquiapa",
+      "postal_code": [
+        "95064"
+      ]
+    }
+  ]
+}

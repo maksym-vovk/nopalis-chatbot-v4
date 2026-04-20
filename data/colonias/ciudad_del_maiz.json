@@ -1,0 +1,1083 @@
+{
+  "data": [
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Agua Nueva del Norte",
+      "postal_code": [
+        "79356"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Agua Zarca",
+      "postal_code": [
+        "79334"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "angel Garcia",
+      "postal_code": [
+        "79353"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Aquiles Serdan",
+      "postal_code": [
+        "79334"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Aquiles Serdan (Celerino Ortega)",
+      "postal_code": [
+        "79335"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "79323"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Barbarita",
+      "postal_code": [
+        "79334"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "79334"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Buenavista y Olivo",
+      "postal_code": [
+        "79354"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "79324"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Callejon",
+      "postal_code": [
+        "79324"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Campamento SEMARNAT",
+      "postal_code": [
+        "79353"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Cantarranas (El Charco Blanco)",
+      "postal_code": [
+        "79346"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Carrizal Grande",
+      "postal_code": [
+        "79337"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Catalina Navarro Hernandez",
+      "postal_code": [
+        "79333"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Celestria",
+      "postal_code": [
+        "79334"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Ciudad del Maiz Centro",
+      "postal_code": [
+        "79320"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Colonia Agricola Magdaleno Cedillo",
+      "postal_code": [
+        "79350"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Colonia Agricola Ollitas de las Vacas",
+      "postal_code": [
+        "79354"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Colonia Alvaro Obregon",
+      "postal_code": [
+        "79330"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Colonia Carlos Diez Gutierrez (La Italiana)",
+      "postal_code": [
+        "79334"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Colonia Lagunillas",
+      "postal_code": [
+        "79333"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Colonia la Libertad",
+      "postal_code": [
+        "79343"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Colonia la Morita",
+      "postal_code": [
+        "79343"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Del Pueblo",
+      "postal_code": [
+        "79325"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Derramaderos",
+      "postal_code": [
+        "79326"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Ejido San Jose",
+      "postal_code": [
+        "79333"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Ejido San Jose (Sotero Alvizu)",
+      "postal_code": [
+        "79333"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "El Capulin",
+      "postal_code": [
+        "79354"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "El Custodio",
+      "postal_code": [
+        "79347"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "El Divisadero (La Garra)",
+      "postal_code": [
+        "79340"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "El Duro",
+      "postal_code": [
+        "79340"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "El Fuereno",
+      "postal_code": [
+        "79333"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "El Jefe",
+      "postal_code": [
+        "79340"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "El Nogal",
+      "postal_code": [
+        "79353"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "El Oasis",
+      "postal_code": [
+        "79344"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "El Olivo",
+      "postal_code": [
+        "79354"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "El Oregano",
+      "postal_code": [
+        "79325"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "79334"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "El Pozo",
+      "postal_code": [
+        "79340"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "El Puertecito",
+      "postal_code": [
+        "79353"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "El Puerto Santa Gertrudis",
+      "postal_code": [
+        "79330"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "El Senegal",
+      "postal_code": [
+        "79323"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "El Tepeyac",
+      "postal_code": [
+        "79357"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "El Tigrito",
+      "postal_code": [
+        "79336"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "El Tomate",
+      "postal_code": [
+        "79344"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "El Toro",
+      "postal_code": [
+        "79336"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "El Venadito",
+      "postal_code": [
+        "79336"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "El Vergel",
+      "postal_code": [
+        "79344"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Estacion las Tablas",
+      "postal_code": [
+        "79340"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Estacion Microondas",
+      "postal_code": [
+        "79335"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Fermin Ortiz",
+      "postal_code": [
+        "79344"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Francia Chica",
+      "postal_code": [
+        "79353"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Francia Grande",
+      "postal_code": [
+        "79353"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Guadalupe Garcia",
+      "postal_code": [
+        "79333"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Humberto Martinez Castillo",
+      "postal_code": [
+        "79344"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Jacarandas",
+      "postal_code": [
+        "79323"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Jorge Ferretiz",
+      "postal_code": [
+        "79334"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Jose angel Anguiano",
+      "postal_code": [
+        "79333"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "La Alameda",
+      "postal_code": [
+        "79325"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "La Barranca",
+      "postal_code": [
+        "79353"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "La Bonita",
+      "postal_code": [
+        "79346"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "La Calzada de San Rafael",
+      "postal_code": [
+        "79344"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "La Cartuja",
+      "postal_code": [
+        "79344"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "La Chuparrosa",
+      "postal_code": [
+        "79336"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "La Cruz Verde",
+      "postal_code": [
+        "79333"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "La Cuesta (Ejido Ganadero Papagayos)",
+      "postal_code": [
+        "79344"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "La Deportiva",
+      "postal_code": [
+        "79323"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "La Encarnacion",
+      "postal_code": [
+        "79346"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "La Guacamaya (La Lagunita)",
+      "postal_code": [
+        "79350"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Laguna Seca",
+      "postal_code": [
+        "79355"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "La Loma de Dios",
+      "postal_code": [
+        "79340"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "La Majada",
+      "postal_code": [
+        "79340"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "La Manzana (Ampliacion Buenavista y Olivo)",
+      "postal_code": [
+        "79354"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "La Morenita",
+      "postal_code": [
+        "79356"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "La Noria",
+      "postal_code": [
+        "79343"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "La Pendencia",
+      "postal_code": [
+        "79350"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "La Pista",
+      "postal_code": [
+        "79324"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "La Roncha",
+      "postal_code": [
+        "79337"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Las Alazanas",
+      "postal_code": [
+        "79324"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Las Chinampas",
+      "postal_code": [
+        "79340"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Las Gavias",
+      "postal_code": [
+        "79337"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Las Lomas",
+      "postal_code": [
+        "79323"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "79323"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Las Mesas",
+      "postal_code": [
+        "79353"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Las Mesas de Don Luis",
+      "postal_code": [
+        "79333"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Las Moras",
+      "postal_code": [
+        "79354"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Las Tortugas (Las Moras)",
+      "postal_code": [
+        "79354"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "La Victoria",
+      "postal_code": [
+        "79337"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Llanitos",
+      "postal_code": [
+        "79337"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Los avalos",
+      "postal_code": [
+        "79334"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Los Charcos del Poniente",
+      "postal_code": [
+        "79333"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Los Pilares (El Encinal)",
+      "postal_code": [
+        "79334"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Maria Esther Olvera",
+      "postal_code": [
+        "79333"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Memela",
+      "postal_code": [
+        "79354"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Miguel Olvera Ramirez",
+      "postal_code": [
+        "79337"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Milpillas",
+      "postal_code": [
+        "79334"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Montebello",
+      "postal_code": [
+        "79355"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Nuevo Centro de Poblacion Ejidal Plan de San Luis",
+      "postal_code": [
+        "79347"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Nuevo Centro de Poblacion Ganadero Papagayos",
+      "postal_code": [
+        "79336"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Nuevo San Rafael",
+      "postal_code": [
+        "79346"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "79336"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Palomas",
+      "postal_code": [
+        "79345"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Papagayos (Ejido Papagayos)",
+      "postal_code": [
+        "79336"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Pedregal",
+      "postal_code": [
+        "79326"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Pedro Antonio de los Santos (Los Huizaches)",
+      "postal_code": [
+        "79340"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Piedra Parada",
+      "postal_code": [
+        "79350"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Potreritos de los Llanos",
+      "postal_code": [
+        "79337"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Puerta Ojo de Leon",
+      "postal_code": [
+        "79334"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Puerto de Lobos",
+      "postal_code": [
+        "79350"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Puerto del Zamandoque",
+      "postal_code": [
+        "79354"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Puerto de San Juan de Dios",
+      "postal_code": [
+        "79357"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Rancho de la Cruz",
+      "postal_code": [
+        "79337"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Rancho Dos Hermanas (La Canada)",
+      "postal_code": [
+        "79333"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Rancho el Setenta y Tres (Miguel Jimenez)",
+      "postal_code": [
+        "79335"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Rancho Escondido (Lomas de Chora)",
+      "postal_code": [
+        "79343"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Rancho Kansan",
+      "postal_code": [
+        "79335"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Rancho la Gloria",
+      "postal_code": [
+        "79350"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Rancho la Palma",
+      "postal_code": [
+        "79344"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Rancho las Azucenas",
+      "postal_code": [
+        "79333"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Rancho los avalos",
+      "postal_code": [
+        "79353"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "79337"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Rancho San Jose",
+      "postal_code": [
+        "79350"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Rancho San Miguel",
+      "postal_code": [
+        "79353"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Rancho Santa Margarita",
+      "postal_code": [
+        "79335"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Rancho San Tiburcio",
+      "postal_code": [
+        "79344"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Rincon Seco",
+      "postal_code": [
+        "79355"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "79350"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "San Antonio del Toro (Cabeza del Toro)",
+      "postal_code": [
+        "79347"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "San Francisco (La Garifa)",
+      "postal_code": [
+        "79346"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "San Gabriel",
+      "postal_code": [
+        "79337"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "San Ignacio",
+      "postal_code": [
+        "79346"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "San Jose",
+      "postal_code": [
+        "79326"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "San Juan del Llano",
+      "postal_code": [
+        "79350"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "San Juan del Meco",
+      "postal_code": [
+        "79354"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "San Luis (Las Pinturas)",
+      "postal_code": [
+        "79346"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "San Martin",
+      "postal_code": [
+        "79356"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "San Mateo",
+      "postal_code": [
+        "79346"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "San Rafael Carretera",
+      "postal_code": [
+        "79356"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "San Rafael Matriz",
+      "postal_code": [
+        "79346"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "79346"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "79343"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "79340",
+        "79344"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "San Tiburcio",
+      "postal_code": [
+        "79344"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Santo Nino",
+      "postal_code": [
+        "79323"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Sartenejo",
+      "postal_code": [
+        "79347"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Seccion Setenta y Nueve los Anteojos",
+      "postal_code": [
+        "79340"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Tanque de Jimenez",
+      "postal_code": [
+        "79335"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Tanque de los angeles (El Venadito)",
+      "postal_code": [
+        "79343"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Tomas Ceballos",
+      "postal_code": [
+        "79343"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Valle del Maiz",
+      "postal_code": [
+        "79323"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Villa Antiguo",
+      "postal_code": [
+        "79327"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Villa de San Jose",
+      "postal_code": [
+        "79326"
+      ]
+    },
+    {
+      "city": "Ciudad del Maiz",
+      "colonia": "Zamachihue",
+      "postal_code": [
+        "79350"
+      ]
+    }
+  ]
+}

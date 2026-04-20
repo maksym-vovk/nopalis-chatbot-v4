@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Coatzingo",
+      "colonia": "Coatzingo",
+      "postal_code": [
+        "74650"
+      ]
+    },
+    {
+      "city": "Coatzingo",
+      "colonia": "La Matanza",
+      "postal_code": [
+        "74656"
+      ]
+    },
+    {
+      "city": "Coatzingo",
+      "colonia": "San Jose",
+      "postal_code": [
+        "74650"
+      ]
+    },
+    {
+      "city": "Coatzingo",
+      "colonia": "Zaragoza",
+      "postal_code": [
+        "74653"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1663 @@
+{
+  "data": [
+    {
+      "city": "Carmen",
+      "colonia": "18 de Marzo",
+      "postal_code": [
+        "24157",
+        "24314"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "1 de Mayo (Playon)",
+      "postal_code": [
+        "24110"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "24130"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "23 de Julio",
+      "postal_code": [
+        "24155"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "2 de Marzo",
+      "postal_code": [
+        "24316"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Aeropuerto",
+      "postal_code": [
+        "24119"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Allende Pejelagarto",
+      "postal_code": [
+        "24317"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Anonal",
+      "postal_code": [
+        "24310"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Arcila",
+      "postal_code": [
+        "24154"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Asa Poniente",
+      "postal_code": [
+        "24169"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Atasta",
+      "postal_code": [
+        "24326"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Aviacion",
+      "postal_code": [
+        "24170"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Banco de Piedra",
+      "postal_code": [
+        "24300"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Belisario Dominguez",
+      "postal_code": [
+        "24150",
+        "24317"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Bella Palizada",
+      "postal_code": [
+        "24320"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "24180",
+        "24300"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Benito Juarez 2",
+      "postal_code": [
+        "24180"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Bicentenario",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Bivalbo",
+      "postal_code": [
+        "24158"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Boca Nueva",
+      "postal_code": [
+        "24327"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Boqueron del Palmar",
+      "postal_code": [
+        "24116"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "24155"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Burocrata",
+      "postal_code": [
+        "24160"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Calax",
+      "postal_code": [
+        "24310"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Caleta",
+      "postal_code": [
+        "24110"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Camaroneros",
+      "postal_code": [
+        "24169"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Cantarell [Planta de Nitrogeno]",
+      "postal_code": [
+        "24325"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Canterias",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Caracol",
+      "postal_code": [
+        "24188"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Carlos Quinto",
+      "postal_code": [
+        "24316"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Centauro del Norte",
+      "postal_code": [
+        "24317"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "CERESO Ciudad del Carmen",
+      "postal_code": [
+        "24108"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Chekubul",
+      "postal_code": [
+        "24313"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Chic-bul",
+      "postal_code": [
+        "24313"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Chivoja",
+      "postal_code": [
+        "24313"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Cinco de Mayo",
+      "postal_code": [
+        "24317"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Ciudad del Carmen Centro",
+      "postal_code": [
+        "24100"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Ciudad del Carmen (Ciudad del Carmen)",
+      "postal_code": [
+        "24119"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Club Residencial Azul",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Colonia A Lopez Mateos",
+      "postal_code": [
+        "24313"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Compositores",
+      "postal_code": [
+        "24154"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Conquista Campesina",
+      "postal_code": [
+        "24317"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Constelaciones",
+      "postal_code": [
+        "24158"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Constelaciones II",
+      "postal_code": [
+        "24158"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "24170"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "El Aguacatal",
+      "postal_code": [
+        "24317"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "24317"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "El Chinal",
+      "postal_code": [
+        "24317"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "El Dorado",
+      "postal_code": [
+        "24156"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Electricistas",
+      "postal_code": [
+        "24120"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "El Encanto",
+      "postal_code": [
+        "24316"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "El Mameyal",
+      "postal_code": [
+        "24323"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "24300"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "El Pom",
+      "postal_code": [
+        "24325"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "El Popistal",
+      "postal_code": [
+        "24324"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "El Potrero",
+      "postal_code": [
+        "24158"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "24323"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "El Triunfo",
+      "postal_code": [
+        "24317"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "24324"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "24198",
+        "24300",
+        "24325"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Enrique Rodriguez Cano",
+      "postal_code": [
+        "24314"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Estrella",
+      "postal_code": [
+        "24185"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Evergreen",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Fatima",
+      "postal_code": [
+        "24110"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Felipe angeles",
+      "postal_code": [
+        "24316"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Fernando Foglio Miramontes",
+      "postal_code": [
+        "24323"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "FOVISSSTE",
+      "postal_code": [
+        "24199"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Francisco I Madero",
+      "postal_code": [
+        "24190"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Francisco Villa (mamantel)",
+      "postal_code": [
+        "24315"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "General Abelardo L Rodriguez (el Jobal)",
+      "postal_code": [
+        "24313"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Generalisimo Morelos",
+      "postal_code": [
+        "24323"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Girasoles",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "24130",
+        "24300"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Guanal",
+      "postal_code": [
+        "24139"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Hacienda del Mar",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Hacienda Dorada",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Hector Perez Martinez",
+      "postal_code": [
+        "24110"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Heroes de Nacozari",
+      "postal_code": [
+        "24158"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Ignacio Gutierrez",
+      "postal_code": [
+        "24310"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "24316"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Independencia",
+      "postal_code": [
+        "24197",
+        "24313"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Insurgentes",
+      "postal_code": [
+        "24197"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Isla Aguada Centro",
+      "postal_code": [
+        "24327"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Isla del Carmen 2000",
+      "postal_code": [
+        "24154"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Isla de Tris",
+      "postal_code": [
+        "24155"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Jabal",
+      "postal_code": [
+        "24300"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Jose Maria Pino Suarez",
+      "postal_code": [
+        "24313"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Jose Ortiz avila",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Juan Pablo Cetina",
+      "postal_code": [
+        "24300"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Justo Sierra",
+      "postal_code": [
+        "24114",
+        "24166"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "La Concepcion",
+      "postal_code": [
+        "24315"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "La Cristalina",
+      "postal_code": [
+        "24313"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "24157",
+        "24313",
+        "24325"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "La Estrella",
+      "postal_code": [
+        "24317"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "La Florida",
+      "postal_code": [
+        "24317"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "La Lagartera",
+      "postal_code": [
+        "24327"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "La Lupita",
+      "postal_code": [
+        "24313"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "La Pimienta",
+      "postal_code": [
+        "24324"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "La Pita",
+      "postal_code": [
+        "24310"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "24315"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "La Rivera",
+      "postal_code": [
+        "24150"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Las Cruces",
+      "postal_code": [
+        "24316"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Las Delicias",
+      "postal_code": [
+        "24314"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Las Esperanzas",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Las Huertas",
+      "postal_code": [
+        "24158"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Las Pilas",
+      "postal_code": [
+        "24195"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Limonar",
+      "postal_code": [
+        "24180"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Lomas de Holche",
+      "postal_code": [
+        "24167"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Los Arcos",
+      "postal_code": [
+        "24154"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Los Manantiales",
+      "postal_code": [
+        "24313"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Los Rios",
+      "postal_code": [
+        "24154"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "24150"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Maderas",
+      "postal_code": [
+        "24154"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Malibran",
+      "postal_code": [
+        "24197"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Mamantel Viejo",
+      "postal_code": [
+        "24315"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Manigua",
+      "postal_code": [
+        "24187"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Mar Azul",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Maria de La Luz",
+      "postal_code": [
+        "24320"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Marina del Rey",
+      "postal_code": [
+        "24115"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Mediterraneo",
+      "postal_code": [
+        "24156"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Miami",
+      "postal_code": [
+        "24115"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Miguel de La Madrid",
+      "postal_code": [
+        "24186"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Mision del Carmen",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Monte Bello",
+      "postal_code": [
+        "24115"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Morelos",
+      "postal_code": [
+        "24115"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Mujeres Carmelitas",
+      "postal_code": [
+        "24158"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Mundo Maya",
+      "postal_code": [
+        "24153"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Murallas de Campeche",
+      "postal_code": [
+        "24323"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Nicolas Bravo",
+      "postal_code": [
+        "24313"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Nueva",
+      "postal_code": [
+        "24300"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Nueva Chontalpa",
+      "postal_code": [
+        "24316"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Nueva Emiliano Zapata",
+      "postal_code": [
+        "24300"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Nuevo Campechito",
+      "postal_code": [
+        "24325"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Nuevo Progreso",
+      "postal_code": [
+        "24325"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Obrera",
+      "postal_code": [
+        "24117"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "24316"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Orizaba",
+      "postal_code": [
+        "24158"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Oxcabal",
+      "postal_code": [
+        "24310",
+        "24310"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Pallas",
+      "postal_code": [
+        "24140"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Palmira",
+      "postal_code": [
+        "24154"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Paseo de los Bosques",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Paso San Juan",
+      "postal_code": [
+        "24324"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Pedro Sainz de Baranda",
+      "postal_code": [
+        "24195"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Penjamo",
+      "postal_code": [
+        "24300"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Perla del Golfo",
+      "postal_code": [
+        "24154"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Petrolera",
+      "postal_code": [
+        "24179"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Pital Nuevo",
+      "postal_code": [
+        "24315"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Pital Viejo",
+      "postal_code": [
+        "24315"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Plan de Ayala",
+      "postal_code": [
+        "24313"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Playa Norte",
+      "postal_code": [
+        "24115"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Playa Palmas",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Plutarco Elias Calles",
+      "postal_code": [
+        "24155"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Polvoxal",
+      "postal_code": [
+        "24320"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Privada San Joaquin",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Privada Santa Ana",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Privanzas",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Pueblo Maya",
+      "postal_code": [
+        "24154"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Puente de La Unidad",
+      "postal_code": [
+        "24154"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Puerta de Hierro",
+      "postal_code": [
+        "24156"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Puerto Pesquero",
+      "postal_code": [
+        "24129"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Puerto Real",
+      "postal_code": [
+        "24327"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Puerto Rico",
+      "postal_code": [
+        "24326"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Puesta del Sol",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Punta Zacatal",
+      "postal_code": [
+        "24326"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Puntilla",
+      "postal_code": [
+        "24139"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Quebranche",
+      "postal_code": [
+        "24316"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Rafael del J Lozano Contreras",
+      "postal_code": [
+        "24154"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Raices",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Real del Carmen",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Reforma",
+      "postal_code": [
+        "24158"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Reforma II Seccion",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Renovacion I",
+      "postal_code": [
+        "24155"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Renovacion II",
+      "postal_code": [
+        "24155"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Renovacion III",
+      "postal_code": [
+        "24155"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Residencial del Lago",
+      "postal_code": [
+        "24158"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Residencial El Cielo",
+      "postal_code": [
+        "24156"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Residencial Las Palmas",
+      "postal_code": [
+        "24153"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Residencial San Miguel",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Residencial Vistancias",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Reubicacion",
+      "postal_code": [
+        "24327"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "24120"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Ribera Alta",
+      "postal_code": [
+        "24325"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Ribera de San Francisco",
+      "postal_code": [
+        "24325"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Ribera Media",
+      "postal_code": [
+        "24325"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Rinconada",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Sabancuy Centro",
+      "postal_code": [
+        "24300"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Sacrificio",
+      "postal_code": [
+        "24317"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Salitral",
+      "postal_code": [
+        "24189"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "San Agustin del Palmar",
+      "postal_code": [
+        "24110"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "San Antonio Cardenas",
+      "postal_code": [
+        "24325"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "San Antonio (Punta de Piedra)",
+      "postal_code": [
+        "24310"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "San Capistrano",
+      "postal_code": [
+        "24155"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "24116"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "San Elpidio",
+      "postal_code": [
+        "24324"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "24154"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "24315"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "San Joaquin",
+      "postal_code": [
+        "24157",
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "San Jorge de Coyoc",
+      "postal_code": [
+        "24316"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "San Jose Marentes",
+      "postal_code": [
+        "24323"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "San Manuel",
+      "postal_code": [
+        "24154"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "24130"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "24118"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "San Pablito Km. 59",
+      "postal_code": [
+        "24316"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "San Roman",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "San Salvador de los Cerrillos",
+      "postal_code": [
+        "24326"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Santa Isabel",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Santa Margarita",
+      "postal_code": [
+        "24120"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Santa Monica",
+      "postal_code": [
+        "24155"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "24158",
+        "24323"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Santa Rita II",
+      "postal_code": [
+        "24158"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Santa Rita III",
+      "postal_code": [
+        "24158"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Santa Rosalia",
+      "postal_code": [
+        "24197",
+        "24313"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Solidaridad Urbana",
+      "postal_code": [
+        "24155"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Tacubaya",
+      "postal_code": [
+        "24180"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Tecolutla",
+      "postal_code": [
+        "24178"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Tila",
+      "postal_code": [
+        "24170"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Tres Valles",
+      "postal_code": [
+        "24324"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Turquesa",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Valle de Solidaridad",
+      "postal_code": [
+        "24323"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Venustiano Carranza",
+      "postal_code": [
+        "24317"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Villa Conejo",
+      "postal_code": [
+        "24155"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Villa del Mar",
+      "postal_code": [
+        "24156"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Villa de Los angeles",
+      "postal_code": [
+        "24156"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Villa Encantada",
+      "postal_code": [
+        "24156"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Villa Florencia",
+      "postal_code": [
+        "24156"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Villa Magna",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Villa Marina",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Villa Palmeras",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Villa San Jose",
+      "postal_code": [
+        "24155"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Villas del Carmen",
+      "postal_code": [
+        "24157"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Villas de Santa Ana",
+      "postal_code": [
+        "24155"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Villa Universitaria",
+      "postal_code": [
+        "24155"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Vista Alegre",
+      "postal_code": [
+        "24324"
+      ]
+    },
+    {
+      "city": "Carmen",
+      "colonia": "Volcanes",
+      "postal_code": [
+        "24155"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,522 @@
+{
+  "data": [
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Astillero Botija",
+      "postal_code": [
+        "61017"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Canada de Garcia (Cuartel Canada)",
+      "postal_code": [
+        "61016"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Canindo y Pedregal",
+      "postal_code": [
+        "61006"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Casa Colorada",
+      "postal_code": [
+        "61004"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Cerrito Colorado",
+      "postal_code": [
+        "61016"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Chamacuero",
+      "postal_code": [
+        "61002"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Coroneo [Unidad Cooperativa]",
+      "postal_code": [
+        "61014"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Cruz de Pichardo",
+      "postal_code": [
+        "61018"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Cuartel de Guerrero",
+      "postal_code": [
+        "61015"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Ejido Nuevo Coroneo Fraccion la Paz",
+      "postal_code": [
+        "61014"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Ejido Nuevo Coroneo Fraccion Salitrillo",
+      "postal_code": [
+        "61007"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "61002"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "El Astillero (El Carmen Astillero)",
+      "postal_code": [
+        "61017"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "El Bellotal Dos",
+      "postal_code": [
+        "61015"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "El Bellotal Uno",
+      "postal_code": [
+        "61015"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "61014"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "El Garabato (La Loma)",
+      "postal_code": [
+        "61004"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "El Jacal de la Mata",
+      "postal_code": [
+        "61004"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "El Pinto (Piedra Larga)",
+      "postal_code": [
+        "61007"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "El Rodeo",
+      "postal_code": [
+        "61004"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "El Salitrillo (El Charco)",
+      "postal_code": [
+        "61003"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "El Salitrillo (Ojo de Agua de Salitrillo)",
+      "postal_code": [
+        "61007"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "El Sauz de la Luz",
+      "postal_code": [
+        "61010"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "El Sayno (Ojo de Agua Salitrillo)",
+      "postal_code": [
+        "61007"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "El Tejocote Polvillas (Fatima)",
+      "postal_code": [
+        "61002"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "El Tepozan",
+      "postal_code": [
+        "61018"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "El Toro",
+      "postal_code": [
+        "61014"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "El Venado",
+      "postal_code": [
+        "61016"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Emiliano Zapata (Pueblo Nuevo)",
+      "postal_code": [
+        "61006"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Epitacio Huerta",
+      "postal_code": [
+        "61000"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Estanzuela los Lulos (Santa Rosa)",
+      "postal_code": [
+        "61004"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Ex-Hacienda la Paz",
+      "postal_code": [
+        "61014"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Ex-Hacienda Salitrillo",
+      "postal_code": [
+        "61007"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Ex-Hacienda San Miguel",
+      "postal_code": [
+        "61006"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Guadalupe la Paz (Nuevo Coroneo Fraccion la Paz)",
+      "postal_code": [
+        "61008"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Jardines",
+      "postal_code": [
+        "61000"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "61018"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "La Cima",
+      "postal_code": [
+        "61015"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "La Curva (La Margarita)",
+      "postal_code": [
+        "61006"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "La Garita",
+      "postal_code": [
+        "61004"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "La Ladera (Ejido Ojo de Agua)",
+      "postal_code": [
+        "61005"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "La Lagartija (San Vicente)",
+      "postal_code": [
+        "61008"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "La Luz",
+      "postal_code": [
+        "61010"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "La Margarita (El Puerto)",
+      "postal_code": [
+        "61005"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "La Mina de Cavires",
+      "postal_code": [
+        "61002"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "La Palma",
+      "postal_code": [
+        "61017"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "La Paz (La Calabaza)",
+      "postal_code": [
+        "61008"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Las Gardenias",
+      "postal_code": [
+        "61008"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Las Golondrinas",
+      "postal_code": [
+        "61004"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Las Hormigas Dos",
+      "postal_code": [
+        "61015"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Las Playitas (Lazaro Cardenas)",
+      "postal_code": [
+        "61006"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "La Tenencia de Guerrero (Hormigas Uno)",
+      "postal_code": [
+        "61015"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Loma de en Medio",
+      "postal_code": [
+        "61004"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Loma del Zapote",
+      "postal_code": [
+        "61016"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Los angeles (San Lorenzo)",
+      "postal_code": [
+        "61004"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Los Azules (La Presa de los Azules)",
+      "postal_code": [
+        "61005"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Los Dolores",
+      "postal_code": [
+        "61002"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Molinos de Caballero",
+      "postal_code": [
+        "61004"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "61008"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Ojo de Agua (Santa Anita)",
+      "postal_code": [
+        "61008"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Palos Altos",
+      "postal_code": [
+        "61018"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "San Antonio Molinos",
+      "postal_code": [
+        "61004"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "San Antonio Ojo de Agua",
+      "postal_code": [
+        "61014"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "San Benito",
+      "postal_code": [
+        "61014"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "San Bernardo",
+      "postal_code": [
+        "61004"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "San Cristobal (Los alamos)",
+      "postal_code": [
+        "61012"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "San Mateo (El Salitrillo)",
+      "postal_code": [
+        "61005"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "San Miguel la Rata (San Andres Salitrillo)",
+      "postal_code": [
+        "61003"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Santa Cruz Ojo de Agua",
+      "postal_code": [
+        "61014"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Santa Genoveva (Cuartel de Guerrero)",
+      "postal_code": [
+        "61018"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Tejocote San Isidro (La Providencia)",
+      "postal_code": [
+        "61002"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Temascales (Bellotal Loma de en Medio)",
+      "postal_code": [
+        "61016"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Yereje Cabezas",
+      "postal_code": [
+        "61016"
+      ]
+    },
+    {
+      "city": "Epitacio Huerta",
+      "colonia": "Yereje Canteras",
+      "postal_code": [
+        "61016"
+      ]
+    }
+  ]
+}

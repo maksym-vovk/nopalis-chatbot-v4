@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Texhuacan",
+      "colonia": "Cuauhtempa",
+      "postal_code": [
+        "95070"
+      ]
+    },
+    {
+      "city": "Texhuacan",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "95070"
+      ]
+    },
+    {
+      "city": "Texhuacan",
+      "colonia": "Texhuacan",
+      "postal_code": [
+        "95070"
+      ]
+    },
+    {
+      "city": "Texhuacan",
+      "colonia": "Texutzingo (Los Pinos)",
+      "postal_code": [
+        "95070"
+      ]
+    },
+    {
+      "city": "Texhuacan",
+      "colonia": "Tzatzaca",
+      "postal_code": [
+        "95070"
+      ]
+    }
+  ]
+}

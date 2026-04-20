@@ -1,0 +1,762 @@
+{
+  "data": [
+    {
+      "city": "Tepeapulco",
+      "colonia": "14 de Febrero",
+      "postal_code": [
+        "43975"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "18 de Marzo",
+      "postal_code": [
+        "43973"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "43987"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "21 de Julio",
+      "postal_code": [
+        "43995"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "5 de Febrero",
+      "postal_code": [
+        "43993"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Abecedario",
+      "postal_code": [
+        "43997"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Ampliacion del Trabajo",
+      "postal_code": [
+        "43976"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Ampliacion Frailes",
+      "postal_code": [
+        "43977"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Ampliacion Jose Maria Pino Suarez",
+      "postal_code": [
+        "43974"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Ampliacion Plaza Vieja",
+      "postal_code": [
+        "43976"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "43994"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Carros",
+      "postal_code": [
+        "43997"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Constitucion de 1917",
+      "postal_code": [
+        "43970"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Cruz Blanca (Santa Cruz)",
+      "postal_code": [
+        "43983"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Del Bosque",
+      "postal_code": [
+        "43994"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Del Trabajo",
+      "postal_code": [
+        "43976"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Dikona",
+      "postal_code": [
+        "43996"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Dina",
+      "postal_code": [
+        "43995"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "El Calvario",
+      "postal_code": [
+        "43977"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "El Capulin",
+      "postal_code": [
+        "43988"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "El Chamizal",
+      "postal_code": [
+        "43996"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "El Jihuingo",
+      "postal_code": [
+        "43983"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "El Llano de la Presa",
+      "postal_code": [
+        "43983"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "El Magueyal",
+      "postal_code": [
+        "43975"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "El Magueyal (Las Palomas)",
+      "postal_code": [
+        "43987"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "El Mirto",
+      "postal_code": [
+        "43987"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "43998"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Ex-Hacienda de Guadalupe",
+      "postal_code": [
+        "43996"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Fides",
+      "postal_code": [
+        "43994"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Frailes",
+      "postal_code": [
+        "43977",
+        "43998"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "43973"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Francisco Sarabia (Corralillos)",
+      "postal_code": [
+        "43985"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Granja de Aguilera",
+      "postal_code": [
+        "43986"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Granja Guadalupe",
+      "postal_code": [
+        "43996"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Heriberto Castillo Munoz",
+      "postal_code": [
+        "43983"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "IMSS",
+      "postal_code": [
+        "43995"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Independencia",
+      "postal_code": [
+        "43994"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Irolo",
+      "postal_code": [
+        "43991"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Jagüey Prieto",
+      "postal_code": [
+        "43986"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Jose Maria Pino Suarez",
+      "postal_code": [
+        "43974"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "La Canada",
+      "postal_code": [
+        "43987"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "La Caseta de Aforos",
+      "postal_code": [
+        "43988"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "La Ermita",
+      "postal_code": [
+        "43987"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "La Estacion Ocho",
+      "postal_code": [
+        "43986"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "La Isleta",
+      "postal_code": [
+        "43984"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "La Loma",
+      "postal_code": [
+        "43988"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "La Loma de San Juan",
+      "postal_code": [
+        "43988"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "La Plateada",
+      "postal_code": [
+        "43983"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "La Rinconada",
+      "postal_code": [
+        "43984"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "La Rosa",
+      "postal_code": [
+        "43998"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Las aguilas",
+      "postal_code": [
+        "43988"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Las Bedollas",
+      "postal_code": [
+        "43988"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Las Cabrerias (La Rinconada)",
+      "postal_code": [
+        "43986"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Las Delicias",
+      "postal_code": [
+        "43983"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Las Haciendas",
+      "postal_code": [
+        "43995"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "La Tula",
+      "postal_code": [
+        "43983"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Legaspi",
+      "postal_code": [
+        "43990"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Lomas del Pedregal",
+      "postal_code": [
+        "43996"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "43987"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Los Cides",
+      "postal_code": [
+        "43983"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Los Coyotes",
+      "postal_code": [
+        "43986"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Los Duraznos",
+      "postal_code": [
+        "43988"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Los Garcia",
+      "postal_code": [
+        "43988"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Los Lopez",
+      "postal_code": [
+        "43987"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Los Quintos",
+      "postal_code": [
+        "43987"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "43975"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "43998"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Mineros",
+      "postal_code": [
+        "43993"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Morelos",
+      "postal_code": [
+        "43998"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Palmillas",
+      "postal_code": [
+        "43985",
+        "43998"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Palo Hueco",
+      "postal_code": [
+        "43984"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Paso del Cristo",
+      "postal_code": [
+        "43987"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Pedro Meneses",
+      "postal_code": [
+        "43986"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Piedras Negras",
+      "postal_code": [
+        "43974"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Plan de Ayala",
+      "postal_code": [
+        "43998"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Plaza Vieja",
+      "postal_code": [
+        "43976"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Privadas de Vista Real",
+      "postal_code": [
+        "43975"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Quince Hermanos",
+      "postal_code": [
+        "43987"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Real del Bosque",
+      "postal_code": [
+        "43994"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Revolucion Mexicana",
+      "postal_code": [
+        "43994"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Rojo Gomez",
+      "postal_code": [
+        "43996"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Sahagun",
+      "postal_code": [
+        "43998"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Sales y Minerales",
+      "postal_code": [
+        "43976"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Salvador Allende",
+      "postal_code": [
+        "43997"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "San Bartolome Tepetates",
+      "postal_code": [
+        "43987"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "San Ignacio de Loyola",
+      "postal_code": [
+        "43986"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "San Jeronimo",
+      "postal_code": [
+        "43988"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "San Jose Tultengo",
+      "postal_code": [
+        "43986"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "San Miguel Allende",
+      "postal_code": [
+        "43980"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "San Salvador (El Calvario)",
+      "postal_code": [
+        "43987"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Santa Barbara",
+      "postal_code": [
+        "43996"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Sidena",
+      "postal_code": [
+        "43997"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Sindicato Minero",
+      "postal_code": [
+        "43994"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Tadeo de Niza",
+      "postal_code": [
+        "43996"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Temomusgo",
+      "postal_code": [
+        "43988"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Tepeapulco Centro",
+      "postal_code": [
+        "43970"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Tesatla Siglo XXI",
+      "postal_code": [
+        "43993"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Texcatzongo",
+      "postal_code": [
+        "43988"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Tlacatepa",
+      "postal_code": [
+        "43985"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Tultengo",
+      "postal_code": [
+        "43986"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Unidad Campesina",
+      "postal_code": [
+        "43998"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "UNTA Bicentenario",
+      "postal_code": [
+        "43995"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Valle de Guadalupe",
+      "postal_code": [
+        "43995"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "43998"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Villas de Sahagun",
+      "postal_code": [
+        "43993"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Villas Napoleon",
+      "postal_code": [
+        "43993"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "43986"
+      ]
+    },
+    {
+      "city": "Tepeapulco",
+      "colonia": "Zarate",
+      "postal_code": [
+        "43988"
+      ]
+    }
+  ]
+}

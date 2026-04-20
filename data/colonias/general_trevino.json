@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "General Trevino",
+      "colonia": "General Trevino",
+      "postal_code": [
+        "65850"
+      ]
+    },
+    {
+      "city": "General Trevino",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "65850"
+      ]
+    },
+    {
+      "city": "General Trevino",
+      "colonia": "San Javier",
+      "postal_code": [
+        "65880"
+      ]
+    }
+  ]
+}

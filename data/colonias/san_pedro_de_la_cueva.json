@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "San Pedro de la Cueva",
+      "colonia": "Huepari",
+      "postal_code": [
+        "84703"
+      ]
+    },
+    {
+      "city": "San Pedro de la Cueva",
+      "colonia": "La Rancheria (Rancherias)",
+      "postal_code": [
+        "84705"
+      ]
+    },
+    {
+      "city": "San Pedro de la Cueva",
+      "colonia": "Nuevo Suaqui",
+      "postal_code": [
+        "84711"
+      ]
+    },
+    {
+      "city": "San Pedro de la Cueva",
+      "colonia": "Nuevo Tepupa",
+      "postal_code": [
+        "84710"
+      ]
+    },
+    {
+      "city": "San Pedro de la Cueva",
+      "colonia": "San Jose de Batuc (Batuquito)",
+      "postal_code": [
+        "84709"
+      ]
+    },
+    {
+      "city": "San Pedro de la Cueva",
+      "colonia": "San Pedro de la Cueva",
+      "postal_code": [
+        "84700"
+      ]
+    }
+  ]
+}

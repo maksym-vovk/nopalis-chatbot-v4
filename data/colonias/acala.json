@@ -1,0 +1,602 @@
+{
+  "data": [
+    {
+      "city": "Acala",
+      "colonia": "12 de Diciembre",
+      "postal_code": [
+        "29374"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Acala Centro",
+      "postal_code": [
+        "29370"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "29376"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Agua Dulce",
+      "postal_code": [
+        "29384"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Agua Dulce (Buenos Aires)",
+      "postal_code": [
+        "29384"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Agua Dulce San Isidro",
+      "postal_code": [
+        "29384"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Belen",
+      "postal_code": [
+        "29377"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Candelaria",
+      "postal_code": [
+        "29372"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Cruz Mision",
+      "postal_code": [
+        "29374"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Doctor Manuel Velasco Suarez",
+      "postal_code": [
+        "29373"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "El Amatal",
+      "postal_code": [
+        "29385"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "El Azufre",
+      "postal_code": [
+        "29385"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "El Bajio",
+      "postal_code": [
+        "29385"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "El Chilar",
+      "postal_code": [
+        "29377"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "El Paquesch",
+      "postal_code": [
+        "29377"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "29385"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "29385"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "El Recreo",
+      "postal_code": [
+        "29376"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "El Recuerdo",
+      "postal_code": [
+        "29384",
+        "29385"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "29376"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "El Rosarito",
+      "postal_code": [
+        "29384"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "El Sauce",
+      "postal_code": [
+        "29385"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "El Triunfo de Tila",
+      "postal_code": [
+        "29376"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "El Zapote Dos",
+      "postal_code": [
+        "29377"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "El Zapote Uno",
+      "postal_code": [
+        "29377"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Esperanza",
+      "postal_code": [
+        "29376"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Frontera de Grijalva",
+      "postal_code": [
+        "29384"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "29372"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Guadalupe de los Llanos",
+      "postal_code": [
+        "29385"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Hernandez Rodriguez",
+      "postal_code": [
+        "29384"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Humberto Serrano",
+      "postal_code": [
+        "29384"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "La Angostura (El Porvenir)",
+      "postal_code": [
+        "29385"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "La Aurora Nueva",
+      "postal_code": [
+        "29387"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "La Ceiba",
+      "postal_code": [
+        "29376"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "29377"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Lagartero",
+      "postal_code": [
+        "29377"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "La Herradura",
+      "postal_code": [
+        "29385"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "La Primavera",
+      "postal_code": [
+        "29385"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "29376"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "La Rocallosa",
+      "postal_code": [
+        "29384"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "29376"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Las Mercedes",
+      "postal_code": [
+        "29376"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Las Minas",
+      "postal_code": [
+        "29376"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Las Palmeras",
+      "postal_code": [
+        "29376"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "29376",
+        "29385"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Los Gavilanes",
+      "postal_code": [
+        "29385"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "29376"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Los Nopales",
+      "postal_code": [
+        "29385"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Lucio Blanco",
+      "postal_code": [
+        "29385"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Maria del Carmen Flores",
+      "postal_code": [
+        "29384"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Miriam Perez",
+      "postal_code": [
+        "29384"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Monte de los Olivos",
+      "postal_code": [
+        "29384"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Monte Sinai",
+      "postal_code": [
+        "29387"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Nandamuju",
+      "postal_code": [
+        "29376"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Nandayapa",
+      "postal_code": [
+        "29376",
+        "29377"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Nuevo Altamira",
+      "postal_code": [
+        "29376"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Puerto Mexico",
+      "postal_code": [
+        "29384"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Rafael Coello",
+      "postal_code": [
+        "29377"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Rio Limon",
+      "postal_code": [
+        "29377"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Rizo de Oro",
+      "postal_code": [
+        "29384"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Roberto Albores Guillen",
+      "postal_code": [
+        "29384"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Salomon Gonzalez Blanco",
+      "postal_code": [
+        "29372"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "San Antonio (Agua Clara)",
+      "postal_code": [
+        "29384"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "San Bernardo",
+      "postal_code": [
+        "29385"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "San Fernando",
+      "postal_code": [
+        "29385"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "San Jose",
+      "postal_code": [
+        "29373"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "San Jose 19 de Marzo",
+      "postal_code": [
+        "29372"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "San Jose de Jesus",
+      "postal_code": [
+        "29387"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "San Jose de Jesus Dos",
+      "postal_code": [
+        "29387"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "San Jose de los Planes",
+      "postal_code": [
+        "29387"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "San Juan",
+      "postal_code": [
+        "29385"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "San Judas Tadeo",
+      "postal_code": [
+        "29384"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "San Luis El Alto",
+      "postal_code": [
+        "29385"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "29373"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "29372"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "San Pedro Nichi",
+      "postal_code": [
+        "29377"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "San Pedro Pedernal",
+      "postal_code": [
+        "29385"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "29385"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Santa Isabel",
+      "postal_code": [
+        "29374"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "29376"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Santo Tomas",
+      "postal_code": [
+        "29385"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "29384"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Tres Hermanos",
+      "postal_code": [
+        "29385"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Union Buenavista",
+      "postal_code": [
+        "29387"
+      ]
+    },
+    {
+      "city": "Acala",
+      "colonia": "Villa Aurora",
+      "postal_code": [
+        "29384"
+      ]
+    }
+  ]
+}

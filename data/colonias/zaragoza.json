@@ -1,0 +1,1383 @@
+{
+  "data": [
+    {
+      "city": "Zaragoza",
+      "colonia": "Zaragoza",
+      "postal_code": [
+        "96320"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Congregacion el Remolino",
+      "postal_code": [
+        "26467"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Corte Nuevo",
+      "postal_code": [
+        "26463"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Mimbre",
+      "postal_code": [
+        "26453",
+        "26465"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Industrial",
+      "postal_code": [
+        "26452"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Agricola",
+      "postal_code": [
+        "26467"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Maroma",
+      "postal_code": [
+        "26460",
+        "26460"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Nogalera",
+      "postal_code": [
+        "26452"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Pedrera",
+      "postal_code": [
+        "26452"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Manantiales del Valle",
+      "postal_code": [
+        "26452"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Maravillas",
+      "postal_code": [
+        "26465"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Nuevo Pueblo INFONAVIT",
+      "postal_code": [
+        "26454"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Paso del Tio Pio",
+      "postal_code": [
+        "26464"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Patino",
+      "postal_code": [
+        "26465"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Porvenir y Canal",
+      "postal_code": [
+        "26463"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Presidentes",
+      "postal_code": [
+        "26450"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Sagon",
+      "postal_code": [
+        "26452"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "San Fernando (Davila)",
+      "postal_code": [
+        "26463"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Zaragoza",
+      "postal_code": [
+        "26463"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Zaragoza Centro",
+      "postal_code": [
+        "26450"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Agua Blanca",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Agua Zarca",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Alberca de la Cruz",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Alfredo Alvarado (El Picacho)",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Altamira",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "alvarez",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "angel Hernandez",
+      "postal_code": [
+        "79546"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Arreates",
+      "postal_code": [
+        "79556"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Arroyo Hondo",
+      "postal_code": [
+        "79546"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Autodromo Potosino [Pista de Carreras]",
+      "postal_code": [
+        "79546"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Benito Cardenas",
+      "postal_code": [
+        "79546"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Campo de Tiro (Club de Tiro Ferrocarrilero)",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Canon del Pozo",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Casas Blancas",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Cerro Cuate",
+      "postal_code": [
+        "79553"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Cerro Gordo",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Cerro los Caballos",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Chula Vista",
+      "postal_code": [
+        "79553"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Coahuila",
+      "postal_code": [
+        "79556"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Colonia el Pedregal",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Corral de Palmas",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Derramadero",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Aguacatal",
+      "postal_code": [
+        "79553"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "79546"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Cambalache",
+      "postal_code": [
+        "79556"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Capulin",
+      "postal_code": [
+        "79546"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Cascarero",
+      "postal_code": [
+        "79556"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Castillo",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Charco",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Chilarillo",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Cocolistle",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Congo",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Conguito",
+      "postal_code": [
+        "79543"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Divisadero",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Jagüey",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Jaralito",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Lindero",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Llano de Santa Isabel",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Membrillo",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Milagro",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Ojo de Agua",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Pachol",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Pame",
+      "postal_code": [
+        "79546"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Panal",
+      "postal_code": [
+        "79556"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "79543"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Pinal",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Polvorin",
+      "postal_code": [
+        "79556"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Potrero de Rosario",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Potrero Nuevo",
+      "postal_code": [
+        "79546"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Puertecito de las Escobas",
+      "postal_code": [
+        "79550"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Puerto Hondo",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Recodo",
+      "postal_code": [
+        "79550"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Tablon",
+      "postal_code": [
+        "79553"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Tostadero",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Venadito",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Emiliano Zapata (El Tepozan)",
+      "postal_code": [
+        "79546"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Esperanza Juarez Rocha",
+      "postal_code": [
+        "79546"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Estanco del Carmen",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Evaristo Sanchez",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Finca Napoles",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Fraccion Juarez",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Garrochitas",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Hacienda de la Enramada",
+      "postal_code": [
+        "79556"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Hacienda de la Morena",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Hacienda de San Isidro",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Independencia (Patol)",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Jamay",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Jondablito [Bicentenario]",
+      "postal_code": [
+        "79543"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Jose Natividad Silva",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Joya Honda",
+      "postal_code": [
+        "79550"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Kilometro 58",
+      "postal_code": [
+        "79553"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Alberca (Eudocio de la Cruz Martinez)",
+      "postal_code": [
+        "79546"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Bajadita",
+      "postal_code": [
+        "79556"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Barranca",
+      "postal_code": [
+        "79543"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Calera",
+      "postal_code": [
+        "79545",
+        "79546"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Canada del Pastle",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Cardona (Las Aguilillas)",
+      "postal_code": [
+        "79553"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Cienaga del Trigo",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Cieneguilla",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Colmena",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Esperanza (Isidro avila)",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Estancia",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Labor del Mazo",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "79550"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Lagunita",
+      "postal_code": [
+        "79545",
+        "79546",
+        "79554",
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Laja",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Lobera",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Luz (Rodriguez Gaytan)",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Mesita (La Vallita)",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Morena",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Ordenita",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Parada del Zarcido",
+      "postal_code": [
+        "79546"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Paradita",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Pendencia",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Presita",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Puerta del Arbolito",
+      "postal_code": [
+        "79546"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Las Aguilillas",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Salitrera",
+      "postal_code": [
+        "79550"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Las animas",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Sauceda",
+      "postal_code": [
+        "79544"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Las Borrachas",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Las Galgas",
+      "postal_code": [
+        "79553"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Sierra",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "79556"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Las Paredes",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Las Rusias",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Las Trojes",
+      "postal_code": [
+        "79547",
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Tableta",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "La Virgen",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Longoria",
+      "postal_code": [
+        "79556"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Los Arroyitos",
+      "postal_code": [
+        "79556"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Los Castillos",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Los Cerritos",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Los Dos Cerros",
+      "postal_code": [
+        "79550"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Los Hoyos",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Los Lirios",
+      "postal_code": [
+        "79553"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Los Llanitos",
+      "postal_code": [
+        "79553"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Los Matias",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Los Pilares",
+      "postal_code": [
+        "79556"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Los Terreros",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Magdaleno de la Rosa",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Nazario Bravo",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Ninguno [Trituradora de Marmol]",
+      "postal_code": [
+        "79546"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Parada de los Martinez",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Paso Colorado",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Perpetuo Socorro",
+      "postal_code": [
+        "79545"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Pilar de Guadalupe",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Plan de San Jose",
+      "postal_code": [
+        "79546"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Potrerillo",
+      "postal_code": [
+        "79550"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Pozo Numero 2",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Puerta de las Andanas",
+      "postal_code": [
+        "79556"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Puertecito de la Cal",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Puerto de Badillo",
+      "postal_code": [
+        "79553"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Puerto de la Cruz",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Puerto de la Huerta",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Puerto del Jacal",
+      "postal_code": [
+        "79550"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Puerto del Ranchito",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Quinta Guadalupe",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Ramiro Saldana",
+      "postal_code": [
+        "79556"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Ranchito de Juarez",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Ranchito de los Rivera",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Rancho el Pituche",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Rancho el Sumidero",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Rancho los Cascabeles",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Rancho los Manzanos",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "79553"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Rancho San Dimas",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Reyna",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Rincon de la Yerbabuena",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Rincon de los Alicoches",
+      "postal_code": [
+        "79546"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Rincon de Santa Eduwiges",
+      "postal_code": [
+        "79546"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Rodeo Don Johns Bro",
+      "postal_code": [
+        "79557"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "San Jose de Gomez",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "San Jose del Salto",
+      "postal_code": [
+        "79555"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "79546"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "79546"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Tanque el Llano",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Tanque Prieto",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Texas",
+      "postal_code": [
+        "79556"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Valente Moreno Ponce",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Valle de los Fantasmas",
+      "postal_code": [
+        "79554"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Villa de Zaragoza Centro",
+      "postal_code": [
+        "79540"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Xoconoxtle",
+      "postal_code": [
+        "79547"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Acuaco",
+      "postal_code": [
+        "73700"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "73700"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Las Trancas",
+      "postal_code": [
+        "73700"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "San Jose Buenavista",
+      "postal_code": [
+        "73702"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Santa Anita",
+      "postal_code": [
+        "73700"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Xalehuala",
+      "postal_code": [
+        "73700"
+      ]
+    },
+    {
+      "city": "Zaragoza",
+      "colonia": "Zaragoza",
+      "postal_code": [
+        "73700"
+      ]
+    }
+  ]
+}

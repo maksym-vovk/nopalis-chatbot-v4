@@ -1,0 +1,334 @@
+{
+  "data": [
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Agua Bendita",
+      "postal_code": [
+        "43389"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Alegre",
+      "postal_code": [
+        "43387"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Apartadero",
+      "postal_code": [
+        "43386"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Arroyo Hondo",
+      "postal_code": [
+        "43398"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Atecoxco (San Nicolas Atecoxco)",
+      "postal_code": [
+        "43382"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Ayacapa",
+      "postal_code": [
+        "43380"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Carpinteros",
+      "postal_code": [
+        "43390"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Carrizal Chico",
+      "postal_code": [
+        "43383"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Chichinapa",
+      "postal_code": [
+        "43385"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Cieneguillas",
+      "postal_code": [
+        "43398"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "El Banco",
+      "postal_code": [
+        "43385"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "El Durazno",
+      "postal_code": [
+        "43383",
+        "43386"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "El Enzuelado",
+      "postal_code": [
+        "43391"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "El Reparo",
+      "postal_code": [
+        "43382"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "43383"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "El Tular",
+      "postal_code": [
+        "43386"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "El Veladero",
+      "postal_code": [
+        "43387"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Estetipa",
+      "postal_code": [
+        "43380"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Iglesia Vieja",
+      "postal_code": [
+        "43383"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "La Almarciguera",
+      "postal_code": [
+        "43387"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "La Camelia",
+      "postal_code": [
+        "43386"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "La Canada",
+      "postal_code": [
+        "43384"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "La Cantera",
+      "postal_code": [
+        "43387"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "La Capilla",
+      "postal_code": [
+        "43385"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "La Pena",
+      "postal_code": [
+        "43387"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Las Canaditas",
+      "postal_code": [
+        "43383"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Las Canoas",
+      "postal_code": [
+        "43383"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Llano de las Palmas",
+      "postal_code": [
+        "43386"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Loma la Pareja",
+      "postal_code": [
+        "43386"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "43386"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Milpillas",
+      "postal_code": [
+        "43383"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Nuevo",
+      "postal_code": [
+        "43383"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Ocuilcalco",
+      "postal_code": [
+        "43383"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Penas Coloradas",
+      "postal_code": [
+        "43386"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "43383"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "San Juan Cuahutengo",
+      "postal_code": [
+        "43386"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "43385"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Santa Maria Xoxoteco",
+      "postal_code": [
+        "43381"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Tecorral",
+      "postal_code": [
+        "43380"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Tecorral (Tecorral Chico)",
+      "postal_code": [
+        "43383"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Tepeco (Tlachiquil)",
+      "postal_code": [
+        "43380"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Tepetates",
+      "postal_code": [
+        "43386"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Tlachiquil",
+      "postal_code": [
+        "43385"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Tuzanapa",
+      "postal_code": [
+        "43391"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Venados",
+      "postal_code": [
+        "43387"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Yerbabuena",
+      "postal_code": [
+        "43391"
+      ]
+    },
+    {
+      "city": "San Agustin Metzquititlan",
+      "colonia": "Zahuastipan",
+      "postal_code": [
+        "43392"
+      ]
+    }
+  ]
+}

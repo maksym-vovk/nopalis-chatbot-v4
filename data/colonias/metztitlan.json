@@ -1,0 +1,834 @@
+{
+  "data": [
+    {
+      "city": "Metztitlan",
+      "colonia": "Agua Hedeonda",
+      "postal_code": [
+        "43356"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Alumbres",
+      "postal_code": [
+        "43360"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Apanco",
+      "postal_code": [
+        "43354",
+        "43356"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Atzolcintla",
+      "postal_code": [
+        "43350"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Ayacatzintla",
+      "postal_code": [
+        "43357"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Buena Vista",
+      "postal_code": [
+        "43357"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Cabeza de Toro",
+      "postal_code": [
+        "43358"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Cacalome (Acalome)",
+      "postal_code": [
+        "43359"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Cerro Blanco",
+      "postal_code": [
+        "43354"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Cerro Boludo",
+      "postal_code": [
+        "43356"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Cerro de Quimixtepec",
+      "postal_code": [
+        "43350"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Cerro Partido",
+      "postal_code": [
+        "43374"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Cerro Verde",
+      "postal_code": [
+        "43358"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Chimalacatla",
+      "postal_code": [
+        "43356"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Coalquizque",
+      "postal_code": [
+        "43350"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Coatlan",
+      "postal_code": [
+        "43350"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Coyometeco",
+      "postal_code": [
+        "43355"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "De Potrero",
+      "postal_code": [
+        "43357"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "43373"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "El Banco (La Cumbre de Huisticola)",
+      "postal_code": [
+        "43356"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "El Calvario",
+      "postal_code": [
+        "43350"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "43357"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "El Dezdha",
+      "postal_code": [
+        "43358"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "El Escobal",
+      "postal_code": [
+        "43356"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "El Güero",
+      "postal_code": [
+        "43353"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "El Mamtha",
+      "postal_code": [
+        "43356"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "El Meje",
+      "postal_code": [
+        "43356"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "El Palmar",
+      "postal_code": [
+        "43358"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "El Pedregal de Zaragoza (El Pedregal)",
+      "postal_code": [
+        "43371"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "El Piru Tepozotlan (El Piru)",
+      "postal_code": [
+        "43356"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "El Rincon (El Rincon de Ixcoatitla)",
+      "postal_code": [
+        "43354"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "El Salitre",
+      "postal_code": [
+        "43375"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "El Tablon",
+      "postal_code": [
+        "43354"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "El Tepeyac",
+      "postal_code": [
+        "43350"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "El Tezontle",
+      "postal_code": [
+        "43354"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Estocuapa (La Colmena)",
+      "postal_code": [
+        "43375"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Fontezuelas",
+      "postal_code": [
+        "43358"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Higueras",
+      "postal_code": [
+        "43359"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Huayateno",
+      "postal_code": [
+        "43375"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Huiloco",
+      "postal_code": [
+        "43375"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Huisticola",
+      "postal_code": [
+        "43356"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Huixastla",
+      "postal_code": [
+        "43359"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Itztayatla",
+      "postal_code": [
+        "43362"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Itztazacuala",
+      "postal_code": [
+        "43356"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Jihuico",
+      "postal_code": [
+        "43375"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Jiliapa",
+      "postal_code": [
+        "43375"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Jilotla",
+      "postal_code": [
+        "43350"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Joya de Analco",
+      "postal_code": [
+        "43354"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "La Cumbre de Huisticola",
+      "postal_code": [
+        "43356"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "La Cumbre Jagüey Seco (Jagüey Seco)",
+      "postal_code": [
+        "43358"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "La Joya",
+      "postal_code": [
+        "43374"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "La Laja",
+      "postal_code": [
+        "43356",
+        "43358"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "La Mesa Grande (Mesa Grande)",
+      "postal_code": [
+        "43364"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "La Paila de Anahuac",
+      "postal_code": [
+        "43357"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "La Pena",
+      "postal_code": [
+        "43354"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "La Rivera",
+      "postal_code": [
+        "43358"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Las Presas",
+      "postal_code": [
+        "43358"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "La Trampa",
+      "postal_code": [
+        "43358"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Loma Ancha",
+      "postal_code": [
+        "43358"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Loma Cuata (La Cumbre de Loma Cuata)",
+      "postal_code": [
+        "43358"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Los Arcos",
+      "postal_code": [
+        "43364"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Los Cerritos",
+      "postal_code": [
+        "43358"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Macuila",
+      "postal_code": [
+        "43371"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Metznoxtla (Metznoztla)",
+      "postal_code": [
+        "43356"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Metzquititla",
+      "postal_code": [
+        "43373"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Metztitlan Centro",
+      "postal_code": [
+        "43350"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Miahuatlan",
+      "postal_code": [
+        "43354"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Milpa Grande",
+      "postal_code": [
+        "43356"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Nuevo de Guadalupe",
+      "postal_code": [
+        "43357"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Olotla",
+      "postal_code": [
+        "43353"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Palo Blanco (Cacaloco)",
+      "postal_code": [
+        "43356"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Pie de la Cuesta",
+      "postal_code": [
+        "43356",
+        "43373",
+        "43374"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Pilas y Granadas",
+      "postal_code": [
+        "43357"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Pontadho",
+      "postal_code": [
+        "43358"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Potrero de Camacho",
+      "postal_code": [
+        "43357"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Pueblo Nuevo",
+      "postal_code": [
+        "43355"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Puerto de las Pilas",
+      "postal_code": [
+        "43357"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Rincon de Coalquixque",
+      "postal_code": [
+        "43354"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Rincon de Santa Cruz (Santa Cruz)",
+      "postal_code": [
+        "43370"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Rosa Blanca",
+      "postal_code": [
+        "43356"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "San Antonio Tlaxco",
+      "postal_code": [
+        "43379"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "San Cristobal",
+      "postal_code": [
+        "43370"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "San Juan Metztitlan",
+      "postal_code": [
+        "43353"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "San Juan Tlatepexi",
+      "postal_code": [
+        "43356"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "43350"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "San Pablo Tetlapayac",
+      "postal_code": [
+        "43373"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "San Pedro Amajatlan (Amajatlan)",
+      "postal_code": [
+        "43370"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "San Pedro Ayotoxtla",
+      "postal_code": [
+        "43356"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "San Pedro Tlatemalco",
+      "postal_code": [
+        "43357"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Santa Monica Autempa",
+      "postal_code": [
+        "43350"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Tablon Chico",
+      "postal_code": [
+        "43358"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Tecruz Cozapa",
+      "postal_code": [
+        "43354"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Tecruz de Anahuac (Tecruz de Jihuico)",
+      "postal_code": [
+        "43357"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Tepatetipa (San Agustin Tepatetipa)",
+      "postal_code": [
+        "43361"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Tepecahuantla",
+      "postal_code": [
+        "43355"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Tepetlaco",
+      "postal_code": [
+        "43354"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Tepeyacapa",
+      "postal_code": [
+        "43350"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Tezisco",
+      "postal_code": [
+        "43375"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Tezochuca",
+      "postal_code": [
+        "43353"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "43356"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Tierra Nueva",
+      "postal_code": [
+        "43356"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Tlacotepec (Cerrito de Tlacotepec)",
+      "postal_code": [
+        "43375"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Tlamaxa",
+      "postal_code": [
+        "43355"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Tlamaya",
+      "postal_code": [
+        "43356"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Tlatepexe",
+      "postal_code": [
+        "43350"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Tlaxco",
+      "postal_code": [
+        "43379"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Tlaxco Viejo",
+      "postal_code": [
+        "43375"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Tlaxomotl",
+      "postal_code": [
+        "43350"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Tlazoquitipa",
+      "postal_code": [
+        "43354"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Tochintla",
+      "postal_code": [
+        "43356"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Tolapa (Santiago Tolapa)",
+      "postal_code": [
+        "43355"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Tres Cruces",
+      "postal_code": [
+        "43357"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Xocotitla",
+      "postal_code": [
+        "43373"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Yerbabuena",
+      "postal_code": [
+        "43356"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Zoquiteno",
+      "postal_code": [
+        "43353"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Zoquizoquipan",
+      "postal_code": [
+        "43361"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Zotola",
+      "postal_code": [
+        "43356"
+      ]
+    },
+    {
+      "city": "Metztitlan",
+      "colonia": "Zotoltepec",
+      "postal_code": [
+        "43353"
+      ]
+    }
+  ]
+}

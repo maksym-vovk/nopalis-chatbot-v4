@@ -1,0 +1,2578 @@
+{
+  "data": [
+    {
+      "city": "Arteaga",
+      "colonia": "Agua Caliente",
+      "postal_code": [
+        "60938"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Agua Zarca",
+      "postal_code": [
+        "60936"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Aguilillita",
+      "postal_code": [
+        "60934"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Ahuatoso",
+      "postal_code": [
+        "60923"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Ahuindo",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Antunez",
+      "postal_code": [
+        "60938"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Arteaga",
+      "postal_code": [
+        "60920"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Azteca",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Barranca Alegre",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Barranca de Campos",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Barranca de la Guayabera",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Barranca Grande",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Barranca Honda",
+      "postal_code": [
+        "60938"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Barranca Prieta",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Barrancas Blancas",
+      "postal_code": [
+        "60925"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Barranca Seca",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "60924",
+        "60934"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Campincheran",
+      "postal_code": [
+        "60933"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Casas Quemadas",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Castaneda",
+      "postal_code": [
+        "60920"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Cerro Atravesado",
+      "postal_code": [
+        "60944"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Cerro de la Lumbre",
+      "postal_code": [
+        "60944"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Cerro Verde",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Charco del Toro",
+      "postal_code": [
+        "60925"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Chiquihuitillo",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Chucumpucera",
+      "postal_code": [
+        "60948"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Coacuyulito",
+      "postal_code": [
+        "60923"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Cobanito",
+      "postal_code": [
+        "60936"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Cobano de Aguacola",
+      "postal_code": [
+        "60945"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Comision Federal de Electricidad (Campamento)",
+      "postal_code": [
+        "60940"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Cuachalatal",
+      "postal_code": [
+        "60923"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Del Riego",
+      "postal_code": [
+        "60920"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Desviacion de Infiernillo (El Crucero)",
+      "postal_code": [
+        "60935"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Dos Claveles",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Ejidal",
+      "postal_code": [
+        "60920"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Aguacate",
+      "postal_code": [
+        "60938"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Aguacatito",
+      "postal_code": [
+        "60947"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Agua de la Virgen",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Agustin",
+      "postal_code": [
+        "60925"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Ahijadero de Abajo",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Ahijadero (El Ahijadero de las Minas)",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Ancon",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Antehuana",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Anzuelo (La Ordena)",
+      "postal_code": [
+        "60936"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Baril",
+      "postal_code": [
+        "60925"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Bejuco",
+      "postal_code": [
+        "60945"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Bravo",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Buen Amigo",
+      "postal_code": [
+        "60923"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Campo de Aviacion",
+      "postal_code": [
+        "60945"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Carrizo",
+      "postal_code": [
+        "60926",
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Cascalote",
+      "postal_code": [
+        "60933"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Cerro",
+      "postal_code": [
+        "60946"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Cerro Verde",
+      "postal_code": [
+        "60936"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Changungo",
+      "postal_code": [
+        "60944"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Chicharron",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Chinillo (Puerto Limon)",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Chino",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Cirian",
+      "postal_code": [
+        "60923",
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Cirul",
+      "postal_code": [
+        "60934"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Cobano",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Colomo",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Cordon Alto",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Corongorito",
+      "postal_code": [
+        "60935"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Cuchi",
+      "postal_code": [
+        "60925"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Cuirindal",
+      "postal_code": [
+        "60923",
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Descansadero",
+      "postal_code": [
+        "60935"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Encino",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Espadin",
+      "postal_code": [
+        "60948"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Espinal (San Jose del Milagro)",
+      "postal_code": [
+        "60948"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Guasimal",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Guayabito (La Ordenita)",
+      "postal_code": [
+        "60948"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Guayabo",
+      "postal_code": [
+        "60947"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Guayabo Norte (El Guayabillo)",
+      "postal_code": [
+        "60934"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Higueral",
+      "postal_code": [
+        "60923",
+        "60925",
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Huacal",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Huindure",
+      "postal_code": [
+        "60943"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Hule",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Jazmin",
+      "postal_code": [
+        "60934"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Laberinto",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Limon",
+      "postal_code": [
+        "60923",
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Limon de Cornejo",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Limon de Franco",
+      "postal_code": [
+        "60923"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Limon de Pineda",
+      "postal_code": [
+        "60945"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Limon de Tamayo (Limon de los Franco)",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Lirio",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Litigio",
+      "postal_code": [
+        "60938"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Llano",
+      "postal_code": [
+        "60936"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Manguito",
+      "postal_code": [
+        "60927",
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "60938"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Muleto",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Naranjal",
+      "postal_code": [
+        "60926",
+        "60927",
+        "60946"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Naranjito",
+      "postal_code": [
+        "60925"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Onzo",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Pajal",
+      "postal_code": [
+        "60926",
+        "60933"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Palo Pintado",
+      "postal_code": [
+        "60948"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Panteco",
+      "postal_code": [
+        "60925"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Papayo",
+      "postal_code": [
+        "60944"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Paso Ancho",
+      "postal_code": [
+        "60946"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Perdido",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Pino",
+      "postal_code": [
+        "60938"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Pino Gordo",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Pinzan",
+      "postal_code": [
+        "60935",
+        "60947"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Pitahayo",
+      "postal_code": [
+        "60945"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Plan de Tellez",
+      "postal_code": [
+        "60925"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Platanito",
+      "postal_code": [
+        "60935"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Puerto del Mirador",
+      "postal_code": [
+        "60930"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Puerto de San Salvador",
+      "postal_code": [
+        "60936"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Reparito",
+      "postal_code": [
+        "60948"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Riego",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Roble",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Saucito",
+      "postal_code": [
+        "60924",
+        "60925"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Saucito (Los Saucitos)",
+      "postal_code": [
+        "60946"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Sauz",
+      "postal_code": [
+        "60945",
+        "60946"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Tamarindo",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Tepeguaje",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Tuzon",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Vainillo",
+      "postal_code": [
+        "60936"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Valle",
+      "postal_code": [
+        "60925",
+        "60930"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Varil",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Zapatero",
+      "postal_code": [
+        "60923"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Zapote de Toscano",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Zapotillo",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Zoquital",
+      "postal_code": [
+        "60938"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Zorrillo",
+      "postal_code": [
+        "60946"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "60920"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Empleados Municipales",
+      "postal_code": [
+        "60920"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Enramaditas",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Espinosa",
+      "postal_code": [
+        "60930"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Ferreria (Fierreria)",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "60920"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Galeana",
+      "postal_code": [
+        "60946"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Guayabera",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Guayabillera",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Higuera Gacha",
+      "postal_code": [
+        "60944"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Jahuilera",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Jaujilla",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Jazmin",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Jose Maria Morelos",
+      "postal_code": [
+        "60940"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Aguacatera",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Anilera",
+      "postal_code": [
+        "60936"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Bocana",
+      "postal_code": [
+        "60923"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Bocana (El Carrizo)",
+      "postal_code": [
+        "60944"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Bolsa (Las Bolsas)",
+      "postal_code": [
+        "60938"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Botija",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Calera",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Calzada",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Camelina",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Capilla",
+      "postal_code": [
+        "60920",
+        "60923"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Chicayoma",
+      "postal_code": [
+        "60947"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Chilillera",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Concepcion",
+      "postal_code": [
+        "60925"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Cuchara",
+      "postal_code": [
+        "60936"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Cuchilla",
+      "postal_code": [
+        "60947"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Escoba",
+      "postal_code": [
+        "60923"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Florena (El Estribo)",
+      "postal_code": [
+        "60934"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Fundicion",
+      "postal_code": [
+        "60934",
+        "60938"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Gloria",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Guayabilla",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Guayabillera",
+      "postal_code": [
+        "60947"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Higuera Baleada",
+      "postal_code": [
+        "60944"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Huerta",
+      "postal_code": [
+        "60924",
+        "60944"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Huizachera",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Lagunita",
+      "postal_code": [
+        "60936"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Laja",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Lajita",
+      "postal_code": [
+        "60947"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Lajita (Los Bermejos)",
+      "postal_code": [
+        "60932"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Medina",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Mesa de Estrada",
+      "postal_code": [
+        "60947"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Mesa de los Horcones",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Mina",
+      "postal_code": [
+        "60923"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Minita",
+      "postal_code": [
+        "60925"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Mocha",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Mora",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Negra",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Ollita Colgada",
+      "postal_code": [
+        "60936"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Ordena",
+      "postal_code": [
+        "60945"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Ordena Vieja",
+      "postal_code": [
+        "60936"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Ordenita",
+      "postal_code": [
+        "60925"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Otatera",
+      "postal_code": [
+        "60947"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Palmita",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Pareja",
+      "postal_code": [
+        "60933"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Parota",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Parota (Las Parotas)",
+      "postal_code": [
+        "60923"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Parotera (La Pareja)",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Parotilla",
+      "postal_code": [
+        "60946"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Parotita",
+      "postal_code": [
+        "60927",
+        "60933"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Penita",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Picha",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Picota",
+      "postal_code": [
+        "60938"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Piedra Amarilla",
+      "postal_code": [
+        "60925"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Piedra Sonadora",
+      "postal_code": [
+        "60920"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Pitirera",
+      "postal_code": [
+        "60940"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Playa",
+      "postal_code": [
+        "60924",
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Raizuda",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Reatilla",
+      "postal_code": [
+        "60936"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Remonta",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Calandrias",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Camelinas",
+      "postal_code": [
+        "60923",
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Canadas",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Canas",
+      "postal_code": [
+        "60929"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Caramicuas",
+      "postal_code": [
+        "60923"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Carretas",
+      "postal_code": [
+        "60923",
+        "60934"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Charandas",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Charandillas",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Cuatas",
+      "postal_code": [
+        "60944"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Enramadas",
+      "postal_code": [
+        "60925",
+        "60944"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Galeras",
+      "postal_code": [
+        "60947"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Hembrillas",
+      "postal_code": [
+        "60925"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Higueras",
+      "postal_code": [
+        "60926",
+        "60944"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Huertas",
+      "postal_code": [
+        "60923",
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Huertitas",
+      "postal_code": [
+        "60926",
+        "60926",
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Sierrita",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Juntas",
+      "postal_code": [
+        "60921",
+        "60925"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Juntitas",
+      "postal_code": [
+        "60930"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Lagunas",
+      "postal_code": [
+        "60946"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Lajas",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Lomas",
+      "postal_code": [
+        "60926",
+        "60947"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Minas",
+      "postal_code": [
+        "60934"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Ollas",
+      "postal_code": [
+        "60944"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "60923"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Parotas",
+      "postal_code": [
+        "60938"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Tierritas",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Trojas",
+      "postal_code": [
+        "60936"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Yacatas",
+      "postal_code": [
+        "60947"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Tauna",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Tecata",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Tinajita",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Vainillera",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Vinata (Vinata Norte)",
+      "postal_code": [
+        "60935"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Vinatita",
+      "postal_code": [
+        "60935"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Vuelta",
+      "postal_code": [
+        "60930"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Zapotera",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "60920"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Lomas de Alejandria",
+      "postal_code": [
+        "60920"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Los Aguacates",
+      "postal_code": [
+        "60944"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Los Capires",
+      "postal_code": [
+        "60944"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Los Chupaderos",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Los Ciriancitos",
+      "postal_code": [
+        "60936"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Los Claveles",
+      "postal_code": [
+        "60920"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Los Coloraditos",
+      "postal_code": [
+        "60944"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Los Colorados",
+      "postal_code": [
+        "60936"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Los Copales",
+      "postal_code": [
+        "60944"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Los Coyules",
+      "postal_code": [
+        "60944"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Los Habillos",
+      "postal_code": [
+        "60927",
+        "60936"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Los Horcones",
+      "postal_code": [
+        "60938",
+        "60948"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Los Huizaches",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "60923"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Los Potreros",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Los Pozos",
+      "postal_code": [
+        "60925",
+        "60938"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Los Renovales",
+      "postal_code": [
+        "60945"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Los Tamaleros",
+      "postal_code": [
+        "60936"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Los Vallecitos",
+      "postal_code": [
+        "60936"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Los Zapotes",
+      "postal_code": [
+        "60946"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Los Zorrillos",
+      "postal_code": [
+        "60938"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Mata de Bule",
+      "postal_code": [
+        "60946"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Nombre de Dios",
+      "postal_code": [
+        "60944"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Nopalera",
+      "postal_code": [
+        "60923"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "60947"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Palo Dulce (Coalcomeca)",
+      "postal_code": [
+        "60938"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Parota de las Ollas",
+      "postal_code": [
+        "60923"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Parotita",
+      "postal_code": [
+        "60944"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Paso de Barranca Honda",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Paso de la Goleta",
+      "postal_code": [
+        "60944"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Paso del Atuto (Lechuguillas)",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Paso del Chivo",
+      "postal_code": [
+        "60948"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Patacuas",
+      "postal_code": [
+        "60947"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Patacuera",
+      "postal_code": [
+        "60946"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Piedras Grandes",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Pinzancitos",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Pinzandaran",
+      "postal_code": [
+        "60943"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Plan de Armas (El Plan)",
+      "postal_code": [
+        "60925"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Plan Grande",
+      "postal_code": [
+        "60944"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Potrerillos",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Pueblo Viejo",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Puertecitos",
+      "postal_code": [
+        "60947"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "60948"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "60947"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Rincon de Valdes",
+      "postal_code": [
+        "60944"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Rincon Viejo (La Huerta)",
+      "postal_code": [
+        "60944"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "San Jeronimo",
+      "postal_code": [
+        "60926"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "San Jose de los Pinos (Mancha de Pinos)",
+      "postal_code": [
+        "60925"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "San Martin",
+      "postal_code": [
+        "60920"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Siglo XXI",
+      "postal_code": [
+        "60920"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Toluca",
+      "postal_code": [
+        "60930"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Toluquillas",
+      "postal_code": [
+        "60945"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Toscano",
+      "postal_code": [
+        "60924"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Tototan",
+      "postal_code": [
+        "60927"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Tres Tubos",
+      "postal_code": [
+        "60948"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Vallecitos",
+      "postal_code": [
+        "60933",
+        "60947"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "60920"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Zalate",
+      "postal_code": [
+        "60936"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Zapote Norte",
+      "postal_code": [
+        "60930"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Abraham Cepeda",
+      "postal_code": [
+        "25353"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Arteaga Centro",
+      "postal_code": [
+        "25350"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Artesillas",
+      "postal_code": [
+        "25389"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Autopista",
+      "postal_code": [
+        "25352"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Ayuntamiento",
+      "postal_code": [
+        "25353"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Bella Union",
+      "postal_code": [
+        "25355"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Chapultepec (Chapul)",
+      "postal_code": [
+        "25396"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Ejidal",
+      "postal_code": [
+        "25354"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Carmen (Las Vigas)",
+      "postal_code": [
+        "25366"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Cedrito",
+      "postal_code": [
+        "25395"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Dieciocho de Marzo (El Dieciocho)",
+      "postal_code": [
+        "25376"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "25365"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Poleo",
+      "postal_code": [
+        "25399"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "25386"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "25373"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "25354"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "El Tunal",
+      "postal_code": [
+        "25365"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "25387"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Escobedo",
+      "postal_code": [
+        "25380"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Estrella de David",
+      "postal_code": [
+        "25354"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Fraccionamiento las Casas",
+      "postal_code": [
+        "25354"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Jame",
+      "postal_code": [
+        "25382"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Jardin",
+      "postal_code": [
+        "25352"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Biznaga",
+      "postal_code": [
+        "25380"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Ciruela",
+      "postal_code": [
+        "25375"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Efigenia",
+      "postal_code": [
+        "25374"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Joya",
+      "postal_code": [
+        "25354"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Particion",
+      "postal_code": [
+        "25352"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Presa",
+      "postal_code": [
+        "25380"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Purisima",
+      "postal_code": [
+        "25376"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Rosita",
+      "postal_code": [
+        "25382"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Copetonas",
+      "postal_code": [
+        "25363"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "25354"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "25369"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "25354"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Los Cedros",
+      "postal_code": [
+        "25354"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Los Lirios",
+      "postal_code": [
+        "25360"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Los Llanos",
+      "postal_code": [
+        "25386"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Los Quelites",
+      "postal_code": [
+        "25372"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "25354"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Mesa de las Tablas",
+      "postal_code": [
+        "25375"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Nuncio",
+      "postal_code": [
+        "25373"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Piedra Blanca (El Ranchito)",
+      "postal_code": [
+        "25363"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Potrero de abrego",
+      "postal_code": [
+        "25373"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Privada Alameda",
+      "postal_code": [
+        "25354"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Privanzas del Campestre",
+      "postal_code": [
+        "25369"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Puerto Carbonera",
+      "postal_code": [
+        "25363"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "25365"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Residencial la Nogalera",
+      "postal_code": [
+        "25352"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "San Antonio de las Alazanas",
+      "postal_code": [
+        "25370"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "25353"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "San Ignacio de Abajo",
+      "postal_code": [
+        "25385"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "25353"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "San Isidro de las Palomas",
+      "postal_code": [
+        "25354"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "San Jose del Vergel",
+      "postal_code": [
+        "25387"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "San Juan de los Dolores",
+      "postal_code": [
+        "25365"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "San Juanito (San Juanito de los Valdez)",
+      "postal_code": [
+        "25385"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "25352"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "25374"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Sierra Hermosa",
+      "postal_code": [
+        "25390"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Tierras Prietas",
+      "postal_code": [
+        "25380"
+      ]
+    },
+    {
+      "city": "Arteaga",
+      "colonia": "Valle Real",
+      "postal_code": [
+        "25354"
+      ]
+    }
+  ]
+}

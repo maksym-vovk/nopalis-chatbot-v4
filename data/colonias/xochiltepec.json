@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Xochiltepec",
+      "colonia": "Altavista",
+      "postal_code": [
+        "74620"
+      ]
+    },
+    {
+      "city": "Xochiltepec",
+      "colonia": "Ayotla",
+      "postal_code": [
+        "74620"
+      ]
+    },
+    {
+      "city": "Xochiltepec",
+      "colonia": "Xochiltepec",
+      "postal_code": [
+        "74620"
+      ]
+    }
+  ]
+}

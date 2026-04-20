@@ -1,0 +1,943 @@
+{
+  "data": [
+    {
+      "city": "Penamiller",
+      "colonia": "Adjuntas de Higueras",
+      "postal_code": [
+        "76499"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Adjuntas de los Guillen",
+      "postal_code": [
+        "76478"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Agua Caliente",
+      "postal_code": [
+        "76476"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Agua de angel",
+      "postal_code": [
+        "76499"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Agua de Pedro",
+      "postal_code": [
+        "76485"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Agua Fria",
+      "postal_code": [
+        "76483"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Alto Bonito",
+      "postal_code": [
+        "76485"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Aposentos",
+      "postal_code": [
+        "76486"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Boquillas",
+      "postal_code": [
+        "76486"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Camargo",
+      "postal_code": [
+        "76490"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Canoas",
+      "postal_code": [
+        "76465"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Cerro Colorado",
+      "postal_code": [
+        "76474"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Corral Viejo",
+      "postal_code": [
+        "76485"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Cruz del Milagro",
+      "postal_code": [
+        "76478"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Cuesta Colorada",
+      "postal_code": [
+        "76490"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Cuesta de los Ibarra",
+      "postal_code": [
+        "76485"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Deportiva",
+      "postal_code": [
+        "76454"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Aguacatito",
+      "postal_code": [
+        "76486"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Alamito",
+      "postal_code": [
+        "76486"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Alamito II",
+      "postal_code": [
+        "76492"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El alamo",
+      "postal_code": [
+        "76495"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Ardillero",
+      "postal_code": [
+        "76496"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Arte",
+      "postal_code": [
+        "76478"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Atoron",
+      "postal_code": [
+        "76494"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Cajon",
+      "postal_code": [
+        "76486"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Campamento",
+      "postal_code": [
+        "76496"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Cantoncito",
+      "postal_code": [
+        "76465"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Carricillo",
+      "postal_code": [
+        "76486"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "76478"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Carrizalillo",
+      "postal_code": [
+        "76486"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Comedero",
+      "postal_code": [
+        "76474"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Encino",
+      "postal_code": [
+        "76485"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Garambullal",
+      "postal_code": [
+        "76495"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Guamuchil",
+      "postal_code": [
+        "76478"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Higueron",
+      "postal_code": [
+        "76476"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Lindero",
+      "postal_code": [
+        "76486"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Magüeyal (Cuesta de los Ibarra)",
+      "postal_code": [
+        "76485"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Moral",
+      "postal_code": [
+        "76494"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Motoshi",
+      "postal_code": [
+        "76492"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Nogalito",
+      "postal_code": [
+        "76474"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Ojo de Agua",
+      "postal_code": [
+        "76478"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Pajarito",
+      "postal_code": [
+        "76478"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "76493"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Pilon",
+      "postal_code": [
+        "76492"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Piloncillo (El Puente)",
+      "postal_code": [
+        "76478"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Pitahayo",
+      "postal_code": [
+        "76478"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Plan",
+      "postal_code": [
+        "76464"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Portugues",
+      "postal_code": [
+        "76485"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Puerto de la Guitarra",
+      "postal_code": [
+        "76496"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Salado",
+      "postal_code": [
+        "76478"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Saucillo",
+      "postal_code": [
+        "76486"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Saucito I",
+      "postal_code": [
+        "76474"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Saucito II",
+      "postal_code": [
+        "76485"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Sauz",
+      "postal_code": [
+        "76495"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Tepozan",
+      "postal_code": [
+        "76474"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Tequezquite",
+      "postal_code": [
+        "76478"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Torbellino",
+      "postal_code": [
+        "76486"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "El Zapote II",
+      "postal_code": [
+        "76460",
+        "76495"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Frontoncillo",
+      "postal_code": [
+        "76486"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Alcaparosa",
+      "postal_code": [
+        "76478"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "76478"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Colonia I",
+      "postal_code": [
+        "76496"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Colonia III",
+      "postal_code": [
+        "76486"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Concentradora (La Milpa Larga)",
+      "postal_code": [
+        "76464"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Cuisha",
+      "postal_code": [
+        "76495"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Curva",
+      "postal_code": [
+        "76464"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Era",
+      "postal_code": [
+        "76478"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Ermita",
+      "postal_code": [
+        "76454"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "76478"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Estacada (Cruz del Milagro)",
+      "postal_code": [
+        "76478"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Estacion",
+      "postal_code": [
+        "76496"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Higuera",
+      "postal_code": [
+        "76493"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Ladera",
+      "postal_code": [
+        "76485"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Laja",
+      "postal_code": [
+        "76493"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Liga",
+      "postal_code": [
+        "76463"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Nopalera",
+      "postal_code": [
+        "76490"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Ordena",
+      "postal_code": [
+        "76476"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Paz",
+      "postal_code": [
+        "76492"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Plazuela",
+      "postal_code": [
+        "76494"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Resendena",
+      "postal_code": [
+        "76478"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Las Camelinas",
+      "postal_code": [
+        "76478"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Las Enramadas",
+      "postal_code": [
+        "76495"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Las Mesas",
+      "postal_code": [
+        "76485"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Las Mesitas",
+      "postal_code": [
+        "76483"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Tecozautla",
+      "postal_code": [
+        "76485"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "76478"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Vega",
+      "postal_code": [
+        "76495"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Yerbabuena",
+      "postal_code": [
+        "76470"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "La Zancona",
+      "postal_code": [
+        "76485"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Loma Blanca",
+      "postal_code": [
+        "76485"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "76494"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "76474"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Los Cerritos",
+      "postal_code": [
+        "76486"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Los Cuartos (El Salado)",
+      "postal_code": [
+        "76478"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Los Encinos",
+      "postal_code": [
+        "76484"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Los Llanos de Buenavista",
+      "postal_code": [
+        "76485"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Los Morales",
+      "postal_code": [
+        "76494"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Los Ocotes",
+      "postal_code": [
+        "76474"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Los Orozco",
+      "postal_code": [
+        "76474"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Los Pleitos",
+      "postal_code": [
+        "76460"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Maguey Verde",
+      "postal_code": [
+        "76490"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Mentiras",
+      "postal_code": [
+        "76492"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Mesa del Troje",
+      "postal_code": [
+        "76478"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Milpillas",
+      "postal_code": [
+        "76492"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Miranda",
+      "postal_code": [
+        "76478"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Molinitos",
+      "postal_code": [
+        "76471"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Morenos",
+      "postal_code": [
+        "76495"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Panales",
+      "postal_code": [
+        "76486"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Pena Blanca",
+      "postal_code": [
+        "76496"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Penamiller Centro",
+      "postal_code": [
+        "76450"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Piedra Gorda",
+      "postal_code": [
+        "76474"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Piedra Grande",
+      "postal_code": [
+        "76478"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Presidentes de Mexico",
+      "postal_code": [
+        "76453"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Pueblo Nuevo",
+      "postal_code": [
+        "76483"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Puerto Amarillo",
+      "postal_code": [
+        "76489"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Puerto Blanco",
+      "postal_code": [
+        "76494"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Puerto del Ahorcado",
+      "postal_code": [
+        "76489"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Puerto del Aire",
+      "postal_code": [
+        "76477"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Puerto del Cobre",
+      "postal_code": [
+        "76485"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Puerto del Ojo de Agua",
+      "postal_code": [
+        "76485"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Puerto de Ramos",
+      "postal_code": [
+        "76477"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Puerto de Santa Maria",
+      "postal_code": [
+        "76486"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Puerto Rico",
+      "postal_code": [
+        "76489"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Rio Blanco",
+      "postal_code": [
+        "76460"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "76453"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "San Isidro (San Isidro Boquillas)",
+      "postal_code": [
+        "76474"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "San Juanico",
+      "postal_code": [
+        "76489"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "76495"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "76454"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "San Miguel Palmas (Mision de Palmas)",
+      "postal_code": [
+        "76478"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Sebastianes",
+      "postal_code": [
+        "76489"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Villa Emiliano Zapata (Extoraz)",
+      "postal_code": [
+        "76495"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Villas de Guadalupe",
+      "postal_code": [
+        "76454"
+      ]
+    },
+    {
+      "city": "Penamiller",
+      "colonia": "Vista Alegre",
+      "postal_code": [
+        "76489"
+      ]
+    }
+  ]
+}

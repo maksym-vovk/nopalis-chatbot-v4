@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "city": "Los Reyes de Juarez",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "75415"
+      ]
+    },
+    {
+      "city": "Los Reyes de Juarez",
+      "colonia": "Buenavista de Juarez",
+      "postal_code": [
+        "75410"
+      ]
+    },
+    {
+      "city": "Los Reyes de Juarez",
+      "colonia": "Concordia de Aquiles Serdan",
+      "postal_code": [
+        "75400"
+      ]
+    },
+    {
+      "city": "Los Reyes de Juarez",
+      "colonia": "El Alto",
+      "postal_code": [
+        "75412"
+      ]
+    },
+    {
+      "city": "Los Reyes de Juarez",
+      "colonia": "Los Reyes de Juarez",
+      "postal_code": [
+        "75400"
+      ]
+    },
+    {
+      "city": "Los Reyes de Juarez",
+      "colonia": "San Juan Acozac",
+      "postal_code": [
+        "75410"
+      ]
+    },
+    {
+      "city": "Los Reyes de Juarez",
+      "colonia": "Santiago Acozac",
+      "postal_code": [
+        "75412"
+      ]
+    },
+    {
+      "city": "Los Reyes de Juarez",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "75404"
+      ]
+    }
+  ]
+}

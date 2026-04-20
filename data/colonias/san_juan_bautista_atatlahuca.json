@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Juan Bautista Atatlahuca",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "68204"
+      ]
+    },
+    {
+      "city": "San Juan Bautista Atatlahuca",
+      "colonia": "San Juan Bautista Atatlahuca",
+      "postal_code": [
+        "68204"
+      ]
+    },
+    {
+      "city": "San Juan Bautista Atatlahuca",
+      "colonia": "Zoquiapan Boca de los Rios",
+      "postal_code": [
+        "68205"
+      ]
+    }
+  ]
+}

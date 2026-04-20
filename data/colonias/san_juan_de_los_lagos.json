@@ -1,0 +1,438 @@
+{
+  "data": [
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Agua de Obispo",
+      "postal_code": [
+        "47110"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Ana Lucia Fovissste",
+      "postal_code": [
+        "47015"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Ayuntamiento",
+      "postal_code": [
+        "47015"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Canadas del Sol",
+      "postal_code": [
+        "47070"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Casas Viejas (Agua Blanca)",
+      "postal_code": [
+        "47106"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Club Cinegetico",
+      "postal_code": [
+        "47030"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Club de Leones",
+      "postal_code": [
+        "47089"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Continental",
+      "postal_code": [
+        "47069"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Cruz Verde",
+      "postal_code": [
+        "47013"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Cumbres",
+      "postal_code": [
+        "47070"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "El Chapaturrin",
+      "postal_code": [
+        "47070"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "El Herrero",
+      "postal_code": [
+        "47030"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "El Paso Pedregoso",
+      "postal_code": [
+        "47093"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "El Pedregoso",
+      "postal_code": [
+        "47090"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "El Plan",
+      "postal_code": [
+        "47095"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "47095"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "El Tecolote",
+      "postal_code": [
+        "47109"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "47050"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Espiritu Santo",
+      "postal_code": [
+        "47010"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Halconero de Abajo",
+      "postal_code": [
+        "47119"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Halconero de Arriba",
+      "postal_code": [
+        "47119"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Ilusion Las Antenas",
+      "postal_code": [
+        "47070"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Iprovipe Santa Teresa",
+      "postal_code": [
+        "47015"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Jardines de San Juan",
+      "postal_code": [
+        "47040"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "La Alcala",
+      "postal_code": [
+        "47069"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "La Cuesta de Medina",
+      "postal_code": [
+        "47073"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "La Labor de los Alba",
+      "postal_code": [
+        "47116"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "La Martinica",
+      "postal_code": [
+        "47020"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "La Palma",
+      "postal_code": [
+        "47080"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Las Moras",
+      "postal_code": [
+        "47073"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Las Moras 3 (El Pedregal)",
+      "postal_code": [
+        "47073"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Las Verdolagas",
+      "postal_code": [
+        "47118"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "La Ventana",
+      "postal_code": [
+        "47011"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "La Zagala",
+      "postal_code": [
+        "47059"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Llamaradas",
+      "postal_code": [
+        "47070"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "47020"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Lomas de Galindo",
+      "postal_code": [
+        "47040"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Lomas de Santa Teresa",
+      "postal_code": [
+        "47020"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Lomas Verdes",
+      "postal_code": [
+        "47013"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Los Aguirre de Abajo",
+      "postal_code": [
+        "47116"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Los Halcones",
+      "postal_code": [
+        "47015"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Los Lagos",
+      "postal_code": [
+        "47030"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Maravillas de San Juan",
+      "postal_code": [
+        "47073"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Martires Cristeros",
+      "postal_code": [
+        "47023"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Mezquitic de la Magdalena",
+      "postal_code": [
+        "47100"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Mi Nuevo San Juan",
+      "postal_code": [
+        "47040"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "47070"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Plaza de Toros",
+      "postal_code": [
+        "47080"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Rita Perez de Moreno",
+      "postal_code": [
+        "47060"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Riviera",
+      "postal_code": [
+        "47069"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Riviera 2a Seccion",
+      "postal_code": [
+        "47069"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Rosa de Castilla",
+      "postal_code": [
+        "47073"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "San Antonio de los Barrera",
+      "postal_code": [
+        "47117"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "47030"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "San Jose",
+      "postal_code": [
+        "47050"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "San Jose de Olivares",
+      "postal_code": [
+        "47105"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "San Juan de los Lagos Centro",
+      "postal_code": [
+        "47000"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "San Martin",
+      "postal_code": [
+        "47079"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "47078"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Santa Cecilia (La Sauceda)",
+      "postal_code": [
+        "47013"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "47010"
+      ]
+    },
+    {
+      "city": "San Juan de los Lagos",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "47020"
+      ]
+    }
+  ]
+}

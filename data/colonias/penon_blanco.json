@@ -1,0 +1,432 @@
+{
+  "data": [
+    {
+      "city": "Penon Blanco",
+      "colonia": "12 de Diciembre",
+      "postal_code": [
+        "34764"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Acatita",
+      "postal_code": [
+        "34745"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Agua Nueva",
+      "postal_code": [
+        "34746"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Altavista",
+      "postal_code": [
+        "34765"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Belem (Sombra del Paraiso)",
+      "postal_code": [
+        "34744"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Colonia Covadonga",
+      "postal_code": [
+        "34753"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Colonia Juarez",
+      "postal_code": [
+        "34743"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "De la Cruz",
+      "postal_code": [
+        "34764"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "El Bajio (Estancia Yerbaniz)",
+      "postal_code": [
+        "34745"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "El Chaparral (La Tinaja)",
+      "postal_code": [
+        "34757"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "El Espejo",
+      "postal_code": [
+        "34755",
+        "34767"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "El Faro",
+      "postal_code": [
+        "34746"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "El Lucero",
+      "postal_code": [
+        "34746"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "El Ojito del Indio",
+      "postal_code": [
+        "34740"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "El Polvo (Las Peras)",
+      "postal_code": [
+        "34743"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "34766"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "El Roble",
+      "postal_code": [
+        "34745"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "El Tecolote",
+      "postal_code": [
+        "34746"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "El Tulillo",
+      "postal_code": [
+        "34740"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "34765"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Escuadron Doscientos Uno",
+      "postal_code": [
+        "34746"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Felipe angeles",
+      "postal_code": [
+        "34768"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "General Jesus Agustin Castro (Independencia)",
+      "postal_code": [
+        "34746"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "34763"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Guajotita",
+      "postal_code": [
+        "34744"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Ignacio Zaragoza (San Pablo)",
+      "postal_code": [
+        "34757"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Jesus Maria",
+      "postal_code": [
+        "34763"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "La Boquilla",
+      "postal_code": [
+        "34753"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "La Calzada",
+      "postal_code": [
+        "34767"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "La Campana",
+      "postal_code": [
+        "34747"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "La Concha",
+      "postal_code": [
+        "34744"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "La Cumbre",
+      "postal_code": [
+        "34753"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "La Flor",
+      "postal_code": [
+        "34743"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "La Granja (El Tanque)",
+      "postal_code": [
+        "34753"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "La Luz del Dia",
+      "postal_code": [
+        "34765"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "La Rivera [El Divisadero]",
+      "postal_code": [
+        "34746"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Las Cruces",
+      "postal_code": [
+        "34743"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Las Enramadas",
+      "postal_code": [
+        "34743"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Los Castillos",
+      "postal_code": [
+        "34744"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Los Hoyos",
+      "postal_code": [
+        "34744"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Los Lunas",
+      "postal_code": [
+        "34768"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Los Pirules",
+      "postal_code": [
+        "34746"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Los Santiagos",
+      "postal_code": [
+        "34765"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Los Sauces (Casas Viejas)",
+      "postal_code": [
+        "34746"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Luis Moya (San Isidro)",
+      "postal_code": [
+        "34747"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Nuevo Covadonga",
+      "postal_code": [
+        "34754"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Penon Blanco Centro",
+      "postal_code": [
+        "34760"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Rancho de Gerardo",
+      "postal_code": [
+        "34747"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Rancho la Piedra",
+      "postal_code": [
+        "34747"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Rancho la Soledad",
+      "postal_code": [
+        "34746"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "San Antonio de los Fresnos",
+      "postal_code": [
+        "34743"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "34768"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "San Jorge (El Papalote)",
+      "postal_code": [
+        "34757"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "San Pedro del alamo (El alamo)",
+      "postal_code": [
+        "34745"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "San Pedro de los Encinos",
+      "postal_code": [
+        "34755"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "34753"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "34748"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "34767"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Victor Manuel Sanchez (Jacales)",
+      "postal_code": [
+        "34753"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Yerbanis",
+      "postal_code": [
+        "34745"
+      ]
+    },
+    {
+      "city": "Penon Blanco",
+      "colonia": "Yerbaniz Fraccion Cinco(HaciendaAtotonilco)",
+      "postal_code": [
+        "34745"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "data": [
+    {
+      "city": "Huehuetan",
+      "colonia": "5 de Mayo",
+      "postal_code": [
+        "30674"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "6 de Abril",
+      "postal_code": [
+        "30673"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Agustin Rubio",
+      "postal_code": [
+        "30665"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Belisario Dominguez (El Bucaro)",
+      "postal_code": [
+        "30665"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "30670"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Canton el Bucaro",
+      "postal_code": [
+        "30665"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Canton el Otono",
+      "postal_code": [
+        "30665"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Canton el Tivoli",
+      "postal_code": [
+        "30665"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Canton el Triunfo",
+      "postal_code": [
+        "30665"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Chamulapa",
+      "postal_code": [
+        "30670"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Chamulapita",
+      "postal_code": [
+        "30660"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Coapantes",
+      "postal_code": [
+        "30674"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Coapantes Buenavista",
+      "postal_code": [
+        "30674"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Coapantes el Jobal",
+      "postal_code": [
+        "30674"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Colosio",
+      "postal_code": [
+        "30675"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Cuntalapa",
+      "postal_code": [
+        "30676"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Cuquillo",
+      "postal_code": [
+        "30674"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Cuyamiapa",
+      "postal_code": [
+        "30670"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "El Bajio",
+      "postal_code": [
+        "30670"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "El Bajo Alianza P/PROD",
+      "postal_code": [
+        "30675"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "El Cairo",
+      "postal_code": [
+        "30667"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "30674"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "El Corozal",
+      "postal_code": [
+        "30677"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Esperancita",
+      "postal_code": [
+        "30666"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Esquipulas",
+      "postal_code": [
+        "30670"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Flor de Un Dia",
+      "postal_code": [
+        "30666"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "FOVISSSTE Guadalupe",
+      "postal_code": [
+        "30670"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Gibraltar",
+      "postal_code": [
+        "30662"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Guachipilin",
+      "postal_code": [
+        "30673"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "30662",
+        "30670"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Huamuchal",
+      "postal_code": [
+        "30673"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Huehuetan II",
+      "postal_code": [
+        "30676"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Independencia",
+      "postal_code": [
+        "30664"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Juan Sabines",
+      "postal_code": [
+        "30676"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "La Estrella",
+      "postal_code": [
+        "30667"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "La Florida",
+      "postal_code": [
+        "30667"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "La Lima",
+      "postal_code": [
+        "30670"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Las Brisas",
+      "postal_code": [
+        "30670"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Las Palomas",
+      "postal_code": [
+        "30673"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Las Tres Marias",
+      "postal_code": [
+        "30670"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "La Suchi",
+      "postal_code": [
+        "30674"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "La Unidad",
+      "postal_code": [
+        "30667"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "30675"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Nexapa",
+      "postal_code": [
+        "30674"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Nueva Victoria",
+      "postal_code": [
+        "30675"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Nuevo Huehuetan",
+      "postal_code": [
+        "30660"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Plan de Ayala",
+      "postal_code": [
+        "30670"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Plan de Iguala",
+      "postal_code": [
+        "30673"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Progreso",
+      "postal_code": [
+        "30666"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "30660"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "San Jacinto",
+      "postal_code": [
+        "30660"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "San Jose el Amate",
+      "postal_code": [
+        "30673"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "San Luis",
+      "postal_code": [
+        "30675"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "30660"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "30667"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "30675"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "30660"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "30660"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Sinai",
+      "postal_code": [
+        "30666"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Siria",
+      "postal_code": [
+        "30666"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Suenos",
+      "postal_code": [
+        "30666"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Tamarindal",
+      "postal_code": [
+        "30666"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Tepehuitz",
+      "postal_code": [
+        "30660"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Texpuyo",
+      "postal_code": [
+        "30673"
+      ]
+    },
+    {
+      "city": "Huehuetan",
+      "colonia": "Toliman",
+      "postal_code": [
+        "30674"
+      ]
+    }
+  ]
+}

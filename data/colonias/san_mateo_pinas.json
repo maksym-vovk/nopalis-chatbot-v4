@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Mateo Pinas",
+      "colonia": "Rancho Canada de Minas",
+      "postal_code": [
+        "70973"
+      ]
+    },
+    {
+      "city": "San Mateo Pinas",
+      "colonia": "San Mateo Pinas",
+      "postal_code": [
+        "70970"
+      ]
+    },
+    {
+      "city": "San Mateo Pinas",
+      "colonia": "Union de Guerrero",
+      "postal_code": [
+        "70972"
+      ]
+    }
+  ]
+}

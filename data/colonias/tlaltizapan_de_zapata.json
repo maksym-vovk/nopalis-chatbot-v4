@@ -1,0 +1,426 @@
+{
+  "data": [
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "10 de Mayo (La Matanza)",
+      "postal_code": [
+        "62772"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "2030",
+      "postal_code": [
+        "62778"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Acamilpa",
+      "postal_code": [
+        "62778"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Amador Salazar",
+      "postal_code": [
+        "62776"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Ampliacion Benito Juarez",
+      "postal_code": [
+        "62773"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Ampliacion El Mirador (Ampliacion Bomba)",
+      "postal_code": [
+        "62776"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Ampliacion El Tecolote",
+      "postal_code": [
+        "62773"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Barranca Honda",
+      "postal_code": [
+        "62773"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "62773"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Bonifacio Garcia (Colonia Alejandra)",
+      "postal_code": [
+        "62774"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Carlos Pacheco",
+      "postal_code": [
+        "62770"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Casa Blanca",
+      "postal_code": [
+        "62777"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Club Haciendas de Ticuman",
+      "postal_code": [
+        "62773"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "62778"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Echeverria",
+      "postal_code": [
+        "62772"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "El Cajoncito",
+      "postal_code": [
+        "62772"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "El Conquistador",
+      "postal_code": [
+        "62778"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "El Jagüey",
+      "postal_code": [
+        "62773"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "El Marimon",
+      "postal_code": [
+        "62778"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "62775",
+        "62776"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "El Pochote",
+      "postal_code": [
+        "62777"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "El Tecolote",
+      "postal_code": [
+        "62773"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "El Texcal",
+      "postal_code": [
+        "62778"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "El Topil",
+      "postal_code": [
+        "62775"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "62772"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Francisco Javier Mina",
+      "postal_code": [
+        "62778"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "62773"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Huatecalco",
+      "postal_code": [
+        "62777"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Huepalo",
+      "postal_code": [
+        "62773"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Huertas el Mirador",
+      "postal_code": [
+        "62775"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Huertos de Ticuman",
+      "postal_code": [
+        "62773"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "62772"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Independencia",
+      "postal_code": [
+        "62772"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "La Cima",
+      "postal_code": [
+        "62778"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "La Curva",
+      "postal_code": [
+        "62773"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "La Loma",
+      "postal_code": [
+        "62778"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "La Mina",
+      "postal_code": [
+        "62777"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "La Piedra Rodada",
+      "postal_code": [
+        "62774"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Las Estacas",
+      "postal_code": [
+        "62774"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Las Galeras",
+      "postal_code": [
+        "62775"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Las Juntas",
+      "postal_code": [
+        "62775"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Los Cajetes",
+      "postal_code": [
+        "62778"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Los Presidentes",
+      "postal_code": [
+        "62775"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Morelos",
+      "postal_code": [
+        "62773"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Otilio Montano",
+      "postal_code": [
+        "62776"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Palmillas",
+      "postal_code": [
+        "62775"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Palo Prieto (Chipitongo)",
+      "postal_code": [
+        "62774"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Pedregal",
+      "postal_code": [
+        "62773"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Plan de Ayala",
+      "postal_code": [
+        "62775"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Pueblo Nuevo",
+      "postal_code": [
+        "62778"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "San Miguel 30",
+      "postal_code": [
+        "62776"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "San Pablo Hidalgo",
+      "postal_code": [
+        "62775"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "San Rafael Zaragoza",
+      "postal_code": [
+        "62775"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Santa Rosa Treinta",
+      "postal_code": [
+        "62772"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Tecoloapan (Aguas Vivas)",
+      "postal_code": [
+        "62778"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Temilpa Nuevo",
+      "postal_code": [
+        "62774"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Temilpa Viejo",
+      "postal_code": [
+        "62774"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Temimilcingo",
+      "postal_code": [
+        "62778"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Ticuman",
+      "postal_code": [
+        "62773",
+        "62773"
+      ]
+    },
+    {
+      "city": "Tlaltizapan de Zapata",
+      "colonia": "Tlaltizapan Centro",
+      "postal_code": [
+        "62770"
+      ]
+    }
+  ]
+}

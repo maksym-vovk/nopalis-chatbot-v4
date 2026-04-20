@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Cosoltepec",
+      "colonia": "Cosoltepec",
+      "postal_code": [
+        "69020"
+      ]
+    },
+    {
+      "city": "Cosoltepec",
+      "colonia": "Joluxtla",
+      "postal_code": [
+        "69021"
+      ]
+    },
+    {
+      "city": "Cosoltepec",
+      "colonia": "Tultitlan de Guadalcazar",
+      "postal_code": [
+        "69023"
+      ]
+    }
+  ]
+}

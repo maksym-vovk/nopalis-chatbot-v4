@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Santa Catarina Ixtepeji",
+      "colonia": "El Cerezal",
+      "postal_code": [
+        "68775"
+      ]
+    },
+    {
+      "city": "Santa Catarina Ixtepeji",
+      "colonia": "El Punto",
+      "postal_code": [
+        "68776"
+      ]
+    },
+    {
+      "city": "Santa Catarina Ixtepeji",
+      "colonia": "San Pedro Nexicho",
+      "postal_code": [
+        "68776"
+      ]
+    },
+    {
+      "city": "Santa Catarina Ixtepeji",
+      "colonia": "Santa Catarina Ixtepeji",
+      "postal_code": [
+        "68774"
+      ]
+    },
+    {
+      "city": "Santa Catarina Ixtepeji",
+      "colonia": "Tierra Colorada",
+      "postal_code": [
+        "68777"
+      ]
+    }
+  ]
+}

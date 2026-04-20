@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Atoyatempan",
+      "colonia": "Atoyatempan Centro",
+      "postal_code": [
+        "75620"
+      ]
+    },
+    {
+      "city": "Atoyatempan",
+      "colonia": "Chilpanero",
+      "postal_code": [
+        "75620"
+      ]
+    },
+    {
+      "city": "Atoyatempan",
+      "colonia": "Cuatemixtla",
+      "postal_code": [
+        "75620"
+      ]
+    },
+    {
+      "city": "Atoyatempan",
+      "colonia": "Los Teteles",
+      "postal_code": [
+        "75620"
+      ]
+    }
+  ]
+}

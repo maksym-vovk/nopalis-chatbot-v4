@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "city": "Teteles de avila Castillo",
+      "colonia": "Chalahuico",
+      "postal_code": [
+        "73937"
+      ]
+    },
+    {
+      "city": "Teteles de avila Castillo",
+      "colonia": "Coacalco",
+      "postal_code": [
+        "73939"
+      ]
+    },
+    {
+      "city": "Teteles de avila Castillo",
+      "colonia": "El Amele",
+      "postal_code": [
+        "73934"
+      ]
+    },
+    {
+      "city": "Teteles de avila Castillo",
+      "colonia": "Huixta",
+      "postal_code": [
+        "73930"
+      ]
+    },
+    {
+      "city": "Teteles de avila Castillo",
+      "colonia": "La Colonia",
+      "postal_code": [
+        "73933"
+      ]
+    },
+    {
+      "city": "Teteles de avila Castillo",
+      "colonia": "Teteles de avila Castillo Centro",
+      "postal_code": [
+        "73930"
+      ]
+    },
+    {
+      "city": "Teteles de avila Castillo",
+      "colonia": "Texcalaco",
+      "postal_code": [
+        "73938"
+      ]
+    },
+    {
+      "city": "Teteles de avila Castillo",
+      "colonia": "Zitalapan",
+      "postal_code": [
+        "73935"
+      ]
+    }
+  ]
+}

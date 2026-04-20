@@ -1,0 +1,978 @@
+{
+  "data": [
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "42303"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Agua Florida",
+      "postal_code": [
+        "42317"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "alamo",
+      "postal_code": [
+        "42306"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Arbolado",
+      "postal_code": [
+        "42306"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Arenalito",
+      "postal_code": [
+        "42325"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Bangandho",
+      "postal_code": [
+        "42324"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "42302"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Botenguedho",
+      "postal_code": [
+        "42325"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Boxhuada",
+      "postal_code": [
+        "42321"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Canada Chica",
+      "postal_code": [
+        "42320"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Cantamaye",
+      "postal_code": [
+        "42306"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Cantinela",
+      "postal_code": [
+        "42323"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Capula",
+      "postal_code": [
+        "42325"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Cerrito Capula",
+      "postal_code": [
+        "42325"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Cerritos",
+      "postal_code": [
+        "42313"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Cerro Blanco",
+      "postal_code": [
+        "42313"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Chalmita",
+      "postal_code": [
+        "42313"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Cuatro Milpas",
+      "postal_code": [
+        "42302"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Cuesta Colorada",
+      "postal_code": [
+        "42317"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Del Valle Remedios",
+      "postal_code": [
+        "42325"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Dios Padre",
+      "postal_code": [
+        "42323"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Alberto",
+      "postal_code": [
+        "42323"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Banxu",
+      "postal_code": [
+        "42316"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Barrido",
+      "postal_code": [
+        "42323"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Bojay",
+      "postal_code": [
+        "42306"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Bondho",
+      "postal_code": [
+        "42304"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Botho (El Botho el Espiritu)",
+      "postal_code": [
+        "42317"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Boye",
+      "postal_code": [
+        "42321"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Calvario",
+      "postal_code": [
+        "42303"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "42302"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "42302"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Deca",
+      "postal_code": [
+        "42326"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Defay",
+      "postal_code": [
+        "42317"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Dexthi Alberto",
+      "postal_code": [
+        "42326"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Dexthi San Juanico",
+      "postal_code": [
+        "42306"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Dextho",
+      "postal_code": [
+        "42327"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Dezha",
+      "postal_code": [
+        "42317"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Durazno",
+      "postal_code": [
+        "42310"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Espino",
+      "postal_code": [
+        "42313"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Espiritu",
+      "postal_code": [
+        "42313"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Fithzi",
+      "postal_code": [
+        "42303"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Huacri",
+      "postal_code": [
+        "42306"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Manantial",
+      "postal_code": [
+        "42317"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Mandho",
+      "postal_code": [
+        "42327"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Maye",
+      "postal_code": [
+        "42304"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Meje",
+      "postal_code": [
+        "42315"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Mirador Capula",
+      "postal_code": [
+        "42325"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Nandho",
+      "postal_code": [
+        "42315"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Nith",
+      "postal_code": [
+        "42325"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Nogal",
+      "postal_code": [
+        "42317"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Olivo",
+      "postal_code": [
+        "42313"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Oro",
+      "postal_code": [
+        "42305"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Puerto de Bangandho",
+      "postal_code": [
+        "42324"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Rosario Capula",
+      "postal_code": [
+        "42325"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Tablon",
+      "postal_code": [
+        "42323"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Tephe",
+      "postal_code": [
+        "42323"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "El Valante",
+      "postal_code": [
+        "42325"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Ex-Hacienda Debodhe",
+      "postal_code": [
+        "42325"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Ex-Hacienda de Ocotza",
+      "postal_code": [
+        "42320"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Gastejhe",
+      "postal_code": [
+        "42313"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "General Felipe angeles",
+      "postal_code": [
+        "42325"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Granaditas",
+      "postal_code": [
+        "42306"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Gundho",
+      "postal_code": [
+        "42317"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Huacri de la Paz",
+      "postal_code": [
+        "42317"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Huapilla",
+      "postal_code": [
+        "42324"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Humedades",
+      "postal_code": [
+        "42323"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Ignacio Lopez Rayon",
+      "postal_code": [
+        "42327"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Independencia",
+      "postal_code": [
+        "42320"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Ixmiquilpan Centro",
+      "postal_code": [
+        "42300"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Jahuey Capula",
+      "postal_code": [
+        "42324"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Jesus",
+      "postal_code": [
+        "42300"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Joaquin Baranda",
+      "postal_code": [
+        "42302"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Julian Villagran",
+      "postal_code": [
+        "42320"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "La Estacion",
+      "postal_code": [
+        "42325"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "La Heredad",
+      "postal_code": [
+        "42310"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "La Huerta",
+      "postal_code": [
+        "42300"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "La Huerta Capula",
+      "postal_code": [
+        "42324"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "La Lagunita",
+      "postal_code": [
+        "42315"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "La Libertad",
+      "postal_code": [
+        "42325"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "La Loma",
+      "postal_code": [
+        "42324"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "La Loma de la Cruz",
+      "postal_code": [
+        "42325"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "La Loma del Oro",
+      "postal_code": [
+        "42305"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "La Loma de Pueblo Nuevo",
+      "postal_code": [
+        "42324"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "La Loma Julian Villagran",
+      "postal_code": [
+        "42320"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "La Loma (La Loma Lopez Rayon)",
+      "postal_code": [
+        "42327"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "La palma",
+      "postal_code": [
+        "42306"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "La Palma",
+      "postal_code": [
+        "42306"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "La Pechuga",
+      "postal_code": [
+        "42316"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "La Presa",
+      "postal_code": [
+        "42325"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "La Purisima",
+      "postal_code": [
+        "42302"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "La Reforma",
+      "postal_code": [
+        "42302"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Las Bugambilias",
+      "postal_code": [
+        "42302"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Las Emes",
+      "postal_code": [
+        "42315"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Lazaro Cardenas (El Internado)",
+      "postal_code": [
+        "42313"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Loma de San Pedro de Remedios (La Loma)",
+      "postal_code": [
+        "42325"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Lopez Flores",
+      "postal_code": [
+        "42325"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Los Aguacates",
+      "postal_code": [
+        "42303"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Los Cruces",
+      "postal_code": [
+        "42313"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Los Nogales",
+      "postal_code": [
+        "42302"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "42325"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Los Remedios",
+      "postal_code": [
+        "42313"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Lucero",
+      "postal_code": [
+        "42305"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Maguey Blanco",
+      "postal_code": [
+        "42320"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Manzanillo",
+      "postal_code": [
+        "42317"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Media Luna",
+      "postal_code": [
+        "42305"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "42302"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Milpa Grande",
+      "postal_code": [
+        "42325"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Naxthey",
+      "postal_code": [
+        "42306"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Nequeteje",
+      "postal_code": [
+        "42313"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Nixtejhe (San Juanico Nixtejhe)",
+      "postal_code": [
+        "42310"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Nueva Cerritos",
+      "postal_code": [
+        "42302"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Ojuelos",
+      "postal_code": [
+        "42316"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Orizabita",
+      "postal_code": [
+        "42306"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Panales",
+      "postal_code": [
+        "42326"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Paredes",
+      "postal_code": [
+        "42324"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Pozo el Mirador",
+      "postal_code": [
+        "42313"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Pueblo Nuevo",
+      "postal_code": [
+        "42324"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Puerto Dexthi",
+      "postal_code": [
+        "42310"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Quixpedhe",
+      "postal_code": [
+        "42313"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Samayoa",
+      "postal_code": [
+        "42310"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "San Andres Orizabita",
+      "postal_code": [
+        "42313"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "42302"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "San Javier",
+      "postal_code": [
+        "42305"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "San Juanico",
+      "postal_code": [
+        "42310"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "42302"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "42302"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "San Pedro Capula",
+      "postal_code": [
+        "42325"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "42302"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Santa Alicia",
+      "postal_code": [
+        "42302"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "42305"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Santa Ana (Barrio de Progreso)",
+      "postal_code": [
+        "42302"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Taxadho",
+      "postal_code": [
+        "42320"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Taxtho",
+      "postal_code": [
+        "42321"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Ustheje",
+      "postal_code": [
+        "42306"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Vazquez",
+      "postal_code": [
+        "42325"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "42302"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Villa de la Paz",
+      "postal_code": [
+        "42321"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "42302",
+        "42313"
+      ]
+    },
+    {
+      "city": "Ixmiquilpan",
+      "colonia": "Xaxny",
+      "postal_code": [
+        "42306"
+      ]
+    }
+  ]
+}

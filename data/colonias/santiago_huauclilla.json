@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Santiago Huauclilla",
+      "colonia": "San Bartolome Zotula",
+      "postal_code": [
+        "69657"
+      ]
+    },
+    {
+      "city": "Santiago Huauclilla",
+      "colonia": "San Juan Tlalixtlahuaca",
+      "postal_code": [
+        "69651"
+      ]
+    },
+    {
+      "city": "Santiago Huauclilla",
+      "colonia": "Santiago Huauclilla",
+      "postal_code": [
+        "69659"
+      ]
+    }
+  ]
+}

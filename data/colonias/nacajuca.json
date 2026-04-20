@@ -1,0 +1,503 @@
+{
+  "data": [
+    {
+      "city": "Nacajuca",
+      "colonia": "17 de Julio",
+      "postal_code": [
+        "86220"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Amaton",
+      "postal_code": [
+        "86245"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "America",
+      "postal_code": [
+        "86247"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Aparceros",
+      "postal_code": [
+        "86246"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Arroyo",
+      "postal_code": [
+        "86240",
+        "86245"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Arroyo San Cipriano",
+      "postal_code": [
+        "86243"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Banderas (Guatacalca 2da. Seccion)",
+      "postal_code": [
+        "86236"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Belen",
+      "postal_code": [
+        "86237"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "86246"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Bosque de Saloya",
+      "postal_code": [
+        "86246"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Brisas del Carrizal",
+      "postal_code": [
+        "86246"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Corralillo",
+      "postal_code": [
+        "86247"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Corriente 1ra. Seccion",
+      "postal_code": [
+        "86237"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Corriente 2da. Seccion",
+      "postal_code": [
+        "86237"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "86220"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "El Cedro",
+      "postal_code": [
+        "86247"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "El Cometa",
+      "postal_code": [
+        "86236"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "El Dorado",
+      "postal_code": [
+        "86245"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "El Guasimo",
+      "postal_code": [
+        "86243"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "El Hormiguero",
+      "postal_code": [
+        "86243"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "El Tigre",
+      "postal_code": [
+        "86245"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "86237"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Europa",
+      "postal_code": [
+        "86247"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Ferlles Nuevo Campestre",
+      "postal_code": [
+        "86244"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Guatacalca",
+      "postal_code": [
+        "86237",
+        "86237"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Guatacalca (Guatacalca 1ra. Seccion)",
+      "postal_code": [
+        "86245"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Guayacan",
+      "postal_code": [
+        "86247"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Guaytalpa",
+      "postal_code": [
+        "86233"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Jimenez",
+      "postal_code": [
+        "86243"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "La Cruz de Nacajuca",
+      "postal_code": [
+        "86237"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "La Cruz de Olcuatitan",
+      "postal_code": [
+        "86237"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "La Loma",
+      "postal_code": [
+        "86237"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "La Pera",
+      "postal_code": [
+        "86246"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "La Selva",
+      "postal_code": [
+        "86246"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Libertad",
+      "postal_code": [
+        "86246"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Libertad 2da. Seccion",
+      "postal_code": [
+        "86246"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Lomitas",
+      "postal_code": [
+        "86245"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "86247"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Manuel Buendia Tellez Giron",
+      "postal_code": [
+        "86246"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Mazateupa",
+      "postal_code": [
+        "86230"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Nacajuca",
+      "postal_code": [
+        "86220"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Nacaxuxuca 1a Secc",
+      "postal_code": [
+        "86220"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Nacaxuxuca 2a Secc",
+      "postal_code": [
+        "86220"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Olcuatitan",
+      "postal_code": [
+        "86237"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Palmira",
+      "postal_code": [
+        "86246"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Paseos de La Primavera",
+      "postal_code": [
+        "86246"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Pomoca",
+      "postal_code": [
+        "86247"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Pomoca Valle Real",
+      "postal_code": [
+        "86247"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Privada Real del Cedro",
+      "postal_code": [
+        "86247"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Quintas del Bosque",
+      "postal_code": [
+        "86247"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Real Campestre",
+      "postal_code": [
+        "86246"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Residencial Mediterraneo",
+      "postal_code": [
+        "86247"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Rivera Alta",
+      "postal_code": [
+        "86220"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Saloya 1ra. Seccion",
+      "postal_code": [
+        "86245"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Saloya 2da. Seccion",
+      "postal_code": [
+        "86247"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Salvador Allende",
+      "postal_code": [
+        "86240"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Samarkanda",
+      "postal_code": [
+        "86244"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Sandial",
+      "postal_code": [
+        "86236"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "San Isidro 1ra. Seccion",
+      "postal_code": [
+        "86233"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "San Isidro 2da. Seccion",
+      "postal_code": [
+        "86233"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "San Jose Pajonal",
+      "postal_code": [
+        "86233"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "San Simon",
+      "postal_code": [
+        "86233"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Tabasco I",
+      "postal_code": [
+        "86246"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Tabasco II",
+      "postal_code": [
+        "86246"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Tapotzingo",
+      "postal_code": [
+        "86230"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Taxco",
+      "postal_code": [
+        "86240"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Tecoluta 1ra. Seccion",
+      "postal_code": [
+        "86233"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Tecoluta 2da. Seccion",
+      "postal_code": [
+        "86233"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Tenerife",
+      "postal_code": [
+        "86247"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Tucta",
+      "postal_code": [
+        "86230"
+      ]
+    },
+    {
+      "city": "Nacajuca",
+      "colonia": "Vainilla",
+      "postal_code": [
+        "86240"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,613 @@
+{
+  "data": [
+    {
+      "city": "Elota",
+      "colonia": "26 de Enero",
+      "postal_code": [
+        "82743"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Agua Nueva",
+      "postal_code": [
+        "82760"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Alta Rosa (Pipila II)",
+      "postal_code": [
+        "82741"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Arroyitos",
+      "postal_code": [
+        "82702"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Azteca",
+      "postal_code": [
+        "82702"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "82786"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "82788"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Boscoso",
+      "postal_code": [
+        "82773"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "82770"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Caimanes II",
+      "postal_code": [
+        "82777"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Campo Agrovo",
+      "postal_code": [
+        "82773"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Campo Bellavista",
+      "postal_code": [
+        "82786"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Campo Cachanilla",
+      "postal_code": [
+        "82773"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Campo Capule",
+      "postal_code": [
+        "82786"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Campo Cinco (La Retama)",
+      "postal_code": [
+        "82776"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Campo la Paloma (Agricola el Chaparral)",
+      "postal_code": [
+        "82773"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Campo Nuevo Caimanes",
+      "postal_code": [
+        "82777"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Campo San Juan",
+      "postal_code": [
+        "82775"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Campo Santa Lucia II",
+      "postal_code": [
+        "82775"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Campo Tayoltita",
+      "postal_code": [
+        "82790"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Campo Tayoltita II",
+      "postal_code": [
+        "82790"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Casas Grandes",
+      "postal_code": [
+        "82764"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Casas Nuevas",
+      "postal_code": [
+        "82720"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Casas Viejas",
+      "postal_code": [
+        "82758"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Celestino Gazca Villasenor",
+      "postal_code": [
+        "82780"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Ceuta",
+      "postal_code": [
+        "82787"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Colinas del Rio",
+      "postal_code": [
+        "82703"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Conitaca",
+      "postal_code": [
+        "82721"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Crucero de la Cruz",
+      "postal_code": [
+        "82758"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Culiacan (Culiacancito)",
+      "postal_code": [
+        "82773"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Ejidal",
+      "postal_code": [
+        "82705"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "El Aguaje",
+      "postal_code": [
+        "82739"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "El Bolillo",
+      "postal_code": [
+        "82758"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "El Chirimole",
+      "postal_code": [
+        "82723"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "El Espinal",
+      "postal_code": [
+        "82730"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "El Limoncito",
+      "postal_code": [
+        "82788"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "El Portezuelo de Abajo",
+      "postal_code": [
+        "82720"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "El Portezuelo de Arriba",
+      "postal_code": [
+        "82720"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "El Roble",
+      "postal_code": [
+        "82788"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "El Sabinal",
+      "postal_code": [
+        "82713"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "El Saladito",
+      "postal_code": [
+        "82790"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "El Salado",
+      "postal_code": [
+        "82793"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "82747"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Empaque Tarriba",
+      "postal_code": [
+        "82787"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Ensenada",
+      "postal_code": [
+        "82763"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Gabriel Leyva Solano",
+      "postal_code": [
+        "82743"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "82708"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Higuera de los Lopez",
+      "postal_code": [
+        "82745"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Higueras de Culiacancito",
+      "postal_code": [
+        "82745"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Ibonia",
+      "postal_code": [
+        "82710"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Japuino",
+      "postal_code": [
+        "82724"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "La Bebelama",
+      "postal_code": [
+        "82758"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "La Cruz Centro",
+      "postal_code": [
+        "82700"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "La Papalota",
+      "postal_code": [
+        "82764"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "La Resbalosa",
+      "postal_code": [
+        "82723"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Las Brisas",
+      "postal_code": [
+        "82703"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Las Granjas del Norote",
+      "postal_code": [
+        "82740"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "La Ventana (El Carrizo)",
+      "postal_code": [
+        "82747"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "82704"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Los arboles",
+      "postal_code": [
+        "82703"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Los Caimanes",
+      "postal_code": [
+        "82777"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Los Claveles",
+      "postal_code": [
+        "82703"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Los Difuntos",
+      "postal_code": [
+        "82777"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Los Leones",
+      "postal_code": [
+        "82747"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Los Majaguales",
+      "postal_code": [
+        "82787"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Macias",
+      "postal_code": [
+        "82703"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Margarita",
+      "postal_code": [
+        "82706"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Miramar",
+      "postal_code": [
+        "82707"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Montebello",
+      "postal_code": [
+        "82708"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Nuevo Amanecer",
+      "postal_code": [
+        "82703"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Nuevo Salto Grande",
+      "postal_code": [
+        "82725"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Palos Blancos",
+      "postal_code": [
+        "82706"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Pedregal",
+      "postal_code": [
+        "82704"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Pider (Los Arroyitos)",
+      "postal_code": [
+        "82790"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Potrerillo del Norote",
+      "postal_code": [
+        "82740"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Rincon de Ibonia",
+      "postal_code": [
+        "82710"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Rosendo Nieblas",
+      "postal_code": [
+        "82797"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Salto Chico",
+      "postal_code": [
+        "82721"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "San Jose de Conitaca (Nuevo Conitaca)",
+      "postal_code": [
+        "82730"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "82703"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "82788"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "82747"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Tanques",
+      "postal_code": [
+        "82770"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Tayoltita",
+      "postal_code": [
+        "82790"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Vicente Escobar",
+      "postal_code": [
+        "82708"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Victor Manuel Quintero",
+      "postal_code": [
+        "82706"
+      ]
+    },
+    {
+      "city": "Elota",
+      "colonia": "Vida Campesina",
+      "postal_code": [
+        "82743"
+      ]
+    }
+  ]
+}

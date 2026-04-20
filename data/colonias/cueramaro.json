@@ -1,0 +1,902 @@
+{
+  "data": [
+    {
+      "city": "Cueramaro",
+      "colonia": "18 de Marzo (El Tope)",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "3 Villas",
+      "postal_code": [
+        "36968"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Alonso",
+      "postal_code": [
+        "36964"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Barranca de la Huerta",
+      "postal_code": [
+        "36964"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Bordo Blanco",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Bordo Ciego",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Bordo San Victor",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Buenavista (La Lechuza)",
+      "postal_code": [
+        "36963"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "California",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Cerrito de Agua Caliente",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Cieneguilla",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Cueramaro",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Cueramaro Centro",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Del Carmen",
+      "postal_code": [
+        "36963"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Ejido Luz Mazas",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "36963"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "El Cortijo (El Huanumo)",
+      "postal_code": [
+        "36964"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "El Huizache",
+      "postal_code": [
+        "36964"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "El Jaral",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "El Molino",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "El Novillero",
+      "postal_code": [
+        "36963"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "El Nuevo Eden",
+      "postal_code": [
+        "36963"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "El Platanar",
+      "postal_code": [
+        "36963"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "36969"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "El Rincon del Zapote",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "El Roble",
+      "postal_code": [
+        "36969"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "El Rodeo",
+      "postal_code": [
+        "36969"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "El Sabino",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "El Salto",
+      "postal_code": [
+        "36964"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "El Saucillo",
+      "postal_code": [
+        "36969"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "El Tigre",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "El Tronconal",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "El Veinte",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Familia Lopez Gutierrez",
+      "postal_code": [
+        "36969"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Flores Magon",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Francisco Javier Mina",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Galera de La Grulla",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Galera Vieja (Bordo Chico)",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Garnica",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Granja San Juan Chico",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Granja Santa Cruz",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Hector Romo",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Independencia",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Isaac Lopez",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Jose Luis Castaneda Mares",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Juan Ventura",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "La Batalla",
+      "postal_code": [
+        "36969"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "La Cajita",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "La Camelina",
+      "postal_code": [
+        "36963",
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "La Cuesta de los Pastores",
+      "postal_code": [
+        "36964"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "La Granja del Carmen",
+      "postal_code": [
+        "36969"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "La Llave",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "La Loma de la Cieneguilla",
+      "postal_code": [
+        "36963"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "La Magdalena",
+      "postal_code": [
+        "36964"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "La Magueyera",
+      "postal_code": [
+        "36963",
+        "36963"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "La Morita",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "La Nueva Esperanza",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "La Palma",
+      "postal_code": [
+        "36969"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "La Presa de Uribe",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "La Presita del Sauz de Cieneguilla",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "La Regalada",
+      "postal_code": [
+        "36963"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "La Sabina",
+      "postal_code": [
+        "36969"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Las Alondras",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "La Santa Cruz",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "La Sarteneja",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Las Coloradas",
+      "postal_code": [
+        "36963"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "La Soledad (La Palanca)",
+      "postal_code": [
+        "36969"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Las Rosas",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "La Vibora",
+      "postal_code": [
+        "36964"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Linda Vista",
+      "postal_code": [
+        "36963"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "36969"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Los Arcos",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Los Arroyitos",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Los Chiqueros",
+      "postal_code": [
+        "36964"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Los Colorines",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Los Hornos",
+      "postal_code": [
+        "36968"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Los Lopez (La Noria)",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Los Maciel (Los angeles)",
+      "postal_code": [
+        "36969"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Los Martinez",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Los Ochenta (El Progreso)",
+      "postal_code": [
+        "36969"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Los Reyes Ejido de Chamacua",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Los Sabinos",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Los Salgado",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Los Tepetates",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Maravillas",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Mexiquito",
+      "postal_code": [
+        "36964"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Monte Grande",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Nuevo Camino Real",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Nuevo Michoacan",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "36963"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Plan Sexenal",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Popular",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Puerta de la Cana",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Puerta de La Reserva",
+      "postal_code": [
+        "36964"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Puerta de Tupataro",
+      "postal_code": [
+        "36963"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Rancho Espinoza",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Rancho Rangel",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Rancho San Carlos",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Rancho Viejo (La Noria)",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Rinconadas de la Luz",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "36969"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "San Camilo",
+      "postal_code": [
+        "36964"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "San Felix",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "San Fernando",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "San Gregorio",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "San Isidro (La Noria)",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "San Jose de la Esperanza",
+      "postal_code": [
+        "36969"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "San Jose de la Esperanza [La Bodega]",
+      "postal_code": [
+        "36969"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "San Jose de Ojo de Agua",
+      "postal_code": [
+        "36963"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "San Jose de Ramales",
+      "postal_code": [
+        "36967"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "San Juan de los Lopez",
+      "postal_code": [
+        "36969"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "36963"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "San Ramon",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "36969"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Santa Rita (Ejido Refugio de Ayala)",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Santiago (Martin Campos)",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Tupataro",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Unidad Jose Camacho",
+      "postal_code": [
+        "36966"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Villas de La Luz",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Villas del Rosario",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Villas del Sol",
+      "postal_code": [
+        "36960"
+      ]
+    },
+    {
+      "city": "Cueramaro",
+      "colonia": "Zarcihuil",
+      "postal_code": [
+        "36964"
+      ]
+    }
+  ]
+}

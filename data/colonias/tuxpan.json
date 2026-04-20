@@ -1,0 +1,2339 @@
+{
+  "data": [
+    {
+      "city": "Tuxpan",
+      "colonia": "Acumbaro",
+      "postal_code": [
+        "61438"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Ampliacion la Soledad (Lindavista)",
+      "postal_code": [
+        "61437"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "61436"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Cerrito Colorado",
+      "postal_code": [
+        "61440"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Cofradia de Guadalupe (Manzana de Cofradia)",
+      "postal_code": [
+        "61430"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Cofradia de San Jose",
+      "postal_code": [
+        "61430"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Corucha",
+      "postal_code": [
+        "61436"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Crucero de Cofradia",
+      "postal_code": [
+        "61430"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "61444"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Aguacate (Primera Manzana)",
+      "postal_code": [
+        "61440"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Aguacate (Segunda Manzana Casa Blanca)",
+      "postal_code": [
+        "61443"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Ailar",
+      "postal_code": [
+        "61447"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Carrizal (El Ailar)",
+      "postal_code": [
+        "61447"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Chamizal",
+      "postal_code": [
+        "61423"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Descolgadero",
+      "postal_code": [
+        "61444"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Gallo",
+      "postal_code": [
+        "61445"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Jazmin",
+      "postal_code": [
+        "61438"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Llano",
+      "postal_code": [
+        "61445"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Malacate",
+      "postal_code": [
+        "61426",
+        "61437"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "61440"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "61426"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Potrero del Paso",
+      "postal_code": [
+        "61438"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Rincon de Sanchez",
+      "postal_code": [
+        "61428"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Sabinal",
+      "postal_code": [
+        "61446"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Salitre",
+      "postal_code": [
+        "61425",
+        "61434",
+        "61446"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Tambor",
+      "postal_code": [
+        "61426"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Terrero (Paso del Muerto)",
+      "postal_code": [
+        "61444"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Huanimoro",
+      "postal_code": [
+        "61438"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Jacuarillo",
+      "postal_code": [
+        "61435"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Jaripito (Jaripitio)",
+      "postal_code": [
+        "61435"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "61435"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "La Era",
+      "postal_code": [
+        "61446"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Laguna Seca",
+      "postal_code": [
+        "61435",
+        "61436"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "La Herradura",
+      "postal_code": [
+        "61435"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "La Mesa de San Isidro",
+      "postal_code": [
+        "61434"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "La Ororicua",
+      "postal_code": [
+        "61443"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "La Palma",
+      "postal_code": [
+        "61444"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "La Pitaya",
+      "postal_code": [
+        "61445"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "La Presa",
+      "postal_code": [
+        "61437"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "61440"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Las Canoas",
+      "postal_code": [
+        "61436"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "61437"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Laurelitos",
+      "postal_code": [
+        "61446"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Los Ailes",
+      "postal_code": [
+        "61438"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "61443"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Los Lobos",
+      "postal_code": [
+        "61437"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Los Milagros",
+      "postal_code": [
+        "61423"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "61424"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Milpillas (El Capulin)",
+      "postal_code": [
+        "61434"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Moro Chico",
+      "postal_code": [
+        "61434"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Nueva Mariel [Radio Difusora]",
+      "postal_code": [
+        "61437"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Ortiga de la Reforma",
+      "postal_code": [
+        "61444"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Palo Blanco",
+      "postal_code": [
+        "61435"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Patambaro",
+      "postal_code": [
+        "61446"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Pueblita",
+      "postal_code": [
+        "61428"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Puerto de la Ardilla",
+      "postal_code": [
+        "61447"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Puerto de la Cantera (Las Palmitas)",
+      "postal_code": [
+        "61438"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Puerto del Obispo",
+      "postal_code": [
+        "61436",
+        "61436"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Rincon de Cofradia",
+      "postal_code": [
+        "61430"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Rincon de Corucha",
+      "postal_code": [
+        "61436"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Rincon de Sanchez",
+      "postal_code": [
+        "61443"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Rio Grande",
+      "postal_code": [
+        "61427"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "61428",
+        "61443"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Santa Catarina",
+      "postal_code": [
+        "61426"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "San Victoriano",
+      "postal_code": [
+        "61425"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Segunda Manzana del Tambor",
+      "postal_code": [
+        "61436"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Turundeo",
+      "postal_code": [
+        "61438"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Tuxpan Centro",
+      "postal_code": [
+        "61420"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Valle del Jornal",
+      "postal_code": [
+        "61427"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Villa de las Flores",
+      "postal_code": [
+        "61445"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Vista del Valle",
+      "postal_code": [
+        "61424"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "61436"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "17 de Octubre",
+      "postal_code": [
+        "92880"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "1ro de Mayo",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "23 de Noviembre",
+      "postal_code": [
+        "92834"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "5 de Julio",
+      "postal_code": [
+        "92820"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "6 de Enero",
+      "postal_code": [
+        "92860"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "92840"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Adolfo Ruiz Cortines",
+      "postal_code": [
+        "92880"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Aire Libre (Kilometro 15)",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Alfonso Arroyo Flores",
+      "postal_code": [
+        "92834"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Altamira",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Alto de San Lorenzo",
+      "postal_code": [
+        "92783"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Alto Lucero Centro",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "alvarez",
+      "postal_code": [
+        "92820"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Ampliacion Adolfo Ruiz Cortinez",
+      "postal_code": [
+        "92880"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Ampliacion Azteca",
+      "postal_code": [
+        "92820"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Ampliacion Enrique Rodriguez Cano",
+      "postal_code": [
+        "92880"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Ampliacion Los Mangos",
+      "postal_code": [
+        "92853"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Ampliacion Luis Donaldo Colosio",
+      "postal_code": [
+        "92883"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Ampliacion Obrera",
+      "postal_code": [
+        "92853"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Anahuac",
+      "postal_code": [
+        "92830"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "angel Flores",
+      "postal_code": [
+        "63207"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Antonio R. Laureles",
+      "postal_code": [
+        "63202"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Arboleda",
+      "postal_code": [
+        "92773"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Azteca",
+      "postal_code": [
+        "92820"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Baltazar",
+      "postal_code": [
+        "92784"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Banco del Calichar",
+      "postal_code": [
+        "92776"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Banderas",
+      "postal_code": [
+        "92773"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Barra Norte",
+      "postal_code": [
+        "92773"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "63225"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "92774"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Boca del Monte",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Buena Vista",
+      "postal_code": [
+        "92785"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Burocratica",
+      "postal_code": [
+        "92870"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Cabo Alto",
+      "postal_code": [
+        "92830"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Cabo Rojo",
+      "postal_code": [
+        "92830"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Campestre Alborada",
+      "postal_code": [
+        "92893"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Campo Real",
+      "postal_code": [
+        "92830"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Canada Rica",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Cantarranas",
+      "postal_code": [
+        "63227"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Carlos Salinas de Gortari",
+      "postal_code": [
+        "92883"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Casa Bella",
+      "postal_code": [
+        "92893"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "CEAS",
+      "postal_code": [
+        "92895"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Ceiba Rica",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Cenecista C.N.C.",
+      "postal_code": [
+        "92853"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Cerro de Tumilco",
+      "postal_code": [
+        "92773"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Chacoaco",
+      "postal_code": [
+        "92773"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Chalahuite",
+      "postal_code": [
+        "92780"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Chiconcoa",
+      "postal_code": [
+        "92776"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Chijolar",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Chomotla",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Coamiles",
+      "postal_code": [
+        "63660"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Cobos",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Colinas Del Sol",
+      "postal_code": [
+        "92853"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Colosio",
+      "postal_code": [
+        "63205"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Comejen",
+      "postal_code": [
+        "92780"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Concepcion",
+      "postal_code": [
+        "92820"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Corredor Industrial",
+      "postal_code": [
+        "92774"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Cruz Naranjos",
+      "postal_code": [
+        "92785"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "CTM",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Dante Delgado",
+      "postal_code": [
+        "92770",
+        "92850"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Del Bosque",
+      "postal_code": [
+        "92894"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "De los Artistas",
+      "postal_code": [
+        "92845"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Del Puerto",
+      "postal_code": [
+        "92880"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Del Valle",
+      "postal_code": [
+        "92875"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Democratica",
+      "postal_code": [
+        "92854"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Deportiva",
+      "postal_code": [
+        "63202"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Angosto",
+      "postal_code": [
+        "92783"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Beis",
+      "postal_code": [
+        "63202"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Capullo",
+      "postal_code": [
+        "92773"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Coyol",
+      "postal_code": [
+        "92776"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Electricistas",
+      "postal_code": [
+        "92870"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Esfuerzo",
+      "postal_code": [
+        "92810"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Fortin",
+      "postal_code": [
+        "92883"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Jobo",
+      "postal_code": [
+        "92776"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Lindero",
+      "postal_code": [
+        "92780"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "92853"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Muro",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Naranjal",
+      "postal_code": [
+        "92840"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "92770",
+        "92773"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Progreso",
+      "postal_code": [
+        "92776"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Retiro",
+      "postal_code": [
+        "92853"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Retono",
+      "postal_code": [
+        "92894"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Romance",
+      "postal_code": [
+        "92893"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Tecomate",
+      "postal_code": [
+        "63660"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "El Vergel",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "63203"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "92773",
+        "92850"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Enrique Rodriguez Cano",
+      "postal_code": [
+        "92880"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Escudero",
+      "postal_code": [
+        "92830"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Esperanza Azcon",
+      "postal_code": [
+        "92810"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Fausto Vega Santander",
+      "postal_code": [
+        "92840"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "FECAPOMEX",
+      "postal_code": [
+        "92883"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Federico Garcia Blanco",
+      "postal_code": [
+        "92850"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Fernando Gutierrez Barrios",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "FOVISSSTE",
+      "postal_code": [
+        "92876"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Framboyanes",
+      "postal_code": [
+        "92850"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "92776"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "63203"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Franco Cruz Hernandez",
+      "postal_code": [
+        "92773"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Frijolillo",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Geminis INFONAVIT",
+      "postal_code": [
+        "92830"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Granjas de Alto Lucero",
+      "postal_code": [
+        "92894"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Guadalupe Pena",
+      "postal_code": [
+        "63205"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Heroe de Nacozari (Arroyo de San Lorenzo)",
+      "postal_code": [
+        "92783"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Heroes de Chapultepec (El Tamarindo)",
+      "postal_code": [
+        "92776"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Higo de la Esperanza",
+      "postal_code": [
+        "92774"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Higueral",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Independencia",
+      "postal_code": [
+        "63203"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "INFONAVIT CANACO",
+      "postal_code": [
+        "92870"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "INFONAVIT Castillo",
+      "postal_code": [
+        "92830"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "INFONAVIT CROC",
+      "postal_code": [
+        "92870"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "INFONAVIT CTM",
+      "postal_code": [
+        "92870"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "INFONAVIT Las Granjas",
+      "postal_code": [
+        "92894"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "INFONAVIT Las Granjas de Alto Lucero",
+      "postal_code": [
+        "92893"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "INFONAVIT Puerto Pesquero",
+      "postal_code": [
+        "92810"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "INFONAVIT Tulipanes",
+      "postal_code": [
+        "92840"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Insurgentes",
+      "postal_code": [
+        "92853"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Ismael Verdin",
+      "postal_code": [
+        "63207"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Jardines de Tuxpan",
+      "postal_code": [
+        "92890"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Jazmin",
+      "postal_code": [
+        "92850"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Jesus Reyes Heroles",
+      "postal_code": [
+        "92810"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Joaquin Hernandez Galicia",
+      "postal_code": [
+        "92853"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Juana Moza",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Juan Escutia",
+      "postal_code": [
+        "63205"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Juan Lucas",
+      "postal_code": [
+        "92850"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Juan Zumaya (El Remate)",
+      "postal_code": [
+        "92785"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Juarez",
+      "postal_code": [
+        "92830"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "La Calzada",
+      "postal_code": [
+        "92773",
+        "92880"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "La Camelia",
+      "postal_code": [
+        "92783"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "La Ceiba",
+      "postal_code": [
+        "92773"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Laja del Tubo",
+      "postal_code": [
+        "92775"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "La Laja de Coloman",
+      "postal_code": [
+        "92784"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "La Laja de Zapote Bueno",
+      "postal_code": [
+        "92789"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "La Mata",
+      "postal_code": [
+        "92773"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "La Rivera",
+      "postal_code": [
+        "92870"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Las Animas",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Las Delicias",
+      "postal_code": [
+        "92883"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Las Joyas",
+      "postal_code": [
+        "92850"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Las Lomas",
+      "postal_code": [
+        "92850"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "92830"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Las Pasas",
+      "postal_code": [
+        "92775"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "La Union",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "La Victoria",
+      "postal_code": [
+        "92770",
+        "92773"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "92830"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Libertad",
+      "postal_code": [
+        "92854"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Linda Vista",
+      "postal_code": [
+        "92774"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Loma Alta",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "92840"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Lomas de Maratea",
+      "postal_code": [
+        "92853"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Lomas de Tuxpan FOVISSSTE",
+      "postal_code": [
+        "92890"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Los Mangos",
+      "postal_code": [
+        "92840",
+        "92853"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "92830",
+        "92894"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "92850",
+        "92883"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Macuiltepetl",
+      "postal_code": [
+        "92776"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "63205"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Manlio Fabio Altamirano",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Manuel avila Camacho",
+      "postal_code": [
+        "92854"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Mexicana Miguel Aleman",
+      "postal_code": [
+        "92820"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Mexico Lindo",
+      "postal_code": [
+        "92853"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Militares",
+      "postal_code": [
+        "92850"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Militares Retirados",
+      "postal_code": [
+        "92853"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Miramar (La Antigua)",
+      "postal_code": [
+        "92774"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Monte Grande",
+      "postal_code": [
+        "92888"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Monte Horeb",
+      "postal_code": [
+        "92773"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Monte Morelos",
+      "postal_code": [
+        "92775"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Montes de Armenia",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Morelos",
+      "postal_code": [
+        "63202"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Murillo Vidal",
+      "postal_code": [
+        "92770",
+        "92810"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Nalua",
+      "postal_code": [
+        "92780"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "92773",
+        "92853",
+        "92883"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Nueva Italia",
+      "postal_code": [
+        "92893"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Nuevo Sol",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Obrera",
+      "postal_code": [
+        "92853"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Ojite",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Ojite Rancho Nuevo",
+      "postal_code": [
+        "92786"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Olimpica",
+      "postal_code": [
+        "92820"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Otatal",
+      "postal_code": [
+        "92780"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Paises Bajos (Kilometro 8)",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Palma de Morelos",
+      "postal_code": [
+        "92780"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Palma Grande",
+      "postal_code": [
+        "63660"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Paola Samperio Benitez",
+      "postal_code": [
+        "92894"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Pena Alta",
+      "postal_code": [
+        "92776"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Pena de Afuera",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Penas",
+      "postal_code": [
+        "63660"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Petropolis",
+      "postal_code": [
+        "92853"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Pisaflores",
+      "postal_code": [
+        "92850"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Playa Azul",
+      "postal_code": [
+        "92773"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Playa Emiliano Zapata",
+      "postal_code": [
+        "92774"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Praxedis Guerrero (Kilometro 18)",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Pueblo Nuevo",
+      "postal_code": [
+        "63207"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Puente Don Diego",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Rafael Hernandez Ochoa",
+      "postal_code": [
+        "92810"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "92780"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Revolucion Mexicana",
+      "postal_code": [
+        "92894"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Reyes Heroles",
+      "postal_code": [
+        "92840"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "63205"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Rodriguez Alcaine",
+      "postal_code": [
+        "92830",
+        "92854"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Rosa Maria",
+      "postal_code": [
+        "92860"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Sabanillas",
+      "postal_code": [
+        "92784"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Salto de La Reforma",
+      "postal_code": [
+        "92775"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "92853"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "San Jose el Grande",
+      "postal_code": [
+        "92776"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Santiago de la Pena",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Talpita",
+      "postal_code": [
+        "63202"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Tampamachoco",
+      "postal_code": [
+        "92773"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Tampiquillo",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Tebanco",
+      "postal_code": [
+        "92775"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Tenechaco INFONAVIT",
+      "postal_code": [
+        "92860"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Tronconal",
+      "postal_code": [
+        "92783"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Tronconal de Herrera Beltran",
+      "postal_code": [
+        "92783"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Tropicana",
+      "postal_code": [
+        "92870"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Tuxpam de Rodriguez Cano Centro",
+      "postal_code": [
+        "92800"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Tuxpam VIVAH",
+      "postal_code": [
+        "92853"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Tuxpan Centro",
+      "postal_code": [
+        "63200"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Union de Corrientes",
+      "postal_code": [
+        "63670"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Universitaria",
+      "postal_code": [
+        "92895"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Valle Verde",
+      "postal_code": [
+        "92890"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "92840"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Villa de Guadalupe",
+      "postal_code": [
+        "92894"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Villa Mar",
+      "postal_code": [
+        "92820"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Villa Rosita",
+      "postal_code": [
+        "92863"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "92854"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Zapotalillo",
+      "postal_code": [
+        "92785"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Zapotal Zaragoza",
+      "postal_code": [
+        "92770"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Zapote Domingo",
+      "postal_code": [
+        "92776"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Zapote Gordo",
+      "postal_code": [
+        "92860"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Agosto",
+      "postal_code": [
+        "49820"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Arcos Bugambilias",
+      "postal_code": [
+        "49807"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Atenquique",
+      "postal_code": [
+        "49820"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "49808"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Buen Pais",
+      "postal_code": [
+        "49836"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Camichines",
+      "postal_code": [
+        "49806"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Ciuhapilli",
+      "postal_code": [
+        "49817"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Ferrocarril",
+      "postal_code": [
+        "49816"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Floresta",
+      "postal_code": [
+        "49810"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "La Cajita",
+      "postal_code": [
+        "49815"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "La Higuera",
+      "postal_code": [
+        "49834"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Las Canoas",
+      "postal_code": [
+        "49825"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "49815"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Lomas Del Norte",
+      "postal_code": [
+        "49807"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "49829"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Los Mazos",
+      "postal_code": [
+        "49825"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "49805"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "49806"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Padilla",
+      "postal_code": [
+        "49837"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Palmita",
+      "postal_code": [
+        "49805"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Paso Blanco",
+      "postal_code": [
+        "49805"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Platanar",
+      "postal_code": [
+        "49830"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "San Juan Espanatica",
+      "postal_code": [
+        "49828"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Santiago",
+      "postal_code": [
+        "49806"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Talpita",
+      "postal_code": [
+        "49808"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Tuxpan Centro",
+      "postal_code": [
+        "49800"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Veintiuno de Noviembre",
+      "postal_code": [
+        "49835"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "49805"
+      ]
+    },
+    {
+      "city": "Tuxpan",
+      "colonia": "Vistas de la Floresta",
+      "postal_code": [
+        "49817"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "city": "Santa Maria Jalapa del Marques",
+      "colonia": "Aguascalientes",
+      "postal_code": [
+        "70710"
+      ]
+    },
+    {
+      "city": "Santa Maria Jalapa del Marques",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "70710"
+      ]
+    },
+    {
+      "city": "Santa Maria Jalapa del Marques",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "70710"
+      ]
+    },
+    {
+      "city": "Santa Maria Jalapa del Marques",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "70710"
+      ]
+    },
+    {
+      "city": "Santa Maria Jalapa del Marques",
+      "colonia": "Llano Grande",
+      "postal_code": [
+        "70711"
+      ]
+    },
+    {
+      "city": "Santa Maria Jalapa del Marques",
+      "colonia": "Llano Veria",
+      "postal_code": [
+        "70713"
+      ]
+    },
+    {
+      "city": "Santa Maria Jalapa del Marques",
+      "colonia": "San Cristobal",
+      "postal_code": [
+        "70715"
+      ]
+    },
+    {
+      "city": "Santa Maria Jalapa del Marques",
+      "colonia": "Santa Maria Jalapa del Marques",
+      "postal_code": [
+        "70710"
+      ]
+    }
+  ]
+}

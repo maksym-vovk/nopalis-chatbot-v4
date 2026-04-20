@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Tepatlaxco",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "94190"
+      ]
+    },
+    {
+      "city": "Tepatlaxco",
+      "colonia": "La Palma",
+      "postal_code": [
+        "94191"
+      ]
+    },
+    {
+      "city": "Tepatlaxco",
+      "colonia": "Palo Gacho",
+      "postal_code": [
+        "94191"
+      ]
+    },
+    {
+      "city": "Tepatlaxco",
+      "colonia": "San Jose Tenejapa",
+      "postal_code": [
+        "94190"
+      ]
+    },
+    {
+      "city": "Tepatlaxco",
+      "colonia": "Tepatlaxco",
+      "postal_code": [
+        "94190"
+      ]
+    }
+  ]
+}

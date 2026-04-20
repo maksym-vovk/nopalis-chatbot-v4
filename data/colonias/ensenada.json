@@ -1,0 +1,2434 @@
+{
+  "data": [
+    {
+      "city": "Ensenada",
+      "colonia": "17 de Abril",
+      "postal_code": [
+        "22842"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "27 de Enero",
+      "postal_code": [
+        "22908"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "28 de Agosto",
+      "postal_code": [
+        "22830"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "2 de Septiembre",
+      "postal_code": [
+        "22810"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "3 de Octubre",
+      "postal_code": [
+        "22830"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Abelardo L. Rodriguez",
+      "postal_code": [
+        "22908"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Acapulco",
+      "postal_code": [
+        "22890"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Adolfo Ruiz Cortines",
+      "postal_code": [
+        "22895"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Aeropuerto",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Aguajito",
+      "postal_code": [
+        "22842"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Alfredo V Bonfil",
+      "postal_code": [
+        "22905"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Alisos Reforma",
+      "postal_code": [
+        "22830"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Alta Mar",
+      "postal_code": [
+        "22813"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Ampliacion Chapultepec",
+      "postal_code": [
+        "22870"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Ampliacion el Porvenir",
+      "postal_code": [
+        "22755"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Ampliacion Gomez Morin",
+      "postal_code": [
+        "22842"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Ampliacion Hidalgo",
+      "postal_code": [
+        "22889"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Ampliacion Manuel Marquez de Leon",
+      "postal_code": [
+        "22859"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Ampliacion Mixteca II",
+      "postal_code": [
+        "22766"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Ampliacion Moderna",
+      "postal_code": [
+        "22879"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Ampliacion Popular 89",
+      "postal_code": [
+        "22812"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Ampliacion Puesta de Sol",
+      "postal_code": [
+        "22812"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Ampliacion Reforma",
+      "postal_code": [
+        "22835"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Ampliacion Revolucion",
+      "postal_code": [
+        "22830"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Arce",
+      "postal_code": [
+        "22793"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Arce (Nacionalista)",
+      "postal_code": [
+        "22793"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Arco iris",
+      "postal_code": [
+        "22810"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Articulo Ciento Quince",
+      "postal_code": [
+        "22755"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Aviacion",
+      "postal_code": [
+        "22840"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Azteca",
+      "postal_code": [
+        "22820"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Bahia",
+      "postal_code": [
+        "22880"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Baja Mar San Diego",
+      "postal_code": [
+        "22760"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Balcones Cibolas del Mar",
+      "postal_code": [
+        "22760"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Balcones de La Presa",
+      "postal_code": [
+        "22819"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "22790",
+        "22820",
+        "22908"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "22793",
+        "22820",
+        "22905"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Bienestar",
+      "postal_code": [
+        "22793"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Bonifaz Popoff",
+      "postal_code": [
+        "22840"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Bosque de los Olivos",
+      "postal_code": [
+        "22818"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Brechas el Mirador",
+      "postal_code": [
+        "22796"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Brisa del Mar",
+      "postal_code": [
+        "22760"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Brisas de San Telmo",
+      "postal_code": [
+        "22908"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Bronce",
+      "postal_code": [
+        "22830"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Buenaventura",
+      "postal_code": [
+        "22880"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Buenaventura 2a Seccion",
+      "postal_code": [
+        "22888"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Buena Vista",
+      "postal_code": [
+        "22765"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Bustamante",
+      "postal_code": [
+        "22840"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "California",
+      "postal_code": [
+        "22890"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Camilo Flores",
+      "postal_code": [
+        "22830"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Campa",
+      "postal_code": [
+        "22771"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Campo Turistico La Jolla",
+      "postal_code": [
+        "22794"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Campo Turistico La Mision",
+      "postal_code": [
+        "22765"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Careaga",
+      "postal_code": [
+        "22840"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Carlos Pacheco 4",
+      "postal_code": [
+        "22890"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Carlos Pacheco 8",
+      "postal_code": [
+        "22895"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Carlos Pacheco (Ayuntamiento)",
+      "postal_code": [
+        "22898"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Chapultepec",
+      "postal_code": [
+        "22785",
+        "22870"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Chula Vista",
+      "postal_code": [
+        "22795"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "CICESE",
+      "postal_code": [
+        "22860"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Colinas de La Presa",
+      "postal_code": [
+        "22813"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Colinas del Magisterio",
+      "postal_code": [
+        "22813"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Colinas del Mar",
+      "postal_code": [
+        "22760"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Colinas del Mar Residencial",
+      "postal_code": [
+        "22760"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Colinas del Paraiso",
+      "postal_code": [
+        "22813"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Colinas del Pedregal",
+      "postal_code": [
+        "22796"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Colinas del Sauzal",
+      "postal_code": [
+        "22760"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Colinas de San Angel",
+      "postal_code": [
+        "22812"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Comercial Chapultepec",
+      "postal_code": [
+        "22870"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Conjunto Artesanal",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Contreras",
+      "postal_code": [
+        "22842"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Coronel Esteban Cantu",
+      "postal_code": [
+        "22794"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Coronita",
+      "postal_code": [
+        "22860"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Costa Azul",
+      "postal_code": [
+        "22793",
+        "22890"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Costa Bella",
+      "postal_code": [
+        "22898"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Cuatro Milpas",
+      "postal_code": [
+        "22767"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "22890"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Cumbres de La Presa",
+      "postal_code": [
+        "22813"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Del Mar",
+      "postal_code": [
+        "22812"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Del Sol",
+      "postal_code": [
+        "22820"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Del Valle",
+      "postal_code": [
+        "22770"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Domingo Luna",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Durango",
+      "postal_code": [
+        "22790"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Ejido Ruiz Cortines",
+      "postal_code": [
+        "22810"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "El Ajusco",
+      "postal_code": [
+        "22795"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "El Campanario",
+      "postal_code": [
+        "22842"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "El Cipres",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "El Milagro",
+      "postal_code": [
+        "22756"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "El Morro",
+      "postal_code": [
+        "22870"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "El Naranjo",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "22790"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "El Pipila",
+      "postal_code": [
+        "22790"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "El Puerto de Santo Tomas",
+      "postal_code": [
+        "22795"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "El Ramajal",
+      "postal_code": [
+        "22794"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "El Salitral",
+      "postal_code": [
+        "22793"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "El Sauzal",
+      "postal_code": [
+        "22760"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "El unico",
+      "postal_code": [
+        "22790"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "El Veladero (Ejido Nacionalista)",
+      "postal_code": [
+        "22790"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "22842"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Empleados",
+      "postal_code": [
+        "22820"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Erendira",
+      "postal_code": [
+        "22904"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Escritores",
+      "postal_code": [
+        "22785",
+        "22840"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Esperanza",
+      "postal_code": [
+        "22852"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Estado de Mexico",
+      "postal_code": [
+        "22820"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "FONDEPORT",
+      "postal_code": [
+        "22760"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "FOVISSSTE 1a Seccion",
+      "postal_code": [
+        "22830"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "FOVISSSTE 2a Seccion",
+      "postal_code": [
+        "22830"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "FOVISSSTE 3a Seccion",
+      "postal_code": [
+        "22830"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "FOVISSSTE 4a Seccion",
+      "postal_code": [
+        "22830"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "22795"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Francisco Villa I",
+      "postal_code": [
+        "22850"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Francisco Villa II",
+      "postal_code": [
+        "22850"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Francisco Zarco (Valle de Guadalupe)",
+      "postal_code": [
+        "22750"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Garcia",
+      "postal_code": [
+        "22904"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Generalisimo Morelos",
+      "postal_code": [
+        "22908"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "General Leandro Valle",
+      "postal_code": [
+        "22905"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Gomez Morin",
+      "postal_code": [
+        "22842"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Granados",
+      "postal_code": [
+        "22840"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Granjas Agricolas Lucio Blanco",
+      "postal_code": [
+        "22766"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Granjas Chapingo",
+      "postal_code": [
+        "22818"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Granjas el Gallo",
+      "postal_code": [
+        "22850"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Heroes de Chapultepec",
+      "postal_code": [
+        "22908"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "22880"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Hogares del Puerto",
+      "postal_code": [
+        "22790"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Huerta",
+      "postal_code": [
+        "22790"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Ibarra",
+      "postal_code": [
+        "22796"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Ignacio Allende",
+      "postal_code": [
+        "22820"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Ignacio Altamirano",
+      "postal_code": [
+        "22870"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Ignacio Lopez Rayon",
+      "postal_code": [
+        "22904"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "II Seccion Esteban Cantu",
+      "postal_code": [
+        "22794"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Independencia",
+      "postal_code": [
+        "22840"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Industrial",
+      "postal_code": [
+        "22850"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "INFONAVIT Nuevo Milenio",
+      "postal_code": [
+        "22813"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Jalisco",
+      "postal_code": [
+        "22850"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Jardines de Chapultepec",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Jardines del Mar",
+      "postal_code": [
+        "22909"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Jesus Munguia",
+      "postal_code": [
+        "22840"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Josefa Ortiz de Dominguez",
+      "postal_code": [
+        "22890"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Jose Lopez Portillo",
+      "postal_code": [
+        "22790"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Jose Maria Morelos y Pavon",
+      "postal_code": [
+        "22855"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Juan Diego",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Kings Coronita",
+      "postal_code": [
+        "22873"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Kings Villas",
+      "postal_code": [
+        "22873"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "La Bufadora",
+      "postal_code": [
+        "22794"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "22790"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "La Huerta",
+      "postal_code": [
+        "22771"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "La Joyita",
+      "postal_code": [
+        "22822"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "La Mision",
+      "postal_code": [
+        "22765",
+        "22900"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "22908"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "La Rosa de Castilla",
+      "postal_code": [
+        "22770"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "La Salina",
+      "postal_code": [
+        "22765"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Las Arboledas",
+      "postal_code": [
+        "22818"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Las Brisas",
+      "postal_code": [
+        "22785",
+        "22790",
+        "22908"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Las Fincas",
+      "postal_code": [
+        "22818"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "22790",
+        "22822"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Las Ilusiones",
+      "postal_code": [
+        "22766"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Las Lomitas",
+      "postal_code": [
+        "22810"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Las Misiones",
+      "postal_code": [
+        "22900"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "22790",
+        "22860"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Las Palmas III",
+      "postal_code": [
+        "22863"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Las Penitas",
+      "postal_code": [
+        "22822"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Las Rosas",
+      "postal_code": [
+        "22830"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Las Tinajitas",
+      "postal_code": [
+        "22790",
+        "22908"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Las Torres",
+      "postal_code": [
+        "22813"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Lazaro Cardenas 1",
+      "postal_code": [
+        "22810"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Lazaro Cardenas 2",
+      "postal_code": [
+        "22810"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Libertad",
+      "postal_code": [
+        "22842"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Licenciado Gustavo Diaz Ordaz",
+      "postal_code": [
+        "22908"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Llano Colorado",
+      "postal_code": [
+        "22905"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "22790"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Loma Dorada",
+      "postal_code": [
+        "22847"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "22820",
+        "22890"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Lomas de la Presa",
+      "postal_code": [
+        "22813"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Lomas del Mar",
+      "postal_code": [
+        "22794",
+        "22847"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Lomas del Paraiso",
+      "postal_code": [
+        "22823"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Lomas del Sauzal",
+      "postal_code": [
+        "22760"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Lomas de Mendoza",
+      "postal_code": [
+        "22790"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Lomas de San Antonio",
+      "postal_code": [
+        "22766"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Lomas de San Fernando",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Lomas y Jardines de Valle Verde",
+      "postal_code": [
+        "22810"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Lomitas III",
+      "postal_code": [
+        "22810"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Lomitas IV",
+      "postal_code": [
+        "22810"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Lopez Zamora",
+      "postal_code": [
+        "22908"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Los Cipreses",
+      "postal_code": [
+        "22766"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Los Encinos",
+      "postal_code": [
+        "22819"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Los Eucaliptos",
+      "postal_code": [
+        "22770"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Los Girasoles",
+      "postal_code": [
+        "22818"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Los Lagos",
+      "postal_code": [
+        "22890"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "22839"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Los Maestros",
+      "postal_code": [
+        "22840"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Los Olivos",
+      "postal_code": [
+        "22790",
+        "22850"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "22790"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Los Pirules",
+      "postal_code": [
+        "22770"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "22810"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Luis Echeverria Alvarez",
+      "postal_code": [
+        "22830"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Magisterial La Presa",
+      "postal_code": [
+        "22839"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Manchuria",
+      "postal_code": [
+        "22760"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Maneadero",
+      "postal_code": [
+        "22790"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Manuel Marquez de Leon",
+      "postal_code": [
+        "22850"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Mar",
+      "postal_code": [
+        "22842"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Mar de Cortez",
+      "postal_code": [
+        "22813"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Mar de Ensenada",
+      "postal_code": [
+        "22813"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Margaritas",
+      "postal_code": [
+        "22810"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Marques de Leon",
+      "postal_code": [
+        "22810"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Mediterraneo",
+      "postal_code": [
+        "22818"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Mexico",
+      "postal_code": [
+        "22830"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Mexico (Parcela Numero 10)",
+      "postal_code": [
+        "22908"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Miguel Aleman",
+      "postal_code": [
+        "22860"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Militar (23 de Noviembre)",
+      "postal_code": [
+        "22890"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Mision",
+      "postal_code": [
+        "22830",
+        "22830"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Misiones de Altamar",
+      "postal_code": [
+        "22813"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Misiones de La Presa",
+      "postal_code": [
+        "22819"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Misiones de La Presa 1",
+      "postal_code": [
+        "22813"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Misiones de La Presa 2",
+      "postal_code": [
+        "22813"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Misiones del Paraiso",
+      "postal_code": [
+        "22813"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Moderna",
+      "postal_code": [
+        "22860"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Montemar",
+      "postal_code": [
+        "22812"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "22840"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Nueva Ciudad de Ninos (R. Coronita)",
+      "postal_code": [
+        "22760"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Nueva Ensenada",
+      "postal_code": [
+        "22880"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Nueva Espana",
+      "postal_code": [
+        "22785",
+        "22790"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Nuevo Milenio",
+      "postal_code": [
+        "22813"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Nuevo Reforma",
+      "postal_code": [
+        "22812"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Nuevo Reforma II",
+      "postal_code": [
+        "22812"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Obrera",
+      "postal_code": [
+        "22830"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Orfanato Door of Faith Orphanage",
+      "postal_code": [
+        "22765"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Packard",
+      "postal_code": [
+        "22794"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Parcela 116 (Nacionalista)",
+      "postal_code": [
+        "22796"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Parcela 231 (El Refugio del Viejo)",
+      "postal_code": [
+        "22796"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Parcela Numero 105 (Nacionalista)",
+      "postal_code": [
+        "22796"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Parcela Numero 117 (Lucero)",
+      "postal_code": [
+        "22796"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Parcela Numero 140 (Nacionalista)",
+      "postal_code": [
+        "22794"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Parcela Numero Sesenta y Siete (Las Palmas)",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Pedregal Playitas",
+      "postal_code": [
+        "22860"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Piedras Negras",
+      "postal_code": [
+        "22830"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Playa de Ensenada",
+      "postal_code": [
+        "22880"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Playa Hermosa",
+      "postal_code": [
+        "22890"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Playas de Chapultepec",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Playa Todos Santos",
+      "postal_code": [
+        "22897"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Popular 89",
+      "postal_code": [
+        "22812"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Popular Emiliano Zapata",
+      "postal_code": [
+        "22823"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Popular Valle Verde 1",
+      "postal_code": [
+        "22810"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Popular Valle Verde 2",
+      "postal_code": [
+        "22819"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Porticos del Mar",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Praderas del Cipres",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Praderas del Sol",
+      "postal_code": [
+        "22790"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Primera Seccion",
+      "postal_code": [
+        "22880"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Pro-hogar",
+      "postal_code": [
+        "22830"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Puerta del Mar",
+      "postal_code": [
+        "22896"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Puerta del Mar II",
+      "postal_code": [
+        "22896"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Puerta Trampa",
+      "postal_code": [
+        "22770"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Puerto Azul",
+      "postal_code": [
+        "22814"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Puerto Escondido",
+      "postal_code": [
+        "22794"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Puerto Salina La Marina",
+      "postal_code": [
+        "22765"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Puerto San Isidro",
+      "postal_code": [
+        "22904"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Puesta de Sol",
+      "postal_code": [
+        "22812"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Punta Banda",
+      "postal_code": [
+        "22897"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Punta Banda II",
+      "postal_code": [
+        "22897"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Punta Colnett (Punta Colonet)",
+      "postal_code": [
+        "22909"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Punta Piedra",
+      "postal_code": [
+        "22765"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Quintas Papagayo",
+      "postal_code": [
+        "22870"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Rancho Canon Buena Vista (El Zorrillo)",
+      "postal_code": [
+        "22790"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Real del Castillo Nuevo (Ojos Negros)",
+      "postal_code": [
+        "22770"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Real de San Fernando",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Real de San Marino",
+      "postal_code": [
+        "22860"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Reforma",
+      "postal_code": [
+        "22830"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Reforma el Veladero",
+      "postal_code": [
+        "22790"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Residencial Campestre Las Lomas",
+      "postal_code": [
+        "22766"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Residencial del Prado Dos",
+      "postal_code": [
+        "22819"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Residencial del Sol",
+      "postal_code": [
+        "22813"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Residencial Lomas",
+      "postal_code": [
+        "22835"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Residencial Los alamos",
+      "postal_code": [
+        "22850"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Residencial Misiones",
+      "postal_code": [
+        "22812"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "22830"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "22819"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Rinconada del Pedregal",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Rincon del Mar",
+      "postal_code": [
+        "22895"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Rincon Punta Banda (Rincon de Ballenas)",
+      "postal_code": [
+        "22794"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Rodolfo Sanchez Taboada (El Calvario)",
+      "postal_code": [
+        "22903"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Rogelio Appel Chacon",
+      "postal_code": [
+        "22819"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Salinas de Gortari",
+      "postal_code": [
+        "22820"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Salvador Rosas Magallon",
+      "postal_code": [
+        "22814"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "San Antonio de Las Minas",
+      "postal_code": [
+        "22766"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "San Antonio Necua (Canada de los Encinos)",
+      "postal_code": [
+        "22750"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "San Borja Residencial",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "San Jacinto",
+      "postal_code": [
+        "22903"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "San Luis",
+      "postal_code": [
+        "22842"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "San Marco",
+      "postal_code": [
+        "22766"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "San Marino",
+      "postal_code": [
+        "22870"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "22793"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "22812"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "22852"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Santa Anita",
+      "postal_code": [
+        "22760"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Santa Juquila",
+      "postal_code": [
+        "22796"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "22766"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "San Telmo",
+      "postal_code": [
+        "22908"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Santo Domingo Residencial",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Santo Tomas",
+      "postal_code": [
+        "22795",
+        "22830"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "San Vicente",
+      "postal_code": [
+        "22900"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Seccion Primera",
+      "postal_code": [
+        "22800"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Sexta Seccion",
+      "postal_code": [
+        "22790"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Sexto Ayuntamiento",
+      "postal_code": [
+        "22820"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Siena Residencial",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Solidaridad",
+      "postal_code": [
+        "22790"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Tercer Ayuntamiento",
+      "postal_code": [
+        "22830"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Terrazas el Gallo",
+      "postal_code": [
+        "22850"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Territorio Sur",
+      "postal_code": [
+        "22860"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Todos los Santos",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Trinidad Cardona",
+      "postal_code": [
+        "22908"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Ulbrich",
+      "postal_code": [
+        "22830"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Universidad Autonoma de Baja California",
+      "postal_code": [
+        "22873"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "ursulo Galvan",
+      "postal_code": [
+        "22765"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Uruapan",
+      "postal_code": [
+        "22795"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Valle de Chapultepec",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Valle de las Palmas",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Valle Dorado",
+      "postal_code": [
+        "22890"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Valle Dorado Seccion Lagos",
+      "postal_code": [
+        "22890"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Valle Verde",
+      "postal_code": [
+        "22839"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Victoria",
+      "postal_code": [
+        "22810"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Villa Bonita",
+      "postal_code": [
+        "22852"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Villa Colonial",
+      "postal_code": [
+        "22890"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Villa Cortez",
+      "postal_code": [
+        "22873"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Villa de Juarez (San Antonio de las Minas)",
+      "postal_code": [
+        "22766"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Villa del Mar",
+      "postal_code": [
+        "22793"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Villa del Real",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Villa del Real 2a Seccion",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Villa del Real 3a Seccion",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Villafontana",
+      "postal_code": [
+        "22839"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Villa Residencial del Prado",
+      "postal_code": [
+        "22819"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Villa Residencial del Real",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Villa Residencial del Rey",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Villas Cibola del Mar",
+      "postal_code": [
+        "22760"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Villas del Campo",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Villas del Cedro I",
+      "postal_code": [
+        "22810"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Villas del Cedro II",
+      "postal_code": [
+        "22810"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Villas del Cedro III",
+      "postal_code": [
+        "22810"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Villas del Mar",
+      "postal_code": [
+        "22785",
+        "22790"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Villas del Roble",
+      "postal_code": [
+        "22842"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Villas de San Miguel",
+      "postal_code": [
+        "22760"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Vista al Mar",
+      "postal_code": [
+        "22790"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Vista al Sol",
+      "postal_code": [
+        "22812"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Vista del Mar",
+      "postal_code": [
+        "22785"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Vista del Valle",
+      "postal_code": [
+        "22790"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "22785",
+        "22795",
+        "22812"
+      ]
+    },
+    {
+      "city": "Ensenada",
+      "colonia": "Vivienda Popular",
+      "postal_code": [
+        "22880"
+      ]
+    }
+  ]
+}

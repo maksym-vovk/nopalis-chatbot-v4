@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "San Martin de Bolanos",
+      "colonia": "Agua Caliente",
+      "postal_code": [
+        "46385"
+      ]
+    },
+    {
+      "city": "San Martin de Bolanos",
+      "colonia": "El Platanar",
+      "postal_code": [
+        "46360"
+      ]
+    },
+    {
+      "city": "San Martin de Bolanos",
+      "colonia": "El Platanito",
+      "postal_code": [
+        "46386"
+      ]
+    },
+    {
+      "city": "San Martin de Bolanos",
+      "colonia": "La Joya",
+      "postal_code": [
+        "46370"
+      ]
+    },
+    {
+      "city": "San Martin de Bolanos",
+      "colonia": "San Martin de Bolanos",
+      "postal_code": [
+        "46350"
+      ]
+    },
+    {
+      "city": "San Martin de Bolanos",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "46380"
+      ]
+    }
+  ]
+}

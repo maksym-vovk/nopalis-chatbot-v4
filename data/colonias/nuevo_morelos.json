@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Nuevo Morelos",
+      "colonia": "Del Sol",
+      "postal_code": [
+        "89970"
+      ]
+    },
+    {
+      "city": "Nuevo Morelos",
+      "colonia": "Nuevo Morelos",
+      "postal_code": [
+        "89970"
+      ]
+    },
+    {
+      "city": "Nuevo Morelos",
+      "colonia": "Santa Cruz del Toro",
+      "postal_code": [
+        "89970"
+      ]
+    },
+    {
+      "city": "Nuevo Morelos",
+      "colonia": "Vivamos Mejor",
+      "postal_code": [
+        "89970"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,581 @@
+{
+  "data": [
+    {
+      "city": "Lerma",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "52006"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Adolfo Lopez Mateos Huitzizilapan",
+      "postal_code": [
+        "52050"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Agricola Analco",
+      "postal_code": [
+        "52047"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Alfredo del Mazo",
+      "postal_code": [
+        "52030"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Alvaro Obregon Tlalmimilolpan",
+      "postal_code": [
+        "52010"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Amomolulco",
+      "postal_code": [
+        "52005"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Auris",
+      "postal_code": [
+        "52004"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Barranca Grande",
+      "postal_code": [
+        "52055"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "52054"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Canada de Alferes",
+      "postal_code": [
+        "52045"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Casa Blanca (Tierras Nuevas)",
+      "postal_code": [
+        "52020"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Chignahuapa",
+      "postal_code": [
+        "52046"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Cideco",
+      "postal_code": [
+        "52004"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Club de Golf los Encinos",
+      "postal_code": [
+        "52005"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Corredor Industrial Toluca Lerma",
+      "postal_code": [
+        "52004"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Cristo Rey",
+      "postal_code": [
+        "52040"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Cucuhapan",
+      "postal_code": [
+        "52047"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Dolores (Rancheria Dolores)",
+      "postal_code": [
+        "52050"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Ejidal Emiliano Zapata",
+      "postal_code": [
+        "52004"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "El arbol",
+      "postal_code": [
+        "52010"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "El Calvario la Merced",
+      "postal_code": [
+        "52006"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "El Caracol",
+      "postal_code": [
+        "52030"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "El Espino Peralta",
+      "postal_code": [
+        "52020"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "El Panteon",
+      "postal_code": [
+        "52005"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "El Pocito",
+      "postal_code": [
+        "52006"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "El Porvenir ll",
+      "postal_code": [
+        "52004"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "El Tiradero",
+      "postal_code": [
+        "52040"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Flor de Gallo Huitzizilapan",
+      "postal_code": [
+        "52050"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Guadalupe la Cienega",
+      "postal_code": [
+        "52004"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Guadalupe Victoria Huitzizilapan",
+      "postal_code": [
+        "52050"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "INFONAVIT",
+      "postal_code": [
+        "52004"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Isidro Fabela",
+      "postal_code": [
+        "52004"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "La Bomba",
+      "postal_code": [
+        "52004"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "La Concepcion Xochicuautla",
+      "postal_code": [
+        "52050"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "La Estacion",
+      "postal_code": [
+        "52006"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "La Joya",
+      "postal_code": [
+        "52040",
+        "52054"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "La Loma",
+      "postal_code": [
+        "52010"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "La Lupita ( Casas Viejas )",
+      "postal_code": [
+        "52059"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "La Manga ( La Laguna )",
+      "postal_code": [
+        "52047"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "La Montoya",
+      "postal_code": [
+        "52040"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "La Mota",
+      "postal_code": [
+        "52004"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Las aguilas",
+      "postal_code": [
+        "52044"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Las Mesas Huitzizilapan",
+      "postal_code": [
+        "52059"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "La Unidad Huitzizilapan",
+      "postal_code": [
+        "52059"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Lerma de Villada Centro",
+      "postal_code": [
+        "52000"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Llano Capacho",
+      "postal_code": [
+        "52045"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Los Cedros 400",
+      "postal_code": [
+        "52004"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Los Olivos",
+      "postal_code": [
+        "52005"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Metate Viejo Tlalmimilolpan",
+      "postal_code": [
+        "52050"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "N Dexi Huitzizilapan",
+      "postal_code": [
+        "52050"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Nueva Ameyalco",
+      "postal_code": [
+        "52004"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "52040"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Parque industrial Cerrillo I",
+      "postal_code": [
+        "52004"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Parque industrial Cerrillo II",
+      "postal_code": [
+        "52004"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Pueblo Nuevo Tlalmimilolpan",
+      "postal_code": [
+        "52055"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Reforma Tlalmimilolpan",
+      "postal_code": [
+        "52055"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Residencial Tires",
+      "postal_code": [
+        "52005"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Salazar",
+      "postal_code": [
+        "52045"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "San Agustin Huitzizilapan",
+      "postal_code": [
+        "52050"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "San Francisco Xochicuautla",
+      "postal_code": [
+        "52054"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "52004"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "San Jose el Llanito",
+      "postal_code": [
+        "52005"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "San Lorenzo Huitzizilapan",
+      "postal_code": [
+        "52020",
+        "52050"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "San Martin las Rajas Huitzizilapan",
+      "postal_code": [
+        "52059"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "San Mateo Atarasquillo",
+      "postal_code": [
+        "52044"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "San Miguel Ameyalco",
+      "postal_code": [
+        "52040",
+        "52040"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "San Nicolas Peralta",
+      "postal_code": [
+        "52010"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "52010"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "San Pedro Huitzizilapan",
+      "postal_code": [
+        "52050"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "San Pedro Tultepec",
+      "postal_code": [
+        "52030"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Santa Catarina",
+      "postal_code": [
+        "52050"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Santa Clara",
+      "postal_code": [
+        "52004"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Santa Cruz Chignahuapan",
+      "postal_code": [
+        "52046"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Santa Cruz Huitzizilapan",
+      "postal_code": [
+        "52050"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Santa Cruz Tultepec",
+      "postal_code": [
+        "52030"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Santa Maria Atarasquillo",
+      "postal_code": [
+        "52044"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Santa Maria Tlalmimilolpan",
+      "postal_code": [
+        "52050"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Santiago Analco",
+      "postal_code": [
+        "52043"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Valle de Encinos",
+      "postal_code": [
+        "52005"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Valle de Lerma",
+      "postal_code": [
+        "52004"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Zacamulpa Huitzizilapan (San Isidro)",
+      "postal_code": [
+        "52050"
+      ]
+    },
+    {
+      "city": "Lerma",
+      "colonia": "Zacamulpa Tlalmimilolpan",
+      "postal_code": [
+        "52050"
+      ]
+    }
+  ]
+}

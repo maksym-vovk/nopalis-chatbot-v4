@@ -1,0 +1,904 @@
+{
+  "data": [
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Alberos",
+      "postal_code": [
+        "67484"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Alfredo V Bonfil",
+      "postal_code": [
+        "67483"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Ampliacion Galindo",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Atongo de Abajo",
+      "postal_code": [
+        "67460"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Bellavista Cuarto Sector",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Burocratas",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Burocratas Municipales",
+      "postal_code": [
+        "67483"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Cadereyta Jimenez Centro",
+      "postal_code": [
+        "67480"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Candelaria Rios",
+      "postal_code": [
+        "67483"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Cardenas",
+      "postal_code": [
+        "67451"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Casa Blanca",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Casas Viejas (La Florida)",
+      "postal_code": [
+        "67474"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "CERESO Cadereyta",
+      "postal_code": [
+        "67473"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Chihuahua",
+      "postal_code": [
+        "67456"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Delia",
+      "postal_code": [
+        "67480"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Dolores",
+      "postal_code": [
+        "67493"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Ejido Cadereyta",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "El Alamito",
+      "postal_code": [
+        "67463"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "El Barco",
+      "postal_code": [
+        "67498"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "El Barranquito",
+      "postal_code": [
+        "67467",
+        "67467"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "El Castillo",
+      "postal_code": [
+        "67456"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "El Matorral",
+      "postal_code": [
+        "67497"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "El Mezcal",
+      "postal_code": [
+        "67457"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "67463"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "El Refugio (El Nopalito)",
+      "postal_code": [
+        "67474"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Estacion Cadereyta",
+      "postal_code": [
+        "67483"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Estacion San Juan",
+      "postal_code": [
+        "67470"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Fidel Velazquez",
+      "postal_code": [
+        "67480",
+        "67484"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Fomerrey Cadereyta",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Framboyanes",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Galindo",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Garza Cantu",
+      "postal_code": [
+        "67480"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Gloria Mendiola",
+      "postal_code": [
+        "67483"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Graciano Sanchez",
+      "postal_code": [
+        "67483"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Hacienda las Trancas",
+      "postal_code": [
+        "67474"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Ignacio Allende",
+      "postal_code": [
+        "67484"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "INFONAVIT Arboledas",
+      "postal_code": [
+        "67484"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "INFONAVIT Jeronimo Trevino",
+      "postal_code": [
+        "67484"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "INFONAVIT Sabinitos",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Jardines de Cadereyta",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Jardines de Capellania",
+      "postal_code": [
+        "67484"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Jeronimo Trevino Primera Seccion",
+      "postal_code": [
+        "67483"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Jose Luis Lozano",
+      "postal_code": [
+        "67483"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Jose O Martinez Seccion A",
+      "postal_code": [
+        "67484"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Jose O Martinez Seccion B",
+      "postal_code": [
+        "67484"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "La Capilla",
+      "postal_code": [
+        "67480"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "La Ceja",
+      "postal_code": [
+        "67463"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "La Chueca",
+      "postal_code": [
+        "67474"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "La Concepcion",
+      "postal_code": [
+        "67490"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "La Condesa",
+      "postal_code": [
+        "67463"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "67465"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "La Haciendita",
+      "postal_code": [
+        "67492"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Lajitas de Arriba",
+      "postal_code": [
+        "67467"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "La Nutria",
+      "postal_code": [
+        "67454"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "La Purisima",
+      "postal_code": [
+        "67460"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "La Rioja",
+      "postal_code": [
+        "67480"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Las Adjuntas",
+      "postal_code": [
+        "67469"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Las Adjuntas (Rancho Viejo)",
+      "postal_code": [
+        "67460"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Las Espigas",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Las Misiones",
+      "postal_code": [
+        "67483"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "67467",
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Las Palomitas (La Fragua)",
+      "postal_code": [
+        "67470"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Las Villas",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "67462"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "La Union",
+      "postal_code": [
+        "67467"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "67483"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Lomas de los Pilares",
+      "postal_code": [
+        "67486"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Lomas de San Agustin",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Lopez Mateos",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Marin Gonzalez",
+      "postal_code": [
+        "67484"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Nueva Cadereyta",
+      "postal_code": [
+        "67483"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Nueva Madero",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Padilla",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Palmanova",
+      "postal_code": [
+        "67486"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Palmitos",
+      "postal_code": [
+        "67465"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Palmitos (Hacienda Palmitos)",
+      "postal_code": [
+        "67465"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Pedregal de Cadereyta",
+      "postal_code": [
+        "67480"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "PEMEX",
+      "postal_code": [
+        "67483"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "PEMEX Refineria",
+      "postal_code": [
+        "67488"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Praderas de Cadereyta",
+      "postal_code": [
+        "67484"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Privada Santa Lucia",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Privadas del Rio",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Privadas San Juan",
+      "postal_code": [
+        "67480"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Pueblo Nuevo (Tepehuaje)",
+      "postal_code": [
+        "67490"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Puertas de Cadereyta",
+      "postal_code": [
+        "67483"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Rafael de Leon",
+      "postal_code": [
+        "67483"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "67454"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Real de Cadereyta",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Residencial Jardines de Compostela",
+      "postal_code": [
+        "67484"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Residencial Paraiso",
+      "postal_code": [
+        "67484"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Sabarado",
+      "postal_code": [
+        "67474"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Salinas de Gortari",
+      "postal_code": [
+        "67484"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "San Bartolo",
+      "postal_code": [
+        "67456"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "San Bartolo (Puerto Rico)",
+      "postal_code": [
+        "67456"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "San Diego",
+      "postal_code": [
+        "67493"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "San Genaro",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "San Ignacio",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "67467"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "San Juan",
+      "postal_code": [
+        "67454"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "San Juan de los Garza (San Juanito)",
+      "postal_code": [
+        "67459"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "San Juan (El Calvario)",
+      "postal_code": [
+        "67454"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "67464"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "San Miguelito",
+      "postal_code": [
+        "67474"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "San Moises",
+      "postal_code": [
+        "67484"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "67462"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Santa Anita",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "67484"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Santa Efigenia",
+      "postal_code": [
+        "67474"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "67453"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Santa Isabel",
+      "postal_code": [
+        "67464"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Santa Isabel y Dolores",
+      "postal_code": [
+        "67493"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Santa Liliana",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Santa Lucia Segundo Sector",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Soledad Herrera",
+      "postal_code": [
+        "67475"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Soledad Herrera (Sabinos)",
+      "postal_code": [
+        "67475"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Tepehuaje",
+      "postal_code": [
+        "67490",
+        "67493"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Valle de Cadereyta",
+      "postal_code": [
+        "67484"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Valle de los Encinos",
+      "postal_code": [
+        "67485"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Valle Hidalgo (El Quemado)",
+      "postal_code": [
+        "67498"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Valles del Rey",
+      "postal_code": [
+        "67484"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Vaqueros [Estacion]",
+      "postal_code": [
+        "67496"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Veteranos",
+      "postal_code": [
+        "67483"
+      ]
+    },
+    {
+      "city": "Cadereyta Jimenez",
+      "colonia": "Villa Luz",
+      "postal_code": [
+        "67484"
+      ]
+    }
+  ]
+}

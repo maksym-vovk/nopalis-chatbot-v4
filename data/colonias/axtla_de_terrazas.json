@@ -1,0 +1,834 @@
+{
+  "data": [
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Agua Fria",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Agua Fria Dos",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Ahuacatitla",
+      "postal_code": [
+        "79934"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Ampliacion Cuayo Buenavista",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Arroyo de en Medio",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Arroyo Seco",
+      "postal_code": [
+        "79937"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Axtla de Terrazas",
+      "postal_code": [
+        "79930"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Barrio el Saucito",
+      "postal_code": [
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Barrio el Tamarindo",
+      "postal_code": [
+        "79937"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Barrio San Isidro (Tlajumpal)",
+      "postal_code": [
+        "79936"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Barrio Santa Fe",
+      "postal_code": [
+        "79937"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "79937"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Calcahual",
+      "postal_code": [
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Chacuala",
+      "postal_code": [
+        "79934"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Chacuala (Mario Acosta)",
+      "postal_code": [
+        "79934"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Chicaxtitla",
+      "postal_code": [
+        "79937"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Chimalaco",
+      "postal_code": [
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Choteco",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Coamila",
+      "postal_code": [
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Coamizatl",
+      "postal_code": [
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Coatzontitla",
+      "postal_code": [
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Comoca Ahuacatitla",
+      "postal_code": [
+        "79937"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Comunidad Jalpilla (Jalpilla Viejo)",
+      "postal_code": [
+        "79934"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Comunidad la Purisima",
+      "postal_code": [
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Comunidad Picholco (Picholco Viejo)",
+      "postal_code": [
+        "79936"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Copalo (Chalco)",
+      "postal_code": [
+        "79936"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Crucero de Comoca",
+      "postal_code": [
+        "79937"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Cuatecoyo",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Cuatlacatl",
+      "postal_code": [
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Cuayo Buenavista",
+      "postal_code": [
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Cuayo Cerro",
+      "postal_code": [
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Cuayo (Chalco)",
+      "postal_code": [
+        "79936"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Cuixcoatitla (Chalco)",
+      "postal_code": [
+        "79936"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Dona Pilar",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "El Aquichal",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "El Cerro",
+      "postal_code": [
+        "79934"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "El Danubio",
+      "postal_code": [
+        "79937"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "El Encinal",
+      "postal_code": [
+        "79937"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "El Laurel",
+      "postal_code": [
+        "79937"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "El Madrigal",
+      "postal_code": [
+        "79937"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "79937"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "El Progreso",
+      "postal_code": [
+        "79936"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "El Sacrificio",
+      "postal_code": [
+        "79933",
+        "79937"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Ensenada (Chalco)",
+      "postal_code": [
+        "79936"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Escalante",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Fraccion Ahuehueyo",
+      "postal_code": [
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Fraccionamiento la Purisima",
+      "postal_code": [
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Fraccion Cuatecoyo",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Fraccion el Cerro",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Hacienda Tampochocho",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Jacarandas",
+      "postal_code": [
+        "79930"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Jalpilla",
+      "postal_code": [
+        "79935"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Jardines de Axtla",
+      "postal_code": [
+        "79930"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Joaquin Jonguitud",
+      "postal_code": [
+        "79937"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Juan Jose",
+      "postal_code": [
+        "79934"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "La Ceiba",
+      "postal_code": [
+        "79934"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "La Ceiba (Ezequiel Terrazas)",
+      "postal_code": [
+        "79934"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "La Esmeralda",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "La Garita",
+      "postal_code": [
+        "79937"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "La Gloria",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "La Laja",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "La Libertad",
+      "postal_code": [
+        "79930"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "La Libertad (Ejido la Libertad)",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "La Libertad Segunda Seccion",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "La Mora",
+      "postal_code": [
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "La Noria",
+      "postal_code": [
+        "79934"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "La Purisima",
+      "postal_code": [
+        "79938",
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "La Realidad",
+      "postal_code": [
+        "79930"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Las Cuevas",
+      "postal_code": [
+        "79936"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "79930"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Loma Bonita Choteco",
+      "postal_code": [
+        "79934"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Lomas de Axtla",
+      "postal_code": [
+        "79930"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Mapaxtla",
+      "postal_code": [
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Mapotla",
+      "postal_code": [
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Matlalapa",
+      "postal_code": [
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Michotlayo (Chalco)",
+      "postal_code": [
+        "79936"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Nuevo Ayotoxco",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Ostatitla",
+      "postal_code": [
+        "79934"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Otlasxuaco",
+      "postal_code": [
+        "79934"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Papatlayo",
+      "postal_code": [
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Picholco",
+      "postal_code": [
+        "79936"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Pomoco",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Progreso",
+      "postal_code": [
+        "79930"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Rancho Ahuehueyo",
+      "postal_code": [
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Rancho Axtlan",
+      "postal_code": [
+        "79934"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Rancho Coyocala",
+      "postal_code": [
+        "79934"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Rancho el Avion",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Rancho Huasteco el Pino",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Rancho las Huastecas",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "79933",
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Rancho Tres Hermanos",
+      "postal_code": [
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "San Joaquin",
+      "postal_code": [
+        "79934"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "San Jose",
+      "postal_code": [
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "San Juan",
+      "postal_code": [
+        "79930"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "79930",
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "79930"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Santa Fe Texacal (Centro Urbano)",
+      "postal_code": [
+        "79937"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Santa Maria Dos",
+      "postal_code": [
+        "79930"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "79934"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Tampochocho",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Temalacaco",
+      "postal_code": [
+        "79934"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Tempixco (Sihuapilco)",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Tenexcalco (La Ceiba)",
+      "postal_code": [
+        "79937"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Tenexio",
+      "postal_code": [
+        "79937"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Tepetlaco",
+      "postal_code": [
+        "79934"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Texacal",
+      "postal_code": [
+        "79937"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Viejo Ayotoxco",
+      "postal_code": [
+        "79934"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Villa de Guadalupe",
+      "postal_code": [
+        "79930"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Villas de Santa Maria",
+      "postal_code": [
+        "79930"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Xochititla",
+      "postal_code": [
+        "79934"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Xocoyo (Chalco)",
+      "postal_code": [
+        "79936"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Xoloco",
+      "postal_code": [
+        "79938"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Zacayuhual",
+      "postal_code": [
+        "79933"
+      ]
+    },
+    {
+      "city": "Axtla de Terrazas",
+      "colonia": "Zojualo (Chalco)",
+      "postal_code": [
+        "79936"
+      ]
+    }
+  ]
+}

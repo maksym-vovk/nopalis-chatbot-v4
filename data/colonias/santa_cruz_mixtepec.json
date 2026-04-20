@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Santa Cruz Mixtepec",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "71215"
+      ]
+    },
+    {
+      "city": "Santa Cruz Mixtepec",
+      "colonia": "San Mateo Mixtepec",
+      "postal_code": [
+        "71217"
+      ]
+    },
+    {
+      "city": "Santa Cruz Mixtepec",
+      "colonia": "Santa Cruz Mixtepec",
+      "postal_code": [
+        "71214"
+      ]
+    },
+    {
+      "city": "Santa Cruz Mixtepec",
+      "colonia": "Trapiche Santa Cruz",
+      "postal_code": [
+        "71215"
+      ]
+    }
+  ]
+}

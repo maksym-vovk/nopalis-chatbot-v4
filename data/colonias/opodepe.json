@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Opodepe",
+      "colonia": "Meresichic",
+      "postal_code": [
+        "84850"
+      ]
+    },
+    {
+      "city": "Opodepe",
+      "colonia": "Opodepe",
+      "postal_code": [
+        "84800"
+      ]
+    },
+    {
+      "city": "Opodepe",
+      "colonia": "Pueblo Viejo",
+      "postal_code": [
+        "84820"
+      ]
+    },
+    {
+      "city": "Opodepe",
+      "colonia": "Querobabi",
+      "postal_code": [
+        "84830"
+      ]
+    },
+    {
+      "city": "Opodepe",
+      "colonia": "Tuape",
+      "postal_code": [
+        "84824"
+      ]
+    }
+  ]
+}

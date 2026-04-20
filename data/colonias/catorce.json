@@ -1,0 +1,698 @@
+{
+  "data": [
+    {
+      "city": "Catorce",
+      "colonia": "Agua Blanca",
+      "postal_code": [
+        "78560"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Alamaritos de Coronados",
+      "postal_code": [
+        "78566"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Alamitos de los Diaz",
+      "postal_code": [
+        "78564"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Becerras",
+      "postal_code": [
+        "78566"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Bedao",
+      "postal_code": [
+        "78566"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Boquilla de Barrabas",
+      "postal_code": [
+        "78547"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Camposanto",
+      "postal_code": [
+        "78553"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Castanon",
+      "postal_code": [
+        "78540"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Cerrito Blanco",
+      "postal_code": [
+        "78547"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Cerrito de la Piedra",
+      "postal_code": [
+        "78544"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Charco Largo",
+      "postal_code": [
+        "78540"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Desmontes de Catorce (Los Tahonitas)",
+      "postal_code": [
+        "78560"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Ejido las Lechuzas [COPLAMAR]",
+      "postal_code": [
+        "78546"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "El Barranco",
+      "postal_code": [
+        "78564"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "El Duraznillo",
+      "postal_code": [
+        "78545"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "El Espolon",
+      "postal_code": [
+        "78563"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "El Garabato",
+      "postal_code": [
+        "78564"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "El Huizachal",
+      "postal_code": [
+        "78567"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "El Jordan",
+      "postal_code": [
+        "78566"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "El Magueyal",
+      "postal_code": [
+        "78566"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "El Mastranto",
+      "postal_code": [
+        "78564"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "El Oreganal",
+      "postal_code": [
+        "78566"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "El Pastor de Coronados",
+      "postal_code": [
+        "78566"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "El Potrero",
+      "postal_code": [
+        "78563"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "El Pozo Viejo",
+      "postal_code": [
+        "78546"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "El Puerto de San Jacobo",
+      "postal_code": [
+        "78566"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "El Rayito",
+      "postal_code": [
+        "78544"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "El Refugio de Coronados",
+      "postal_code": [
+        "78546"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "El Refugio (La Luz)",
+      "postal_code": [
+        "78563"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "El Salto",
+      "postal_code": [
+        "78560"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "El Tecolote",
+      "postal_code": [
+        "78543"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "El Vergel",
+      "postal_code": [
+        "78566"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Estacion Catorce",
+      "postal_code": [
+        "78546"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Estacion Wadley",
+      "postal_code": [
+        "78546"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "78554"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Guadalupe del Carnicero (La Maroma)",
+      "postal_code": [
+        "78565"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Jesus de Coronados",
+      "postal_code": [
+        "78565"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "La Alberca",
+      "postal_code": [
+        "78566"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "La Borrega",
+      "postal_code": [
+        "78543"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "La Canada",
+      "postal_code": [
+        "78560"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "La Cantera",
+      "postal_code": [
+        "78567"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "La Cardoncita",
+      "postal_code": [
+        "78544"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "La Cieneguita de Sosa",
+      "postal_code": [
+        "78566"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "La Lagunita (Maguey Mocho)",
+      "postal_code": [
+        "78566"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "La Leona",
+      "postal_code": [
+        "78564"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "La Mesa",
+      "postal_code": [
+        "78544"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "La Milpita",
+      "postal_code": [
+        "78566"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "La Palma",
+      "postal_code": [
+        "78560"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "La Pila",
+      "postal_code": [
+        "78560"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Las Adjuntas",
+      "postal_code": [
+        "78564",
+        "78566"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Las Amapolas",
+      "postal_code": [
+        "78543"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Las Auras",
+      "postal_code": [
+        "78560"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Las Cabecitas",
+      "postal_code": [
+        "78545"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "78547"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Las Relaciones",
+      "postal_code": [
+        "78564"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Las Sevillas",
+      "postal_code": [
+        "78567"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Lavaderos",
+      "postal_code": [
+        "78546"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Loma Blanca",
+      "postal_code": [
+        "78546"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Los Azules",
+      "postal_code": [
+        "78540"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Los Catorce",
+      "postal_code": [
+        "78560"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Los Cuatro Caminos",
+      "postal_code": [
+        "78560"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Los Huingaros",
+      "postal_code": [
+        "78566"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Los Negritos",
+      "postal_code": [
+        "78544"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Los Ojitos de Agua",
+      "postal_code": [
+        "78566"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Los Pames",
+      "postal_code": [
+        "78540"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Los Rayos",
+      "postal_code": [
+        "78566"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Mesa del Venado",
+      "postal_code": [
+        "78566"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Mina de Concepcion",
+      "postal_code": [
+        "78563"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "78560"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Perros Duros",
+      "postal_code": [
+        "78546"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Poblazon",
+      "postal_code": [
+        "78560"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Potrerillos",
+      "postal_code": [
+        "78563"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Purisima (Coyotera)",
+      "postal_code": [
+        "78555"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Ranchito de Coronados",
+      "postal_code": [
+        "78565"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "78543"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Real de Catorce",
+      "postal_code": [
+        "78550"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Real de Maroma",
+      "postal_code": [
+        "78566"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Refugio de los Amayas",
+      "postal_code": [
+        "78560"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "San Antonio de Coronados",
+      "postal_code": [
+        "78565"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "San Antonio de la Cruz",
+      "postal_code": [
+        "78563"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "San Cristobal",
+      "postal_code": [
+        "78560"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "San Francisco del Refugio",
+      "postal_code": [
+        "78544"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "San Jose de Coronados",
+      "postal_code": [
+        "78565"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "San Jose de los Quintos",
+      "postal_code": [
+        "78560"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "San Jose de Milpitas",
+      "postal_code": [
+        "78560"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "San Juan de Matanzas",
+      "postal_code": [
+        "78564"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "San Rafael de Torres",
+      "postal_code": [
+        "78546"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Santa Cruz de Carretas",
+      "postal_code": [
+        "78564"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Santa Cruz del Mogote",
+      "postal_code": [
+        "78567"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Santa Maria del Refugio",
+      "postal_code": [
+        "78540"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Tahonas del Jordan",
+      "postal_code": [
+        "78566"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Tahonitas del Salto",
+      "postal_code": [
+        "78563"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Tanque Charco Cercado",
+      "postal_code": [
+        "78545"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Tanque de Arenas",
+      "postal_code": [
+        "78544"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Tanque de Dolores",
+      "postal_code": [
+        "78545"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Tierras Negras",
+      "postal_code": [
+        "78566"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Valle Verde",
+      "postal_code": [
+        "78544"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Viborillas",
+      "postal_code": [
+        "78560"
+      ]
+    },
+    {
+      "city": "Catorce",
+      "colonia": "Vigas de Coronados",
+      "postal_code": [
+        "78565"
+      ]
+    }
+  ]
+}

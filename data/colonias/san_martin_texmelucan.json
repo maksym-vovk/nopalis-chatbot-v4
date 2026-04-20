@@ -1,0 +1,650 @@
+{
+  "data": [
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "6 de Enero",
+      "postal_code": [
+        "74053"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Alvaro Obregon",
+      "postal_code": [
+        "74060"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Ampliacion Los Dicios",
+      "postal_code": [
+        "74080"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Arboledas de San Martin",
+      "postal_code": [
+        "74053"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "arbol Grande",
+      "postal_code": [
+        "74064"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Baja California",
+      "postal_code": [
+        "74041"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "74126"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "74013"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "74068"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Calyeca",
+      "postal_code": [
+        "74129"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Carrillo Puerto",
+      "postal_code": [
+        "74090"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Centro",
+      "postal_code": [
+        "74000"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Centro (Tepatlaxco)",
+      "postal_code": [
+        "74120"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Chalco",
+      "postal_code": [
+        "74126"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Diamante",
+      "postal_code": [
+        "74068"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Domingo Arenas",
+      "postal_code": [
+        "74050"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "74031"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "El Barrio (Tepatlaxco)",
+      "postal_code": [
+        "74120"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "El Calvario",
+      "postal_code": [
+        "74089"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "74058"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "El Chamizal",
+      "postal_code": [
+        "74088"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "El Llano (Tepatlaxco)",
+      "postal_code": [
+        "74120"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "El Moral",
+      "postal_code": [
+        "74064",
+        "74125"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "El Rio (Heyatzacoalco)",
+      "postal_code": [
+        "74068"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Estrella",
+      "postal_code": [
+        "74122"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Expropiacion Petrolera 18 de Marzo",
+      "postal_code": [
+        "74053"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Gondola",
+      "postal_code": [
+        "74069"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "74126"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "74126"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Independencia",
+      "postal_code": [
+        "74013"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "INFONAVIT Antonio Hernandez",
+      "postal_code": [
+        "74059"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "INFONAVIT Martires 7 de Enero",
+      "postal_code": [
+        "74060"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "INFONAVIT San Juan",
+      "postal_code": [
+        "74030"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Jardines de San Juan",
+      "postal_code": [
+        "74120"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "74079"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "La Colonia (Tepatlaxco)",
+      "postal_code": [
+        "74120"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "74126"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "La Deportiva",
+      "postal_code": [
+        "74129"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "La Huerta",
+      "postal_code": [
+        "74068"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "La Joya",
+      "postal_code": [
+        "74050",
+        "74120"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "La Loma (Tepatlaxco)",
+      "postal_code": [
+        "74120"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "La Purisima",
+      "postal_code": [
+        "74030"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "La Santisima",
+      "postal_code": [
+        "74021"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Las Piedras (Tepatlaxco",
+      "postal_code": [
+        "74120"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Las Rosas (Tepatlaxco)",
+      "postal_code": [
+        "74120"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "74070"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Llano Grande",
+      "postal_code": [
+        "74122"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Llano (Hueyatzacoalco)",
+      "postal_code": [
+        "74068"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Lomas de Atoyatenco",
+      "postal_code": [
+        "74053"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Lomas de San Antonio",
+      "postal_code": [
+        "74040"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Los Angeles",
+      "postal_code": [
+        "74080"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Los Dicios",
+      "postal_code": [
+        "74080"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Los Volcanes",
+      "postal_code": [
+        "74013"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Manantiales (Tepatlaxco)",
+      "postal_code": [
+        "74120"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Morelos",
+      "postal_code": [
+        "74020"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "74042"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "PEMEX",
+      "postal_code": [
+        "74053"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Planetario",
+      "postal_code": [
+        "74053"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Plaza Acuario",
+      "postal_code": [
+        "74079"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Polaxtla",
+      "postal_code": [
+        "74088"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Residencial los Pinos",
+      "postal_code": [
+        "74079"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "74042"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "74078"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "San Baltasar Temaxcalac",
+      "postal_code": [
+        "74126"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "San Buenaventura Tecaltzingo",
+      "postal_code": [
+        "74129"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "San Cristobal Tepatlaxco",
+      "postal_code": [
+        "74120"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "San Damian",
+      "postal_code": [
+        "74059"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "San Francisco Tepeyac",
+      "postal_code": [
+        "74129"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "74030"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "San Jeronimo Tianguismanalco",
+      "postal_code": [
+        "74128"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "San Jose",
+      "postal_code": [
+        "74089"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "San Jose Los Arcos",
+      "postal_code": [
+        "74068"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "San Juan Tuxco",
+      "postal_code": [
+        "74129"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "San Lucas Atoyatenco",
+      "postal_code": [
+        "74120"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "74078"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "San Miguel Lardizabal",
+      "postal_code": [
+        "74040"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "74010"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "74074"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "San Rafael Tlanalapan",
+      "postal_code": [
+        "74122"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Santa Anita",
+      "postal_code": [
+        "74129"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Santa Catarina Hueyatzacoalco",
+      "postal_code": [
+        "74125"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Santa Maria Moyotzingo",
+      "postal_code": [
+        "74129"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Solidaridad",
+      "postal_code": [
+        "74050"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Tamazolapa (Tepatlaxco)",
+      "postal_code": [
+        "74120"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Tetitla",
+      "postal_code": [
+        "74079"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Tlacomulco",
+      "postal_code": [
+        "74129"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Tlaixco",
+      "postal_code": [
+        "74059"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Valle Norte de San Martin",
+      "postal_code": [
+        "74030"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Valle San Martin",
+      "postal_code": [
+        "74069"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Villa el Carmen",
+      "postal_code": [
+        "74010"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "74068"
+      ]
+    },
+    {
+      "city": "San Martin Texmelucan",
+      "colonia": "Yeloxotchitla",
+      "postal_code": [
+        "74126"
+      ]
+    }
+  ]
+}

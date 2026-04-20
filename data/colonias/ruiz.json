@@ -1,0 +1,727 @@
+{
+  "data": [
+    {
+      "city": "Ruiz",
+      "colonia": "Achota",
+      "postal_code": [
+        "63628"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Alfonso Vidal (El Mirador)",
+      "postal_code": [
+        "63605"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Anastacio Flores",
+      "postal_code": [
+        "63617"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Andres Lamas",
+      "postal_code": [
+        "63617"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "63627"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Centro",
+      "postal_code": [
+        "63620"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Cerro de la Cruz",
+      "postal_code": [
+        "63626"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Chimaltita",
+      "postal_code": [
+        "63617"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Cordon del Jilguero",
+      "postal_code": [
+        "63616"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Crucero de Jarretadera (El Manguito)",
+      "postal_code": [
+        "63605"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Crucero de la Laguna",
+      "postal_code": [
+        "63605"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Agua Caliente",
+      "postal_code": [
+        "63619"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Banco",
+      "postal_code": [
+        "63617"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Camichin (La Roblera)",
+      "postal_code": [
+        "63618"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Capomal",
+      "postal_code": [
+        "63623"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "63615"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Carrizo",
+      "postal_code": [
+        "63618"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Coquito",
+      "postal_code": [
+        "63614"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Crucero de los Sauces",
+      "postal_code": [
+        "63618"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Duende",
+      "postal_code": [
+        "63606"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Guajolote",
+      "postal_code": [
+        "63617"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Guanacaste",
+      "postal_code": [
+        "63618"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Guarichi",
+      "postal_code": [
+        "63606"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Limon",
+      "postal_code": [
+        "63618",
+        "63619"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Limoncito",
+      "postal_code": [
+        "63618"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Manguito",
+      "postal_code": [
+        "63618"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "63605"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Naranjo",
+      "postal_code": [
+        "63618"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Otatillo",
+      "postal_code": [
+        "63618"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Panteon",
+      "postal_code": [
+        "63622"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "63616"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Pino",
+      "postal_code": [
+        "63618"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Rastro",
+      "postal_code": [
+        "63626"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "63615"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Sombrero",
+      "postal_code": [
+        "63618"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Taixte",
+      "postal_code": [
+        "63616"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Tempizque",
+      "postal_code": [
+        "63619"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Veinticinco (El Topete)",
+      "postal_code": [
+        "63605"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Veloz",
+      "postal_code": [
+        "63614"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Venadito",
+      "postal_code": [
+        "63605"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Venado",
+      "postal_code": [
+        "63610"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Volantin",
+      "postal_code": [
+        "63616"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "63619"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "El Zopilote",
+      "postal_code": [
+        "63614"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Emilio M. Gonzalez",
+      "postal_code": [
+        "63623"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Heroico Batallon de San Blas (La Noria)",
+      "postal_code": [
+        "63604"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Huicot (Villa Hermosa)",
+      "postal_code": [
+        "63617"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Huiscoyotl",
+      "postal_code": [
+        "63618",
+        "63619"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Ixcatan del Pozolillo",
+      "postal_code": [
+        "63619"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Juan Escutia",
+      "postal_code": [
+        "63606"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "La Bolita",
+      "postal_code": [
+        "63615"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "La Ceiba",
+      "postal_code": [
+        "63619"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "La Embocada del Tenamache",
+      "postal_code": [
+        "63614"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "La Encinera",
+      "postal_code": [
+        "63619"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "La Estaca",
+      "postal_code": [
+        "63618"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Laguna del Mar",
+      "postal_code": [
+        "63605"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Lagunitas de Ventanas",
+      "postal_code": [
+        "63614"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "La Jarretadera",
+      "postal_code": [
+        "63605"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "La Limonera (Las Higueras)",
+      "postal_code": [
+        "63607"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "La Loma del Toro",
+      "postal_code": [
+        "63619"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "La Majada del Huanacaxtle",
+      "postal_code": [
+        "63618"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "La Minera Nival",
+      "postal_code": [
+        "63614"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "La Mojonera",
+      "postal_code": [
+        "63607"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "La Petaquilla",
+      "postal_code": [
+        "63618"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "La Redonda",
+      "postal_code": [
+        "63622"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Las Adjuntas",
+      "postal_code": [
+        "63618"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "La Sanguijuela",
+      "postal_code": [
+        "63617"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Las Majadas",
+      "postal_code": [
+        "63618"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "63605"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Las Planillas",
+      "postal_code": [
+        "63617"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "La Tepamera",
+      "postal_code": [
+        "63618"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "La Trompeta",
+      "postal_code": [
+        "63618"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "La Yerbabuena",
+      "postal_code": [
+        "63618"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "63628"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Los Arrayanes",
+      "postal_code": [
+        "63619"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Los Cajones",
+      "postal_code": [
+        "63619"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Los Cimientos",
+      "postal_code": [
+        "63618"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Los Cuernitos",
+      "postal_code": [
+        "63618"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Los Limos",
+      "postal_code": [
+        "63617"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Los Llanitos (Los Rivera)",
+      "postal_code": [
+        "63613"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "63618"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Los Tepehuanos",
+      "postal_code": [
+        "63617"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Los Veranos",
+      "postal_code": [
+        "63605"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Maria de Jesus Parada",
+      "postal_code": [
+        "63600"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Pajaritos",
+      "postal_code": [
+        "63605"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Pancho Guardado",
+      "postal_code": [
+        "63618"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Planes de Guadalupe",
+      "postal_code": [
+        "63614"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Presidio de los Reyes",
+      "postal_code": [
+        "63619"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Prisciliano Flores",
+      "postal_code": [
+        "63619"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Puerta de Platanares",
+      "postal_code": [
+        "63613"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Rene Salas",
+      "postal_code": [
+        "63619"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Rey Nayar",
+      "postal_code": [
+        "63622"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Salvador Allende (Las Labradas)",
+      "postal_code": [
+        "63604"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "63625"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "63605"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "San Pedro Ixcatan",
+      "postal_code": [
+        "63619"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "63614"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Silvestre Trinidad",
+      "postal_code": [
+        "63618"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Talpita",
+      "postal_code": [
+        "63623"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Tijuanita",
+      "postal_code": [
+        "63625"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Tiro al Blanco",
+      "postal_code": [
+        "63626"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Unidad Deportiva",
+      "postal_code": [
+        "63626"
+      ]
+    },
+    {
+      "city": "Ruiz",
+      "colonia": "Vado de San Pedro",
+      "postal_code": [
+        "63600"
+      ]
+    }
+  ]
+}

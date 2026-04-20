@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Cenotillo",
+      "colonia": "Cenotillo",
+      "postal_code": [
+        "97640"
+      ]
+    },
+    {
+      "city": "Cenotillo",
+      "colonia": "Tixbacab",
+      "postal_code": [
+        "97645"
+      ]
+    },
+    {
+      "city": "Cenotillo",
+      "colonia": "Tucina",
+      "postal_code": [
+        "97645"
+      ]
+    },
+    {
+      "city": "Cenotillo",
+      "colonia": "X-Lobos",
+      "postal_code": [
+        "97645"
+      ]
+    }
+  ]
+}

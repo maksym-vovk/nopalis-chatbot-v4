@@ -1,0 +1,877 @@
+{
+  "data": [
+    {
+      "city": "Cuencame",
+      "colonia": "12 de Diciembre (Sombreretillo)",
+      "postal_code": [
+        "35820"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Agua Vieja",
+      "postal_code": [
+        "35815"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Alamedas",
+      "postal_code": [
+        "35807"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Asarco",
+      "postal_code": [
+        "35817"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Augusto Gomez Villanueva",
+      "postal_code": [
+        "35874"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Bajio del Simental",
+      "postal_code": [
+        "35857"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Barriales",
+      "postal_code": [
+        "35806"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Cerrito Colorado (Santa Eulalia)",
+      "postal_code": [
+        "35823"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Cerro Gordo",
+      "postal_code": [
+        "35830"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Cerro Santiago (Cerro de Santiago)",
+      "postal_code": [
+        "35847"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Cinco de Mayo (San angel)",
+      "postal_code": [
+        "35854"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Colonia Chapala",
+      "postal_code": [
+        "35847"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Colonia Oriente",
+      "postal_code": [
+        "35840"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Colonia San Carlos (La Esparcena)",
+      "postal_code": [
+        "35847"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Compania Ganadera Atotonilco Sociedad Cooperativa",
+      "postal_code": [
+        "35846"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Corredor Comercial (Comedor la Vivienda)",
+      "postal_code": [
+        "35834"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Cruz Roja",
+      "postal_code": [
+        "35803"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Cuatro Hermanos",
+      "postal_code": [
+        "35834"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "35850"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Cuencame de Ceniceros Centro",
+      "postal_code": [
+        "35800"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Dolores",
+      "postal_code": [
+        "35840"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Educacion Especial",
+      "postal_code": [
+        "35807"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "El Aguaje",
+      "postal_code": [
+        "35830"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "El Aguajito",
+      "postal_code": [
+        "35830"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "El Alamillo",
+      "postal_code": [
+        "35870"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "35807"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "El Borruel",
+      "postal_code": [
+        "35856"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "35830"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "El Chaparral",
+      "postal_code": [
+        "35840"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "El Crucero (Crucero Pedricena)",
+      "postal_code": [
+        "35817"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "El Herradero",
+      "postal_code": [
+        "35865"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "El Huizache",
+      "postal_code": [
+        "35830"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "El Nogalito",
+      "postal_code": [
+        "35830"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "El Panteon",
+      "postal_code": [
+        "35804"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "El Pasajito",
+      "postal_code": [
+        "35803"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "35830"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "El Perpetuo Socorro",
+      "postal_code": [
+        "35870"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "El Peru",
+      "postal_code": [
+        "35860"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "El Poblano",
+      "postal_code": [
+        "35835"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "El Puerto [Comedor]",
+      "postal_code": [
+        "35820"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "35813",
+        "35834",
+        "35844"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "El Tajo",
+      "postal_code": [
+        "35835"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "El Tanque",
+      "postal_code": [
+        "35834"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "El Tiro",
+      "postal_code": [
+        "35857"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "35856"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Esperanza",
+      "postal_code": [
+        "35807"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Estacion Progreso",
+      "postal_code": [
+        "35840"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Estancia de Santiago",
+      "postal_code": [
+        "35847"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Estanzuela",
+      "postal_code": [
+        "35877"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Gaby",
+      "postal_code": [
+        "35817"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Gral. Vicente Orozco",
+      "postal_code": [
+        "35804"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Heroes de Chapultepec (San Sebastian)",
+      "postal_code": [
+        "35856"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Ignacio Lopez Rayon",
+      "postal_code": [
+        "35875"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Juan Pablo II",
+      "postal_code": [
+        "35803"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "La Cruz (Los Herrera)",
+      "postal_code": [
+        "35876"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "La Curena de Abajo",
+      "postal_code": [
+        "35824"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "La Curena de Arriba",
+      "postal_code": [
+        "35824"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "La Deportiva",
+      "postal_code": [
+        "35804"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "35865"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "La Esperanza (La Rosita)",
+      "postal_code": [
+        "35857"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "La Fe",
+      "postal_code": [
+        "35835"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "La Granja",
+      "postal_code": [
+        "35857"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Laguna de Patos",
+      "postal_code": [
+        "35860"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "La Lagunilla",
+      "postal_code": [
+        "35823"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "La Lomita",
+      "postal_code": [
+        "35807"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "La Perla",
+      "postal_code": [
+        "35814"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "La Plazuela",
+      "postal_code": [
+        "35805"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "La Purisima",
+      "postal_code": [
+        "35853"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "La Roca",
+      "postal_code": [
+        "35863"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Las Alechuzas",
+      "postal_code": [
+        "35827"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Las Cuadras",
+      "postal_code": [
+        "35813"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Las Cuevas",
+      "postal_code": [
+        "35833"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Las Enramadas",
+      "postal_code": [
+        "35823"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Las Lomas",
+      "postal_code": [
+        "35807"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Las Mercedes",
+      "postal_code": [
+        "35815"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "35813",
+        "35864"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Las Palomas [Comedor]",
+      "postal_code": [
+        "35820"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Las Playas",
+      "postal_code": [
+        "35814",
+        "35864"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "La Vinata",
+      "postal_code": [
+        "35834"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "La Vinata de los Tres Reyes",
+      "postal_code": [
+        "35837"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "La Virgen",
+      "postal_code": [
+        "35847"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Limas",
+      "postal_code": [
+        "35874"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Los Altares",
+      "postal_code": [
+        "35830"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Los Azulitos",
+      "postal_code": [
+        "35857"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Los Cuatillos (Hacienda de Pedricena)",
+      "postal_code": [
+        "35817"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Los Vallecillos",
+      "postal_code": [
+        "35827"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Magistral",
+      "postal_code": [
+        "35806"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Mangas Cuatas",
+      "postal_code": [
+        "35830"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Marquesena",
+      "postal_code": [
+        "35817"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Pablo Sidar (Tequesquitillo)",
+      "postal_code": [
+        "35864"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Pasaje",
+      "postal_code": [
+        "35835"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Pedricena (Estacion Pedricena)",
+      "postal_code": [
+        "35817"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Pedro Velez",
+      "postal_code": [
+        "35853"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Pirules",
+      "postal_code": [
+        "35805"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Ponteduro",
+      "postal_code": [
+        "35803"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Providencia",
+      "postal_code": [
+        "35816"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Pueblo de Santiago",
+      "postal_code": [
+        "35805"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Ramon Corona",
+      "postal_code": [
+        "35877"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Rancho Escobedo (San Carlos)",
+      "postal_code": [
+        "35874"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "35864"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "San Antonio del Ojo Seco",
+      "postal_code": [
+        "35833"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "San Antonio de los Garcia (Ojo Zarco)",
+      "postal_code": [
+        "35875"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "San Diego de Abajo",
+      "postal_code": [
+        "35826"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "San Diego de Arriba",
+      "postal_code": [
+        "35825"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "35840"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "35874"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "San Isidro de Santa Maria (San Isidro)",
+      "postal_code": [
+        "35874"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "San Jose",
+      "postal_code": [
+        "35863",
+        "35865"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "San Jose de los Garcia",
+      "postal_code": [
+        "35853"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "San Jose de Nazareno",
+      "postal_code": [
+        "35854"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "San Jose de Pajaritos",
+      "postal_code": [
+        "35820"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "San Martin",
+      "postal_code": [
+        "35854"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "San Pedro de Ocuila",
+      "postal_code": [
+        "35830"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Santa Barbara",
+      "postal_code": [
+        "35837"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Santa Cruz de la Cuchilla",
+      "postal_code": [
+        "35830"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Santa Elena (Los Barron)",
+      "postal_code": [
+        "35853"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "35876"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "35804"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Torrecillas",
+      "postal_code": [
+        "35826"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Veinte Amigos",
+      "postal_code": [
+        "35815"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Velardena Centro",
+      "postal_code": [
+        "35810"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Vinata San Antonio",
+      "postal_code": [
+        "35826"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "35827"
+      ]
+    },
+    {
+      "city": "Cuencame",
+      "colonia": "Yerbabuena",
+      "postal_code": [
+        "35864"
+      ]
+    }
+  ]
+}

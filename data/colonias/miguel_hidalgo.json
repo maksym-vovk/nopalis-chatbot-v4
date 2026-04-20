@@ -1,0 +1,599 @@
+{
+  "data": [
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "10 de Abril",
+      "postal_code": [
+        "11250"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "16 de Septiembre",
+      "postal_code": [
+        "11810"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "5 de Mayo",
+      "postal_code": [
+        "11470"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Agricultura",
+      "postal_code": [
+        "11360"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Ahuehuetes Anahuac",
+      "postal_code": [
+        "11450"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "America",
+      "postal_code": [
+        "11820"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Ampliacion Daniel Garza",
+      "postal_code": [
+        "11840"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Ampliacion Granada",
+      "postal_code": [
+        "11529"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Ampliacion Popo",
+      "postal_code": [
+        "11489"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Ampliacion Torre Blanca",
+      "postal_code": [
+        "11289"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Anahuac II Seccion",
+      "postal_code": [
+        "11320"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Anahuac I Seccion",
+      "postal_code": [
+        "11320"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Anzures",
+      "postal_code": [
+        "11590"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Argentina Antigua",
+      "postal_code": [
+        "11270"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Argentina Poniente",
+      "postal_code": [
+        "11230"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Bosque de Chapultepec III Seccion",
+      "postal_code": [
+        "11100"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Bosque de Chapultepec II Seccion",
+      "postal_code": [
+        "11100"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Bosque de Chapultepec I Seccion",
+      "postal_code": [
+        "11580"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Bosque de las Lomas",
+      "postal_code": [
+        "11700"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Campo Militar 1",
+      "postal_code": [
+        "11619"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Cuauhtemoc Pensil",
+      "postal_code": [
+        "11490"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Daniel Garza",
+      "postal_code": [
+        "11830"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Deportivo Pensil",
+      "postal_code": [
+        "11470"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Dos Lagos",
+      "postal_code": [
+        "11460"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Escandon II Seccion",
+      "postal_code": [
+        "11800"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Escandon I Seccion",
+      "postal_code": [
+        "11800"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Francisco I Madero",
+      "postal_code": [
+        "11480"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Granada",
+      "postal_code": [
+        "11520"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Huichapan",
+      "postal_code": [
+        "11290"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Ignacio Manuel Altamirano",
+      "postal_code": [
+        "11240"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Irrigacion",
+      "postal_code": [
+        "11500"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Lago Norte",
+      "postal_code": [
+        "11460"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Lago Sur",
+      "postal_code": [
+        "11460"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Legaria",
+      "postal_code": [
+        "11410"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Lomas Altas",
+      "postal_code": [
+        "11950"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Lomas de Bezares",
+      "postal_code": [
+        "11910"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Lomas de Chapultepec III Seccion",
+      "postal_code": [
+        "11000"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Lomas de Chapultepec II Seccion",
+      "postal_code": [
+        "11000"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Lomas de Chapultepec I Seccion",
+      "postal_code": [
+        "11000"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Lomas de Chapultepec IV Seccion",
+      "postal_code": [
+        "11000"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Lomas de Chapultepec VIII Seccion",
+      "postal_code": [
+        "11000"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Lomas de Chapultepec VII Seccion",
+      "postal_code": [
+        "11000"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Lomas de Chapultepec VI Seccion",
+      "postal_code": [
+        "11000"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Lomas de Chapultepec V Seccion",
+      "postal_code": [
+        "11000"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Lomas de Reforma",
+      "postal_code": [
+        "11930"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Lomas de Sotelo",
+      "postal_code": [
+        "11200"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Lomas Hermosa",
+      "postal_code": [
+        "11200"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Los Manzanos",
+      "postal_code": [
+        "11460"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Manuel Avila Camacho",
+      "postal_code": [
+        "11610"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Mariano Escobedo",
+      "postal_code": [
+        "11310"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Mexico Nuevo",
+      "postal_code": [
+        "11260"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Modelo Pensil",
+      "postal_code": [
+        "11450"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Molino del Rey",
+      "postal_code": [
+        "11040"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Nextitla",
+      "postal_code": [
+        "11420"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Observatorio",
+      "postal_code": [
+        "11860"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Pensil Norte",
+      "postal_code": [
+        "11430"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Pensil Sur",
+      "postal_code": [
+        "11490"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Peralitos",
+      "postal_code": [
+        "11450"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Periodista",
+      "postal_code": [
+        "11220"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Plutarco Elias Calles",
+      "postal_code": [
+        "11350"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Polanco III Seccion",
+      "postal_code": [
+        "11540"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Polanco II Seccion",
+      "postal_code": [
+        "11530"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Polanco I Seccion",
+      "postal_code": [
+        "11510"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Polanco IV Seccion",
+      "postal_code": [
+        "11550"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Polanco V Seccion",
+      "postal_code": [
+        "11560"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Popo",
+      "postal_code": [
+        "11480"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Popotla",
+      "postal_code": [
+        "11400"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Real de las Lomas",
+      "postal_code": [
+        "11920"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Reforma Pensil",
+      "postal_code": [
+        "11440"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Reforma Social",
+      "postal_code": [
+        "11650"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Residencial Militar",
+      "postal_code": [
+        "11600"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "San Diego Ocoyoacac",
+      "postal_code": [
+        "11290"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "San Joaquin",
+      "postal_code": [
+        "11260"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "San Juanico",
+      "postal_code": [
+        "11440"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "San Lorenzo Tlaltenango",
+      "postal_code": [
+        "11210"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "San Miguel Chapultepec II Seccion",
+      "postal_code": [
+        "11850"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "San Miguel Chapultepec I Seccion",
+      "postal_code": [
+        "11850"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Santo Tomas",
+      "postal_code": [
+        "11340"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Tacuba",
+      "postal_code": [
+        "11410"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Tacubaya",
+      "postal_code": [
+        "11870"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Tlaxpana",
+      "postal_code": [
+        "11370"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Torre Blanca",
+      "postal_code": [
+        "11280"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Un Hogar Para Nosotros",
+      "postal_code": [
+        "11330"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Ventura Perez de Alva",
+      "postal_code": [
+        "11430"
+      ]
+    },
+    {
+      "city": "Miguel Hidalgo",
+      "colonia": "Veronica Anzures",
+      "postal_code": [
+        "11300"
+      ]
+    }
+  ]
+}

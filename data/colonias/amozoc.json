@@ -1,0 +1,652 @@
+{
+  "data": [
+    {
+      "city": "Amozoc",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "21 de Marzo",
+      "postal_code": [
+        "72992"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Agua Santa",
+      "postal_code": [
+        "72992"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Agua Santa II",
+      "postal_code": [
+        "72997"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Amozoc Centro",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Ampliacion San Lorenzo",
+      "postal_code": [
+        "72990"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Arboledas de San Lorenzo",
+      "postal_code": [
+        "72993"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Arenal",
+      "postal_code": [
+        "72992"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Articulo 123",
+      "postal_code": [
+        "72995"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Azteca",
+      "postal_code": [
+        "72993"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "72983"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Bosque de Cuauhyocan",
+      "postal_code": [
+        "72995"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "72993"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Casa Blanca",
+      "postal_code": [
+        "72995"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Chachapa",
+      "postal_code": [
+        "72990"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Colosio",
+      "postal_code": [
+        "72994"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Concepcion Capulac",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Concepcion Capulac (La Ex-Hacienda)",
+      "postal_code": [
+        "72984"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Cumbre Los Encinos",
+      "postal_code": [
+        "72987"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "De Santiago",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "El Esfuerzo",
+      "postal_code": [
+        "72985"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "El Naranjo",
+      "postal_code": [
+        "72993"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "El Tepeyac",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Flor del Bosque",
+      "postal_code": [
+        "72995"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "72992"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Guadalupe Victoria (Guadalupe del Moral)",
+      "postal_code": [
+        "72988"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "72984"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "INFONAVIT Colosio",
+      "postal_code": [
+        "72994"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Jardines de Amozoc",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Jose Lino Miguel Lopez de la Rosa",
+      "postal_code": [
+        "72984"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "La Cantera",
+      "postal_code": [
+        "72980",
+        "72983"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "72980",
+        "72994"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "72986"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "La Nueva Espana",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "La Ocotera",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "La Poza",
+      "postal_code": [
+        "72987"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "La Presa",
+      "postal_code": [
+        "72994"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Las Animas",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Las Cruces",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "La Venta",
+      "postal_code": [
+        "72984"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "La Victoria",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Linda Vista",
+      "postal_code": [
+        "72992"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Los Duraznos",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "72983"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Maestro Samuel Joaquin Flores",
+      "postal_code": [
+        "72983"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Mi Hogar la Asuncion",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Parque Industrial Chachapa",
+      "postal_code": [
+        "72993"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Paseo Santa Barbara",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Pinos del Sur",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Pinos de Oriente",
+      "postal_code": [
+        "72983"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Quintas de San Francisco",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Rinconada de San Matias",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Rinconadas de Amozoc",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Rincon de los Encinos",
+      "postal_code": [
+        "72996"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Sagrada Familia",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Andres las Vegas",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San angel",
+      "postal_code": [
+        "72996"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Bartolo Flor del Bosque",
+      "postal_code": [
+        "72995"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Diego Icatepec 1a. Seccion",
+      "postal_code": [
+        "72994"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Diego Icatepec 2a. Seccion",
+      "postal_code": [
+        "72994"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Diego Icatepec 3a. Seccion",
+      "postal_code": [
+        "72994"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Diego Icatepec 4a. Seccion",
+      "postal_code": [
+        "72994"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Jacinto",
+      "postal_code": [
+        "72984"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Jose de las Flores",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Jose de los angeles Kilometro 22",
+      "postal_code": [
+        "72986"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Jose de los Encinos",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Jose la Laguna",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Jose Victoria",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Juan",
+      "postal_code": [
+        "72992"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Juan 3a. Seccion",
+      "postal_code": [
+        "72992"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Juan de los Lagos",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "72993"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Martin",
+      "postal_code": [
+        "72990",
+        "72992"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Martin I",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Martin II",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Mateo",
+      "postal_code": [
+        "72984"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Mateo Mendizabal",
+      "postal_code": [
+        "72992"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Matias Buenavista",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Miguel Cuautenco",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Miguel el Cieno",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "72980",
+        "72987"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "72992"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "San Salvador Tepalcayuca",
+      "postal_code": [
+        "72986"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Santa Cruz Xonacatepec",
+      "postal_code": [
+        "72994"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "72992"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Santo angel",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "SIGNORET",
+      "postal_code": [
+        "72990"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Vallarta",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Vallartito",
+      "postal_code": [
+        "72980"
+      ]
+    },
+    {
+      "city": "Amozoc",
+      "colonia": "Villas Amozoc",
+      "postal_code": [
+        "72980"
+      ]
+    }
+  ]
+}

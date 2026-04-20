@@ -1,0 +1,522 @@
+{
+  "data": [
+    {
+      "city": "Villa de Allende",
+      "colonia": "Barrio de Santiago",
+      "postal_code": [
+        "51009"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Batan Chico",
+      "postal_code": [
+        "51004"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Bosencheve",
+      "postal_code": [
+        "51016"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Buenavista 23",
+      "postal_code": [
+        "51016"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Cabecera de Indigenas",
+      "postal_code": [
+        "51000"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Casa Blanca",
+      "postal_code": [
+        "51004"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Cerro de Guadalupe",
+      "postal_code": [
+        "51027"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Chiquichuca",
+      "postal_code": [
+        "51007"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Cuesta del Carmen",
+      "postal_code": [
+        "51019"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "El Aventurero",
+      "postal_code": [
+        "51007"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "El Boncho",
+      "postal_code": [
+        "51013"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "El Chirimoyo",
+      "postal_code": [
+        "51007"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "El Cinco",
+      "postal_code": [
+        "51016"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "El Jacal",
+      "postal_code": [
+        "51015"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "El Potrero",
+      "postal_code": [
+        "51007"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "El Puerto Lengua de Vaca",
+      "postal_code": [
+        "51019"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "El Salto",
+      "postal_code": [
+        "51014"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Filiberto Gomez",
+      "postal_code": [
+        "51028"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "La Joya",
+      "postal_code": [
+        "51013"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "La Pena",
+      "postal_code": [
+        "51005"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "La Piedra",
+      "postal_code": [
+        "51019"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "La Sabana de San Jeronimo",
+      "postal_code": [
+        "51027"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Las Casitas",
+      "postal_code": [
+        "51016"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Las Dalias",
+      "postal_code": [
+        "51016"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "51005"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Loma Chica",
+      "postal_code": [
+        "51005"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Loma de Juarez",
+      "postal_code": [
+        "51010"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Loma de San Pablo",
+      "postal_code": [
+        "51005"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Los Berros",
+      "postal_code": [
+        "51029"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Los Cedros",
+      "postal_code": [
+        "51010"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Los Hoyos",
+      "postal_code": [
+        "51004"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Los Pozos",
+      "postal_code": [
+        "51016"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Los Tules",
+      "postal_code": [
+        "51014"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Macia",
+      "postal_code": [
+        "51019"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Manzana de Cashte",
+      "postal_code": [
+        "51008"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Manzana de Chichicaishle",
+      "postal_code": [
+        "51016"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Manzana del Puerto",
+      "postal_code": [
+        "51004"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Manzana la Pera",
+      "postal_code": [
+        "51029"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Manzana los Colchones",
+      "postal_code": [
+        "51006"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Mesa Chica",
+      "postal_code": [
+        "51005"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Mesas del Clarin",
+      "postal_code": [
+        "51019"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Mesas de San Jeronimo",
+      "postal_code": [
+        "51007"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Mesas de San Juan Buenavista",
+      "postal_code": [
+        "51019"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Mesas de San Martin",
+      "postal_code": [
+        "51025"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Mesas de Zacango",
+      "postal_code": [
+        "51024"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Monte Alto",
+      "postal_code": [
+        "51024"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Morelos",
+      "postal_code": [
+        "51027"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Sabana de la Pena",
+      "postal_code": [
+        "51027"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Sabana del Madrono",
+      "postal_code": [
+        "51028"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Sabana del Refugio",
+      "postal_code": [
+        "51028"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Sabana de San Jeronimo",
+      "postal_code": [
+        "51026"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Sabana de Taborda 1ra Seccion",
+      "postal_code": [
+        "51026"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Sabana de Taborda 2da Seccion",
+      "postal_code": [
+        "51026"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Sabana el Rosario",
+      "postal_code": [
+        "51025"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Salitre del Cerro",
+      "postal_code": [
+        "51015"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "San Agustin Berros el Salto",
+      "postal_code": [
+        "51029"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "San Cayetano",
+      "postal_code": [
+        "51024"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "San Felipe Santiago",
+      "postal_code": [
+        "51020"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "San Francisco de Asis",
+      "postal_code": [
+        "51013"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "San Ildefonso",
+      "postal_code": [
+        "51008"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "51015"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "San Jeronimo Totoltepec",
+      "postal_code": [
+        "51007"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "San Jose Villa de Allende",
+      "postal_code": [
+        "51000"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "San Juan",
+      "postal_code": [
+        "51006"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "San Juan Buenavista",
+      "postal_code": [
+        "51019"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "San Martin",
+      "postal_code": [
+        "51027"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "51009"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "San Miguel la Maquina",
+      "postal_code": [
+        "51017"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "San Pablo Malacatepec",
+      "postal_code": [
+        "51005"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "51017"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Santa Maria de las Delicias",
+      "postal_code": [
+        "51009"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "51005"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Soledad del Salitre",
+      "postal_code": [
+        "51015"
+      ]
+    },
+    {
+      "city": "Villa de Allende",
+      "colonia": "Vare Chiquichuca",
+      "postal_code": [
+        "51004"
+      ]
+    }
+  ]
+}

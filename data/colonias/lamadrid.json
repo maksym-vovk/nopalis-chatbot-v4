@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Lamadrid",
+      "colonia": "El Marques de Aguayo (Los Ojos de Adriana)",
+      "postal_code": [
+        "27720"
+      ]
+    },
+    {
+      "city": "Lamadrid",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "27700"
+      ]
+    },
+    {
+      "city": "Lamadrid",
+      "colonia": "Lamadrid",
+      "postal_code": [
+        "27700"
+      ]
+    },
+    {
+      "city": "Lamadrid",
+      "colonia": "Manuel W Gonzalez",
+      "postal_code": [
+        "27700"
+      ]
+    },
+    {
+      "city": "Lamadrid",
+      "colonia": "Oscar Flores Tapia",
+      "postal_code": [
+        "27700"
+      ]
+    },
+    {
+      "city": "Lamadrid",
+      "colonia": "Potrero de Menchaca (Jaime Garcia Sanchez)",
+      "postal_code": [
+        "27739"
+      ]
+    }
+  ]
+}

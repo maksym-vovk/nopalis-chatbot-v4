@@ -1,0 +1,907 @@
+{
+  "data": [
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Acuitlapilco Primera Seccion",
+      "postal_code": [
+        "56335"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Acuitlapilco Segunda Seccion",
+      "postal_code": [
+        "56335"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Acuitlapilco Tercera Seccion",
+      "postal_code": [
+        "56335"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "56343"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Alfareros",
+      "postal_code": [
+        "56363"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Ampliacion Lomas de San Pablo",
+      "postal_code": [
+        "56338"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Ampliacion San Agustin",
+      "postal_code": [
+        "56343"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Ampliacion San Agustin Zona Oriente",
+      "postal_code": [
+        "56343"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Ampliacion San Agustin Zona Poniente",
+      "postal_code": [
+        "56343"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Ampliacion San Lorenzo (Parte Alta)",
+      "postal_code": [
+        "56340"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Ampliacion Xochiaca parte Alta",
+      "postal_code": [
+        "56350"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Apapasco",
+      "postal_code": [
+        "56335"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Apelsa",
+      "postal_code": [
+        "56337"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "56335"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Arenitas",
+      "postal_code": [
+        "56337"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Artesanos",
+      "postal_code": [
+        "56334"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Arturo Montiel",
+      "postal_code": [
+        "56353"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Balcones de San Agustin",
+      "postal_code": [
+        "56343"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "56343"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Canasteros",
+      "postal_code": [
+        "56334"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Canteros",
+      "postal_code": [
+        "56356"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Carpinteros",
+      "postal_code": [
+        "56334"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Cerro de Las Palomas",
+      "postal_code": [
+        "56340"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Cesteros",
+      "postal_code": [
+        "56366"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Ciudad Alegre",
+      "postal_code": [
+        "56335"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Constructores",
+      "postal_code": [
+        "56335"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Copalera",
+      "postal_code": [
+        "56337"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Cornejal",
+      "postal_code": [
+        "56337"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Corte el Pocito",
+      "postal_code": [
+        "56338"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Corte Escalerillas",
+      "postal_code": [
+        "56338"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Corte Huatongo",
+      "postal_code": [
+        "56338"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Corte la Joya",
+      "postal_code": [
+        "56338"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Corte la Palma Primera Seccion",
+      "postal_code": [
+        "56338"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Corte la Palma Segunda Seccion",
+      "postal_code": [
+        "56338"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Corte Lomas de Buenavista",
+      "postal_code": [
+        "56338"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Corte Portezuelos",
+      "postal_code": [
+        "56335"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Corte San Isidro",
+      "postal_code": [
+        "56338"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Corte San Pablo",
+      "postal_code": [
+        "56338"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Corte Santa Cruz",
+      "postal_code": [
+        "56338"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Corte Xolhuango",
+      "postal_code": [
+        "56338"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Cuatro de Febrero",
+      "postal_code": [
+        "56335"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Curtidores",
+      "postal_code": [
+        "56366"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Diecisiete de Marzo",
+      "postal_code": [
+        "56343"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Diecisiete de Septiembre",
+      "postal_code": [
+        "56350"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Ebanistas",
+      "postal_code": [
+        "56363"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Ejido San Agustin Atlapulco",
+      "postal_code": [
+        "56344"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "El Capulin",
+      "postal_code": [
+        "56337"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "El Llano de Santa Maria",
+      "postal_code": [
+        "56335"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "El Molino",
+      "postal_code": [
+        "56334"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "El Pocito",
+      "postal_code": [
+        "56337"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Filiberto Gomez",
+      "postal_code": [
+        "56346"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Fundidores",
+      "postal_code": [
+        "56334"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "56335"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Herreros",
+      "postal_code": [
+        "56334"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Hojalateros",
+      "postal_code": [
+        "56366"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Israel",
+      "postal_code": [
+        "56343"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Jardines de Acuitlapilco",
+      "postal_code": [
+        "56335"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Jose Maria Luis Mora",
+      "postal_code": [
+        "56335"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Jugueteros",
+      "postal_code": [
+        "56356"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Labradores",
+      "postal_code": [
+        "56366"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Ladera",
+      "postal_code": [
+        "56337"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "La Joyita",
+      "postal_code": [
+        "56350"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "La Mina",
+      "postal_code": [
+        "56337"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "La Rosita",
+      "postal_code": [
+        "56363"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Lomas de Chimalhuacan",
+      "postal_code": [
+        "56337"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Lomas de Chocolin",
+      "postal_code": [
+        "56338"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Lomas de San Pablo",
+      "postal_code": [
+        "56338"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Lomas de Santa Maria",
+      "postal_code": [
+        "56335"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Lomas de Totolco Tlatelco",
+      "postal_code": [
+        "56337"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Los Olivos",
+      "postal_code": [
+        "56343"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Luis Cordoba Reyes",
+      "postal_code": [
+        "56334"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "56335"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Marco Antonio Sosa",
+      "postal_code": [
+        "56334"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Melchor Ocampo",
+      "postal_code": [
+        "56334"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Mineros",
+      "postal_code": [
+        "56334"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Miramar",
+      "postal_code": [
+        "56343"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Nueva Margarita",
+      "postal_code": [
+        "56363"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Nueva Tepalcates",
+      "postal_code": [
+        "56334"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Olmedo",
+      "postal_code": [
+        "56337"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Orfebres",
+      "postal_code": [
+        "56353"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Pescadores",
+      "postal_code": [
+        "56334"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Plateros",
+      "postal_code": [
+        "56356"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Primavera",
+      "postal_code": [
+        "56335"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Progreso de Oriente",
+      "postal_code": [
+        "56346"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Rancho de las Nieves",
+      "postal_code": [
+        "56335"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "San Andres",
+      "postal_code": [
+        "56337"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "56337"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "San Jose Buenavista",
+      "postal_code": [
+        "56343"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "San Juan Xochitenco",
+      "postal_code": [
+        "56360"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "San Juan Zapotla",
+      "postal_code": [
+        "56337"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "56340"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "San Lorenzo Chimalco",
+      "postal_code": [
+        "56340"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "San Lorenzo Parte Alta",
+      "postal_code": [
+        "56340"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "56335"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "56334"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "San Pablo Parte Baja",
+      "postal_code": [
+        "56334"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "56334"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "San Pedro Parte Baja",
+      "postal_code": [
+        "56334"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Santa Cecilia Xochiaca",
+      "postal_code": [
+        "56350"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "56356"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Santa Maria Chimalhuacan",
+      "postal_code": [
+        "56330"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Santa Maria Nativitas",
+      "postal_code": [
+        "56335"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "56337"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Saraperos",
+      "postal_code": [
+        "56353"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "SUTAUR Oriente",
+      "postal_code": [
+        "56343"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Talabarteros",
+      "postal_code": [
+        "56356"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Talladores",
+      "postal_code": [
+        "56366"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Tejedores",
+      "postal_code": [
+        "56356"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Tepalcate",
+      "postal_code": [
+        "56334"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Tepenepantla",
+      "postal_code": [
+        "56337"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Tequesquinahuac",
+      "postal_code": [
+        "56343"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Tierra Santa (Maravillas)",
+      "postal_code": [
+        "56343"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Tlaixco",
+      "postal_code": [
+        "56337"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Tlatelco",
+      "postal_code": [
+        "56353"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Tlatel Xochitenco",
+      "postal_code": [
+        "56366"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Transportistas",
+      "postal_code": [
+        "56363"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Union Antorchista",
+      "postal_code": [
+        "56335"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Vidrieros",
+      "postal_code": [
+        "56356"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Villa los Colorines",
+      "postal_code": [
+        "56344"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Villa San Agustin Atlapulco",
+      "postal_code": [
+        "56343"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Xaltipac",
+      "postal_code": [
+        "56346"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Xochiaca",
+      "postal_code": [
+        "56350"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Xochiaca 2a Seccion",
+      "postal_code": [
+        "56350"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Xochitenco 1a Seccion",
+      "postal_code": [
+        "56360"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Xochitenco 2a Seccion",
+      "postal_code": [
+        "56360"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Xochitenco 3a Seccion",
+      "postal_code": [
+        "56350"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Xochitenco Parte Alta",
+      "postal_code": [
+        "56350"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Zapotla",
+      "postal_code": [
+        "56337"
+      ]
+    },
+    {
+      "city": "Chimalhuacan",
+      "colonia": "Zona Comunal San Agustin",
+      "postal_code": [
+        "56343"
+      ]
+    }
+  ]
+}

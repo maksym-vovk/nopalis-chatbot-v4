@@ -1,0 +1,593 @@
+{
+  "data": [
+    {
+      "city": "La Mision",
+      "colonia": "Agua Fria Chica",
+      "postal_code": [
+        "42274"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Aguaje de Cerro Prieto (Los Paredones)",
+      "postal_code": [
+        "42265"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Agua Zarca",
+      "postal_code": [
+        "42267"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "alamo de la Mision",
+      "postal_code": [
+        "42265"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "alamo de Rancho Viejo",
+      "postal_code": [
+        "42264"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Arroyo",
+      "postal_code": [
+        "42265"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Barbechos",
+      "postal_code": [
+        "42274"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Cerro Frio",
+      "postal_code": [
+        "42266"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Cerro Frio de Rancho Viejo",
+      "postal_code": [
+        "42267"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Cerro Prieto",
+      "postal_code": [
+        "42265"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Cone Viejo",
+      "postal_code": [
+        "42267"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Crucita de Pilas",
+      "postal_code": [
+        "42263"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Cuartel de Jacalilla",
+      "postal_code": [
+        "42268"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Curva de San Jose",
+      "postal_code": [
+        "42267"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Damathi",
+      "postal_code": [
+        "42275"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "El Algodon",
+      "postal_code": [
+        "42274"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "El Balcon",
+      "postal_code": [
+        "42265"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "El Capulin",
+      "postal_code": [
+        "42274"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "El Chamal",
+      "postal_code": [
+        "42264"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "El Fresno",
+      "postal_code": [
+        "42265"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "El Fuste",
+      "postal_code": [
+        "42266"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "El Hualul",
+      "postal_code": [
+        "42274"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "El Llano (Llano de Jacalilla)",
+      "postal_code": [
+        "42268"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "El Mexe Chico",
+      "postal_code": [
+        "42268"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "El Mexe Grande",
+      "postal_code": [
+        "42268"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "El Naranjo",
+      "postal_code": [
+        "42274"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "El Nogalito",
+      "postal_code": [
+        "42265"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "El Ocote",
+      "postal_code": [
+        "42273"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "El Paraje",
+      "postal_code": [
+        "42264"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "El Rayo",
+      "postal_code": [
+        "42268"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "El Roa",
+      "postal_code": [
+        "42262"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Encino Largo",
+      "postal_code": [
+        "42265"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Escrito de Pilas",
+      "postal_code": [
+        "42263"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Jacalilla",
+      "postal_code": [
+        "42268"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "42273"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "La Culebra",
+      "postal_code": [
+        "42264"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Lagunita de Pilas",
+      "postal_code": [
+        "42263"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "La Hondura",
+      "postal_code": [
+        "42273"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "La Joya",
+      "postal_code": [
+        "42266"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "La Ladera",
+      "postal_code": [
+        "42263"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "La Mesa del Fresno",
+      "postal_code": [
+        "42265"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "La Mision",
+      "postal_code": [
+        "42260"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "La Mora",
+      "postal_code": [
+        "42266"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "La Palizada",
+      "postal_code": [
+        "42265"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Las Adjuntas",
+      "postal_code": [
+        "42262"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Las Canitas",
+      "postal_code": [
+        "42274"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Las Fuentes",
+      "postal_code": [
+        "42262"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "La Soledad (El Enebro)",
+      "postal_code": [
+        "42266"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Las Palmitas",
+      "postal_code": [
+        "42274"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Las Pilas",
+      "postal_code": [
+        "42263"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Loma de Macangui",
+      "postal_code": [
+        "42267"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Loma de Naranjos",
+      "postal_code": [
+        "42262"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Loma de Pericon",
+      "postal_code": [
+        "42262"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Loma de Pilas",
+      "postal_code": [
+        "42263"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Los Castros",
+      "postal_code": [
+        "42262"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "42262"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Macangui",
+      "postal_code": [
+        "42267"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Macoju",
+      "postal_code": [
+        "42273"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Mesa del Huizache",
+      "postal_code": [
+        "42275"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Mesa de Pilas",
+      "postal_code": [
+        "42263"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Mirador de la Culebra",
+      "postal_code": [
+        "42268"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Naranjitas",
+      "postal_code": [
+        "42273"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Nogal de Cerro Prieto",
+      "postal_code": [
+        "42265"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Nogal de Pilas",
+      "postal_code": [
+        "42263"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Nuevo Linares",
+      "postal_code": [
+        "42274"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Ocote de Pilas",
+      "postal_code": [
+        "42263"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Palo Hueco",
+      "postal_code": [
+        "42266",
+        "42268"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Pemuche de Soledad",
+      "postal_code": [
+        "42266"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Piedra Larga",
+      "postal_code": [
+        "42264"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Puertecito",
+      "postal_code": [
+        "42265"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Puerto de la Culebra",
+      "postal_code": [
+        "42264"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Puerto del Aire",
+      "postal_code": [
+        "42264"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Puerto del Algodon",
+      "postal_code": [
+        "42274"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Puerto de Naranjos",
+      "postal_code": [
+        "42266"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Puerto de Piedra",
+      "postal_code": [
+        "42267"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "42273"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "42267"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "San Cristobal",
+      "postal_code": [
+        "42266"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Tepehuaje",
+      "postal_code": [
+        "42274"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Tierra Caliente",
+      "postal_code": [
+        "42265"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Tinaja de Jacalilla",
+      "postal_code": [
+        "42268"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Vado Hondo",
+      "postal_code": [
+        "42275"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Vega de la Carrera",
+      "postal_code": [
+        "42275"
+      ]
+    },
+    {
+      "city": "La Mision",
+      "colonia": "Zipatla",
+      "postal_code": [
+        "42273"
+      ]
+    }
+  ]
+}

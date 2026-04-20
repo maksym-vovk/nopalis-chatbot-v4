@@ -1,0 +1,996 @@
+{
+  "data": [
+    {
+      "city": "Tula de Allende",
+      "colonia": "16 de Enero",
+      "postal_code": [
+        "42808"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Acoculco",
+      "postal_code": [
+        "42837"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Acoculco (Dos Penas)",
+      "postal_code": [
+        "42837"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Alborada",
+      "postal_code": [
+        "42848"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Alto",
+      "postal_code": [
+        "42807"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Alvarado",
+      "postal_code": [
+        "42806"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Antonio Guerrero Briseno",
+      "postal_code": [
+        "42827"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "42827"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Bojay",
+      "postal_code": [
+        "42827"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Bomintzha Centro",
+      "postal_code": [
+        "42832"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "42803",
+        "42833"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Centro",
+      "postal_code": [
+        "42800"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Cerrito del Tepeyac",
+      "postal_code": [
+        "42838"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Chapultepec",
+      "postal_code": [
+        "42803"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Ciudad Cooperativa Cruz Azul Centro",
+      "postal_code": [
+        "42840"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Cruz Azul",
+      "postal_code": [
+        "42846"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "De Ferrocarrileros",
+      "postal_code": [
+        "42824"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Del Llano",
+      "postal_code": [
+        "42803"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Dengui",
+      "postal_code": [
+        "42848"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Canal",
+      "postal_code": [
+        "42830"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "42830"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Carmen (La Mesita)",
+      "postal_code": [
+        "42835"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "42813",
+        "42835",
+        "42847"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Chamizal",
+      "postal_code": [
+        "42847"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Cielito",
+      "postal_code": [
+        "42803"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Creston",
+      "postal_code": [
+        "42814"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Damu",
+      "postal_code": [
+        "42833"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Gavillero",
+      "postal_code": [
+        "42826"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Godo",
+      "postal_code": [
+        "42835"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Huerto",
+      "postal_code": [
+        "42807"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Llano 1a Seccion",
+      "postal_code": [
+        "42803"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Llano 2a Seccion",
+      "postal_code": [
+        "42803"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "42846"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Montecillo",
+      "postal_code": [
+        "42833"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Ocote",
+      "postal_code": [
+        "42835"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Paso",
+      "postal_code": [
+        "42815"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Plan",
+      "postal_code": [
+        "42833"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Puendho",
+      "postal_code": [
+        "42837"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Rayo",
+      "postal_code": [
+        "42834"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Recinto (Ejido Pueblo Nuevo)",
+      "postal_code": [
+        "42837"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Saabi",
+      "postal_code": [
+        "42836"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Salitre",
+      "postal_code": [
+        "42808",
+        "42808"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Salto",
+      "postal_code": [
+        "42834"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Sesenta y Uno",
+      "postal_code": [
+        "42836"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "El Vindho",
+      "postal_code": [
+        "42820"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Empleados Tolteca",
+      "postal_code": [
+        "42833"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Finca Pedregal",
+      "postal_code": [
+        "42844"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "FOVISSSTE",
+      "postal_code": [
+        "42807"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Galaxia",
+      "postal_code": [
+        "42834"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Hacienda de Santa Fe",
+      "postal_code": [
+        "42803"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Heroes Carranza",
+      "postal_code": [
+        "42810"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "42838"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Independencia",
+      "postal_code": [
+        "42848"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "INFONAVIT San Marcos",
+      "postal_code": [
+        "42803"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Iturbe",
+      "postal_code": [
+        "42803"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Jalpa",
+      "postal_code": [
+        "42804"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Jardines de San Miguel",
+      "postal_code": [
+        "42837"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Julian Villagran",
+      "postal_code": [
+        "42827"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "La Amistad",
+      "postal_code": [
+        "42838"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "La Cuarta Manzana",
+      "postal_code": [
+        "42810"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "La Hacienda",
+      "postal_code": [
+        "42833"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "La Huerta",
+      "postal_code": [
+        "42803"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "La Joya",
+      "postal_code": [
+        "42830"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "La Loma",
+      "postal_code": [
+        "42843",
+        "42843"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "La Magdalena",
+      "postal_code": [
+        "42815"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "La Malinche",
+      "postal_code": [
+        "42809"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "La Mezquitera",
+      "postal_code": [
+        "42816",
+        "42835"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "La Milpa de Garcia",
+      "postal_code": [
+        "42813"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "La Pila",
+      "postal_code": [
+        "42846"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "La Romera",
+      "postal_code": [
+        "42843"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Las Cortinas",
+      "postal_code": [
+        "42837"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Las Manzanitas",
+      "postal_code": [
+        "42807"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Las Nueces",
+      "postal_code": [
+        "42849"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "42800"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Las Rosas",
+      "postal_code": [
+        "42803"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Las Violetas",
+      "postal_code": [
+        "42834"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "La Vuelta del Rio",
+      "postal_code": [
+        "42833"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Leonardo Rodriguez Alcaine (CFE)",
+      "postal_code": [
+        "42833"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Loma Blanca",
+      "postal_code": [
+        "42804"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "42834"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Lomas de Iturbe",
+      "postal_code": [
+        "42803"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Los Arcos",
+      "postal_code": [
+        "42847"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Los Cedros",
+      "postal_code": [
+        "42833"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "42804"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Los Lagos",
+      "postal_code": [
+        "42836"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Los Muelles",
+      "postal_code": [
+        "42833"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "42843"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Los Pirules",
+      "postal_code": [
+        "42830"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Los Sabinos",
+      "postal_code": [
+        "42803"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "42823"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Los Truenitos",
+      "postal_code": [
+        "42826"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Mastrantos",
+      "postal_code": [
+        "42803"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Monte Alegre",
+      "postal_code": [
+        "42846"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Montecillos",
+      "postal_code": [
+        "42838"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Nantzha",
+      "postal_code": [
+        "42814"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Netzahualcoyotl",
+      "postal_code": [
+        "42834"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Nueva Santa Maria",
+      "postal_code": [
+        "42836"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "PEMEX",
+      "postal_code": [
+        "42808"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Praderas del Llano",
+      "postal_code": [
+        "42826"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Privada los Cipreces",
+      "postal_code": [
+        "42823"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Pueblo Nuevo",
+      "postal_code": [
+        "42845"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Pueblo Nuevo 2a Seccion",
+      "postal_code": [
+        "42847"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Pueblo Nuevo (La Subida)",
+      "postal_code": [
+        "42837"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Quinta las Rosas",
+      "postal_code": [
+        "42803"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Residencial Arboledas",
+      "postal_code": [
+        "42823"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Rinconada de Tultengo",
+      "postal_code": [
+        "42803"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "San Andres (San Andres Tultepec)",
+      "postal_code": [
+        "42814"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "San Antonio Tula",
+      "postal_code": [
+        "42820"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "42824"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "San Francisco Bojay",
+      "postal_code": [
+        "42827",
+        "42827"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "San Jose",
+      "postal_code": [
+        "42805"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "San Juan Michimaloya",
+      "postal_code": [
+        "42820"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "42803"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "San Lucas Teacalco",
+      "postal_code": [
+        "42837",
+        "42837"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "42831"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "San Miguel de las Piedras Primera Seccion",
+      "postal_code": [
+        "42813"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "San Miguel de las Piedras Segunda Seccion",
+      "postal_code": [
+        "42813"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "San Miguel Vindho",
+      "postal_code": [
+        "42842"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "San Pedrito Alpuyeca",
+      "postal_code": [
+        "42830"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "42824",
+        "42824"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Santa Ana Ahuehuepan",
+      "postal_code": [
+        "42825"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Santa Maria Ilucan",
+      "postal_code": [
+        "42849"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Santa Maria Macua",
+      "postal_code": [
+        "42810"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Santa Maria Michimaltongo",
+      "postal_code": [
+        "42813",
+        "42820"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Satelite",
+      "postal_code": [
+        "42834"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Sesenta y Dos",
+      "postal_code": [
+        "42836"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Tenjay",
+      "postal_code": [
+        "42814"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Teocalco",
+      "postal_code": [
+        "42826"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Tercera Manzana",
+      "postal_code": [
+        "42838"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "42803"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Tollan",
+      "postal_code": [
+        "42807"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Tolteca",
+      "postal_code": [
+        "42830",
+        "42833",
+        "42833"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Tula (Arriba del Parque Ecologico)",
+      "postal_code": [
+        "42816"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Tultengo",
+      "postal_code": [
+        "42803"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Villas del Salitre",
+      "postal_code": [
+        "42808"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Xijay de Cuauhtemoc",
+      "postal_code": [
+        "42813"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Xiteje de la Reforma",
+      "postal_code": [
+        "42812"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Xiteje de Zapata",
+      "postal_code": [
+        "42820"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Xochitlan de las Flores",
+      "postal_code": [
+        "42815"
+      ]
+    },
+    {
+      "city": "Tula de Allende",
+      "colonia": "Xonthe",
+      "postal_code": [
+        "42815"
+      ]
+    }
+  ]
+}

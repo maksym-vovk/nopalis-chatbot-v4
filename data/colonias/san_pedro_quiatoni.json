@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "city": "San Pedro Quiatoni",
+      "colonia": "Cerro Castoche",
+      "postal_code": [
+        "70488"
+      ]
+    },
+    {
+      "city": "San Pedro Quiatoni",
+      "colonia": "El Romadito",
+      "postal_code": [
+        "70487"
+      ]
+    },
+    {
+      "city": "San Pedro Quiatoni",
+      "colonia": "La Mancornada",
+      "postal_code": [
+        "70487"
+      ]
+    },
+    {
+      "city": "San Pedro Quiatoni",
+      "colonia": "Portillo Jinete",
+      "postal_code": [
+        "70487"
+      ]
+    },
+    {
+      "city": "San Pedro Quiatoni",
+      "colonia": "San Pablo Lachiriega",
+      "postal_code": [
+        "70488"
+      ]
+    },
+    {
+      "city": "San Pedro Quiatoni",
+      "colonia": "San Pedro Quiatoni",
+      "postal_code": [
+        "70486"
+      ]
+    },
+    {
+      "city": "San Pedro Quiatoni",
+      "colonia": "Soledad las Salinas",
+      "postal_code": [
+        "70486"
+      ]
+    }
+  ]
+}

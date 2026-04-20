@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Valle de Guadalupe",
+      "colonia": "Alameda",
+      "postal_code": [
+        "47383"
+      ]
+    },
+    {
+      "city": "Valle de Guadalupe",
+      "colonia": "Aragon",
+      "postal_code": [
+        "47384"
+      ]
+    },
+    {
+      "city": "Valle de Guadalupe",
+      "colonia": "El Talle",
+      "postal_code": [
+        "47398"
+      ]
+    },
+    {
+      "city": "Valle de Guadalupe",
+      "colonia": "El Trigo",
+      "postal_code": [
+        "47386"
+      ]
+    },
+    {
+      "city": "Valle de Guadalupe",
+      "colonia": "San Juan Bosco",
+      "postal_code": [
+        "47384"
+      ]
+    },
+    {
+      "city": "Valle de Guadalupe",
+      "colonia": "Valle de Guadalupe Centro",
+      "postal_code": [
+        "47380"
+      ]
+    }
+  ]
+}

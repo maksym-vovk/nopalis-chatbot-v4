@@ -1,0 +1,811 @@
+{
+  "data": [
+    {
+      "city": "Cuautla",
+      "colonia": "10 de Abril",
+      "postal_code": [
+        "62744"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "12 de Diciembre",
+      "postal_code": [
+        "62757"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "19 de Febrero de 1812",
+      "postal_code": [
+        "62756"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "2 de Mayo",
+      "postal_code": [
+        "62757"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "3 de Mayo",
+      "postal_code": [
+        "62755"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "5 de Diciembre",
+      "postal_code": [
+        "62746"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "5 de Febrero",
+      "postal_code": [
+        "62743"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "7 de Noviembre",
+      "postal_code": [
+        "62747"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Agua Blanca",
+      "postal_code": [
+        "62746"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Agua Hedionda",
+      "postal_code": [
+        "62743"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Ampliacion 10 de Abril",
+      "postal_code": [
+        "62755"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Ampliacion 5 de Febrero",
+      "postal_code": [
+        "62743"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Ampliacion Biznaga Uno",
+      "postal_code": [
+        "62743"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Ampliacion Emiliano Zapata",
+      "postal_code": [
+        "62744"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Ampliacion Gabriel Tepepa",
+      "postal_code": [
+        "62742"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Ampliacion Hermenegildo Galeana",
+      "postal_code": [
+        "62743"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Ampliacion las Tazas",
+      "postal_code": [
+        "62748"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Ampliacion Narciso Mendoza",
+      "postal_code": [
+        "62756"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Ampliacion Plan de Ayala",
+      "postal_code": [
+        "62743"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Ampliacion Santa Cruz",
+      "postal_code": [
+        "62747"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Ampliacion Tepeyac",
+      "postal_code": [
+        "62746"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Ano de Juarez",
+      "postal_code": [
+        "62748"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Antigua del Bosque",
+      "postal_code": [
+        "62748"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Araucaria",
+      "postal_code": [
+        "62747"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "62743"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Benito Quezada",
+      "postal_code": [
+        "62748"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Brisas de Cuautla",
+      "postal_code": [
+        "62757"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Calderon",
+      "postal_code": [
+        "62756"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Campo Nuevo",
+      "postal_code": [
+        "62743"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Casasano",
+      "postal_code": [
+        "62748"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Casas del Rio",
+      "postal_code": [
+        "62742"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Centenario",
+      "postal_code": [
+        "62748"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Central de Abastos",
+      "postal_code": [
+        "62757"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Centro",
+      "postal_code": [
+        "62740"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Condominios del Bosque",
+      "postal_code": [
+        "62757"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "62757"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Cuautlixco",
+      "postal_code": [
+        "62747"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "El Sifon",
+      "postal_code": [
+        "62755"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "62744"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Empleado Municipal",
+      "postal_code": [
+        "62754"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Empleado Postal",
+      "postal_code": [
+        "62748"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Estrella",
+      "postal_code": [
+        "62747"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Eusebio Jauregui",
+      "postal_code": [
+        "62748"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Flamingos",
+      "postal_code": [
+        "62746"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Francisco I Madero",
+      "postal_code": [
+        "62742"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Gabriel Tepepa",
+      "postal_code": [
+        "62742"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "62746"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Hermenegildo Galeana",
+      "postal_code": [
+        "62743"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Heroe de Nacozari",
+      "postal_code": [
+        "62744"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "62747"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "ISSFAM",
+      "postal_code": [
+        "62747"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Iztaccihuatl",
+      "postal_code": [
+        "62743"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Jicaman (Colonia el Mirador)",
+      "postal_code": [
+        "62755"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "La Angostura",
+      "postal_code": [
+        "62755"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "La Biznaga",
+      "postal_code": [
+        "62743"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "La Cerrillera",
+      "postal_code": [
+        "62746"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "62748"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "62757"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "62747"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "La Esperanza-El Hospital",
+      "postal_code": [
+        "62755"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "La Pedregosa",
+      "postal_code": [
+        "62743"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Las Cruces",
+      "postal_code": [
+        "62757"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "62757"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Los Amates",
+      "postal_code": [
+        "62743",
+        "62747"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Los Cerritos",
+      "postal_code": [
+        "62747"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Los Faroles",
+      "postal_code": [
+        "62757"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Los Sabinos",
+      "postal_code": [
+        "62747"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "62757"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Manantiales",
+      "postal_code": [
+        "62746"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Martinez Pena (Los Dos Puentes)",
+      "postal_code": [
+        "62744"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "62748"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Morelos",
+      "postal_code": [
+        "62744"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Narciso Mendoza",
+      "postal_code": [
+        "62756"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Nino Artillero",
+      "postal_code": [
+        "62743"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Nueva San Jose",
+      "postal_code": [
+        "62742"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Otilio Montano",
+      "postal_code": [
+        "62746"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Pablo Torres Burgos",
+      "postal_code": [
+        "62742"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Paraiso",
+      "postal_code": [
+        "62743"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Pena Flores (Palo Verde)",
+      "postal_code": [
+        "62756"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Piedra Blanca",
+      "postal_code": [
+        "62757"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Plan de Ayala",
+      "postal_code": [
+        "62743"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Plaza Solidaridad",
+      "postal_code": [
+        "62757"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Polvorin",
+      "postal_code": [
+        "62756"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Progreso",
+      "postal_code": [
+        "62744"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Puerta de Hierro",
+      "postal_code": [
+        "62757"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Puxtla",
+      "postal_code": [
+        "62755"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Rancho Gomez",
+      "postal_code": [
+        "62755"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Reforma",
+      "postal_code": [
+        "62742"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Residencial del Bosque",
+      "postal_code": [
+        "62747"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Residencial los Arcos",
+      "postal_code": [
+        "62747"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "62748"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Rio Verde Infonavit",
+      "postal_code": [
+        "62747"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Salvador Esquer",
+      "postal_code": [
+        "62757"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Santa Barbara",
+      "postal_code": [
+        "62757"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "62747"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Santa Ines",
+      "postal_code": [
+        "62755"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "62747"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Sitio del Sol",
+      "postal_code": [
+        "62756"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Tabachines",
+      "postal_code": [
+        "62748"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Tepeyac",
+      "postal_code": [
+        "62746"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Tetelcingo",
+      "postal_code": [
+        "62757",
+        "62757"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Tezahuapan",
+      "postal_code": [
+        "62757"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Tierra Larga",
+      "postal_code": [
+        "62757"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Tierra y Libertad",
+      "postal_code": [
+        "62747"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Trigo Verde",
+      "postal_code": [
+        "62757"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Trincheras",
+      "postal_code": [
+        "62743"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Valle del Sol",
+      "postal_code": [
+        "62747"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "62748"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Villareal Lomas de Cuautla",
+      "postal_code": [
+        "62743"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Volcanes de Cuautla",
+      "postal_code": [
+        "62757"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Xochitengo",
+      "postal_code": [
+        "62742"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Chilacayote",
+      "postal_code": [
+        "48155"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Cuautla",
+      "postal_code": [
+        "48150"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Tierras Blancas",
+      "postal_code": [
+        "48153"
+      ]
+    },
+    {
+      "city": "Cuautla",
+      "colonia": "Tototlan de Oro",
+      "postal_code": [
+        "48159"
+      ]
+    }
+  ]
+}

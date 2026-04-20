@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Guadalupe Etla",
+      "colonia": "Guadalupe Etla",
+      "postal_code": [
+        "68256"
+      ]
+    },
+    {
+      "city": "Guadalupe Etla",
+      "colonia": "La Capellania",
+      "postal_code": [
+        "68257"
+      ]
+    },
+    {
+      "city": "Guadalupe Etla",
+      "colonia": "La Resurreccion",
+      "postal_code": [
+        "68257"
+      ]
+    },
+    {
+      "city": "Guadalupe Etla",
+      "colonia": "San Jose El Mogote",
+      "postal_code": [
+        "68256"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,925 @@
+{
+  "data": [
+    {
+      "city": "El Naranjo",
+      "colonia": "Arboleda",
+      "postal_code": [
+        "79305"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Camilo Arriaga [Central Hidroelectrica]",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Campamento SCT",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Carlos Jonguitud Barrios",
+      "postal_code": [
+        "79306"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Casa Blanca (El Banco)",
+      "postal_code": [
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Chihuahuita",
+      "postal_code": [
+        "79318"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Chupaderos",
+      "postal_code": [
+        "79315"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Colonia el Meco",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Colonia Salto del Agua",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Contadero",
+      "postal_code": [
+        "79318"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Cruz Montoya Hernandez",
+      "postal_code": [
+        "79313"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Cuicillos",
+      "postal_code": [
+        "79317"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Ejido Benito Juarez su Anexo el Potosino",
+      "postal_code": [
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Ejido la Mutua",
+      "postal_code": [
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Abrevadero",
+      "postal_code": [
+        "79313"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Aguacate",
+      "postal_code": [
+        "79315"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Bule",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "79313"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Chote",
+      "postal_code": [
+        "79315"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Colorado",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Eden (Villa Rosita)",
+      "postal_code": [
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Esfuerzo",
+      "postal_code": [
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Estribo",
+      "postal_code": [
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Garabato",
+      "postal_code": [
+        "79313"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Guamuchil",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Limonal",
+      "postal_code": [
+        "79313"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Limoncito",
+      "postal_code": [
+        "79317"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Molino",
+      "postal_code": [
+        "79317"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Naranjito",
+      "postal_code": [
+        "79306",
+        "79315"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Naranjo Centro",
+      "postal_code": [
+        "79300"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Ojital",
+      "postal_code": [
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Ojo Frio",
+      "postal_code": [
+        "79318"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Paso del aguila (Vicente Escobedo)",
+      "postal_code": [
+        "79317"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "79304",
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Platanito",
+      "postal_code": [
+        "79315"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Puerto",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "79317"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Rincon de las Bombas (Nicolas Ortiz)",
+      "postal_code": [
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Sabinito",
+      "postal_code": [
+        "79315"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Sabinito Plan del Naranjo",
+      "postal_code": [
+        "79307"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Tanque",
+      "postal_code": [
+        "79315"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "El Triunfo",
+      "postal_code": [
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Francisco Aranda",
+      "postal_code": [
+        "79318"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Gregorio de la Rosa",
+      "postal_code": [
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Habitacional",
+      "postal_code": [
+        "79303"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "INFONAVIT Azucareros",
+      "postal_code": [
+        "79304"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Kilometro Cuarenta y Dos",
+      "postal_code": [
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Bahia",
+      "postal_code": [
+        "79305"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Balsa",
+      "postal_code": [
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Cabana",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Ceiba",
+      "postal_code": [
+        "79314",
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Colmena",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Concepcion",
+      "postal_code": [
+        "79315"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "79305"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Encantada",
+      "postal_code": [
+        "79305"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Esperanza Norte",
+      "postal_code": [
+        "79303"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Esperanza Sur",
+      "postal_code": [
+        "79303"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Germinal",
+      "postal_code": [
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Huerta",
+      "postal_code": [
+        "79306"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Isla",
+      "postal_code": [
+        "79317"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Joya",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Laguna (Oscar Raul Cano)",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Loma (Ejido los alamos)",
+      "postal_code": [
+        "79315"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Mequihuana",
+      "postal_code": [
+        "79313"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Mesa de Guadalupe",
+      "postal_code": [
+        "79313"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Mutua",
+      "postal_code": [
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Nigua",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Palma",
+      "postal_code": [
+        "79317"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Piedra",
+      "postal_code": [
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Presa",
+      "postal_code": [
+        "79303"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Presita",
+      "postal_code": [
+        "79317"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Rodada",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Las Abritas",
+      "postal_code": [
+        "79315"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Las Brisas",
+      "postal_code": [
+        "79306"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Las Granjas",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Sierrita",
+      "postal_code": [
+        "79313"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "79305"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "79317"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Toma",
+      "postal_code": [
+        "79313"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Victoria",
+      "postal_code": [
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Yerbabuena del Norte",
+      "postal_code": [
+        "79315"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "La Yerbabuena del Oriente",
+      "postal_code": [
+        "79315"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Loma Alta",
+      "postal_code": [
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "79315"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Los alamos de Abajo",
+      "postal_code": [
+        "79313"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Los alamos de Arriba",
+      "postal_code": [
+        "79313"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Los Cedros",
+      "postal_code": [
+        "79317",
+        "79318"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Los Charcos de Oriente",
+      "postal_code": [
+        "79317"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Los Corrales",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Maguey de Oriente",
+      "postal_code": [
+        "79315"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Maitinez",
+      "postal_code": [
+        "79317"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Minas Viejas",
+      "postal_code": [
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Obrera",
+      "postal_code": [
+        "79304"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Ojo de Agua de Ramon",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Ojo de Agua de Tierra Nueva",
+      "postal_code": [
+        "79313"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Olla Verde",
+      "postal_code": [
+        "79318"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Paso del aguila (Ismael Rojas)",
+      "postal_code": [
+        "79317"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Pena Amarilla",
+      "postal_code": [
+        "79317"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Potrero el Sabinal",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Rancho Buenavista",
+      "postal_code": [
+        "79317"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Rancho el Cadillo",
+      "postal_code": [
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Rancho el Carmen",
+      "postal_code": [
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Rancho el Cimarron",
+      "postal_code": [
+        "79317"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Rancho el Colorado",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Rancho el Herradero",
+      "postal_code": [
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Rancho el Rosario",
+      "postal_code": [
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Rancho la Cascada",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Rancho la Cuesta",
+      "postal_code": [
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Rancho la Esperanza",
+      "postal_code": [
+        "79318"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Rancho la Montana (La Gonzalera)",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Rancho la Paloma",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Rancho los Cuates",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Rancho Maitinez",
+      "postal_code": [
+        "79317"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Rancho Nuevo (Florencio Ortega)",
+      "postal_code": [
+        "79317"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Rancho Nuevo Paso del aguila",
+      "postal_code": [
+        "79317"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Rancho San Francisco",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Rincon de alamos",
+      "postal_code": [
+        "79315"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Rio Escondido (La Caja)",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "79306"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "San Jose",
+      "postal_code": [
+        "79306"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "San Juan del Viejo",
+      "postal_code": [
+        "79317"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "San Martin",
+      "postal_code": [
+        "79317"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "San Rafael (Ojo de Agua de la Vieja)",
+      "postal_code": [
+        "79317"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "79318"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Santa Laura",
+      "postal_code": [
+        "79314"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "79316"
+      ]
+    },
+    {
+      "city": "El Naranjo",
+      "colonia": "Villa Rosita",
+      "postal_code": [
+        "79316"
+      ]
+    }
+  ]
+}

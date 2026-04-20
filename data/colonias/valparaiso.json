@@ -1,0 +1,494 @@
+{
+  "data": [
+    {
+      "city": "Valparaiso",
+      "colonia": "Agua Fria",
+      "postal_code": [
+        "99253"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Alameda",
+      "postal_code": [
+        "99254"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Ameca",
+      "postal_code": [
+        "99253"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Atotonilco",
+      "postal_code": [
+        "99259"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "99257"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Boquilla del Refugio",
+      "postal_code": [
+        "99238"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "99257"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Capulin de la Sierra",
+      "postal_code": [
+        "99200"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Caracoles y Anexas",
+      "postal_code": [
+        "99220"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Cruces",
+      "postal_code": [
+        "99200"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Cueva Grande",
+      "postal_code": [
+        "99237"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Cumbres del Valle",
+      "postal_code": [
+        "99258"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Del Eden",
+      "postal_code": [
+        "99252"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "De los Barrios",
+      "postal_code": [
+        "99254"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Del Refugio",
+      "postal_code": [
+        "99256"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Deportiva",
+      "postal_code": [
+        "99258"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "El Astillero",
+      "postal_code": [
+        "99200"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "El Lago",
+      "postal_code": [
+        "99254"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "El Panalito",
+      "postal_code": [
+        "99253"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "99258"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "El Resbalon",
+      "postal_code": [
+        "99200"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "El Tejujan",
+      "postal_code": [
+        "99200"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "El Vallecito",
+      "postal_code": [
+        "99259"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "99257"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Enrique Estrada",
+      "postal_code": [
+        "99257"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Felipe angeles (Pastores)",
+      "postal_code": [
+        "99203"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "99254"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "La Joyita",
+      "postal_code": [
+        "99253"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "La Lagunilla",
+      "postal_code": [
+        "99252"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "La Lentejita",
+      "postal_code": [
+        "99256"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "La Mesita",
+      "postal_code": [
+        "99254"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "La Pila de Las Oscuras (La Pila)",
+      "postal_code": [
+        "99206"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "99258"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Las Rosas",
+      "postal_code": [
+        "99252"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "La Vina",
+      "postal_code": [
+        "99252"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Lobatos",
+      "postal_code": [
+        "99230"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Lomas del Paraiso",
+      "postal_code": [
+        "99259"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Lomas del Valle",
+      "postal_code": [
+        "99254"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Lopez Velarde",
+      "postal_code": [
+        "99257"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Los Arcos",
+      "postal_code": [
+        "99257"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Los Guerreros",
+      "postal_code": [
+        "99254"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Los Nogales",
+      "postal_code": [
+        "99255"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "99254"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Mala Noche",
+      "postal_code": [
+        "99230"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Mauro Talamantes",
+      "postal_code": [
+        "99257"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Mexico",
+      "postal_code": [
+        "99257"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Milpillas de La Sierra",
+      "postal_code": [
+        "99210"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Mimbres",
+      "postal_code": [
+        "99200"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Penitas de San Mateo",
+      "postal_code": [
+        "99225"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Potrero de Gallego",
+      "postal_code": [
+        "99209"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Presa del Rosarito",
+      "postal_code": [
+        "99208"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Puerta de Cadena del Sur",
+      "postal_code": [
+        "99256"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Ranchito de La Cruz",
+      "postal_code": [
+        "99254"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Ranchito del Tanque",
+      "postal_code": [
+        "99255"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "San Antonio de Padua",
+      "postal_code": [
+        "99208"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "San Jose de Llanetes",
+      "postal_code": [
+        "99239"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "San Jose del Vergel",
+      "postal_code": [
+        "99201"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "San Juan Capistrano",
+      "postal_code": [
+        "99240"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "San Mateo",
+      "postal_code": [
+        "99220"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "99200"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "99257"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "99252"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Sierra Dorada",
+      "postal_code": [
+        "99257"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Simon Bolivar",
+      "postal_code": [
+        "99253"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Tejones",
+      "postal_code": [
+        "99200"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Trojes",
+      "postal_code": [
+        "99200"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Valparaiso Centro",
+      "postal_code": [
+        "99250"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Vicente Escudero",
+      "postal_code": [
+        "99202"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Villas del Sol",
+      "postal_code": [
+        "99257"
+      ]
+    },
+    {
+      "city": "Valparaiso",
+      "colonia": "Xoconoxtle",
+      "postal_code": [
+        "99231"
+      ]
+    }
+  ]
+}

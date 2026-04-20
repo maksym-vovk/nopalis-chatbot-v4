@@ -1,0 +1,859 @@
+{
+  "data": [
+    {
+      "city": "Coatepec",
+      "colonia": "10 de Mayo",
+      "postal_code": [
+        "91537"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "22 de Septiembre",
+      "postal_code": [
+        "91549"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "2 de Abril",
+      "postal_code": [
+        "91559"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "2 de Enero",
+      "postal_code": [
+        "91569"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "6 de Enero",
+      "postal_code": [
+        "91567"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "6 de Julio",
+      "postal_code": [
+        "91565"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Agricola",
+      "postal_code": [
+        "91530"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Andrea",
+      "postal_code": [
+        "91581"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Anfer",
+      "postal_code": [
+        "91505"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Araucarias",
+      "postal_code": [
+        "91528"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Arboledas San Pedro",
+      "postal_code": [
+        "91518"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Azuzul",
+      "postal_code": [
+        "91510"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Bella Esperanza",
+      "postal_code": [
+        "91610"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "91575"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Bernardo Casals",
+      "postal_code": [
+        "91581"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Campestre",
+      "postal_code": [
+        "91559"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Campestre la Orduna",
+      "postal_code": [
+        "91518"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Campo Viejo",
+      "postal_code": [
+        "91540"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Carlos Roberto Smith",
+      "postal_code": [
+        "91506"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Casa Blanca",
+      "postal_code": [
+        "91556"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Casa Pinta",
+      "postal_code": [
+        "91569"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Centenario",
+      "postal_code": [
+        "91529"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Coatepec Centro",
+      "postal_code": [
+        "91500"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Del Bosque",
+      "postal_code": [
+        "91506"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Del Carmen",
+      "postal_code": [
+        "91520"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Diaz Miron",
+      "postal_code": [
+        "91529"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "91575"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "El Cedro",
+      "postal_code": [
+        "91569"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "El Grande",
+      "postal_code": [
+        "91607"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "91521"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "El Obrador",
+      "postal_code": [
+        "91528"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "91575"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "91538"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "El Pimiento",
+      "postal_code": [
+        "91576"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "91510"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "91560"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Encino",
+      "postal_code": [
+        "91521"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Espinal Alto",
+      "postal_code": [
+        "91566"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Espinal Bajo",
+      "postal_code": [
+        "91566"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Fernando Gutierrez Barrios",
+      "postal_code": [
+        "91575"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Francisco Javier Mina",
+      "postal_code": [
+        "91539"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "91519"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Fuentes de Coatepec",
+      "postal_code": [
+        "91559"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Hernandez Ochoa",
+      "postal_code": [
+        "91583"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Ignacio Allende",
+      "postal_code": [
+        "91515"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "INFONAVIT los Cafetos",
+      "postal_code": [
+        "91580"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Jardines de Coatepec",
+      "postal_code": [
+        "91557"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Jardines de Pastoreza",
+      "postal_code": [
+        "91569"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Juan de la Luz Enriquez",
+      "postal_code": [
+        "91589"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "La Florida",
+      "postal_code": [
+        "91517"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "La Gachupina",
+      "postal_code": [
+        "91520"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "La Herradura",
+      "postal_code": [
+        "91527"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "91604"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "La Luz",
+      "postal_code": [
+        "91503"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "La Mata",
+      "postal_code": [
+        "91583"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "La Mata 2da Seccion",
+      "postal_code": [
+        "91583"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "La Orduna",
+      "postal_code": [
+        "91603"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "La Pitaya",
+      "postal_code": [
+        "91517"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "La Purisima",
+      "postal_code": [
+        "91500"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Las Auroras",
+      "postal_code": [
+        "91549"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Las Azaleas",
+      "postal_code": [
+        "91580"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Las Bugambilias",
+      "postal_code": [
+        "91569"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Las Cruces",
+      "postal_code": [
+        "91570"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Las Golondrinas",
+      "postal_code": [
+        "91521"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Las Hayas",
+      "postal_code": [
+        "91538"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Las Jacarandas",
+      "postal_code": [
+        "91519"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Las Lomas",
+      "postal_code": [
+        "91606"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "91581"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Las Primaveras",
+      "postal_code": [
+        "91569"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "91583"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "91539"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Libertad",
+      "postal_code": [
+        "91521"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Loma de los Angeles",
+      "postal_code": [
+        "91529"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Loma del Suchill",
+      "postal_code": [
+        "91570"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Lomas de Flores",
+      "postal_code": [
+        "91570"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Los Carriles",
+      "postal_code": [
+        "91539"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Los Lirios",
+      "postal_code": [
+        "91579"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Los Olivos",
+      "postal_code": [
+        "91559"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "91520"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Los Prados",
+      "postal_code": [
+        "91576"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Magisterial Jardines de Coatepec",
+      "postal_code": [
+        "91567"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Mahuixtlan",
+      "postal_code": [
+        "91608"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Manantiales",
+      "postal_code": [
+        "91579"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Maria Enriqueta",
+      "postal_code": [
+        "91568"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Maria Enriqueta Fraccion II",
+      "postal_code": [
+        "91559"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Mariano Escobedo",
+      "postal_code": [
+        "91517"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Miguel Aleman",
+      "postal_code": [
+        "91570"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Mosvic",
+      "postal_code": [
+        "91576"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Nestle",
+      "postal_code": [
+        "91520"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Nueva Nestle",
+      "postal_code": [
+        "91581"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Obrera (Las Puentes)",
+      "postal_code": [
+        "91601"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Olivares Pineda",
+      "postal_code": [
+        "91539"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Orquideas",
+      "postal_code": [
+        "91576"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Pacho Viejo",
+      "postal_code": [
+        "91602"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Plan de la Cruz",
+      "postal_code": [
+        "91517"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Plan Mavil",
+      "postal_code": [
+        "91559"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Pomarosa",
+      "postal_code": [
+        "91514"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Popular",
+      "postal_code": [
+        "91506"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Primero de Mayo",
+      "postal_code": [
+        "91559"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Rafael Sanchez",
+      "postal_code": [
+        "91533"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Reyes Heroles",
+      "postal_code": [
+        "91538"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Rincon Coatepec",
+      "postal_code": [
+        "91520"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Roberto Amoros",
+      "postal_code": [
+        "91520"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "San Jeronimo",
+      "postal_code": [
+        "91529",
+        "91538"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "San Jose",
+      "postal_code": [
+        "91584"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "San Pedro Buenavista",
+      "postal_code": [
+        "91518"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Santa Barbara",
+      "postal_code": [
+        "91550"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Santa Martha",
+      "postal_code": [
+        "91570"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "91540"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "91549"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Sayago Cristobal",
+      "postal_code": [
+        "91514"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Setse",
+      "postal_code": [
+        "91533"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Setse II",
+      "postal_code": [
+        "91581"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Sinesco",
+      "postal_code": [
+        "91514"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "S. N. T. E. Seccion 56",
+      "postal_code": [
+        "91567"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Sostenes Guzman",
+      "postal_code": [
+        "91570"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Tepeapulco",
+      "postal_code": [
+        "91609"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Tuzamapan",
+      "postal_code": [
+        "91610"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Vaqueria",
+      "postal_code": [
+        "91609"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Zimpizahua",
+      "postal_code": [
+        "91601"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Zona Dorada",
+      "postal_code": [
+        "91516"
+      ]
+    },
+    {
+      "city": "Coatepec",
+      "colonia": "Coatepec",
+      "postal_code": [
+        "73410"
+      ]
+    }
+  ]
+}

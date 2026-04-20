@@ -1,0 +1,988 @@
+{
+  "data": [
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "96570"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "23 de Noviembre",
+      "postal_code": [
+        "96458"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "24 de Octubre",
+      "postal_code": [
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "5 de Febrero",
+      "postal_code": [
+        "96577"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "96490"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Allende Centro",
+      "postal_code": [
+        "96380"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Alor Procoro",
+      "postal_code": [
+        "96570"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Ampliacion Adolfo Lopez Mateos",
+      "postal_code": [
+        "96499"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Ampliacion Santa Maria",
+      "postal_code": [
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Ampliacion Santa Rosa",
+      "postal_code": [
+        "96556"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Antonio Luna",
+      "postal_code": [
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Astilleros de Marina",
+      "postal_code": [
+        "96458"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Bahia de San Martin",
+      "postal_code": [
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Balcones Del Mar",
+      "postal_code": [
+        "96530"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Barrillas",
+      "postal_code": [
+        "96535"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "96380"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Benito Juarez Norte",
+      "postal_code": [
+        "96576"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Benito Juarez Sur",
+      "postal_code": [
+        "96580"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Bethel",
+      "postal_code": [
+        "96565"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Brisas Del Golfo",
+      "postal_code": [
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Brisas del Sur",
+      "postal_code": [
+        "96529"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "96538"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Cangrejera",
+      "postal_code": [
+        "96384"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Celanese",
+      "postal_code": [
+        "96539"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Ciudad Olmeca",
+      "postal_code": [
+        "96535"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Coatzacoalcos",
+      "postal_code": [
+        "96499"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Coatzacoalcos Centro",
+      "postal_code": [
+        "96400"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Constituyentes",
+      "postal_code": [
+        "96565"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "96569"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Divina Providencia",
+      "postal_code": [
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Dos Rios",
+      "postal_code": [
+        "96492"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Ejidal",
+      "postal_code": [
+        "96380",
+        "96495"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "El Colorado",
+      "postal_code": [
+        "96387"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Electricistas",
+      "postal_code": [
+        "96497"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "El Faro",
+      "postal_code": [
+        "96380"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "El Manantial",
+      "postal_code": [
+        "96535"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "96588"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "El Olvido",
+      "postal_code": [
+        "96380"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "96535"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "El Penon",
+      "postal_code": [
+        "96387"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "El Tesoro",
+      "postal_code": [
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "El Triangulo",
+      "postal_code": [
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Elvira Ochoa de Hernandez",
+      "postal_code": [
+        "96496"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "96560"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Empleados Municipales",
+      "postal_code": [
+        "96535"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Escolleras",
+      "postal_code": [
+        "96380"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Esfuerzo de los Hermanos Del Trabajo",
+      "postal_code": [
+        "96430"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Esperanza Azcon de Acosta Lagunes",
+      "postal_code": [
+        "96569"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "FERTIMEX",
+      "postal_code": [
+        "96564"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "FONHAPO",
+      "postal_code": [
+        "96380"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "FOVISSSTE",
+      "postal_code": [
+        "96537"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "FOVISSSTE III",
+      "postal_code": [
+        "96568"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "FOVISSSTE IV",
+      "postal_code": [
+        "96568"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "96387",
+        "96566"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Francisco Villa Norte",
+      "postal_code": [
+        "96566"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Fraternidad Antorchista",
+      "postal_code": [
+        "96535"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Frutos de La Revolucion",
+      "postal_code": [
+        "96470"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Gavilan Norte (Santa Rosa)",
+      "postal_code": [
+        "96387"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "96520"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Guillermo Prieto",
+      "postal_code": [
+        "96380"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Heroe de Nacozari",
+      "postal_code": [
+        "96599"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Independencia",
+      "postal_code": [
+        "96556"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Infonavit Vista al Mar",
+      "postal_code": [
+        "96529"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Iquisa",
+      "postal_code": [
+        "96540"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "ISSSFAM",
+      "postal_code": [
+        "96458"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Jardines de California",
+      "postal_code": [
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Kilometro 5",
+      "postal_code": [
+        "96590"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "96387",
+        "96556"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "La Guadalupana",
+      "postal_code": [
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "La Jolla Residencial",
+      "postal_code": [
+        "96535"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "96480"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Las Dunas",
+      "postal_code": [
+        "96535"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Las Gaviotas",
+      "postal_code": [
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "96559"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Las Reinas",
+      "postal_code": [
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "La Victoria",
+      "postal_code": [
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "96460"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Libertad",
+      "postal_code": [
+        "96380"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Lic. Luis Echeverria alvarez",
+      "postal_code": [
+        "96440"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Lomas de Barrillas",
+      "postal_code": [
+        "96535"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Lomas del Bosque",
+      "postal_code": [
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Los Almendros",
+      "postal_code": [
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Manuel Avila Camacho",
+      "postal_code": [
+        "96420"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Maradunas",
+      "postal_code": [
+        "96535"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Maria de La Piedad",
+      "postal_code": [
+        "96410"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "96557"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Miramar",
+      "postal_code": [
+        "96380"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Mundo Nuevo",
+      "postal_code": [
+        "96386"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Nueva Calzadas",
+      "postal_code": [
+        "96567"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Nueva Imagen",
+      "postal_code": [
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Nueva Obrera",
+      "postal_code": [
+        "96598"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Nueva Pajaritos",
+      "postal_code": [
+        "96380"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Pajaritos",
+      "postal_code": [
+        "96384"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Palma Sola",
+      "postal_code": [
+        "96579"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Paraiso Coatzacoalcos",
+      "postal_code": [
+        "96523"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Paso a Desnivel",
+      "postal_code": [
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Peloteros",
+      "postal_code": [
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "PEMEX",
+      "postal_code": [
+        "96380"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Pensiones Del Estado",
+      "postal_code": [
+        "96530"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Pescadores",
+      "postal_code": [
+        "96380"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Petrolera",
+      "postal_code": [
+        "96500"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Petroquimica",
+      "postal_code": [
+        "96519"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Playa de Oro",
+      "postal_code": [
+        "96520"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Playa Sol",
+      "postal_code": [
+        "96518"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Playeros",
+      "postal_code": [
+        "96530"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Popular Morelos",
+      "postal_code": [
+        "96535"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Primero de Mayo",
+      "postal_code": [
+        "96590"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Progreso y Paz",
+      "postal_code": [
+        "96565"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Puerto Esmeralda",
+      "postal_code": [
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Puerto Mexico",
+      "postal_code": [
+        "96510"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Punta Caracol",
+      "postal_code": [
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Punta Del Mar",
+      "postal_code": [
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Rabon Grande",
+      "postal_code": [
+        "96380"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Rafael Hernandez Ochoa",
+      "postal_code": [
+        "96550"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Rancho Alegre I",
+      "postal_code": [
+        "96558"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Rancho Alegre II",
+      "postal_code": [
+        "96558"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Rincon Grande",
+      "postal_code": [
+        "96384"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "San Juan",
+      "postal_code": [
+        "96565"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "San Silverio",
+      "postal_code": [
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "96538"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Santa Isabel",
+      "postal_code": [
+        "96538"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "96536",
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "96538"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Sector Popular",
+      "postal_code": [
+        "96556"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Solidaridad",
+      "postal_code": [
+        "96535"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Sotavento",
+      "postal_code": [
+        "96578"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Teresa Morales Delgado",
+      "postal_code": [
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Tierra Nueva",
+      "postal_code": [
+        "96496"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Tierra y Libertad",
+      "postal_code": [
+        "96580"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Transportistas",
+      "postal_code": [
+        "96536"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Tropico de La Rivera",
+      "postal_code": [
+        "96567"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "ursulo Galvan",
+      "postal_code": [
+        "96575"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Veracruz",
+      "postal_code": [
+        "96535"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Vicente Lombardo Toledano",
+      "postal_code": [
+        "96380"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Villas de La Rivera",
+      "postal_code": [
+        "96496"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Villas del Mar",
+      "postal_code": [
+        "96380"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Villas del Norte",
+      "postal_code": [
+        "96566"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Villas del Sur",
+      "postal_code": [
+        "96566"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Villas de San Martin",
+      "postal_code": [
+        "96535"
+      ]
+    },
+    {
+      "city": "Coatzacoalcos",
+      "colonia": "Villas Odnalor",
+      "postal_code": [
+        "96535"
+      ]
+    }
+  ]
+}

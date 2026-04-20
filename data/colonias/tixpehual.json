@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Tixpehual",
+      "colonia": "Chocho",
+      "postal_code": [
+        "97387"
+      ]
+    },
+    {
+      "city": "Tixpehual",
+      "colonia": "Cuca",
+      "postal_code": [
+        "97388"
+      ]
+    },
+    {
+      "city": "Tixpehual",
+      "colonia": "Kilinche",
+      "postal_code": [
+        "97387"
+      ]
+    },
+    {
+      "city": "Tixpehual",
+      "colonia": "Sahe",
+      "postal_code": [
+        "97388"
+      ]
+    },
+    {
+      "city": "Tixpehual",
+      "colonia": "Tixpehual",
+      "postal_code": [
+        "97386"
+      ]
+    }
+  ]
+}

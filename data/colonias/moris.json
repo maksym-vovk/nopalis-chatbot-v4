@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Moris",
+      "colonia": "Cienega del Pilar",
+      "postal_code": [
+        "33346"
+      ]
+    },
+    {
+      "city": "Moris",
+      "colonia": "El Frijolar",
+      "postal_code": [
+        "33347"
+      ]
+    },
+    {
+      "city": "Moris",
+      "colonia": "El Pilar",
+      "postal_code": [
+        "33346"
+      ]
+    },
+    {
+      "city": "Moris",
+      "colonia": "La Cieneguita de Rodriguez",
+      "postal_code": [
+        "33347"
+      ]
+    },
+    {
+      "city": "Moris",
+      "colonia": "Moris",
+      "postal_code": [
+        "33340"
+      ]
+    },
+    {
+      "city": "Moris",
+      "colonia": "Talayotes",
+      "postal_code": [
+        "33350"
+      ]
+    }
+  ]
+}

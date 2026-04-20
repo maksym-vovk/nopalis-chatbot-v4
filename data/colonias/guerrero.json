@@ -1,0 +1,697 @@
+{
+  "data": [
+    {
+      "city": "Guerrero",
+      "colonia": "Doctor Virgilio P Farias Valdes",
+      "postal_code": [
+        "26640"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "26659"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Guerrero",
+      "postal_code": [
+        "26640"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Hacienda de Guadalupe",
+      "postal_code": [
+        "26659"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "La Reforma",
+      "postal_code": [
+        "26650"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Rodriguez",
+      "postal_code": [
+        "26643"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "San Jose",
+      "postal_code": [
+        "26643"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "San Pablo (El Rosario)",
+      "postal_code": [
+        "26659"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Santa Monica",
+      "postal_code": [
+        "26650"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "San Vicente",
+      "postal_code": [
+        "26643"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Comision",
+      "postal_code": [
+        "88374"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Electricistas",
+      "postal_code": [
+        "88374"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "FOVISSSTE Falcon",
+      "postal_code": [
+        "88373"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "88372"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Nueva Ciudad Guerrero Centro",
+      "postal_code": [
+        "88370"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Pescadores",
+      "postal_code": [
+        "88373"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Ruiz Cortinez",
+      "postal_code": [
+        "88372"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "10 de Mayo",
+      "postal_code": [
+        "31680"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Agua Caliente",
+      "postal_code": [
+        "31690"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Agua Caliente de Arisiachi",
+      "postal_code": [
+        "31697"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Aguachiqui",
+      "postal_code": [
+        "31698"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Arisiachi (El Terrero)",
+      "postal_code": [
+        "31681"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Ataros",
+      "postal_code": [
+        "31699"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Basuchil",
+      "postal_code": [
+        "31687"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "31690"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Blanco",
+      "postal_code": [
+        "31699"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Boquilla y Anexas",
+      "postal_code": [
+        "31693"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Borjas",
+      "postal_code": [
+        "31687"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Calaveras",
+      "postal_code": [
+        "31698"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Calera",
+      "postal_code": [
+        "31686"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Carichic",
+      "postal_code": [
+        "31680"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Carpio",
+      "postal_code": [
+        "31684"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Chocachi",
+      "postal_code": [
+        "31691"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Cieneguita",
+      "postal_code": [
+        "31697"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Cojahuachi",
+      "postal_code": [
+        "31695"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Cueva del Toro (Natahuachi)",
+      "postal_code": [
+        "31698"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Cuevecillas (Ochocachi)",
+      "postal_code": [
+        "31681"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "El Consuelo",
+      "postal_code": [
+        "31680"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "El Entronque",
+      "postal_code": [
+        "31690"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "El Jagüey",
+      "postal_code": [
+        "31685"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "31690"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "El Pajarito",
+      "postal_code": [
+        "31693"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "El Pinito",
+      "postal_code": [
+        "31684"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "31690"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "31697"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Estacion Terrero",
+      "postal_code": [
+        "31695"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Fernando Baeza",
+      "postal_code": [
+        "31690"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Ferrocarrilera",
+      "postal_code": [
+        "31690"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "31680"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Guadalupe de Arriba",
+      "postal_code": [
+        "31688"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Guadalupe (Guadalupe de Abajo)",
+      "postal_code": [
+        "31687"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Heredia y Anexas",
+      "postal_code": [
+        "31698"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "31694"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "INFONAVIT",
+      "postal_code": [
+        "31690"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Jesus Lugo",
+      "postal_code": [
+        "31684"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "La Chiripa",
+      "postal_code": [
+        "31680"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "La Junta Centro",
+      "postal_code": [
+        "31690"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "La Nopalera",
+      "postal_code": [
+        "31697"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Las animas",
+      "postal_code": [
+        "31697"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Las Ranas de Temeychic",
+      "postal_code": [
+        "31699"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "La Tena de Arriba",
+      "postal_code": [
+        "31693"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Lo de Gil (Oregil)",
+      "postal_code": [
+        "31684"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Lomas del Sol",
+      "postal_code": [
+        "31690"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Loya",
+      "postal_code": [
+        "31684"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Minaca",
+      "postal_code": [
+        "31688"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Natahuachic",
+      "postal_code": [
+        "31698"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Nogal y Anexas",
+      "postal_code": [
+        "31694"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Pachera",
+      "postal_code": [
+        "31690"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Pahuirachic",
+      "postal_code": [
+        "31688"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Paramo de Morelos",
+      "postal_code": [
+        "31694"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Pascual Orozco",
+      "postal_code": [
+        "31684"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Pedernales",
+      "postal_code": [
+        "31694"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Pichachic",
+      "postal_code": [
+        "31699"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Rancho Carpio",
+      "postal_code": [
+        "31684"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Rancho Colorado",
+      "postal_code": [
+        "31684"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Rancho de Santiago",
+      "postal_code": [
+        "31694"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Rancho Guadalupe",
+      "postal_code": [
+        "31680"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Rio Verde",
+      "postal_code": [
+        "31697"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Saenz",
+      "postal_code": [
+        "31687"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "San Ignacio",
+      "postal_code": [
+        "31681"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "San Jose",
+      "postal_code": [
+        "31681"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "San Jose Baquiachic",
+      "postal_code": [
+        "31693"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "San Jose (Perros Bravos)",
+      "postal_code": [
+        "31683"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "San Juan Santo Tomas",
+      "postal_code": [
+        "31683"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "San Miguel de Ortiz",
+      "postal_code": [
+        "31681"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "San Miguel de Temeychic",
+      "postal_code": [
+        "31695"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "San Pablo de la Sierra (Cochinitos)",
+      "postal_code": [
+        "31698"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "31680"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "31687"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Santa Rosa de Arisiachi",
+      "postal_code": [
+        "31681"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Santo Tomas",
+      "postal_code": [
+        "31683"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Tacuba",
+      "postal_code": [
+        "31690"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Tecomachi",
+      "postal_code": [
+        "31697"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Tehuerichic",
+      "postal_code": [
+        "31695"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Temechic",
+      "postal_code": [
+        "31697"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Temechi (Temeychi)",
+      "postal_code": [
+        "31695"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Teneria",
+      "postal_code": [
+        "31690"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Tonachic",
+      "postal_code": [
+        "31696"
+      ]
+    },
+    {
+      "city": "Guerrero",
+      "colonia": "Vicente Guerrero Centro",
+      "postal_code": [
+        "31680"
+      ]
+    }
+  ]
+}

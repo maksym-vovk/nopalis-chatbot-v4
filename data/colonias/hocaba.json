@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Hocaba",
+      "colonia": "El Nance",
+      "postal_code": [
+        "97563"
+      ]
+    },
+    {
+      "city": "Hocaba",
+      "colonia": "Hocaba",
+      "postal_code": [
+        "97560"
+      ]
+    },
+    {
+      "city": "Hocaba",
+      "colonia": "Sahcaba",
+      "postal_code": [
+        "97564"
+      ]
+    }
+  ]
+}

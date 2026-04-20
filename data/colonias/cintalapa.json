@@ -1,0 +1,4694 @@
+{
+  "data": [
+    {
+      "city": "Cintalapa",
+      "colonia": "14 de Febrero",
+      "postal_code": [
+        "30400",
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "3 de Mayo",
+      "postal_code": [
+        "30416"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "3 Diamantes",
+      "postal_code": [
+        "30413"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "3 Hermanos",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "4 de Octubre",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "5 de mayo",
+      "postal_code": [
+        "30413"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "8 de Enero",
+      "postal_code": [
+        "30406"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Abelardo L Rodriguez",
+      "postal_code": [
+        "30416"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Adolfo Lopez Ruiz",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Adrian Perez",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Agua Dulce",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Agua Escondida",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Agua Fria",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Alaska",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Alberto Valencia",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Albores Guillen",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Alimentos Ejidal [Procesadora]",
+      "postal_code": [
+        "30409"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Altamira",
+      "postal_code": [
+        "30407",
+        "30425",
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Alta Union",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Alta Vista",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Alto la Alvarda",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Amado Gonzalez Munoz",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Amando Borraz Ochoa",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Amatan (Cerro Brujo)",
+      "postal_code": [
+        "30422"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Andres Gomez",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Anibal Moguel Farrera",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Antonio Diaz Ruiz",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Antonio Gomez",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Antonio Narro (Universidad Autonoma Agraria)",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Argelia",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Argentina",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Belen (La Penita)",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Bellalinda",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Bellamira",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Betania",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Bethel",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Bonanza",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Brasilia",
+      "postal_code": [
+        "30413"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Brasilito",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "30413",
+        "30415",
+        "30420",
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "30400",
+        "30415",
+        "30417",
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Cap. Rosendo Salazar",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Casa Blanca",
+      "postal_code": [
+        "30409",
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Casa de Cristal",
+      "postal_code": [
+        "30409"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Castellano Pomposo",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Centenario",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Cereso (El Amate No. 14)",
+      "postal_code": [
+        "30410"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Chamiapa",
+      "postal_code": [
+        "30406"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Chapultepec",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Chicozapote",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Chicozapote las Casetas",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Cielo Azul",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Cienega de Leon",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Cinco Cerros",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Cinco Hermanos",
+      "postal_code": [
+        "30410"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Cintalapa de Figueroa Centro",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Colima",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Colonia Gomez",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Columpio",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Comitancillo",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Concepcion",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Copalatenco",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Corazon del Valle",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Cordova",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Coronel Luis Espinosa",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Corral Falso",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Crisalidas (Plan del Mango)",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Cuatro de Agosto",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Cuatro Hermanos",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Cuba",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "David Nivon Escobar",
+      "postal_code": [
+        "30416"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Diez de Abril",
+      "postal_code": [
+        "30406"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Dos Hermanos",
+      "postal_code": [
+        "30409",
+        "30410"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Durango",
+      "postal_code": [
+        "30409"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Eladio Trinidad Nataren",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Aguacate",
+      "postal_code": [
+        "30415",
+        "30428"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Aguaje",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Aguajon",
+      "postal_code": [
+        "30424",
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Ahogadero",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Amate",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Amatillo",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Arco",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Balsamar",
+      "postal_code": [
+        "30412"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Bernal",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Bosque",
+      "postal_code": [
+        "30420",
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Brasil",
+      "postal_code": [
+        "30412"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Brillante",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Buen Pastor",
+      "postal_code": [
+        "30410"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Cafetal (Rancho Nuevo)",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Calvario",
+      "postal_code": [
+        "30420",
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Caoba",
+      "postal_code": [
+        "30407",
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Capricho",
+      "postal_code": [
+        "30416"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Capulin",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Caracol",
+      "postal_code": [
+        "30415",
+        "30416"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Cardel",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "30413",
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "30413"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Carrizalillo",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Chahuite",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Chahuitillo",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Chichonal",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Chiflido",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Chino",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Chintule",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Chintulito",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Cielito",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Cipres",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Consuelo",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Convenio",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Corazoncito",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Coyolar",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Cuajilote",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Cucurucho",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Danubio",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Desengano",
+      "postal_code": [
+        "30409"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Desierto",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Dorado",
+      "postal_code": [
+        "30407",
+        "30420",
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Duraznillo",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Ecuador",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Eden",
+      "postal_code": [
+        "30420",
+        "30424",
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Egipto",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Ensueno",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Estoracon",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Estoraque (El Organal)",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Faro",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Framboyan",
+      "postal_code": [
+        "30406"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Gavilan",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Gran Chaparral",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Guamuchil",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Higuito",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Hojaman",
+      "postal_code": [
+        "30409"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Horizonte",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Huanacastle",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Huapinol",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Hular",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Ingenio",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Jardin",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Jobal",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Jobito",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Jordan",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Laurel",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Lienzo",
+      "postal_code": [
+        "30413"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Magueyal",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Majagual",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Manantial",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Manguito",
+      "postal_code": [
+        "30413",
+        "30416",
+        "30423",
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Medallin (Unesco)",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Milagro",
+      "postal_code": [
+        "30410",
+        "30416",
+        "30420",
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "30400",
+        "30406",
+        "30407",
+        "30423",
+        "30426",
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Muray",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Nanche",
+      "postal_code": [
+        "30406"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Naranjal",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Naranjo",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Nilo",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Norteno",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Novillero",
+      "postal_code": [
+        "30410"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Nuevo Eden",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Oasis",
+      "postal_code": [
+        "30417",
+        "30420",
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Ocote",
+      "postal_code": [
+        "30425",
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Oriente",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Otro Mundo",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Palenque",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Palomar",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "30422",
+        "30424",
+        "30428"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Paso (Casa Hogar)",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Paso la Costosa",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Patio",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Patio de Madera",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Pencil",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Pensamiento",
+      "postal_code": [
+        "30416",
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Pensamiento (El Arbolito)",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Peru",
+      "postal_code": [
+        "30415",
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Platanillo",
+      "postal_code": [
+        "30424",
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "30413",
+        "30415",
+        "30420",
+        "30424",
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Porvenir (El Rosario)",
+      "postal_code": [
+        "30428"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Potrero",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Potrillo",
+      "postal_code": [
+        "30409"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Progreso",
+      "postal_code": [
+        "30415",
+        "30420",
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Quijote",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Recreo",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Recuerdo",
+      "postal_code": [
+        "30413",
+        "30416",
+        "30420",
+        "30423",
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Renegado (La Cabana)",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Retiro",
+      "postal_code": [
+        "30420",
+        "30428"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Riego",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Rubi",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Sabino",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Saltillito",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Saltillo",
+      "postal_code": [
+        "30407",
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Salvador",
+      "postal_code": [
+        "30417",
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Santuario",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Sauce",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Sauz",
+      "postal_code": [
+        "30415",
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Siete (El Cero)",
+      "postal_code": [
+        "30413"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Sinai",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Socorro",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Socorro Dos",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Sueno",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Suspiro",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Tepeyac",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Tesoro",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Tomatal",
+      "postal_code": [
+        "30409"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Trece",
+      "postal_code": [
+        "30413"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Triangulo",
+      "postal_code": [
+        "30413",
+        "30417",
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Triangulo Tlaxcalteca",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Triunfo",
+      "postal_code": [
+        "30407",
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Tronconal",
+      "postal_code": [
+        "30409"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Tule",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Valle",
+      "postal_code": [
+        "30416"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Zakura",
+      "postal_code": [
+        "30413"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Zapotal (Santa Rosa)",
+      "postal_code": [
+        "30428"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Zapote 2",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Zapote de Abajo",
+      "postal_code": [
+        "30416"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Zapote de Abajo (Desvio de Abelardo)",
+      "postal_code": [
+        "30416"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Zapote de Arriba",
+      "postal_code": [
+        "30416"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "El Zapotillo",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "emili",
+      "postal_code": [
+        "30409"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "30415",
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Encarnacion Hernandez L.",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Felipe angeles",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Fraccion Nuevo Mundo",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Framboyan",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Francisco Arellano",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Francisco I Madero",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "General Cardenas",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Gilberto Morales",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Gracias a Dios",
+      "postal_code": [
+        "30406",
+        "30413"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Guachipilin",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "30400",
+        "30413",
+        "30415",
+        "30423",
+        "30424",
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Guadalupe Victoria Uno (La Herradura)",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Guerrero (Ocho de Marzo)",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Guillermo Ramos",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Guillermo Velazquez",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Hermanos Cervantes",
+      "postal_code": [
+        "30409"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Horno Blanco",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Humberto Mendoza",
+      "postal_code": [
+        "30416"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Humoa",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "30422"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Ingeniero Eloy Borras Aguilar",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Insurgentes",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Integral Adolfo Lopez Mateos",
+      "postal_code": [
+        "30413"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Jacinto Tirado",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Jardines de Cintalapa",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Jardines del Bosque",
+      "postal_code": [
+        "30409"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Jardin Magisterial",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Javier Lopez Moreno",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Jilotepec",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Jorge Burguete",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Jorge de la Vega Dominguez (Las Pavas)",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Jose Castillo Tielmans",
+      "postal_code": [
+        "30417",
+        "30426"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Juan Carral",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Juan Gomez Sanchez",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Juan Sabines",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Aceitera",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Argentina",
+      "postal_code": [
+        "30415",
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Asuncion",
+      "postal_code": [
+        "30413"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Bandera",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Bizca",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Bugambilia",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Cabana",
+      "postal_code": [
+        "30415",
+        "30417",
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Calzada",
+      "postal_code": [
+        "30415",
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Candelaria",
+      "postal_code": [
+        "30400",
+        "30407",
+        "30428"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Ceiba",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Cieneguilla",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Cima",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Claudia (Los Cocodrilos)",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Constitucion",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Diana",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Divina Providencia",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Enramada",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "30409",
+        "30410"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Esmeralda",
+      "postal_code": [
+        "30400",
+        "30407",
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "30416",
+        "30417",
+        "30420",
+        "30428",
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Esperanza de los Pobres",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Esperanza Fraccion Dos",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Florida",
+      "postal_code": [
+        "30426"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Fortuna",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Gavia",
+      "postal_code": [
+        "30412"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Gloria",
+      "postal_code": [
+        "30407",
+        "30413",
+        "30415",
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Granada",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Granadita",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Guacamaya",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Guirnalda",
+      "postal_code": [
+        "30406"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Habana",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Herendira",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Herradura",
+      "postal_code": [
+        "30415",
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Higuera",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Historia",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Ilusion",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Isleta",
+      "postal_code": [
+        "30412"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Jabalina",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Lagunita",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Libertad",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Lomita",
+      "postal_code": [
+        "30409"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Magdalena (La magdalena 29 de Diciembre)",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Marqueza",
+      "postal_code": [
+        "30428"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Mochita",
+      "postal_code": [
+        "30410"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Molienda",
+      "postal_code": [
+        "30406"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Mora",
+      "postal_code": [
+        "30415",
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Muralla",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La nagara",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Naranja",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Noria",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Nueva Espana",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Odisea",
+      "postal_code": [
+        "30410"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Orquidea",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Palapa del Negro",
+      "postal_code": [
+        "30406"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Panelita",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Pena",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Penita",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Piedad",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Posta",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Primavera",
+      "postal_code": [
+        "30406",
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Purcianita",
+      "postal_code": [
+        "30406"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Razon",
+      "postal_code": [
+        "30413"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Ribera",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las animas",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Brisas",
+      "postal_code": [
+        "30425",
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Bugambilias",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Canoitas Primera",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Canoitas Segunda",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Carmelitas",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Casitas",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Chinampinas",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Crucecitas",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Cruces",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Cuevas",
+      "postal_code": [
+        "30428"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Dalias",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Delicias",
+      "postal_code": [
+        "30407",
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Dos Gardenias",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Selva",
+      "postal_code": [
+        "30423",
+        "30427",
+        "30428"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Felicidas",
+      "postal_code": [
+        "30409"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "30413",
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Gardenias",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Garzas",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Sidra",
+      "postal_code": [
+        "30410"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Sima",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Jacarandas",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Jaquimas",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Lajas",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Laminas",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Limas",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Lluvias",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Maravillas",
+      "postal_code": [
+        "30407",
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "30413",
+        "30415",
+        "30427",
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Mercedes",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Merceditas",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Minas",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Moradas",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Murallas",
+      "postal_code": [
+        "30417",
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Naranjas",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Nubes",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Sombra",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "30406",
+        "30417",
+        "30423",
+        "30424",
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Penas",
+      "postal_code": [
+        "30416"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Perlas",
+      "postal_code": [
+        "30424",
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Pilas",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Pilas (Santa ursula)",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Pinuelas",
+      "postal_code": [
+        "30409"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Pitayas",
+      "postal_code": [
+        "30410"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Reynas",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Tasajeras",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Tres Marias",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Las Vegas",
+      "postal_code": [
+        "30413",
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "30406"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Vainilla",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Valdivia",
+      "postal_code": [
+        "30413"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Veleta",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Vibora",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Victoria",
+      "postal_code": [
+        "30416",
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Virginia",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Vuelta",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "La Vueltona",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "30410"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Leopoldo Meza P.",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "30400",
+        "30424",
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Linda Vista",
+      "postal_code": [
+        "30400",
+        "30400",
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Lirios del Valle",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Llano Grande",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Lomas del Oriente",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Abelinos (Los Chantiris)",
+      "postal_code": [
+        "30409"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Aguacates",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "30410"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Alpes",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Amates",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Andes",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "30407",
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Clavelitos (Pilon de Azucar)",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Cocos",
+      "postal_code": [
+        "30406",
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Cocos (Rancho Bonito)",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Corazones",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Flamboyanes",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Hermanos",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Higos",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Horcones",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Joaquines",
+      "postal_code": [
+        "30406",
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "30400",
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Limones",
+      "postal_code": [
+        "30409",
+        "30412",
+        "30423",
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Limones (Tetesquite)",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Mangos",
+      "postal_code": [
+        "30406",
+        "30407",
+        "30409",
+        "30415",
+        "30417",
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Miradores",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Moguel",
+      "postal_code": [
+        "30416"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Ocotones [Aserradero]",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Olachea (San Antonio Valdiviana)",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Olivos",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "30400",
+        "30423",
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Pocitos",
+      "postal_code": [
+        "30409"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Potrillos",
+      "postal_code": [
+        "30415",
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Quebrachos",
+      "postal_code": [
+        "30406"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Tamarindos",
+      "postal_code": [
+        "30410",
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Toritos",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Los Tulipanes",
+      "postal_code": [
+        "30406",
+        "30424",
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Luis Diaz Aguilar",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Luis O. Moreno H.",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Macuilapa",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Manuel Martinez",
+      "postal_code": [
+        "30416"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Marcos Gomez",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Marcos Perez Perez",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Mariano Perez Diaz (La Joya)",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Martin Rios",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Merida",
+      "postal_code": [
+        "30413"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Mesitalia",
+      "postal_code": [
+        "30410"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Miguel angel Luna",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Miguel Chacon",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Miramar",
+      "postal_code": [
+        "30406"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Miramar (El Tempisque)",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Miravalle",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Monarca",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Monarcas",
+      "postal_code": [
+        "30413"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Monserrat",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Monte Carlo",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Monte Claro Santa Cruz",
+      "postal_code": [
+        "30409"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Montecristo",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Monte Cristo",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Monte de los Olivos (La Mona)",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Monte Oreb",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Monterrey",
+      "postal_code": [
+        "30424",
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Monte Sinai Dos (El Fenix)",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Monte Sinai Dos (Los Horcones)",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Morelia",
+      "postal_code": [
+        "30412"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Nancital",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Nazareth",
+      "postal_code": [
+        "30417",
+        "30424",
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Nueva Esperanza",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Nueva Esperanza 2a. Seccion",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Nueva Liberacion",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Nueva Libertad",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Nueva Pimienta",
+      "postal_code": [
+        "30428"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Nueva Puebla",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Nueva Reforma (El Recreo)",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Nuevas Maravillas",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Nueva Tenochtitlan (Rizo de Oro)",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Nueva Venecia",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Nueva Vida",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Nuevo Coyoacan",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Nuevo Jerusalen",
+      "postal_code": [
+        "30426"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Nuevo Mundo",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Nuevo Sinai",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Obrera Campesina",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Ocotlan",
+      "postal_code": [
+        "30407",
+        "30413"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "30412"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Ojo de Agua (Unesco)",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Orizaba",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Pablo Salazar",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Palmira",
+      "postal_code": [
+        "30406"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Palo Blanco",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Palomares",
+      "postal_code": [
+        "30428"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Paraiso",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Paraje los Patos",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Pascual Lopez",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Paso Real",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Patria Nueva",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Pena de Horeb",
+      "postal_code": [
+        "30410"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Pena Flor",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Penjamo",
+      "postal_code": [
+        "30415",
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Piedra Azul",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Piedra Pintada",
+      "postal_code": [
+        "30413"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Piedra Roja",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Pimienta Berlin",
+      "postal_code": [
+        "30428"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Plan de Guadalupe Dos",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Portales de Cintalapa",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Poza Rica",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Productores de Sorgo",
+      "postal_code": [
+        "30416"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Puerta Dorada",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Puerto Barrio",
+      "postal_code": [
+        "30413"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Purisima Concepcion (Loma Colorada)",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Quintilo Velazquez L",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Rancho Alegre",
+      "postal_code": [
+        "30420",
+        "30425",
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Rancho Bonito",
+      "postal_code": [
+        "30406",
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Rancho Chico",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Rancho Cupido",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Rancho Escondido",
+      "postal_code": [
+        "30407",
+        "30413",
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Rancho Francisca",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Rancho Quemado",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Rancho Verde",
+      "postal_code": [
+        "30406",
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Rincon Antonio",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Rincon las Minas",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Rincon Sandia",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Rio Grande",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Rio Limon (Los Mangos)",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Rio Negro (Pueblo Viejo)",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Roberto Barrios",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Romi",
+      "postal_code": [
+        "30409"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Rosember Lopez Escobar",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Rusbel Cruz P.",
+      "postal_code": [
+        "30410"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Sagrado Corazon",
+      "postal_code": [
+        "30406"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Sagrado Corazon de Jesus",
+      "postal_code": [
+        "30415",
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Salomon Gonzalez Blanco",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Salto de Agua",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Andres",
+      "postal_code": [
+        "30420",
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San angel",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "30406",
+        "30407",
+        "30409",
+        "30410",
+        "30415",
+        "30420",
+        "30423",
+        "30424",
+        "30425",
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Antonio del Carmen",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Antonio del Rio",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Antonio (Lindavista)",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Bartolo",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "30420",
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Cayetano",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Damian",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Diego",
+      "postal_code": [
+        "30413"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Fernando",
+      "postal_code": [
+        "30416",
+        "30425",
+        "30428"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "30400",
+        "30406",
+        "30407",
+        "30415",
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Francisco Hojaman",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Francisco (La Vibora)",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Ignacio",
+      "postal_code": [
+        "30413"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Isidro las Pinuelas",
+      "postal_code": [
+        "30409"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Jacinto",
+      "postal_code": [
+        "30420",
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Jesus",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Joaquin",
+      "postal_code": [
+        "30417",
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Jorge",
+      "postal_code": [
+        "30406"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Jose",
+      "postal_code": [
+        "30406",
+        "30410",
+        "30413",
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Jose Betania",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Jose del Bado",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Jose (El Cuajilote)",
+      "postal_code": [
+        "30413"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Joseito",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Jose las Flores",
+      "postal_code": [
+        "30416"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Jose la Verdad",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Jose Montecristo",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Jose Montenegro",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Jose Naranjal",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Jose Puerto Rico",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Juan",
+      "postal_code": [
+        "30415",
+        "30417",
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Juan de Dios",
+      "postal_code": [
+        "30410"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Juan del Rio",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Juanito",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Judas (San Jacinto)",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Juditas",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Lucas",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Luis",
+      "postal_code": [
+        "30406",
+        "30413",
+        "30423",
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "30400",
+        "30416",
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Martin",
+      "postal_code": [
+        "30400",
+        "30413"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Mateo",
+      "postal_code": [
+        "30425",
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "30413",
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "30406",
+        "30422"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Pedro de las Palmas",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Pedro las Palmas Dos",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "30413",
+        "30415",
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Ramon",
+      "postal_code": [
+        "30406",
+        "30413",
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Raul",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Ricardo",
+      "postal_code": [
+        "30410",
+        "30412"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Roque",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "30416",
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Santa Anita",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "30400",
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Santa Clara",
+      "postal_code": [
+        "30407",
+        "30413",
+        "30417",
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "30400",
+        "30416",
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Santa Ines",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Santa Isabel",
+      "postal_code": [
+        "30407",
+        "30416"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Santa Julia",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Santa Lidia",
+      "postal_code": [
+        "30417"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "30413",
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Santa Martha",
+      "postal_code": [
+        "30407",
+        "30410",
+        "30413",
+        "30415",
+        "30420",
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Santa Patricia",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "30407",
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Santa Rita Laguna Seca",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Santa Rita Uno",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "30406",
+        "30409",
+        "30413",
+        "30417",
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "30420",
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Santa Teresita",
+      "postal_code": [
+        "30409"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Santiago",
+      "postal_code": [
+        "30413",
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "30400",
+        "30417",
+        "30420",
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "San Vicente",
+      "postal_code": [
+        "30415",
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Seguro Social",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Senor Rufino",
+      "postal_code": [
+        "30410"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Siete Hermanos",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Simon Bolivar (El Transval)",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Sin Pensar",
+      "postal_code": [
+        "30409"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Soledad del Bosque",
+      "postal_code": [
+        "30423"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Solo Dios",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Solo un Camino",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Sonora",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Tacuazin",
+      "postal_code": [
+        "30409"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Tatachepe",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Tehuacan",
+      "postal_code": [
+        "30427"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Tepeyac",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Tierra Bendita",
+      "postal_code": [
+        "30413"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Todos Santos",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Tres Hermanos",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Tres Piedras",
+      "postal_code": [
+        "30407",
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Triunfo de Madero",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Tuxtitla",
+      "postal_code": [
+        "30406"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "ultimo de Mayo",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Una de Gato",
+      "postal_code": [
+        "30429"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Unidad Modelo",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Union Ejidal",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Union Pastrana",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Urbana",
+      "postal_code": [
+        "30400"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Urbano Martinez",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Valle de Corzo (San Fernando)",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Valle Dorado",
+      "postal_code": [
+        "30407"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Veinte de Noviembre",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Venecia",
+      "postal_code": [
+        "30428"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Venustiano Carranza",
+      "postal_code": [
+        "30415",
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Veracruz",
+      "postal_code": [
+        "30407",
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Vesubio",
+      "postal_code": [
+        "30416"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Villa Corona",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Villa de los alamos",
+      "postal_code": [
+        "30410"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Villa del Rio",
+      "postal_code": [
+        "30415"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Villahermosa",
+      "postal_code": [
+        "30410"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Villa Morelos",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Vista Alegre (El Mercadito)",
+      "postal_code": [
+        "30424"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "30407",
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Xochimilco",
+      "postal_code": [
+        "30412"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Yerbasanta",
+      "postal_code": [
+        "30425"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Zacualpa",
+      "postal_code": [
+        "30420"
+      ]
+    },
+    {
+      "city": "Cintalapa",
+      "colonia": "Zapote Negro",
+      "postal_code": [
+        "30412"
+      ]
+    }
+  ]
+}

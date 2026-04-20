@@ -1,0 +1,691 @@
+{
+  "data": [
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Arroyo de la Barranca (Colonia los Cobos)",
+      "postal_code": [
+        "95466"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Boca del Barco (Boca de San Juan)",
+      "postal_code": [
+        "95479"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Boca de Martintela",
+      "postal_code": [
+        "95467"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Boca de San Miguel",
+      "postal_code": [
+        "95470"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Bodeguillas",
+      "postal_code": [
+        "95479"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "95468"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Bugambilia",
+      "postal_code": [
+        "95468"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Casas Viejas",
+      "postal_code": [
+        "95472"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Cerro de la Gallarda",
+      "postal_code": [
+        "95479"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Chapultepec (Chapultes)",
+      "postal_code": [
+        "95474"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Chinalco",
+      "postal_code": [
+        "95472"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Consolacion",
+      "postal_code": [
+        "95467"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "95462"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "De Los Maestros",
+      "postal_code": [
+        "95465"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Ejido el Saladito",
+      "postal_code": [
+        "95468"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "El Ciruelo",
+      "postal_code": [
+        "95468",
+        "95473"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "El Espinal",
+      "postal_code": [
+        "95469"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "El Gas",
+      "postal_code": [
+        "95465"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "El Hornero (Francisco J. Moreno)",
+      "postal_code": [
+        "95478"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "El Jarocho (El Hatillo)",
+      "postal_code": [
+        "95470"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "El Jobo",
+      "postal_code": [
+        "95478"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "El Limon (San Jose de Chazaro)",
+      "postal_code": [
+        "95473"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "El Marques",
+      "postal_code": [
+        "95476"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "El Nacaste",
+      "postal_code": [
+        "95468"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "El Pajaro",
+      "postal_code": [
+        "95468"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "El Retiro",
+      "postal_code": [
+        "95463"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "El Rincon de Gertrudis",
+      "postal_code": [
+        "95466"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "El Suchil Dos",
+      "postal_code": [
+        "95477"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "El Suchil Uno",
+      "postal_code": [
+        "95477"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "El Vergel (La Berenjena)",
+      "postal_code": [
+        "95474"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "El Volantin",
+      "postal_code": [
+        "95468"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "95473"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Flor del Campo",
+      "postal_code": [
+        "95463"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Hacienda Vieja",
+      "postal_code": [
+        "95476"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "La Barranca",
+      "postal_code": [
+        "95468"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "La Candelaria",
+      "postal_code": [
+        "95477"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "La Carbonera",
+      "postal_code": [
+        "95477"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "La Cerquilla",
+      "postal_code": [
+        "95478"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "La Corriente",
+      "postal_code": [
+        "95478"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "La Gallarda",
+      "postal_code": [
+        "95476"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "La Guadalupe",
+      "postal_code": [
+        "95468"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Laguna Verde",
+      "postal_code": [
+        "95478"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "La Magdalena",
+      "postal_code": [
+        "95468"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "La Palmita",
+      "postal_code": [
+        "95469"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "La Patrona",
+      "postal_code": [
+        "95473"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "La Paz (Poblado Grupo la Paz)",
+      "postal_code": [
+        "95476"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "95466"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "La Puente",
+      "postal_code": [
+        "95479"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "La Punta del Dormido",
+      "postal_code": [
+        "95466"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Las Amapolas",
+      "postal_code": [
+        "95474"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Las Canillas",
+      "postal_code": [
+        "95479"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Linda Vista",
+      "postal_code": [
+        "95468"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Loma de Chumiapa",
+      "postal_code": [
+        "95470"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Los Amates",
+      "postal_code": [
+        "95469"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Los Jobos Altos (Sal si Puedes)",
+      "postal_code": [
+        "95473"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "95464"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Los Zapotillos",
+      "postal_code": [
+        "95474"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Mano Perdida (La Nueva Reforma)",
+      "postal_code": [
+        "95468"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Mata de Chile",
+      "postal_code": [
+        "95470"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Miguel Aleman Valdez",
+      "postal_code": [
+        "95464"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Mundo Nuevo",
+      "postal_code": [
+        "95469"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Nueva",
+      "postal_code": [
+        "95462"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Nueva Era",
+      "postal_code": [
+        "95468"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Palma Sola",
+      "postal_code": [
+        "95479"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Palmira",
+      "postal_code": [
+        "95465"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Palo Alto (Barranca del Limon)",
+      "postal_code": [
+        "95472"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Perez y Jimenez",
+      "postal_code": [
+        "95468"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Playa de la Gloria",
+      "postal_code": [
+        "95467"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Playa de las aguilas (La Vuelta del aguila)",
+      "postal_code": [
+        "95467"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Playa Martinez",
+      "postal_code": [
+        "95466"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Popular",
+      "postal_code": [
+        "95463"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Remolino de Aguilera",
+      "postal_code": [
+        "95477"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Remolino de Pavan",
+      "postal_code": [
+        "95475"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "SAHOP",
+      "postal_code": [
+        "95462"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Salvador Diaz Miron",
+      "postal_code": [
+        "95464"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "95472"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "95468"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "San Felipe",
+      "postal_code": [
+        "95479"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "San Francisco los Cocos",
+      "postal_code": [
+        "95463"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "95476"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "San Jeronimo",
+      "postal_code": [
+        "95468"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "San Joaquin",
+      "postal_code": [
+        "95469"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "San Jose de Chazaro",
+      "postal_code": [
+        "95474"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "San Mateo",
+      "postal_code": [
+        "95463"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "San Modesto",
+      "postal_code": [
+        "95475"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "95474"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "San Ruperto",
+      "postal_code": [
+        "95469"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "95464"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "95468"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Santa Julia",
+      "postal_code": [
+        "95473"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "95467"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Santa Rosalia",
+      "postal_code": [
+        "95475"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Seis de Enero",
+      "postal_code": [
+        "95476"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Tierra Nueva",
+      "postal_code": [
+        "95466"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Tierra Nueva (Ejido el Zapotal)",
+      "postal_code": [
+        "95475"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Tlacotalpan",
+      "postal_code": [
+        "95460"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Tres Bocas",
+      "postal_code": [
+        "95468"
+      ]
+    },
+    {
+      "city": "Tlacotalpan",
+      "colonia": "Vuelta de Piotitan",
+      "postal_code": [
+        "95478"
+      ]
+    }
+  ]
+}

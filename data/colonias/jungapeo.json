@@ -1,0 +1,502 @@
+{
+  "data": [
+    {
+      "city": "Jungapeo",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "61473"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Agua Amarilla",
+      "postal_code": [
+        "61475"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Agua Salada",
+      "postal_code": [
+        "61473"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Barbecho Colorado",
+      "postal_code": [
+        "61487"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Cerrito del Muerto",
+      "postal_code": [
+        "61472"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Colonia Nueva",
+      "postal_code": [
+        "61474"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Coporo",
+      "postal_code": [
+        "61487"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Cuatro Ojos",
+      "postal_code": [
+        "61487"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "El Aleman",
+      "postal_code": [
+        "61470"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "61487"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "El Barro",
+      "postal_code": [
+        "61483"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "61480"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "El Carrizo",
+      "postal_code": [
+        "61473"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "El Cirian",
+      "postal_code": [
+        "61480",
+        "61486"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "El Espinal",
+      "postal_code": [
+        "61483"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "El Guayabal",
+      "postal_code": [
+        "61470"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "El Mango",
+      "postal_code": [
+        "61474"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "El Mezquite",
+      "postal_code": [
+        "61473"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "El Paso",
+      "postal_code": [
+        "61493"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "El Puerto de Jungapeo",
+      "postal_code": [
+        "61473"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "El Rosal (Los Hornos)",
+      "postal_code": [
+        "61470"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "El Salitre",
+      "postal_code": [
+        "61486"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "El Tamarindo",
+      "postal_code": [
+        "61477"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "El Tepeguaje",
+      "postal_code": [
+        "61475"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "El Zapotal",
+      "postal_code": [
+        "61470"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Huanguitio",
+      "postal_code": [
+        "61498"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Jungapeo de Juarez",
+      "postal_code": [
+        "61470"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "La Camelina",
+      "postal_code": [
+        "61472"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "61486"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "La Copalera",
+      "postal_code": [
+        "61487"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "61470"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "La Escalera",
+      "postal_code": [
+        "61470"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "La Florida",
+      "postal_code": [
+        "61493"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "La Garita",
+      "postal_code": [
+        "61475"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "La Granja",
+      "postal_code": [
+        "61475"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "La Laja",
+      "postal_code": [
+        "61490"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "La Mesa del Campo",
+      "postal_code": [
+        "61498"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "La Miel",
+      "postal_code": [
+        "61472"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "La Mina",
+      "postal_code": [
+        "61487"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "La Mora",
+      "postal_code": [
+        "61490"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Las Anonas",
+      "postal_code": [
+        "61475"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Las Canoas",
+      "postal_code": [
+        "61472"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Las Cuchillas",
+      "postal_code": [
+        "61483"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Las Escobas",
+      "postal_code": [
+        "61485"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Las Guasimas",
+      "postal_code": [
+        "61487"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "61477"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Las Pilas",
+      "postal_code": [
+        "61473"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Las Suertes",
+      "postal_code": [
+        "61487"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "61475"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "La Vega",
+      "postal_code": [
+        "61486"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "La Yerbabuena",
+      "postal_code": [
+        "61484"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "61472"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Los Almendros",
+      "postal_code": [
+        "61470"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "61470"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Los Nogales",
+      "postal_code": [
+        "61483"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Los Nunez",
+      "postal_code": [
+        "61473"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Los Salas",
+      "postal_code": [
+        "61473"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Los Solares",
+      "postal_code": [
+        "61470"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Los Viveros",
+      "postal_code": [
+        "61470"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Ojo Seco",
+      "postal_code": [
+        "61477"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Piedras de Lumbre",
+      "postal_code": [
+        "61473"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Pino Solo",
+      "postal_code": [
+        "61483"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Pucuaro",
+      "postal_code": [
+        "61477"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Pueblo Viejo",
+      "postal_code": [
+        "61483"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Puerto de la Miel",
+      "postal_code": [
+        "61474"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Puerto Itziapo",
+      "postal_code": [
+        "61486"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "San Jose Purua",
+      "postal_code": [
+        "61475"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "61470"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Tepangareo",
+      "postal_code": [
+        "61470"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Toluquilla",
+      "postal_code": [
+        "61493"
+      ]
+    },
+    {
+      "city": "Jungapeo",
+      "colonia": "Vistabella",
+      "postal_code": [
+        "61470"
+      ]
+    }
+  ]
+}

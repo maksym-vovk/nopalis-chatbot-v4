@@ -1,0 +1,375 @@
+{
+  "data": [
+    {
+      "city": "Frontera",
+      "colonia": "10 de Mayo",
+      "postal_code": [
+        "25668"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Aeropuerto",
+      "postal_code": [
+        "25617"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Americana",
+      "postal_code": [
+        "25630"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Ampliacion la Cruz Tercer Sector",
+      "postal_code": [
+        "25800"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Ampliacion Sierrita",
+      "postal_code": [
+        "25628"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Aviacion",
+      "postal_code": [
+        "25617"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "25650"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Cordon Industrial",
+      "postal_code": [
+        "25618"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Diana Laura Riojas de Colosio",
+      "postal_code": [
+        "25644"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Doctor Esteban Martinez",
+      "postal_code": [
+        "25810"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "El Alacran",
+      "postal_code": [
+        "25630"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "El Borrego (Pueblo Nuevo)",
+      "postal_code": [
+        "25805"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Elsa Hernandez",
+      "postal_code": [
+        "25626"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Felipe Pescador",
+      "postal_code": [
+        "25629"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Ferrocarrilera",
+      "postal_code": [
+        "25629"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Fidencio Mendoza Castillo [Sector de Produccion 1]",
+      "postal_code": [
+        "25643"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Fraccion Ejidal Pozuelos de Abajo",
+      "postal_code": [
+        "25802"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Frontera Centro",
+      "postal_code": [
+        "25600"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Guadalupe Borja de Diaz Ordaz",
+      "postal_code": [
+        "25680"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Hermosa Provincia",
+      "postal_code": [
+        "25644"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Heroe de Nacozari",
+      "postal_code": [
+        "25610"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Huizachal",
+      "postal_code": [
+        "25617"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Independencia",
+      "postal_code": [
+        "25670"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Industrial",
+      "postal_code": [
+        "25618"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Industrial Aeropuerto",
+      "postal_code": [
+        "25617"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Industrial Fundidores",
+      "postal_code": [
+        "25643"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Jesus Garcia Corona",
+      "postal_code": [
+        "25629"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "25800"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "La Mota",
+      "postal_code": [
+        "25823"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "La Polka 1",
+      "postal_code": [
+        "25815"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "25669"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "25619"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "25629"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Magisterio",
+      "postal_code": [
+        "25617"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Monte Alban",
+      "postal_code": [
+        "25617"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Monterreal",
+      "postal_code": [
+        "25629"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Morelos",
+      "postal_code": [
+        "25626"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Nuevo Monterreal",
+      "postal_code": [
+        "25629"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Nuevo Poblado de Fresnillo (Fresnillo)",
+      "postal_code": [
+        "25802"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Occidental",
+      "postal_code": [
+        "25640"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Ocho de Enero",
+      "postal_code": [
+        "25800"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Paraiso",
+      "postal_code": [
+        "25669"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "PEMEX",
+      "postal_code": [
+        "25630"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Pozuelos de Arriba",
+      "postal_code": [
+        "25820"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Praderas del Norte",
+      "postal_code": [
+        "25627"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Regidores",
+      "postal_code": [
+        "25618"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Roma",
+      "postal_code": [
+        "25660"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "25810"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "San Cristobal",
+      "postal_code": [
+        "25619"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Sierrita",
+      "postal_code": [
+        "25628"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Teksid",
+      "postal_code": [
+        "25616"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Vanesa Guerrero",
+      "postal_code": [
+        "25644"
+      ]
+    },
+    {
+      "city": "Frontera",
+      "colonia": "Venustiano Carranza",
+      "postal_code": [
+        "25640"
+      ]
+    }
+  ]
+}

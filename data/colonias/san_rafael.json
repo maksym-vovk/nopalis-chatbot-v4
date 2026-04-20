@@ -1,0 +1,383 @@
+{
+  "data": [
+    {
+      "city": "San Rafael",
+      "colonia": "13 de Diciembre",
+      "postal_code": [
+        "93620"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Ampliacion Manuel avila Camacho",
+      "postal_code": [
+        "93626"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Arroyo Zarco",
+      "postal_code": [
+        "93625"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Bella Esperanza",
+      "postal_code": [
+        "93625"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "93625"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Calle Chica",
+      "postal_code": [
+        "93623"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Calle Grande",
+      "postal_code": [
+        "93623"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Cementeras del Pital",
+      "postal_code": [
+        "93624"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Deportiva",
+      "postal_code": [
+        "93620"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "93623"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "El Cabellal",
+      "postal_code": [
+        "93626"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "El Cocal",
+      "postal_code": [
+        "93623"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "El Faisan",
+      "postal_code": [
+        "93625"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "El Guayabal",
+      "postal_code": [
+        "93624"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "El Ojite",
+      "postal_code": [
+        "93623"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "93623"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "El Pireo",
+      "postal_code": [
+        "93620"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "El Pital",
+      "postal_code": [
+        "93624"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "El Tablazo",
+      "postal_code": [
+        "93623"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "93626"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Galvarino Barria Perez",
+      "postal_code": [
+        "93628"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "93629"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Gustavo Del Valle",
+      "postal_code": [
+        "93620"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Ignacio Zaragoza (La Poza)",
+      "postal_code": [
+        "93623"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Isla Santa Rosa",
+      "postal_code": [
+        "93626"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "La Aurora",
+      "postal_code": [
+        "93623"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "La Chancla",
+      "postal_code": [
+        "93623"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "93624"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "La Jungla",
+      "postal_code": [
+        "93620"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "La Pajarera",
+      "postal_code": [
+        "93625"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "La Pitahaya",
+      "postal_code": [
+        "93626"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Las Maravillas",
+      "postal_code": [
+        "93620"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Las Zapateras",
+      "postal_code": [
+        "93620"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Lomas de Arena",
+      "postal_code": [
+        "93623"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Manuel avila Camacho",
+      "postal_code": [
+        "93626"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Mata de Platano",
+      "postal_code": [
+        "93626"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Melchor Ocampo",
+      "postal_code": [
+        "93623"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Nueva",
+      "postal_code": [
+        "93620"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Nuevo Faisan",
+      "postal_code": [
+        "93625"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Paso de Telaya",
+      "postal_code": [
+        "93624"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Picamosco",
+      "postal_code": [
+        "93620"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Puente Casitas",
+      "postal_code": [
+        "93623"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Puntilla Aldama",
+      "postal_code": [
+        "93628"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Rio Mar",
+      "postal_code": [
+        "93623"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "93626"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "San Rafael Centro",
+      "postal_code": [
+        "93620"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Santa Adelaida",
+      "postal_code": [
+        "93627"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "93627"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Tepetates",
+      "postal_code": [
+        "93629"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Tres Bocas",
+      "postal_code": [
+        "93627"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Tres Encinos",
+      "postal_code": [
+        "93627"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "ursulo Galvan",
+      "postal_code": [
+        "93625"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Vega de San Marcos",
+      "postal_code": [
+        "93625",
+        "93628"
+      ]
+    },
+    {
+      "city": "San Rafael",
+      "colonia": "Zanjas de Arena",
+      "postal_code": [
+        "93626"
+      ]
+    }
+  ]
+}

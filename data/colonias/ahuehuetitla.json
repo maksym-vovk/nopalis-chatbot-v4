@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Ahuehuetitla",
+      "colonia": "Ahuehuetitla",
+      "postal_code": [
+        "74850"
+      ]
+    },
+    {
+      "city": "Ahuehuetitla",
+      "colonia": "El Papayo",
+      "postal_code": [
+        "74855"
+      ]
+    },
+    {
+      "city": "Ahuehuetitla",
+      "colonia": "Guadalupe Alchipini",
+      "postal_code": [
+        "74859"
+      ]
+    },
+    {
+      "city": "Ahuehuetitla",
+      "colonia": "Las Palomas (El Boludo)",
+      "postal_code": [
+        "74853"
+      ]
+    },
+    {
+      "city": "Ahuehuetitla",
+      "colonia": "San Vicente el Penon",
+      "postal_code": [
+        "74853"
+      ]
+    }
+  ]
+}

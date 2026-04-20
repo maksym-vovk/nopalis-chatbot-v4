@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Miguel Piedras",
+      "colonia": "Chidogo",
+      "postal_code": [
+        "69991"
+      ]
+    },
+    {
+      "city": "San Miguel Piedras",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "69990"
+      ]
+    },
+    {
+      "city": "San Miguel Piedras",
+      "colonia": "San Miguel Piedras",
+      "postal_code": [
+        "69990"
+      ]
+    }
+  ]
+}

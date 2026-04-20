@@ -1,0 +1,543 @@
+{
+  "data": [
+    {
+      "city": "Contepec",
+      "colonia": "Agua Caliente",
+      "postal_code": [
+        "61050"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Ampliacion de Buenavista",
+      "postal_code": [
+        "61047"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Ampliacion Parque Industrial (Cuartel Tercero)",
+      "postal_code": [
+        "61024"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Arroyo del Muerto (Presa Santa Teresa)",
+      "postal_code": [
+        "61050"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Atotonilco",
+      "postal_code": [
+        "61047"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Balneario de Buenavista",
+      "postal_code": [
+        "61047"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Bravo",
+      "postal_code": [
+        "61042"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "61041"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Canoas (El Rosario)",
+      "postal_code": [
+        "61054"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Cerrito Unatal",
+      "postal_code": [
+        "61035"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Cerro Agujerado (Cuartel Tercero)",
+      "postal_code": [
+        "61024"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Cerro Colorado",
+      "postal_code": [
+        "61025"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Cerro Prieto",
+      "postal_code": [
+        "61030"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Colonia la Paz (El Zapote)",
+      "postal_code": [
+        "61042"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Colonia los Pirules",
+      "postal_code": [
+        "61041"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Colorado",
+      "postal_code": [
+        "61054"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Contepec",
+      "postal_code": [
+        "61020"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Cuarto",
+      "postal_code": [
+        "61020"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "El Capulin",
+      "postal_code": [
+        "61054"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "El Cereo",
+      "postal_code": [
+        "61043"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "El Cesped",
+      "postal_code": [
+        "61053"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "El Crucero",
+      "postal_code": [
+        "61024"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "El Encino",
+      "postal_code": [
+        "61055"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "El Jagüey",
+      "postal_code": [
+        "61020"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "El Milagro",
+      "postal_code": [
+        "61037"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "El Nogal (Ampliacion San Rafael)",
+      "postal_code": [
+        "61025"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "El Pedregal (Cuartel Cuarto)",
+      "postal_code": [
+        "61020"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "El Redondo",
+      "postal_code": [
+        "61037"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "El Sauz (La Colonia del Sauz)",
+      "postal_code": [
+        "61040"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "El Sombrerito (El Cerrito)",
+      "postal_code": [
+        "61043"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "El Tecolote",
+      "postal_code": [
+        "61036"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "61043"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "El Zorrillo (El Cerro del aguila)",
+      "postal_code": [
+        "61023"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Estacion Contepec",
+      "postal_code": [
+        "61055"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Estanzuelita",
+      "postal_code": [
+        "61037"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "La Alberca",
+      "postal_code": [
+        "61037"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "La Balastrera",
+      "postal_code": [
+        "61047"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "La Estanzuela (La Chiripa)",
+      "postal_code": [
+        "61037"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "La Haciendita (Bordo de la Cruz)",
+      "postal_code": [
+        "61043"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "La Higuerilla (Los Lirios)",
+      "postal_code": [
+        "61040"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "La Ladera",
+      "postal_code": [
+        "61036"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "La Loma",
+      "postal_code": [
+        "61045"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "La Placita",
+      "postal_code": [
+        "61034"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "La Puerta (La Puerta de Tepuxtepec)",
+      "postal_code": [
+        "61030"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "La Rueda",
+      "postal_code": [
+        "61045"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Las Cuevas",
+      "postal_code": [
+        "61046"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "61034"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Las Peritas",
+      "postal_code": [
+        "61023"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Las Pilas",
+      "postal_code": [
+        "61048"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Las Tenerias (Las Tenerias de Tepetongo)",
+      "postal_code": [
+        "61051"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "61036"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Llano Largo (Santa Rosa de Lima)",
+      "postal_code": [
+        "61035"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Loma Colorada",
+      "postal_code": [
+        "61020"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Los Artones",
+      "postal_code": [
+        "61046"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "61054"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Los Pirules",
+      "postal_code": [
+        "61024"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Melchor Ocampo (Pateo)",
+      "postal_code": [
+        "61040"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Mogotes",
+      "postal_code": [
+        "61036"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Nueva Colonia Ampliacion de Atotonilco",
+      "postal_code": [
+        "61047"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Parque Industrial Contepec",
+      "postal_code": [
+        "61024"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Pueblo Nuevo",
+      "postal_code": [
+        "61020"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Puente Negro (San Rafael)",
+      "postal_code": [
+        "61026"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Rancho de los Bolanos",
+      "postal_code": [
+        "61047"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Salto de Tepuxtepec",
+      "postal_code": [
+        "61030"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "61030"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "San Isidro (Ex-Hacienda de San Isidro)",
+      "postal_code": [
+        "61036"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "San Jeronimo",
+      "postal_code": [
+        "61036"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "San Pedro Tarimbaro",
+      "postal_code": [
+        "61042"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "61047"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Santa Maria de los angeles",
+      "postal_code": [
+        "61023"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Santa Maria la Ahogada",
+      "postal_code": [
+        "61025"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Santiago Loma Bonita",
+      "postal_code": [
+        "61040"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Temascales (El Jacal)",
+      "postal_code": [
+        "61037"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Tepetongo",
+      "postal_code": [
+        "61051"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Venta de Bravo",
+      "postal_code": [
+        "61050"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Yereje",
+      "postal_code": [
+        "61035"
+      ]
+    },
+    {
+      "city": "Contepec",
+      "colonia": "Zaragoza (Puerto de Medina)",
+      "postal_code": [
+        "61051"
+      ]
+    }
+  ]
+}

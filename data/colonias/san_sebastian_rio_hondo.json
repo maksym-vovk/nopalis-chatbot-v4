@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Sebastian Rio Hondo",
+      "colonia": "Cieneguilla",
+      "postal_code": [
+        "70878"
+      ]
+    },
+    {
+      "city": "San Sebastian Rio Hondo",
+      "colonia": "San Bernardo",
+      "postal_code": [
+        "70878"
+      ]
+    },
+    {
+      "city": "San Sebastian Rio Hondo",
+      "colonia": "San Sebastian Rio Hondo",
+      "postal_code": [
+        "70877"
+      ]
+    }
+  ]
+}

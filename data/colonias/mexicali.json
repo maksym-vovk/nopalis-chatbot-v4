@@ -1,0 +1,5340 @@
+{
+  "data": [
+    {
+      "city": "Mexicali",
+      "colonia": "1 de Diciembre",
+      "postal_code": [
+        "21260"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "1 de Mayo",
+      "postal_code": [
+        "21399"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "27 de Enero",
+      "postal_code": [
+        "21960"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "27 de Septiembre",
+      "postal_code": [
+        "21170"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "4 Cerro Prieto (Rancho el Roa)",
+      "postal_code": [
+        "21703"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "5 de Julio",
+      "postal_code": [
+        "21387"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "5 de Mayo",
+      "postal_code": [
+        "21980"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Adara Residencial",
+      "postal_code": [
+        "21378"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Adara Residencial Segunda Seccion",
+      "postal_code": [
+        "21378"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "21330"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Aduana Garita 2",
+      "postal_code": [
+        "21229"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Agualeguas",
+      "postal_code": [
+        "21090"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ahumadita",
+      "postal_code": [
+        "21611"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Alameda",
+      "postal_code": [
+        "21215"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Alamitos",
+      "postal_code": [
+        "21210"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "alamo",
+      "postal_code": [
+        "21966"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Alberto Oviedo Mota",
+      "postal_code": [
+        "21730"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Alfredo V. Bonfil",
+      "postal_code": [
+        "21723"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Alianza Para La Produccion",
+      "postal_code": [
+        "21229"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Altaria Residencial",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Alvarado",
+      "postal_code": [
+        "21742"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Alvaro Obregon",
+      "postal_code": [
+        "21902"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ampliacion Bugambilias",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ampliacion Centinela",
+      "postal_code": [
+        "21139"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ampliacion Independencia",
+      "postal_code": [
+        "21290"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ampliacion Jardines del Lago",
+      "postal_code": [
+        "21339"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ampliacion las Fuentes",
+      "postal_code": [
+        "21260"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ampliacion Lucerna",
+      "postal_code": [
+        "21137"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ampliacion Parque Industrial Ex-XXI",
+      "postal_code": [
+        "21254"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ampliacion Popular Santo Nino",
+      "postal_code": [
+        "21190"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ampliacion Progreso",
+      "postal_code": [
+        "21188"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ampliacion Refugio",
+      "postal_code": [
+        "21138"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ampliacion Santa Lucia Progreso",
+      "postal_code": [
+        "21326"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ampliacion San Vizcaino",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ampliacion Solidaridad Social",
+      "postal_code": [
+        "21387"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ampliacion Villa Florida",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ampliacion Xichicalli",
+      "postal_code": [
+        "21353"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Anahuac",
+      "postal_code": [
+        "21060"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Andalucia",
+      "postal_code": [
+        "21217"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "angeles de Puebla",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Antares Residencial",
+      "postal_code": [
+        "21255"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Antea Residencial",
+      "postal_code": [
+        "21254"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Armando Gutierrez",
+      "postal_code": [
+        "21220"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Aurea Residencial",
+      "postal_code": [
+        "21226"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Aurora",
+      "postal_code": [
+        "21340"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Aviacion",
+      "postal_code": [
+        "21230"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Aztecas",
+      "postal_code": [
+        "21137"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Baja California",
+      "postal_code": [
+        "21130"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Balboa Residencial",
+      "postal_code": [
+        "21255"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Balbuena",
+      "postal_code": [
+        "21070"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Barrio alamo",
+      "postal_code": [
+        "21150"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "21150"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "21250",
+        "21703",
+        "21723"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Benito Juarez (Ejido Tecolotes)",
+      "postal_code": [
+        "21900"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Bonaterra Residencial",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Bordo la Rivera",
+      "postal_code": [
+        "21298"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Bordo Okerson (Galeana)",
+      "postal_code": [
+        "21980"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Bordo Wisteria",
+      "postal_code": [
+        "21147"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Bosque del Sol",
+      "postal_code": [
+        "21376"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "21355"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Bugambilias Jardines",
+      "postal_code": [
+        "21600"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Burocrata",
+      "postal_code": [
+        "21020"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Burocratas Federales",
+      "postal_code": [
+        "21298"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Cachanilla",
+      "postal_code": [
+        "21137",
+        "21150",
+        "21385"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Calafia",
+      "postal_code": [
+        "21040"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "California",
+      "postal_code": [
+        "21353"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Caliss",
+      "postal_code": [
+        "21010"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Calzada",
+      "postal_code": [
+        "21225"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Camino del Sur",
+      "postal_code": [
+        "21387"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Caminos del Sol",
+      "postal_code": [
+        "21387"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Camino Viejo",
+      "postal_code": [
+        "21320"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Campo Diecinueve",
+      "postal_code": [
+        "21961"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Campo la Curva (Silva)",
+      "postal_code": [
+        "21800"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Campo Otta (Elias)",
+      "postal_code": [
+        "21723"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Candelario Vela (Colima)",
+      "postal_code": [
+        "21832"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Cantera Residencial",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Carbajal",
+      "postal_code": [
+        "21370"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Carlos Salinas",
+      "postal_code": [
+        "21137"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Carrancita (Venustiano Carranza)",
+      "postal_code": [
+        "21743"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Casa Blanca",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Casa Digna",
+      "postal_code": [
+        "21323"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Casa Magna",
+      "postal_code": [
+        "21354"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Casas Eternas",
+      "postal_code": [
+        "21399"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Catavina",
+      "postal_code": [
+        "21240"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Cauces Federales",
+      "postal_code": [
+        "21802"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "CCI Ejidatarios",
+      "postal_code": [
+        "21160"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Central de Abastos de Mexicali",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Centro Civico",
+      "postal_code": [
+        "21000"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Centro Comercial Nuevo Mexicali",
+      "postal_code": [
+        "21399"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Cerrada Abedul",
+      "postal_code": [
+        "21376"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Cerrada del Sol",
+      "postal_code": [
+        "21225"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Cerro Prieto 2",
+      "postal_code": [
+        "21703"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Cerro Prieto 4",
+      "postal_code": [
+        "21703"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Cerro Prieto 5",
+      "postal_code": [
+        "21700"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Chapultepec",
+      "postal_code": [
+        "21723"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Chapultepec los Pinos",
+      "postal_code": [
+        "21260"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Chiapas",
+      "postal_code": [
+        "21831"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Chiapas 3",
+      "postal_code": [
+        "21832"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Chiapas Dos (Las Cachoras)",
+      "postal_code": [
+        "21832"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Chihuahua",
+      "postal_code": [
+        "21700"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Chimi",
+      "postal_code": [
+        "21700"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Chorizo Morelia (Morelia)",
+      "postal_code": [
+        "21700"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ciudad del Sol",
+      "postal_code": [
+        "21326"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ciudad Deportiva",
+      "postal_code": [
+        "21239"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ciudad Morelos",
+      "postal_code": [
+        "21960"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ciudad Victoria",
+      "postal_code": [
+        "21960"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Club Campestre de Mexicali - Golf",
+      "postal_code": [
+        "21387"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Colima",
+      "postal_code": [
+        "21832"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Colima Dos",
+      "postal_code": [
+        "21832"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Colorado",
+      "postal_code": [
+        "21383"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Compuerta 29 (Veracruz Maritimo)",
+      "postal_code": [
+        "21706"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Compuerta la 24 (Silva)",
+      "postal_code": [
+        "21821"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Compuertas",
+      "postal_code": [
+        "21210",
+        "21218"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Compuertas Carejey (Carehey)",
+      "postal_code": [
+        "21913"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Comunidad Indigena Cucapah el Mayor",
+      "postal_code": [
+        "21742"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Condominio Esperanza Agricola",
+      "postal_code": [
+        "21140"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Conjunto Urbano Esperanza",
+      "postal_code": [
+        "21350"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Constitucion",
+      "postal_code": [
+        "21250"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Constituyentes",
+      "postal_code": [
+        "21060"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Coral Maya",
+      "postal_code": [
+        "21376"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Corceles Residencial",
+      "postal_code": [
+        "21355"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Corregidora",
+      "postal_code": [
+        "21220"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Corsica Residencial",
+      "postal_code": [
+        "21378"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Crucero del Toluca (Toluca)",
+      "postal_code": [
+        "21820"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Cuauhtemoc Norte",
+      "postal_code": [
+        "21200"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Cuauhtemoc Sur",
+      "postal_code": [
+        "21200"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Cucapah Indigena",
+      "postal_code": [
+        "21730"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Cucapah INFONAVIT",
+      "postal_code": [
+        "21340"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Cucapah (Mestizos)",
+      "postal_code": [
+        "21730"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Cucapah Progreso",
+      "postal_code": [
+        "21326"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Cuernavaca",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Cuervitos",
+      "postal_code": [
+        "21963"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Cumbres Provenza",
+      "postal_code": [
+        "21255"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "De ANSA",
+      "postal_code": [
+        "21299"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Del Bosque",
+      "postal_code": [
+        "21801"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Del Rastro",
+      "postal_code": [
+        "21090"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Del Sol",
+      "postal_code": [
+        "21720"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Delta (Estacion Delta)",
+      "postal_code": [
+        "21700"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Del Valle",
+      "postal_code": [
+        "21970"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Desarrollo Urbano Orizaba Sur",
+      "postal_code": [
+        "21135"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Diego Bustamante",
+      "postal_code": [
+        "21387"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Dieguinos",
+      "postal_code": [
+        "21970"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Diez Division Dos",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Distrito Federal",
+      "postal_code": [
+        "21830"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Division del Norte",
+      "postal_code": [
+        "21300"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Doctor Alberto Oviedo Mota (El Indiviso)",
+      "postal_code": [
+        "21810"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Dos Division Dos",
+      "postal_code": [
+        "21383"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Duara Residencial",
+      "postal_code": [
+        "21226"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Durango",
+      "postal_code": [
+        "21735"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ecologicas Campestre",
+      "postal_code": [
+        "21386"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Eguia",
+      "postal_code": [
+        "21150"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ejido Orizaba",
+      "postal_code": [
+        "21160"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ejido Zacatecas",
+      "postal_code": [
+        "21090"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Bordo (Chiapas)",
+      "postal_code": [
+        "21832"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Caiman",
+      "postal_code": [
+        "21740"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Campanario",
+      "postal_code": [
+        "21353"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Chorizo",
+      "postal_code": [
+        "21704",
+        "21905"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Chorizo (Colonia Colorado 1 Campo Leon 1)",
+      "postal_code": [
+        "21614"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Chorizo (Veracruz Dos)",
+      "postal_code": [
+        "21821"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Cipres",
+      "postal_code": [
+        "21384"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Colonial",
+      "postal_code": [
+        "21137"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Coloso",
+      "postal_code": [
+        "21138"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Coloso II",
+      "postal_code": [
+        "21138"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Condor",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Dorado",
+      "postal_code": [
+        "21386"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Electricistas",
+      "postal_code": [
+        "21178"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Encanto",
+      "postal_code": [
+        "21703"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Faro",
+      "postal_code": [
+        "21730"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Eligio Esquivel",
+      "postal_code": [
+        "21110"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Elizaura",
+      "postal_code": [
+        "21399"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Lienzo",
+      "postal_code": [
+        "21258"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Maple",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Maritimo",
+      "postal_code": [
+        "21730"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Milagro",
+      "postal_code": [
+        "21801"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Papago INFONAVIT",
+      "postal_code": [
+        "21185"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "21138"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Peligro",
+      "postal_code": [
+        "21620"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "21185",
+        "21220"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "21138"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Refugio (Silva el Ombligo)",
+      "postal_code": [
+        "21833"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Roble",
+      "postal_code": [
+        "21384"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Robledo",
+      "postal_code": [
+        "21384"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Sahuaro",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Sauce",
+      "postal_code": [
+        "21139"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Sauzal",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Vidrio",
+      "postal_code": [
+        "21080"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Vigia",
+      "postal_code": [
+        "21397"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "El Vigia II",
+      "postal_code": [
+        "21385"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "21384"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Esperanza",
+      "postal_code": [
+        "21140"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Esquer (Colonia Orive de Alba)",
+      "postal_code": [
+        "21960"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Estacion Pescaderos (Kilometro Treinta y Nueve)",
+      "postal_code": [
+        "21710"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Estatutos Juridicos",
+      "postal_code": [
+        "21210"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Esteban Cantu",
+      "postal_code": [
+        "21039",
+        "21320"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Eucaliptos",
+      "postal_code": [
+        "21399"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ex Ejido Coahuila",
+      "postal_code": [
+        "21360"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Familia Mascareno",
+      "postal_code": [
+        "21921"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Felipe angeles",
+      "postal_code": [
+        "21320"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ferrocarril",
+      "postal_code": [
+        "21040"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Finca Los Jazminez",
+      "postal_code": [
+        "21326"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Flores Magon",
+      "postal_code": [
+        "21220",
+        "21220"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "FOVISSSTE",
+      "postal_code": [
+        "21038"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Francisco I Madero",
+      "postal_code": [
+        "21390"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "21386"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Francisco Santana Peralta",
+      "postal_code": [
+        "21820",
+        "21970"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Francisco Zarco",
+      "postal_code": [
+        "21185"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Frontera",
+      "postal_code": [
+        "21396"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Fronteriza",
+      "postal_code": [
+        "21110"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Fundadores",
+      "postal_code": [
+        "21327"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Gabriela Mistral",
+      "postal_code": [
+        "21139"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Galvan el Chorizo (Elias)",
+      "postal_code": [
+        "21723"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Gasca",
+      "postal_code": [
+        "21160"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Generales de Mexico",
+      "postal_code": [
+        "21320"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "General Gertrudis Garcia Sanchez",
+      "postal_code": [
+        "21970"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Gigantes del Desierto",
+      "postal_code": [
+        "21190"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Gomez Farias",
+      "postal_code": [
+        "21350"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Gonzalez Ortega",
+      "postal_code": [
+        "21396"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Gonzalez Ortega Norte",
+      "postal_code": [
+        "21396"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Gonzalez Ortega Poniente 1",
+      "postal_code": [
+        "21398"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Gonzalez Ortega Poniente 2",
+      "postal_code": [
+        "21399"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Gonzalez Ortega Poniente 3",
+      "postal_code": [
+        "21399"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Gral. Francisco Murguia (Km. 49)",
+      "postal_code": [
+        "21722"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Granados (Recursos Hidraulicos)",
+      "postal_code": [
+        "21964"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Gran Hacienda",
+      "postal_code": [
+        "21354"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Granjas Arco Iris",
+      "postal_code": [
+        "21600"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Granjas Nuevas",
+      "postal_code": [
+        "21390"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Granjas Santa Cecilia",
+      "postal_code": [
+        "21386"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Granjas Valle Verde",
+      "postal_code": [
+        "21386"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Granjas Virreyes",
+      "postal_code": [
+        "21190"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Gran Segovia",
+      "postal_code": [
+        "21376"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Gran Venecia",
+      "postal_code": [
+        "21353"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Guadalajara",
+      "postal_code": [
+        "21950"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "21720"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Guajardo",
+      "postal_code": [
+        "21050"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Guanajuato",
+      "postal_code": [
+        "21628"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hacienda Bilbao",
+      "postal_code": [
+        "21254"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hacienda de Castilla",
+      "postal_code": [
+        "21327"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hacienda de las Torres",
+      "postal_code": [
+        "21327"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hacienda del Bosque",
+      "postal_code": [
+        "21355"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hacienda de los Portales",
+      "postal_code": [
+        "21327"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hacienda de los Portales 2da Seccion",
+      "postal_code": [
+        "21327"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hacienda de los Portales 3a Seccion",
+      "postal_code": [
+        "21327"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hacienda de los Portales 4a Seccion",
+      "postal_code": [
+        "21327"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hacienda de los Portales 5a Seccion",
+      "postal_code": [
+        "21327"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hacienda de Lourdes",
+      "postal_code": [
+        "21297"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hacienda del Real",
+      "postal_code": [
+        "21353"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hacienda del Rio",
+      "postal_code": [
+        "21399"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hacienda del Sol",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hacienda de Mexicali",
+      "postal_code": [
+        "21135"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hacienda de Zempoala",
+      "postal_code": [
+        "21135"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hacienda Dorada",
+      "postal_code": [
+        "21376"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hacienda el Pilar",
+      "postal_code": [
+        "21298"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hacienda La Encantada",
+      "postal_code": [
+        "21323"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hacienda Malaga",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hacienda Real",
+      "postal_code": [
+        "21353"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Haciendas Orizaba",
+      "postal_code": [
+        "21135"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Haro Barnet",
+      "postal_code": [
+        "21390"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hechicera",
+      "postal_code": [
+        "21620"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hector Corella",
+      "postal_code": [
+        "21150"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hega",
+      "postal_code": [
+        "21220"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Heriberto Jara",
+      "postal_code": [
+        "21611"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Heriberto Jara Seccion Coronita",
+      "postal_code": [
+        "21611"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hermanos Fuentes",
+      "postal_code": [
+        "21190"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hermosillo",
+      "postal_code": [
+        "21840"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Heroes de la Patria",
+      "postal_code": [
+        "21801"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Herradura",
+      "postal_code": [
+        "21600"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "21389",
+        "21700"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hindues",
+      "postal_code": [
+        "21800"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Hipolito Renteria",
+      "postal_code": [
+        "21703"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Huertas de La Progreso",
+      "postal_code": [
+        "21190"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Huertas del Colorado",
+      "postal_code": [
+        "21384"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Huertas del Sol",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ignacio Allende",
+      "postal_code": [
+        "21390"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Imperial",
+      "postal_code": [
+        "21220"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "IMSS Siglo XXI",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Indeco",
+      "postal_code": [
+        "21720"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Indeco Anahuac",
+      "postal_code": [
+        "21060"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Independencia",
+      "postal_code": [
+        "21290",
+        "21740"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Industrial",
+      "postal_code": [
+        "21010"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Insurgentes Este",
+      "postal_code": [
+        "21280"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Insurgentes Oeste",
+      "postal_code": [
+        "21280"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Irapuato",
+      "postal_code": [
+        "21910"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Islas Agrarias A",
+      "postal_code": [
+        "21600"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Islas Agrarias B",
+      "postal_code": [
+        "21600"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Jabonera",
+      "postal_code": [
+        "21150"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Jalapa",
+      "postal_code": [
+        "21700"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Jalisco",
+      "postal_code": [
+        "21627"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Janitzio",
+      "postal_code": [
+        "21950",
+        "21951"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Jardines de Calafia",
+      "postal_code": [
+        "21387"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Jardines de La Arboleda",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Jardines de La Progreso",
+      "postal_code": [
+        "21326"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Jardines del Lago",
+      "postal_code": [
+        "21330"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Jardines de Loreto",
+      "postal_code": [
+        "21600"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Jardines del Valle",
+      "postal_code": [
+        "21270"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Jardines de Mendoza",
+      "postal_code": [
+        "21600"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Jesus Gonzalez Ortega",
+      "postal_code": [
+        "21731"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Jesus Sanson Flores",
+      "postal_code": [
+        "21703"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Jiquilpan",
+      "postal_code": [
+        "21900"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Joaquin Murrieta",
+      "postal_code": [
+        "21320"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Josefa Ortiz de Dominguez",
+      "postal_code": [
+        "21220"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Jose Lopez Portillo (Venustiano Carranza)",
+      "postal_code": [
+        "21731"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Jose Maria Rodriguez",
+      "postal_code": [
+        "21963"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Josue Molina",
+      "postal_code": [
+        "21060"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Justo Sierra",
+      "postal_code": [
+        "21230",
+        "21380"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Juventud Deportiva 2000",
+      "postal_code": [
+        "21353"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "La 21 (Silva)",
+      "postal_code": [
+        "21800"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "La 27 (Campamento SARH Km. 27)",
+      "postal_code": [
+        "21951"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "La Antigua",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "La Bodega ISSSTE",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "La Condesa",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "La Curva",
+      "postal_code": [
+        "21903"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "La Division (Venustiano Carranza)",
+      "postal_code": [
+        "21731"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ladrillera",
+      "postal_code": [
+        "21395",
+        "21970"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ladrillera Campestre",
+      "postal_code": [
+        "21387"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ladrilleros Santa Isabel",
+      "postal_code": [
+        "21137"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "La Enramada",
+      "postal_code": [
+        "21399"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "21230"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "La Estrella",
+      "postal_code": [
+        "21139"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "La Flor",
+      "postal_code": [
+        "21700"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Lago del Sol Residencial",
+      "postal_code": [
+        "21387"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Lago de Xochimilco",
+      "postal_code": [
+        "21353"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Laguna Campestre",
+      "postal_code": [
+        "21387"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "La Jolla",
+      "postal_code": [
+        "21258"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "La Luna",
+      "postal_code": [
+        "21138"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "La Mariana",
+      "postal_code": [
+        "21731"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "La Puerta",
+      "postal_code": [
+        "21730"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "La Quince (Tepic)",
+      "postal_code": [
+        "21961"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "La Rioja",
+      "postal_code": [
+        "21600"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Las Aves",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Las Bugambilias Inn",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Las Californias",
+      "postal_code": [
+        "21394"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Las Cumbres",
+      "postal_code": [
+        "21910"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Las Delicias",
+      "postal_code": [
+        "21297"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "21330"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Las Fuentes",
+      "postal_code": [
+        "21230"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Las Garzas",
+      "postal_code": [
+        "21229"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Las Hadas",
+      "postal_code": [
+        "21216"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Las Magdalenas",
+      "postal_code": [
+        "21135"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "21137"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Las Misiones",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "21360",
+        "21730"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Las Palmeras",
+      "postal_code": [
+        "21135"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Las Palomas",
+      "postal_code": [
+        "21188"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Las Piramides",
+      "postal_code": [
+        "21326"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Las Reinas",
+      "postal_code": [
+        "21139"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "La Toscana Residencial",
+      "postal_code": [
+        "21378"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "La Veinticuatro (Silva)",
+      "postal_code": [
+        "21821"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "La Ventana Residencial",
+      "postal_code": [
+        "21387"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "21370",
+        "21910"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Lazaro Cardenas (La Veintiocho)",
+      "postal_code": [
+        "21821"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Leona Vicario",
+      "postal_code": [
+        "21743"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Leyes de Reforma",
+      "postal_code": [
+        "21964"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Libertad",
+      "postal_code": [
+        "21030"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Licenciado Adolfo Lopez Mateos",
+      "postal_code": [
+        "21730"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "21140"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Lomas de Abasolo",
+      "postal_code": [
+        "21378"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Los Arcos",
+      "postal_code": [
+        "21079"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Los Balcones",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Los Encinos",
+      "postal_code": [
+        "21384"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Los Faisanes",
+      "postal_code": [
+        "21135"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "21399"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Los Manantiales",
+      "postal_code": [
+        "21600"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Los Milagros",
+      "postal_code": [
+        "21138"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "21387"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Los Olivos",
+      "postal_code": [
+        "21135"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Los Perez",
+      "postal_code": [
+        "21920"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "21230"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Los Pinos (Silva)",
+      "postal_code": [
+        "21821"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Los Prados",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "21298"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Los Vinedos",
+      "postal_code": [
+        "21138"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Lucerna",
+      "postal_code": [
+        "21137"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Lucio Blanco",
+      "postal_code": [
+        "21320"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "21137"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Luis Encinas Johnson",
+      "postal_code": [
+        "21813"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Madeira Residencia",
+      "postal_code": [
+        "21320"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Madero",
+      "postal_code": [
+        "21723"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Maestros Democraticos de La Base",
+      "postal_code": [
+        "21298"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Maestros Estatales",
+      "postal_code": [
+        "21280"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Maran",
+      "postal_code": [
+        "21385"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Margaritas",
+      "postal_code": [
+        "21360"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mariano Abasolo",
+      "postal_code": [
+        "21600"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Martha Welch",
+      "postal_code": [
+        "21179"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Martires de 1906",
+      "postal_code": [
+        "21250"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Martires de La Democracia",
+      "postal_code": [
+        "21135"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mayakhan Residencial",
+      "postal_code": [
+        "21376"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mayos",
+      "postal_code": [
+        "21137"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mediterraneo",
+      "postal_code": [
+        "21188"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Merida",
+      "postal_code": [
+        "21920"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mesa Arenosa de Andrade (Villa Zapata)",
+      "postal_code": [
+        "21925"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mexicali",
+      "postal_code": [
+        "21396"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mexicali del Sol",
+      "postal_code": [
+        "21399"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mexicali (Gral. Rodolfo Sanchez Taboada)",
+      "postal_code": [
+        "21609"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mexicali II",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mexicali Tianguis",
+      "postal_code": [
+        "21150"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mexico",
+      "postal_code": [
+        "21900"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mezquital",
+      "postal_code": [
+        "21327",
+        "21841"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Michoacan de Ocampo",
+      "postal_code": [
+        "21700"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Miguel Aleman",
+      "postal_code": [
+        "21930"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Militar",
+      "postal_code": [
+        "21170"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Miraflores",
+      "postal_code": [
+        "21250"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mirasol",
+      "postal_code": [
+        "21396"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mision de Guadalupe",
+      "postal_code": [
+        "21299"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mision del angel",
+      "postal_code": [
+        "21387"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mision de Loreto",
+      "postal_code": [
+        "21257"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mision del Valle",
+      "postal_code": [
+        "21376"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mision de Puebla",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mision de San Andres",
+      "postal_code": [
+        "21298"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mision de San Antonio",
+      "postal_code": [
+        "21137"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mision de San Carlos",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mision de San Diego de Alcala",
+      "postal_code": [
+        "21137"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mision de San Francisco Javier",
+      "postal_code": [
+        "21137"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mision de San Ignacio",
+      "postal_code": [
+        "21137"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mision de Santo Domingo",
+      "postal_code": [
+        "21298"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mision de Santo Domingo Ampliacion",
+      "postal_code": [
+        "21298"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mision San Adrian",
+      "postal_code": [
+        "21298"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mision San Vizcaino",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mision Viejo",
+      "postal_code": [
+        "21138"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Mision Virreyes",
+      "postal_code": [
+        "21188"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Monarcas Residencial",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Monet Residencial",
+      "postal_code": [
+        "21378"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Monte Alban",
+      "postal_code": [
+        "21340"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Montecarlo",
+      "postal_code": [
+        "21255"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Montecarlo 2a Seccion",
+      "postal_code": [
+        "21255"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Montecarlo 3a Seccion",
+      "postal_code": [
+        "21255"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Monterrey (Colonia Bataquez)",
+      "postal_code": [
+        "21913"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Morelia",
+      "postal_code": [
+        "21700"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Morelos",
+      "postal_code": [
+        "21310"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Municipio Libre",
+      "postal_code": [
+        "21160"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Nacay (Elias)",
+      "postal_code": [
+        "21800"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Nacozari",
+      "postal_code": [
+        "21030"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Nayarit",
+      "postal_code": [
+        "21700"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Nelson",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Netzahualcoyotl",
+      "postal_code": [
+        "21910"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Nicolas Bravo",
+      "postal_code": [
+        "21720"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "NICOYA Desarrollo Industrial",
+      "postal_code": [
+        "21607"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Norte",
+      "postal_code": [
+        "21910"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Nueva",
+      "postal_code": [
+        "21100"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Nueva 18 de Marzo",
+      "postal_code": [
+        "21390"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Nueva Esperanza",
+      "postal_code": [
+        "21050"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Nuevo Amanecer",
+      "postal_code": [
+        "21378"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Nuevo Ideal",
+      "postal_code": [
+        "21224"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Nuevo Leon",
+      "postal_code": [
+        "21705"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Nuevo Mexicali",
+      "postal_code": [
+        "21399"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Nuevo Milenio",
+      "postal_code": [
+        "21387",
+        "21600"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Nuevo Santa Lucia",
+      "postal_code": [
+        "21139"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Oribe Alba",
+      "postal_code": [
+        "21963"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Orizaba",
+      "postal_code": [
+        "21130",
+        "21160"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Orquidea",
+      "postal_code": [
+        "21399"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Oscar Garzon",
+      "postal_code": [
+        "21137"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Pachuca",
+      "postal_code": [
+        "21980"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Pacifica Residencial",
+      "postal_code": [
+        "21323"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Pacifico",
+      "postal_code": [
+        "21703"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Padre Kino",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Palaco",
+      "postal_code": [
+        "21385"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Palmar de Orizaba",
+      "postal_code": [
+        "21135"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Palmar de Santa Anita",
+      "postal_code": [
+        "21376"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Palo Verde",
+      "postal_code": [
+        "21613"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Parajes de Oriente",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Parajes de Puebla",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Parcela 36",
+      "postal_code": [
+        "21140"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Parcela 62",
+      "postal_code": [
+        "21309"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Parcela del Valle",
+      "postal_code": [
+        "21720"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Paredones",
+      "postal_code": [
+        "21920"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Parque Industrial alamo",
+      "postal_code": [
+        "21229"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Parque Industrial Calafia",
+      "postal_code": [
+        "21254"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Parque Industrial Condesa",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Parque Industrial Cucapah",
+      "postal_code": [
+        "21385"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Parque Industrial del Desierto",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Parque Industrial el Dorado",
+      "postal_code": [
+        "21383"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Parque Industrial Ex-XXI",
+      "postal_code": [
+        "21254"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Parque Industrial Nelson II",
+      "postal_code": [
+        "21383"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Parque Industrial Quazar",
+      "postal_code": [
+        "21385"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Pasadina",
+      "postal_code": [
+        "21150"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Pascualitos",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Paseo las Flores",
+      "postal_code": [
+        "21354"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Paseos del Sol",
+      "postal_code": [
+        "21399"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Paseos de Xochimilco",
+      "postal_code": [
+        "21353"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Patzcuaro",
+      "postal_code": [
+        "21706"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Pedregal Turquesa",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Pedro Moreno",
+      "postal_code": [
+        "21320"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Periodista",
+      "postal_code": [
+        "21230"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Pescaderos (Campo la Catorce)",
+      "postal_code": [
+        "21840"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Piedras Negras",
+      "postal_code": [
+        "21903"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Pimsa I",
+      "postal_code": [
+        "21210"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Pimsa II",
+      "postal_code": [
+        "21397"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Pimsa III",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "PIMSA IV",
+      "postal_code": [
+        "21229"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Pioneros de La Progreso",
+      "postal_code": [
+        "21326"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Plan de Ayala",
+      "postal_code": [
+        "21801"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Plaza Universidad",
+      "postal_code": [
+        "21279"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Plutarco Elias Calles",
+      "postal_code": [
+        "21376"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Polvora",
+      "postal_code": [
+        "21620"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Popular 6 de Enero",
+      "postal_code": [
+        "21330"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Popular Centinela",
+      "postal_code": [
+        "21139"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Popular Leandro Valle",
+      "postal_code": [
+        "21387"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Popular Nacionalistas",
+      "postal_code": [
+        "21165"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Porticos del Valle",
+      "postal_code": [
+        "21387"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Praderas del Sol",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Primavera",
+      "postal_code": [
+        "21713"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Primera Seccion",
+      "postal_code": [
+        "21100"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Privada Coahuila",
+      "postal_code": [
+        "21360"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Privada Juarez",
+      "postal_code": [
+        "21370"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Privada Marbella",
+      "postal_code": [
+        "21389"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Privada Rustica",
+      "postal_code": [
+        "21298"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Privada San Miguel",
+      "postal_code": [
+        "21254"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Privadas Campestre",
+      "postal_code": [
+        "21383"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Privada Vistahermosa",
+      "postal_code": [
+        "21225"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Profesores Federales",
+      "postal_code": [
+        "21370"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Progreso",
+      "postal_code": [
+        "21188",
+        "21326"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Prohogar",
+      "postal_code": [
+        "21240"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Prolongacion Alamitos",
+      "postal_code": [
+        "21210"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Puebla",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Pueblo Nuevo",
+      "postal_code": [
+        "21120"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Puente Calabazas",
+      "postal_code": [
+        "21964"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Puente Trevino",
+      "postal_code": [
+        "21930"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Puerta de Hierro",
+      "postal_code": [
+        "21255"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Puerta del Sol",
+      "postal_code": [
+        "21376"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Puerta del Sol 2da Etapa",
+      "postal_code": [
+        "21376"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Puesta de Sol Residencial",
+      "postal_code": [
+        "21188"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Punta de Estrella",
+      "postal_code": [
+        "21399"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Queretaro",
+      "postal_code": [
+        "21620"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Quinta Alcazar de Toledo",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Quinta del Rey",
+      "postal_code": [
+        "21355"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Quinta Granada",
+      "postal_code": [
+        "21355"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Quintana Roo",
+      "postal_code": [
+        "21820"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Quinta Roma (Quinta Cordova)",
+      "postal_code": [
+        "21355"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Rancho La Bodega",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Raza",
+      "postal_code": [
+        "21398"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Reacomodo Rio Colorado",
+      "postal_code": [
+        "21324"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Reacomodo San Fernando",
+      "postal_code": [
+        "21323"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Real del Castillo",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Real del Rio",
+      "postal_code": [
+        "21137"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Real del Rio Residencial 2da Seccion",
+      "postal_code": [
+        "21137"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Real del Sol",
+      "postal_code": [
+        "21254"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Real Victoria",
+      "postal_code": [
+        "21720"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Real Virreyes",
+      "postal_code": [
+        "21190"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Reforma",
+      "postal_code": [
+        "21280"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Renacimiento del Valle",
+      "postal_code": [
+        "21730"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Republica Mexicana",
+      "postal_code": [
+        "21250",
+        "21970"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Reserva Residencial",
+      "postal_code": [
+        "21225"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial Argentina",
+      "postal_code": [
+        "21210"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial Barcelona",
+      "postal_code": [
+        "21323"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial Barcelona II",
+      "postal_code": [
+        "21323"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial Barcelona III",
+      "postal_code": [
+        "21323"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial Casa Maya",
+      "postal_code": [
+        "21255"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial Casa Maya II",
+      "postal_code": [
+        "21255"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial Cerrada del Parque",
+      "postal_code": [
+        "21010"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial Coronado",
+      "postal_code": [
+        "21254"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial del Rio",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial el Lienzo",
+      "postal_code": [
+        "21250"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial Hipico",
+      "postal_code": [
+        "21219"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial Ibiza",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial Los angeles",
+      "postal_code": [
+        "21298"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial Madrid",
+      "postal_code": [
+        "21353"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial Madrid 2a Seccion",
+      "postal_code": [
+        "21353"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial Marsella",
+      "postal_code": [
+        "21225"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial Natura",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial Puerta de Alcala",
+      "postal_code": [
+        "21255"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial Quinta del Centro",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial Quinta del Rey 2a Etapa",
+      "postal_code": [
+        "21355"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial Quinta del Rey 3era. Etapa",
+      "postal_code": [
+        "21355"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial San Andres",
+      "postal_code": [
+        "21190"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial San Francisco",
+      "postal_code": [
+        "21188"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial San Sebastian",
+      "postal_code": [
+        "21254"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial Segovia",
+      "postal_code": [
+        "21376"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencial Sevilla 2a Seccion",
+      "postal_code": [
+        "21378"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencias",
+      "postal_code": [
+        "21280"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Residencias Imperiales",
+      "postal_code": [
+        "21285"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "21110"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ricardo Mazon Guerrero",
+      "postal_code": [
+        "21731"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Rincones de Puebla",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Rincones de Puebla Segunda Seccion",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Rio Hardy",
+      "postal_code": [
+        "21386"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Rio Nuevo",
+      "postal_code": [
+        "21120"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Rivera",
+      "postal_code": [
+        "21225",
+        "21259",
+        "21298",
+        "21600"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Rivera Campestre",
+      "postal_code": [
+        "21387"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Rivera de la Progreso",
+      "postal_code": [
+        "21326"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Rivera Maya Residencial",
+      "postal_code": [
+        "21376"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Rodriguez",
+      "postal_code": [
+        "21820"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Roma",
+      "postal_code": [
+        "21250"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Saltillo",
+      "postal_code": [
+        "21704"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "San Agustin de las Palmas",
+      "postal_code": [
+        "21600"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "San Andres",
+      "postal_code": [
+        "21383"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "21139"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "21139"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Sanchez Taboada",
+      "postal_code": [
+        "21137",
+        "21360"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "San Clemente",
+      "postal_code": [
+        "21138"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "San Esteban",
+      "postal_code": [
+        "21399"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "San Fernando",
+      "postal_code": [
+        "21297"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "San Fernando Regularizacion Corett",
+      "postal_code": [
+        "21323"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "San Gabriel",
+      "postal_code": [
+        "21210"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "21150"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "San Jacinto",
+      "postal_code": [
+        "21138"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "San Jeronimo",
+      "postal_code": [
+        "21298"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "San Jose",
+      "postal_code": [
+        "21139"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "San Luis",
+      "postal_code": [
+        "21160"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "San Luis Potosi",
+      "postal_code": [
+        "21620"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "21050"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "San Martin Caballero",
+      "postal_code": [
+        "21137"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "San Martin (Elias Lote Trece)",
+      "postal_code": [
+        "21723"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "21137"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "San Miguel 2da Etapa",
+      "postal_code": [
+        "21137"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "21139"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "San Pedro Residencial",
+      "postal_code": [
+        "21254"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "San Pedro Residencial Segunda Seccion",
+      "postal_code": [
+        "21254"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Santa Barbara",
+      "postal_code": [
+        "21160"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "21350"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Santa Clara",
+      "postal_code": [
+        "21110"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "21396"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "21297",
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Santa Isabel",
+      "postal_code": [
+        "21139"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Santa Lorena",
+      "postal_code": [
+        "21139"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "21240"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Santa Monica",
+      "postal_code": [
+        "21339"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Santa Rosalia",
+      "postal_code": [
+        "21270"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Santa Sofia",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "21270"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Santa Veronica",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Santo Nino",
+      "postal_code": [
+        "21190"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Satelite",
+      "postal_code": [
+        "21385"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Saturno (Abasolo)",
+      "postal_code": [
+        "21378"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Segunda Seccion",
+      "postal_code": [
+        "21100"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Seis Granjas Lazaro Cardenas",
+      "postal_code": [
+        "21703"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Sesvania",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Sevilla",
+      "postal_code": [
+        "21378"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Silva",
+      "postal_code": [
+        "21800"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Simental",
+      "postal_code": [
+        "21160"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Sinaloa",
+      "postal_code": [
+        "21620"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Sindicalista",
+      "postal_code": [
+        "21135"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Sol del Amanecer",
+      "postal_code": [
+        "21135"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Sol de Puebla",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Sol de Reyes",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Solidaridad INFONAVIT",
+      "postal_code": [
+        "21188"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Solidaridad INFONAVIT II",
+      "postal_code": [
+        "21188"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Solidaridad Mexicali",
+      "postal_code": [
+        "21394"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Solidaridad Social",
+      "postal_code": [
+        "21387"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Sombras Jery",
+      "postal_code": [
+        "21378"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Sombrerete",
+      "postal_code": [
+        "21802",
+        "21802"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Sonora",
+      "postal_code": [
+        "21210",
+        "21738"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Tabasco",
+      "postal_code": [
+        "21905"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Tamaulipas",
+      "postal_code": [
+        "21911"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Tavizan Silva",
+      "postal_code": [
+        "21399"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Tayjon (Yucatan)",
+      "postal_code": [
+        "21910"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Tecolote Bataques",
+      "postal_code": [
+        "21900"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Tehuantepec (Santa Rosa)",
+      "postal_code": [
+        "21904"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Televisora",
+      "postal_code": [
+        "21337"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Tepic",
+      "postal_code": [
+        "21961"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Terra Residencial",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Terrazas del Sol",
+      "postal_code": [
+        "21353"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Terrazas del Valle",
+      "postal_code": [
+        "21376"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Terrenos Indios",
+      "postal_code": [
+        "21742"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Tlaxcala",
+      "postal_code": [
+        "21720"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Toluca",
+      "postal_code": [
+        "21820"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Torremolinos",
+      "postal_code": [
+        "21138"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Tula",
+      "postal_code": [
+        "21911"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Unidad Industrial Paccar Mexico",
+      "postal_code": [
+        "21385"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Unidad Patria",
+      "postal_code": [
+        "21230"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Unidad Pioneros",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Union de Residentes Lazaro Cardenas",
+      "postal_code": [
+        "21383"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Universidad Autonoma Baja California",
+      "postal_code": [
+        "21289"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Universitario",
+      "postal_code": [
+        "21180"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Vallarta",
+      "postal_code": [
+        "21270"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Valle de alamo",
+      "postal_code": [
+        "21225"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Valle de Guadalupe",
+      "postal_code": [
+        "21720"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Valle de La Plata",
+      "postal_code": [
+        "21326"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Valle de las Misiones",
+      "postal_code": [
+        "21138"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Valle del Colorado",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Valle del Diamante",
+      "postal_code": [
+        "21326"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Valle Delicias",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Valle de los angeles",
+      "postal_code": [
+        "21138"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Valle del Pedregal",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Valle del Progreso",
+      "postal_code": [
+        "21326"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Valle de Puebla",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Valle de San Joaquin",
+      "postal_code": [
+        "21386"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Valle Dorado",
+      "postal_code": [
+        "21399"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Valle Nuevo",
+      "postal_code": [
+        "21720"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Veneto Residencial",
+      "postal_code": [
+        "21389"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Venustiano Carranza",
+      "postal_code": [
+        "21394"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Venustiano Carranza (Estacion Coahuila Km. 57)",
+      "postal_code": [
+        "21800"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Venustiano Carranza Margen Izq (La Carrancita)",
+      "postal_code": [
+        "21743"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Veracruz Dos",
+      "postal_code": [
+        "21821"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Veracruz Uno",
+      "postal_code": [
+        "21720"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Veredas del Sol",
+      "postal_code": [
+        "21225"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Verona",
+      "postal_code": [
+        "21376"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Versalles Residencial",
+      "postal_code": [
+        "21254"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Via Residencial",
+      "postal_code": [
+        "21254"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "21320",
+        "21706"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Vicente Guerrero (Algodones)",
+      "postal_code": [
+        "21970"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Victoria Residencial",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa Bonita",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa Colonial",
+      "postal_code": [
+        "21298"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa de Alarcon",
+      "postal_code": [
+        "21326"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa de Alarcon Segunda Etapa",
+      "postal_code": [
+        "21326"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa de Cortes",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa del Campo",
+      "postal_code": [
+        "21137"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa del Cedro",
+      "postal_code": [
+        "21378"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa del Rey Cuarta Etapa",
+      "postal_code": [
+        "21354"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa del Rey Primera Etapa",
+      "postal_code": [
+        "21354"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa del Rey Quinta Etapa",
+      "postal_code": [
+        "21355"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa del Rey Segunda Etapa",
+      "postal_code": [
+        "21354"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa del Rey Tercera Etapa",
+      "postal_code": [
+        "21353"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa del Roble",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa del Sol INFONAVIT",
+      "postal_code": [
+        "21356"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa Dorada",
+      "postal_code": [
+        "21150"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa Esperanza 2000",
+      "postal_code": [
+        "21353"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa Flor",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa Florida",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villafontana",
+      "postal_code": [
+        "21180"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villahermosa",
+      "postal_code": [
+        "21905"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa Hermosa",
+      "postal_code": [
+        "21921"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa las Lomas",
+      "postal_code": [
+        "21355"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa Lomas Altas",
+      "postal_code": [
+        "21355"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa Lomas Altas 2a Secc.",
+      "postal_code": [
+        "21355"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa Lomas Altas 3era. Seccion",
+      "postal_code": [
+        "21355"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa Margarita Residencial",
+      "postal_code": [
+        "21355"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa Mediterranea",
+      "postal_code": [
+        "21389"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villanova",
+      "postal_code": [
+        "21307"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa Residencial del Prado",
+      "postal_code": [
+        "21355"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa Residencial del Prado Segunda Etapa",
+      "postal_code": [
+        "21355"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa Residencial Venecia",
+      "postal_code": [
+        "21353"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa Residencial Venecia 2da Etapa",
+      "postal_code": [
+        "21353"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "VIllarreal",
+      "postal_code": [
+        "21832"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villas Cachanillas",
+      "postal_code": [
+        "21297"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villas California",
+      "postal_code": [
+        "21150"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villas Coahuila",
+      "postal_code": [
+        "21137"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villas de La Republica",
+      "postal_code": [
+        "21399"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villas del Colorado",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villas del Palmar",
+      "postal_code": [
+        "21378"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villas del Paraiso",
+      "postal_code": [
+        "21137"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villas del Real",
+      "postal_code": [
+        "21309"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villas del Rosario",
+      "postal_code": [
+        "21297"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villas del Valle",
+      "postal_code": [
+        "21376"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villas Galicia",
+      "postal_code": [
+        "21137"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villas San angel",
+      "postal_code": [
+        "21255"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa Toledo",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Villa Verde",
+      "postal_code": [
+        "21395"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Vinas del Sol",
+      "postal_code": [
+        "21190"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Vision",
+      "postal_code": [
+        "21385"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Vista del Llano",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Vista del Valle",
+      "postal_code": [
+        "21387"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "21240"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Vivienda Magisterial",
+      "postal_code": [
+        "21399"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Voluntad",
+      "postal_code": [
+        "21323"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Vulcano",
+      "postal_code": [
+        "21912"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Xochicalli",
+      "postal_code": [
+        "21353"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Xochimilco",
+      "postal_code": [
+        "21380"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Yucatan",
+      "postal_code": [
+        "21910"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Zacatecas",
+      "postal_code": [
+        "21070"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Zaragoza",
+      "postal_code": [
+        "21324"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Ziba",
+      "postal_code": [
+        "21379"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Zona del Canal (Chapultepec)",
+      "postal_code": [
+        "21723"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Zona del Canal (Veracruz Dos)",
+      "postal_code": [
+        "21821"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Zona Progreso",
+      "postal_code": [
+        "21326"
+      ]
+    },
+    {
+      "city": "Mexicali",
+      "colonia": "Zona Urbana del Ejido Xochimilco",
+      "postal_code": [
+        "21355"
+      ]
+    }
+  ]
+}

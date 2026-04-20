@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Seye",
+      "colonia": "Holactun",
+      "postal_code": [
+        "97573"
+      ]
+    },
+    {
+      "city": "Seye",
+      "colonia": "Nohcham",
+      "postal_code": [
+        "97575"
+      ]
+    },
+    {
+      "city": "Seye",
+      "colonia": "San Bernardino",
+      "postal_code": [
+        "97575"
+      ]
+    },
+    {
+      "city": "Seye",
+      "colonia": "Seye",
+      "postal_code": [
+        "97570"
+      ]
+    },
+    {
+      "city": "Seye",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "97570"
+      ]
+    },
+    {
+      "city": "Seye",
+      "colonia": "Xucu",
+      "postal_code": [
+        "97574"
+      ]
+    }
+  ]
+}

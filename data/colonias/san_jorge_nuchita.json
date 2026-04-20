@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Jorge Nuchita",
+      "colonia": "Guadalupe Morelos",
+      "postal_code": [
+        "69280"
+      ]
+    },
+    {
+      "city": "San Jorge Nuchita",
+      "colonia": "San Jorge Nuchita",
+      "postal_code": [
+        "69280"
+      ]
+    },
+    {
+      "city": "San Jorge Nuchita",
+      "colonia": "San Miguel Allende",
+      "postal_code": [
+        "69282"
+      ]
+    }
+  ]
+}

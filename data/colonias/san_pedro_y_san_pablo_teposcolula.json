@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "San Pedro y San Pablo Teposcolula",
+      "colonia": "Guadalupe Vista Hermosa",
+      "postal_code": [
+        "69501"
+      ]
+    },
+    {
+      "city": "San Pedro y San Pablo Teposcolula",
+      "colonia": "San Felipe Ixtapa",
+      "postal_code": [
+        "69503"
+      ]
+    },
+    {
+      "city": "San Pedro y San Pablo Teposcolula",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "69500"
+      ]
+    },
+    {
+      "city": "San Pedro y San Pablo Teposcolula",
+      "colonia": "San Miguel Tixa",
+      "postal_code": [
+        "69502"
+      ]
+    },
+    {
+      "city": "San Pedro y San Pablo Teposcolula",
+      "colonia": "San Pedro y San Pablo Teposcolula",
+      "postal_code": [
+        "69500"
+      ]
+    },
+    {
+      "city": "San Pedro y San Pablo Teposcolula",
+      "colonia": "Santo Tomas Tecolotitlan",
+      "postal_code": [
+        "69504"
+      ]
+    }
+  ]
+}

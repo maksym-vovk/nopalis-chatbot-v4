@@ -1,0 +1,390 @@
+{
+  "data": [
+    {
+      "city": "Ocotlan",
+      "colonia": "6 de Noviembre",
+      "postal_code": [
+        "47880"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Camino Real",
+      "postal_code": [
+        "47849"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "47892"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "El Duque",
+      "postal_code": [
+        "47862"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "El Fuerte",
+      "postal_code": [
+        "47795"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "El Mezquite",
+      "postal_code": [
+        "47898"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "El Pedregal (Santa Clara del Pedregal)",
+      "postal_code": [
+        "47798"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "El Raicero",
+      "postal_code": [
+        "47892"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "47849"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "El Sabino",
+      "postal_code": [
+        "47786"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Ferrocarril",
+      "postal_code": [
+        "47830"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Florida",
+      "postal_code": [
+        "47820"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "General Joaquin Amaro (Los Sauces)",
+      "postal_code": [
+        "47786"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Granjeros",
+      "postal_code": [
+        "47892"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Habitacional San Andres",
+      "postal_code": [
+        "47898"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Hacienda el Rincon",
+      "postal_code": [
+        "47862"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "INFONAVIT I (Camino Real)",
+      "postal_code": [
+        "47840"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "INFONAVIT III",
+      "postal_code": [
+        "47810"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Joconoxtle (La Tuna)",
+      "postal_code": [
+        "47780"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "La Floresta",
+      "postal_code": [
+        "47810"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "La Palma",
+      "postal_code": [
+        "47799"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "La Primavera",
+      "postal_code": [
+        "47829",
+        "47849"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "La Puerta de los Ranchos (Los Ranchos)",
+      "postal_code": [
+        "47799"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Las Torrecillas",
+      "postal_code": [
+        "47870"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "47899"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "47810"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Los Olivos",
+      "postal_code": [
+        "47830"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Marcos Castellanos",
+      "postal_code": [
+        "47870"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Maria Esther Zuno de Echeverria",
+      "postal_code": [
+        "47880"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Mascota",
+      "postal_code": [
+        "47860"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Morelos",
+      "postal_code": [
+        "47810"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Nuevo Fuerte",
+      "postal_code": [
+        "47899"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Nuevo Porvenir",
+      "postal_code": [
+        "47862"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Ocotlan Centro",
+      "postal_code": [
+        "47800"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Paso Blanco",
+      "postal_code": [
+        "47810"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Paso de la Comunidad",
+      "postal_code": [
+        "47797"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Porvenir",
+      "postal_code": [
+        "47882"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Potrero",
+      "postal_code": [
+        "47849"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Rancho Viejo del Refugio (Rancho Viejo)",
+      "postal_code": [
+        "47780"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Rincon de la Arboleda",
+      "postal_code": [
+        "47862"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Rio Zula",
+      "postal_code": [
+        "47829"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Rivera de Zula",
+      "postal_code": [
+        "47890"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "San Andres",
+      "postal_code": [
+        "47898"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "San Felipe",
+      "postal_code": [
+        "47810"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "47892"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "San Juan",
+      "postal_code": [
+        "47860"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "San Martin de Zula",
+      "postal_code": [
+        "47780"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "47849"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Santa Clara de Zula",
+      "postal_code": [
+        "47785"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "San Vicente",
+      "postal_code": [
+        "47850"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "San Vicente (Labor Vieja)",
+      "postal_code": [
+        "47780"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "San Vicente (Margaro)",
+      "postal_code": [
+        "47780"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Solidaridad",
+      "postal_code": [
+        "47862"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Terranova",
+      "postal_code": [
+        "47830"
+      ]
+    },
+    {
+      "city": "Ocotlan",
+      "colonia": "Villas de Zula",
+      "postal_code": [
+        "47862"
+      ]
+    }
+  ]
+}

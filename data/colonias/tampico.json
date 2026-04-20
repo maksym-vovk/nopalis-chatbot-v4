@@ -1,0 +1,1408 @@
+{
+  "data": [
+    {
+      "city": "Tampico",
+      "colonia": "15 Batallon de Infanteria",
+      "postal_code": [
+        "89110"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "2 de Junio",
+      "postal_code": [
+        "89327"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "aguila",
+      "postal_code": [
+        "89230"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Alejandra",
+      "postal_code": [
+        "89348"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Alijadores",
+      "postal_code": [
+        "89250"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Allende",
+      "postal_code": [
+        "89130"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Altavista",
+      "postal_code": [
+        "89240"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Americana",
+      "postal_code": [
+        "89190"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Americano",
+      "postal_code": [
+        "89320"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Ampliacion Luis Echeverria",
+      "postal_code": [
+        "89367"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Anahuac",
+      "postal_code": [
+        "89180"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Aragon",
+      "postal_code": [
+        "89270"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Arboleda",
+      "postal_code": [
+        "89345"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "89130"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Arcangeles",
+      "postal_code": [
+        "89326"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Arcim",
+      "postal_code": [
+        "89136"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Arenal",
+      "postal_code": [
+        "89344"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Armora Nicolas",
+      "postal_code": [
+        "89120"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Aurora",
+      "postal_code": [
+        "89170"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Azteca",
+      "postal_code": [
+        "89190"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Azucenas",
+      "postal_code": [
+        "89090"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Barandillas",
+      "postal_code": [
+        "89180"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "89159"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "89319"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Campbell",
+      "postal_code": [
+        "89260"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Carmen Romano de Lopez Portillo",
+      "postal_code": [
+        "89356"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Cascajal",
+      "postal_code": [
+        "89280"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Chairel",
+      "postal_code": [
+        "89239"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Chairel Seccion 33",
+      "postal_code": [
+        "89219"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Chairel Tancol",
+      "postal_code": [
+        "89320"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Chapultepec",
+      "postal_code": [
+        "89356"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Choferes",
+      "postal_code": [
+        "89337"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Circuito Andrea",
+      "postal_code": [
+        "89325"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Ciudad Militar",
+      "postal_code": [
+        "89340"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Club Campestre Tampico",
+      "postal_code": [
+        "89217"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Colinas del Sol",
+      "postal_code": [
+        "89369"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Colinas de Tancol",
+      "postal_code": [
+        "89326"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Colinas de Universidad",
+      "postal_code": [
+        "89138"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Colinas San Gerardo",
+      "postal_code": [
+        "89367"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Colombia",
+      "postal_code": [
+        "89329"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Conjunto Habitacional Esmeralda",
+      "postal_code": [
+        "89348"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Conjunto Habitacional Tercer Milenium",
+      "postal_code": [
+        "89348"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Country Club",
+      "postal_code": [
+        "89218"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Coyolitos",
+      "postal_code": [
+        "89349"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Cumbres de Vista Bella",
+      "postal_code": [
+        "89367"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Del Bosque",
+      "postal_code": [
+        "89318"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Del Pueblo",
+      "postal_code": [
+        "89190"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Diamante",
+      "postal_code": [
+        "89366"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "El Charro",
+      "postal_code": [
+        "89364"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "El Naranjal",
+      "postal_code": [
+        "89349"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "El Naranjal Prolongacion Sur",
+      "postal_code": [
+        "89349"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "El Ojital",
+      "postal_code": [
+        "89364"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Emilio Portes Gil",
+      "postal_code": [
+        "89316"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Enrique Cardenas Gonzalez",
+      "postal_code": [
+        "89309"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Esfuerzo Obrero",
+      "postal_code": [
+        "89316"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Estadio",
+      "postal_code": [
+        "89338"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Ex-Lomas del Country Club",
+      "postal_code": [
+        "89250"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Fernanda",
+      "postal_code": [
+        "89349"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Flamboyanes",
+      "postal_code": [
+        "89330"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Flores",
+      "postal_code": [
+        "89220"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "FOVISSSTE Chairel",
+      "postal_code": [
+        "89368"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "FOVISSSTE Vista Hermosa",
+      "postal_code": [
+        "89110"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Francisco Javier Mina",
+      "postal_code": [
+        "89318"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Fray Andres de Olmos",
+      "postal_code": [
+        "89229"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Frente Democratico",
+      "postal_code": [
+        "89160"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Gema",
+      "postal_code": [
+        "89368"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Genesis",
+      "postal_code": [
+        "89356"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Gladiolas",
+      "postal_code": [
+        "89358"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Gonzalo Garcia Ramirez",
+      "postal_code": [
+        "89368"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "89120"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Guadalupe Mainero",
+      "postal_code": [
+        "89070"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "89080"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Gustavo Diaz Ordaz",
+      "postal_code": [
+        "89108"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Hacienda del Rul",
+      "postal_code": [
+        "89364"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "89130",
+        "89130"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Hospital Regional",
+      "postal_code": [
+        "89108"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Ignacio Romero",
+      "postal_code": [
+        "89137"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Independencia",
+      "postal_code": [
+        "89358"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "INFONAVIT Lomas Arenal",
+      "postal_code": [
+        "89368"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Insurgentes",
+      "postal_code": [
+        "89349"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Isleta Perez",
+      "postal_code": [
+        "89090"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Jardin",
+      "postal_code": [
+        "89260"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Jardines de Champayan 1",
+      "postal_code": [
+        "89358"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Jardines del Valle",
+      "postal_code": [
+        "89327"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Jose Lopez Portillo",
+      "postal_code": [
+        "89338"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Juarez",
+      "postal_code": [
+        "89150"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Laderas de Vista Bella",
+      "postal_code": [
+        "89367"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "La Florida",
+      "postal_code": [
+        "89118"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Laguna de la Herradura",
+      "postal_code": [
+        "89219"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Laguna de la Puerta",
+      "postal_code": [
+        "89310"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Laguna del Carpintero",
+      "postal_code": [
+        "89169"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "La Paz",
+      "postal_code": [
+        "89326"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "89329"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Las Chacas",
+      "postal_code": [
+        "89338"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Las Torres",
+      "postal_code": [
+        "89358"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Las Villas",
+      "postal_code": [
+        "89110"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Las Violetas",
+      "postal_code": [
+        "89368"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Latinoamericano",
+      "postal_code": [
+        "89329"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Lauro Aguirre",
+      "postal_code": [
+        "89140"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "89107"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Loma Alta",
+      "postal_code": [
+        "89364"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "89107",
+        "89325"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Loma Real",
+      "postal_code": [
+        "89100"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Lomas de la Aurora",
+      "postal_code": [
+        "89100"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Lomas del Chairel",
+      "postal_code": [
+        "89360"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Lomas del Naranjal",
+      "postal_code": [
+        "89106"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Lomas de Rosales",
+      "postal_code": [
+        "89100"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Los Almendros",
+      "postal_code": [
+        "89330"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Los Arcangeles",
+      "postal_code": [
+        "89109"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Los Claustros",
+      "postal_code": [
+        "89349"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Los Encinos",
+      "postal_code": [
+        "89348"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "89138"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Los Portales",
+      "postal_code": [
+        "89357"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "89358",
+        "89358"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Luis Echeverria alvarez",
+      "postal_code": [
+        "89366"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Magdaleno Aguilar",
+      "postal_code": [
+        "89355"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Mano con Mano",
+      "postal_code": [
+        "89298"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Marina Nacional",
+      "postal_code": [
+        "89290"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Martock",
+      "postal_code": [
+        "89170"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Matamoros",
+      "postal_code": [
+        "89270"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Melchor Ocampo",
+      "postal_code": [
+        "89270"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Mexico",
+      "postal_code": [
+        "89348"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Militar",
+      "postal_code": [
+        "89118"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Minerva",
+      "postal_code": [
+        "89120"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Mirador",
+      "postal_code": [
+        "89357"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Miradores de la Presa",
+      "postal_code": [
+        "89358"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Moctezuma",
+      "postal_code": [
+        "89177"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Monte Alegre",
+      "postal_code": [
+        "89210"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Monza",
+      "postal_code": [
+        "89338"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Morelos",
+      "postal_code": [
+        "89290"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Nacional",
+      "postal_code": [
+        "89260"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Natividad Garza Leal",
+      "postal_code": [
+        "89317"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "89359"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Nuevo Aeropuerto",
+      "postal_code": [
+        "89337"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Nuevo Amanecer",
+      "postal_code": [
+        "89367"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Nuevo Paraiso",
+      "postal_code": [
+        "89327"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Nuevo Progreso",
+      "postal_code": [
+        "89318"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Obrera",
+      "postal_code": [
+        "89050"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Otomi",
+      "postal_code": [
+        "89150"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Parajes de Guadalupe",
+      "postal_code": [
+        "89090"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Paseos de Floresta",
+      "postal_code": [
+        "89359"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Pedro Jose Mendez",
+      "postal_code": [
+        "89328"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Pegaso",
+      "postal_code": [
+        "89348"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Peralta",
+      "postal_code": [
+        "89258"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Pescadores",
+      "postal_code": [
+        "89250"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Petrolera",
+      "postal_code": [
+        "89110"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Petroquimicas",
+      "postal_code": [
+        "89328"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Presas del Arenal",
+      "postal_code": [
+        "89344"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Primavera",
+      "postal_code": [
+        "89130",
+        "89150"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Privado Queretaro",
+      "postal_code": [
+        "89348"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Privado Sonora",
+      "postal_code": [
+        "89348"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Puertas Coloradas",
+      "postal_code": [
+        "89349"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Puesta del Sol",
+      "postal_code": [
+        "89320"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Ramos",
+      "postal_code": [
+        "89268"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Reforma",
+      "postal_code": [
+        "89140"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Residencial Bancario",
+      "postal_code": [
+        "89327"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Revolucion Verde",
+      "postal_code": [
+        "89314"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Rodriguez",
+      "postal_code": [
+        "89170"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Roma",
+      "postal_code": [
+        "89350"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Rosario",
+      "postal_code": [
+        "89176"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Sagitario I y II",
+      "postal_code": [
+        "89316"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "89347"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "San Felipe",
+      "postal_code": [
+        "89138"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "89357"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "89368"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "San Pedro Fernando",
+      "postal_code": [
+        "89215"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Santo Nino",
+      "postal_code": [
+        "89160"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Sauce",
+      "postal_code": [
+        "89240"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Sembradores de la Amistad",
+      "postal_code": [
+        "89250"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Sierra Morena",
+      "postal_code": [
+        "89210"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Smith",
+      "postal_code": [
+        "89140"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Solidaridad Voluntad y Trabajo",
+      "postal_code": [
+        "89317"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Tamaulipas",
+      "postal_code": [
+        "89060"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Tampico",
+      "postal_code": [
+        "89137"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Tampico Centro",
+      "postal_code": [
+        "89000"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Tampico (General Francisco Javier Mina)",
+      "postal_code": [
+        "89339"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Tancol",
+      "postal_code": [
+        "89320"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Tancol 33",
+      "postal_code": [
+        "89346"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Telegrafistas",
+      "postal_code": [
+        "89060"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Tierra Alta",
+      "postal_code": [
+        "89358"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Tolteca",
+      "postal_code": [
+        "89160"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Trueba",
+      "postal_code": [
+        "89170"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Unidad del Valle",
+      "postal_code": [
+        "89314"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Unidad Modelo",
+      "postal_code": [
+        "89367"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Universidad",
+      "postal_code": [
+        "89138"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Universidad Poniente",
+      "postal_code": [
+        "89336"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Universidad Sur",
+      "postal_code": [
+        "89109"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Valle Escondido",
+      "postal_code": [
+        "89358"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Vergel",
+      "postal_code": [
+        "89150"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "89298"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Villa Hermosa",
+      "postal_code": [
+        "89319"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Villa San Pedro",
+      "postal_code": [
+        "89369"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Villas Chairel",
+      "postal_code": [
+        "89340"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Villas Laguna",
+      "postal_code": [
+        "89367"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Villa Verde",
+      "postal_code": [
+        "89338"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Vista Bella",
+      "postal_code": [
+        "89367"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "89119"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Volantin",
+      "postal_code": [
+        "89199"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Xicotencatl",
+      "postal_code": [
+        "89080"
+      ]
+    },
+    {
+      "city": "Tampico",
+      "colonia": "Zapotal",
+      "postal_code": [
+        "89138"
+      ]
+    }
+  ]
+}

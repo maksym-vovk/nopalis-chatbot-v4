@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "city": "Jonotla",
+      "colonia": "Ecatlan",
+      "postal_code": [
+        "73530"
+      ]
+    },
+    {
+      "city": "Jonotla",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "73537"
+      ]
+    },
+    {
+      "city": "Jonotla",
+      "colonia": "Jonotla",
+      "postal_code": [
+        "73530"
+      ]
+    },
+    {
+      "city": "Jonotla",
+      "colonia": "Paso del Jardin",
+      "postal_code": [
+        "73538"
+      ]
+    },
+    {
+      "city": "Jonotla",
+      "colonia": "San Antonio Rayon",
+      "postal_code": [
+        "73537"
+      ]
+    },
+    {
+      "city": "Jonotla",
+      "colonia": "Tecpantzingo",
+      "postal_code": [
+        "73539"
+      ]
+    },
+    {
+      "city": "Jonotla",
+      "colonia": "Tepetitlan",
+      "postal_code": [
+        "73530"
+      ]
+    }
+  ]
+}

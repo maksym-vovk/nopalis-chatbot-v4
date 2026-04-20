@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "San Francisco Chapulapa",
+      "colonia": "Agua Neblina",
+      "postal_code": [
+        "68636"
+      ]
+    },
+    {
+      "city": "San Francisco Chapulapa",
+      "colonia": "Guadalupe Siete Cerros",
+      "postal_code": [
+        "68638"
+      ]
+    },
+    {
+      "city": "San Francisco Chapulapa",
+      "colonia": "Hierba Buena",
+      "postal_code": [
+        "68636"
+      ]
+    },
+    {
+      "city": "San Francisco Chapulapa",
+      "colonia": "Monte Flor",
+      "postal_code": [
+        "68636"
+      ]
+    },
+    {
+      "city": "San Francisco Chapulapa",
+      "colonia": "San Alejo el Progreso",
+      "postal_code": [
+        "68635"
+      ]
+    },
+    {
+      "city": "San Francisco Chapulapa",
+      "colonia": "San Francisco Chapulapa",
+      "postal_code": [
+        "68635"
+      ]
+    }
+  ]
+}

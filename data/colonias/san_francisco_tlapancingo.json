@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Francisco Tlapancingo",
+      "colonia": "Guadalupe Nogales",
+      "postal_code": [
+        "69485"
+      ]
+    },
+    {
+      "city": "San Francisco Tlapancingo",
+      "colonia": "San Francisco Tlapancingo",
+      "postal_code": [
+        "69480"
+      ]
+    },
+    {
+      "city": "San Francisco Tlapancingo",
+      "colonia": "San Marcos Natividad",
+      "postal_code": [
+        "69485"
+      ]
+    }
+  ]
+}

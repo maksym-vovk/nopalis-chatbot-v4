@@ -1,0 +1,697 @@
+{
+  "data": [
+    {
+      "city": "Chalco",
+      "colonia": "21 de Marzo",
+      "postal_code": [
+        "56607"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Agrarista",
+      "postal_code": [
+        "56605"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Agrarista Sector Alcanfores",
+      "postal_code": [
+        "56605"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Ampliacion Emiliano Zapata",
+      "postal_code": [
+        "56608"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "56641"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Bosques de Chalco I",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Bosques de Chalco II",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Caja de Agua",
+      "postal_code": [
+        "56643"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Camino al Monte",
+      "postal_code": [
+        "56623"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Campestre Santa Cruz",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Capultitla",
+      "postal_code": [
+        "56620"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Casco de San Juan",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Caserio de Cortes",
+      "postal_code": [
+        "56624"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Chalco de Diaz Covarrubias Centro",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Clara Cordoba Moran",
+      "postal_code": [
+        "56605"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Covadonga",
+      "postal_code": [
+        "56607"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Culturas de Mexico",
+      "postal_code": [
+        "56607"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Ejidal",
+      "postal_code": [
+        "56604"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Ejido San Marcos",
+      "postal_code": [
+        "56643"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "El Naranjo",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "56605"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "El Recodo de San Jose Axalco",
+      "postal_code": [
+        "56620"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "56608"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Ex-hacienda de Guadalupe",
+      "postal_code": [
+        "56641"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Fraternidad Antorchista",
+      "postal_code": [
+        "56605"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Gonzalo Lopez Cid",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Granjas Chalco",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "56625"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Guadalupe de los Tepetates",
+      "postal_code": [
+        "56646"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Hacienda del Moral",
+      "postal_code": [
+        "56647"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Hacienda San Juan",
+      "postal_code": [
+        "56644"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Huixtomatitla (Tepalcates)",
+      "postal_code": [
+        "56646"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Humberto Vidal Mendoza",
+      "postal_code": [
+        "56605"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Independencia",
+      "postal_code": [
+        "56620"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Independencia Chimalpa",
+      "postal_code": [
+        "56625"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Industrial Chalco",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Jacalones I",
+      "postal_code": [
+        "56604"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Jacalones II",
+      "postal_code": [
+        "56604"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Jardines de Chalco",
+      "postal_code": [
+        "56607"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Jazmin de las Flores",
+      "postal_code": [
+        "56620"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "La Bomba",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "La Candelaria Tlapala",
+      "postal_code": [
+        "56641"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "La Chimenea",
+      "postal_code": [
+        "56643"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "La Conchita",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "La Longaniza",
+      "postal_code": [
+        "56646"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Las Huertas",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Las Nieves",
+      "postal_code": [
+        "56624"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Llano del Moral",
+      "postal_code": [
+        "56641"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Lomas de San Pablo",
+      "postal_code": [
+        "56620"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "56640"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Los Cipreses",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Los Heroes Chalco",
+      "postal_code": [
+        "56644"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Los Heroes Chalco II",
+      "postal_code": [
+        "56644"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Los Heroes Chalco III",
+      "postal_code": [
+        "56644"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Los Hornos",
+      "postal_code": [
+        "56642"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Los Volcanes",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Los Volcanes 2da. Seccion",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Marco Antonio Sosa",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Margarita Cordoba Moran",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Michoacana",
+      "postal_code": [
+        "56620"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Nueva San Antonio",
+      "postal_code": [
+        "56605"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Nueva San Isidro",
+      "postal_code": [
+        "56605"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Nueva San Miguel",
+      "postal_code": [
+        "56604"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Paseos de Chalco",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Pedregal Tezompa",
+      "postal_code": [
+        "56624"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Portal de Chalco",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Pueblo Nuevo",
+      "postal_code": [
+        "56644"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Punto Chalco",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Rancho Amigo",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "56623"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Rancho Nuevo San Miguel",
+      "postal_code": [
+        "56623"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Rancho San Miguel",
+      "postal_code": [
+        "56623"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Residencial Iztac",
+      "postal_code": [
+        "56625"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "San Buenaventura 7a Seccion",
+      "postal_code": [
+        "56643"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "San Cristobal",
+      "postal_code": [
+        "56608"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "San Gregorio Cuautzingo",
+      "postal_code": [
+        "56640"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "San Jose",
+      "postal_code": [
+        "56620"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "San Jose Axalco",
+      "postal_code": [
+        "56620"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "San Juan Tezompa",
+      "postal_code": [
+        "56624"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "San Lorenzo Chimalpa",
+      "postal_code": [
+        "56625"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "San Lucas Amalinalco",
+      "postal_code": [
+        "56642"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "San Marcos Huixtoco",
+      "postal_code": [
+        "56643"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "San Martin Cuautlalpan",
+      "postal_code": [
+        "56644"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "San Martin Xico Nuevo",
+      "postal_code": [
+        "56625"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "San Mateo Huitzilzingo",
+      "postal_code": [
+        "56625"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "San Mateo Tezoquipan Miraflores",
+      "postal_code": [
+        "56647"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "San Pablo Atlazalpan",
+      "postal_code": [
+        "56620"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Santa Ana (Predio San Juan)",
+      "postal_code": [
+        "56640"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Santa Catarina Ayotzingo",
+      "postal_code": [
+        "56623"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Santa Cruz Amalinalco",
+      "postal_code": [
+        "56609"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Santa Maria Huexoculco",
+      "postal_code": [
+        "56646"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Tlatel",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Tres Marias",
+      "postal_code": [
+        "56604"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Union de Guadalupe",
+      "postal_code": [
+        "56606"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Villas de Chalco",
+      "postal_code": [
+        "56600"
+      ]
+    },
+    {
+      "city": "Chalco",
+      "colonia": "Villas de San Martin",
+      "postal_code": [
+        "56644"
+      ]
+    }
+  ]
+}

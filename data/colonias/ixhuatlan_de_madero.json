@@ -1,0 +1,831 @@
+{
+  "data": [
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Acatipan",
+      "postal_code": [
+        "92695"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Achichipic",
+      "postal_code": [
+        "92686"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Agustin Melgar",
+      "postal_code": [
+        "92690"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Ahuacapa I",
+      "postal_code": [
+        "92685"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Ahuacapa Segundo",
+      "postal_code": [
+        "92685"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Apachahuatl",
+      "postal_code": [
+        "92685"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Arriba Terrero",
+      "postal_code": [
+        "92684"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Ayolia",
+      "postal_code": [
+        "92686"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Ayotla",
+      "postal_code": [
+        "92684"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Barrio Abajo Colatlan",
+      "postal_code": [
+        "92684"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "92697"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "92695"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Cacahuatengo",
+      "postal_code": [
+        "92685"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Cantollano",
+      "postal_code": [
+        "92683"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Cerro del Progreso",
+      "postal_code": [
+        "92683"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Cerro el Tablon",
+      "postal_code": [
+        "92690"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Chahuantla",
+      "postal_code": [
+        "92683"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Chapopote",
+      "postal_code": [
+        "92686"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Chijolito Milcahuatl",
+      "postal_code": [
+        "92685"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Cinco Aguas",
+      "postal_code": [
+        "92683"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Colatlan",
+      "postal_code": [
+        "92684"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Corral Viejo",
+      "postal_code": [
+        "92686"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Cruz Blanca",
+      "postal_code": [
+        "92683"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Cuahueloco",
+      "postal_code": [
+        "92685"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "El Aguacate Barrio Abajo",
+      "postal_code": [
+        "92685"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "El Aguacate Barrio Arriba",
+      "postal_code": [
+        "92685"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "El Becerro",
+      "postal_code": [
+        "92686"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "El Campo",
+      "postal_code": [
+        "92687"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "El Limon",
+      "postal_code": [
+        "92685"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "El Lindero",
+      "postal_code": [
+        "92683"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "92683",
+        "92687"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "El Nopal",
+      "postal_code": [
+        "92687"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "El Tepetate",
+      "postal_code": [
+        "92694"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "92684"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "El Tizal",
+      "postal_code": [
+        "92684"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "El Zapotal (La Laja)",
+      "postal_code": [
+        "92684"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "92697"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "General Felipe angeles",
+      "postal_code": [
+        "92690"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Guaguaco",
+      "postal_code": [
+        "92684"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Heberto Castillo Martinez",
+      "postal_code": [
+        "92683"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Huexotitla",
+      "postal_code": [
+        "92684"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Huitzitzilco",
+      "postal_code": [
+        "92683"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Ixhuatlan de Madero",
+      "postal_code": [
+        "92680"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Jonotal Azteca",
+      "postal_code": [
+        "92683"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Jonotal Progreso",
+      "postal_code": [
+        "92690"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Joya Chica",
+      "postal_code": [
+        "92687"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Joya Grande",
+      "postal_code": [
+        "92690"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Juntas Grandes",
+      "postal_code": [
+        "92694"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "La Chaca",
+      "postal_code": [
+        "92686"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "La Colmena",
+      "postal_code": [
+        "92685"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "La Guada",
+      "postal_code": [
+        "92685"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "La Mata (Campo la Mata)",
+      "postal_code": [
+        "92687"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "La Mora",
+      "postal_code": [
+        "92693"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "La Palma Capadero",
+      "postal_code": [
+        "92693"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "La Pita",
+      "postal_code": [
+        "92685"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "La Reforma",
+      "postal_code": [
+        "92686"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "92683"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Las Maravillas",
+      "postal_code": [
+        "92697"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Las Mesillas",
+      "postal_code": [
+        "92693"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Las Tejas",
+      "postal_code": [
+        "92683"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Lechcuatitla",
+      "postal_code": [
+        "92686"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Lindero las Flores",
+      "postal_code": [
+        "92683"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Lindero Limon",
+      "postal_code": [
+        "92685"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Llano Enmedio",
+      "postal_code": [
+        "92684"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Loma Bonita (Mesa Cacahutenco)",
+      "postal_code": [
+        "92687"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Lomas del Dorado",
+      "postal_code": [
+        "92686"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Marcialta",
+      "postal_code": [
+        "92686"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Milcahual",
+      "postal_code": [
+        "92685"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Molango",
+      "postal_code": [
+        "92694"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Naranjo Dulce",
+      "postal_code": [
+        "92687"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Ojital Cuayo",
+      "postal_code": [
+        "92687"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Ojtlatzintla",
+      "postal_code": [
+        "92684"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Oxitempa",
+      "postal_code": [
+        "92687"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Pahua Chica",
+      "postal_code": [
+        "92683"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Pahua Grande",
+      "postal_code": [
+        "92683"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Paso Amatitlan",
+      "postal_code": [
+        "92686"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Paso de alamo",
+      "postal_code": [
+        "92686"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Paso de Ayolia",
+      "postal_code": [
+        "92686"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Piedra Grande Chijolito",
+      "postal_code": [
+        "92685"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Piedra Grande (El Guayabo)",
+      "postal_code": [
+        "92685"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Piedra Grande la Sierra",
+      "postal_code": [
+        "92697"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Pino Suarez",
+      "postal_code": [
+        "92683"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Pisaflores",
+      "postal_code": [
+        "92694"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Pitzocali",
+      "postal_code": [
+        "92685"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Plan del Encinal (El Encinal)",
+      "postal_code": [
+        "92683"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Poza Grande",
+      "postal_code": [
+        "92697"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Progreso",
+      "postal_code": [
+        "92690"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Puyecaco",
+      "postal_code": [
+        "92684"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "92683"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Reyixtla",
+      "postal_code": [
+        "92685"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "San Bernardo",
+      "postal_code": [
+        "92683"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "92695"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "San Jose el Salto",
+      "postal_code": [
+        "92693"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "San Martin",
+      "postal_code": [
+        "92687"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "92686"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Santa Maria Apipilhuasco",
+      "postal_code": [
+        "92694"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Siete Palmas Barrio Abajo",
+      "postal_code": [
+        "92687"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Siete Palmas Barrio Arriba",
+      "postal_code": [
+        "92687"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Tecalco",
+      "postal_code": [
+        "92686"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Tecanahua",
+      "postal_code": [
+        "92686"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Tecomate de Beltran",
+      "postal_code": [
+        "92693"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Tenextongo (San Antonio)",
+      "postal_code": [
+        "92694"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Teopancahuac",
+      "postal_code": [
+        "92686"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Tepetlaco",
+      "postal_code": [
+        "92684"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Tepozcalco",
+      "postal_code": [
+        "92686"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Tepozuapan",
+      "postal_code": [
+        "92690"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Tlachiquile",
+      "postal_code": [
+        "92690"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Tzapalote",
+      "postal_code": [
+        "92686"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Tzapohica",
+      "postal_code": [
+        "92685"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Tziltzacuapan",
+      "postal_code": [
+        "92694"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Tzocohuite",
+      "postal_code": [
+        "92686"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Villa Hermosa",
+      "postal_code": [
+        "92684"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Vista Alegre",
+      "postal_code": [
+        "92684"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Xochimilco",
+      "postal_code": [
+        "92685"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Xomulco",
+      "postal_code": [
+        "92683"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Zapote Bravo",
+      "postal_code": [
+        "92690"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Zimatla",
+      "postal_code": [
+        "92697"
+      ]
+    },
+    {
+      "city": "Ixhuatlan de Madero",
+      "colonia": "Zolontla",
+      "postal_code": [
+        "92683"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "city": "Coronado",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "33991"
+      ]
+    },
+    {
+      "city": "Coronado",
+      "colonia": "Conquista Agraria",
+      "postal_code": [
+        "33995"
+      ]
+    },
+    {
+      "city": "Coronado",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "33992"
+      ]
+    },
+    {
+      "city": "Coronado",
+      "colonia": "Iturralde",
+      "postal_code": [
+        "33993"
+      ]
+    },
+    {
+      "city": "Coronado",
+      "colonia": "Jose Esteban Coronado",
+      "postal_code": [
+        "33990"
+      ]
+    },
+    {
+      "city": "Coronado",
+      "colonia": "Las Pilas",
+      "postal_code": [
+        "33996"
+      ]
+    },
+    {
+      "city": "Coronado",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "33997"
+      ]
+    },
+    {
+      "city": "Coronado",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "33996"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,632 @@
+{
+  "data": [
+    {
+      "city": "Acacoyagua",
+      "colonia": "15 de Enero",
+      "postal_code": [
+        "30590"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Acacoyagua",
+      "postal_code": [
+        "30590"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Arvin",
+      "postal_code": [
+        "30593"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Betania",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Bethel",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "30596"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Buena Voluntad",
+      "postal_code": [
+        "30593"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "30594",
+        "30595"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Caballo Blanco",
+      "postal_code": [
+        "30595"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Callejon del Paraiso",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Chicol",
+      "postal_code": [
+        "30593"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Constitucion",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Costa Rica",
+      "postal_code": [
+        "30596"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Delicias",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Desvio el Pataste",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Diez de Abril (Texcoco)",
+      "postal_code": [
+        "30595"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "El Aguacate",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "El Castano",
+      "postal_code": [
+        "30593"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "El Encuentro",
+      "postal_code": [
+        "30593"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "El Recuerdo",
+      "postal_code": [
+        "30593"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "El Retiro",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "El Tajuko",
+      "postal_code": [
+        "30593"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "El Tumbador",
+      "postal_code": [
+        "30593"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Emiliano Zapata (Puerto Arturo)",
+      "postal_code": [
+        "30595"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Flor del Carmen Dos",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Flor del Carmen Uno",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "30593"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Huisisil Dos",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Huisisil Uno",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Jalapa",
+      "postal_code": [
+        "30590",
+        "30593"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Jalapa Uno",
+      "postal_code": [
+        "30593"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Jose Luciano",
+      "postal_code": [
+        "30590"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "La Argentina",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "La Fortuna",
+      "postal_code": [
+        "30597"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Laguna Arenal",
+      "postal_code": [
+        "30596"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "La Lomita",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "La Nueva Esperanza",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "La Patria",
+      "postal_code": [
+        "30595"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "La Primavera",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Las Brisas",
+      "postal_code": [
+        "30593",
+        "30594",
+        "30595"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Las Cadenas",
+      "postal_code": [
+        "30596"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Las Cruces",
+      "postal_code": [
+        "30596"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Las Dalias",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Las Golondrinas",
+      "postal_code": [
+        "30596"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Las Limas",
+      "postal_code": [
+        "30593"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Las Nubes",
+      "postal_code": [
+        "30597"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Las Tomas",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "La Vaca",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "La Vieja Libertad",
+      "postal_code": [
+        "30595"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "La Violeta",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Los Amates",
+      "postal_code": [
+        "30593"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Los Andes de Zapata",
+      "postal_code": [
+        "30597"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Los Cacaos",
+      "postal_code": [
+        "30597"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "30593"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Luis Duran Perez",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Magnolia",
+      "postal_code": [
+        "30597"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Maria Esther Zuno de Echeverria",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Monte Oro",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Monterrey",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Morelos",
+      "postal_code": [
+        "30590"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Nueva Libertad",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Nueva Reforma",
+      "postal_code": [
+        "30595"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Nuevo Cintalapa Dos (Berlin)",
+      "postal_code": [
+        "30595"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Nuevo Jalapa",
+      "postal_code": [
+        "30593"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Palestina",
+      "postal_code": [
+        "30596"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Playa Ines Seccion Dos",
+      "postal_code": [
+        "30593"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Quince de Septiembre",
+      "postal_code": [
+        "30593"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Rancho Escondido",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Reforma (Parada Bonanza)",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Rio Grande",
+      "postal_code": [
+        "30590"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Rosario Zacatonal",
+      "postal_code": [
+        "30596"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Sakura",
+      "postal_code": [
+        "30593"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "30595"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "San Benito",
+      "postal_code": [
+        "30593"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "San Enrique",
+      "postal_code": [
+        "30597"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "30593"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "30590",
+        "30593"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "30593"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "San Pedro el Arenal",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Santa Anita",
+      "postal_code": [
+        "30590"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "San Vicente Joval",
+      "postal_code": [
+        "30595"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Satelite Morelia",
+      "postal_code": [
+        "30597"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Tizapa",
+      "postal_code": [
+        "30597"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Tres Hermanos",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Victor Manuel Castillo (Espana)",
+      "postal_code": [
+        "30594"
+      ]
+    },
+    {
+      "city": "Acacoyagua",
+      "colonia": "Vida Mejor",
+      "postal_code": [
+        "30590"
+      ]
+    }
+  ]
+}

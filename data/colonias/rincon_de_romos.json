@@ -1,0 +1,515 @@
+{
+  "data": [
+    {
+      "city": "Rincon de Romos",
+      "colonia": "16 de Septiembre",
+      "postal_code": [
+        "20427"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "18 de Marzo",
+      "postal_code": [
+        "20434"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Bajio del Yerbaniz",
+      "postal_code": [
+        "20424"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "California",
+      "postal_code": [
+        "20424"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Candelaria",
+      "postal_code": [
+        "20423"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Cerro del Gato",
+      "postal_code": [
+        "20406"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Constitucion",
+      "postal_code": [
+        "20437"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "De Chora",
+      "postal_code": [
+        "20406"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "De Guadalupe",
+      "postal_code": [
+        "20405"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Desarrollo Especial",
+      "postal_code": [
+        "20414"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Desarrollo Especial La Pedrera",
+      "postal_code": [
+        "20403"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "El Ajiladero",
+      "postal_code": [
+        "20454"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "El Bajio",
+      "postal_code": [
+        "20420"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "El Barzon",
+      "postal_code": [
+        "20435"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "El Chaveno",
+      "postal_code": [
+        "20405"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "El Milagro",
+      "postal_code": [
+        "20436"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "El Panal",
+      "postal_code": [
+        "20450"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "El Potrero",
+      "postal_code": [
+        "20410"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "20437"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "El Salitrillo",
+      "postal_code": [
+        "20435"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "El Saucillo",
+      "postal_code": [
+        "20420"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "El Valle de las Delicias",
+      "postal_code": [
+        "20427"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Embajadores",
+      "postal_code": [
+        "20404"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Estancia de Chora",
+      "postal_code": [
+        "20404"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Estancia de Mosqueira",
+      "postal_code": [
+        "20437"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Fraternidad",
+      "postal_code": [
+        "20406"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Fresnillo",
+      "postal_code": [
+        "20450"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Hector Hugo Olivares",
+      "postal_code": [
+        "20437"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Independencia",
+      "postal_code": [
+        "20410"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Jose Luis Macias",
+      "postal_code": [
+        "20404"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "La Boquilla",
+      "postal_code": [
+        "20450"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "La Mezquitera",
+      "postal_code": [
+        "20410"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "La Mision",
+      "postal_code": [
+        "20430"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "La Paz",
+      "postal_code": [
+        "20405"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Las Camas",
+      "postal_code": [
+        "20444"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Las Norias",
+      "postal_code": [
+        "20435"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "20406"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "20437"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Los Morales",
+      "postal_code": [
+        "20427"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Lupita",
+      "postal_code": [
+        "20435"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "20410"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Magisterial II",
+      "postal_code": [
+        "20410"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Mar Negro",
+      "postal_code": [
+        "20420"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "20417"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Morelos",
+      "postal_code": [
+        "20440"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Norte",
+      "postal_code": [
+        "20403"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Pabellon de Hidalgo Centro",
+      "postal_code": [
+        "20437"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Pablo Escaleras",
+      "postal_code": [
+        "20420"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Pena Blanca",
+      "postal_code": [
+        "20450"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Popular",
+      "postal_code": [
+        "20417"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Potrerillos",
+      "postal_code": [
+        "20444"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Potrero El Tarasco",
+      "postal_code": [
+        "20420"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Presa de San Elias (Jose Munoz)",
+      "postal_code": [
+        "20420"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Presidentes de Mexico",
+      "postal_code": [
+        "20416"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Puerta del Muerto (El 15)",
+      "postal_code": [
+        "20424"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Rinconada Alameda",
+      "postal_code": [
+        "20406"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Rinconada de las Piedras",
+      "postal_code": [
+        "20406"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Rincon de Romos Centro",
+      "postal_code": [
+        "20400"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "San Isidro el Labrador",
+      "postal_code": [
+        "20427"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "San Jacinto",
+      "postal_code": [
+        "20425"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "San Jose",
+      "postal_code": [
+        "20415"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "San Juan de la Natura",
+      "postal_code": [
+        "20426"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "San Judas Tadeo (Santa Fe)",
+      "postal_code": [
+        "20423"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Santa Anita",
+      "postal_code": [
+        "20410"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "20406"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "20403"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Solidaridad",
+      "postal_code": [
+        "20416"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Subdivision La Piedrera",
+      "postal_code": [
+        "20403"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Tanque Blanco",
+      "postal_code": [
+        "20424"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Tunel de Potrerillo",
+      "postal_code": [
+        "20444"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Valle del Real",
+      "postal_code": [
+        "20404"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Villas de Jesus",
+      "postal_code": [
+        "20414"
+      ]
+    },
+    {
+      "city": "Rincon de Romos",
+      "colonia": "Villa Seguridad",
+      "postal_code": [
+        "20403"
+      ]
+    }
+  ]
+}

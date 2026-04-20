@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "San Juan Atenco",
+      "colonia": "El Llano",
+      "postal_code": [
+        "75197"
+      ]
+    },
+    {
+      "city": "San Juan Atenco",
+      "colonia": "San Jose Guerrero",
+      "postal_code": [
+        "75190"
+      ]
+    },
+    {
+      "city": "San Juan Atenco",
+      "colonia": "San Juan Atenco",
+      "postal_code": [
+        "75190"
+      ]
+    },
+    {
+      "city": "San Juan Atenco",
+      "colonia": "Santa Cruz Coyotepec",
+      "postal_code": [
+        "75196"
+      ]
+    },
+    {
+      "city": "San Juan Atenco",
+      "colonia": "Tres Cruces Ocotepec",
+      "postal_code": [
+        "75194"
+      ]
+    }
+  ]
+}

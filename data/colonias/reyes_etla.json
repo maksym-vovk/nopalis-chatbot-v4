@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Reyes Etla",
+      "colonia": "Hacienda Vieja (Zompantle)",
+      "postal_code": [
+        "68238"
+      ]
+    },
+    {
+      "city": "Reyes Etla",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "68237"
+      ]
+    },
+    {
+      "city": "Reyes Etla",
+      "colonia": "Los Tres Reyes",
+      "postal_code": [
+        "68238"
+      ]
+    },
+    {
+      "city": "Reyes Etla",
+      "colonia": "Reyes Etla",
+      "postal_code": [
+        "68237"
+      ]
+    },
+    {
+      "city": "Reyes Etla",
+      "colonia": "San Juan de Dios",
+      "postal_code": [
+        "68237"
+      ]
+    },
+    {
+      "city": "Reyes Etla",
+      "colonia": "San Lazaro Etla",
+      "postal_code": [
+        "68238"
+      ]
+    }
+  ]
+}

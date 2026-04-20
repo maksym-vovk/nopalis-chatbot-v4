@@ -1,0 +1,1271 @@
+{
+  "data": [
+    {
+      "city": "Aramberri",
+      "colonia": "Agua Adentro",
+      "postal_code": [
+        "67943"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Agua de Enmedio (Los Pocitos)",
+      "postal_code": [
+        "67955"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Agua Delgada",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Agua de Mata",
+      "postal_code": [
+        "67948"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Agua Fria",
+      "postal_code": [
+        "67943"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "alamos",
+      "postal_code": [
+        "67958"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Aramberri Centro",
+      "postal_code": [
+        "67940"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Aranjuez",
+      "postal_code": [
+        "67948"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Brownsville",
+      "postal_code": [
+        "67940"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Callejon de los Vazquez",
+      "postal_code": [
+        "67943"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Canon de Vacas (El Jardin)",
+      "postal_code": [
+        "67957"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Cedritos",
+      "postal_code": [
+        "67946"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Chaloa (San Mauricio)",
+      "postal_code": [
+        "67943"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Cuartitos y Marmolejo (Parada Marmolejo)",
+      "postal_code": [
+        "67948"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Dolores Palmita",
+      "postal_code": [
+        "67947"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Duraznillos",
+      "postal_code": [
+        "67958"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Alamar",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Anillo",
+      "postal_code": [
+        "67948"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Astillero",
+      "postal_code": [
+        "67957"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Calichal",
+      "postal_code": [
+        "67940",
+        "67948"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Callejon de la Cueva",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Carrizalillo",
+      "postal_code": [
+        "67945"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Cedrito",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Coyote",
+      "postal_code": [
+        "67953"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Cuervo Dos",
+      "postal_code": [
+        "67957"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Cuervo Uno",
+      "postal_code": [
+        "67957"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Derramadero",
+      "postal_code": [
+        "67953"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Divisadero",
+      "postal_code": [
+        "67958"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Gato",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Jardin (Canon de Vacas)",
+      "postal_code": [
+        "67957"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Jilguero",
+      "postal_code": [
+        "67955"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Leoncito",
+      "postal_code": [
+        "67957"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Mezquital",
+      "postal_code": [
+        "67948"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Molino",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Monal",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Muerto",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Nacimiento",
+      "postal_code": [
+        "67957"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Naranjo",
+      "postal_code": [
+        "67958"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Nogalar (La Pita)",
+      "postal_code": [
+        "67943"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Olmo",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Paraiso (San Antonio Mesa de las Piedras)",
+      "postal_code": [
+        "67957"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Pinalito",
+      "postal_code": [
+        "67947"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Pitacoche",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Pitacoche (La Tinaja)",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "67948",
+        "67948"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Puerto",
+      "postal_code": [
+        "67954",
+        "67958"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Realito (La Parrita)",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Refugio (Refugio de Texas)",
+      "postal_code": [
+        "67957"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Rincon de Jesus",
+      "postal_code": [
+        "67958"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Rodeo",
+      "postal_code": [
+        "67957"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "67943"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Rucio",
+      "postal_code": [
+        "67955"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Saucillo",
+      "postal_code": [
+        "67957"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Sauz",
+      "postal_code": [
+        "67954",
+        "67958"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Talco",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Tejocote",
+      "postal_code": [
+        "67959"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Tejon",
+      "postal_code": [
+        "67948"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Tepozan",
+      "postal_code": [
+        "67945"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Tigre",
+      "postal_code": [
+        "67945"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "El Yerbaniz",
+      "postal_code": [
+        "67957"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "67940"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Erasmo Vazquez",
+      "postal_code": [
+        "67954"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Esquivel",
+      "postal_code": [
+        "67958"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Facultad de Agronomia",
+      "postal_code": [
+        "67956"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Fraccionamiento del Rio (Fraccion del Rio)",
+      "postal_code": [
+        "67943"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Garza",
+      "postal_code": [
+        "67943"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Granjenal",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Guadalupe de los Navarro",
+      "postal_code": [
+        "67955"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "67955"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Hoya de Bocacil",
+      "postal_code": [
+        "67957"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Ibarrilla (Rincon de Ibarrilla)",
+      "postal_code": [
+        "67958"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "67958"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Jesus Maria",
+      "postal_code": [
+        "67943"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Joyas de Bocacelly",
+      "postal_code": [
+        "67948"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Joyas y Anteojitos",
+      "postal_code": [
+        "67948"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Juan Mendez Castro",
+      "postal_code": [
+        "67955"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Aldea",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Angostura",
+      "postal_code": [
+        "67955"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Ascencion",
+      "postal_code": [
+        "67950"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Ascension (Esteban Salazar)",
+      "postal_code": [
+        "67953"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Atarjea (El Pinal)",
+      "postal_code": [
+        "67955"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Boquilla",
+      "postal_code": [
+        "67957"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Caballada",
+      "postal_code": [
+        "67955"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Canoa",
+      "postal_code": [
+        "67955"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Carpinteria",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Colorada",
+      "postal_code": [
+        "67955"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Corona",
+      "postal_code": [
+        "67957"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "67948"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Florida",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Gota",
+      "postal_code": [
+        "67958"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Laguna de Bocacelly",
+      "postal_code": [
+        "67948"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Lagunita (Lagunita de los Cerda)",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Lagunitas",
+      "postal_code": [
+        "67958"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Hoya de los Nogales",
+      "postal_code": [
+        "67943"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "67953"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Lagunita (Lagunita de los Vazquez)",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Lobera",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Majada",
+      "postal_code": [
+        "67956"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Mesa de Alcocer",
+      "postal_code": [
+        "67955"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Lampacitos",
+      "postal_code": [
+        "67957"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Muralla",
+      "postal_code": [
+        "67955"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Nueva Reforma (Buenos Aires)",
+      "postal_code": [
+        "67945"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Paila",
+      "postal_code": [
+        "67943"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Palmita",
+      "postal_code": [
+        "67948"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Pena",
+      "postal_code": [
+        "67943",
+        "67947"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Reforma",
+      "postal_code": [
+        "67953",
+        "67957"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Rosita (Los Llanitos)",
+      "postal_code": [
+        "67947"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Sabanilla",
+      "postal_code": [
+        "67945",
+        "67946"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Las animas",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Las animas (Presa de las animas)",
+      "postal_code": [
+        "67956"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Las Delicias",
+      "postal_code": [
+        "67957"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Las Higueritas",
+      "postal_code": [
+        "67943",
+        "67957"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Las Joyitas",
+      "postal_code": [
+        "67957"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Las Juanas",
+      "postal_code": [
+        "67956"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Las Mancuernas",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Las Mulas",
+      "postal_code": [
+        "67958"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Soledad (Agricola)",
+      "postal_code": [
+        "67945"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Soledad (Rusia)",
+      "postal_code": [
+        "67945"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Las Presas",
+      "postal_code": [
+        "67954"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Las Veredas",
+      "postal_code": [
+        "67943"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Las Virgenes",
+      "postal_code": [
+        "67948"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Tijera",
+      "postal_code": [
+        "67940"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "67958"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "67947"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Vibora",
+      "postal_code": [
+        "67946"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Victoria (Los angeles)",
+      "postal_code": [
+        "67954"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "La Vieja",
+      "postal_code": [
+        "67943"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Los Cuartitos",
+      "postal_code": [
+        "67948"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "67958"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Los Nogales",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Los Nogales (El Mezquital)",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Marmolejo",
+      "postal_code": [
+        "67943"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Milpa Vieja (San Manuel)",
+      "postal_code": [
+        "67953"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Milpillas",
+      "postal_code": [
+        "67944",
+        "67955"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Monillal",
+      "postal_code": [
+        "67958"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "67944",
+        "67948",
+        "67958"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Pedregosa",
+      "postal_code": [
+        "67948"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Poblado el Rio (El Sabinito)",
+      "postal_code": [
+        "67943"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Potrero del Padre (Lagunita de Gonzalez)",
+      "postal_code": [
+        "67943"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Potrero de Zamora",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Pozo Dos",
+      "postal_code": [
+        "67947"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Presa de Anteojitos",
+      "postal_code": [
+        "67953"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Puentes (San Juan y Puentes)",
+      "postal_code": [
+        "67947"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Puerto Bajo",
+      "postal_code": [
+        "67955"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Puerto Carretas",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Puerto de Anteojitos",
+      "postal_code": [
+        "67953"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Puerto Pinones",
+      "postal_code": [
+        "67956"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Puerto Rincon de Jesus",
+      "postal_code": [
+        "67958"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "67944",
+        "67956"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Rancho Nuevo (Las Hornillas)",
+      "postal_code": [
+        "67940"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Salitrillo",
+      "postal_code": [
+        "67943",
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "67957"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Sandia el Chico",
+      "postal_code": [
+        "67945"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Sandia (Sandia el Grande)",
+      "postal_code": [
+        "67954"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "San Enrique (Los Mendoza)",
+      "postal_code": [
+        "67956"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "San Francisco de Leos",
+      "postal_code": [
+        "67957"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "67944",
+        "67956"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "San Joaquin de Soto",
+      "postal_code": [
+        "67953"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "San Jose del Jilguero",
+      "postal_code": [
+        "67955"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "San Juan",
+      "postal_code": [
+        "67948"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "San Juan de Aviles",
+      "postal_code": [
+        "67947"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "San Juanito de Resendiz",
+      "postal_code": [
+        "67948"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "San Juanito de Solis",
+      "postal_code": [
+        "67956"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "San Rafael de la Angostura (La Cueva)",
+      "postal_code": [
+        "67955"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "San Rafael del Llano",
+      "postal_code": [
+        "67953"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "San Rafael de los Cortez",
+      "postal_code": [
+        "67948"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "San Rafael de los Cortez (La Cuesta)",
+      "postal_code": [
+        "67948"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "San Rafael de los Cortez (Las Cruces)",
+      "postal_code": [
+        "67948"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "67948"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "67944"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "67948"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "67943"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Seccion Norte",
+      "postal_code": [
+        "67940"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Seccion Sur",
+      "postal_code": [
+        "67940"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "67955"
+      ]
+    },
+    {
+      "city": "Aramberri",
+      "colonia": "Yerbaniz",
+      "postal_code": [
+        "67957"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Tuxcueca",
+      "colonia": "El Tepeguaje",
+      "postal_code": [
+        "49439"
+      ]
+    },
+    {
+      "city": "Tuxcueca",
+      "colonia": "San Luis Soyatlan",
+      "postal_code": [
+        "49440"
+      ]
+    },
+    {
+      "city": "Tuxcueca",
+      "colonia": "San Nicolas de Acuna",
+      "postal_code": [
+        "49446"
+      ]
+    },
+    {
+      "city": "Tuxcueca",
+      "colonia": "Tuxcueca",
+      "postal_code": [
+        "49430"
+      ]
+    }
+  ]
+}

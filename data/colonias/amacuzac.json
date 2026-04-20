@@ -1,0 +1,292 @@
+{
+  "data": [
+    {
+      "city": "Amacuzac",
+      "colonia": "Amacuzac",
+      "postal_code": [
+        "62640"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Barreal",
+      "postal_code": [
+        "62643"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "62643",
+        "62654"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Bungalows",
+      "postal_code": [
+        "62644"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Cajones",
+      "postal_code": [
+        "62653"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Campo Nuevo",
+      "postal_code": [
+        "62653"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Casahuatlan",
+      "postal_code": [
+        "62654"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Coahuixtla",
+      "postal_code": [
+        "62653"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "62646"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Ejidal",
+      "postal_code": [
+        "62655"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "El Balceadero",
+      "postal_code": [
+        "62644"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "El Campamento",
+      "postal_code": [
+        "62654"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "El Guamuchil",
+      "postal_code": [
+        "62654"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "62646"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "62643"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "El Paso de Miahuatlan",
+      "postal_code": [
+        "62647"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "El Rosal (El Alacran)",
+      "postal_code": [
+        "62653"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Huajintlan",
+      "postal_code": [
+        "62656"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Huascuautla",
+      "postal_code": [
+        "62655"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "La Calera",
+      "postal_code": [
+        "62655"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "62646"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "La Glorieta",
+      "postal_code": [
+        "62644"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "La Playa",
+      "postal_code": [
+        "62655"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "62646"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "62644"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Los Arcos",
+      "postal_code": [
+        "62653"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Los Banos de Tula",
+      "postal_code": [
+        "62646"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Los Limones",
+      "postal_code": [
+        "62655"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Miahuatlan (El Cuiji)",
+      "postal_code": [
+        "62647"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "62643"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Ocampo",
+      "postal_code": [
+        "62646"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "62654"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Oriental",
+      "postal_code": [
+        "62653"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Progreso",
+      "postal_code": [
+        "62643"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "62653"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "San Gabriel las Palmas",
+      "postal_code": [
+        "62646"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Teacalco",
+      "postal_code": [
+        "62656"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Tula",
+      "postal_code": [
+        "62646"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Villa Verde",
+      "postal_code": [
+        "62654"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Xoapa",
+      "postal_code": [
+        "62645"
+      ]
+    },
+    {
+      "city": "Amacuzac",
+      "colonia": "Zoquital",
+      "postal_code": [
+        "62653"
+      ]
+    }
+  ]
+}

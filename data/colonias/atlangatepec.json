@@ -1,0 +1,405 @@
+{
+  "data": [
+    {
+      "city": "Atlangatepec",
+      "colonia": "Agricola San Luis",
+      "postal_code": [
+        "90411"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Atlangatepec",
+      "postal_code": [
+        "90410"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Benito Juarez (Tezoyo)",
+      "postal_code": [
+        "90418"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Centro Vacacional Villa Quinta Olivares",
+      "postal_code": [
+        "90416"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Cerro de las Flores",
+      "postal_code": [
+        "90411"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Cuarta Fraccion de Olivares",
+      "postal_code": [
+        "90416"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "El Aleman",
+      "postal_code": [
+        "90415"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "El Catorce",
+      "postal_code": [
+        "90411"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "El Encino",
+      "postal_code": [
+        "90414"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "El Huerfano",
+      "postal_code": [
+        "90414"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "El Ocotal",
+      "postal_code": [
+        "90415"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "El Ocote",
+      "postal_code": [
+        "90414"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "90413"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "El Potrero",
+      "postal_code": [
+        "90414"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "El Recuerdo",
+      "postal_code": [
+        "90415"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Fraccion San Pedro Ecatepec",
+      "postal_code": [
+        "90416"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Jerico",
+      "postal_code": [
+        "90415"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "La Canada",
+      "postal_code": [
+        "90415",
+        "90416"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "La Cuchilla (El Alcanfor)",
+      "postal_code": [
+        "90413"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "La Flor",
+      "postal_code": [
+        "90413"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "La Herradura",
+      "postal_code": [
+        "90415"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "La Joya",
+      "postal_code": [
+        "90414"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "La Loma (El Cerrito)",
+      "postal_code": [
+        "90411"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "La Palma",
+      "postal_code": [
+        "90411"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "90411"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Las Barrancas",
+      "postal_code": [
+        "90414"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Las Tinajas",
+      "postal_code": [
+        "90414"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Las Tinajas (La Tepozanera)",
+      "postal_code": [
+        "90414"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "La Trasquila",
+      "postal_code": [
+        "90416",
+        "90416"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "La Troje",
+      "postal_code": [
+        "90416"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "90418"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Los Capulines",
+      "postal_code": [
+        "90414"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Los Encinos",
+      "postal_code": [
+        "90414"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Los Patos",
+      "postal_code": [
+        "90415"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Sabino Grande (El Carmen)",
+      "postal_code": [
+        "90415"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "San Antonio Tepetzala",
+      "postal_code": [
+        "90415"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "San Antonio Zacapexco",
+      "postal_code": [
+        "90415"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "San Felipe",
+      "postal_code": [
+        "90413"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "San Jose Atlanga",
+      "postal_code": [
+        "90413"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "San Jose de Santa Rosa Zacapexco",
+      "postal_code": [
+        "90415"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "90415"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "San Pedro Ecatepec",
+      "postal_code": [
+        "90415"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "San Simon",
+      "postal_code": [
+        "90411"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Santa Clara Ozumba",
+      "postal_code": [
+        "90411"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "90415"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Santa Maria Tepetzala",
+      "postal_code": [
+        "90415"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Santiago Villalta",
+      "postal_code": [
+        "90414"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Segunda Fraccion de Olivares",
+      "postal_code": [
+        "90416"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Tenopala",
+      "postal_code": [
+        "90415"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Tepezilapan",
+      "postal_code": [
+        "90415"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Tercera Fraccion de Olivares",
+      "postal_code": [
+        "90416"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Unidad Habitacional I",
+      "postal_code": [
+        "90415"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Villa de las Flores",
+      "postal_code": [
+        "90415"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "90416"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Xalnene",
+      "postal_code": [
+        "90415"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Xuxtepec",
+      "postal_code": [
+        "90415"
+      ]
+    },
+    {
+      "city": "Atlangatepec",
+      "colonia": "Zumpango",
+      "postal_code": [
+        "90413"
+      ]
+    }
+  ]
+}

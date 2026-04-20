@@ -1,0 +1,2242 @@
+{
+  "data": [
+    {
+      "city": "Guasave",
+      "colonia": "15 de Octubre",
+      "postal_code": [
+        "81186"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "17 de Mayo",
+      "postal_code": [
+        "81095"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "18 de Marzo",
+      "postal_code": [
+        "81066"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "22-15 [Campo Pesquero]",
+      "postal_code": [
+        "81167"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "24 de Febrero",
+      "postal_code": [
+        "81065",
+        "81120"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "2 de Octubre",
+      "postal_code": [
+        "81014"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "5 de Mayo (Agua Blanca)",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "6 de Mayo",
+      "postal_code": [
+        "81140"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Abelardo L. Rodriguez",
+      "postal_code": [
+        "81136"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Adolfo Ruiz Cortinez",
+      "postal_code": [
+        "81121"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Adolfo Ruiz Cortinez Dos",
+      "postal_code": [
+        "81121"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Agua Blanca",
+      "postal_code": [
+        "81101",
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Agua Blancona",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Agua Escondida",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Alamito Caimanero",
+      "postal_code": [
+        "81177"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Ampliacion Leyva Solano",
+      "postal_code": [
+        "81122"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Ampliacion Santa Maria",
+      "postal_code": [
+        "81045"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "angel Flores",
+      "postal_code": [
+        "81040"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Ayuntamiento 92",
+      "postal_code": [
+        "81028"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Babujaqui",
+      "postal_code": [
+        "81113"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Bachoco",
+      "postal_code": [
+        "81119"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Bamoa",
+      "postal_code": [
+        "81140"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Boca del Rio",
+      "postal_code": [
+        "81197"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Bonanza",
+      "postal_code": [
+        "81160"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "81161"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Buen Retiro (El Retiro)",
+      "postal_code": [
+        "81170"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "81049"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Cabreritas",
+      "postal_code": [
+        "81100"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Caimanero",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "California",
+      "postal_code": [
+        "81128"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Callejon de Tamazula",
+      "postal_code": [
+        "81166"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Callejones de Guasavito",
+      "postal_code": [
+        "81106"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Callejones de Tamazula",
+      "postal_code": [
+        "81170"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Camagüey (Campo Borquez)",
+      "postal_code": [
+        "81104"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Campestre Valle",
+      "postal_code": [
+        "81121"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Campo America",
+      "postal_code": [
+        "81189"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Campo Berrelleza",
+      "postal_code": [
+        "81178"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Campo Borquez",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Campo California",
+      "postal_code": [
+        "81148"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Campo Crucero [Campo Diaz]",
+      "postal_code": [
+        "81160"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Campo Dimas",
+      "postal_code": [
+        "81107"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Campo el Jito",
+      "postal_code": [
+        "81162"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Campo el Porvenir",
+      "postal_code": [
+        "81121"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Campo el Tajito",
+      "postal_code": [
+        "81121"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Campo Esperanza",
+      "postal_code": [
+        "81107"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Campo Figueroa",
+      "postal_code": [
+        "81128"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Campo Filipinas",
+      "postal_code": [
+        "81162"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Campo Inzunza",
+      "postal_code": [
+        "81107"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Campo las Margaritas Dos",
+      "postal_code": [
+        "81121"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Campo Santa Isabel",
+      "postal_code": [
+        "81189"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Campo Sinaloa",
+      "postal_code": [
+        "81148"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Campo Tajin",
+      "postal_code": [
+        "81107"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Campo Treinta y Ocho",
+      "postal_code": [
+        "81113"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Campo Treinta y Uno",
+      "postal_code": [
+        "81161"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Campo Yory",
+      "postal_code": [
+        "81162"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Canal 21",
+      "postal_code": [
+        "81101",
+        "81104"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Canal Alto",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Carboneras",
+      "postal_code": [
+        "81142"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Carricitos",
+      "postal_code": [
+        "81177"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Casa Blanca",
+      "postal_code": [
+        "81178"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Casa de la Comision",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Centro",
+      "postal_code": [
+        "81000"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Charco Largo",
+      "postal_code": [
+        "81148",
+        "81180"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Chino de los Lopez",
+      "postal_code": [
+        "81107",
+        "81143"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Choipa",
+      "postal_code": [
+        "81104",
+        "81183"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Choipa Dos",
+      "postal_code": [
+        "81183"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Chorohui",
+      "postal_code": [
+        "81107",
+        "81164"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Cofradia de Tamazula (La Cofradia)",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Constelacion",
+      "postal_code": [
+        "81049"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Corerepe",
+      "postal_code": [
+        "81124"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Crucero de Bamoa",
+      "postal_code": [
+        "81141"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Cruz Blanca",
+      "postal_code": [
+        "81143"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Cuatro Caminos",
+      "postal_code": [
+        "81189"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Cubilete 1",
+      "postal_code": [
+        "81160"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Cubilete Numero Dos",
+      "postal_code": [
+        "81163"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Cubiri del Amole",
+      "postal_code": [
+        "81170"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Cuesta de Arriba",
+      "postal_code": [
+        "81107"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Del Bosque",
+      "postal_code": [
+        "81040"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Delicias",
+      "postal_code": [
+        "81048"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Doctores",
+      "postal_code": [
+        "81049"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Dorado Numero Tres (Doradito)",
+      "postal_code": [
+        "81161"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Eduardo Labastida",
+      "postal_code": [
+        "81029"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Ejidal",
+      "postal_code": [
+        "81020"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Alto",
+      "postal_code": [
+        "81178"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Amole",
+      "postal_code": [
+        "81170"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Amolito",
+      "postal_code": [
+        "81104"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Arroyo",
+      "postal_code": [
+        "81100"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Bacatete (San Pascual)",
+      "postal_code": [
+        "81178"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Batallon",
+      "postal_code": [
+        "81189"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Burrion",
+      "postal_code": [
+        "81149"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Campesino",
+      "postal_code": [
+        "81121"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Campito",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Caracol",
+      "postal_code": [
+        "81167"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "81178"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Cercon",
+      "postal_code": [
+        "81103"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Cerro Cabezon",
+      "postal_code": [
+        "81118"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Chaleco",
+      "postal_code": [
+        "81090"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Choyal",
+      "postal_code": [
+        "81178"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Coloradito",
+      "postal_code": [
+        "81166"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Crucero",
+      "postal_code": [
+        "81175"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Cuitabon",
+      "postal_code": [
+        "81103"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Dorado",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Dorado Numero Dos",
+      "postal_code": [
+        "81164"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Electricistas",
+      "postal_code": [
+        "81043"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Gallo",
+      "postal_code": [
+        "81124"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Guayabo",
+      "postal_code": [
+        "81175"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Huitussi",
+      "postal_code": [
+        "81167"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Huitussi y Anexos (El Huitussito)",
+      "postal_code": [
+        "81123"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Marcol",
+      "postal_code": [
+        "81160"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Mezquital",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Mezquiton",
+      "postal_code": [
+        "81164"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Papachal",
+      "postal_code": [
+        "81178"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Pitahayal",
+      "postal_code": [
+        "81189"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Platanito",
+      "postal_code": [
+        "81148"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Pochote",
+      "postal_code": [
+        "81189"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Pochote (Potrerillos)",
+      "postal_code": [
+        "81180"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "81162"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Progreso",
+      "postal_code": [
+        "81175"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Realito (El Realito del Amole)",
+      "postal_code": [
+        "81178"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Retiro",
+      "postal_code": [
+        "81127"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Sabino",
+      "postal_code": [
+        "81142"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Sacrificio",
+      "postal_code": [
+        "81163"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Sartenejal",
+      "postal_code": [
+        "81189"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Serranito",
+      "postal_code": [
+        "81180"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Tajito",
+      "postal_code": [
+        "81127"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Tecomate",
+      "postal_code": [
+        "81148"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Tortugo",
+      "postal_code": [
+        "81163"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Varali",
+      "postal_code": [
+        "81183"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "El Varal (San Sebastian Numero Uno)",
+      "postal_code": [
+        "81100"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Emilio Portes Gil (Agua Blanca)",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Estacion Bamoa",
+      "postal_code": [
+        "81141"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Figueroa",
+      "postal_code": [
+        "81122"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Flor de Mayo",
+      "postal_code": [
+        "81165"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Francisco Ley",
+      "postal_code": [
+        "81130"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Francisco R Serrano",
+      "postal_code": [
+        "81181"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Fresno",
+      "postal_code": [
+        "81014"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Gabriel Leyva Solano",
+      "postal_code": [
+        "81122"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Gallo de los Limones",
+      "postal_code": [
+        "81127"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Gambino",
+      "postal_code": [
+        "81102"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "General Emiliano Zapata",
+      "postal_code": [
+        "81166"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Guasavito",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Guayparime",
+      "postal_code": [
+        "81113"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Herculano de la Rocha",
+      "postal_code": [
+        "81183"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Heroes Mexicanos",
+      "postal_code": [
+        "81113"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "81124"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Horacio Gracia Arrayales",
+      "postal_code": [
+        "81140"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Independencia",
+      "postal_code": [
+        "81018"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Jardines del Sol",
+      "postal_code": [
+        "81048"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Jardines del Valle",
+      "postal_code": [
+        "81095"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Javier Rojo Gomez",
+      "postal_code": [
+        "81189"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Jesus Maria",
+      "postal_code": [
+        "81107",
+        "81123"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Josefa Ortiz de Dominguez",
+      "postal_code": [
+        "81028"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Juan Jose Rios",
+      "postal_code": [
+        "81110"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Aceituna",
+      "postal_code": [
+        "81132"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Bebelama",
+      "postal_code": [
+        "81170"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Brecha",
+      "postal_code": [
+        "81190"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Chuparrosa",
+      "postal_code": [
+        "81162"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Cuchilla",
+      "postal_code": [
+        "81103"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Cuerda",
+      "postal_code": [
+        "81143"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Cuestona (La Cuesta)",
+      "postal_code": [
+        "81107"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Curva",
+      "postal_code": [
+        "81148",
+        "81186"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Diez",
+      "postal_code": [
+        "81113"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Ladrilleras de Ocoro",
+      "postal_code": [
+        "81103"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Entrada",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Entrada Vieja",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Escalera",
+      "postal_code": [
+        "81104"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Familia",
+      "postal_code": [
+        "81136"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Florida",
+      "postal_code": [
+        "81015"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Guamuchilera",
+      "postal_code": [
+        "81107"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Linea",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Mojonera",
+      "postal_code": [
+        "81107"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Noria",
+      "postal_code": [
+        "81136"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Once",
+      "postal_code": [
+        "81120"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Pelti",
+      "postal_code": [
+        "81100"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Pichihuila",
+      "postal_code": [
+        "81180"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Piedrera",
+      "postal_code": [
+        "81017"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Pitahaya",
+      "postal_code": [
+        "81177"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Providencia (Guayparime)",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Rosita",
+      "postal_code": [
+        "81162"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Sabanilla [Campo Preciado]",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "81182"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Brisas (Emiliano Zapata)",
+      "postal_code": [
+        "81186"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Canadas Numero Dos",
+      "postal_code": [
+        "81164"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Canadas Numero Uno",
+      "postal_code": [
+        "81175"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Canadas Viejas",
+      "postal_code": [
+        "81175"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Choyitas",
+      "postal_code": [
+        "81100"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Compuertas",
+      "postal_code": [
+        "81101",
+        "81189"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Crucecitas",
+      "postal_code": [
+        "81106"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Cruces",
+      "postal_code": [
+        "81189"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Cuchillas",
+      "postal_code": [
+        "81180"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Culebras",
+      "postal_code": [
+        "81176"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "81176"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Garzas",
+      "postal_code": [
+        "81048"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Glorias",
+      "postal_code": [
+        "81049",
+        "81197"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Guasimas",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Higueras (Las Flores)",
+      "postal_code": [
+        "81177"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Huertas",
+      "postal_code": [
+        "81075"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Juntas de Chamicari",
+      "postal_code": [
+        "81132"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Juntitas de Valdez",
+      "postal_code": [
+        "81103"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Moras",
+      "postal_code": [
+        "81133"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Moritas",
+      "postal_code": [
+        "81101",
+        "81132"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "81048"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Palmitas",
+      "postal_code": [
+        "81103"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Parritas",
+      "postal_code": [
+        "81128"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Pilas",
+      "postal_code": [
+        "81143"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Pitahayas",
+      "postal_code": [
+        "81103"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Pitahayitas",
+      "postal_code": [
+        "81107"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Playas (La Palma)",
+      "postal_code": [
+        "81178"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Playitas",
+      "postal_code": [
+        "81100"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Quemazones",
+      "postal_code": [
+        "81133"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Las Tortugas",
+      "postal_code": [
+        "81162"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "81131"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Uva",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "La Virgencita (Lindavista)",
+      "postal_code": [
+        "81104"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "81045"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Lazaro Cardenas del Rio",
+      "postal_code": [
+        "81100"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Leon Fonseca",
+      "postal_code": [
+        "81130"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Lic. Benito Juarez",
+      "postal_code": [
+        "81127"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Lomas del Mar",
+      "postal_code": [
+        "81048"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Los Aniles",
+      "postal_code": [
+        "81162"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Los Guayacanes",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Los Hornos",
+      "postal_code": [
+        "81133"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Los Hornos Numero Dos",
+      "postal_code": [
+        "81166"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Los Hornos Numero Uno (Salsipuedes)",
+      "postal_code": [
+        "81133"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Los Pinitos",
+      "postal_code": [
+        "81136"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "81029"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Los Tesitos",
+      "postal_code": [
+        "81180"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "81060"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Makarenko",
+      "postal_code": [
+        "81077"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Margaritas",
+      "postal_code": [
+        "81045"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Maximiliano R. Lopez (El Pochote)",
+      "postal_code": [
+        "81163"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Mendivil",
+      "postal_code": [
+        "81166"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Mexico",
+      "postal_code": [
+        "81029"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Miguel Aleman",
+      "postal_code": [
+        "81117"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "81161"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Miguel Leyson Perez",
+      "postal_code": [
+        "81049"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Nio",
+      "postal_code": [
+        "81144"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Nio Dos",
+      "postal_code": [
+        "81148"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Norotio (El Gato)",
+      "postal_code": [
+        "81182"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Norotios Cuba",
+      "postal_code": [
+        "81182"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Ocoro",
+      "postal_code": [
+        "81010"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Once Rios",
+      "postal_code": [
+        "81015"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Orba (Infiernito)",
+      "postal_code": [
+        "81143"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Palmarito de los Angulo",
+      "postal_code": [
+        "81180"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Palos Blancos",
+      "postal_code": [
+        "81148"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Palos Dulces",
+      "postal_code": [
+        "81162"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Palos Verdes",
+      "postal_code": [
+        "81133",
+        "81178"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Paraiso",
+      "postal_code": [
+        "81117"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Paul",
+      "postal_code": [
+        "81180"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Petatlan",
+      "postal_code": [
+        "81045"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Plan del Rio",
+      "postal_code": [
+        "81103"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Portugues de Galvez",
+      "postal_code": [
+        "81132"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Privada Popular",
+      "postal_code": [
+        "81075"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Pueblo Viejo",
+      "postal_code": [
+        "81144"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Ranchito de Caimanero (Infiernito)",
+      "postal_code": [
+        "81103"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Ranchito de Castro",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Ranchito de Inzunza",
+      "postal_code": [
+        "81104"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Ranchito de Zavala",
+      "postal_code": [
+        "81140"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Rancho California",
+      "postal_code": [
+        "81121"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Renato Vega Amador",
+      "postal_code": [
+        "81095"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Residencial Campestre",
+      "postal_code": [
+        "81048"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Revolucion Mexicana",
+      "postal_code": [
+        "81016"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Rio Viejo",
+      "postal_code": [
+        "81178"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Roberto Barrios",
+      "postal_code": [
+        "81164"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Rosales",
+      "postal_code": [
+        "81177"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Sacramento (Campo la Once)",
+      "postal_code": [
+        "81120"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "81162"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "81042",
+        "81117",
+        "81164"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "San Fernandito",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "San Fernando",
+      "postal_code": [
+        "81043",
+        "81164"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "81028",
+        "81122"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "San Francisco de Capomos (El Charro)",
+      "postal_code": [
+        "81183"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "San Gabriel",
+      "postal_code": [
+        "81107"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "San Joachin",
+      "postal_code": [
+        "81049",
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "San Jose",
+      "postal_code": [
+        "81028"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "San Jose de Guayparime",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "San Jose de la Brecha",
+      "postal_code": [
+        "81190"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "San Jose de Palos Blancos (Palos Blancos)",
+      "postal_code": [
+        "81148"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "San Juan",
+      "postal_code": [
+        "81028"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "San Luis",
+      "postal_code": [
+        "81121"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "San Martin",
+      "postal_code": [
+        "81182"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "San Pascual",
+      "postal_code": [
+        "81178"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "San Pedro Guasave (El Ranchito)",
+      "postal_code": [
+        "81107"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "San Pedro Paredes",
+      "postal_code": [
+        "81106"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "81160"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "San Rafael (General Miguel Valle Davalos)",
+      "postal_code": [
+        "81180"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "San Sebastian 2",
+      "postal_code": [
+        "81100"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Santa Clara",
+      "postal_code": [
+        "81049"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "81175"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "81048"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "81045"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Santa Teresa de los Olivos (Los Pinitos)",
+      "postal_code": [
+        "81104"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Sector DIF",
+      "postal_code": [
+        "81030"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Sector La Ermita",
+      "postal_code": [
+        "81030"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Sector Rivera",
+      "postal_code": [
+        "81050"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Sinaloa",
+      "postal_code": [
+        "81029"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Sodi [Productora Agricola]",
+      "postal_code": [
+        "81160"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "STASE",
+      "postal_code": [
+        "81029"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Tamazula",
+      "postal_code": [
+        "81170"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Tapachula",
+      "postal_code": [
+        "81162"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Tapachula (Los Chapos)",
+      "postal_code": [
+        "81162"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Tecomate",
+      "postal_code": [
+        "81065"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Terahuito",
+      "postal_code": [
+        "81148"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Tierra y Libertad",
+      "postal_code": [
+        "81090",
+        "81175"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Torihuia",
+      "postal_code": [
+        "81162"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Treinta y Ochito",
+      "postal_code": [
+        "81113"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Tres de Mayo (Nombre Feo)",
+      "postal_code": [
+        "81178"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "U.N.E.",
+      "postal_code": [
+        "81048"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Union de Colonos",
+      "postal_code": [
+        "81048"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Universitaria",
+      "postal_code": [
+        "81065"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Utatave (Mautillos)",
+      "postal_code": [
+        "81101"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Valle Bonito",
+      "postal_code": [
+        "81028"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Valle del Sol",
+      "postal_code": [
+        "81043"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "81189"
+      ]
+    },
+    {
+      "city": "Guasave",
+      "colonia": "Zona Industrial",
+      "postal_code": [
+        "81029"
+      ]
+    }
+  ]
+}

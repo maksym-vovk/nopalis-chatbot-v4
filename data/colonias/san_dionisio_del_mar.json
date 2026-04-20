@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Dionisio del Mar",
+      "colonia": "Huamuchil",
+      "postal_code": [
+        "70138"
+      ]
+    },
+    {
+      "city": "San Dionisio del Mar",
+      "colonia": "San Dionisio del Mar",
+      "postal_code": [
+        "70137"
+      ]
+    },
+    {
+      "city": "San Dionisio del Mar",
+      "colonia": "San Dionisio Pueblo Viejo",
+      "postal_code": [
+        "70138"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "San Sebastian Ixcapa",
+      "colonia": "Camontinchan",
+      "postal_code": [
+        "71641"
+      ]
+    },
+    {
+      "city": "San Sebastian Ixcapa",
+      "colonia": "Canada del Totomoxtle",
+      "postal_code": [
+        "71643"
+      ]
+    },
+    {
+      "city": "San Sebastian Ixcapa",
+      "colonia": "Costatitlan",
+      "postal_code": [
+        "71640"
+      ]
+    },
+    {
+      "city": "San Sebastian Ixcapa",
+      "colonia": "Llano de la Vaca",
+      "postal_code": [
+        "71648"
+      ]
+    },
+    {
+      "city": "San Sebastian Ixcapa",
+      "colonia": "San Sebastian Ixcapa",
+      "postal_code": [
+        "71640"
+      ]
+    },
+    {
+      "city": "San Sebastian Ixcapa",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "71642"
+      ]
+    }
+  ]
+}

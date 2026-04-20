@@ -1,0 +1,979 @@
+{
+  "data": [
+    {
+      "city": "Canelas",
+      "colonia": "Agua Blanca de Avitia",
+      "postal_code": [
+        "34510"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Arroyo Grande",
+      "postal_code": [
+        "34524"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Birimoa",
+      "postal_code": [
+        "34513"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Brasiles",
+      "postal_code": [
+        "34527"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "34527"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Camellones",
+      "postal_code": [
+        "34530"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Canelas",
+      "postal_code": [
+        "34500"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Carboneras",
+      "postal_code": [
+        "34510"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Cebollas Grandes",
+      "postal_code": [
+        "34520"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Cebollitas",
+      "postal_code": [
+        "34520"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Cerco de Piedra",
+      "postal_code": [
+        "34514"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Aguacate",
+      "postal_code": [
+        "34513"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Aguaje",
+      "postal_code": [
+        "34523"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Cajon",
+      "postal_code": [
+        "34526"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Cajoncito",
+      "postal_code": [
+        "34526"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Carrizo",
+      "postal_code": [
+        "34513",
+        "34525"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Comedero del Rodeo",
+      "postal_code": [
+        "34514"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Derrumbe",
+      "postal_code": [
+        "34525"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Durazno de Beltran",
+      "postal_code": [
+        "34513"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Durazno de los Lopez",
+      "postal_code": [
+        "34525"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Granadillo",
+      "postal_code": [
+        "34515"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Granadito",
+      "postal_code": [
+        "34524"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Guasimal",
+      "postal_code": [
+        "34513"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Huesquelite",
+      "postal_code": [
+        "34514"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Laurelito",
+      "postal_code": [
+        "34514"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Llano",
+      "postal_code": [
+        "34510"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Madrono",
+      "postal_code": [
+        "34524"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Madrono (La Cueva)",
+      "postal_code": [
+        "34524"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Manzanillo",
+      "postal_code": [
+        "34535"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Mautal",
+      "postal_code": [
+        "34527"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Mecatal",
+      "postal_code": [
+        "34527"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Molino",
+      "postal_code": [
+        "34510"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Ojito de Camellones",
+      "postal_code": [
+        "34530"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Oro",
+      "postal_code": [
+        "34527"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Pinal",
+      "postal_code": [
+        "34514"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Potrerito",
+      "postal_code": [
+        "34520"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Potrerito de Valles",
+      "postal_code": [
+        "34513"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Potrero de Birimoa",
+      "postal_code": [
+        "34513"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Potrero de los Chaidez",
+      "postal_code": [
+        "34526"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Puerto la Esperanza",
+      "postal_code": [
+        "34535"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "34510"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Ranchito de Birimoa",
+      "postal_code": [
+        "34527"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Rancho Nuevo",
+      "postal_code": [
+        "34527"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Rio",
+      "postal_code": [
+        "34524"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Salto de Camellones",
+      "postal_code": [
+        "34530"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Saucito",
+      "postal_code": [
+        "34527"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Sauz",
+      "postal_code": [
+        "34525"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Sobaco",
+      "postal_code": [
+        "34520"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Tablon",
+      "postal_code": [
+        "34514"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "El Tepehuaje",
+      "postal_code": [
+        "34527"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Galeancita",
+      "postal_code": [
+        "34535"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Guachapure",
+      "postal_code": [
+        "34527"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Angostura",
+      "postal_code": [
+        "34513"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Aurora",
+      "postal_code": [
+        "34537"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Cana",
+      "postal_code": [
+        "34525"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Canada del Macho",
+      "postal_code": [
+        "34517"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Canita",
+      "postal_code": [
+        "34513"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Cebadilla",
+      "postal_code": [
+        "34533"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "34533"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Cieneguita",
+      "postal_code": [
+        "34530"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Cuchilla",
+      "postal_code": [
+        "34514"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Cupia (Jojobitos)",
+      "postal_code": [
+        "34514"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Ermita",
+      "postal_code": [
+        "34514"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "34530"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "34520"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Hacienda",
+      "postal_code": [
+        "34525"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Joya",
+      "postal_code": [
+        "34514"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "34514"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Lajita",
+      "postal_code": [
+        "34517"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Mesa de Coroneles",
+      "postal_code": [
+        "34516"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Mesa de los Mateos",
+      "postal_code": [
+        "34510"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Mesa de los Quiotes",
+      "postal_code": [
+        "34525"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Mora (Cuesta de Pinitos)",
+      "postal_code": [
+        "34514"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Pena",
+      "postal_code": [
+        "34523"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Plomosa",
+      "postal_code": [
+        "34526"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Quebrada de los Nunez",
+      "postal_code": [
+        "34536"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Quebradita",
+      "postal_code": [
+        "34537"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Ramada",
+      "postal_code": [
+        "34516"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Rosita",
+      "postal_code": [
+        "34533"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Las Adjuntas (La Junta)",
+      "postal_code": [
+        "34535"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Las Joyas",
+      "postal_code": [
+        "34530"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Las Manzanillas",
+      "postal_code": [
+        "34515"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "34524"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Las Papas",
+      "postal_code": [
+        "34514"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Las Trojas",
+      "postal_code": [
+        "34527"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Tembladora",
+      "postal_code": [
+        "34525",
+        "34537"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Tijera",
+      "postal_code": [
+        "34514"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Traspana",
+      "postal_code": [
+        "34536"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "La Yerbabuena",
+      "postal_code": [
+        "34510"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Los Alisos",
+      "postal_code": [
+        "34515"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Los Bevelamos",
+      "postal_code": [
+        "34527"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Los Chirimoyos",
+      "postal_code": [
+        "34513"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "34510"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Los Lobos",
+      "postal_code": [
+        "34523"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Los Mangos",
+      "postal_code": [
+        "34515"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Los Otates",
+      "postal_code": [
+        "34514"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Los Robles",
+      "postal_code": [
+        "34523"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Los Sauces de Arroyo Grande",
+      "postal_code": [
+        "34524"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Los Sauces del Granadito",
+      "postal_code": [
+        "34524"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Los Tanques",
+      "postal_code": [
+        "34514"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Los Veranos",
+      "postal_code": [
+        "34525"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Martin Avitia Carrasco",
+      "postal_code": [
+        "34525"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Mesa de Chirimoyo",
+      "postal_code": [
+        "34513"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Mesa de Guadalupe",
+      "postal_code": [
+        "34523"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Mesa de la Cana",
+      "postal_code": [
+        "34527"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Minitas de Palomas",
+      "postal_code": [
+        "34535"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Mirasolar",
+      "postal_code": [
+        "34527"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Monte Negro",
+      "postal_code": [
+        "34526"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Papudos",
+      "postal_code": [
+        "34516"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Pascuas",
+      "postal_code": [
+        "34526"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Pino Alto",
+      "postal_code": [
+        "34510"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Potrerito de Carrasco",
+      "postal_code": [
+        "34525"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Potrero Grande",
+      "postal_code": [
+        "34520"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Primer Vado",
+      "postal_code": [
+        "34514"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Puerto de los Hernandez",
+      "postal_code": [
+        "34513"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Ramblas",
+      "postal_code": [
+        "34520"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Rancho Colorado",
+      "postal_code": [
+        "34514"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Rancho Escondido",
+      "postal_code": [
+        "34525"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Rancho Santo Nino",
+      "postal_code": [
+        "34535"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "34514"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Salsipuedes",
+      "postal_code": [
+        "34524"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "34527"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "San Jeronimo",
+      "postal_code": [
+        "34523"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "San Jose de Llanitos",
+      "postal_code": [
+        "34520"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "San Juan de Huichacan",
+      "postal_code": [
+        "34524"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "34513"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "34527"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "San Ramon",
+      "postal_code": [
+        "34520"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "34533"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "34514"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Santas Marias",
+      "postal_code": [
+        "34515"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Taunitas",
+      "postal_code": [
+        "34535"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Tecolotes",
+      "postal_code": [
+        "34534"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Tierra Azul",
+      "postal_code": [
+        "34510"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Valuarte",
+      "postal_code": [
+        "34533"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Vascogil",
+      "postal_code": [
+        "34533"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Ventanitas",
+      "postal_code": [
+        "34510"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Zapotes de Rodriguez",
+      "postal_code": [
+        "34514"
+      ]
+    },
+    {
+      "city": "Canelas",
+      "colonia": "Zapotes de Valencia",
+      "postal_code": [
+        "34513"
+      ]
+    }
+  ]
+}

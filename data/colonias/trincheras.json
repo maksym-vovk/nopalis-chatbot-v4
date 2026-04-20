@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Trincheras",
+      "colonia": "El Ocuca",
+      "postal_code": [
+        "83931"
+      ]
+    },
+    {
+      "city": "Trincheras",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "83935"
+      ]
+    },
+    {
+      "city": "Trincheras",
+      "colonia": "Pueblo Nuevo (Pueblo Nuevo Ocuca)",
+      "postal_code": [
+        "83931"
+      ]
+    },
+    {
+      "city": "Trincheras",
+      "colonia": "Trincheras",
+      "postal_code": [
+        "83930"
+      ]
+    }
+  ]
+}

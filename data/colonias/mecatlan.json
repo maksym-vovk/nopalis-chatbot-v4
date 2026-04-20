@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Mecatlan",
+      "colonia": "La Escalera",
+      "postal_code": [
+        "93085"
+      ]
+    },
+    {
+      "city": "Mecatlan",
+      "colonia": "Mecatlan",
+      "postal_code": [
+        "93080"
+      ]
+    },
+    {
+      "city": "Mecatlan",
+      "colonia": "Naranjales",
+      "postal_code": [
+        "93083"
+      ]
+    },
+    {
+      "city": "Mecatlan",
+      "colonia": "Rancho Alegre",
+      "postal_code": [
+        "93086"
+      ]
+    },
+    {
+      "city": "Mecatlan",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "93085"
+      ]
+    }
+  ]
+}

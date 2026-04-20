@@ -1,0 +1,1943 @@
+{
+  "data": [
+    {
+      "city": "Acambaro",
+      "colonia": "06 de Abril",
+      "postal_code": [
+        "38676"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "22 de Marzo",
+      "postal_code": [
+        "38652"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Acambaro Centro",
+      "postal_code": [
+        "38600"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Adolfo Ruiz Cortinez",
+      "postal_code": [
+        "38747"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Agricola Oriental",
+      "postal_code": [
+        "38683"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Agua Caliente",
+      "postal_code": [
+        "38765"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Agustin Rivas Ramirez",
+      "postal_code": [
+        "38764"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Alfredo Soto",
+      "postal_code": [
+        "38733"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Ampliacion San Juan Viejo",
+      "postal_code": [
+        "38735"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Andocutin",
+      "postal_code": [
+        "38780"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Arroyo Colorado",
+      "postal_code": [
+        "38763"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Arroyo del Agua Clarita (Pozo Progreso Uno)",
+      "postal_code": [
+        "38787"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Arroyo de la Luna",
+      "postal_code": [
+        "38760"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Atanasio Torres Castro",
+      "postal_code": [
+        "38755"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Benjamin Mendez",
+      "postal_code": [
+        "38630"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Bertha Cruz Santos (El Puente)",
+      "postal_code": [
+        "38763"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Bertha Rivas Lopez",
+      "postal_code": [
+        "38765"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "38763"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Buenavista de Ballesteros (El Zopilote)",
+      "postal_code": [
+        "38765"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Buenavista (Los Moscos)",
+      "postal_code": [
+        "38773"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Camelinas",
+      "postal_code": [
+        "38683"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Camino a San Francisco Rancho Viejo",
+      "postal_code": [
+        "38783"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Campamento FF.CC. (La Cochinilla)",
+      "postal_code": [
+        "38624"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Campamento Presa Solis",
+      "postal_code": [
+        "38765"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Catalina Gomez de Larrondo",
+      "postal_code": [
+        "38660"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Centro de Capacitacion Magisterial Potrero Grande",
+      "postal_code": [
+        "38740"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "CERESO Acambaro",
+      "postal_code": [
+        "38753"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Chamacuaro",
+      "postal_code": [
+        "38740"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Chicoazen",
+      "postal_code": [
+        "38650"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Chupicuaro (Nuevo Chupicuaro)",
+      "postal_code": [
+        "38750"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Colinas del Real",
+      "postal_code": [
+        "38764"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Corral de Piedras",
+      "postal_code": [
+        "38737"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Cutaro",
+      "postal_code": [
+        "38776"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "David Espitia Guijon",
+      "postal_code": [
+        "38783"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Dulces Nombres",
+      "postal_code": [
+        "38736"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Eduardo Morales Herrejon",
+      "postal_code": [
+        "38676"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Ejido San Ramon",
+      "postal_code": [
+        "38754"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Astillero",
+      "postal_code": [
+        "38734"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Balastre (La Loma del Zapote)",
+      "postal_code": [
+        "38787"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Bordo de Uribe",
+      "postal_code": [
+        "38737"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Burladero",
+      "postal_code": [
+        "38764"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Camino",
+      "postal_code": [
+        "38736"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Capulin",
+      "postal_code": [
+        "38653"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Cerrito (El Palillo)",
+      "postal_code": [
+        "38773"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Cuije",
+      "postal_code": [
+        "38770"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Derramadero",
+      "postal_code": [
+        "38623"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Espanol",
+      "postal_code": [
+        "38740"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Fresno",
+      "postal_code": [
+        "38737"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Fresno Santa Rosa",
+      "postal_code": [
+        "38734"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Gonzaleno",
+      "postal_code": [
+        "38747"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Maguey",
+      "postal_code": [
+        "38736"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "38612"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Moral",
+      "postal_code": [
+        "38784"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Negrito (La Barranca)",
+      "postal_code": [
+        "38767"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "38765"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Piloncillo",
+      "postal_code": [
+        "38734"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Puente del Carrizo (Parada del Carrizo)",
+      "postal_code": [
+        "38783"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "38783"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "38787"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Rodeo",
+      "postal_code": [
+        "38767"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Romero",
+      "postal_code": [
+        "38783"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Sauz",
+      "postal_code": [
+        "38755"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Tecolote",
+      "postal_code": [
+        "38754"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Tenorio",
+      "postal_code": [
+        "38737"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Vergel",
+      "postal_code": [
+        "38612"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "El Zarpazo",
+      "postal_code": [
+        "38735"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Emeterio Tovar",
+      "postal_code": [
+        "38734"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Emilio Carranza",
+      "postal_code": [
+        "38680"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Enrique Velasco Ibarra",
+      "postal_code": [
+        "38664"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Ernesto A. Coss Tirado",
+      "postal_code": [
+        "38735"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Everardo Morales",
+      "postal_code": [
+        "38676"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Gaytan del Refugio",
+      "postal_code": [
+        "38755"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Girasoles",
+      "postal_code": [
+        "38630"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Gloria Sosa",
+      "postal_code": [
+        "38787"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Granja Gorgorita",
+      "postal_code": [
+        "38787"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Granja la Herradura",
+      "postal_code": [
+        "38736"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "38630"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Guadalupe Soto",
+      "postal_code": [
+        "38733"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "38600"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Hacienda de Guadalupe (El Rancho)",
+      "postal_code": [
+        "38735"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Hacienda el Coyote",
+      "postal_code": [
+        "38740"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Hacienda Real de Acambaro",
+      "postal_code": [
+        "38765"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Hacienda San Cristobal",
+      "postal_code": [
+        "38735"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Hospital General",
+      "postal_code": [
+        "38787"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Huanumo (Santa Isabel)",
+      "postal_code": [
+        "38734"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Ignacio Lara",
+      "postal_code": [
+        "38736"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Inchamacuaro (Chamacuarillo)",
+      "postal_code": [
+        "38740"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Independencia",
+      "postal_code": [
+        "38600"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Iramuco",
+      "postal_code": [
+        "38770"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Isaias Zuniga (Colonia Ramirez)",
+      "postal_code": [
+        "38735"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Isla Cerro Grande (Isla Chanaco)",
+      "postal_code": [
+        "38773"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Jacarandas",
+      "postal_code": [
+        "38683"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Jaral del Refugio",
+      "postal_code": [
+        "38736"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Jesus Ruiz Ruiz (San Miguel)",
+      "postal_code": [
+        "38787"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Jose Jesus Nieves Ramirez",
+      "postal_code": [
+        "38765"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Jose Lopez",
+      "postal_code": [
+        "38736"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Jose Tirado (La Noria)",
+      "postal_code": [
+        "38736"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Juan Jose Velazquez Torres",
+      "postal_code": [
+        "38765"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Juan Paredes",
+      "postal_code": [
+        "38735"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Aurora",
+      "postal_code": [
+        "38754"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Cabana",
+      "postal_code": [
+        "38763"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Cajeta",
+      "postal_code": [
+        "38747"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Canada",
+      "postal_code": [
+        "38683",
+        "38773"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Cantera",
+      "postal_code": [
+        "38650"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Carpa",
+      "postal_code": [
+        "38737"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Ceba",
+      "postal_code": [
+        "38735"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Charca (Los Altos)",
+      "postal_code": [
+        "38740"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Chicharronera (Camino Blanco)",
+      "postal_code": [
+        "38734"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Chiveria",
+      "postal_code": [
+        "38763"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Cima",
+      "postal_code": [
+        "38653"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Concepcion",
+      "postal_code": [
+        "38733"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Crucita",
+      "postal_code": [
+        "38757"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Divina Providencia",
+      "postal_code": [
+        "38763"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Encarnacion",
+      "postal_code": [
+        "38756"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "38787"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Esperanza (Hilario Hernandez)",
+      "postal_code": [
+        "38787"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Florida",
+      "postal_code": [
+        "38765"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Granja",
+      "postal_code": [
+        "38736"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Granja Hernandez",
+      "postal_code": [
+        "38787"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Granja (Rancho la Alegria)",
+      "postal_code": [
+        "38787"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Guadalupana",
+      "postal_code": [
+        "38740"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Joya",
+      "postal_code": [
+        "38764"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Lagunilla",
+      "postal_code": [
+        "38747"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Laja",
+      "postal_code": [
+        "38675",
+        "38764"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Loma",
+      "postal_code": [
+        "38760"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Lomita",
+      "postal_code": [
+        "38735"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Merced",
+      "postal_code": [
+        "38783"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Mesa de San Jose",
+      "postal_code": [
+        "38734"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Mora (La Chumbacua)",
+      "postal_code": [
+        "38786"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Ortiga",
+      "postal_code": [
+        "38773"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Pila de los arboles",
+      "postal_code": [
+        "38743"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Presa de Santa Ines",
+      "postal_code": [
+        "38767"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "38737"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Puerta del Monte",
+      "postal_code": [
+        "38770"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Purisima",
+      "postal_code": [
+        "38783"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Purisima Concepcion",
+      "postal_code": [
+        "38754"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Las aguilas",
+      "postal_code": [
+        "38683"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Las Antenas",
+      "postal_code": [
+        "38786"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Las Arboledas",
+      "postal_code": [
+        "38640"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Las Compuertas",
+      "postal_code": [
+        "38787"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Las Cruces",
+      "postal_code": [
+        "38755"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "38614"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Las Huertas",
+      "postal_code": [
+        "38785"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Las Jicamas (La Purisima)",
+      "postal_code": [
+        "38747"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Las Malayas",
+      "postal_code": [
+        "38679"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Las Malayas (La Providencia)",
+      "postal_code": [
+        "38787"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Las Maravillas",
+      "postal_code": [
+        "38736"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Las Moras",
+      "postal_code": [
+        "38743"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "38654",
+        "38784"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Soledad (Los Viveros)",
+      "postal_code": [
+        "38736"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Las Palomas",
+      "postal_code": [
+        "38735"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Las Partidas",
+      "postal_code": [
+        "38747"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Las Trancas (Los Milagros)",
+      "postal_code": [
+        "38737"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Tinajita",
+      "postal_code": [
+        "38743"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "38736",
+        "38765"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Trinidad Vieja",
+      "postal_code": [
+        "38765"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Vega del Socorro",
+      "postal_code": [
+        "38613"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "La Veronica",
+      "postal_code": [
+        "38764"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Llano del Derramadero",
+      "postal_code": [
+        "38787"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "38610"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Loma Dorada",
+      "postal_code": [
+        "38614"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "38755"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Lomas Verdes",
+      "postal_code": [
+        "38650"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Loretito de las Casas",
+      "postal_code": [
+        "38736"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Loreto (Teresa)",
+      "postal_code": [
+        "38735"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "38787"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "38754"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Los angeles (El Carrizo)",
+      "postal_code": [
+        "38737"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Los arboles (Gumaro Escobar)",
+      "postal_code": [
+        "38755"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Los Balcones",
+      "postal_code": [
+        "38683"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Los Coss (El Establo)",
+      "postal_code": [
+        "38735"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Los Desmontes",
+      "postal_code": [
+        "38786"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "38783"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "38625"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Los Mezquites",
+      "postal_code": [
+        "38785"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Los organos de Arriba",
+      "postal_code": [
+        "38747"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Los organos (Los organos de Abajo)",
+      "postal_code": [
+        "38747"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "38650",
+        "38787"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Los Rangeles",
+      "postal_code": [
+        "38735"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Los Remedios",
+      "postal_code": [
+        "38760"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "38674"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Luis Echeverria",
+      "postal_code": [
+        "38683"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Malayas II",
+      "postal_code": [
+        "38630"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Mauro Montoya Palacios",
+      "postal_code": [
+        "38735"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Mexico Nuevo",
+      "postal_code": [
+        "38785"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Miguel Uribe Arriola",
+      "postal_code": [
+        "38733"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Moncloa",
+      "postal_code": [
+        "38734"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Montana",
+      "postal_code": [
+        "38787"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Monte Prieto",
+      "postal_code": [
+        "38735"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Nicasio Calderon",
+      "postal_code": [
+        "38747"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Nicolas Cardenas",
+      "postal_code": [
+        "38740"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Nicolas Tapia (El Paredon)",
+      "postal_code": [
+        "38754"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Ninguno [Distribuidora Automotriz]",
+      "postal_code": [
+        "38735"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Ninguno [Escuela Tecnologica Agropecuaria]",
+      "postal_code": [
+        "38735"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Obrajuelo",
+      "postal_code": [
+        "38740"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Pablo Morales Lopez Valdez",
+      "postal_code": [
+        "38754"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Palo Blanco del Refugio",
+      "postal_code": [
+        "38783"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Pantaleon",
+      "postal_code": [
+        "38784"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Panteon",
+      "postal_code": [
+        "38765"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Paracuaro",
+      "postal_code": [
+        "38730"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Parada la Merced",
+      "postal_code": [
+        "38747"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Paraiso Dorado",
+      "postal_code": [
+        "38672"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Parcialidad",
+      "postal_code": [
+        "38770"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Paredon Chiquito",
+      "postal_code": [
+        "38736"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Pedregal de los alamos",
+      "postal_code": [
+        "38673"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Pedro Ortiz Zarraga",
+      "postal_code": [
+        "38754"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Piedad Sanchez",
+      "postal_code": [
+        "38764"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Piedras Chinas",
+      "postal_code": [
+        "38785"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Piedras de Amolar",
+      "postal_code": [
+        "38755"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Pinos de Inchamacuaro",
+      "postal_code": [
+        "38740"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Providencia",
+      "postal_code": [
+        "38787"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Providencia de San Agustin",
+      "postal_code": [
+        "38740"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Puente de Fierro [Invernadero]",
+      "postal_code": [
+        "38787"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Puerto de las Cabras",
+      "postal_code": [
+        "38745"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Puerto Ferrer",
+      "postal_code": [
+        "38733"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Rancho Grande",
+      "postal_code": [
+        "38620"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Rancho Luna",
+      "postal_code": [
+        "38787"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Rancho Union (angel Nunez)",
+      "postal_code": [
+        "38787"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Real del Puente",
+      "postal_code": [
+        "38612"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Rio Blanco",
+      "postal_code": [
+        "38689"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Rodrigo Acevedo Cardona",
+      "postal_code": [
+        "38735"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Rosendo Ortiz",
+      "postal_code": [
+        "38757"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "38740"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "38764"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Cayetano",
+      "postal_code": [
+        "38754"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Diego",
+      "postal_code": [
+        "38783",
+        "38787"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Diego de Alcala (Hacienda de San Diego)",
+      "postal_code": [
+        "38747"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Felipe",
+      "postal_code": [
+        "38733"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Felipe de Jesus",
+      "postal_code": [
+        "38735"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Francisco de la Piedad (La Codorniz)",
+      "postal_code": [
+        "38763"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Francisco Paracuaro",
+      "postal_code": [
+        "38730"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Francisco Rancho Viejo",
+      "postal_code": [
+        "38783"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "38770"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Isidro 1",
+      "postal_code": [
+        "38670"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Isidro 2",
+      "postal_code": [
+        "38670"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Jose (Campo Hermoso)",
+      "postal_code": [
+        "38736"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Jose de La Pena",
+      "postal_code": [
+        "38785"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Jose de las Pilas",
+      "postal_code": [
+        "38734",
+        "38777"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Jose de Medina",
+      "postal_code": [
+        "38754"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Juan Bosco (El Maguey)",
+      "postal_code": [
+        "38736"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Juan (El Zapote)",
+      "postal_code": [
+        "38770"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Juan Jaripeo",
+      "postal_code": [
+        "38783"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Juan Rancho Viejo (Hacienda Nueva)",
+      "postal_code": [
+        "38737"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Juan Viejo",
+      "postal_code": [
+        "38735"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "38787"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Luis de los Agustinos",
+      "postal_code": [
+        "38734"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Luis de los Agustinos [Desarrollo Ecoturistico",
+      "postal_code": [
+        "38734"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "38763"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Mateo Tocuaro",
+      "postal_code": [
+        "38785"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "38766"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Miguel del Puerto",
+      "postal_code": [
+        "38766"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Nicolas de Tolentino",
+      "postal_code": [
+        "38763"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "38730"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Pedro (La Placa)",
+      "postal_code": [
+        "38754"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "38740"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Ramon",
+      "postal_code": [
+        "38736"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Santa Clara",
+      "postal_code": [
+        "38784"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "38765"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "38735"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Santa Ines",
+      "postal_code": [
+        "38760"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "38787"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Santa Rosa de Lima",
+      "postal_code": [
+        "38734"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Santiaguillo",
+      "postal_code": [
+        "38755"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "San Vicente Munguia",
+      "postal_code": [
+        "38757"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Severiano Tovar Martinez",
+      "postal_code": [
+        "38736"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Solidaridad Ferrocarrilera",
+      "postal_code": [
+        "38630"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Solis",
+      "postal_code": [
+        "38765"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Tres Marias",
+      "postal_code": [
+        "38733"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Universo",
+      "postal_code": [
+        "38630"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Valle Cuauhtemoc",
+      "postal_code": [
+        "38765"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Valle de Acambaro",
+      "postal_code": [
+        "38642"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Velazquez",
+      "postal_code": [
+        "38733"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Victor Lopez Camacho",
+      "postal_code": [
+        "38736"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Villas del Sol",
+      "postal_code": [
+        "38613"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Vista Alegre",
+      "postal_code": [
+        "38653"
+      ]
+    },
+    {
+      "city": "Acambaro",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "38650"
+      ]
+    }
+  ]
+}

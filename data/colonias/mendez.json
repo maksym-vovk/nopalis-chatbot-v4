@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Mendez",
+      "colonia": "El Lobo (La Escondida)",
+      "postal_code": [
+        "88882"
+      ]
+    },
+    {
+      "city": "Mendez",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "88882"
+      ]
+    },
+    {
+      "city": "Mendez",
+      "colonia": "Jesus Maria Uno (Jesus Maria de Solis)",
+      "postal_code": [
+        "88882"
+      ]
+    },
+    {
+      "city": "Mendez",
+      "colonia": "La Purisima",
+      "postal_code": [
+        "88880"
+      ]
+    },
+    {
+      "city": "Mendez",
+      "colonia": "Mendez",
+      "postal_code": [
+        "88880"
+      ]
+    },
+    {
+      "city": "Mendez",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "88882"
+      ]
+    }
+  ]
+}

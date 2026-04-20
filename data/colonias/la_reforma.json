@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "La Reforma",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "71087"
+      ]
+    },
+    {
+      "city": "La Reforma",
+      "colonia": "Estanzuela Grande",
+      "postal_code": [
+        "71081"
+      ]
+    },
+    {
+      "city": "La Reforma",
+      "colonia": "La Reforma",
+      "postal_code": [
+        "71080"
+      ]
+    },
+    {
+      "city": "La Reforma",
+      "colonia": "Rio Tigre",
+      "postal_code": [
+        "71083"
+      ]
+    }
+  ]
+}

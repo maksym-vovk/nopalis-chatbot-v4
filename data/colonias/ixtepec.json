@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Ixtepec",
+      "colonia": "Cuajinamin",
+      "postal_code": [
+        "73482"
+      ]
+    },
+    {
+      "city": "Ixtepec",
+      "colonia": "Ixtepec",
+      "postal_code": [
+        "73480"
+      ]
+    },
+    {
+      "city": "Ixtepec",
+      "colonia": "Patiy",
+      "postal_code": [
+        "73480"
+      ]
+    },
+    {
+      "city": "Ixtepec",
+      "colonia": "San Martin",
+      "postal_code": [
+        "73486"
+      ]
+    },
+    {
+      "city": "Ixtepec",
+      "colonia": "Takaltzaps",
+      "postal_code": [
+        "73482"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "San Dionisio Ocotepec",
+      "colonia": "Agua Santa",
+      "postal_code": [
+        "70496"
+      ]
+    },
+    {
+      "city": "San Dionisio Ocotepec",
+      "colonia": "Fatima",
+      "postal_code": [
+        "70495"
+      ]
+    },
+    {
+      "city": "San Dionisio Ocotepec",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "70495"
+      ]
+    },
+    {
+      "city": "San Dionisio Ocotepec",
+      "colonia": "San Baltazar Guelavila",
+      "postal_code": [
+        "70497"
+      ]
+    },
+    {
+      "city": "San Dionisio Ocotepec",
+      "colonia": "San Dionisio Ocotepec",
+      "postal_code": [
+        "70495"
+      ]
+    }
+  ]
+}

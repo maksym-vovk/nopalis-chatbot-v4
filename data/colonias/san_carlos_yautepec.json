@@ -1,0 +1,512 @@
+{
+  "data": [
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Agua Caliente",
+      "postal_code": [
+        "70515"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Agua Fria",
+      "postal_code": [
+        "70507"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Asuncion Lachixonase",
+      "postal_code": [
+        "70504"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Cerro de Ocotito",
+      "postal_code": [
+        "70516"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Curva Colorada",
+      "postal_code": [
+        "70504"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "El Aguacate",
+      "postal_code": [
+        "70507"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "70504",
+        "70507"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "El Atascadero",
+      "postal_code": [
+        "70504"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "El Campamento",
+      "postal_code": [
+        "70505",
+        "70507"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "El Jazmin",
+      "postal_code": [
+        "70504"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "El Manantial",
+      "postal_code": [
+        "70500",
+        "70508"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "El Ojo de Agua",
+      "postal_code": [
+        "70500"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "El Pipal",
+      "postal_code": [
+        "70504"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "El Platanar",
+      "postal_code": [
+        "70503"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "70508"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "El Revolcadero",
+      "postal_code": [
+        "70503"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "El Vergel",
+      "postal_code": [
+        "70508"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "El Zompantle",
+      "postal_code": [
+        "70504"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "70507"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "70517"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Jicalpextle",
+      "postal_code": [
+        "70508"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "La Baeza",
+      "postal_code": [
+        "70506"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "La Bolsa",
+      "postal_code": [
+        "70504"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "La Chepin",
+      "postal_code": [
+        "70503"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "La Chirpa",
+      "postal_code": [
+        "70503"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "La Concordia",
+      "postal_code": [
+        "70515"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "70515"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "La Flor",
+      "postal_code": [
+        "70504"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "La Magdalena",
+      "postal_code": [
+        "70507"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "70515"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Llano Ocote",
+      "postal_code": [
+        "70504"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Los Lengüitos (Rancho el Carmen)",
+      "postal_code": [
+        "70503"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Los Magueyales",
+      "postal_code": [
+        "70504"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Los Orozco",
+      "postal_code": [
+        "70507"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Los Ranchos",
+      "postal_code": [
+        "70504"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Oaxaca",
+      "postal_code": [
+        "70515"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Ojo de Caballo",
+      "postal_code": [
+        "70516"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Rancho Candelaria",
+      "postal_code": [
+        "70506"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Rancho Rio Mamey",
+      "postal_code": [
+        "70508"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Rio Guela",
+      "postal_code": [
+        "70508"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Rio Nopal",
+      "postal_code": [
+        "70515"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "San Antonio los Guajes",
+      "postal_code": [
+        "70503"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "San Baltazar Chivaguela (Lagunas)",
+      "postal_code": [
+        "70503"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "San Carlos Yautepec Centro",
+      "postal_code": [
+        "70500"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "San Francisco Guichina",
+      "postal_code": [
+        "70506"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "San Isidro Manteca",
+      "postal_code": [
+        "70514"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "San Isidro Tapanala",
+      "postal_code": [
+        "70503"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "San Jose Chiltepec",
+      "postal_code": [
+        "70516"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "San Lucas Ixcotepec",
+      "postal_code": [
+        "70515"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "San Martin",
+      "postal_code": [
+        "70500"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "San Matias Petacaltepec",
+      "postal_code": [
+        "70516"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "70505",
+        "70508"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "San Miguel Chongos",
+      "postal_code": [
+        "70517"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "San Miguel Nitzaviguiti",
+      "postal_code": [
+        "70507"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "San Miguel Suchiltepec",
+      "postal_code": [
+        "70516"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "San Pablo Topiltepec",
+      "postal_code": [
+        "70510"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "San Pedro Lachigoba",
+      "postal_code": [
+        "70503"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "San Pedro Leapi",
+      "postal_code": [
+        "70513"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "San Pedro Tepalcatepec",
+      "postal_code": [
+        "70510"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "70513"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Santa Cruz la Reforma",
+      "postal_code": [
+        "70508"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Santa Lucia Mecaltepec",
+      "postal_code": [
+        "70516"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Santa Maria Candelaria",
+      "postal_code": [
+        "70516"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Santa Maria Nizaviguiti",
+      "postal_code": [
+        "70507"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Santiago Lachivia",
+      "postal_code": [
+        "70505"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Santiago Quiavicuzas",
+      "postal_code": [
+        "70508"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Santiago Vargas (Llano Santiago)",
+      "postal_code": [
+        "70514"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Santo Domingo Lachivito",
+      "postal_code": [
+        "70513"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Santo Tomas Quieri",
+      "postal_code": [
+        "70505"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Vereshiga",
+      "postal_code": [
+        "70507"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Yegalache",
+      "postal_code": [
+        "70503"
+      ]
+    },
+    {
+      "city": "San Carlos Yautepec",
+      "colonia": "Yerba Santa",
+      "postal_code": [
+        "70506"
+      ]
+    }
+  ]
+}

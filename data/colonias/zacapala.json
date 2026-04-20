@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Zacapala",
+      "colonia": "Buenavista (Xocotitla)",
+      "postal_code": [
+        "74685"
+      ]
+    },
+    {
+      "city": "Zacapala",
+      "colonia": "El Rosario Xochitiopan",
+      "postal_code": [
+        "74685"
+      ]
+    },
+    {
+      "city": "Zacapala",
+      "colonia": "La Victoria",
+      "postal_code": [
+        "74684"
+      ]
+    },
+    {
+      "city": "Zacapala",
+      "colonia": "Rancho Nuevo los Navarros",
+      "postal_code": [
+        "74685"
+      ]
+    },
+    {
+      "city": "Zacapala",
+      "colonia": "San Mateo Mimiapan",
+      "postal_code": [
+        "74688"
+      ]
+    },
+    {
+      "city": "Zacapala",
+      "colonia": "Zacapala",
+      "postal_code": [
+        "74680"
+      ]
+    }
+  ]
+}

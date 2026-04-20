@@ -1,0 +1,635 @@
+{
+  "data": [
+    {
+      "city": "Tlanchinol",
+      "colonia": "Acahuasco",
+      "postal_code": [
+        "43151"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Acatipa",
+      "postal_code": [
+        "43161"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Acuapa",
+      "postal_code": [
+        "43154"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Amoxco",
+      "postal_code": [
+        "43162"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Apantlazol",
+      "postal_code": [
+        "43154"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Atoscalao",
+      "postal_code": [
+        "43156"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Catlapani",
+      "postal_code": [
+        "43168"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Cececapa",
+      "postal_code": [
+        "43159"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Cerro Alto",
+      "postal_code": [
+        "43164"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Chachala",
+      "postal_code": [
+        "43156"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Chalchocotipa",
+      "postal_code": [
+        "43161"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Chicaco",
+      "postal_code": [
+        "43155"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Chichatla",
+      "postal_code": [
+        "43151"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Chichiltepec",
+      "postal_code": [
+        "43159"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Chipoco",
+      "postal_code": [
+        "43156"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Citlala",
+      "postal_code": [
+        "43160"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Coamapil",
+      "postal_code": [
+        "43159"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Comala",
+      "postal_code": [
+        "43155"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Copaltitla",
+      "postal_code": [
+        "43159"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Cuatahuatla",
+      "postal_code": [
+        "43162"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Cuatatlan",
+      "postal_code": [
+        "43164"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Cuatlapech",
+      "postal_code": [
+        "43156"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Cuatlapextla",
+      "postal_code": [
+        "43160"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Cuatlimax",
+      "postal_code": [
+        "43160"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Ehuatitla",
+      "postal_code": [
+        "43167"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "El Balcon",
+      "postal_code": [
+        "43159"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "El Mirador (Casetas)",
+      "postal_code": [
+        "43156"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "El Suspiro",
+      "postal_code": [
+        "43159"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Gomez Sada",
+      "postal_code": [
+        "43150"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "43167"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Huastequita",
+      "postal_code": [
+        "43150"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Hueyapa",
+      "postal_code": [
+        "43160"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Huitepec",
+      "postal_code": [
+        "43162"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Independencia",
+      "postal_code": [
+        "43150"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Ixtlapala",
+      "postal_code": [
+        "43156"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Jalpa",
+      "postal_code": [
+        "43160"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "La Montana",
+      "postal_code": [
+        "43163"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "La Pimienta",
+      "postal_code": [
+        "43165"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "43165"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "La Quebradora",
+      "postal_code": [
+        "43163"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Las Puentes",
+      "postal_code": [
+        "43156"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "43150"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Loma Grande",
+      "postal_code": [
+        "43150"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Lontla",
+      "postal_code": [
+        "43165"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Los Pemuches",
+      "postal_code": [
+        "43162"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Morelos",
+      "postal_code": [
+        "43150"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Moyotla",
+      "postal_code": [
+        "43165"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Nuevo",
+      "postal_code": [
+        "43150",
+        "43161"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Olotla",
+      "postal_code": [
+        "43153"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Pahuayo",
+      "postal_code": [
+        "43168"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Peyula",
+      "postal_code": [
+        "43157"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Pilcuatla",
+      "postal_code": [
+        "43154"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Pitzotla",
+      "postal_code": [
+        "43165"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Quetzaltzongo",
+      "postal_code": [
+        "43156"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Quimixtla Hula",
+      "postal_code": [
+        "43160"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Quimixtla (Xitlama)",
+      "postal_code": [
+        "43156"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "San Cristobal",
+      "postal_code": [
+        "43155"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "San Jose",
+      "postal_code": [
+        "43161"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "43165"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "San Salvador",
+      "postal_code": [
+        "43164"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "43150"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "43150"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "43150"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "43168"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Santa Maria Catzotipan (Santa Maria Tepetzintla)",
+      "postal_code": [
+        "43163"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Santa Martha Ula",
+      "postal_code": [
+        "43160"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Tamazolapa",
+      "postal_code": [
+        "43162"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Tecontla",
+      "postal_code": [
+        "43157"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Tecruz",
+      "postal_code": [
+        "43165"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Temango",
+      "postal_code": [
+        "43168"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Tenango",
+      "postal_code": [
+        "43160"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Tenexatl",
+      "postal_code": [
+        "43165"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Tenexco",
+      "postal_code": [
+        "43162"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Tepeyac",
+      "postal_code": [
+        "43164"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Tianguis",
+      "postal_code": [
+        "43159"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Tierra Colorada",
+      "postal_code": [
+        "43164"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Tlacomul",
+      "postal_code": [
+        "43160"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Tlahuelompa",
+      "postal_code": [
+        "43165"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Tlahuelongo",
+      "postal_code": [
+        "43157"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Tlanchinol Centro",
+      "postal_code": [
+        "43150"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Tlazolapa",
+      "postal_code": [
+        "43165"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Tochintla",
+      "postal_code": [
+        "43155"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Toctitlan",
+      "postal_code": [
+        "43157"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Tolapa",
+      "postal_code": [
+        "43159"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Totonicapa",
+      "postal_code": [
+        "43155"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "43150"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Xala",
+      "postal_code": [
+        "43165"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Xaltipa",
+      "postal_code": [
+        "43165"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Xitlama",
+      "postal_code": [
+        "43156"
+      ]
+    },
+    {
+      "city": "Tlanchinol",
+      "colonia": "Xochititla",
+      "postal_code": [
+        "43154"
+      ]
+    }
+  ]
+}

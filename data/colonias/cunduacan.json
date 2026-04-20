@@ -1,0 +1,796 @@
+{
+  "data": [
+    {
+      "city": "Cunduacan",
+      "colonia": "Abraham de La Cruz",
+      "postal_code": [
+        "86690"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Alianza",
+      "postal_code": [
+        "86690"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Alianza para la Produccion",
+      "postal_code": [
+        "86684"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Amado Gomez",
+      "postal_code": [
+        "86680"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Anta",
+      "postal_code": [
+        "86694"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Anta y Culico (Santa Rita)",
+      "postal_code": [
+        "86696"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Atenas 2000",
+      "postal_code": [
+        "86690"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "86690"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Buenaventura",
+      "postal_code": [
+        "86687"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "86696"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Burocratas",
+      "postal_code": [
+        "86690"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Carlos Rovirosa (Tulipan)",
+      "postal_code": [
+        "86687"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Casa Blanca 1a Secc",
+      "postal_code": [
+        "86680"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Casa Blanca 2a Secc",
+      "postal_code": [
+        "86680"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Ceconca",
+      "postal_code": [
+        "86690"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Ceiba 1ra Seccion (Jahuactal)",
+      "postal_code": [
+        "86696"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Colima",
+      "postal_code": [
+        "86697"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Cristal",
+      "postal_code": [
+        "86690"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Cucuyulapa",
+      "postal_code": [
+        "86698"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Cucuyulapa 2da. Seccion (Puente Samaria)",
+      "postal_code": [
+        "86698"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Culico 1ra. Seccion",
+      "postal_code": [
+        "86694"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Culico 2da. Seccion",
+      "postal_code": [
+        "86694"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Cumuapa 1a Secc",
+      "postal_code": [
+        "86697"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Cumuapa 2da Seccion",
+      "postal_code": [
+        "86697"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Cunduacan 2000",
+      "postal_code": [
+        "86690"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Cunduacan Centro",
+      "postal_code": [
+        "86690"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Cunduacan (El Mote)",
+      "postal_code": [
+        "86690"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Cunduacan (San Pedro)",
+      "postal_code": [
+        "86696"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Domingo Amado Brito Salgado",
+      "postal_code": [
+        "86684"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Dos Ceibas",
+      "postal_code": [
+        "86696"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "El Carmelo",
+      "postal_code": [
+        "86690"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "El Carmen (Cumuapa)",
+      "postal_code": [
+        "86697"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "El Palmar",
+      "postal_code": [
+        "86693"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "El Tular",
+      "postal_code": [
+        "86680"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "El Tunal",
+      "postal_code": [
+        "86684"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "86690"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Emiliano Zapata (San Mateo)",
+      "postal_code": [
+        "86693"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Enrique Gonzalez Pedrero",
+      "postal_code": [
+        "86680"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Esperanza",
+      "postal_code": [
+        "86690"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Felipe Carrillo Puerto",
+      "postal_code": [
+        "86687"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Felipe Galvan",
+      "postal_code": [
+        "86697"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "General Francisco J. Mujica",
+      "postal_code": [
+        "86697"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Gregorio Mendez",
+      "postal_code": [
+        "86696"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Huacapa y Amestoy",
+      "postal_code": [
+        "86690"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Huapacal 1a Secc",
+      "postal_code": [
+        "86696"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Huapacal 2da. Seccion",
+      "postal_code": [
+        "86696"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Huimango",
+      "postal_code": [
+        "86695"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Huimango 1ra Seccion",
+      "postal_code": [
+        "86692"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Huimango 1ra. Seccion (La Esperanza)",
+      "postal_code": [
+        "86693"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Huimango 2da Seccion",
+      "postal_code": [
+        "86693"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Huimango 2da. Seccion (La Mona)",
+      "postal_code": [
+        "86693"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Huimango 3ra Seccion (Los Cerros)",
+      "postal_code": [
+        "86693"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "86680"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Jardines del Bosque",
+      "postal_code": [
+        "86690"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Jose Maria Morelos y Pavon (Morelitos)",
+      "postal_code": [
+        "86690"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Jose Maria Pino Suarez",
+      "postal_code": [
+        "86680"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "La Chonita",
+      "postal_code": [
+        "86682"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "La Finca",
+      "postal_code": [
+        "86690"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Laguna de Cucuyulapa",
+      "postal_code": [
+        "86697"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "La Isla",
+      "postal_code": [
+        "86686"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "La Lucha",
+      "postal_code": [
+        "86680"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "La Piedra 1ra. Seccion",
+      "postal_code": [
+        "86686"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "La Piedra 2da Seccion",
+      "postal_code": [
+        "86693"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "La Piedra 3ra Seccion",
+      "postal_code": [
+        "86681"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "La Piedra 4ta Seccion",
+      "postal_code": [
+        "86693"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Libertad",
+      "postal_code": [
+        "86680"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Libertad 2da Seccion",
+      "postal_code": [
+        "86683"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Libertad 3ra. Seccion (Monte Grande)",
+      "postal_code": [
+        "86684"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Libertad 4ta. Seccion (Vicente Guerrero)",
+      "postal_code": [
+        "86680"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Libertad 5ta Seccion",
+      "postal_code": [
+        "86680"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Libertad 6ta. Seccion (Los Martinez)",
+      "postal_code": [
+        "86680"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "86690"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Los Cedros",
+      "postal_code": [
+        "86696"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Los Cerros",
+      "postal_code": [
+        "86696"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "86690"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Mantilla",
+      "postal_code": [
+        "86681",
+        "86687"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Manuel Sanchez Marmol",
+      "postal_code": [
+        "86690"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Marin",
+      "postal_code": [
+        "86697"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Mario Barrueta Garcia",
+      "postal_code": [
+        "86698"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Miahuatlan 1ra Seccion",
+      "postal_code": [
+        "86686"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Miahuatlan 2da Seccion",
+      "postal_code": [
+        "86698"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Miahuatlan 3a Secc",
+      "postal_code": [
+        "86686"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Miahuatlan (San Gregorio)",
+      "postal_code": [
+        "86686"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Miahuatlan (San Nicolas)",
+      "postal_code": [
+        "86698"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Monterrey",
+      "postal_code": [
+        "86682"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Morelos Piedra 3ra. Seccion",
+      "postal_code": [
+        "86693"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Obrera",
+      "postal_code": [
+        "86690"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Once de Febrero 1ra Seccion",
+      "postal_code": [
+        "86687"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Once de Febrero 2da Seccion",
+      "postal_code": [
+        "86681"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Oscar Gomez Sauz",
+      "postal_code": [
+        "86697"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Pechucalco",
+      "postal_code": [
+        "86692"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Pechucalco 2da. Seccion (Las Cruces)",
+      "postal_code": [
+        "86693"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Platano 1ra. Seccion",
+      "postal_code": [
+        "86697"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Platano 2da. Seccion",
+      "postal_code": [
+        "86697"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Playa Azul",
+      "postal_code": [
+        "86690"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "86696"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Reforma",
+      "postal_code": [
+        "86683"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Rio Seco 1ra Seccion",
+      "postal_code": [
+        "86680"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Rio Seco 2da. Seccion (Santiaguito)",
+      "postal_code": [
+        "86687"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Rio Seco 3ra. Seccion (La Playita)",
+      "postal_code": [
+        "86682"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "San Antonio INVITAB",
+      "postal_code": [
+        "86690"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "San Eligio",
+      "postal_code": [
+        "86697"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "San Pedro Cumuapa",
+      "postal_code": [
+        "86697"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "86681"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Santa Isabel",
+      "postal_code": [
+        "86696"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "86681"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Santo Tomas",
+      "postal_code": [
+        "86687"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Tierra y Libertad",
+      "postal_code": [
+        "86680"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Torino",
+      "postal_code": [
+        "86690"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Yoloxochitl 1ra Seccion",
+      "postal_code": [
+        "86686"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Yoloxochitl 2da Seccion",
+      "postal_code": [
+        "86681"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Yoloxochitl 2da. Seccion (San Severo)",
+      "postal_code": [
+        "86686"
+      ]
+    },
+    {
+      "city": "Cunduacan",
+      "colonia": "Yoloxochitl 3ra Seccion",
+      "postal_code": [
+        "86686"
+      ]
+    }
+  ]
+}

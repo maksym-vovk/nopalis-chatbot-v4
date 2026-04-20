@@ -1,0 +1,859 @@
+{
+  "data": [
+    {
+      "city": "Tancitaro",
+      "colonia": "18 de Marzo",
+      "postal_code": [
+        "60460"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Acumbaro",
+      "postal_code": [
+        "60485"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Aguacate del Sur",
+      "postal_code": [
+        "60465"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Agua de Chepe",
+      "postal_code": [
+        "60483"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Agua Nueva",
+      "postal_code": [
+        "60486"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Agua Zarca",
+      "postal_code": [
+        "60465"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Apo",
+      "postal_code": [
+        "60470"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Apundaro",
+      "postal_code": [
+        "60477"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Araparicuaro (Aparicuaro)",
+      "postal_code": [
+        "60486"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Arapindo",
+      "postal_code": [
+        "60485"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Arapo",
+      "postal_code": [
+        "60465"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Aruamo",
+      "postal_code": [
+        "60465"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Barranca de la Arena",
+      "postal_code": [
+        "60483"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Barranquillas (Rincon de Barranquillas)",
+      "postal_code": [
+        "60485"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Belen",
+      "postal_code": [
+        "60467"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Charapanguaro",
+      "postal_code": [
+        "60473"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Charapondiro",
+      "postal_code": [
+        "60476"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Chirimoyo",
+      "postal_code": [
+        "60477"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Choritiro",
+      "postal_code": [
+        "60476"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Condembaro",
+      "postal_code": [
+        "60485"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Coronita",
+      "postal_code": [
+        "60477"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Cuinio",
+      "postal_code": [
+        "60476"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Aguacate Poniente",
+      "postal_code": [
+        "60464"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Capulin",
+      "postal_code": [
+        "60486"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "60467"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Chilar",
+      "postal_code": [
+        "60484"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Chupaderito",
+      "postal_code": [
+        "60467"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Chupadero",
+      "postal_code": [
+        "60485"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Cortijo",
+      "postal_code": [
+        "60484"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Cuate",
+      "postal_code": [
+        "60485"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Espinal (Potrero de los Zamora)",
+      "postal_code": [
+        "60483"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Espino",
+      "postal_code": [
+        "60464"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Ferrel",
+      "postal_code": [
+        "60483"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Fresnito",
+      "postal_code": [
+        "60486"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Granado",
+      "postal_code": [
+        "60484"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Hueso",
+      "postal_code": [
+        "60477"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Jacal",
+      "postal_code": [
+        "60468"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Jazmin",
+      "postal_code": [
+        "60476"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Llano",
+      "postal_code": [
+        "60477"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Moral",
+      "postal_code": [
+        "60464"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Moral (La Mora)",
+      "postal_code": [
+        "60483"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Morito",
+      "postal_code": [
+        "60485"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Moro",
+      "postal_code": [
+        "60485"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Palmito del Sur",
+      "postal_code": [
+        "60468"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Pinabete",
+      "postal_code": [
+        "60464"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Reparo (La Presa el Reparo)",
+      "postal_code": [
+        "60464"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Sauz (La Vaina)",
+      "postal_code": [
+        "60483"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Tepamo",
+      "postal_code": [
+        "60480"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Tizate",
+      "postal_code": [
+        "60485"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "60484"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Enandiro",
+      "postal_code": [
+        "60468"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Encino Blanco",
+      "postal_code": [
+        "60483"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Garichico",
+      "postal_code": [
+        "60464"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Huaricho",
+      "postal_code": [
+        "60477"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Huerta de Mendez",
+      "postal_code": [
+        "60483"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Huerta el Puerto",
+      "postal_code": [
+        "60484"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Huerta la Soledad",
+      "postal_code": [
+        "60484"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Joyas del Maguey",
+      "postal_code": [
+        "60477"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "La Alberca",
+      "postal_code": [
+        "60484"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "La Asuncion",
+      "postal_code": [
+        "60460"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "La Canada",
+      "postal_code": [
+        "60467",
+        "60484"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "La Caseta",
+      "postal_code": [
+        "60483"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "La Chivera",
+      "postal_code": [
+        "60476"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "60465"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "La Consentida",
+      "postal_code": [
+        "60464"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "La Cuchilla",
+      "postal_code": [
+        "60465"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "60470"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "La Estrella",
+      "postal_code": [
+        "60460"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "La Higuera",
+      "postal_code": [
+        "60460"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "La Joya (El Banquito)",
+      "postal_code": [
+        "60476"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "La Lagunilla",
+      "postal_code": [
+        "60465"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "La Mesa del Durazno",
+      "postal_code": [
+        "60467"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "La Mesita",
+      "postal_code": [
+        "60483"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "La Paja",
+      "postal_code": [
+        "60464"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "La Penita",
+      "postal_code": [
+        "60486"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "La Puente Quemada",
+      "postal_code": [
+        "60480"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Las Anileras",
+      "postal_code": [
+        "60483"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Las Canoas",
+      "postal_code": [
+        "60464"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Las Higueras",
+      "postal_code": [
+        "60464"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "La Sidra",
+      "postal_code": [
+        "60475"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Las Joyas (El Nogal)",
+      "postal_code": [
+        "60483"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Las Juntas de Enandiro",
+      "postal_code": [
+        "60468"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Las Mestenas",
+      "postal_code": [
+        "60466"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "60480"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Las Pilas",
+      "postal_code": [
+        "60483"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "La Tapiada",
+      "postal_code": [
+        "60474"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "60468"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "La Tinaja (La Tijera)",
+      "postal_code": [
+        "60486"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "La Uva",
+      "postal_code": [
+        "60477"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Los Fortines",
+      "postal_code": [
+        "60485"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "60464"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Los Granados",
+      "postal_code": [
+        "60485"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Los Llanitos",
+      "postal_code": [
+        "60484"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Los Llanitos (El Chupadero)",
+      "postal_code": [
+        "60484"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Los Ojos de Agua",
+      "postal_code": [
+        "60464"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Los Pozos",
+      "postal_code": [
+        "60485"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "60460"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Ojo de Agua (El Ojo de Agua del Palmito)",
+      "postal_code": [
+        "60464"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Ojo Zarco",
+      "postal_code": [
+        "60475"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Palmito del Poniente",
+      "postal_code": [
+        "60464"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Palo Picado",
+      "postal_code": [
+        "60466"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Pancinda",
+      "postal_code": [
+        "60477"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Pareo",
+      "postal_code": [
+        "60464"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Patamburo",
+      "postal_code": [
+        "60475"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Piedras Azules",
+      "postal_code": [
+        "60484"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Pila Honda",
+      "postal_code": [
+        "60464"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Potrero de los Zamora",
+      "postal_code": [
+        "60486"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Pucuaro",
+      "postal_code": [
+        "60484"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Puerto de las Cruces",
+      "postal_code": [
+        "60465"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "60483"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "60468"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "San Jose de las Penas (La Barranca)",
+      "postal_code": [
+        "60483"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "60460"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Santa Catarina",
+      "postal_code": [
+        "60466"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Soledad del Poniente",
+      "postal_code": [
+        "60475"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Tamacuaro",
+      "postal_code": [
+        "60485"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Tancitaro",
+      "postal_code": [
+        "60460"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Trojes de Condembaro",
+      "postal_code": [
+        "60483"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Uringüitiro",
+      "postal_code": [
+        "60466"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Zirimbo",
+      "postal_code": [
+        "60485"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Zirimondiro",
+      "postal_code": [
+        "60486"
+      ]
+    },
+    {
+      "city": "Tancitaro",
+      "colonia": "Zoromutaro (Puerto de Zoromutaro)",
+      "postal_code": [
+        "60467"
+      ]
+    }
+  ]
+}

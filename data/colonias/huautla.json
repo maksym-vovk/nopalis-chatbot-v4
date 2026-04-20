@@ -1,0 +1,494 @@
+{
+  "data": [
+    {
+      "city": "Huautla",
+      "colonia": "14 de Mayo",
+      "postal_code": [
+        "43052"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "21 de Enero",
+      "postal_code": [
+        "43059"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Acatepec",
+      "postal_code": [
+        "43050"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Ahuatitla",
+      "postal_code": [
+        "43050"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Ahuehuetl",
+      "postal_code": [
+        "43054"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Alto",
+      "postal_code": [
+        "43050"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Aquetzpalco",
+      "postal_code": [
+        "43052"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Axtitla",
+      "postal_code": [
+        "43053"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Bajo",
+      "postal_code": [
+        "43050"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Banderas",
+      "postal_code": [
+        "43053"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Chalacuaco",
+      "postal_code": [
+        "43053"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Chalingo",
+      "postal_code": [
+        "43050"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Chiatitla",
+      "postal_code": [
+        "43059"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Chiliteco",
+      "postal_code": [
+        "43052"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Chipila",
+      "postal_code": [
+        "43053"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Coamitla",
+      "postal_code": [
+        "43053"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Coapantla",
+      "postal_code": [
+        "43050"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Coatempa",
+      "postal_code": [
+        "43052"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Coatenahuatl",
+      "postal_code": [
+        "43055"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Coatzacoatl",
+      "postal_code": [
+        "43059"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Coatzonco",
+      "postal_code": [
+        "43050"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Del Salto",
+      "postal_code": [
+        "43050"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "El Aguacate",
+      "postal_code": [
+        "43052"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "El Barbecho",
+      "postal_code": [
+        "43054"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "El Cojolite",
+      "postal_code": [
+        "43053"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "El Ixtle",
+      "postal_code": [
+        "43052"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "El Lindero",
+      "postal_code": [
+        "43052"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "El Pajonal",
+      "postal_code": [
+        "43052"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "El Progreso",
+      "postal_code": [
+        "43052"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Hernandeztla",
+      "postal_code": [
+        "43054"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Hondo",
+      "postal_code": [
+        "43050"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Huautla Centro",
+      "postal_code": [
+        "43050"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Huazalinguillo",
+      "postal_code": [
+        "43053"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Huemaco",
+      "postal_code": [
+        "43056"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Huitzotlaco",
+      "postal_code": [
+        "43053"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Ixtlahuac",
+      "postal_code": [
+        "43054"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "La Loma",
+      "postal_code": [
+        "43053"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "La Mesa",
+      "postal_code": [
+        "43053"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "La Puerta",
+      "postal_code": [
+        "43055"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Las Pilas",
+      "postal_code": [
+        "43054"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Lindero",
+      "postal_code": [
+        "43053"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Los Cerezos",
+      "postal_code": [
+        "43054"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Los Puentes",
+      "postal_code": [
+        "43054"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Metlatepec",
+      "postal_code": [
+        "43059"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Milkaual",
+      "postal_code": [
+        "43054"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Nueva Linda Vista",
+      "postal_code": [
+        "43050"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Nunez Soto",
+      "postal_code": [
+        "43054"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Pahuatitla",
+      "postal_code": [
+        "43055"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Pepeyoca de Cabrera",
+      "postal_code": [
+        "43051"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Piltepeco",
+      "postal_code": [
+        "43056"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "43059"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Tamoyon I",
+      "postal_code": [
+        "43050"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Tamoyon II",
+      "postal_code": [
+        "43053"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Tecoluco Calpan",
+      "postal_code": [
+        "43056"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Tempexquisco",
+      "postal_code": [
+        "43052"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Tepeco",
+      "postal_code": [
+        "43052"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Tepetzintla",
+      "postal_code": [
+        "43052"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Tepexquimitl",
+      "postal_code": [
+        "43055"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Terrero",
+      "postal_code": [
+        "43053"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Tlacuapan",
+      "postal_code": [
+        "43054"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Tlalpane",
+      "postal_code": [
+        "43054"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Tohuaco Amatzintla (Tohuaco III)",
+      "postal_code": [
+        "43059"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Tohuaco I",
+      "postal_code": [
+        "43059"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Tohuaco II",
+      "postal_code": [
+        "43059"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Tzacoala",
+      "postal_code": [
+        "43059"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Tzocohuijapa",
+      "postal_code": [
+        "43053"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "43055"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Vinasco",
+      "postal_code": [
+        "43052"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Xochitl",
+      "postal_code": [
+        "43055"
+      ]
+    },
+    {
+      "city": "Huautla",
+      "colonia": "Zacatipa",
+      "postal_code": [
+        "43050"
+      ]
+    }
+  ]
+}

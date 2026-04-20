@@ -1,0 +1,784 @@
+{
+  "data": [
+    {
+      "city": "Misantla",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "93828"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "5 de Mayo",
+      "postal_code": [
+        "93828"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Allende",
+      "postal_code": [
+        "93843"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Arroyo Frio",
+      "postal_code": [
+        "93837"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Arroyo Hondo",
+      "postal_code": [
+        "93834"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Arroyo Negro",
+      "postal_code": [
+        "93844"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Aviacion",
+      "postal_code": [
+        "93828"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Barranca del Tigre",
+      "postal_code": [
+        "93847"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "93826"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Brazo Seco",
+      "postal_code": [
+        "93836"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "93844"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Carlos Roberto Smith",
+      "postal_code": [
+        "93827"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Cerro Quebrado",
+      "postal_code": [
+        "93834"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Chapachapa",
+      "postal_code": [
+        "93843"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Coapeche",
+      "postal_code": [
+        "93830"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Colorado Chico",
+      "postal_code": [
+        "93833"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Congregacion Fundo Legal Palpoala Ixcan",
+      "postal_code": [
+        "93835"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Cristian Magnani de Aleman",
+      "postal_code": [
+        "93828"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "93840"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "El Carmen o K.M 5",
+      "postal_code": [
+        "93837"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "El Diamante",
+      "postal_code": [
+        "93833"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "El Gavilan",
+      "postal_code": [
+        "93837"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "El Lirial",
+      "postal_code": [
+        "93847"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "93846"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "El Mirasol",
+      "postal_code": [
+        "93847"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "El Pozon",
+      "postal_code": [
+        "93843"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "El Valle",
+      "postal_code": [
+        "93844"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "93828"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Espaldilla",
+      "postal_code": [
+        "93828"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "93846"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Francisco Sarabia",
+      "postal_code": [
+        "93840"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "93826"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "93833"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Guadalupe Victoria (La Vaqueria)",
+      "postal_code": [
+        "93844"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Guillermo Badillo",
+      "postal_code": [
+        "93846"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "93840"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Independencia",
+      "postal_code": [
+        "93847"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Jardines de Misantla",
+      "postal_code": [
+        "93826"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Juan Jacobo Torres (La Monera)",
+      "postal_code": [
+        "93847"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "La Capilla",
+      "postal_code": [
+        "93843"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "La Constancia",
+      "postal_code": [
+        "93830"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "La Defensa",
+      "postal_code": [
+        "93830"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "La Gloria",
+      "postal_code": [
+        "93826"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "La Habana",
+      "postal_code": [
+        "93836"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "La Libertad",
+      "postal_code": [
+        "93833"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "La Lima",
+      "postal_code": [
+        "93834"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "La Loma",
+      "postal_code": [
+        "93846"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "La Mesa",
+      "postal_code": [
+        "93847"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "La Piedad",
+      "postal_code": [
+        "93844"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "La Reforma",
+      "postal_code": [
+        "93830"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "La Reforma (Kilometro 9)",
+      "postal_code": [
+        "93837"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "La Sabana",
+      "postal_code": [
+        "93835"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Las Lajas",
+      "postal_code": [
+        "93840"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "93835"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "La Union",
+      "postal_code": [
+        "93830",
+        "93834"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "93829"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "93833",
+        "93836"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Loma Del Cojolite",
+      "postal_code": [
+        "93836"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Los idolos",
+      "postal_code": [
+        "93844"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Los Libreros",
+      "postal_code": [
+        "93828"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Luz Divina Morales",
+      "postal_code": [
+        "93829"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Maestros Veracruzanos",
+      "postal_code": [
+        "93829"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Mafafas",
+      "postal_code": [
+        "93835"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Manantiales",
+      "postal_code": [
+        "93847"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Manuel Gutierrez Najera",
+      "postal_code": [
+        "93846"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Manuel Villaraus",
+      "postal_code": [
+        "93828"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Marco Antonio Munoz",
+      "postal_code": [
+        "93829"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Mateo Acosta",
+      "postal_code": [
+        "93826"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Maximo Garcia",
+      "postal_code": [
+        "93830"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Miradores",
+      "postal_code": [
+        "93827"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Misantla Centro",
+      "postal_code": [
+        "93820"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Morelos",
+      "postal_code": [
+        "93843"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Moxillon",
+      "postal_code": [
+        "93847"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Nizin",
+      "postal_code": [
+        "93826"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Palma Sola",
+      "postal_code": [
+        "93847"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Palmira de Hidalgo",
+      "postal_code": [
+        "93833"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Palpoala Ixcan",
+      "postal_code": [
+        "93833"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Paso Blanco",
+      "postal_code": [
+        "93845"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Pedregal 1 (Esperanza Azcon)",
+      "postal_code": [
+        "93826"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Pedregal 2",
+      "postal_code": [
+        "93826"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Pipianales",
+      "postal_code": [
+        "93835"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Plan de Guerrero",
+      "postal_code": [
+        "93847"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Plan de La Vega",
+      "postal_code": [
+        "93837"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Plan de La Vieja",
+      "postal_code": [
+        "93836"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Plan Grande",
+      "postal_code": [
+        "93844"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Poxtitlan",
+      "postal_code": [
+        "93843"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Poza del Tigre",
+      "postal_code": [
+        "93834"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Primavera",
+      "postal_code": [
+        "93834"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Pueblo Viejo",
+      "postal_code": [
+        "93845"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Puerto Chico",
+      "postal_code": [
+        "93840"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Puerto Palchan",
+      "postal_code": [
+        "93827"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Rafael Ramirez La Voignet",
+      "postal_code": [
+        "93827"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Rancho Alegre",
+      "postal_code": [
+        "93833"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "93830",
+        "93837"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Salvador Diaz Miron",
+      "postal_code": [
+        "93846"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "San Felipe",
+      "postal_code": [
+        "93833"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "93835"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Santa Clara",
+      "postal_code": [
+        "93820"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Santa Cruz Buena Vista",
+      "postal_code": [
+        "93845"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Santa Cruz Hidalgo",
+      "postal_code": [
+        "93843"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Santa Julia",
+      "postal_code": [
+        "93844"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Sector Popular",
+      "postal_code": [
+        "93826"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Tapapulum",
+      "postal_code": [
+        "93843"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Teresa Penafiel",
+      "postal_code": [
+        "93828"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Torrecillas",
+      "postal_code": [
+        "93847"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Trapiches",
+      "postal_code": [
+        "93845"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Troncones",
+      "postal_code": [
+        "93830"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Venustiano Carranza",
+      "postal_code": [
+        "93835"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "93847"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Villa Nueva",
+      "postal_code": [
+        "93846"
+      ]
+    },
+    {
+      "city": "Misantla",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "93834"
+      ]
+    }
+  ]
+}

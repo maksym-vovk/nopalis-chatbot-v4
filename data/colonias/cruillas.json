@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Cruillas",
+      "colonia": "Cruillas",
+      "postal_code": [
+        "87640"
+      ]
+    },
+    {
+      "city": "Cruillas",
+      "colonia": "El Barranco",
+      "postal_code": [
+        "87655"
+      ]
+    },
+    {
+      "city": "Cruillas",
+      "colonia": "Tres Palos",
+      "postal_code": [
+        "87650"
+      ]
+    }
+  ]
+}

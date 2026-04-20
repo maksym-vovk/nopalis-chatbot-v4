@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "San Pedro Amuzgos",
+      "colonia": "Amuzgos",
+      "postal_code": [
+        "71070"
+      ]
+    },
+    {
+      "city": "San Pedro Amuzgos",
+      "colonia": "La Guadalupe",
+      "postal_code": [
+        "71070"
+      ]
+    },
+    {
+      "city": "San Pedro Amuzgos",
+      "colonia": "San Juan",
+      "postal_code": [
+        "71076"
+      ]
+    },
+    {
+      "city": "San Pedro Amuzgos",
+      "colonia": "San Martin",
+      "postal_code": [
+        "71076"
+      ]
+    },
+    {
+      "city": "San Pedro Amuzgos",
+      "colonia": "San Pedro Amuzgos",
+      "postal_code": [
+        "71070"
+      ]
+    },
+    {
+      "city": "San Pedro Amuzgos",
+      "colonia": "San Pedro Apostol",
+      "postal_code": [
+        "71076"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,992 @@
+{
+  "data": [
+    {
+      "city": "Choix",
+      "colonia": "Agua Caliente de Baca",
+      "postal_code": [
+        "81718"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Agua Caliente Grande (De Gastelum)",
+      "postal_code": [
+        "81760"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Agua Calientilla",
+      "postal_code": [
+        "81764"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Agua Nueva",
+      "postal_code": [
+        "81743"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Agua Zarca",
+      "postal_code": [
+        "81740"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Ampliacion Reforma",
+      "postal_code": [
+        "81708"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Antonio Rosales (El Disparate)",
+      "postal_code": [
+        "81765"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Ayuntamiento",
+      "postal_code": [
+        "81707"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Baca",
+      "postal_code": [
+        "81718"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Bacayopa",
+      "postal_code": [
+        "81770"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Bajosori",
+      "postal_code": [
+        "81715"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Barranco de los Ruelas",
+      "postal_code": [
+        "81774"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Baymena",
+      "postal_code": [
+        "81760"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "81707"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Buyubampo",
+      "postal_code": [
+        "81746"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Cajon de Cancio",
+      "postal_code": [
+        "81737"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Casas Viejas",
+      "postal_code": [
+        "81770"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Casa Vieja",
+      "postal_code": [
+        "81764"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Chavira",
+      "postal_code": [
+        "81764"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Chicuras",
+      "postal_code": [
+        "81764"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Choix Centro",
+      "postal_code": [
+        "81700"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Conicari",
+      "postal_code": [
+        "81718"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Ejidal",
+      "postal_code": [
+        "81709"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Aguaje",
+      "postal_code": [
+        "81718"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Aguajito de Bajahui",
+      "postal_code": [
+        "81760"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Altillo",
+      "postal_code": [
+        "81717"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Bainoral",
+      "postal_code": [
+        "81727"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Cajon",
+      "postal_code": [
+        "81770"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Cajoncito (La Cieneguita)",
+      "postal_code": [
+        "81719"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Cajon de los Felix",
+      "postal_code": [
+        "81765"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Carrizo de los Sarmiento",
+      "postal_code": [
+        "81776"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Carrizo de los Torres",
+      "postal_code": [
+        "81764"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Chapote",
+      "postal_code": [
+        "81764"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Cojinillo",
+      "postal_code": [
+        "81764"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Colexio",
+      "postal_code": [
+        "81765"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Descanso",
+      "postal_code": [
+        "81719"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Embarcadero",
+      "postal_code": [
+        "81718"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Frijol",
+      "postal_code": [
+        "81764"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Garabato",
+      "postal_code": [
+        "81718"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Guajito",
+      "postal_code": [
+        "81703"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Guamuchil (Guamuchil de los Valdez)",
+      "postal_code": [
+        "81737"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Guayabito",
+      "postal_code": [
+        "81715"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Guayabo de San Pantaleon",
+      "postal_code": [
+        "81750"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Limon",
+      "postal_code": [
+        "81776"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Llano",
+      "postal_code": [
+        "81770"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Mezquite Caido",
+      "postal_code": [
+        "81712"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Nacimiento",
+      "postal_code": [
+        "81712"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Pajarito",
+      "postal_code": [
+        "81749"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Pichol",
+      "postal_code": [
+        "81774"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Pinito (La Canada de Leon)",
+      "postal_code": [
+        "81770"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Potrerito",
+      "postal_code": [
+        "81755"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Ranchito de Buyubampo",
+      "postal_code": [
+        "81746"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Rancho",
+      "postal_code": [
+        "81717"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Saucillo",
+      "postal_code": [
+        "81750"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Sauz de Baca",
+      "postal_code": [
+        "81740"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Tepeguaje (Caballihuaza)",
+      "postal_code": [
+        "81749"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Trigo",
+      "postal_code": [
+        "81727"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Vado (El Cerrito)",
+      "postal_code": [
+        "81710"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Veranito",
+      "postal_code": [
+        "81718"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "El Zataque",
+      "postal_code": [
+        "81718"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Estacion Loreto",
+      "postal_code": [
+        "81716"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "81703"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Francisco R. Serrano",
+      "postal_code": [
+        "81703"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "81757"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Huepaco",
+      "postal_code": [
+        "81783"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Huillachapa (Buenavista)",
+      "postal_code": [
+        "81727"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Huites",
+      "postal_code": [
+        "81703"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "La Calera",
+      "postal_code": [
+        "81712"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "81745"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "La Cuevita",
+      "postal_code": [
+        "81770"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "La Estancia",
+      "postal_code": [
+        "81718"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "La Guayepa",
+      "postal_code": [
+        "81750"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "La Higuera",
+      "postal_code": [
+        "81705"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "La Igualamita",
+      "postal_code": [
+        "81712"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "La Mesa del Oro",
+      "postal_code": [
+        "81764"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "La Piedra Bola",
+      "postal_code": [
+        "81743"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "La Rondana",
+      "postal_code": [
+        "81764"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "La Salvia",
+      "postal_code": [
+        "81712"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "La Sauceda",
+      "postal_code": [
+        "81774"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Las Canoas (Huillachapa)",
+      "postal_code": [
+        "81727"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Las Conchas",
+      "postal_code": [
+        "81706"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Las Cruces",
+      "postal_code": [
+        "81719"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Las Juntas",
+      "postal_code": [
+        "81750"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Las Mercedes",
+      "postal_code": [
+        "81770"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Las Rastras",
+      "postal_code": [
+        "81717"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Las Taunitas",
+      "postal_code": [
+        "81712"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Las Urracas",
+      "postal_code": [
+        "81716"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "La Tuna",
+      "postal_code": [
+        "81718"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "La Viuda",
+      "postal_code": [
+        "81746"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Loretillo",
+      "postal_code": [
+        "81717"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Loreto",
+      "postal_code": [
+        "81716"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Los Arenales",
+      "postal_code": [
+        "81718"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Los Barbechitos",
+      "postal_code": [
+        "81712"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Los Batequis",
+      "postal_code": [
+        "81749"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Los Cauques",
+      "postal_code": [
+        "81743"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Los Cedros",
+      "postal_code": [
+        "81765"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Los Chinitos",
+      "postal_code": [
+        "81718"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Los Chinos",
+      "postal_code": [
+        "81764"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "81770"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Los Mautos",
+      "postal_code": [
+        "81740"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Los Molinos",
+      "postal_code": [
+        "81783"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Los Parajes",
+      "postal_code": [
+        "81776"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Los Pericos",
+      "postal_code": [
+        "81764"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Los Picachos",
+      "postal_code": [
+        "81749"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Los Pozos",
+      "postal_code": [
+        "81719"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Mesa de los Torres",
+      "postal_code": [
+        "81757"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Nacapule",
+      "postal_code": [
+        "81757"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Norogachi",
+      "postal_code": [
+        "81774"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Nuevo Huites",
+      "postal_code": [
+        "81708"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Pie de la Cuesta (Los Laureles)",
+      "postal_code": [
+        "81770"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Poblado Nuevo",
+      "postal_code": [
+        "81712"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Potrero de Cancio",
+      "postal_code": [
+        "81737"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Potrero de los Cecena",
+      "postal_code": [
+        "81776"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Puerto del Reparo",
+      "postal_code": [
+        "81776"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Ranchito de Islas",
+      "postal_code": [
+        "81710"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "81716"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Reforma",
+      "postal_code": [
+        "81709"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Rincon de Agua Caliente Grande",
+      "postal_code": [
+        "81765"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "81719",
+        "81750"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "81743"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "San Javier",
+      "postal_code": [
+        "81743"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "San Jose de Choix (Las Lajitas)",
+      "postal_code": [
+        "81764"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "San Jose de los Llanos (Los Llanos)",
+      "postal_code": [
+        "81755"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "San Jose de los Pericos",
+      "postal_code": [
+        "81764"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "San Jose de los Portillo",
+      "postal_code": [
+        "81716"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "San Pantaleon",
+      "postal_code": [
+        "81750"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "81755"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "San Simon",
+      "postal_code": [
+        "81776"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "81760"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Santana",
+      "postal_code": [
+        "81755"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Sonogoris",
+      "postal_code": [
+        "81774"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Subilimayo",
+      "postal_code": [
+        "81718"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Tabucahui",
+      "postal_code": [
+        "81716"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Tasajeras",
+      "postal_code": [
+        "81712"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Techobampo de los Cota",
+      "postal_code": [
+        "81740"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Techobampo de los Montes",
+      "postal_code": [
+        "81743"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Toipaqui",
+      "postal_code": [
+        "81717"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Tres Hermanos",
+      "postal_code": [
+        "81749"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Venicia",
+      "postal_code": [
+        "81760"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Vinaterias",
+      "postal_code": [
+        "81764"
+      ]
+    },
+    {
+      "city": "Choix",
+      "colonia": "Yecorato",
+      "postal_code": [
+        "81764"
+      ]
+    }
+  ]
+}

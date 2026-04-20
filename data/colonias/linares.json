@@ -1,0 +1,845 @@
+{
+  "data": [
+    {
+      "city": "Linares",
+      "colonia": "Alejandro Cano",
+      "postal_code": [
+        "67769"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Alvarado",
+      "postal_code": [
+        "67710"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "America",
+      "postal_code": [
+        "67714"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Arboledas del Valle",
+      "postal_code": [
+        "67735"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Benitez",
+      "postal_code": [
+        "67804"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "67720"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "67750"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Caja Pinta",
+      "postal_code": [
+        "67800"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Camachito",
+      "postal_code": [
+        "67767"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Camacho",
+      "postal_code": [
+        "67730"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Cerro Prieto",
+      "postal_code": [
+        "67817"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Ciudad Industrial",
+      "postal_code": [
+        "67735"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Dolores de San Julian",
+      "postal_code": [
+        "67816"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Ejido San Felipe",
+      "postal_code": [
+        "67714"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "El Barrial",
+      "postal_code": [
+        "67740"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "El Brasil",
+      "postal_code": [
+        "67828"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "El Carmen de los Elizondo",
+      "postal_code": [
+        "67816"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "67755"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "El Diez",
+      "postal_code": [
+        "67802"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "El Fresno",
+      "postal_code": [
+        "67800"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "El Popote (El Poblado)",
+      "postal_code": [
+        "67802"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "67815"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "El Pretil",
+      "postal_code": [
+        "67819"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "El Quijote",
+      "postal_code": [
+        "67750"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "El Refugio (Veredas)",
+      "postal_code": [
+        "67804"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "El Roble",
+      "postal_code": [
+        "67779"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "El Vergel",
+      "postal_code": [
+        "67778"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "67825"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Fidel Velazquez",
+      "postal_code": [
+        "67756"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Fomerrey 53 las Huertas",
+      "postal_code": [
+        "67754"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "FOMERREY Ignacio Zaragoza",
+      "postal_code": [
+        "67730"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "FOVISSSTE Linares IV",
+      "postal_code": [
+        "67755"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Francisco Medina",
+      "postal_code": [
+        "67720"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Gatos Güeros",
+      "postal_code": [
+        "67812"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Gloria Mendiola",
+      "postal_code": [
+        "67715"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "67817"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Guadalupe (La Hacienda de Guadalupe)",
+      "postal_code": [
+        "67802"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "67824"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Hacienda San Felipe",
+      "postal_code": [
+        "67714"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "67730"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "INFONAVIT Constituyentes de 1857",
+      "postal_code": [
+        "67756"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "INFONAVIT Doctor Ignacio Morones Prieto",
+      "postal_code": [
+        "67716"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "INFONAVIT el Cerrito",
+      "postal_code": [
+        "67755"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "INFONAVIT Jardines de Linares",
+      "postal_code": [
+        "67730"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "INFONAVIT la Petaca",
+      "postal_code": [
+        "67756"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "INFONAVIT Rio Verde",
+      "postal_code": [
+        "67716"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "INFONAVIT Rodrigo Gomez",
+      "postal_code": [
+        "67710"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "INFONAVIT San Gerardo",
+      "postal_code": [
+        "67756"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Jesus Maria del Puerto",
+      "postal_code": [
+        "67808"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "La Amistad",
+      "postal_code": [
+        "67713"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "La Bohemia",
+      "postal_code": [
+        "67779"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "La Escondida (El Ranchito)",
+      "postal_code": [
+        "67825"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "La Estrella",
+      "postal_code": [
+        "67824"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "La Estrella (El Charco)",
+      "postal_code": [
+        "67824"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "La Loma",
+      "postal_code": [
+        "67770"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "La Morita",
+      "postal_code": [
+        "67802"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "La Petaca",
+      "postal_code": [
+        "67750"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "La Reforma",
+      "postal_code": [
+        "67806"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Las Alamedas",
+      "postal_code": [
+        "67769",
+        "67778"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Las Brisas",
+      "postal_code": [
+        "67790"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Las Bugambilias",
+      "postal_code": [
+        "67756"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Las Glorias",
+      "postal_code": [
+        "67767"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "67806"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "67710"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Lazaro Dimas",
+      "postal_code": [
+        "67790"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Linares Centro",
+      "postal_code": [
+        "67700"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Loma Alta",
+      "postal_code": [
+        "67824"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Loma el Perico",
+      "postal_code": [
+        "67805"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Lomas de Villaseca",
+      "postal_code": [
+        "67790"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "67809"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "67815"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Los Hoyos (La Rosita)",
+      "postal_code": [
+        "67808"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Los Leones",
+      "postal_code": [
+        "67817"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "67769"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Los Nogales",
+      "postal_code": [
+        "67714"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Los Noriega",
+      "postal_code": [
+        "67720"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "67730"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Marco Antonio",
+      "postal_code": [
+        "67778"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "67770"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Mision de San Gerardo",
+      "postal_code": [
+        "67778"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Misiones de Rio Verde",
+      "postal_code": [
+        "67716"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Moderna",
+      "postal_code": [
+        "67760"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Modesto Galvan Cantu",
+      "postal_code": [
+        "67755"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "67778"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "67828"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Pedro Zorrilla",
+      "postal_code": [
+        "67750"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Porfirio Diaz",
+      "postal_code": [
+        "67770"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Privada del Carmen",
+      "postal_code": [
+        "67760"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Privada San Carlos",
+      "postal_code": [
+        "67790"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Provileon",
+      "postal_code": [
+        "67755"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Rancheria",
+      "postal_code": [
+        "67808"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Residencial Hacienda los Nogales",
+      "postal_code": [
+        "67755"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Residencial Nogalar",
+      "postal_code": [
+        "67754"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Ricardo Cantu",
+      "postal_code": [
+        "67750"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Rio Verde",
+      "postal_code": [
+        "67826"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Rio Verde (Lampazos)",
+      "postal_code": [
+        "67825"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Riveras del Rio",
+      "postal_code": [
+        "67755"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Riveras de San Antonio",
+      "postal_code": [
+        "67790"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "67790"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "67790"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "67768"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "San Francisco (San Francisco Tenamaxtle)",
+      "postal_code": [
+        "67800"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "67812"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "San Jacinto (La Garita)",
+      "postal_code": [
+        "67815"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "San Joaquin",
+      "postal_code": [
+        "67730"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "San Jose",
+      "postal_code": [
+        "67809"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "San Luisito",
+      "postal_code": [
+        "67716"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "San Pedro Garza Garcia (Jesus Maria)",
+      "postal_code": [
+        "67819"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "67800"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "67730"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Santa Rosa (La Pita)",
+      "postal_code": [
+        "67803"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "67825"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Socrates Rizzo",
+      "postal_code": [
+        "67750"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Solidaridad",
+      "postal_code": [
+        "67780"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Tepeyac",
+      "postal_code": [
+        "67790"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Villas del Carmen",
+      "postal_code": [
+        "67716"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Villaseca",
+      "postal_code": [
+        "67780"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Villegas",
+      "postal_code": [
+        "67740"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "67828"
+      ]
+    },
+    {
+      "city": "Linares",
+      "colonia": "Zaragoza",
+      "postal_code": [
+        "67780"
+      ]
+    }
+  ]
+}

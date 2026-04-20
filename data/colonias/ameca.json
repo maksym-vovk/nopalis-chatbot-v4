@@ -1,0 +1,585 @@
+{
+  "data": [
+    {
+      "city": "Ameca",
+      "colonia": "32°Batallon de Infanteria",
+      "postal_code": [
+        "46640"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Altavista de Ramos",
+      "postal_code": [
+        "46728"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Ameca Centro",
+      "postal_code": [
+        "46600"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "46616"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Arroyo Hondo",
+      "postal_code": [
+        "46716"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Azteca",
+      "postal_code": [
+        "46640"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "46715"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Caimanero (El Quelite)",
+      "postal_code": [
+        "46708"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Del Carmen",
+      "postal_code": [
+        "46626"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Don Martin",
+      "postal_code": [
+        "46715"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "El Brillante",
+      "postal_code": [
+        "46615"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "El Cabezon (El Limon)",
+      "postal_code": [
+        "46725"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "El Cerrito Del Cuis",
+      "postal_code": [
+        "46707"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "El Cuis (El Tasajo)",
+      "postal_code": [
+        "46707"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "El Magistral",
+      "postal_code": [
+        "46728"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "El Manantial",
+      "postal_code": [
+        "46640"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "El Naranjo (La Gigantera)",
+      "postal_code": [
+        "46729"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "El Portezuelo",
+      "postal_code": [
+        "46715"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "46620"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "El Rocio",
+      "postal_code": [
+        "46620"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "El Sabino",
+      "postal_code": [
+        "46728"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "El Santuario",
+      "postal_code": [
+        "46687"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "El Saucillo",
+      "postal_code": [
+        "46729"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "El Texcalame",
+      "postal_code": [
+        "46728"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "El Zoquite",
+      "postal_code": [
+        "46729"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Esperanza",
+      "postal_code": [
+        "46680"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Estacion",
+      "postal_code": [
+        "46614"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Guadalupana",
+      "postal_code": [
+        "46615"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Huerta de Morales",
+      "postal_code": [
+        "46627"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Jardines de Guadalupe",
+      "postal_code": [
+        "46620"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Jayamitla (Colmenar)",
+      "postal_code": [
+        "46718"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Labor de Solis",
+      "postal_code": [
+        "46700"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "La Calera de Abajo",
+      "postal_code": [
+        "46724"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "La Calera de Arriba",
+      "postal_code": [
+        "46724"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "La Canteria",
+      "postal_code": [
+        "46728"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "46616"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "La Coronilla",
+      "postal_code": [
+        "46728"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Lagunillas",
+      "postal_code": [
+        "46719"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "La Higuera",
+      "postal_code": [
+        "46706"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "La Huerta",
+      "postal_code": [
+        "46630"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "La Huerta de San Javier",
+      "postal_code": [
+        "46726"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "La Ladrillera",
+      "postal_code": [
+        "46649"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "La Loma",
+      "postal_code": [
+        "46689"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "La Nueva Canteria (El Pochote)",
+      "postal_code": [
+        "46729"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "La Pareja",
+      "postal_code": [
+        "46719"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "La Reyna",
+      "postal_code": [
+        "46649"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Las Higueritas",
+      "postal_code": [
+        "46649"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "46620"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Las Paredes",
+      "postal_code": [
+        "46709"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Las Pilas",
+      "postal_code": [
+        "46717"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Las Raices",
+      "postal_code": [
+        "46719"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Las Victorias",
+      "postal_code": [
+        "46615"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "La Villita",
+      "postal_code": [
+        "46718"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Los Amiales",
+      "postal_code": [
+        "46726"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "46626"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Los Mezquites",
+      "postal_code": [
+        "46620"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Los Morillos",
+      "postal_code": [
+        "46718"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "46688"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Los Pilares",
+      "postal_code": [
+        "46729"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Los Pocitos",
+      "postal_code": [
+        "46700"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Malpasito",
+      "postal_code": [
+        "46718"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Malpaso de la Pequena",
+      "postal_code": [
+        "46718"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Mesa de Ramos",
+      "postal_code": [
+        "46723"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Mexico",
+      "postal_code": [
+        "46686"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Municipal",
+      "postal_code": [
+        "46627"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "46649"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Obrera",
+      "postal_code": [
+        "46620"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Providencia",
+      "postal_code": [
+        "46649"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Queixpan",
+      "postal_code": [
+        "46719"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Rancho Corona",
+      "postal_code": [
+        "46649"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "46686"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "San Antonio Matute",
+      "postal_code": [
+        "46700"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "San Antonio Puerta de la Vega",
+      "postal_code": [
+        "46710"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "46620"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "San Ignacio",
+      "postal_code": [
+        "46720"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "46640"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "46707"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "46716"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "46686"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Santa Maria de La Huerta",
+      "postal_code": [
+        "46728"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Tepeyac",
+      "postal_code": [
+        "46616"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Valle Magno",
+      "postal_code": [
+        "46615"
+      ]
+    },
+    {
+      "city": "Ameca",
+      "colonia": "Villa Hermosa",
+      "postal_code": [
+        "46726"
+      ]
+    }
+  ]
+}

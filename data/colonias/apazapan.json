@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Apazapan",
+      "colonia": "Agua Caliente",
+      "postal_code": [
+        "91647"
+      ]
+    },
+    {
+      "city": "Apazapan",
+      "colonia": "Apazapan",
+      "postal_code": [
+        "91646"
+      ]
+    },
+    {
+      "city": "Apazapan",
+      "colonia": "Banos (El Bejuco)",
+      "postal_code": [
+        "91647"
+      ]
+    },
+    {
+      "city": "Apazapan",
+      "colonia": "Cerro Colorado",
+      "postal_code": [
+        "91647"
+      ]
+    },
+    {
+      "city": "Apazapan",
+      "colonia": "Chahuapan",
+      "postal_code": [
+        "91649"
+      ]
+    },
+    {
+      "city": "Apazapan",
+      "colonia": "Tigrillos",
+      "postal_code": [
+        "91645"
+      ]
+    }
+  ]
+}

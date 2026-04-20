@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Andres Solaga",
+      "colonia": "San Andres Solaga",
+      "postal_code": [
+        "68844"
+      ]
+    },
+    {
+      "city": "San Andres Solaga",
+      "colonia": "Santa Maria Tavehua",
+      "postal_code": [
+        "68846"
+      ]
+    },
+    {
+      "city": "San Andres Solaga",
+      "colonia": "Santo Domingo Yojovi",
+      "postal_code": [
+        "68844"
+      ]
+    }
+  ]
+}

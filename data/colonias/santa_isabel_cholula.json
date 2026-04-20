@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Santa Isabel Cholula",
+      "colonia": "San Martin Tlamapa",
+      "postal_code": [
+        "74350"
+      ]
+    },
+    {
+      "city": "Santa Isabel Cholula",
+      "colonia": "San Pablo Ahuatempa",
+      "postal_code": [
+        "74355"
+      ]
+    },
+    {
+      "city": "Santa Isabel Cholula",
+      "colonia": "Santa Ana Acozautla",
+      "postal_code": [
+        "74358"
+      ]
+    },
+    {
+      "city": "Santa Isabel Cholula",
+      "colonia": "Santa Isabel Cholula",
+      "postal_code": [
+        "74350"
+      ]
+    },
+    {
+      "city": "Santa Isabel Cholula",
+      "colonia": "Tlamapa",
+      "postal_code": [
+        "74357"
+      ]
+    }
+  ]
+}

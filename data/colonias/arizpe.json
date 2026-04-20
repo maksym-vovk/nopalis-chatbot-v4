@@ -1,0 +1,846 @@
+{
+  "data": [
+    {
+      "city": "Arizpe",
+      "colonia": "Agua Caliente",
+      "postal_code": [
+        "84654"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Agua Caliente (De Carrillo)",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Arizpe Centro",
+      "postal_code": [
+        "84640"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Bacanuchi",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Bamori",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Baparimaca",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Basochuca",
+      "postal_code": [
+        "84657"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Bavicanora",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "84657"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Campo Colorado",
+      "postal_code": [
+        "84657"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Campo Frio",
+      "postal_code": [
+        "84654"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Casa de Piedra",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Chinapa",
+      "postal_code": [
+        "84657"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Comateto",
+      "postal_code": [
+        "84657"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Comateto Uno",
+      "postal_code": [
+        "84657"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Crisanto",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Crisanto (De Barrios)",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Depachi Tres",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Depachi Uno",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Derrepente (De Pellat)",
+      "postal_code": [
+        "84654"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El aguila (Las aguilas)",
+      "postal_code": [
+        "84653"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Alamito",
+      "postal_code": [
+        "84640",
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El alamo (Letrero)",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Babiso",
+      "postal_code": [
+        "84655"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Barril",
+      "postal_code": [
+        "84653"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Basimachi",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Basimachi de Chinapa",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Bruno",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El California (La Cuesta)",
+      "postal_code": [
+        "84657"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Charco",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Chiltepin",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Comichi",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Cumaral",
+      "postal_code": [
+        "84655"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Derrepente",
+      "postal_code": [
+        "84654"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Derrumbadero",
+      "postal_code": [
+        "84653"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Diablo",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Durazno Uno",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Guarisivachi",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Jova",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Matadero",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Mezquitalito",
+      "postal_code": [
+        "84657"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Molino de Bacanuchi",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Molino de Bamori",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Molino de Buenavista (El Molino)",
+      "postal_code": [
+        "84657"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Nogal",
+      "postal_code": [
+        "84657",
+        "84657"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Pantanito",
+      "postal_code": [
+        "84657"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Pescado",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Picacho (Tierras Prietas)",
+      "postal_code": [
+        "84655"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Rebaje",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Rodeo",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Sacrificio",
+      "postal_code": [
+        "84657"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Salsipuedes",
+      "postal_code": [
+        "84657"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Socavon",
+      "postal_code": [
+        "84654"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Socorro",
+      "postal_code": [
+        "84657"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Sombrero",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Tepiri",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Testerazo",
+      "postal_code": [
+        "84654"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Tronconal",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Tubito",
+      "postal_code": [
+        "84653"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Valle",
+      "postal_code": [
+        "84655"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "El Yeso",
+      "postal_code": [
+        "84654"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Granaditas de Bacanuchi",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Huepaverachi",
+      "postal_code": [
+        "84657"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Jitisorachi Dos",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Jitisorachi (Fernando Rosas)",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Jitosorachi (De Montoya y Ruiz)",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "La Bolita (La Bolita de Chinapa)",
+      "postal_code": [
+        "84657"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "La Canada",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "La Canada del Horno",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "La Capilla de Tetuachi",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "La Cieneguita",
+      "postal_code": [
+        "84654"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "84657"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "La Fortuna",
+      "postal_code": [
+        "84653"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "La Galera",
+      "postal_code": [
+        "84657"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "La Granja",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "La Guitarra",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "La Huerta (Basochuca)",
+      "postal_code": [
+        "84657"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "La Huerta Grande",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "La Labor",
+      "postal_code": [
+        "84654"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "La Nueva Colonia de Chinapa (La Colonia)",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "La Poltrona",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "La Providencia (El Bruno)",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "La Puerta (El Puerton)",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "La Rinconada",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Las animas",
+      "postal_code": [
+        "84653"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Las Cendraditas",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Las Cuevitas",
+      "postal_code": [
+        "84657"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Las Hornillas",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Las Pajareras",
+      "postal_code": [
+        "84657"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Las Penitas",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Las Piedras de Lumbre",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "84654"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "La Vinateria",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "La Virgen",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Loma Sur",
+      "postal_code": [
+        "84640"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Los Nogalitos (El Nogalito)",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Los Placeritos",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Los Tablones",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Los Vallecitos",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Molino Viejo",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Nuevo Arizpe",
+      "postal_code": [
+        "84640"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Ojo de Agua Bacanuchi",
+      "postal_code": [
+        "84653"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Pellacia",
+      "postal_code": [
+        "84654"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Penasco Alto",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Pozo Nuevo",
+      "postal_code": [
+        "84653"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Pueblito de Ures",
+      "postal_code": [
+        "84640"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Pueblo Viejo",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Ranchito Madero",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "84653"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "San Ignacio",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "84657"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Santa Rosalia",
+      "postal_code": [
+        "84654"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Santa Rosa Nuevo",
+      "postal_code": [
+        "84657"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Setadehuachi",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Sinoquipe",
+      "postal_code": [
+        "84656"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Tahuichopa",
+      "postal_code": [
+        "84650"
+      ]
+    },
+    {
+      "city": "Arizpe",
+      "colonia": "Tehuachi",
+      "postal_code": [
+        "84655"
+      ]
+    }
+  ]
+}

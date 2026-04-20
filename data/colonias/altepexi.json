@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Altepexi",
+      "colonia": "Altepexi",
+      "postal_code": [
+        "75950"
+      ]
+    },
+    {
+      "city": "Altepexi",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "75950"
+      ]
+    },
+    {
+      "city": "Altepexi",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "75950"
+      ]
+    },
+    {
+      "city": "Altepexi",
+      "colonia": "Las Arboledas",
+      "postal_code": [
+        "75950"
+      ]
+    },
+    {
+      "city": "Altepexi",
+      "colonia": "Tres Cruces",
+      "postal_code": [
+        "75950"
+      ]
+    }
+  ]
+}

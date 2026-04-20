@@ -1,0 +1,593 @@
+{
+  "data": [
+    {
+      "city": "Zinacantepec",
+      "colonia": "29 de Octubre",
+      "postal_code": [
+        "51354"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "51375"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Bosques del Nevado",
+      "postal_code": [
+        "51370"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Bosques Residencial",
+      "postal_code": [
+        "51355"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "51390"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Casa Grande",
+      "postal_code": [
+        "51355"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Cerro del Murcielago",
+      "postal_code": [
+        "51354"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Ciendabajo (Hacienda de Abajo)",
+      "postal_code": [
+        "51385"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "51383"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "De la Veracruz",
+      "postal_code": [
+        "51356"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Del Calvario",
+      "postal_code": [
+        "51354"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "De Mexico",
+      "postal_code": [
+        "51367"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Deportiva",
+      "postal_code": [
+        "51356"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "De San Miguel",
+      "postal_code": [
+        "51354"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Dos de Marzo",
+      "postal_code": [
+        "51370"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Ejidal San Francisco Tlalcilalcalpan",
+      "postal_code": [
+        "51354"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "El Capon (Puerta del Llano)",
+      "postal_code": [
+        "51355"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "El Contadero de Matamoros (San Jose)",
+      "postal_code": [
+        "51384"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "El Coporo",
+      "postal_code": [
+        "51364"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "El Curtidor",
+      "postal_code": [
+        "51364"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "51355"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "El Potrero Barbosa",
+      "postal_code": [
+        "51357"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "El Testerazo",
+      "postal_code": [
+        "51357"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "51355"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Hacienda San Jose Barbabosa",
+      "postal_code": [
+        "51357"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Irma Patricia Galindo de Rez",
+      "postal_code": [
+        "51356"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "La Aurora I",
+      "postal_code": [
+        "51354"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "La Aurora II",
+      "postal_code": [
+        "51354"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "La Canada (Canada Grande)",
+      "postal_code": [
+        "51386"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "51355"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "51354"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "La Herradura",
+      "postal_code": [
+        "51386"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "La Joya",
+      "postal_code": [
+        "51354",
+        "51355"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "La Loma",
+      "postal_code": [
+        "51355"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "La Penuela",
+      "postal_code": [
+        "51393"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "La Puerta del Monte",
+      "postal_code": [
+        "51390"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Las animas",
+      "postal_code": [
+        "51354"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Las Culturas",
+      "postal_code": [
+        "51355"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "La Virgen",
+      "postal_code": [
+        "51355"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "51356"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Loma Alta",
+      "postal_code": [
+        "51393"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Loma del Kiosco",
+      "postal_code": [
+        "51367"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Loma de San Francisco",
+      "postal_code": [
+        "51367"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Los Maestros",
+      "postal_code": [
+        "51354"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Morelos",
+      "postal_code": [
+        "51370"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Nueva Serraton",
+      "postal_code": [
+        "51355"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "51374"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Ojuelos",
+      "postal_code": [
+        "51355"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Paraje la Puerta de Barbabosa",
+      "postal_code": [
+        "51357"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Privadas de la Hacienda",
+      "postal_code": [
+        "51355"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Progreso",
+      "postal_code": [
+        "51383"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Raices",
+      "postal_code": [
+        "51393"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Rancho San Nicolas",
+      "postal_code": [
+        "51355"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Recibitas (El Remolino)",
+      "postal_code": [
+        "51373"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Residencial La Victoria",
+      "postal_code": [
+        "51355"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Residencial Zinacantepec",
+      "postal_code": [
+        "51354"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "51357"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Rinconada de Tecaxic",
+      "postal_code": [
+        "51355"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "San Antonio Acahualco",
+      "postal_code": [
+        "51380"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "San Bartolo del Llano (San Isidro)",
+      "postal_code": [
+        "51366"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "San Bartolo el Viejo",
+      "postal_code": [
+        "51366"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "San Cristobal Tecolit",
+      "postal_code": [
+        "51367"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "San Gregorio",
+      "postal_code": [
+        "51356"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "San Jorge",
+      "postal_code": [
+        "51355"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "San Juan de las Huertas",
+      "postal_code": [
+        "51370"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "San Lorenzo Cuautenco",
+      "postal_code": [
+        "51355"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "San Luis Mextepec",
+      "postal_code": [
+        "51355"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "San Matias Transfiguracion",
+      "postal_code": [
+        "51357"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "51354"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "San Miguel Hojas Anchas",
+      "postal_code": [
+        "51364"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "San Miguel Zinacantepec",
+      "postal_code": [
+        "51350"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "San Pedro Tejalpa",
+      "postal_code": [
+        "51383"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Santa Cruz Cuauhtenco",
+      "postal_code": [
+        "51370"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Santa Maria del Monte",
+      "postal_code": [
+        "51360"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Santa Martha",
+      "postal_code": [
+        "51355"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "San Valentin",
+      "postal_code": [
+        "51355"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Tejalpa",
+      "postal_code": [
+        "51375"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Villas de Guadalupe",
+      "postal_code": [
+        "51354"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "51355"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Vista Nevado 1",
+      "postal_code": [
+        "51354"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Vista Nevado Plus",
+      "postal_code": [
+        "51357"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Zamarrero",
+      "postal_code": [
+        "51355"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Zimbron",
+      "postal_code": [
+        "51355"
+      ]
+    },
+    {
+      "city": "Zinacantepec",
+      "colonia": "Zimbrones",
+      "postal_code": [
+        "51355"
+      ]
+    }
+  ]
+}

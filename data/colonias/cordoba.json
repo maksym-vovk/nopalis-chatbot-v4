@@ -1,0 +1,1563 @@
+{
+  "data": [
+    {
+      "city": "Cordoba",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "94487"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "2 Caminos",
+      "postal_code": [
+        "94550"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Accion y Servicio",
+      "postal_code": [
+        "94542"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Agricola La Palma Barreal",
+      "postal_code": [
+        "94549"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Agricola Santa Maria",
+      "postal_code": [
+        "94497"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Aguillon Guzman",
+      "postal_code": [
+        "94650"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Agustin Millan",
+      "postal_code": [
+        "94483",
+        "94613"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Alameda",
+      "postal_code": [
+        "94580"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Alameda Toxpan",
+      "postal_code": [
+        "94515"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "alamos",
+      "postal_code": [
+        "94542"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "alamos INFONAVIT",
+      "postal_code": [
+        "94542"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Alejandra Rodriguez Salazar",
+      "postal_code": [
+        "94657"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Alianza Popular",
+      "postal_code": [
+        "94575"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Ampliacion Miraflores",
+      "postal_code": [
+        "94540"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Azucenas",
+      "postal_code": [
+        "94557"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "94580"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Berlin",
+      "postal_code": [
+        "94517"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Betania",
+      "postal_code": [
+        "94542"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Brillante Crucero",
+      "postal_code": [
+        "94580"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "94696"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "94557"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Candido Aguilar",
+      "postal_code": [
+        "94688"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Caracas",
+      "postal_code": [
+        "94580"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Cedro",
+      "postal_code": [
+        "94680"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Cervantes y Lozada (Santa Rosa)",
+      "postal_code": [
+        "94480"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Cheel",
+      "postal_code": [
+        "94680"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Club Campestre Cordobes",
+      "postal_code": [
+        "94534"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Club Residencial Campestre",
+      "postal_code": [
+        "94530"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Cordoba 2000",
+      "postal_code": [
+        "94542"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Cordoba Centro",
+      "postal_code": [
+        "94500"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Cordobeses Ilustres",
+      "postal_code": [
+        "94510"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Cosaltepec",
+      "postal_code": [
+        "94480"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "94693"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Dante Delgado (30 Caballeros)",
+      "postal_code": [
+        "94517"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Del Carmen",
+      "postal_code": [
+        "94580"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Del Maestro",
+      "postal_code": [
+        "94550"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Deportes",
+      "postal_code": [
+        "94518"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "De San Miguel",
+      "postal_code": [
+        "94620"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Divina Morales",
+      "postal_code": [
+        "94556"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "El Bajio",
+      "postal_code": [
+        "94497"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "El Canaveral",
+      "postal_code": [
+        "94680"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "El Cipres",
+      "postal_code": [
+        "94513"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "El Diamante",
+      "postal_code": [
+        "94677"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "El Dorado",
+      "postal_code": [
+        "94557"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Electricistas",
+      "postal_code": [
+        "94657"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "El Girasol",
+      "postal_code": [
+        "94575"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "El Guayabal",
+      "postal_code": [
+        "94613"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Elizabeth",
+      "postal_code": [
+        "94589"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "El Jazmin",
+      "postal_code": [
+        "94542"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "El Manantial",
+      "postal_code": [
+        "94510"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "El Palenque Palotal",
+      "postal_code": [
+        "94553"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "94510"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "94484",
+        "94517"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "El Pueblito",
+      "postal_code": [
+        "94542"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "94610"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "El Sol",
+      "postal_code": [
+        "94557"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "El Trebol",
+      "postal_code": [
+        "94542"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "El Zopilote",
+      "postal_code": [
+        "94670"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Emaus",
+      "postal_code": [
+        "94559"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Emilio Carranza",
+      "postal_code": [
+        "94650"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Erasto Portilla",
+      "postal_code": [
+        "94687"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Esperanza",
+      "postal_code": [
+        "94590"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Federal",
+      "postal_code": [
+        "94570"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Fernando Gutierrez Barrios",
+      "postal_code": [
+        "94517"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Flores Magon",
+      "postal_code": [
+        "94630"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "94485"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Fraternidad",
+      "postal_code": [
+        "94542"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Fredepo",
+      "postal_code": [
+        "94542"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Fuentes Residencial Campestre",
+      "postal_code": [
+        "94530"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Fundadores de Cordoba",
+      "postal_code": [
+        "94542"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Gomez Morin",
+      "postal_code": [
+        "94650"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "94590"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Guadalupe Barreal",
+      "postal_code": [
+        "94552"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Huilango",
+      "postal_code": [
+        "94640"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Huilango 3000",
+      "postal_code": [
+        "94557"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Independencia",
+      "postal_code": [
+        "94650"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "INFONAVIT Santa Margarita",
+      "postal_code": [
+        "94600"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Jardines de La Alameda",
+      "postal_code": [
+        "94657"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Jardines Del Sur",
+      "postal_code": [
+        "94670"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Jardines de San Dimas",
+      "postal_code": [
+        "94570"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Jose Maria Morelos",
+      "postal_code": [
+        "94660"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Joyas de La Alameda",
+      "postal_code": [
+        "94580"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Juarez",
+      "postal_code": [
+        "94590"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "La Esmeralda",
+      "postal_code": [
+        "94556"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "La Esmeralda 2a Secc",
+      "postal_code": [
+        "94557"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "La Fortaleza",
+      "postal_code": [
+        "94510"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "La Joyita",
+      "postal_code": [
+        "94542"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "La Luz Del Mundo",
+      "postal_code": [
+        "94699"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "La Luz Francisco I Madero",
+      "postal_code": [
+        "94542"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "La Luz y Trinidad Palotal",
+      "postal_code": [
+        "94510"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "La Nueva",
+      "postal_code": [
+        "94600"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "La Nueva Reforma",
+      "postal_code": [
+        "94517"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "La Posta",
+      "postal_code": [
+        "94575"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Las Araucarias",
+      "postal_code": [
+        "94513"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Las Arboledas INFONAVIT",
+      "postal_code": [
+        "94649"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Las Brisas",
+      "postal_code": [
+        "94513"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Las Canas",
+      "postal_code": [
+        "94542"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "La Selva",
+      "postal_code": [
+        "94680"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Las Estaciones",
+      "postal_code": [
+        "94650"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "94546",
+        "94620"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Las Fuentes",
+      "postal_code": [
+        "94657"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "La Sidra",
+      "postal_code": [
+        "94643"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "94553"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "94580"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Las Quintas",
+      "postal_code": [
+        "94543"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "La Trinidad Chica",
+      "postal_code": [
+        "94534"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "94680"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Loma Linda INFONAVIT",
+      "postal_code": [
+        "94650"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Lomas",
+      "postal_code": [
+        "94570"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Lomas de los Angeles",
+      "postal_code": [
+        "94540"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Lomas Verdes",
+      "postal_code": [
+        "94556"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Lopez Arias",
+      "postal_code": [
+        "94670"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "94677"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Los Anturios",
+      "postal_code": [
+        "94513"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Los Arcos",
+      "postal_code": [
+        "94677"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Los Cafetales",
+      "postal_code": [
+        "94513"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Los Carriles",
+      "postal_code": [
+        "94517"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Los Cedros",
+      "postal_code": [
+        "94510"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Los Cedros Residencial",
+      "postal_code": [
+        "94657"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Los Cerezos",
+      "postal_code": [
+        "94534"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Los Colorines",
+      "postal_code": [
+        "94543"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Los Filtros",
+      "postal_code": [
+        "94510"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "94696"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Los Lienzos II",
+      "postal_code": [
+        "94494"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "94635"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Los Olivos",
+      "postal_code": [
+        "94580"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Los Robles",
+      "postal_code": [
+        "94657",
+        "94657"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Marquez Hoyos",
+      "postal_code": [
+        "94660"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Matlaquiahuitl",
+      "postal_code": [
+        "94497"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Mexico",
+      "postal_code": [
+        "94520"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Miguel Aguilar",
+      "postal_code": [
+        "94480"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Miguel Aleman",
+      "postal_code": [
+        "94620"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "94630"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Mirador",
+      "postal_code": [
+        "94610"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Miraflores",
+      "postal_code": [
+        "94540"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Miraflores Fraccion II-B",
+      "postal_code": [
+        "94542"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Moderna",
+      "postal_code": [
+        "94640"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Nardos",
+      "postal_code": [
+        "94556"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Nueva Alameda",
+      "postal_code": [
+        "94580"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Nuevo Cordoba",
+      "postal_code": [
+        "94550"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Nuevo Elizabeth",
+      "postal_code": [
+        "94558"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Nuevo San Jose",
+      "postal_code": [
+        "94560"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Nuevo Toxpan",
+      "postal_code": [
+        "94516"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Olmo",
+      "postal_code": [
+        "94680"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Pablo Sidar",
+      "postal_code": [
+        "94610"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Paraiso",
+      "postal_code": [
+        "94650"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Pardo",
+      "postal_code": [
+        "94640"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Penjamo",
+      "postal_code": [
+        "94680"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Petrolera",
+      "postal_code": [
+        "94540"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Pino Suarez",
+      "postal_code": [
+        "94680"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Popular La Posta",
+      "postal_code": [
+        "94575"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Praxedis Guerrero",
+      "postal_code": [
+        "94610"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Pueblo Quieto",
+      "postal_code": [
+        "94557"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Quinta Manzana Barreal",
+      "postal_code": [
+        "94488"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Rafael Murillo Vidal",
+      "postal_code": [
+        "94540"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Rancho Miranda",
+      "postal_code": [
+        "94590"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Rancho Morales",
+      "postal_code": [
+        "94657"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "94696"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Reforma El Barreral",
+      "postal_code": [
+        "94553"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Residencial Cecadys",
+      "postal_code": [
+        "94533"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Residencial El Brillante",
+      "postal_code": [
+        "94657"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Residencial Finca Real",
+      "postal_code": [
+        "94510"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Residencial Tulipanes",
+      "postal_code": [
+        "94486"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Rincon Del Bosque",
+      "postal_code": [
+        "94558"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Riveras de Buena Vista",
+      "postal_code": [
+        "94696"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Riveras de Huilango",
+      "postal_code": [
+        "94557"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Rodriguez Clara",
+      "postal_code": [
+        "94630"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "San Antonio de Padua",
+      "postal_code": [
+        "94517"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "San Aparicio Buena Vista",
+      "postal_code": [
+        "94480"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "San Cayetano",
+      "postal_code": [
+        "94640"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "San Cristobal",
+      "postal_code": [
+        "94588"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "San Dimas",
+      "postal_code": [
+        "94570"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "San Francisco Toxpan",
+      "postal_code": [
+        "94510"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "San Francisco Toxpan INDECO",
+      "postal_code": [
+        "94519"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "San Ignacio",
+      "postal_code": [
+        "94689"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "94552"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "San Isidro Palotal",
+      "postal_code": [
+        "94552"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "San Jose",
+      "postal_code": [
+        "94560"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "San Jose de Abajo",
+      "postal_code": [
+        "94554"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "San Jose de Tapia",
+      "postal_code": [
+        "94488"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "San Jose Loma Grande",
+      "postal_code": [
+        "94497"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "San Luis",
+      "postal_code": [
+        "94542"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "San Martin de Porres",
+      "postal_code": [
+        "94670"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "San Matias (Los Mangos)",
+      "postal_code": [
+        "94517"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "San Miguelito",
+      "postal_code": [
+        "94680"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "94540"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "San Nicolas INFONAVIT",
+      "postal_code": [
+        "94545"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "94620"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "San Rafael Caleria",
+      "postal_code": [
+        "94480"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "San Roman INFONAVIT",
+      "postal_code": [
+        "94542"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "94542",
+        "94543"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Santa Clara",
+      "postal_code": [
+        "94533"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Santa Cruz Buenavista",
+      "postal_code": [
+        "94690"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "94553"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "94557"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Santa Isabel",
+      "postal_code": [
+        "94546"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Santa Monica",
+      "postal_code": [
+        "94554"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Santa Rosalia",
+      "postal_code": [
+        "94679"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Santa Teresita (Segunda Manzana del Barreal)",
+      "postal_code": [
+        "94533"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Sauce",
+      "postal_code": [
+        "94680"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Shangrila",
+      "postal_code": [
+        "94559"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Tecama Caleria",
+      "postal_code": [
+        "94480"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Toxpan Beisborama",
+      "postal_code": [
+        "94515"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Tranca de Tubo",
+      "postal_code": [
+        "94486"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Tratados de Cordoba",
+      "postal_code": [
+        "94680"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Unidad Antorchista",
+      "postal_code": [
+        "94542"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Unidad Jardin",
+      "postal_code": [
+        "94640"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "ursulo Galvan",
+      "postal_code": [
+        "94630"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Valle de Cordoba",
+      "postal_code": [
+        "94513"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Valle Del Sol",
+      "postal_code": [
+        "94556"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Venustiano Carranza",
+      "postal_code": [
+        "94530"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Vicente Lombardo Toledano",
+      "postal_code": [
+        "94670"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Villa de las Flores",
+      "postal_code": [
+        "94670"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Villa Real",
+      "postal_code": [
+        "94575"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Villas de La Alameda",
+      "postal_code": [
+        "94580"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Villas de la Luz",
+      "postal_code": [
+        "94542"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Villas de San Isidro",
+      "postal_code": [
+        "94552"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Villa Verde",
+      "postal_code": [
+        "94657"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Virginia",
+      "postal_code": [
+        "94575"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "94677"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Zacatepec",
+      "postal_code": [
+        "94486"
+      ]
+    },
+    {
+      "city": "Cordoba",
+      "colonia": "Zona industrial",
+      "postal_code": [
+        "94690"
+      ]
+    }
+  ]
+}

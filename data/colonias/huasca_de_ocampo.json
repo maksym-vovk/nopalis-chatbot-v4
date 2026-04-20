@@ -1,0 +1,453 @@
+{
+  "data": [
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Aguacatitla (El Campamento)",
+      "postal_code": [
+        "43525"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Agua Zarca",
+      "postal_code": [
+        "43508"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Barranca del Xuchil",
+      "postal_code": [
+        "43527"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Barranca de Tlaxocoyucan",
+      "postal_code": [
+        "43530"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Bermudez",
+      "postal_code": [
+        "43517"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Bosque Real",
+      "postal_code": [
+        "43502"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Cerritos",
+      "postal_code": [
+        "43514"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Cerro del Tezontle",
+      "postal_code": [
+        "43525"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Cruz Blanca",
+      "postal_code": [
+        "43517"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "El Calvario",
+      "postal_code": [
+        "43503"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "El Contento",
+      "postal_code": [
+        "43530"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "El Dongo Chico",
+      "postal_code": [
+        "43527"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "El Dongo Grande",
+      "postal_code": [
+        "43527"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "El Huariche",
+      "postal_code": [
+        "43516"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "El Jilotillo",
+      "postal_code": [
+        "43508"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "El Peral",
+      "postal_code": [
+        "43508"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "El Tizal",
+      "postal_code": [
+        "43502"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "El Tunal",
+      "postal_code": [
+        "43517"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "El Vite",
+      "postal_code": [
+        "43527"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Huasca de Ocampo Centro",
+      "postal_code": [
+        "43503"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Jarillo",
+      "postal_code": [
+        "43502"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "La Bolsa",
+      "postal_code": [
+        "43516"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "La Canada",
+      "postal_code": [
+        "43515"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "La Hacienda Vieja",
+      "postal_code": [
+        "43502"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "La Laguna San Bartolo",
+      "postal_code": [
+        "43515"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "La Lagunilla",
+      "postal_code": [
+        "43502"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "La Loma",
+      "postal_code": [
+        "43516"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "La Mora",
+      "postal_code": [
+        "43517"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "La Nogalera",
+      "postal_code": [
+        "43527"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "La Palma",
+      "postal_code": [
+        "43514",
+        "43517"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "La Palmilla",
+      "postal_code": [
+        "43530"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Las Mesas de Tlaxocoyucan",
+      "postal_code": [
+        "43505"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Llano Grande",
+      "postal_code": [
+        "43502"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Los Reyes Tepezala",
+      "postal_code": [
+        "43508"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Magueyes Verdes",
+      "postal_code": [
+        "43523"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Mario Diaz Guzman",
+      "postal_code": [
+        "43527"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "43510"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Palma Antigua el Vite",
+      "postal_code": [
+        "43525"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Palmillas",
+      "postal_code": [
+        "43525"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Piedra del Agua",
+      "postal_code": [
+        "43523"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Rio Seco Puente de Doria",
+      "postal_code": [
+        "43500"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "San Bartolome",
+      "postal_code": [
+        "43510"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "San Diego",
+      "postal_code": [
+        "43514"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "San Ignacio Ojo de Agua",
+      "postal_code": [
+        "43525"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "San Jeronimo",
+      "postal_code": [
+        "43516"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "San Jose Cacaloapan",
+      "postal_code": [
+        "43505"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "San Jose Ocotillos",
+      "postal_code": [
+        "43500"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "San Jose Regla",
+      "postal_code": [
+        "43516"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "San Juan Hueyapan",
+      "postal_code": [
+        "43505"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "San Lorenzo el Zembo (El Zembo)",
+      "postal_code": [
+        "43502"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "San Miguel Cacaloapan",
+      "postal_code": [
+        "43505"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "San Miguel Regla",
+      "postal_code": [
+        "43500"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "San Pablo Ojo de Agua",
+      "postal_code": [
+        "43514"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "San Sebastian (San Sebastian la Barranca)",
+      "postal_code": [
+        "43538"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "43527"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "43505"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Santa Maria Regla",
+      "postal_code": [
+        "43516"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Santo Domingo Agua Zarca",
+      "postal_code": [
+        "43500"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Santo Tomas Allende",
+      "postal_code": [
+        "43516"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Tlaxcalera",
+      "postal_code": [
+        "43516"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Tlaxocoyucan",
+      "postal_code": [
+        "43530"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Tonteopa",
+      "postal_code": [
+        "43516"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Xuchil el Llano",
+      "postal_code": [
+        "43523"
+      ]
+    },
+    {
+      "city": "Huasca de Ocampo",
+      "colonia": "Yerbabuena",
+      "postal_code": [
+        "43508"
+      ]
+    }
+  ]
+}

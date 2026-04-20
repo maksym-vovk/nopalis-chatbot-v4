@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Praxedis G. Guerrero",
+      "colonia": "Centenario",
+      "postal_code": [
+        "32780"
+      ]
+    },
+    {
+      "city": "Praxedis G. Guerrero",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "32790"
+      ]
+    },
+    {
+      "city": "Praxedis G. Guerrero",
+      "colonia": "Esperanza",
+      "postal_code": [
+        "32789"
+      ]
+    },
+    {
+      "city": "Praxedis G. Guerrero",
+      "colonia": "Fronteras",
+      "postal_code": [
+        "32783"
+      ]
+    },
+    {
+      "city": "Praxedis G. Guerrero",
+      "colonia": "Praxedis G. Guerrero",
+      "postal_code": [
+        "32780"
+      ]
+    }
+  ]
+}

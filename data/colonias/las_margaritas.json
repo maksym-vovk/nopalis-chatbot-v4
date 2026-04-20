@@ -1,0 +1,508 @@
+{
+  "data": [
+    {
+      "city": "Las Margaritas",
+      "colonia": "Amparo Agua Tinta",
+      "postal_code": [
+        "30188"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Aquiles Serdan",
+      "postal_code": [
+        "30185"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Articulo 27",
+      "postal_code": [
+        "30189"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Bajucu",
+      "postal_code": [
+        "30185"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Belisario Dominguez (San Pedro)",
+      "postal_code": [
+        "30185"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Buenavista Pachan",
+      "postal_code": [
+        "30189"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Carmen Villaflores",
+      "postal_code": [
+        "30188"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Chiapas",
+      "postal_code": [
+        "30185"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Cruz del Rosario",
+      "postal_code": [
+        "30185"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Cuatro de Octubre",
+      "postal_code": [
+        "30189"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "El Eden",
+      "postal_code": [
+        "30188"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "30189"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "30188"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "El Suspiro",
+      "postal_code": [
+        "30189"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Francisco I Madero",
+      "postal_code": [
+        "30189"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Gabino Vazquez San Sebastian",
+      "postal_code": [
+        "30189"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Gabriel Leyva Velazquez",
+      "postal_code": [
+        "30185"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Gonzalez de Leon",
+      "postal_code": [
+        "30185"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "30187"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Guadalupe (Las Flores)",
+      "postal_code": [
+        "30188"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Guadalupe Tepeyac",
+      "postal_code": [
+        "30188"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Ignacio Allende",
+      "postal_code": [
+        "30189"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "30189"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Jalisco",
+      "postal_code": [
+        "30185"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Jerusalen",
+      "postal_code": [
+        "30232"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Justo Sierra (San Francisco)",
+      "postal_code": [
+        "30185"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "La Conquista",
+      "postal_code": [
+        "30185"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "La Florida",
+      "postal_code": [
+        "30185"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "La Libertad",
+      "postal_code": [
+        "30189"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "La Orquidea",
+      "postal_code": [
+        "30189"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "La Piedad",
+      "postal_code": [
+        "30185"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "La Pila",
+      "postal_code": [
+        "30187"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "La Realidad Trinidad",
+      "postal_code": [
+        "30188"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Las Glorias",
+      "postal_code": [
+        "30187"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Las Margaritas Centro",
+      "postal_code": [
+        "30187"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Lomantan",
+      "postal_code": [
+        "30185"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Los Laguitos",
+      "postal_code": [
+        "30187"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Los Pocitos",
+      "postal_code": [
+        "30187"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Medellin del Carmen",
+      "postal_code": [
+        "30189"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Mexiquito",
+      "postal_code": [
+        "30185"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Nuevo Mexico",
+      "postal_code": [
+        "30185"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Nuevo San Juan Chamula (El Pacayal)",
+      "postal_code": [
+        "30188"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Plan de Agua Prieta",
+      "postal_code": [
+        "30189"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Plan de Ayala",
+      "postal_code": [
+        "30185"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Rafael Ramirez",
+      "postal_code": [
+        "30185"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Rio Corozal",
+      "postal_code": [
+        "30188"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Rosario Bawitz",
+      "postal_code": [
+        "30185"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Sacsalum",
+      "postal_code": [
+        "30187"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Saltillo",
+      "postal_code": [
+        "30189"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "San Antonio los Altos",
+      "postal_code": [
+        "30233"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "San Antonio los Montes",
+      "postal_code": [
+        "30188"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "San Antonio Monterrey",
+      "postal_code": [
+        "30189"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "San Antonio Venecia",
+      "postal_code": [
+        "30189"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "San Caralampio",
+      "postal_code": [
+        "30237"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "San Jose las Palmas",
+      "postal_code": [
+        "30189"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "San Jose Zapotal",
+      "postal_code": [
+        "30185"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "San Miguel del Norte",
+      "postal_code": [
+        "30189"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "30187"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "30187"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "30189"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Santa Isabel",
+      "postal_code": [
+        "30188"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Santa Lucia Ojo de Agua",
+      "postal_code": [
+        "30188"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Santa Rita Invernadero",
+      "postal_code": [
+        "30188"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Santa Rita Sonora",
+      "postal_code": [
+        "30189"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "San Vicente El Encanto",
+      "postal_code": [
+        "30188"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Tabasco",
+      "postal_code": [
+        "30185"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Veinte de Noviembre",
+      "postal_code": [
+        "30185"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Veracruz",
+      "postal_code": [
+        "30189"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "30185"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Victoria la Paz",
+      "postal_code": [
+        "30189"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Yalcoc",
+      "postal_code": [
+        "30189"
+      ]
+    },
+    {
+      "city": "Las Margaritas",
+      "colonia": "Yasha",
+      "postal_code": [
+        "30189"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "data": [
+    {
+      "city": "Huatusco",
+      "colonia": "1o de Mayo",
+      "postal_code": [
+        "94108"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "2 de Noviembre",
+      "postal_code": [
+        "94107"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Acatepec",
+      "postal_code": [
+        "94108"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Agustin Chicuellar",
+      "postal_code": [
+        "94106"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Alta Luz",
+      "postal_code": [
+        "94110"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Amatiopa (Mesa Limon)",
+      "postal_code": [
+        "94113"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Ampliacion Emiliano Zapata",
+      "postal_code": [
+        "94106"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Capulapa",
+      "postal_code": [
+        "94110"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Carrizal",
+      "postal_code": [
+        "94110"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Chavaxtla",
+      "postal_code": [
+        "94110"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Constitucion",
+      "postal_code": [
+        "94106"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Cotecontla",
+      "postal_code": [
+        "94110"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "El Centenario",
+      "postal_code": [
+        "94108"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "El Ocote",
+      "postal_code": [
+        "94110"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Elotepec",
+      "postal_code": [
+        "94117"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "94106"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Encinos",
+      "postal_code": [
+        "94106"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Guillermo Lira",
+      "postal_code": [
+        "94108"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Huatusco de Chicuellar Centro",
+      "postal_code": [
+        "94100"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Ixpila",
+      "postal_code": [
+        "94113"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Jose Maria Morelos",
+      "postal_code": [
+        "94107"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Las Trancas",
+      "postal_code": [
+        "94106"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Los Carriles",
+      "postal_code": [
+        "94107"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Los Ixpepes",
+      "postal_code": [
+        "94106"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Los Manantiales",
+      "postal_code": [
+        "94106"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Maquina de Vega",
+      "postal_code": [
+        "94103"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Mesa del Rancho",
+      "postal_code": [
+        "94113"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Michapa",
+      "postal_code": [
+        "94113"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Miguel Aleman",
+      "postal_code": [
+        "94107"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Nuevo",
+      "postal_code": [
+        "94108"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Pastoria Cuatro",
+      "postal_code": [
+        "94107"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Praderas de Axol",
+      "postal_code": [
+        "94106"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Progreso",
+      "postal_code": [
+        "94108"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Puentecilla",
+      "postal_code": [
+        "94110"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Reserva Territorial",
+      "postal_code": [
+        "94106"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Sabanas",
+      "postal_code": [
+        "94110"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "SDTEV",
+      "postal_code": [
+        "94100"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "SETSE I",
+      "postal_code": [
+        "94108"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "SETSE II",
+      "postal_code": [
+        "94108"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Tlamatoca",
+      "postal_code": [
+        "94110"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Unidad Antorchista",
+      "postal_code": [
+        "94100"
+      ]
+    },
+    {
+      "city": "Huatusco",
+      "colonia": "Villas la Vista",
+      "postal_code": [
+        "94107"
+      ]
+    }
+  ]
+}

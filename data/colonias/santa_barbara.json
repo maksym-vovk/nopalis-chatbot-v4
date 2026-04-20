@@ -1,0 +1,659 @@
+{
+  "data": [
+    {
+      "city": "Santa Barbara",
+      "colonia": "11 de Julio",
+      "postal_code": [
+        "33583"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "18 de Marzo",
+      "postal_code": [
+        "33587"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "21 de Marzo",
+      "postal_code": [
+        "33586"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Alamito",
+      "postal_code": [
+        "33594"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Arroyo Prieto",
+      "postal_code": [
+        "33597"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Bajio de Enmedio",
+      "postal_code": [
+        "33593"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Bloquera",
+      "postal_code": [
+        "33590"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Cabras",
+      "postal_code": [
+        "33597"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "California",
+      "postal_code": [
+        "33585"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Casa Colorada (Francisco I. Madero)",
+      "postal_code": [
+        "33597"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Chaveno",
+      "postal_code": [
+        "33594"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Chicanaya",
+      "postal_code": [
+        "33593"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Cinco de Mayo",
+      "postal_code": [
+        "33596"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Clarines",
+      "postal_code": [
+        "33596"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Cobriza",
+      "postal_code": [
+        "33596"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Corral de Piedras (Cenzontle)",
+      "postal_code": [
+        "33590"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "El Aguaje",
+      "postal_code": [
+        "33593",
+        "33593"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "El Alamito (Los Tubos)",
+      "postal_code": [
+        "33590"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "El Banco",
+      "postal_code": [
+        "33594"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "El Cura",
+      "postal_code": [
+        "33597"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "El Granillo",
+      "postal_code": [
+        "33590"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "El Nogal",
+      "postal_code": [
+        "33584"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "El Papalote",
+      "postal_code": [
+        "33590"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "El Pino",
+      "postal_code": [
+        "33596"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "33593",
+        "33597"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "El Prado",
+      "postal_code": [
+        "33594"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "33593"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "El Ranchito (San Lorenzo)",
+      "postal_code": [
+        "33585"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "El Rastro",
+      "postal_code": [
+        "33596"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "El Serrucho y Adjuntos",
+      "postal_code": [
+        "33595"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "El Socorro",
+      "postal_code": [
+        "33593"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "El Toro",
+      "postal_code": [
+        "33596"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "El Viento",
+      "postal_code": [
+        "33585"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Empalme Aguilera",
+      "postal_code": [
+        "33590"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Estacion Adrian",
+      "postal_code": [
+        "33597"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Felipe angeles",
+      "postal_code": [
+        "33587"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "33585"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Franqueno",
+      "postal_code": [
+        "33596"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Frisco [Aeropuerto]",
+      "postal_code": [
+        "33590"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "33586"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Guillermo Prieto",
+      "postal_code": [
+        "33586"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Industrial Minera Mexicana",
+      "postal_code": [
+        "33587"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Jesus Garcia",
+      "postal_code": [
+        "33587"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "La Alhajita",
+      "postal_code": [
+        "33594"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "La Aurora",
+      "postal_code": [
+        "33593"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "La Boruquilla",
+      "postal_code": [
+        "33594"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "La Catorce",
+      "postal_code": [
+        "33596"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "La Descubridora",
+      "postal_code": [
+        "33583"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "33590"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "La Granja",
+      "postal_code": [
+        "33597"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "La Laborcita",
+      "postal_code": [
+        "33597"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "La Ladrillera",
+      "postal_code": [
+        "33594"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "La Palma",
+      "postal_code": [
+        "33593"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "La Parrita",
+      "postal_code": [
+        "33590"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "La Puerta",
+      "postal_code": [
+        "33597"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "La Rosita",
+      "postal_code": [
+        "33593"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Las Adjuntas",
+      "postal_code": [
+        "33595"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Las Delicias",
+      "postal_code": [
+        "33593"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Las Estrellas",
+      "postal_code": [
+        "33596"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Las Mesas",
+      "postal_code": [
+        "33593"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Las Tres M",
+      "postal_code": [
+        "33593"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "La Vencedora",
+      "postal_code": [
+        "33593"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Leon Guzman",
+      "postal_code": [
+        "33586"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Llanos de Casa Colorada (Francisco I. Madero)",
+      "postal_code": [
+        "33597"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Los Amparan",
+      "postal_code": [
+        "33597"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Los Obligados",
+      "postal_code": [
+        "33593"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Los Roldan (Yito Roldan)",
+      "postal_code": [
+        "33594"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Los Solis",
+      "postal_code": [
+        "33593"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Los Solis de Arriba (La Laborcita)",
+      "postal_code": [
+        "33593"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Melchor Ocampo",
+      "postal_code": [
+        "33587"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Moctezuma",
+      "postal_code": [
+        "33583"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Nino Artillero",
+      "postal_code": [
+        "33583"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Noriega",
+      "postal_code": [
+        "33597"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Pachuca",
+      "postal_code": [
+        "33593"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Palo Blanco",
+      "postal_code": [
+        "33597"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Prado de los angeles",
+      "postal_code": [
+        "33584"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Puerto San Diego",
+      "postal_code": [
+        "33597"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Punto Alegre",
+      "postal_code": [
+        "33590"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Rancho GVP",
+      "postal_code": [
+        "33590"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Rancho Vaqueritos",
+      "postal_code": [
+        "33594"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Real deavila",
+      "postal_code": [
+        "33594"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "33584",
+        "33593"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "San Diego",
+      "postal_code": [
+        "33596"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "33595",
+        "33597"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "San Martin",
+      "postal_code": [
+        "33593"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "San Pedro (Ejido San Rafael)",
+      "postal_code": [
+        "33590"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "33590"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Santa Barbara Centro",
+      "postal_code": [
+        "33580"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Santa Rita (Noriega y Anexo)",
+      "postal_code": [
+        "33597"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Santiaguito",
+      "postal_code": [
+        "33590"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Tahonas",
+      "postal_code": [
+        "33597"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Tecolotes",
+      "postal_code": [
+        "33587"
+      ]
+    },
+    {
+      "city": "Santa Barbara",
+      "colonia": "Todos Santos",
+      "postal_code": [
+        "33597"
+      ]
+    }
+  ]
+}

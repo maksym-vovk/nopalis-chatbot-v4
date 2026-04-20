@@ -1,0 +1,522 @@
+{
+  "data": [
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Abelardo L. Rodriguez",
+      "postal_code": [
+        "74573"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Agua Escondida (Santa Cruz Agua Escondida)",
+      "postal_code": [
+        "74573"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Alchichica",
+      "postal_code": [
+        "74419"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Amatitlanes",
+      "postal_code": [
+        "74443"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Ayutla (San Felipe Ayutla)",
+      "postal_code": [
+        "74577"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Campestre la Paz",
+      "postal_code": [
+        "74420"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Campo Nuevo",
+      "postal_code": [
+        "74443"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Cristo Rey",
+      "postal_code": [
+        "74570"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Cruz Verde",
+      "postal_code": [
+        "74440"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Cruz Verde 2a Seccion",
+      "postal_code": [
+        "74443"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Del Empleado",
+      "postal_code": [
+        "74430"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Dulces Nombres",
+      "postal_code": [
+        "74577"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "El Calvario 1a. Seccion",
+      "postal_code": [
+        "74410"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "El Calvario 2a Secc",
+      "postal_code": [
+        "74418"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "74573"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "El Jardin",
+      "postal_code": [
+        "74470"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "74410"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Itzocan",
+      "postal_code": [
+        "74450"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Izucar de Matamoros Centro",
+      "postal_code": [
+        "74400"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Jaltianguis (San Jose Jaltianguis)",
+      "postal_code": [
+        "74577"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "La Asuncion",
+      "postal_code": [
+        "74470"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "La Curva",
+      "postal_code": [
+        "74420"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "La Galarza",
+      "postal_code": [
+        "74570"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "La Magdalena",
+      "postal_code": [
+        "74470"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "La Paz",
+      "postal_code": [
+        "74448"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Las Casitas",
+      "postal_code": [
+        "74576"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Las Espigas",
+      "postal_code": [
+        "74420"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "74443"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Las Violetas",
+      "postal_code": [
+        "74470"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "74490"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Lomas de Alchichica",
+      "postal_code": [
+        "74410"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Los Ahuehuetes",
+      "postal_code": [
+        "74420"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Los Amates",
+      "postal_code": [
+        "74576"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Los Arcos",
+      "postal_code": [
+        "74419"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "74463"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Los Fresnos FOVISSSTE",
+      "postal_code": [
+        "74463"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "74490"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Matzaco",
+      "postal_code": [
+        "74577"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Mazatla",
+      "postal_code": [
+        "74490"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Morelos",
+      "postal_code": [
+        "74467"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "74420"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Paseos de Matamoros",
+      "postal_code": [
+        "74467"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Rancho Juanitos",
+      "postal_code": [
+        "74443"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Residencial el Mangal",
+      "postal_code": [
+        "74420"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Residencial la Asuncion",
+      "postal_code": [
+        "74470"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "San Bernardino",
+      "postal_code": [
+        "74450"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "San Carlos Buenavista",
+      "postal_code": [
+        "74577"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "San Diego Chiconcuac",
+      "postal_code": [
+        "74420"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "74573"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "San Jose las Bocas",
+      "postal_code": [
+        "74573"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "San Juan Coahuixtla",
+      "postal_code": [
+        "74480"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "San Juan Colon",
+      "postal_code": [
+        "74575"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "San Juan Piaxtla",
+      "postal_code": [
+        "74460"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "San Juan Raboso",
+      "postal_code": [
+        "74573"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "San Lucas Colucan",
+      "postal_code": [
+        "74577"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "San Manuel la Parota",
+      "postal_code": [
+        "74578"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "San Martin Huaquechula",
+      "postal_code": [
+        "74450"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "San Miguel Izucar",
+      "postal_code": [
+        "74480"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "San Miguel las Minas",
+      "postal_code": [
+        "74576"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "San Nicolas Tolentino",
+      "postal_code": [
+        "74577"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "San Pedro Calantla",
+      "postal_code": [
+        "74573"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "San Sebastian Puctla",
+      "postal_code": [
+        "74577"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Santa Catarina",
+      "postal_code": [
+        "74470"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Santa Cruz Coatla",
+      "postal_code": [
+        "74470"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Santa Cruz Tecoxco",
+      "postal_code": [
+        "74440"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Santa Maria Xuchapa",
+      "postal_code": [
+        "74577"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Santiago Mihuacan",
+      "postal_code": [
+        "74420"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Santo Tomas",
+      "postal_code": [
+        "74480"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Tatetla",
+      "postal_code": [
+        "74570"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Valle Primavera",
+      "postal_code": [
+        "74463"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Villa Pao",
+      "postal_code": [
+        "74420"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Villas Matamoros",
+      "postal_code": [
+        "74470"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Villas Reales",
+      "postal_code": [
+        "74467"
+      ]
+    },
+    {
+      "city": "Izucar de Matamoros",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "74435"
+      ]
+    }
+  ]
+}

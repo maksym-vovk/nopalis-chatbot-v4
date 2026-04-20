@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Cerralvo",
+      "colonia": "Arroyo de Piedra",
+      "postal_code": [
+        "65907"
+      ]
+    },
+    {
+      "city": "Cerralvo",
+      "colonia": "Bicentenario",
+      "postal_code": [
+        "65900"
+      ]
+    },
+    {
+      "city": "Cerralvo",
+      "colonia": "Ciudad Cerralvo",
+      "postal_code": [
+        "65900"
+      ]
+    },
+    {
+      "city": "Cerralvo",
+      "colonia": "Juarez",
+      "postal_code": [
+        "65920"
+      ]
+    },
+    {
+      "city": "Cerralvo",
+      "colonia": "Martinitos",
+      "postal_code": [
+        "65940"
+      ]
+    },
+    {
+      "city": "Cerralvo",
+      "colonia": "Una de Gato",
+      "postal_code": [
+        "65936"
+      ]
+    }
+  ]
+}

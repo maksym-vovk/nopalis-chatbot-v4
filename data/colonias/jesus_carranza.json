@@ -1,0 +1,842 @@
+{
+  "data": [
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Adalberto Tejeda",
+      "postal_code": [
+        "96960"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Adolfo Lopez Mateos (Zacatal)",
+      "postal_code": [
+        "96973"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Adrian Castrejon",
+      "postal_code": [
+        "96963"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Adrian Castrejon Viejo",
+      "postal_code": [
+        "96963"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Arroyo Azul",
+      "postal_code": [
+        "96974"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Boca Arenales",
+      "postal_code": [
+        "96953"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Brecha Numero 17",
+      "postal_code": [
+        "96952"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Brecha Numero 18",
+      "postal_code": [
+        "96952"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Brecha Numero 21",
+      "postal_code": [
+        "96955"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Brecha Numero 22",
+      "postal_code": [
+        "96955"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Buena Vista 1",
+      "postal_code": [
+        "96956"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Buenavista 2",
+      "postal_code": [
+        "96963"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Carolino Anaya",
+      "postal_code": [
+        "96974"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Casa Blanca (Entrada a Veinticuatro de Febrero)",
+      "postal_code": [
+        "96976"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Cascajal Dos",
+      "postal_code": [
+        "96973"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Cascajal Uno",
+      "postal_code": [
+        "96964"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Chalchijapan (Anexo el Paraiso)",
+      "postal_code": [
+        "96967"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Chicajan",
+      "postal_code": [
+        "96955"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Cinco de Mayo",
+      "postal_code": [
+        "96978"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Coapiloloyita",
+      "postal_code": [
+        "96953"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Colombia Land",
+      "postal_code": [
+        "96954"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Colonia Nuevo Morelos",
+      "postal_code": [
+        "96956"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Cuaclan",
+      "postal_code": [
+        "96978"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "96952",
+        "96957"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Cuauhtemoc de Tierra Blanca (Amatal)",
+      "postal_code": [
+        "96974"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Cuauhtemoc Dos",
+      "postal_code": [
+        "96953"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Desviacion a Paraiso",
+      "postal_code": [
+        "96956"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Desviacion a Vasconcelos",
+      "postal_code": [
+        "96964"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Desviacion Oaxaquena",
+      "postal_code": [
+        "96965"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Dieciseis de Septiembre",
+      "postal_code": [
+        "96977"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Domingo Arenas",
+      "postal_code": [
+        "96962"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "El Manantial",
+      "postal_code": [
+        "96957"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "96962"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "El Naranjo",
+      "postal_code": [
+        "96960"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "El Nopal",
+      "postal_code": [
+        "96977"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "El Palmar",
+      "postal_code": [
+        "96965"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "96956",
+        "96965"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "El Redentor",
+      "postal_code": [
+        "96952"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "El Suchil",
+      "postal_code": [
+        "96952"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "El Tehuacan",
+      "postal_code": [
+        "96953"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "El Teniente",
+      "postal_code": [
+        "96957"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "El Tepache",
+      "postal_code": [
+        "96965"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "El Tesoro",
+      "postal_code": [
+        "96975"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "El Totoloche",
+      "postal_code": [
+        "96953"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "El Veintidos",
+      "postal_code": [
+        "96970"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Enrique Rodriguez Cano",
+      "postal_code": [
+        "96974"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Eugenio Mendez Docurro",
+      "postal_code": [
+        "96955"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Fernando Lopez Arias",
+      "postal_code": [
+        "96954"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "96962"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Francisco Villa Nuevo",
+      "postal_code": [
+        "96977"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Francisco Villa (Tres Gardenias)",
+      "postal_code": [
+        "96962"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Francisco Villa Viejo",
+      "postal_code": [
+        "96977"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "General Vicente Guerrero",
+      "postal_code": [
+        "96974"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Graciano Sanchez",
+      "postal_code": [
+        "96973"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Guadalupe Piedra Bola Castillito",
+      "postal_code": [
+        "96978"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Heriberto Jara Corona",
+      "postal_code": [
+        "96973"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Hidalguense",
+      "postal_code": [
+        "96956"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Iturbide I",
+      "postal_code": [
+        "96966"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Iturbide II",
+      "postal_code": [
+        "96963"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Jaltepec",
+      "postal_code": [
+        "96957"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Jesus Carranza",
+      "postal_code": [
+        "96950"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Josefa Ortiz de Dominguez (Tronconada)",
+      "postal_code": [
+        "96973"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Jose Vasconcelos",
+      "postal_code": [
+        "96964"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Juan de la Luz Enriquez",
+      "postal_code": [
+        "96976"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Juan Escutia",
+      "postal_code": [
+        "96977"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "La Boca del Chalchijapan",
+      "postal_code": [
+        "96967"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "La Candelaria",
+      "postal_code": [
+        "96954"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "La Ceiba",
+      "postal_code": [
+        "96965"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "96950"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "La Desviacion San Miguel del Rio",
+      "postal_code": [
+        "96954"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "96978"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "La Guadalupana",
+      "postal_code": [
+        "96957"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "La Jarochita",
+      "postal_code": [
+        "96953"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "La Laguna Iturbide",
+      "postal_code": [
+        "96966"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "La Oaxaquena",
+      "postal_code": [
+        "96966"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "96977"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Las Limas",
+      "postal_code": [
+        "96952"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Las Perlas",
+      "postal_code": [
+        "96953",
+        "96966"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "96978"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Lic. Fernando Lopez Arias",
+      "postal_code": [
+        "96970"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Macaya",
+      "postal_code": [
+        "96967"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Madamita",
+      "postal_code": [
+        "96967"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Modelo Dos Rios (Las Flores)",
+      "postal_code": [
+        "96970"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Nazario Ortiz Garza (El Veintidos)",
+      "postal_code": [
+        "96952"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Ninos Heroes de Chapultepec (Zetina)",
+      "postal_code": [
+        "96975"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Nipojpolihuitl",
+      "postal_code": [
+        "96977"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Nueva Esperanza",
+      "postal_code": [
+        "96973"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Nueva Tapatia",
+      "postal_code": [
+        "96965"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Nuevo Morelos",
+      "postal_code": [
+        "96960"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Nuevo Paraiso",
+      "postal_code": [
+        "96964"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Nuevo Progreso",
+      "postal_code": [
+        "96978"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Nuevo Progreso (Las Huertas Medina)",
+      "postal_code": [
+        "96973"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Nuevo Zacatepec",
+      "postal_code": [
+        "96953"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Nuevo Zacualpan",
+      "postal_code": [
+        "96953"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "96963"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Palo Dulce",
+      "postal_code": [
+        "96955",
+        "96957"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Plan de Pericos",
+      "postal_code": [
+        "96974"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Profesor Roberto Barrios",
+      "postal_code": [
+        "96953"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Progreso Veracruzano",
+      "postal_code": [
+        "96963"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Puente la Gloria",
+      "postal_code": [
+        "96956"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "96978"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "96975"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "San Cristobal",
+      "postal_code": [
+        "96975"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "San Luis",
+      "postal_code": [
+        "96964"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "San Martin",
+      "postal_code": [
+        "96952",
+        "96957"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "San Miguel del Rio",
+      "postal_code": [
+        "96978"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Santa Amalia",
+      "postal_code": [
+        "96955"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "96960"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "96964"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "96952"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Suchilapan",
+      "postal_code": [
+        "96978"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Suchilapan Cardenas",
+      "postal_code": [
+        "96957"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Suchilapan del Rio",
+      "postal_code": [
+        "96970"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Suchilapilla",
+      "postal_code": [
+        "96975"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Tecolotepec",
+      "postal_code": [
+        "96964"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Tepachillo",
+      "postal_code": [
+        "96953"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Veinticuatro de Febrero",
+      "postal_code": [
+        "96977"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Vista Hermosa (Colorado)",
+      "postal_code": [
+        "96964"
+      ]
+    },
+    {
+      "city": "Jesus Carranza",
+      "colonia": "Vista Hermosa de Hidalgo",
+      "postal_code": [
+        "96976"
+      ]
+    }
+  ]
+}

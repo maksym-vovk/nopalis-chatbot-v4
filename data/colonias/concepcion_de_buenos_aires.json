@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Concepcion de Buenos Aires",
+      "colonia": "Concepcion de Buenos Aires",
+      "postal_code": [
+        "49170"
+      ]
+    },
+    {
+      "city": "Concepcion de Buenos Aires",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "49176"
+      ]
+    },
+    {
+      "city": "Concepcion de Buenos Aires",
+      "colonia": "Paso de La Yerbabuena",
+      "postal_code": [
+        "49178"
+      ]
+    },
+    {
+      "city": "Concepcion de Buenos Aires",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "49177"
+      ]
+    },
+    {
+      "city": "Concepcion de Buenos Aires",
+      "colonia": "Toluquilla",
+      "postal_code": [
+        "49176"
+      ]
+    }
+  ]
+}

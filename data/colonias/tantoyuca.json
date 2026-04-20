@@ -1,0 +1,606 @@
+{
+  "data": [
+    {
+      "city": "Tantoyuca",
+      "colonia": "10 de Mayo",
+      "postal_code": [
+        "92122"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "18 de Marzo",
+      "postal_code": [
+        "92127"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Acececa",
+      "postal_code": [
+        "92108"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Ajoloco",
+      "postal_code": [
+        "92116"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Altamirano",
+      "postal_code": [
+        "92127"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Azteca",
+      "postal_code": [
+        "92123"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Banrural",
+      "postal_code": [
+        "92122"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Buena Vista",
+      "postal_code": [
+        "92100"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Cardonal",
+      "postal_code": [
+        "92100"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Casitas Chila Perez",
+      "postal_code": [
+        "92100"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Cebadilla",
+      "postal_code": [
+        "92123"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Cerro de La Cruz",
+      "postal_code": [
+        "92123"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Cerro San Gabriel",
+      "postal_code": [
+        "92117"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Chijolar",
+      "postal_code": [
+        "92100"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Corral Viejo Laja Primera",
+      "postal_code": [
+        "92105"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Cucharas",
+      "postal_code": [
+        "92103"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Dante Delgado",
+      "postal_code": [
+        "92122"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Del Valle",
+      "postal_code": [
+        "92125"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Dos Arroyos",
+      "postal_code": [
+        "92122"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Dos Caminos",
+      "postal_code": [
+        "92117"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Ejido Cuauhtemoc (Chila Curtaza)",
+      "postal_code": [
+        "92100"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Ejido Siete Palmas",
+      "postal_code": [
+        "92114"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "El Abra",
+      "postal_code": [
+        "92126"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "El Aguacate",
+      "postal_code": [
+        "92113"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "El Aquichal (Laja Segunda)",
+      "postal_code": [
+        "92105"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "El Chopopo",
+      "postal_code": [
+        "92100"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "El Chote",
+      "postal_code": [
+        "92104"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "El Limon",
+      "postal_code": [
+        "92105"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "El Lindero",
+      "postal_code": [
+        "92116"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "El Maguey Sabana Grande",
+      "postal_code": [
+        "92110"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "El Padre",
+      "postal_code": [
+        "92117"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "El Rastro Nuevo",
+      "postal_code": [
+        "92124"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "El Remanso",
+      "postal_code": [
+        "92116"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "El Sabroso Uno Crucero Palmito",
+      "postal_code": [
+        "92113"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "92117"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Exhacienda Tametate",
+      "postal_code": [
+        "92124"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "92122"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Gutierrez Barrios",
+      "postal_code": [
+        "92127"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Independencia Nacional",
+      "postal_code": [
+        "92108"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Ixcanelco",
+      "postal_code": [
+        "92100"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Jacubal",
+      "postal_code": [
+        "92100"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Jagüey Hidalgo",
+      "postal_code": [
+        "92126"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "La Garita",
+      "postal_code": [
+        "92123"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "La Mora",
+      "postal_code": [
+        "92104"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "La Morita",
+      "postal_code": [
+        "92116"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "La Pamesina",
+      "postal_code": [
+        "92127"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "La Pitahaya",
+      "postal_code": [
+        "92105"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "La Reforma",
+      "postal_code": [
+        "92122"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Las Agujas",
+      "postal_code": [
+        "92127"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Las Casitas",
+      "postal_code": [
+        "92126"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Loma Larga",
+      "postal_code": [
+        "92117"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Los Ajos",
+      "postal_code": [
+        "92110"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Manantiales",
+      "postal_code": [
+        "92127"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Mano de Leon",
+      "postal_code": [
+        "92113"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Mata del Tigre",
+      "postal_code": [
+        "92105"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Moralillo",
+      "postal_code": [
+        "92116"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Morelos",
+      "postal_code": [
+        "92124"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "92126"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Palo Solo",
+      "postal_code": [
+        "92110"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Pecero",
+      "postal_code": [
+        "92107"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Pedrera",
+      "postal_code": [
+        "92125"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Platanal",
+      "postal_code": [
+        "92125"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Poza Azul",
+      "postal_code": [
+        "92123"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "92103"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Rastro",
+      "postal_code": [
+        "92124"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Ruiz Cortines",
+      "postal_code": [
+        "92123"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Sabana Grande",
+      "postal_code": [
+        "92110"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "92116"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "San Diego",
+      "postal_code": [
+        "92110"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "San Gabriel",
+      "postal_code": [
+        "92105"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "92103"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Santa Clara",
+      "postal_code": [
+        "92113"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "92127"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Santa Monica",
+      "postal_code": [
+        "92116"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Tametate",
+      "postal_code": [
+        "92104"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Tampatel",
+      "postal_code": [
+        "92124"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Tanquian",
+      "postal_code": [
+        "92103"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Tantoyuca Centro",
+      "postal_code": [
+        "92120"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Tecomate",
+      "postal_code": [
+        "92100"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Tepatlan",
+      "postal_code": [
+        "92104"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Tepatlan Chico",
+      "postal_code": [
+        "92104"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "92116"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Tres Palmas",
+      "postal_code": [
+        "92103"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Villas de Tantoyuca",
+      "postal_code": [
+        "92124"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Wash",
+      "postal_code": [
+        "92123"
+      ]
+    },
+    {
+      "city": "Tantoyuca",
+      "colonia": "Xiloxuchitl",
+      "postal_code": [
+        "92104"
+      ]
+    }
+  ]
+}

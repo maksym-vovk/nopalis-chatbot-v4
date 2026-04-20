@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "San Ildefonso Amatlan",
+      "colonia": "La Reforma",
+      "postal_code": [
+        "70829"
+      ]
+    },
+    {
+      "city": "San Ildefonso Amatlan",
+      "colonia": "San Ildefonso Amatlan",
+      "postal_code": [
+        "70828"
+      ]
+    },
+    {
+      "city": "San Ildefonso Amatlan",
+      "colonia": "Santo Domingo Amatlan",
+      "postal_code": [
+        "70828"
+      ]
+    },
+    {
+      "city": "San Ildefonso Amatlan",
+      "colonia": "Yojuela",
+      "postal_code": [
+        "70829"
+      ]
+    }
+  ]
+}

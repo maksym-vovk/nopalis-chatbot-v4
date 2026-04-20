@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Constancia del Rosario",
+      "colonia": "Constancia del Rosario",
+      "postal_code": [
+        "71030"
+      ]
+    },
+    {
+      "city": "Constancia del Rosario",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "71033"
+      ]
+    },
+    {
+      "city": "Constancia del Rosario",
+      "colonia": "San Jose Yosocanu (Yosocanu)",
+      "postal_code": [
+        "71037"
+      ]
+    },
+    {
+      "city": "Constancia del Rosario",
+      "colonia": "Santa Maria Pueblo Nuevo",
+      "postal_code": [
+        "71031"
+      ]
+    }
+  ]
+}

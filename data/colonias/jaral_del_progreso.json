@@ -1,0 +1,396 @@
+{
+  "data": [
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "10 de Abril",
+      "postal_code": [
+        "38475"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Aaron Garcia Tamayo (San Ramon)",
+      "postal_code": [
+        "38487"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Alqueria",
+      "postal_code": [
+        "38476"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Casa Nueva",
+      "postal_code": [
+        "38487"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "De la Cruz",
+      "postal_code": [
+        "38483"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Del Rio",
+      "postal_code": [
+        "38474"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Del Valle",
+      "postal_code": [
+        "38474"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "El Armadillo",
+      "postal_code": [
+        "38485"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "El Colorado",
+      "postal_code": [
+        "38484"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "El Fresno",
+      "postal_code": [
+        "38487"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "El Gallero [La Ladrillera]",
+      "postal_code": [
+        "38486"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "El Molinito",
+      "postal_code": [
+        "38487"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "El Molino",
+      "postal_code": [
+        "38487"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "38485"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "El Romance",
+      "postal_code": [
+        "38485"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "El Romance (Jorge Patino)",
+      "postal_code": [
+        "38485"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "El Sabino",
+      "postal_code": [
+        "38483"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "El Tecolote",
+      "postal_code": [
+        "38484"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "38475"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Felipe angeles",
+      "postal_code": [
+        "38476"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Granja Efren Soto",
+      "postal_code": [
+        "38485"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Hacienda de la Bolsa",
+      "postal_code": [
+        "38486"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Hacienda del Carmen",
+      "postal_code": [
+        "38474"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Hacienda Del Rincon",
+      "postal_code": [
+        "38474"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Huerfanos",
+      "postal_code": [
+        "38487"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Jaral del Progreso Centro",
+      "postal_code": [
+        "38470"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Josefa Ortiz de Dominguez",
+      "postal_code": [
+        "38473"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "La Congrega",
+      "postal_code": [
+        "38487"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "La Rana",
+      "postal_code": [
+        "38485"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "38477"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Las Islas",
+      "postal_code": [
+        "38485"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "38476"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Los Llanitos (El Ranchito)",
+      "postal_code": [
+        "38487"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Los Pedregales",
+      "postal_code": [
+        "38476"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Mezquite Ancho",
+      "postal_code": [
+        "38473"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Mogote del Gallo",
+      "postal_code": [
+        "38476"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Palo Blanco",
+      "postal_code": [
+        "38485"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Pedregal del Carmen",
+      "postal_code": [
+        "38476"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Pension Martinez [Yonkee]",
+      "postal_code": [
+        "38487"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Posito Santo",
+      "postal_code": [
+        "38473"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Predio Las Esperanzas",
+      "postal_code": [
+        "38477"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Predio San Jose (Alfonso Ortega Nieto)",
+      "postal_code": [
+        "38485"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Presidencia Municipal",
+      "postal_code": [
+        "38477"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Providencia",
+      "postal_code": [
+        "38488"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Rancho Hernandez",
+      "postal_code": [
+        "38488"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "38488"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "San Jose del Cerrito de Camargo",
+      "postal_code": [
+        "38487"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "San Jose de Ojo Zarco",
+      "postal_code": [
+        "38483"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "San Martin",
+      "postal_code": [
+        "38487"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "San Ramon",
+      "postal_code": [
+        "38487"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Santiago Capitiro",
+      "postal_code": [
+        "38484"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Terrero",
+      "postal_code": [
+        "38486"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Tronconales",
+      "postal_code": [
+        "38487"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Victoria de Cortazar",
+      "postal_code": [
+        "38480"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Zempoala",
+      "postal_code": [
+        "38486"
+      ]
+    },
+    {
+      "city": "Jaral del Progreso",
+      "colonia": "Zoromuta",
+      "postal_code": [
+        "38487"
+      ]
+    }
+  ]
+}

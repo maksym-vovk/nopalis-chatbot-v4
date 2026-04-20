@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Miquihuana",
+      "colonia": "El Aserradero",
+      "postal_code": [
+        "87957"
+      ]
+    },
+    {
+      "city": "Miquihuana",
+      "colonia": "La Pena",
+      "postal_code": [
+        "87950"
+      ]
+    },
+    {
+      "city": "Miquihuana",
+      "colonia": "Miquihuana",
+      "postal_code": [
+        "87950"
+      ]
+    },
+    {
+      "city": "Miquihuana",
+      "colonia": "San Jose del Llano",
+      "postal_code": [
+        "87954"
+      ]
+    }
+  ]
+}

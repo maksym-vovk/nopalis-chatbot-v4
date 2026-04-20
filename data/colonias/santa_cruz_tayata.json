@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Santa Cruz Tayata",
+      "colonia": "La Estancia",
+      "postal_code": [
+        "69820"
+      ]
+    },
+    {
+      "city": "Santa Cruz Tayata",
+      "colonia": "San Jose",
+      "postal_code": [
+        "69820"
+      ]
+    },
+    {
+      "city": "Santa Cruz Tayata",
+      "colonia": "Santa Cruz Tayata",
+      "postal_code": [
+        "69820"
+      ]
+    }
+  ]
+}

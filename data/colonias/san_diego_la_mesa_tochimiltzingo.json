@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "San Diego la Mesa Tochimiltzingo",
+      "colonia": "Guadalupe Amolocayan",
+      "postal_code": [
+        "74389"
+      ]
+    },
+    {
+      "city": "San Diego la Mesa Tochimiltzingo",
+      "colonia": "La Soledad Tepehuaxtitla",
+      "postal_code": [
+        "74385"
+      ]
+    },
+    {
+      "city": "San Diego la Mesa Tochimiltzingo",
+      "colonia": "San Bartolome Chimalhuacan",
+      "postal_code": [
+        "74382"
+      ]
+    },
+    {
+      "city": "San Diego la Mesa Tochimiltzingo",
+      "colonia": "Tochimiltzingo",
+      "postal_code": [
+        "74380"
+      ]
+    }
+  ]
+}

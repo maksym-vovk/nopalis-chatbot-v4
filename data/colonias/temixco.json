@@ -1,0 +1,467 @@
+{
+  "data": [
+    {
+      "city": "Temixco",
+      "colonia": "10 de Abril",
+      "postal_code": [
+        "62587"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Acatlipa Centro",
+      "postal_code": [
+        "62586"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Aeropuerto",
+      "postal_code": [
+        "62590"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Alta Palmira",
+      "postal_code": [
+        "62583"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Ampliacion Adolfo Lopez Mateos",
+      "postal_code": [
+        "62586"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "62587"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Azteca",
+      "postal_code": [
+        "62588"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Benito Juarez (La Monera)",
+      "postal_code": [
+        "62593"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Brisas",
+      "postal_code": [
+        "62584"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Burgos",
+      "postal_code": [
+        "62584"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Burgos Bugambilias",
+      "postal_code": [
+        "62584"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Burgos Seccion Casa Blanca",
+      "postal_code": [
+        "62584"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Burgos Seccion Ontario",
+      "postal_code": [
+        "62584"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Campamento Medrano",
+      "postal_code": [
+        "62587"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Campo Sotelo",
+      "postal_code": [
+        "62585"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Casa Blanca",
+      "postal_code": [
+        "62587"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Colinas de Altar",
+      "postal_code": [
+        "62588"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Conjunto Habitacional Campo Verde",
+      "postal_code": [
+        "62588"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Conjunto Urbano Ayuntamiento 2000",
+      "postal_code": [
+        "62588"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Cuentepec",
+      "postal_code": [
+        "62596"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Cuernavaca (Mariano Matamoros)",
+      "postal_code": [
+        "62599"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "El Deshuesadero",
+      "postal_code": [
+        "62588"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "El Estribo",
+      "postal_code": [
+        "62587"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "62586"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Eterna Primavera",
+      "postal_code": [
+        "62595"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Geo Villas la Hacienda",
+      "postal_code": [
+        "62585"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Granjas Merida",
+      "postal_code": [
+        "62585"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Junto al Rio",
+      "postal_code": [
+        "62584"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "La Hacienda de Temixco",
+      "postal_code": [
+        "62586"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "La Islita",
+      "postal_code": [
+        "62586"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "La Nopalera",
+      "postal_code": [
+        "62587"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "La Parota",
+      "postal_code": [
+        "62595"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "La Rivera",
+      "postal_code": [
+        "62586"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Las animas",
+      "postal_code": [
+        "62583"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Las Rosas",
+      "postal_code": [
+        "62586"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Laureles",
+      "postal_code": [
+        "62590"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Lauro Ortega",
+      "postal_code": [
+        "62588"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "62588"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Lomas de Acatlipa",
+      "postal_code": [
+        "62586"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Lomas de Cuernavaca",
+      "postal_code": [
+        "62584"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Lomas de Guadalupe",
+      "postal_code": [
+        "62583"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Lomas del Ajonjolinar",
+      "postal_code": [
+        "62588"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Lomas del Carril",
+      "postal_code": [
+        "62583"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Los Arcos",
+      "postal_code": [
+        "62586"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Los Presidentes",
+      "postal_code": [
+        "62583"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Los Sabinos",
+      "postal_code": [
+        "62584",
+        "62586"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "62585"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Morelos",
+      "postal_code": [
+        "62588"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Pilcaya",
+      "postal_code": [
+        "62588"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Pueblo Viejo",
+      "postal_code": [
+        "62588"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Quetzal",
+      "postal_code": [
+        "62583"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Real Santa Cruz",
+      "postal_code": [
+        "62586"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Rinconada del Rio",
+      "postal_code": [
+        "62584"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Rinconada los Sauces",
+      "postal_code": [
+        "62583"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Rio Apatlaco",
+      "postal_code": [
+        "62586"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Rio Apatlaco 2a Seccion",
+      "postal_code": [
+        "62586"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Rio Escondido",
+      "postal_code": [
+        "62586"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Ruben Jaramillo",
+      "postal_code": [
+        "62587"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "San Agustin Tetlama",
+      "postal_code": [
+        "62594"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Santa Monica",
+      "postal_code": [
+        "62590"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Santa ursula",
+      "postal_code": [
+        "62595"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Solidaridad",
+      "postal_code": [
+        "62595"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Temixco Centro",
+      "postal_code": [
+        "62580"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Valle Verde",
+      "postal_code": [
+        "62584"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Valparaiso",
+      "postal_code": [
+        "62585"
+      ]
+    },
+    {
+      "city": "Temixco",
+      "colonia": "Vergel Santa Cruz",
+      "postal_code": [
+        "62585"
+      ]
+    }
+  ]
+}

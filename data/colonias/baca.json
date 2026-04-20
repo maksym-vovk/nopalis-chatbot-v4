@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Baca",
+      "colonia": "Baca",
+      "postal_code": [
+        "97450"
+      ]
+    },
+    {
+      "city": "Baca",
+      "colonia": "Kankabchen",
+      "postal_code": [
+        "97452"
+      ]
+    },
+    {
+      "city": "Baca",
+      "colonia": "San Isidro Kuxub",
+      "postal_code": [
+        "97453"
+      ]
+    },
+    {
+      "city": "Baca",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "97453"
+      ]
+    },
+    {
+      "city": "Baca",
+      "colonia": "Tixkuncheil",
+      "postal_code": [
+        "97452"
+      ]
+    }
+  ]
+}

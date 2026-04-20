@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "city": "El Limon",
+      "colonia": "El Limon",
+      "postal_code": [
+        "48700"
+      ]
+    },
+    {
+      "city": "El Limon",
+      "colonia": "El Palmar de San Antonio",
+      "postal_code": [
+        "48708"
+      ]
+    },
+    {
+      "city": "El Limon",
+      "colonia": "El Rodeo",
+      "postal_code": [
+        "48739"
+      ]
+    },
+    {
+      "city": "El Limon",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "48720"
+      ]
+    },
+    {
+      "city": "El Limon",
+      "colonia": "San Buenaventura",
+      "postal_code": [
+        "48730"
+      ]
+    },
+    {
+      "city": "El Limon",
+      "colonia": "San Juan de Amula",
+      "postal_code": [
+        "48725"
+      ]
+    },
+    {
+      "city": "El Limon",
+      "colonia": "San Miguel Hidalgo",
+      "postal_code": [
+        "48715"
+      ]
+    },
+    {
+      "city": "El Limon",
+      "colonia": "San Roque",
+      "postal_code": [
+        "48710"
+      ]
+    }
+  ]
+}

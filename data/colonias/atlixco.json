@@ -1,0 +1,851 @@
+{
+  "data": [
+    {
+      "city": "Atlixco",
+      "colonia": "Ahuehuetes",
+      "postal_code": [
+        "74220"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Almazantla",
+      "postal_code": [
+        "74367"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Alta Vista",
+      "postal_code": [
+        "74240"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Alvaro Obregon",
+      "postal_code": [
+        "74260"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Atlixco 90",
+      "postal_code": [
+        "74218"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Atlixco Centro",
+      "postal_code": [
+        "74200"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Axocopan",
+      "postal_code": [
+        "74365"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "74220"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Cabrera",
+      "postal_code": [
+        "74360"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Chapultepec",
+      "postal_code": [
+        "74365"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Club de Golf el Cristo",
+      "postal_code": [
+        "74294"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Colonia Agricola de Ocotepec (Colonia San Jose)",
+      "postal_code": [
+        "74363"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Cortijo de la Alfonsina",
+      "postal_code": [
+        "74290"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Cortijo de los Soles",
+      "postal_code": [
+        "74210"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Diez de Abril",
+      "postal_code": [
+        "74368"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "El Barreal",
+      "postal_code": [
+        "74218"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "74280"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "El Encanto",
+      "postal_code": [
+        "74293"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "El Encanto del Cerril",
+      "postal_code": [
+        "74218"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "El Leon",
+      "postal_code": [
+        "74360"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "74295"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "El Popo",
+      "postal_code": [
+        "74230"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Emiliano Zapata los Molinos",
+      "postal_code": [
+        "74367"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Emiliano Zapata Nexatengo",
+      "postal_code": [
+        "74368"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Ex Hacienda San Felix",
+      "postal_code": [
+        "74368"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Ex Hacienda Tizayuca",
+      "postal_code": [
+        "74210"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "FOVISSSTE",
+      "postal_code": [
+        "74239"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Francisco I Madero",
+      "postal_code": [
+        "74290"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "74368"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Guadalupe Huexocuapan",
+      "postal_code": [
+        "74363"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "74280"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Hogar del Obrero",
+      "postal_code": [
+        "74260"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Huerta de San Jose",
+      "postal_code": [
+        "74210"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "INFONAVIT",
+      "postal_code": [
+        "74227"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Insurgentes",
+      "postal_code": [
+        "74280"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Ixtepec",
+      "postal_code": [
+        "74360"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Juan Uvera",
+      "postal_code": [
+        "74368"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "La Carolina",
+      "postal_code": [
+        "74280"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "La Concordia",
+      "postal_code": [
+        "74260"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "La Guardia",
+      "postal_code": [
+        "74210"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "La Hacienda",
+      "postal_code": [
+        "74290"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "La Joya (Agropecuaria Tenextepec)",
+      "postal_code": [
+        "74365"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "La Moraleda",
+      "postal_code": [
+        "74294"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "La Sabana (San Juan la Sabana)",
+      "postal_code": [
+        "74365"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Las Calandrias",
+      "postal_code": [
+        "74294"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Las Huertas de Jesus Primera Seccion",
+      "postal_code": [
+        "74365"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Las Nieves",
+      "postal_code": [
+        "74210"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "74250"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "La Trinidad Tepango",
+      "postal_code": [
+        "74365"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "La Via",
+      "postal_code": [
+        "74365"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "La Villa",
+      "postal_code": [
+        "74360"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Lomas de Axocopan",
+      "postal_code": [
+        "74365"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Lomas de Temascalapa",
+      "postal_code": [
+        "74210"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Los Angeles",
+      "postal_code": [
+        "74210"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Los Llanos",
+      "postal_code": [
+        "74220"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Los Virreyes",
+      "postal_code": [
+        "74293"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Maravillas",
+      "postal_code": [
+        "74360"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Martir de Chinameca",
+      "postal_code": [
+        "74365"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Maximino avila Camacho",
+      "postal_code": [
+        "74240"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Metepec",
+      "postal_code": [
+        "74360"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Mexico",
+      "postal_code": [
+        "74295"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Militar",
+      "postal_code": [
+        "74290"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Moyotzingo",
+      "postal_code": [
+        "74365"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Otilio Montano (La Concepcion)",
+      "postal_code": [
+        "74369"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Prados el Leon",
+      "postal_code": [
+        "74360"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Prado Sur",
+      "postal_code": [
+        "74260"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Rancho Gamboa",
+      "postal_code": [
+        "74230"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Real Conveima Atlixco",
+      "postal_code": [
+        "74218"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "74270"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "74368"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Ricardo Flores Magon (Fraccion San Felix)",
+      "postal_code": [
+        "74240"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Ricardo Trevino",
+      "postal_code": [
+        "74250"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Agustin de los Molinos",
+      "postal_code": [
+        "74367"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Agustin Huixaxtla",
+      "postal_code": [
+        "74367"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Agustin Ixtahuixtla",
+      "postal_code": [
+        "74360"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Alfonso",
+      "postal_code": [
+        "74215"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Diego Acapulco",
+      "postal_code": [
+        "74365"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Esteban Zoapiltepec",
+      "postal_code": [
+        "74369"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Felipe Xonacayucan",
+      "postal_code": [
+        "74369"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Felix Almazan",
+      "postal_code": [
+        "74368"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Felix Hidalgo",
+      "postal_code": [
+        "74368"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Francisco Primo de Verdad",
+      "postal_code": [
+        "74368"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "74368"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Isidro Huilotepec",
+      "postal_code": [
+        "74368"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Jeronimo Caleras",
+      "postal_code": [
+        "74369"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Jeronimo Coyula",
+      "postal_code": [
+        "74363"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Jose Cuauhtemoc",
+      "postal_code": [
+        "74280"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Jose el Recreo",
+      "postal_code": [
+        "74368"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Juan Castillotla",
+      "postal_code": [
+        "74365"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Juan de Dios",
+      "postal_code": [
+        "74250"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Juan de los Laureles",
+      "postal_code": [
+        "74365"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Juan Ocotepec",
+      "postal_code": [
+        "74363"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Juan Portezuelo",
+      "postal_code": [
+        "74368"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Juan Tejaluca",
+      "postal_code": [
+        "74360"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Lorenzo los Jagüeyes",
+      "postal_code": [
+        "74365"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Miguel Ayala",
+      "postal_code": [
+        "74363"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "San Pedro Benito Juarez",
+      "postal_code": [
+        "74363"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Santa Ana Yancuitlalpan",
+      "postal_code": [
+        "74368"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "74360"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "74295"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Santa Cruz Axocopan",
+      "postal_code": [
+        "74365"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Santa Cruz Tehuixpango",
+      "postal_code": [
+        "74367"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Santa Elena Axocopan",
+      "postal_code": [
+        "74360"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Santa Lucia Cosamaloapan",
+      "postal_code": [
+        "74368"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Santa Monica",
+      "postal_code": [
+        "74280"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Santa Rosa Chapulapa",
+      "postal_code": [
+        "74250"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Santo Domingo Atoyatempan",
+      "postal_code": [
+        "74368"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Soapama",
+      "postal_code": [
+        "74218"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Solares Chicos",
+      "postal_code": [
+        "74230"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Solares de Tenextepec",
+      "postal_code": [
+        "74365"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Solares Grandes",
+      "postal_code": [
+        "74230"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Teneria",
+      "postal_code": [
+        "74360"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Texiquemetl (Los Olivares)",
+      "postal_code": [
+        "74368"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Tolometla de Benito Juarez",
+      "postal_code": [
+        "74367"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Val de Cristo",
+      "postal_code": [
+        "74293"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Valle Real",
+      "postal_code": [
+        "74367"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Valle Sur",
+      "postal_code": [
+        "74290"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Veracruz",
+      "postal_code": [
+        "74365"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Villa Helena",
+      "postal_code": [
+        "74215"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "74218"
+      ]
+    },
+    {
+      "city": "Atlixco",
+      "colonia": "Xalpatlaco",
+      "postal_code": [
+        "74227"
+      ]
+    }
+  ]
+}

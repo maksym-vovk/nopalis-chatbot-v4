@@ -1,0 +1,382 @@
+{
+  "data": [
+    {
+      "city": "Pinos",
+      "colonia": "Ahijaderos",
+      "postal_code": [
+        "98940"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Bachilleres",
+      "postal_code": [
+        "98920"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Centro",
+      "postal_code": [
+        "98920"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Cieneguilla",
+      "postal_code": [
+        "98969"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "El Chino",
+      "postal_code": [
+        "98959"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "El Mezquite",
+      "postal_code": [
+        "98960"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "El Nigromante",
+      "postal_code": [
+        "98950"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "El Obraje",
+      "postal_code": [
+        "98951"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "El Pedregoso",
+      "postal_code": [
+        "98959"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "El Sitio",
+      "postal_code": [
+        "98970"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Espiritu Santo",
+      "postal_code": [
+        "98930"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Estancia de Guadalupe",
+      "postal_code": [
+        "98959"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Guadalupe de los Sauces",
+      "postal_code": [
+        "98940"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Guadalupe Victoria (Tierra Bofa)",
+      "postal_code": [
+        "98936"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "H. Ayuntamiento",
+      "postal_code": [
+        "98920"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Jaltomate",
+      "postal_code": [
+        "98955"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Jaula de Abajo",
+      "postal_code": [
+        "98971"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Jaula de Arriba",
+      "postal_code": [
+        "98971"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Jaulillas",
+      "postal_code": [
+        "98971"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Jose Maria Pino Suarez (La Colorada)",
+      "postal_code": [
+        "98960"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Laborcilla",
+      "postal_code": [
+        "98951"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "98965"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "La Cuadrilla",
+      "postal_code": [
+        "98920"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "La Encarnacion",
+      "postal_code": [
+        "98933"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "La Estrella",
+      "postal_code": [
+        "98960"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "La Lobena",
+      "postal_code": [
+        "98959"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "La Pachona (San Andres)",
+      "postal_code": [
+        "98959"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "La Pendencia",
+      "postal_code": [
+        "98942"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "La Plazuela",
+      "postal_code": [
+        "98920"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "La Presita",
+      "postal_code": [
+        "98970"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Las Cabras",
+      "postal_code": [
+        "98933"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Las Mezclitas (La Mezclita)",
+      "postal_code": [
+        "98925"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Las Tinajas",
+      "postal_code": [
+        "98920"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "La Victoria",
+      "postal_code": [
+        "98921"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Los Arquitos",
+      "postal_code": [
+        "98920"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Los Encinitos",
+      "postal_code": [
+        "98974"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "98920"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Ojo de Agua de La Palma",
+      "postal_code": [
+        "98979"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Presa Nueva",
+      "postal_code": [
+        "98950"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Saldana",
+      "postal_code": [
+        "98940"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "San Andres",
+      "postal_code": [
+        "98925"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "San Antonio de las Nueces",
+      "postal_code": [
+        "98936"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "San Jose de la Venta",
+      "postal_code": [
+        "98959"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "San Manuel",
+      "postal_code": [
+        "98959"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "San Martin",
+      "postal_code": [
+        "98969"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "98940"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "98920"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "98961"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Santa Gertrudis",
+      "postal_code": [
+        "98931"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Santiago",
+      "postal_code": [
+        "98940"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Sierra de Pinos",
+      "postal_code": [
+        "98920"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Tlaxcala",
+      "postal_code": [
+        "98920"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Tolosa",
+      "postal_code": [
+        "98942"
+      ]
+    },
+    {
+      "city": "Pinos",
+      "colonia": "Trinidad Norte",
+      "postal_code": [
+        "98941"
+      ]
+    }
+  ]
+}

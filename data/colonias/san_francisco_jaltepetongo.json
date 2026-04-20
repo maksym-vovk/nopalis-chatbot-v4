@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "San Francisco Jaltepetongo",
+      "colonia": "La Ordena",
+      "postal_code": [
+        "69937"
+      ]
+    },
+    {
+      "city": "San Francisco Jaltepetongo",
+      "colonia": "San Francisco Jaltepetongo",
+      "postal_code": [
+        "69935"
+      ]
+    },
+    {
+      "city": "San Francisco Jaltepetongo",
+      "colonia": "San Isidro Jaltepetongo",
+      "postal_code": [
+        "69937"
+      ]
+    },
+    {
+      "city": "San Francisco Jaltepetongo",
+      "colonia": "Yuxano",
+      "postal_code": [
+        "69936"
+      ]
+    }
+  ]
+}

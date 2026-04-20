@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Santiago Tenango",
+      "colonia": "El Correo",
+      "postal_code": [
+        "68218"
+      ]
+    },
+    {
+      "city": "Santiago Tenango",
+      "colonia": "El Tejocote",
+      "postal_code": [
+        "68219"
+      ]
+    },
+    {
+      "city": "Santiago Tenango",
+      "colonia": "Santiago Tenango",
+      "postal_code": [
+        "68217"
+      ]
+    }
+  ]
+}

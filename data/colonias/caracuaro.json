@@ -1,0 +1,860 @@
+{
+  "data": [
+    {
+      "city": "Caracuaro",
+      "colonia": "Acuyo",
+      "postal_code": [
+        "61928"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Anambo",
+      "postal_code": [
+        "61938"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Apunguio",
+      "postal_code": [
+        "61926"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Barranca del Perro",
+      "postal_code": [
+        "61926"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "61925"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Cabeza de Vaca",
+      "postal_code": [
+        "61923"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Canada de los Limones",
+      "postal_code": [
+        "61926"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Canada de Zacapungamio (Sacapungame)",
+      "postal_code": [
+        "61925"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Canada la Ortiga",
+      "postal_code": [
+        "61937"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Capire de Bravo (El Capire Bravo)",
+      "postal_code": [
+        "61925"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Caracuaro de Morelos Centro",
+      "postal_code": [
+        "61920"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Carasumbapio",
+      "postal_code": [
+        "61925"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Ceibas Negras",
+      "postal_code": [
+        "61923"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Coyol de los Gomez",
+      "postal_code": [
+        "61927"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Cuirindalillo",
+      "postal_code": [
+        "61937"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Aguacate",
+      "postal_code": [
+        "61924",
+        "61929"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Aguacatillo",
+      "postal_code": [
+        "61927"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Anonito",
+      "postal_code": [
+        "61928"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Anono",
+      "postal_code": [
+        "61923",
+        "61934"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Balseadero",
+      "postal_code": [
+        "61920"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "61933"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "61920"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Columpio",
+      "postal_code": [
+        "61928"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Cuitzillo",
+      "postal_code": [
+        "61923"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Escorpion",
+      "postal_code": [
+        "61929"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Guayabo",
+      "postal_code": [
+        "61923",
+        "61934"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Guayabo del Carmen",
+      "postal_code": [
+        "61936"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Huaco (El Guaco)",
+      "postal_code": [
+        "61926"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Junco",
+      "postal_code": [
+        "61924"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Limoncito",
+      "postal_code": [
+        "61924"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Limon Viejo",
+      "postal_code": [
+        "61928"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Manguito",
+      "postal_code": [
+        "61924"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Naranjo (Las Trincheras)",
+      "postal_code": [
+        "61927"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Nieto",
+      "postal_code": [
+        "61924"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Palmar",
+      "postal_code": [
+        "61920"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Pantano",
+      "postal_code": [
+        "61935"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Paso del Pinzan",
+      "postal_code": [
+        "61923"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Plan",
+      "postal_code": [
+        "61920"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Platanito",
+      "postal_code": [
+        "61923"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Platano",
+      "postal_code": [
+        "61923"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Puerto del Limon",
+      "postal_code": [
+        "61923"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "61927"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Rincon de Flores",
+      "postal_code": [
+        "61929"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Salitrillo",
+      "postal_code": [
+        "61923"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Saucedo",
+      "postal_code": [
+        "61935"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Sauz",
+      "postal_code": [
+        "61924",
+        "61929"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Tepeguaje",
+      "postal_code": [
+        "61926"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Timbiriche",
+      "postal_code": [
+        "61923"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Vado (El Puente del Arenal Largo)",
+      "postal_code": [
+        "61935"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Vallecillo",
+      "postal_code": [
+        "61924"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Zapote de Cuendeo",
+      "postal_code": [
+        "61934"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Zapote de los Campos",
+      "postal_code": [
+        "61937"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Zapote de los Gomez",
+      "postal_code": [
+        "61927"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Zapote de los Herrera",
+      "postal_code": [
+        "61924"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Zapote (El Zapote de los Rodriguez)",
+      "postal_code": [
+        "61929"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "El Zapotito",
+      "postal_code": [
+        "61926",
+        "61929"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Frontera de San Juan",
+      "postal_code": [
+        "61929"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Froylan Vargas Gomez",
+      "postal_code": [
+        "61920"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Huenamocopio",
+      "postal_code": [
+        "61925"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Janindipo",
+      "postal_code": [
+        "61936"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Juntas de Chapacaricuaro",
+      "postal_code": [
+        "61936"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Juntas del Anono (Juntas de la Torre)",
+      "postal_code": [
+        "61923"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "La Arboleda",
+      "postal_code": [
+        "61925",
+        "61926"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "La Bejuquera",
+      "postal_code": [
+        "61924"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "La Boluda",
+      "postal_code": [
+        "61924"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "La Calera",
+      "postal_code": [
+        "61935"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "La Carrera",
+      "postal_code": [
+        "61928"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "La Carrerita",
+      "postal_code": [
+        "61936"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "La Ceiba Güicha",
+      "postal_code": [
+        "61924"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "La Joya (La Joya de los Pinos)",
+      "postal_code": [
+        "61929"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "La Lajita",
+      "postal_code": [
+        "61923"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "La Noria",
+      "postal_code": [
+        "61925"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "La Padilla",
+      "postal_code": [
+        "61924"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "La Palmita",
+      "postal_code": [
+        "61924",
+        "61929"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "La Parotilla",
+      "postal_code": [
+        "61938"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "La Pilita",
+      "postal_code": [
+        "61924"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Las Ceibas",
+      "postal_code": [
+        "61929"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Las Enramadas",
+      "postal_code": [
+        "61929"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Las Guacamayas",
+      "postal_code": [
+        "61935"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Las Juntas de Abajo",
+      "postal_code": [
+        "61936"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Las Mesas",
+      "postal_code": [
+        "61929"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Las Mojarras",
+      "postal_code": [
+        "61923"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "61929"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Las Parotas",
+      "postal_code": [
+        "61923"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Las Parras",
+      "postal_code": [
+        "61929"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Las Pilas",
+      "postal_code": [
+        "61935",
+        "61937"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Las Quiringucuas",
+      "postal_code": [
+        "61923"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Las Tinajas (La Tinaja)",
+      "postal_code": [
+        "61923"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Las Trancas",
+      "postal_code": [
+        "61935"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "La Toronja",
+      "postal_code": [
+        "61923"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "La Verija",
+      "postal_code": [
+        "61936"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "La Vinata",
+      "postal_code": [
+        "61927"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Limoncito de los Chavez Arreola",
+      "postal_code": [
+        "61928"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Los Coyotes",
+      "postal_code": [
+        "61926",
+        "61936"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Los Ejes",
+      "postal_code": [
+        "61926"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Los Lampaces",
+      "postal_code": [
+        "61926"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Los Lampaces (Lampazos)",
+      "postal_code": [
+        "61936"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "61930"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Los Pozos",
+      "postal_code": [
+        "61936"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Los Tejones",
+      "postal_code": [
+        "61924"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Mirador",
+      "postal_code": [
+        "61920"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Monte Redondo",
+      "postal_code": [
+        "61928"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Obrera",
+      "postal_code": [
+        "61920"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Olea",
+      "postal_code": [
+        "61923"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Paso del Atuto",
+      "postal_code": [
+        "61925"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Paso de la Virgen",
+      "postal_code": [
+        "61924"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Paso de Nunez (Buenavista)",
+      "postal_code": [
+        "61930"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Pinuela",
+      "postal_code": [
+        "61935"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Puerto Blanco (Parras del Puerto)",
+      "postal_code": [
+        "61929"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Puerto del Coyote",
+      "postal_code": [
+        "61937"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Puerto los Amoles",
+      "postal_code": [
+        "61923"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Quiringuaro",
+      "postal_code": [
+        "61925"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "61926"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "61920"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "San Jose",
+      "postal_code": [
+        "61927"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "61924"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "61923"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Sicuamaro",
+      "postal_code": [
+        "61929"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Tarepe",
+      "postal_code": [
+        "61929"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Torokio",
+      "postal_code": [
+        "61920"
+      ]
+    },
+    {
+      "city": "Caracuaro",
+      "colonia": "Ziranangastico (Sirandangastico)",
+      "postal_code": [
+        "61923"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "data": [
+    {
+      "city": "Siltepec",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "30984"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "3 de Mayo",
+      "postal_code": [
+        "30986"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "30983"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Canacales",
+      "postal_code": [
+        "30983"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Cinco de Noviembre",
+      "postal_code": [
+        "30985"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Cipresal",
+      "postal_code": [
+        "30986"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Cruz de Piedra",
+      "postal_code": [
+        "30986"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Cumbre Ventanas",
+      "postal_code": [
+        "30983"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Doce de Abril",
+      "postal_code": [
+        "30984"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "El Bajio",
+      "postal_code": [
+        "30983"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "El Cipresal",
+      "postal_code": [
+        "30985"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "El Guayabal",
+      "postal_code": [
+        "30986"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "El Pacayalito",
+      "postal_code": [
+        "30987"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "El Palmarcito",
+      "postal_code": [
+        "30983"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "El Palmar Grande",
+      "postal_code": [
+        "30983"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "El Parralito",
+      "postal_code": [
+        "30986"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "El Retiro",
+      "postal_code": [
+        "30986"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "El Rodeo",
+      "postal_code": [
+        "30984"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "30984"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "El Suspiro",
+      "postal_code": [
+        "30983"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Encuentro Chico",
+      "postal_code": [
+        "30987"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Escobillal",
+      "postal_code": [
+        "30986"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Getzemani",
+      "postal_code": [
+        "30985"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "30983"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "30983"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Hermosillo",
+      "postal_code": [
+        "30985"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "30984",
+        "30985"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "La Mesita",
+      "postal_code": [
+        "30983"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "La Paz del Rosario",
+      "postal_code": [
+        "30984"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Las Brisas",
+      "postal_code": [
+        "30983",
+        "30984"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Las Cruces",
+      "postal_code": [
+        "30984"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Las Nubes",
+      "postal_code": [
+        "30980",
+        "30986"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Libertad Ventanas",
+      "postal_code": [
+        "30983"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "30985"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Los Cipreces",
+      "postal_code": [
+        "30983"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Los Mezcales",
+      "postal_code": [
+        "30980"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Madronal",
+      "postal_code": [
+        "30984"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Malpaso",
+      "postal_code": [
+        "30987"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Monte Verde",
+      "postal_code": [
+        "30983"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Nueva Libertad",
+      "postal_code": [
+        "30985"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Nuevo Eden",
+      "postal_code": [
+        "30985"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Nuevo Rincon",
+      "postal_code": [
+        "30983"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Nuevo San Francisco",
+      "postal_code": [
+        "30987"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "30985"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Piedra Blanca",
+      "postal_code": [
+        "30984"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Plan Grande",
+      "postal_code": [
+        "30980"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Quince de Abril",
+      "postal_code": [
+        "30984"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Rincon Varitas",
+      "postal_code": [
+        "30985"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "San Antonio Chico",
+      "postal_code": [
+        "30987"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "San Bartolo",
+      "postal_code": [
+        "30985"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "30987"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "San Jose Obrero",
+      "postal_code": [
+        "30984"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "San Lucas",
+      "postal_code": [
+        "30984"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "30985"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Santo Domingo (La Cascada)",
+      "postal_code": [
+        "30985"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Siltepec",
+      "postal_code": [
+        "30980"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Toquiancito",
+      "postal_code": [
+        "30984"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Toquian Grande",
+      "postal_code": [
+        "30985"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Union Juarez",
+      "postal_code": [
+        "30985"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Union San Lucas",
+      "postal_code": [
+        "30984"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Vega de Guerrero",
+      "postal_code": [
+        "30986"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Vega del Rosario",
+      "postal_code": [
+        "30983"
+      ]
+    },
+    {
+      "city": "Siltepec",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "30986"
+      ]
+    }
+  ]
+}

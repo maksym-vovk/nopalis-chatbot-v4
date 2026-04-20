@@ -1,0 +1,1494 @@
+{
+  "data": [
+    {
+      "city": "Turicato",
+      "colonia": "Aguacates (El Aguacate)",
+      "postal_code": [
+        "61696"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Agua Fria",
+      "postal_code": [
+        "61698"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Aguas Calientes (Aguascalientes)",
+      "postal_code": [
+        "61697"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Alcantarranas (Cantarranas)",
+      "postal_code": [
+        "61694"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Alfredo V. Bonfil",
+      "postal_code": [
+        "61682"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Arroyo de la Huerta",
+      "postal_code": [
+        "61696"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Arroyo la Huerta (La Barranca)",
+      "postal_code": [
+        "61696"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Atijo",
+      "postal_code": [
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Bapacuaro",
+      "postal_code": [
+        "61684"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Barbechitos",
+      "postal_code": [
+        "61698"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Barranca Honda",
+      "postal_code": [
+        "61696"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Bejucal",
+      "postal_code": [
+        "61690"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "61682"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Cahurica",
+      "postal_code": [
+        "61683"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Campo Santo",
+      "postal_code": [
+        "61687"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Canada de Santa Cruz",
+      "postal_code": [
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Canales",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Caramicuas",
+      "postal_code": [
+        "61688",
+        "61696"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Carboneras",
+      "postal_code": [
+        "61697"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Carpinteria",
+      "postal_code": [
+        "61698"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Catzanga (Cazanga)",
+      "postal_code": [
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Ceibas Negras",
+      "postal_code": [
+        "61684"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Cercas Cuatas",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Cerro la Cruz",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Chiquito el Grande",
+      "postal_code": [
+        "61685"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Cieneguillas de en Medio",
+      "postal_code": [
+        "61687"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Cieneguillas del Huerto (Cieneguillas)",
+      "postal_code": [
+        "61687"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Coronillas",
+      "postal_code": [
+        "61683"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Corumio",
+      "postal_code": [
+        "61683"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Cruz de Caminos",
+      "postal_code": [
+        "61683"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Cuamacuaro",
+      "postal_code": [
+        "61683"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Cuesta Alta",
+      "postal_code": [
+        "61687"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Cuirindales de Maritangacho",
+      "postal_code": [
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Cuitzian Chiquito",
+      "postal_code": [
+        "61693"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Cuitzian Grande",
+      "postal_code": [
+        "61690"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Aguacate",
+      "postal_code": [
+        "61698"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Aguaje",
+      "postal_code": [
+        "61690"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "61696"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Atravezano (Atravezano del Azinchete)",
+      "postal_code": [
+        "61683"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Barillo",
+      "postal_code": [
+        "61696"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Bonete de los Fierros",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Cahulote de Santa Ana",
+      "postal_code": [
+        "61687"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Cahulote Seco",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Cajoncito",
+      "postal_code": [
+        "61683"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Calvario",
+      "postal_code": [
+        "61680"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Capire",
+      "postal_code": [
+        "61696",
+        "61698"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Capire (El Capire de Sanabria)",
+      "postal_code": [
+        "61693"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Capote",
+      "postal_code": [
+        "61687"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Carrizalillo",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Cascalotal",
+      "postal_code": [
+        "61690"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Chico",
+      "postal_code": [
+        "61698"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Colorin",
+      "postal_code": [
+        "61684"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Encanto",
+      "postal_code": [
+        "61687",
+        "61698"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Encuentro",
+      "postal_code": [
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Guayabo",
+      "postal_code": [
+        "61688",
+        "61693",
+        "61695",
+        "61697"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Huicumo",
+      "postal_code": [
+        "61694"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Huicumo (El Reparo)",
+      "postal_code": [
+        "61683"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Jazmin",
+      "postal_code": [
+        "61688",
+        "61698"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Limon",
+      "postal_code": [
+        "61683",
+        "61690",
+        "61698"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Limoncito",
+      "postal_code": [
+        "61693"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Limoncito Piedra del Agua",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Limon de Apo",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Limon del Calabozo",
+      "postal_code": [
+        "61694"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Limon de Paranguaro",
+      "postal_code": [
+        "61694"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "61687"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Ojo de Agua (Ojo de Agua de Etucuarillo)",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Paso de los Becerros",
+      "postal_code": [
+        "61683"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Paso Real",
+      "postal_code": [
+        "61683"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Pinzan",
+      "postal_code": [
+        "61687"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Pinzanito",
+      "postal_code": [
+        "61693"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Platano",
+      "postal_code": [
+        "61694"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "61680"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Puertecito",
+      "postal_code": [
+        "61684",
+        "61690"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Remate",
+      "postal_code": [
+        "61698"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Remate (Llanitos de Cucha)",
+      "postal_code": [
+        "61685"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Reparo de Iranahuipio (La Parota)",
+      "postal_code": [
+        "61693"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Salitre (Los Banos del Salitre)",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Salitrillo",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Salitrito",
+      "postal_code": [
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Saucito",
+      "postal_code": [
+        "61697"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Sauz (El Sauz de Cuitzian Grande)",
+      "postal_code": [
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Tabacal",
+      "postal_code": [
+        "61683"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Tecolote",
+      "postal_code": [
+        "61698"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Tepeguaje (El Tepeguaje de Paranguaro)",
+      "postal_code": [
+        "61694"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "61683"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Tigre",
+      "postal_code": [
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Timbiriche",
+      "postal_code": [
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Uje (Potrero)",
+      "postal_code": [
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Yarin",
+      "postal_code": [
+        "61687"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "61687",
+        "61688",
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Etucuarillo",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Ex-Hacienda San Rafael",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Iranahuipio",
+      "postal_code": [
+        "61693"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Angostura",
+      "postal_code": [
+        "61687",
+        "61693",
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Bejuquera",
+      "postal_code": [
+        "61694"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Capilla",
+      "postal_code": [
+        "61684",
+        "61698"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Cofradia",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Crucita",
+      "postal_code": [
+        "61693"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Cruz de Atato",
+      "postal_code": [
+        "61694"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Gloria",
+      "postal_code": [
+        "61680"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Hermita (Nueva Jerusalen)",
+      "postal_code": [
+        "61686"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Injertada",
+      "postal_code": [
+        "61685"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Joya",
+      "postal_code": [
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Joya del Anil",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Lagunilla",
+      "postal_code": [
+        "61685"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Laja",
+      "postal_code": [
+        "61683",
+        "61698"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Limonera",
+      "postal_code": [
+        "61683"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Lobera",
+      "postal_code": [
+        "61698"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Mesa del Jagüey",
+      "postal_code": [
+        "61683"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Mesa Turicato",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Mezquitera",
+      "postal_code": [
+        "61690"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Nopalera",
+      "postal_code": [
+        "61680"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Parota de Atijo",
+      "postal_code": [
+        "61696"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Parota de Cuitzian Grande",
+      "postal_code": [
+        "61690"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Pila",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Presa",
+      "postal_code": [
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Puerta del Chocolate (Azinchetes)",
+      "postal_code": [
+        "61683"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Puerta del Naranjo",
+      "postal_code": [
+        "61683"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Salada",
+      "postal_code": [
+        "61687"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Las Anonas",
+      "postal_code": [
+        "61684",
+        "61694"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Las Calabazas (Las Calabacitas)",
+      "postal_code": [
+        "61696"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Las Camuchinas",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Las Canoas Altas",
+      "postal_code": [
+        "61687"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Las Ceibas de Cuitzian Grande",
+      "postal_code": [
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Las Güilotas",
+      "postal_code": [
+        "61687"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Las Higuerillas",
+      "postal_code": [
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Las Huertitas",
+      "postal_code": [
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Las Juntas",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Las Juntas de Acuyo",
+      "postal_code": [
+        "61694"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Las Juntas (Las Juntas de Lechuguillas)",
+      "postal_code": [
+        "61683"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Las Nueces",
+      "postal_code": [
+        "61696"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Las Parras",
+      "postal_code": [
+        "61696"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Las Piedras (Las Piedras de Santa Cruz)",
+      "postal_code": [
+        "61694"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Las Pilas",
+      "postal_code": [
+        "61696"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Las Trojas",
+      "postal_code": [
+        "61696"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "61687"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Vinata",
+      "postal_code": [
+        "61693"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "La Yerbabuena",
+      "postal_code": [
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "61680",
+        "61682"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Lechuguillas",
+      "postal_code": [
+        "61683"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Lorencillo",
+      "postal_code": [
+        "61687"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Los Ascinchetes",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Los Ates",
+      "postal_code": [
+        "61687"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Los Cazahuates",
+      "postal_code": [
+        "61683"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Los Chirapes",
+      "postal_code": [
+        "61694"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Los Chupaderos",
+      "postal_code": [
+        "61685"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Los Cuirindales",
+      "postal_code": [
+        "61693"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Los Guajes del Capire",
+      "postal_code": [
+        "61693"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Los Guajolotes",
+      "postal_code": [
+        "61687"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Los Hacheros",
+      "postal_code": [
+        "61687"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Los Horcones",
+      "postal_code": [
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Los Magueyes",
+      "postal_code": [
+        "61683"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Los Nogales",
+      "postal_code": [
+        "61698"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Los Nunez (Rincon de los Nunez)",
+      "postal_code": [
+        "61684"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Los Pretiles",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Los Rucios",
+      "postal_code": [
+        "61697"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "61687"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Los Tules (Potrero los Tules)",
+      "postal_code": [
+        "61696"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Maritangacho",
+      "postal_code": [
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Mata de Bejuco",
+      "postal_code": [
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Mesa de Corona",
+      "postal_code": [
+        "61698"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Mesa del Tigre",
+      "postal_code": [
+        "61698"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Mesa los Cimientos",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Monte de las Cruces",
+      "postal_code": [
+        "61680"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Nino Perdido",
+      "postal_code": [
+        "61682"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Obrera",
+      "postal_code": [
+        "61682"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Ojo de Agua de las Huilotas",
+      "postal_code": [
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Ojo de Agua de los Maldonado",
+      "postal_code": [
+        "61697"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Ojo de Agua de los Verduzco",
+      "postal_code": [
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Omicuaro",
+      "postal_code": [
+        "61693"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Once Pueblos",
+      "postal_code": [
+        "61682"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Palmillas",
+      "postal_code": [
+        "61697"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Parengui",
+      "postal_code": [
+        "61697"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Petatan",
+      "postal_code": [
+        "61694"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Piedra del Agua",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Piedras Aradas",
+      "postal_code": [
+        "61698"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Pinal Grande",
+      "postal_code": [
+        "61687"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Pinzan Grueso",
+      "postal_code": [
+        "61693",
+        "61693"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Plan del Bonete",
+      "postal_code": [
+        "61698"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Potrerillos",
+      "postal_code": [
+        "61693"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Potrero",
+      "postal_code": [
+        "61696"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Potrero del Rancho",
+      "postal_code": [
+        "61694"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Pueblo Viejo",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Puerta del Nopal",
+      "postal_code": [
+        "61682"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Puerto del Cirian",
+      "postal_code": [
+        "61684"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Puruaran",
+      "postal_code": [
+        "61682"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Quiringucas",
+      "postal_code": [
+        "61698"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "61695",
+        "61697"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Rincon de Arias",
+      "postal_code": [
+        "61685"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Rincon del Guaje",
+      "postal_code": [
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Rincon de Zarate",
+      "postal_code": [
+        "61697"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Salitrillo",
+      "postal_code": [
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Sanabria (Las Canoas)",
+      "postal_code": [
+        "61693"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "San Cristobal de los Guajes",
+      "postal_code": [
+        "61696"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "61695"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "San Jose Turicato",
+      "postal_code": [
+        "61688"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "San Rafael de Iranahuipio",
+      "postal_code": [
+        "61693"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Santa Cruz de Morelos",
+      "postal_code": [
+        "61694"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "61698"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Sauz de la Sierra",
+      "postal_code": [
+        "61696"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Shorio (Chorio)",
+      "postal_code": [
+        "61693"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Tanicua",
+      "postal_code": [
+        "61685"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Tavera",
+      "postal_code": [
+        "61687"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Tazimbo",
+      "postal_code": [
+        "61684"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Tetenguio",
+      "postal_code": [
+        "61684"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Turicato",
+      "postal_code": [
+        "61680"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Zarate",
+      "postal_code": [
+        "61690"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Zicuapo",
+      "postal_code": [
+        "61684"
+      ]
+    },
+    {
+      "city": "Turicato",
+      "colonia": "Zihuatzio",
+      "postal_code": [
+        "61687"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,889 @@
+{
+  "data": [
+    {
+      "city": "Texcoco",
+      "colonia": "Ahuehuetes",
+      "postal_code": [
+        "56140"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Ampliacion Leyes de Reforma",
+      "postal_code": [
+        "56225"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "56223"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "56224"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Colegio de Postgraduados",
+      "postal_code": [
+        "56264"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Condominios Maye",
+      "postal_code": [
+        "56130"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Conjunto la Trinidad",
+      "postal_code": [
+        "56130"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Cooperativo",
+      "postal_code": [
+        "56227"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Ejido San Juan Tezontla",
+      "postal_code": [
+        "56243"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Ejidos de Beltran Cuautlalpan",
+      "postal_code": [
+        "56264"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "56255"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "El Batan",
+      "postal_code": [
+        "56237"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "El Capulin Sur",
+      "postal_code": [
+        "56227"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "56140"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "El Molino de Flores",
+      "postal_code": [
+        "56235"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "El Retiro",
+      "postal_code": [
+        "56120"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "El Tejocote",
+      "postal_code": [
+        "56265"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "El Trabajo",
+      "postal_code": [
+        "56255"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "El Xolache I",
+      "postal_code": [
+        "56170"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "El Xolache II",
+      "postal_code": [
+        "56170"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Embotelladores",
+      "postal_code": [
+        "56150"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "56204"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Emiliano Zapata-ISSSTE",
+      "postal_code": [
+        "56227"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Fray Servando Teresa de Mier",
+      "postal_code": [
+        "56225"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "56250"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Guadalupe Amanalco",
+      "postal_code": [
+        "56245"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "56267"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "INFONAVIT",
+      "postal_code": [
+        "56120"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "ISSEMYM",
+      "postal_code": [
+        "56130"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Jardines de Santa Ines",
+      "postal_code": [
+        "56243"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Joyas de San Mateo",
+      "postal_code": [
+        "56110"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Joyas de Santa Ana",
+      "postal_code": [
+        "56170"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "La Cabana",
+      "postal_code": [
+        "56226"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "La Concepcion",
+      "postal_code": [
+        "56263"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "La Conchita",
+      "postal_code": [
+        "56130"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "La Magdalena Panoaya",
+      "postal_code": [
+        "56203"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "La Paz",
+      "postal_code": [
+        "56130"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "La Purificacion Tepetitla",
+      "postal_code": [
+        "56240"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "La Resurreccion",
+      "postal_code": [
+        "56216"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "56170"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Las Bugambilias",
+      "postal_code": [
+        "56227"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Las Salinas",
+      "postal_code": [
+        "56106"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Las Tijeras",
+      "postal_code": [
+        "56257"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Las Vegas",
+      "postal_code": [
+        "56150"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "56130"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "56207",
+        "56265"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Leyes de Reforma",
+      "postal_code": [
+        "56225"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Lomas de Cristo",
+      "postal_code": [
+        "56225"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Lomas de La Cruz",
+      "postal_code": [
+        "56257"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Lomas de San Esteban",
+      "postal_code": [
+        "56257"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Los Jilgueros",
+      "postal_code": [
+        "56130"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "56257"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Los Reyes San Salvador",
+      "postal_code": [
+        "56214"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "56160"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Montecillo",
+      "postal_code": [
+        "56264"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Nezahualcoyotl (Boyeros)",
+      "postal_code": [
+        "56263"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "56160"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Paraiso 300",
+      "postal_code": [
+        "56254"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Pentecostes",
+      "postal_code": [
+        "56215"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Praderas de Tecuac",
+      "postal_code": [
+        "56253"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Profesores",
+      "postal_code": [
+        "56227"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Quintas del Valle",
+      "postal_code": [
+        "56255"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Salitreria",
+      "postal_code": [
+        "56150"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "56244"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Andres (La Alcanforera)",
+      "postal_code": [
+        "56260"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "56150"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Bartolo",
+      "postal_code": [
+        "56243"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Bernardino",
+      "postal_code": [
+        "56260"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Diego",
+      "postal_code": [
+        "56230"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Dieguito Xochimanca",
+      "postal_code": [
+        "56246"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Felipe",
+      "postal_code": [
+        "56205",
+        "56256"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Jeronimo Amanalco",
+      "postal_code": [
+        "56244"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Joaquin Coapango",
+      "postal_code": [
+        "56243"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Jose (El Paraiso)",
+      "postal_code": [
+        "56255"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Jose Texopa",
+      "postal_code": [
+        "56213"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Juan",
+      "postal_code": [
+        "56253"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Juanito",
+      "postal_code": [
+        "56120"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Juan Potreros",
+      "postal_code": [
+        "56254"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Juan Tezontla",
+      "postal_code": [
+        "56243"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "56140"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Luis Huexotla",
+      "postal_code": [
+        "56220"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Martin",
+      "postal_code": [
+        "56140"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Mateo",
+      "postal_code": [
+        "56170"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Mateo Huexotla",
+      "postal_code": [
+        "56226"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Miguel Coatlinchan",
+      "postal_code": [
+        "56250"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Miguel Tlaixpan",
+      "postal_code": [
+        "56247"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Miguel Tocuila",
+      "postal_code": [
+        "56208"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Nicolas Huexotla",
+      "postal_code": [
+        "56227"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Nicolas Tlaminca",
+      "postal_code": [
+        "56247"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Olegario",
+      "postal_code": [
+        "56263"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Pablo Ixayoc",
+      "postal_code": [
+        "56245"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "56105",
+        "56160"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Pedro Cuautlanpan",
+      "postal_code": [
+        "56255"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "56130"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "San Simon",
+      "postal_code": [
+        "56210"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Santa Catarina del Monte",
+      "postal_code": [
+        "56245"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Santa Cruz de Abajo",
+      "postal_code": [
+        "56205"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Santa Cruz de Arriba",
+      "postal_code": [
+        "56120"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Santa Cruz Mexicapa",
+      "postal_code": [
+        "56243"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Santa Ines",
+      "postal_code": [
+        "56243"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Santa Irene",
+      "postal_code": [
+        "56263"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "56256"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Santa Maria Nativitas",
+      "postal_code": [
+        "56246"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Santa Maria Tecuanulco",
+      "postal_code": [
+        "56244"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Santa Maria Tulantongo",
+      "postal_code": [
+        "56217"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Santa Martha",
+      "postal_code": [
+        "56266"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Santa ursula",
+      "postal_code": [
+        "56150"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Santiago Cuautlalpan",
+      "postal_code": [
+        "56255"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Santiaguito",
+      "postal_code": [
+        "56217"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Sector Popular",
+      "postal_code": [
+        "56226"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "SUTEYN",
+      "postal_code": [
+        "56233"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Tepetitlan",
+      "postal_code": [
+        "56254"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Tequexquinahuac",
+      "postal_code": [
+        "56246"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Texcoco de Mora Centro",
+      "postal_code": [
+        "56100"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Tex Plus",
+      "postal_code": [
+        "56160"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Tulipanes",
+      "postal_code": [
+        "56227"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Universidad Autonoma de Chapingo",
+      "postal_code": [
+        "56227"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Valle de Santa Cruz",
+      "postal_code": [
+        "56120"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Valle de Tlaloc",
+      "postal_code": [
+        "56253"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Vicente Riva Palacio",
+      "postal_code": [
+        "56200"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Villas de Santiago",
+      "postal_code": [
+        "56255"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Villas de Tolimpa",
+      "postal_code": [
+        "56225"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Wenceslao Victoria",
+      "postal_code": [
+        "56264"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Xala",
+      "postal_code": [
+        "56217"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Xocotlan",
+      "postal_code": [
+        "56236"
+      ]
+    },
+    {
+      "city": "Texcoco",
+      "colonia": "Zaragoza-San Pablo",
+      "postal_code": [
+        "56110"
+      ]
+    }
+  ]
+}

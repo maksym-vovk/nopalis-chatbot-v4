@@ -1,0 +1,712 @@
+{
+  "data": [
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "20 de Enero",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Agua Zarca",
+      "postal_code": [
+        "30149"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Albania Alta",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Alborada",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Barrio Nuevo",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Belisario Dominguez",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Bellavista del Norte",
+      "postal_code": [
+        "30146"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "30152"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Candelaria",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Ciudad Cuauhtemoc",
+      "postal_code": [
+        "30150"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Concepcion",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Costa Rica",
+      "postal_code": [
+        "30148"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Cuernavaca",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Cushu",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Doctor Rodulfo Figueroa (Tierra Blanca)",
+      "postal_code": [
+        "30154"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "El Anonal",
+      "postal_code": [
+        "30146"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "El Azufre",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "El Cedro",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "El Mango",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "El Portal",
+      "postal_code": [
+        "30145"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "El Triunfo de las Tres Maravillas",
+      "postal_code": [
+        "30146"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Esmeralda",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Flamboyan",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Frontera Comalapa Centro",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Guadalupe Grijalva",
+      "postal_code": [
+        "30147"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Horizonte",
+      "postal_code": [
+        "30154"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Huixnayal",
+      "postal_code": [
+        "30149"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Jaime Sabines Gutierrez",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Jamaica",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Javier Guillermo C.",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Joaquin Miguel Gutierrez (Quespala)",
+      "postal_code": [
+        "30154"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "La Industrial",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "La Jimba",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "La Lima",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "La Primavera",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "La Reforma",
+      "postal_code": [
+        "30147"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "La Sabinada",
+      "postal_code": [
+        "30146"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "La Sahop",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Las Champas",
+      "postal_code": [
+        "30150"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "La Union",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "30154"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Linda Vista",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Los Cerritos",
+      "postal_code": [
+        "30149"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Los Hornos",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "30140",
+        "30154"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Los Tulipanes",
+      "postal_code": [
+        "30149"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Monte Redondo",
+      "postal_code": [
+        "30151"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Monte Verde",
+      "postal_code": [
+        "30146"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Nevelandia",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Nicolas Bravo",
+      "postal_code": [
+        "30152"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Nueva Delicias",
+      "postal_code": [
+        "30146"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Nueva Independencia (Lajerio)",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Nueva Libertad",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Nueva Linda",
+      "postal_code": [
+        "30154"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Nueva Reforma",
+      "postal_code": [
+        "30149"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Nuevo Amanecer",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Nuevo Comalapa",
+      "postal_code": [
+        "30147"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Nuevo Guadalupe 2000",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Nuevo Llano Grande",
+      "postal_code": [
+        "30148"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Nuevo Mazapa",
+      "postal_code": [
+        "30148"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Nuevo Mexico",
+      "postal_code": [
+        "30145"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Nuevo San Francisco Playa Grande",
+      "postal_code": [
+        "30154"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Nuevo San Gregorio",
+      "postal_code": [
+        "30154"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Nuevo Siltepec",
+      "postal_code": [
+        "30149"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Nuevo Villa Flores",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Paso Hondo",
+      "postal_code": [
+        "30153"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Pena Blanca",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Primavera",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "30154"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Rincon el Caballar",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Sabinalito",
+      "postal_code": [
+        "30153"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Sabinito",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Samaria",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "San Caralampio",
+      "postal_code": [
+        "30154"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "San Francisco La Aurora",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "San Gregorio Chamic",
+      "postal_code": [
+        "30154"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "San Jose Montenegro",
+      "postal_code": [
+        "30150"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "San Luis",
+      "postal_code": [
+        "30149"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Santa Apolonia",
+      "postal_code": [
+        "30155"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Santa Clara",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Santa Martha",
+      "postal_code": [
+        "30140"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "30143"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "30148"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Santa Teresa Llano Grande",
+      "postal_code": [
+        "30153"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Sinaloa",
+      "postal_code": [
+        "30154"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Tamaulipas",
+      "postal_code": [
+        "30152"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Veinticuatro de Febrero",
+      "postal_code": [
+        "30147"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Verapaz",
+      "postal_code": [
+        "30154"
+      ]
+    },
+    {
+      "city": "Frontera Comalapa",
+      "colonia": "Villa de Guadalupe",
+      "postal_code": [
+        "30152"
+      ]
+    }
+  ]
+}

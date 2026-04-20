@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "San Juan Tamazola",
+      "colonia": "Llano de la Canoa",
+      "postal_code": [
+        "69955"
+      ]
+    },
+    {
+      "city": "San Juan Tamazola",
+      "colonia": "San Isidro Trementina",
+      "postal_code": [
+        "69955"
+      ]
+    },
+    {
+      "city": "San Juan Tamazola",
+      "colonia": "San Juan Monte Flor",
+      "postal_code": [
+        "69955"
+      ]
+    },
+    {
+      "city": "San Juan Tamazola",
+      "colonia": "San Juan Tamazola",
+      "postal_code": [
+        "69957"
+      ]
+    },
+    {
+      "city": "San Juan Tamazola",
+      "colonia": "San Juan Yuta",
+      "postal_code": [
+        "69955"
+      ]
+    }
+  ]
+}

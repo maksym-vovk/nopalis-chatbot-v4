@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Santa Maria Ozolotepec",
+      "colonia": "San Esteban Ozolotepec",
+      "postal_code": [
+        "70870"
+      ]
+    },
+    {
+      "city": "Santa Maria Ozolotepec",
+      "colonia": "San Gregorio Ozolotepec",
+      "postal_code": [
+        "70870"
+      ]
+    },
+    {
+      "city": "Santa Maria Ozolotepec",
+      "colonia": "San Pablo Ozolotepec",
+      "postal_code": [
+        "70872"
+      ]
+    },
+    {
+      "city": "Santa Maria Ozolotepec",
+      "colonia": "Santa Maria Ozolotepec",
+      "postal_code": [
+        "70870"
+      ]
+    }
+  ]
+}

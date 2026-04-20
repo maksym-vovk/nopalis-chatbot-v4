@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Cantamayec",
+      "colonia": "Cantamayec",
+      "postal_code": [
+        "97915"
+      ]
+    },
+    {
+      "city": "Cantamayec",
+      "colonia": "Cholul",
+      "postal_code": [
+        "97918"
+      ]
+    },
+    {
+      "city": "Cantamayec",
+      "colonia": "Nenela",
+      "postal_code": [
+        "97917"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,925 @@
+{
+  "data": [
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "2DA",
+      "postal_code": [
+        "71410"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Agua del Sabino",
+      "postal_code": [
+        "71425"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Agua Fria",
+      "postal_code": [
+        "71413"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Arroyo de la Rosa (El Aguacate)",
+      "postal_code": [
+        "71414"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Arroyo del Pajarito",
+      "postal_code": [
+        "71414"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Barranca Grande",
+      "postal_code": [
+        "71414"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Candelaria la Estancia",
+      "postal_code": [
+        "71416"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Centro 1ra. Seccion",
+      "postal_code": [
+        "71410"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Chichicastle",
+      "postal_code": [
+        "71420"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Chinigue Segunda Seccion (La Quebradora)",
+      "postal_code": [
+        "71413"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Desviacion de la Siempre Viva",
+      "postal_code": [
+        "71418"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Anis",
+      "postal_code": [
+        "71425"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Banco",
+      "postal_code": [
+        "71413"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Campanario",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "71420"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Cocoyuche",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Cocoyul",
+      "postal_code": [
+        "71416"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Comun",
+      "postal_code": [
+        "71417"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Duraznillo",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Encino (Portillo del Encino)",
+      "postal_code": [
+        "71414"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Encino (San Agustin)",
+      "postal_code": [
+        "71415"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Eslabon",
+      "postal_code": [
+        "71415"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Garabato",
+      "postal_code": [
+        "71417"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Huazan",
+      "postal_code": [
+        "71416"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Madron",
+      "postal_code": [
+        "71414"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Mangalito",
+      "postal_code": [
+        "71425"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Nido",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Obispo",
+      "postal_code": [
+        "71413"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Pericon",
+      "postal_code": [
+        "71414"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Pescador",
+      "postal_code": [
+        "71415"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Pocito",
+      "postal_code": [
+        "71424"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Portillo (Tierra Blanca)",
+      "postal_code": [
+        "71414"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Progreso",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Remolino",
+      "postal_code": [
+        "71414"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "71424"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Sargento",
+      "postal_code": [
+        "71425"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Sauz",
+      "postal_code": [
+        "71417"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "El Sitio",
+      "postal_code": [
+        "71416"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Golina",
+      "postal_code": [
+        "71424"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Guayabo",
+      "postal_code": [
+        "71425"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Guichila (Portillo los Anonos)",
+      "postal_code": [
+        "71417"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Gulera",
+      "postal_code": [
+        "71417"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Huizache",
+      "postal_code": [
+        "71415"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Israel Figueroa",
+      "postal_code": [
+        "71417"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La Canada",
+      "postal_code": [
+        "71417"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La Chicueca",
+      "postal_code": [
+        "71424"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La Chihuana",
+      "postal_code": [
+        "71425"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La Chinea",
+      "postal_code": [
+        "71415"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "71424"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La Cienega (La Cienega del Rancho)",
+      "postal_code": [
+        "71418"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La Colorada",
+      "postal_code": [
+        "71415"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La Colorada (Tierra Colorada)",
+      "postal_code": [
+        "71413"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La Cucaracha",
+      "postal_code": [
+        "71425"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La Cueva",
+      "postal_code": [
+        "71417"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La Cumbre (La Torre)",
+      "postal_code": [
+        "71417"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La Cumbrita",
+      "postal_code": [
+        "71423"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La Gloria",
+      "postal_code": [
+        "71416"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Laguna Seca",
+      "postal_code": [
+        "71417"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La Labor",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La Laguna (La Otra Laguna)",
+      "postal_code": [
+        "71417"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La Loma de los Ingenieros",
+      "postal_code": [
+        "71414"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La Nopalera",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La Purisima",
+      "postal_code": [
+        "71410"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Las Casitas",
+      "postal_code": [
+        "71414"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Las Cuevas",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La Siempre Viva",
+      "postal_code": [
+        "71418"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La Singuera",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Las Juntas (El Puente)",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "71416",
+        "71420"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Las Penas",
+      "postal_code": [
+        "71414",
+        "71416"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Las Trancas",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La Union",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La V",
+      "postal_code": [
+        "71424"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La Yerba Buena",
+      "postal_code": [
+        "71415"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "La Yerba Santa",
+      "postal_code": [
+        "71413",
+        "71416"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Lazo",
+      "postal_code": [
+        "71423"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Llano Mazorca",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Llano Monte",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Loma de Ocote",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Los Limones",
+      "postal_code": [
+        "71420"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Los Morales",
+      "postal_code": [
+        "71417"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "71417"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Los Pitayos",
+      "postal_code": [
+        "71420"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Nachihui",
+      "postal_code": [
+        "71418"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Nopalosho",
+      "postal_code": [
+        "71415"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Piedra Blanca",
+      "postal_code": [
+        "71415",
+        "71416"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Portillo de Guajes (La Curva)",
+      "postal_code": [
+        "71416"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Portillo del Abre",
+      "postal_code": [
+        "71414"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Potrerillo",
+      "postal_code": [
+        "71416"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Potrero",
+      "postal_code": [
+        "71416"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Rancho del Cura",
+      "postal_code": [
+        "71417"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Rancho de Vacas",
+      "postal_code": [
+        "71420"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Rancho Viejo Sola",
+      "postal_code": [
+        "71414"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Rio Espejo",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Rio Humedo",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Rio Manteca",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Rio Pena",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Rio Vibora",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Sabinos",
+      "postal_code": [
+        "71416"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "71414"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "71413"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "San Antonio (Llano de Velasquez)",
+      "postal_code": [
+        "71418"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "San Cristobal",
+      "postal_code": [
+        "71420"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "San Felipe Zapotitlan",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "San Isidro Ojo de Agua",
+      "postal_code": [
+        "71423"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "San Jose Obrero Paso Ancho",
+      "postal_code": [
+        "71414"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "San Juan Bautista",
+      "postal_code": [
+        "71424"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "San Juan Elotepec",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "San Juan Viejo",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "San Sebastian de las Grutas",
+      "postal_code": [
+        "71418"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "71416"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Santa Anita (Seccion Tercera)",
+      "postal_code": [
+        "71417"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Santa Catarina la Canada",
+      "postal_code": [
+        "71425"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Santa Ines",
+      "postal_code": [
+        "71414"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Santa Ines Sola",
+      "postal_code": [
+        "71417"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Santos Reyes Sola",
+      "postal_code": [
+        "71424"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Segunda Seccion Barrio Arriba",
+      "postal_code": [
+        "71413"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "71414"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Villa Sola de Vega Centro",
+      "postal_code": [
+        "71410"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Xigueto",
+      "postal_code": [
+        "71417"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Yenetzala",
+      "postal_code": [
+        "71413"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Yerba Buenita",
+      "postal_code": [
+        "71415"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Yoganita",
+      "postal_code": [
+        "71418"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Yogolana",
+      "postal_code": [
+        "71417"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Yogorente",
+      "postal_code": [
+        "71417"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Yolere",
+      "postal_code": [
+        "71417"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Yuchia",
+      "postal_code": [
+        "71427"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Zacamatle",
+      "postal_code": [
+        "71414"
+      ]
+    },
+    {
+      "city": "Villa Sola de Vega",
+      "colonia": "Zeta",
+      "postal_code": [
+        "71424"
+      ]
+    }
+  ]
+}

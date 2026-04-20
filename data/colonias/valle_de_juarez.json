@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Valle de Juarez",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "49547"
+      ]
+    },
+    {
+      "city": "Valle de Juarez",
+      "colonia": "El Manzanillo",
+      "postal_code": [
+        "49544"
+      ]
+    },
+    {
+      "city": "Valle de Juarez",
+      "colonia": "El Moral",
+      "postal_code": [
+        "49542"
+      ]
+    },
+    {
+      "city": "Valle de Juarez",
+      "colonia": "Ojo de Agua Del Picacho",
+      "postal_code": [
+        "49548"
+      ]
+    },
+    {
+      "city": "Valle de Juarez",
+      "colonia": "Paso de Piedra",
+      "postal_code": [
+        "49540"
+      ]
+    },
+    {
+      "city": "Valle de Juarez",
+      "colonia": "Valle de Juarez",
+      "postal_code": [
+        "49540"
+      ]
+    }
+  ]
+}

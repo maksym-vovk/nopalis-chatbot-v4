@@ -1,0 +1,944 @@
+{
+  "data": [
+    {
+      "city": "El Fuerte",
+      "colonia": "4 Milpas",
+      "postal_code": [
+        "81888"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "8 de Octubre",
+      "postal_code": [
+        "81804"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Adolfo Lopez Mateos (Jahuara Segundo)",
+      "postal_code": [
+        "81873"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Agua Caliente",
+      "postal_code": [
+        "81811"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Agua de las Arenas",
+      "postal_code": [
+        "81889"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Agua Nueva 2",
+      "postal_code": [
+        "81871"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Antonio Rosales",
+      "postal_code": [
+        "81891"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Arroyo de los Armenta",
+      "postal_code": [
+        "81854"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Bacapaco",
+      "postal_code": [
+        "81847"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Bacausa de Abajo",
+      "postal_code": [
+        "81810"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Bajada de Monte",
+      "postal_code": [
+        "81828"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Baroten",
+      "postal_code": [
+        "81820"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Barrio Nuevo",
+      "postal_code": [
+        "81834"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "81893"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Boca de Arroyo",
+      "postal_code": [
+        "81850"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Borabampo",
+      "postal_code": [
+        "81850"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "81806"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Buenavista de Mochicahui",
+      "postal_code": [
+        "81806"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "81805"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Camajoa",
+      "postal_code": [
+        "81872"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Campamento CNA",
+      "postal_code": [
+        "81820"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Campestre los Algodones",
+      "postal_code": [
+        "81890"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Campo Seco (3 de Mayo)",
+      "postal_code": [
+        "81874"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Cananea",
+      "postal_code": [
+        "81803"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Canutillo",
+      "postal_code": [
+        "81860"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Charay",
+      "postal_code": [
+        "81872"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Chinobampo",
+      "postal_code": [
+        "81840"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Constancia",
+      "postal_code": [
+        "81893"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Crucero de Hornillos",
+      "postal_code": [
+        "81810"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Cuesta Alta",
+      "postal_code": [
+        "81850"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Dos de Abril",
+      "postal_code": [
+        "81890"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Ejidal",
+      "postal_code": [
+        "81802"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "El Aliso",
+      "postal_code": [
+        "81806"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "El Carricito",
+      "postal_code": [
+        "81893"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "El Chorizo",
+      "postal_code": [
+        "81872"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "El Dique",
+      "postal_code": [
+        "81820"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "El Diquito",
+      "postal_code": [
+        "81820"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "El Fuerte",
+      "postal_code": [
+        "81820"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "El Mahone",
+      "postal_code": [
+        "81810"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "El Naranjo",
+      "postal_code": [
+        "81805"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "El Nopal",
+      "postal_code": [
+        "81872"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "El Poblado",
+      "postal_code": [
+        "81872"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "El Ranchito 1",
+      "postal_code": [
+        "81895"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "El Ranchito 2",
+      "postal_code": [
+        "81895"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "El Rastro",
+      "postal_code": [
+        "81820"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "El Realito 1",
+      "postal_code": [
+        "81843"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "El Sufragio",
+      "postal_code": [
+        "81877"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "El Tepeguaje",
+      "postal_code": [
+        "81811"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "El Vado",
+      "postal_code": [
+        "81828"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "El Vateve",
+      "postal_code": [
+        "81805"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Estacion Hoyancos [Estacion el Fuerte]",
+      "postal_code": [
+        "81825"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "H. Ayuntamiento",
+      "postal_code": [
+        "81820"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Higueras de los Natoches",
+      "postal_code": [
+        "81892"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Hornillos",
+      "postal_code": [
+        "81810"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Hospital",
+      "postal_code": [
+        "81820"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Huepaco",
+      "postal_code": [
+        "81880"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Infonavit",
+      "postal_code": [
+        "81820"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Jahuara Primero",
+      "postal_code": [
+        "81870"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Kansas",
+      "postal_code": [
+        "81802"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Kilometro 26",
+      "postal_code": [
+        "81892"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Kilometro Diecinueve",
+      "postal_code": [
+        "81888"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "La Bacilia",
+      "postal_code": [
+        "81872"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "La Bolsa",
+      "postal_code": [
+        "81820"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "La Bomba",
+      "postal_code": [
+        "81820"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "La Calaca",
+      "postal_code": [
+        "81872"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "La Candelaria",
+      "postal_code": [
+        "81803"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "La Capilla",
+      "postal_code": [
+        "81806"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "La Carrera",
+      "postal_code": [
+        "81805"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "La Galera",
+      "postal_code": [
+        "81854"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "La Genoveva",
+      "postal_code": [
+        "81887"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "La Guasima",
+      "postal_code": [
+        "81877"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "La Junta",
+      "postal_code": [
+        "81846"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "81811"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "La Linea",
+      "postal_code": [
+        "81895"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "La Loma",
+      "postal_code": [
+        "81803"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "La Mision Nueva",
+      "postal_code": [
+        "81850"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "La Mision Vieja",
+      "postal_code": [
+        "81850"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "La Palma",
+      "postal_code": [
+        "81872"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "La Pitaya",
+      "postal_code": [
+        "81872"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Las Cabanillas",
+      "postal_code": [
+        "81820"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Las Cabras",
+      "postal_code": [
+        "81854"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Las Chunas",
+      "postal_code": [
+        "81805"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "La Seccion",
+      "postal_code": [
+        "81803"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Las Estacas",
+      "postal_code": [
+        "81805"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "81803"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Las Higueras de los Natoches",
+      "postal_code": [
+        "81895"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "La Teneria",
+      "postal_code": [
+        "81820"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "81803",
+        "81834",
+        "81872"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Leopoldo Sanchez Celis",
+      "postal_code": [
+        "81820"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Libertad",
+      "postal_code": [
+        "81802"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Llano de los Lopez",
+      "postal_code": [
+        "81854"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Llano de los Soto",
+      "postal_code": [
+        "81820"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Lo de Vega",
+      "postal_code": [
+        "81864"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Loma",
+      "postal_code": [
+        "81833"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Lomalinda",
+      "postal_code": [
+        "81807"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Los Ayalos",
+      "postal_code": [
+        "81820"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Los Capomos",
+      "postal_code": [
+        "81810"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Los Ojitos",
+      "postal_code": [
+        "81864"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Los Parajes",
+      "postal_code": [
+        "81856"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Los Tastes",
+      "postal_code": [
+        "81891"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Los Terreros",
+      "postal_code": [
+        "81828"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Macoyahui",
+      "postal_code": [
+        "81877"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Mochicahui",
+      "postal_code": [
+        "81890"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Mulanjey [Estacion Vega]",
+      "postal_code": [
+        "81806"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Nuevo",
+      "postal_code": [
+        "81803"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Obrera",
+      "postal_code": [
+        "81820"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Ocolome",
+      "postal_code": [
+        "81820"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Pablo Macias Valenzuela",
+      "postal_code": [
+        "81820"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Palma Sola",
+      "postal_code": [
+        "81820"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Palo Verde",
+      "postal_code": [
+        "81856"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Pochotal",
+      "postal_code": [
+        "81893"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Potrero de los Soto",
+      "postal_code": [
+        "81846"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Quince",
+      "postal_code": [
+        "81820"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Ranchito de Bateve",
+      "postal_code": [
+        "81805"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Rincon de Alisos",
+      "postal_code": [
+        "81812"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "San Blas Centro",
+      "postal_code": [
+        "81800"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "San Blas Viejo",
+      "postal_code": [
+        "81802"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "San Lazaro",
+      "postal_code": [
+        "81845"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "81810"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Santa Blanca",
+      "postal_code": [
+        "81891"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "81805"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "81807"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Seccion 23",
+      "postal_code": [
+        "81803"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Seccion 29",
+      "postal_code": [
+        "81803"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Sibajahui",
+      "postal_code": [
+        "81806"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Solidaridad",
+      "postal_code": [
+        "81820"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Tehueco",
+      "postal_code": [
+        "81820"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Tepic",
+      "postal_code": [
+        "81856"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Tesila",
+      "postal_code": [
+        "81805"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Tetaroba",
+      "postal_code": [
+        "81830"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Tres Garantias",
+      "postal_code": [
+        "81875"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Villa de Montesclaros",
+      "postal_code": [
+        "81820"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Vivajaqui",
+      "postal_code": [
+        "81827"
+      ]
+    },
+    {
+      "city": "El Fuerte",
+      "colonia": "Zozorique",
+      "postal_code": [
+        "81854"
+      ]
+    }
+  ]
+}

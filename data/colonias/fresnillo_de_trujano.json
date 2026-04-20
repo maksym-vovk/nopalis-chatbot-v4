@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Fresnillo de Trujano",
+      "colonia": "Ciruelos de Guaponcingo",
+      "postal_code": [
+        "69214"
+      ]
+    },
+    {
+      "city": "Fresnillo de Trujano",
+      "colonia": "Fresnillo de Trujano",
+      "postal_code": [
+        "69210"
+      ]
+    },
+    {
+      "city": "Fresnillo de Trujano",
+      "colonia": "Guamuchil de Guerrero o San Isidro",
+      "postal_code": [
+        "69211"
+      ]
+    }
+  ]
+}

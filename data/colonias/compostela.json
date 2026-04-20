@@ -1,0 +1,791 @@
+{
+  "data": [
+    {
+      "city": "Compostela",
+      "colonia": "Agua Azul",
+      "postal_code": [
+        "63715"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Altavista",
+      "postal_code": [
+        "63722"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Alto",
+      "postal_code": [
+        "63702"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Arroyo Zarco",
+      "postal_code": [
+        "63720"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Atenas",
+      "postal_code": [
+        "63715"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Aviacion",
+      "postal_code": [
+        "63703"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Bella Union",
+      "postal_code": [
+        "63722"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Calexico",
+      "postal_code": [
+        "63717"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Candido Salazar",
+      "postal_code": [
+        "63722"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Cedros",
+      "postal_code": [
+        "63720"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Celso Hernandez",
+      "postal_code": [
+        "63715"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Cerro de La Cruz",
+      "postal_code": [
+        "63720"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Chacala",
+      "postal_code": [
+        "63708"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Chulavista",
+      "postal_code": [
+        "63724"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Coastecomatillo",
+      "postal_code": [
+        "63708"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Compostela Centro",
+      "postal_code": [
+        "63700"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Cumbres de Huicicila",
+      "postal_code": [
+        "63707"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "De Chila",
+      "postal_code": [
+        "63704"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "De la Cruz",
+      "postal_code": [
+        "63710"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Del Bosque",
+      "postal_code": [
+        "63703"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "El Betel",
+      "postal_code": [
+        "63724"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "El Campesino",
+      "postal_code": [
+        "63720"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "El Capomo",
+      "postal_code": [
+        "63722"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "63710"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "El Divisadero",
+      "postal_code": [
+        "63714"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "El Girasol",
+      "postal_code": [
+        "63720"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "El Molino",
+      "postal_code": [
+        "63705"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "El Palmoso",
+      "postal_code": [
+        "63713"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "El Paranal (Arocha)",
+      "postal_code": [
+        "63708"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "63722"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "El Refilion",
+      "postal_code": [
+        "63706"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "El Salitre",
+      "postal_code": [
+        "63708"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "El Tamarindo",
+      "postal_code": [
+        "63722"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "El Tonino",
+      "postal_code": [
+        "63722"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "63702"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Estadios",
+      "postal_code": [
+        "63705"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Felipe Carrillo Puerto",
+      "postal_code": [
+        "63717"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Floresta",
+      "postal_code": [
+        "63705"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "63702"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Garzas Rosas",
+      "postal_code": [
+        "63720"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Guadajara",
+      "postal_code": [
+        "63715"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Guadalupana",
+      "postal_code": [
+        "63702"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Guayabal",
+      "postal_code": [
+        "63703"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Huicicila",
+      "postal_code": [
+        "63707"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "INFONAVIT",
+      "postal_code": [
+        "63705"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Isla del Verano",
+      "postal_code": [
+        "63720"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Ixtapa de la Concepcion",
+      "postal_code": [
+        "63709"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Jaltepec",
+      "postal_code": [
+        "63707"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Juan Escutia (Borbollon)",
+      "postal_code": [
+        "63717"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "La Colmena",
+      "postal_code": [
+        "63724"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "La Concepcion",
+      "postal_code": [
+        "63710"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "La Cuata",
+      "postal_code": [
+        "63708"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "La Cucaracha",
+      "postal_code": [
+        "63722"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "La Islita",
+      "postal_code": [
+        "63720"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "La Penita de Jaltemba Centro",
+      "postal_code": [
+        "63720"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "La Puerta de la Lima",
+      "postal_code": [
+        "63723"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Las Cabras",
+      "postal_code": [
+        "63720"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Las Coloradas",
+      "postal_code": [
+        "63717"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "63703"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Las Fuentes",
+      "postal_code": [
+        "63715"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Las Lomitas",
+      "postal_code": [
+        "63709"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Las Ordenas",
+      "postal_code": [
+        "63705"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Las Piedras",
+      "postal_code": [
+        "63708"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Las Varas Centro",
+      "postal_code": [
+        "63715"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Las Viboras",
+      "postal_code": [
+        "63706"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "63702",
+        "63720"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Librado Rivera",
+      "postal_code": [
+        "63704"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Lima de Abajo",
+      "postal_code": [
+        "63714"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Lomas Bonita",
+      "postal_code": [
+        "63702"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Lomas de San Cristobal",
+      "postal_code": [
+        "63702"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Los Ayala",
+      "postal_code": [
+        "63724"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "63705"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "63702"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Mamey Grande de Arriba",
+      "postal_code": [
+        "63722"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Mazatan",
+      "postal_code": [
+        "63717"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Mesa del Rodeo",
+      "postal_code": [
+        "63719"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Mesillas",
+      "postal_code": [
+        "63707"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Mezcales",
+      "postal_code": [
+        "63707"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Miramar",
+      "postal_code": [
+        "63720"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Miravalles",
+      "postal_code": [
+        "63702",
+        "63706"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Monteon",
+      "postal_code": [
+        "63724"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "63715"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Nueva Era",
+      "postal_code": [
+        "63715"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Nueva Esperanza",
+      "postal_code": [
+        "63705"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Nueva Galicia",
+      "postal_code": [
+        "63704",
+        "63715"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Nuevo Ixtlan (Las Canadas)",
+      "postal_code": [
+        "63724"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Otates y Cantarranas",
+      "postal_code": [
+        "63710"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Pajaritos",
+      "postal_code": [
+        "63707"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Palos Maria",
+      "postal_code": [
+        "63708"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Paraiso",
+      "postal_code": [
+        "63720"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Paraiso Escondido",
+      "postal_code": [
+        "63720"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Paso de las Palmas",
+      "postal_code": [
+        "63708"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Pescadores",
+      "postal_code": [
+        "63720"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Platanitos",
+      "postal_code": [
+        "63709"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Playa Hermosa",
+      "postal_code": [
+        "63720"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Puerta de Oro",
+      "postal_code": [
+        "63715"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Rincon de Guayabitos",
+      "postal_code": [
+        "63724"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "63710"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "San Jose",
+      "postal_code": [
+        "63715"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "63710"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "63705"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Santa Maria de Jaltemba",
+      "postal_code": [
+        "63722"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Subestacion",
+      "postal_code": [
+        "63705"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Tepeyac",
+      "postal_code": [
+        "63715"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Tepiquenos",
+      "postal_code": [
+        "63706"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Tierra y Libertad",
+      "postal_code": [
+        "63705"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "ursulo Galvan",
+      "postal_code": [
+        "63724"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Villa Morelos",
+      "postal_code": [
+        "63724"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Vista al Mar (Bellavista)",
+      "postal_code": [
+        "63707"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Vizcarra",
+      "postal_code": [
+        "63707"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Zacualpan",
+      "postal_code": [
+        "63710"
+      ]
+    },
+    {
+      "city": "Compostela",
+      "colonia": "Zapotan",
+      "postal_code": [
+        "63717"
+      ]
+    }
+  ]
+}

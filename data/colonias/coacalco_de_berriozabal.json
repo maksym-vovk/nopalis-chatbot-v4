@@ -1,0 +1,921 @@
+{
+  "data": [
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Ampliacion Villa de Reyes",
+      "postal_code": [
+        "55713"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Arcos las Torres",
+      "postal_code": [
+        "55710"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Arte y Publicidad Miguel Hidalgo",
+      "postal_code": [
+        "55738"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Asociacion de Comerciantes de Coacalco",
+      "postal_code": [
+        "55738"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Basurero Municipal (La Aurora)",
+      "postal_code": [
+        "55736"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Bonito Coacalco",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Bonito Coacalco I (La Cruz)",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Bosques del Valle 1a Seccion",
+      "postal_code": [
+        "55717"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Bosques del Valle 2a Seccion",
+      "postal_code": [
+        "55717"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Calpulli del Valle",
+      "postal_code": [
+        "55707"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Camino Real (imevis)",
+      "postal_code": [
+        "55728"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Chabacano",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Coacalco",
+      "postal_code": [
+        "55718"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Colonial Coacalco",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Conjunto Salamanca",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Conjunto San Diego",
+      "postal_code": [
+        "55709"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "COOR Coacalco",
+      "postal_code": [
+        "55709"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "COOR Granjas",
+      "postal_code": [
+        "55728"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Dalias",
+      "postal_code": [
+        "55712"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Ejidal Canuto Luna",
+      "postal_code": [
+        "55707"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "El Chaparral",
+      "postal_code": [
+        "55717"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "El Gigante",
+      "postal_code": [
+        "55709"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "El Granero",
+      "postal_code": [
+        "55728"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "El Laurel",
+      "postal_code": [
+        "55717"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "El Laurel (El Gigante)",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "El Oasis",
+      "postal_code": [
+        "55728"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "El Obelisco",
+      "postal_code": [
+        "55707"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "El Pantano",
+      "postal_code": [
+        "55719"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "El Ranchito (imevis)",
+      "postal_code": [
+        "55738"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "El Toloache",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "El Vergel",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Ex-Hacienda San Felipe 1a. Seccion",
+      "postal_code": [
+        "55717"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Ex-Hacienda San Felipe 2a. Seccion",
+      "postal_code": [
+        "55717"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Ex-Hacienda San Felipe 3a. Seccion",
+      "postal_code": [
+        "55717"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Ex-Rancho San Felipe",
+      "postal_code": [
+        "55707"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Fuentes de San Francisco",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Granjas San Cristobal",
+      "postal_code": [
+        "55726"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Hacienda Cruztitla I",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Hacienda Cruztitla II",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Hacienda del Teruel",
+      "postal_code": [
+        "55726"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Hacienda las Garzas",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Hacienda San Pablo",
+      "postal_code": [
+        "55714"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Hacienda Taxco Viejo",
+      "postal_code": [
+        "55738"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "55708"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Jalatlaco",
+      "postal_code": [
+        "55737"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Jardines de San Jose 1a Secc",
+      "postal_code": [
+        "55716"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Jardines de San Jose 2a Secc",
+      "postal_code": [
+        "55716"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Jose Maria Morelos y Pavon",
+      "postal_code": [
+        "55718"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Joyas de Coacalco",
+      "postal_code": [
+        "55718"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "La Cima",
+      "postal_code": [
+        "55707"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "La Cualac",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "La Floresta",
+      "postal_code": [
+        "55713"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "La Guadalupana",
+      "postal_code": [
+        "55718"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Las Brisas",
+      "postal_code": [
+        "55728"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Las Bugambilias",
+      "postal_code": [
+        "55717"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Las Garzas",
+      "postal_code": [
+        "55718"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Las Hiedras",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Las Rosas",
+      "postal_code": [
+        "55710"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "La Vista",
+      "postal_code": [
+        "55726"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "55738"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Lomas de Coacalco 1a. Seccion",
+      "postal_code": [
+        "55736"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Lomas de Coacalco 2a. Seccion (Bosques)",
+      "postal_code": [
+        "55736"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Lomas San Felipe",
+      "postal_code": [
+        "55707"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Los Acuales",
+      "postal_code": [
+        "55739"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Los Almendros",
+      "postal_code": [
+        "55714"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Los Cedros I y II",
+      "postal_code": [
+        "55718"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Los Heroes Coacalco",
+      "postal_code": [
+        "55712"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Los Olivos",
+      "postal_code": [
+        "55714"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Los Portales Oriente",
+      "postal_code": [
+        "55717"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Los Portales Poniente",
+      "postal_code": [
+        "55717"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Los Sabinos I",
+      "postal_code": [
+        "55729"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Los Sabinos II",
+      "postal_code": [
+        "55715"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Mediterraneo",
+      "postal_code": [
+        "55737"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "55714"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Parque Residencial Coacalco 1a Seccion",
+      "postal_code": [
+        "55720"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Parque Residencial Coacalco 2a Seccion",
+      "postal_code": [
+        "55720"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Parque Residencial Coacalco 3a Seccion",
+      "postal_code": [
+        "55720"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Parque Taxco Viejo",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Periodistas Revolucionarios",
+      "postal_code": [
+        "55717"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Plaza las Flores",
+      "postal_code": [
+        "55719"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Potrero I",
+      "postal_code": [
+        "55718"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Potrero II",
+      "postal_code": [
+        "55714"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Potrero la Laguna 1a Seccion",
+      "postal_code": [
+        "55718"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Potrero la Laguna 2a Seccion",
+      "postal_code": [
+        "55718"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Potrero Popular I",
+      "postal_code": [
+        "55718"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Potrero Popular II",
+      "postal_code": [
+        "55718"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Privada las Garzas",
+      "postal_code": [
+        "55718"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Privadas Coacalco",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Rancho la Palma 1a Seccion",
+      "postal_code": [
+        "55717"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Rancho la Palma 2a Seccion",
+      "postal_code": [
+        "55717"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Rancho la Palma 3a Seccion",
+      "postal_code": [
+        "55717"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Rancho la Palma 4a. Seccion",
+      "postal_code": [
+        "55717"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Rancho la Providencia",
+      "postal_code": [
+        "55710"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Real de Coacalco",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Republica Mexicana",
+      "postal_code": [
+        "55705"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Residencial Bonito la Loma II",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Residencial Hacienda Capultitla",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Residencial Paraiso I",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Residencial Paraiso II",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Residencial Plaza Coacalco",
+      "postal_code": [
+        "55714"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Residencial Santander",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Residencial Sirapark",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Rinconada Coacalco",
+      "postal_code": [
+        "55713"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Rinconada San Felipe I",
+      "postal_code": [
+        "55719"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Rinconada San Felipe II",
+      "postal_code": [
+        "55719"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Rincon Coahuilense",
+      "postal_code": [
+        "55714"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Rincon Colonial Coacalco",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Rincon de las Fuentes",
+      "postal_code": [
+        "55713"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "San Francisco Coacalco",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "San Francisco Coacalco (Seccion Hacienda)",
+      "postal_code": [
+        "55712"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "San Lorenzo Tetlixtac",
+      "postal_code": [
+        "55714"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "San Rafael Coacalco",
+      "postal_code": [
+        "55719"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Santa Maria I",
+      "postal_code": [
+        "55719"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Santa Maria II",
+      "postal_code": [
+        "55718"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Santa Maria III",
+      "postal_code": [
+        "55718"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Santa Maria Magdalena Huizachitla",
+      "postal_code": [
+        "55715"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Seccion las Villas (Unidad Coacalco)",
+      "postal_code": [
+        "55716"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Sitatyr Arboledas",
+      "postal_code": [
+        "55729"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Star I",
+      "postal_code": [
+        "55726"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Star II",
+      "postal_code": [
+        "55726"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Tetlacolili",
+      "postal_code": [
+        "55714"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Valle Florido",
+      "postal_code": [
+        "55726"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Villa de las Flores 1a Seccion (Unidad Coacalco)",
+      "postal_code": [
+        "55710"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Villa de las Flores 2a Seccion (Unidad Coacalco)",
+      "postal_code": [
+        "55710"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Villa de Reyes",
+      "postal_code": [
+        "55713"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Villa Florencia",
+      "postal_code": [
+        "55700"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Villa Florida",
+      "postal_code": [
+        "55726"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Villa las Manzanas",
+      "postal_code": [
+        "55730"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Villas Gigante",
+      "postal_code": [
+        "55709"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Xalatlaco (Imevis)",
+      "postal_code": [
+        "55738"
+      ]
+    },
+    {
+      "city": "Coacalco de Berriozabal",
+      "colonia": "Zacuautitla",
+      "postal_code": [
+        "55700"
+      ]
+    }
+  ]
+}

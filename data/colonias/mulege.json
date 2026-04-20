@@ -1,0 +1,875 @@
+{
+  "data": [
+    {
+      "city": "Mulege",
+      "colonia": "1 de Septiembre",
+      "postal_code": [
+        "23950"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Alvaro Obregon",
+      "postal_code": [
+        "23950"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Angeles Mendoza",
+      "postal_code": [
+        "23950"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Auditorio",
+      "postal_code": [
+        "23950"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Bahia Asuncion",
+      "postal_code": [
+        "23960"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Bahia Tortugas",
+      "postal_code": [
+        "23950"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "23920"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Benavides",
+      "postal_code": [
+        "23900"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "23938",
+        "23944",
+        "23950"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "CADEPO",
+      "postal_code": [
+        "23920"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Canada",
+      "postal_code": [
+        "23920"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Cananea",
+      "postal_code": [
+        "23900"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Canastilla",
+      "postal_code": [
+        "23920"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Centro",
+      "postal_code": [
+        "23920",
+        "23950"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "CERESO Santa Rosalia",
+      "postal_code": [
+        "23922"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Costa Azul",
+      "postal_code": [
+        "23920"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "23920"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Deportiva",
+      "postal_code": [
+        "23950"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Don Juanito",
+      "postal_code": [
+        "23935"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "El Cacheno",
+      "postal_code": [
+        "23900"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "El Caracol",
+      "postal_code": [
+        "23936"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "El Cardon",
+      "postal_code": [
+        "23915"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "El Carricito",
+      "postal_code": [
+        "23990"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "El Coyote",
+      "postal_code": [
+        "23903"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "El Datil",
+      "postal_code": [
+        "23915",
+        "23916"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "El Domino",
+      "postal_code": [
+        "23940"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Elizabeth",
+      "postal_code": [
+        "23938"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "El Mezquital 1",
+      "postal_code": [
+        "23997"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "El Perdido",
+      "postal_code": [
+        "23912"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "23934"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "El Potrero",
+      "postal_code": [
+        "23902"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "23900",
+        "23922"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "El Rebaje",
+      "postal_code": [
+        "23900"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "El Retiro",
+      "postal_code": [
+        "23920"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "23930"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "El Silencio",
+      "postal_code": [
+        "23936"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "23936"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Estado 30",
+      "postal_code": [
+        "23940"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Estero de la Bocana",
+      "postal_code": [
+        "23973"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "FOVISSSTE",
+      "postal_code": [
+        "23940"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Francisco J Mujica",
+      "postal_code": [
+        "23949"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Fundo Legal",
+      "postal_code": [
+        "23940"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "23934",
+        "23980"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Guamuchil",
+      "postal_code": [
+        "23930"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Guerrero Negro Centro",
+      "postal_code": [
+        "23940"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Guillermo Prieto",
+      "postal_code": [
+        "23983"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Gustavo Diaz Ordaz",
+      "postal_code": [
+        "23935"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Gustavo Diaz Ordaz II Etapa (rancho La Joya)",
+      "postal_code": [
+        "23948"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Heroica Mulege Centro",
+      "postal_code": [
+        "23900"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "23920"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Imperial",
+      "postal_code": [
+        "23920"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "INFONAVIT",
+      "postal_code": [
+        "23940",
+        "23950"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Isla Natividad",
+      "postal_code": [
+        "23951"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Isla San Marcos",
+      "postal_code": [
+        "23910"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Jesus Maria",
+      "postal_code": [
+        "23917"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Jose Maria Morelos",
+      "postal_code": [
+        "23950"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "La Angostura",
+      "postal_code": [
+        "23915"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "La Calera",
+      "postal_code": [
+        "23900"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "La Correa",
+      "postal_code": [
+        "23930"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Laguneros",
+      "postal_code": [
+        "23944"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "La Paloma",
+      "postal_code": [
+        "23900"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "La Purisima",
+      "postal_code": [
+        "23950"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Las Cuevitas",
+      "postal_code": [
+        "23912"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "23935"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Las Tunas",
+      "postal_code": [
+        "23914"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "La Villita",
+      "postal_code": [
+        "23920"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Leonel Cota Montano",
+      "postal_code": [
+        "23938"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Libertad",
+      "postal_code": [
+        "23940"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Licenciado Alfredo Vladimir Bonfil",
+      "postal_code": [
+        "23923"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Loma Azul",
+      "postal_code": [
+        "23900"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "23940",
+        "23950"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Lomas de Guadalupe",
+      "postal_code": [
+        "23950"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Los Frailes",
+      "postal_code": [
+        "23920"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Los Martires",
+      "postal_code": [
+        "23934"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Luis Echeverria",
+      "postal_code": [
+        "23915"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "23920",
+        "23938"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Marina Nacional",
+      "postal_code": [
+        "23950"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Marque de Leon",
+      "postal_code": [
+        "23950"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Mesa Francia",
+      "postal_code": [
+        "23920"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Mesa Mexico",
+      "postal_code": [
+        "23920"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Nivel 50",
+      "postal_code": [
+        "23920"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Nueva Esperanza",
+      "postal_code": [
+        "23936"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Nueva Oaxaca",
+      "postal_code": [
+        "23938"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Nueva Santa Rosalia",
+      "postal_code": [
+        "23920"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Nuevo Mulege",
+      "postal_code": [
+        "23900"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Palo Verde",
+      "postal_code": [
+        "23912"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Pescadores",
+      "postal_code": [
+        "23950"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Profesor Marcelo Rubio",
+      "postal_code": [
+        "23940"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Pueblo Nuevo",
+      "postal_code": [
+        "23930"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Punta Abreojos",
+      "postal_code": [
+        "23970"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Punta Chivato",
+      "postal_code": [
+        "23912"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Punta de Agua",
+      "postal_code": [
+        "23900"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Punta Eugenia",
+      "postal_code": [
+        "23952"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Punta Prieta",
+      "postal_code": [
+        "23971"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Rancheria",
+      "postal_code": [
+        "23900",
+        "23920"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Rastro",
+      "postal_code": [
+        "23930"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Reforma",
+      "postal_code": [
+        "23920"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "San Bartolo",
+      "postal_code": [
+        "23916"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "San Benito",
+      "postal_code": [
+        "23934"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "San Bruno",
+      "postal_code": [
+        "23910"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "23935"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "San Francisco de la Sierra",
+      "postal_code": [
+        "23988"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "San Hipolito Bahia",
+      "postal_code": [
+        "23972"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "San Ignacio Centro",
+      "postal_code": [
+        "23930"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "23912"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "San Jose de Castro",
+      "postal_code": [
+        "23959"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "San Jose de Magdalena",
+      "postal_code": [
+        "23911"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "San Juan",
+      "postal_code": [
+        "23914"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "San Lino",
+      "postal_code": [
+        "23924"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "San Lucas",
+      "postal_code": [
+        "23911"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "23904"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "San Roque",
+      "postal_code": [
+        "23969"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "23913"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Santa agueda",
+      "postal_code": [
+        "23911"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Santa Isabel del Boleo",
+      "postal_code": [
+        "23913"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "23921"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Santo Tomas",
+      "postal_code": [
+        "23949"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Solidaridad",
+      "postal_code": [
+        "23940"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Tinajitas",
+      "postal_code": [
+        "23900"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Triky",
+      "postal_code": [
+        "23938"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Unidad Deportiva",
+      "postal_code": [
+        "23920"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Union y Progreso",
+      "postal_code": [
+        "23938"
+      ]
+    },
+    {
+      "city": "Mulege",
+      "colonia": "Villa Alberto Alvarado Aramburo",
+      "postal_code": [
+        "23938"
+      ]
+    }
+  ]
+}

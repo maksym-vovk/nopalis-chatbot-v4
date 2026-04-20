@@ -1,0 +1,706 @@
+{
+  "data": [
+    {
+      "city": "Villa Victoria",
+      "colonia": "Agua Grande",
+      "postal_code": [
+        "50984"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Agua Zarca",
+      "postal_code": [
+        "50984"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Campo Nuevo",
+      "postal_code": [
+        "50987"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Casas Coloradas",
+      "postal_code": [
+        "50985"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Centro del Cerrillo",
+      "postal_code": [
+        "50993",
+        "50997"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Cerrillo Chico",
+      "postal_code": [
+        "50983"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Cerrillo Grande",
+      "postal_code": [
+        "50983"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Cerritos del Pilar",
+      "postal_code": [
+        "50975"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Cuadrilla Vieja",
+      "postal_code": [
+        "50997"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "De Puentecillas",
+      "postal_code": [
+        "50996"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "De San Isidro",
+      "postal_code": [
+        "50990"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "De San Miguel",
+      "postal_code": [
+        "50994"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Doctor Gustavo Baz",
+      "postal_code": [
+        "50965"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Dolores Vaquerias",
+      "postal_code": [
+        "50974"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Ejido de Jesus Maria Segunda Seccion",
+      "postal_code": [
+        "50965"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "El Atole",
+      "postal_code": [
+        "50987"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "El Capulin",
+      "postal_code": [
+        "50986"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "El Catorce",
+      "postal_code": [
+        "50986"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "El Centenario",
+      "postal_code": [
+        "50996"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "El Cerrillo",
+      "postal_code": [
+        "50995"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "El Espinal",
+      "postal_code": [
+        "50985"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "El Fresno San Agustin",
+      "postal_code": [
+        "50963"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "El Gallito",
+      "postal_code": [
+        "50966"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "El Hospital",
+      "postal_code": [
+        "50965"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "El Jacal",
+      "postal_code": [
+        "50984"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "El Ocote",
+      "postal_code": [
+        "50994"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "El Panteon",
+      "postal_code": [
+        "50984"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "El Vivero",
+      "postal_code": [
+        "50975"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Ex-Hacienda de Ayala",
+      "postal_code": [
+        "50995"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Hospital Propiedad (Dos Estrellas)",
+      "postal_code": [
+        "50965"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Jesus Maria",
+      "postal_code": [
+        "50965"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Jesus Maria Monte Alto",
+      "postal_code": [
+        "50975"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "La Alameda",
+      "postal_code": [
+        "50997"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "La Campanilla",
+      "postal_code": [
+        "50994"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Laguna Seca 2da Seccion",
+      "postal_code": [
+        "50966"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Laguna Seca Ejido Primera Seccion",
+      "postal_code": [
+        "50964"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Laguna Seca Propiedad",
+      "postal_code": [
+        "50970"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "La Mesa",
+      "postal_code": [
+        "50984"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "La Presa",
+      "postal_code": [
+        "50985"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "50984"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "La Puerta del Pilar",
+      "postal_code": [
+        "50975"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Las Milpas",
+      "postal_code": [
+        "50987"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Las Penas",
+      "postal_code": [
+        "50975"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "La Union Berros",
+      "postal_code": [
+        "50973"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Loma de Guadalupe",
+      "postal_code": [
+        "50996"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Loma de la Rosa",
+      "postal_code": [
+        "50984"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Loma del Burro",
+      "postal_code": [
+        "50987"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Loma de Lienzo",
+      "postal_code": [
+        "50997"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Loma del Molino",
+      "postal_code": [
+        "50995"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Loma de San Jose",
+      "postal_code": [
+        "50996"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Loma Larga",
+      "postal_code": [
+        "50987"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Los Aviones",
+      "postal_code": [
+        "50987"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Los Cedros",
+      "postal_code": [
+        "50997"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Los Cedros Suchitepec",
+      "postal_code": [
+        "50984"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Los Matorrales",
+      "postal_code": [
+        "50965"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Los Padres",
+      "postal_code": [
+        "50965"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Los Remedios Suchitepec",
+      "postal_code": [
+        "50983"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Mesa del Espinal",
+      "postal_code": [
+        "50986"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Mesa de Suchitimber",
+      "postal_code": [
+        "50986"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Mina Vieja",
+      "postal_code": [
+        "50993"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Nuevo Bosque",
+      "postal_code": [
+        "50984"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Ojitos de Agua",
+      "postal_code": [
+        "50975"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "50986"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Palizada",
+      "postal_code": [
+        "50983"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Piedras Blancas (Piedras Blancas Centro)",
+      "postal_code": [
+        "50993"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Piedras Blancas Sur",
+      "postal_code": [
+        "50965"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Potrero de San Diego",
+      "postal_code": [
+        "50980"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Puente los Velazquez",
+      "postal_code": [
+        "50965"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Rameje",
+      "postal_code": [
+        "50996"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Rancho de los Padres Propiedad",
+      "postal_code": [
+        "50960"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "San Agustin Altamirano 2da. Seccion",
+      "postal_code": [
+        "50966"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "San Agustin Altamirano Primera Seccion",
+      "postal_code": [
+        "50964"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "San Agustin Berros",
+      "postal_code": [
+        "50974"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "San Agustin Canohillas Segunda Seccion",
+      "postal_code": [
+        "50973"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "San Agustin Canoillas Primera Seccion",
+      "postal_code": [
+        "50973"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "San Antonio del Rincon",
+      "postal_code": [
+        "50996"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "San Diego del Cerrito",
+      "postal_code": [
+        "50996"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "San Diego Suchitepec",
+      "postal_code": [
+        "50984"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "San Felipe de la Rosa",
+      "postal_code": [
+        "50985"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "San Joaquin del Monte",
+      "postal_code": [
+        "50965"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "San Luis el Alto",
+      "postal_code": [
+        "50967"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "San Luis la Gavia",
+      "postal_code": [
+        "50967"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "San Luis la Manzana",
+      "postal_code": [
+        "50967"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "San Marcos de la Loma",
+      "postal_code": [
+        "50994"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "San Pedro del Rincon",
+      "postal_code": [
+        "50975"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "San Roque",
+      "postal_code": [
+        "50995"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Sanson",
+      "postal_code": [
+        "50964"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Santa Cruz de la Rosa",
+      "postal_code": [
+        "50983"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Santa Isabel del Monte",
+      "postal_code": [
+        "50963"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Santiago del Monte",
+      "postal_code": [
+        "50966"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Seccion de Guadalupe",
+      "postal_code": [
+        "50974"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Sitio Centro",
+      "postal_code": [
+        "50994"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Sitio Ejido",
+      "postal_code": [
+        "50994"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Turcio 1a Secc",
+      "postal_code": [
+        "50967"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Turcio 3ra. Seccion",
+      "postal_code": [
+        "50967"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Turcio la Loma",
+      "postal_code": [
+        "50967"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Turcio Segunda Seccion",
+      "postal_code": [
+        "50964"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Vaquerias Palizada",
+      "postal_code": [
+        "50986"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Venta de Ocotillos",
+      "postal_code": [
+        "50995"
+      ]
+    },
+    {
+      "city": "Villa Victoria",
+      "colonia": "Villa Victoria",
+      "postal_code": [
+        "50960",
+        "50986"
+      ]
+    }
+  ]
+}

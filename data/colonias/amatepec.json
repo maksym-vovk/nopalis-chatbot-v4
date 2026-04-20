@@ -1,0 +1,866 @@
+{
+  "data": [
+    {
+      "city": "Amatepec",
+      "colonia": "Acatempan",
+      "postal_code": [
+        "51527"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Aguacatitlan (La Carreta)",
+      "postal_code": [
+        "51525"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Amadores (Los Amador)",
+      "postal_code": [
+        "51537"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Amatepec",
+      "postal_code": [
+        "51500"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Aviacion (Campo de Aviacion)",
+      "postal_code": [
+        "51530"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Ayuquila",
+      "postal_code": [
+        "51526"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Barranca de Esmeraldas ( La Güila )",
+      "postal_code": [
+        "51526"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Barranca de Gallegos",
+      "postal_code": [
+        "51537"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Barranca del Mamey",
+      "postal_code": [
+        "51527"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Barrio de la Uva",
+      "postal_code": [
+        "51527"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "51536"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Cerro de las animas (El Cerro de las animas)",
+      "postal_code": [
+        "51523"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Cerro de las animas-El Manguito",
+      "postal_code": [
+        "51523"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Cerro del Campo",
+      "postal_code": [
+        "51527"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Cerro del Coyol",
+      "postal_code": [
+        "51533"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Cerro de Santiago",
+      "postal_code": [
+        "51514"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Cerro de Tlacotepec (Tlacotepec)",
+      "postal_code": [
+        "51513"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Chapuluapan",
+      "postal_code": [
+        "51513"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Charco Hondo (El Tlacuache)",
+      "postal_code": [
+        "51525"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Cincuenta Arrobas",
+      "postal_code": [
+        "51537"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Coahuilotes (Los Coahuilotes)",
+      "postal_code": [
+        "51514"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Corral de Piedra",
+      "postal_code": [
+        "51513"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Corral Viejo",
+      "postal_code": [
+        "51536"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Coyol de San Simon",
+      "postal_code": [
+        "51513"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Cristo Rey (Guacamayas)",
+      "postal_code": [
+        "51533"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Crucero Cerro del Campo",
+      "postal_code": [
+        "51527"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Cuadrilla del Naranjo (Rincon del Naranjo)",
+      "postal_code": [
+        "51527"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Cuadrilla de Lopez",
+      "postal_code": [
+        "51535"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Cuadrilla Nueva",
+      "postal_code": [
+        "51527"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Cuadrilla Nueva (La Presa)",
+      "postal_code": [
+        "51527"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Dolores (Hacienda Dolores)",
+      "postal_code": [
+        "51525"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Aguacate (El Aguacate San Martin)",
+      "postal_code": [
+        "51510"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Arrayan",
+      "postal_code": [
+        "51534"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Cirian",
+      "postal_code": [
+        "51534"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Conejo (Conejo Viejo)",
+      "postal_code": [
+        "51530"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Consuelo",
+      "postal_code": [
+        "51540"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Convento",
+      "postal_code": [
+        "51530"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Coyol",
+      "postal_code": [
+        "51533"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Fresno",
+      "postal_code": [
+        "51525"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Malpaso",
+      "postal_code": [
+        "51514"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Mamey",
+      "postal_code": [
+        "51537"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Mango Piedras Anchas",
+      "postal_code": [
+        "51514"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Monteal (Barranca Papaloapan)",
+      "postal_code": [
+        "51516"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Ortigo",
+      "postal_code": [
+        "51527"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Pantalon",
+      "postal_code": [
+        "51530"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Panteon de San Felipe de Jesus",
+      "postal_code": [
+        "51516"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Paraje",
+      "postal_code": [
+        "51540"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Pino",
+      "postal_code": [
+        "51540"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Puerto",
+      "postal_code": [
+        "51515"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Rancho",
+      "postal_code": [
+        "51525"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Rodeo",
+      "postal_code": [
+        "51543"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Sitio",
+      "postal_code": [
+        "51523"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Tamarindo",
+      "postal_code": [
+        "51535"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Tlapanco",
+      "postal_code": [
+        "51533"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Veladero",
+      "postal_code": [
+        "51515"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "51527"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Zapote Cincuenta Arrobas (El Zapote)",
+      "postal_code": [
+        "51537"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "El Zapote (El Zapote Lopez)",
+      "postal_code": [
+        "51537"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Encinal Verde",
+      "postal_code": [
+        "51513"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Escuela Vieja",
+      "postal_code": [
+        "51527"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Guayabillos",
+      "postal_code": [
+        "51535"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Güijas Blancas",
+      "postal_code": [
+        "51514"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Huixtitla",
+      "postal_code": [
+        "51537"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Joya de la Venta",
+      "postal_code": [
+        "51515"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "La Carrera",
+      "postal_code": [
+        "51516"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "La Chaqueta",
+      "postal_code": [
+        "51530"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "La Chupa Rosa",
+      "postal_code": [
+        "51526"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "La Cofradia",
+      "postal_code": [
+        "51527"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "La Goleta",
+      "postal_code": [
+        "51544"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "La Mora",
+      "postal_code": [
+        "51515"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "La Palma",
+      "postal_code": [
+        "51534"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "La Parota (La Parota Tepehuajes)",
+      "postal_code": [
+        "51517"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "La Rayuela",
+      "postal_code": [
+        "51526"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Las Ceibas",
+      "postal_code": [
+        "51534"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Las Joyas",
+      "postal_code": [
+        "51516"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Las Latas (Ayuquila)",
+      "postal_code": [
+        "51526"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Las Pailas",
+      "postal_code": [
+        "51526"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Los Ajoques",
+      "postal_code": [
+        "51533"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Los Colorines",
+      "postal_code": [
+        "51540"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Los Encinos",
+      "postal_code": [
+        "51516"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Los Espinos",
+      "postal_code": [
+        "51540"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Los Guajes",
+      "postal_code": [
+        "51514"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Los organos",
+      "postal_code": [
+        "51526"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Los Sabinos",
+      "postal_code": [
+        "51525"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Los Timbres",
+      "postal_code": [
+        "51516",
+        "51527"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Mango Matuz",
+      "postal_code": [
+        "51536"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Matuz Puerto del Rodeo",
+      "postal_code": [
+        "51534"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Meyuca",
+      "postal_code": [
+        "51533"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Palmar Chico",
+      "postal_code": [
+        "51530"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Palmarillos",
+      "postal_code": [
+        "51525"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Pena del Cuervo",
+      "postal_code": [
+        "51527"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Pinzanes Matuz",
+      "postal_code": [
+        "51534"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Platanal",
+      "postal_code": [
+        "51540"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Potrerillos (Potrerillos Matuz)",
+      "postal_code": [
+        "51534"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Pueblo Nuevo (San Lucas Pueblo Nuevo)",
+      "postal_code": [
+        "51523"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Puente del Rodeo",
+      "postal_code": [
+        "51527"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Puente Viejo",
+      "postal_code": [
+        "51516"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Puerto de la Uva",
+      "postal_code": [
+        "51540"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Quimichatenco (Barranca de Quimichatenco)",
+      "postal_code": [
+        "51537"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Rincon de Esmeraldas",
+      "postal_code": [
+        "51526"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Rincon de la Cofradia",
+      "postal_code": [
+        "51510"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Rincon de San Simon",
+      "postal_code": [
+        "51513"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Salitre de Lopez",
+      "postal_code": [
+        "51524"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Salitre Palmarillos",
+      "postal_code": [
+        "51525"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Salitre Santa Barbara (Santa Barbara)",
+      "postal_code": [
+        "51530"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "San Antonio Matuz",
+      "postal_code": [
+        "51534"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "San Felipe de Jesus",
+      "postal_code": [
+        "51516"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "San Francisco de los Pinzanes",
+      "postal_code": [
+        "51526"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "San Jose (San Jose del Palmar)",
+      "postal_code": [
+        "51537"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "San Juan Tizapan (La Haciendita)",
+      "postal_code": [
+        "51533"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "51523"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "San Martin",
+      "postal_code": [
+        "51510"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "San Miguel (San Miguel Zinacausto)",
+      "postal_code": [
+        "51514"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "San Simon (San Simon Zozocoltepec)",
+      "postal_code": [
+        "51517"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Santa Barbara",
+      "postal_code": [
+        "51536"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Santiago",
+      "postal_code": [
+        "51527"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Sumpancle",
+      "postal_code": [
+        "51544"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Tepehuajes (Tepehuajes de Abajo)",
+      "postal_code": [
+        "51517"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Tepehuajes Uno (Tepehuajes de Arriba)",
+      "postal_code": [
+        "51517"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Tepehuastitlan",
+      "postal_code": [
+        "51524"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Tierra Azul",
+      "postal_code": [
+        "51540"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Tlalchichilpan",
+      "postal_code": [
+        "51543"
+      ]
+    },
+    {
+      "city": "Amatepec",
+      "colonia": "Zacatones",
+      "postal_code": [
+        "51544"
+      ]
+    }
+  ]
+}

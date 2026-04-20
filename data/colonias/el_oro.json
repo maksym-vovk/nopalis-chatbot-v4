@@ -1,0 +1,936 @@
+{
+  "data": [
+    {
+      "city": "El Oro",
+      "colonia": "Alameda",
+      "postal_code": [
+        "35695"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Alamito",
+      "postal_code": [
+        "35695"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Bailon los Diaz (Bailon de Arriba)",
+      "postal_code": [
+        "35687"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Bailon los Monarrez",
+      "postal_code": [
+        "35687"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "35680"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Boquilla Colorada",
+      "postal_code": [
+        "35680"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Bosques de la Sierra",
+      "postal_code": [
+        "35697"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "35696"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Campo Agrario (El Bronco)",
+      "postal_code": [
+        "35665"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Casas Blancas",
+      "postal_code": [
+        "35657"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Cazuelas",
+      "postal_code": [
+        "35680"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Cerro de La Merced",
+      "postal_code": [
+        "35694"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Del Llano",
+      "postal_code": [
+        "35697"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "El Agostadero",
+      "postal_code": [
+        "35686"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "El Calvario",
+      "postal_code": [
+        "35693"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "El Dorado",
+      "postal_code": [
+        "35697"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "35695"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "El Salto",
+      "postal_code": [
+        "35674"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "El Tanque",
+      "postal_code": [
+        "35684"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "El Vergel",
+      "postal_code": [
+        "35670"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Emiliano Martinez (Torres)",
+      "postal_code": [
+        "35664"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "FENOC",
+      "postal_code": [
+        "35695"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "General Escobedo",
+      "postal_code": [
+        "35666"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "General Hermenegildo Galeana (Galeana)",
+      "postal_code": [
+        "35670"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "General Ignacio Allende (Torrecitas)",
+      "postal_code": [
+        "35676"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "General Mariano Matamoros",
+      "postal_code": [
+        "35673"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Guzman y Hernandez (La Noria)",
+      "postal_code": [
+        "35667"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Ignacio Manuel Altamirano (El Picacho)",
+      "postal_code": [
+        "35675"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Jalisco",
+      "postal_code": [
+        "35696"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Jesus Maria",
+      "postal_code": [
+        "35683"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Jicorica",
+      "postal_code": [
+        "35650"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Jose Maria Morelos y Pavon (La Bajada)",
+      "postal_code": [
+        "35677"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "La Bellota",
+      "postal_code": [
+        "35686"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "La Cieneguita",
+      "postal_code": [
+        "35650"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "La Cofradia",
+      "postal_code": [
+        "35687"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "La Compuerta",
+      "postal_code": [
+        "35698"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "La Ermita",
+      "postal_code": [
+        "35697"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "La Galera",
+      "postal_code": [
+        "35664"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "La Granja",
+      "postal_code": [
+        "35680"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "La Palma",
+      "postal_code": [
+        "35686"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "La Parrita",
+      "postal_code": [
+        "35683"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "La Posta del Vergel",
+      "postal_code": [
+        "35685"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "La Presa",
+      "postal_code": [
+        "35683"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "La Reforma",
+      "postal_code": [
+        "35683"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Las Drogas",
+      "postal_code": [
+        "35680"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Las Tahunas",
+      "postal_code": [
+        "35677"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "La Tinaja de Bartolo",
+      "postal_code": [
+        "35685"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "La Vara de San Juan (La Vara)",
+      "postal_code": [
+        "35685"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Los Potreros",
+      "postal_code": [
+        "35686"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "35697"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Magistral del Oro (Magistral)",
+      "postal_code": [
+        "35680"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Mineral de Santa Cruz",
+      "postal_code": [
+        "35676"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Mojitome",
+      "postal_code": [
+        "35660"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Nogales",
+      "postal_code": [
+        "35686"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "35693"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Paso de alamos",
+      "postal_code": [
+        "35684"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Pedro Celestino Negrete",
+      "postal_code": [
+        "35677"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Poblado de Pena (Pena)",
+      "postal_code": [
+        "35674"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Portales",
+      "postal_code": [
+        "35683"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Potrero de Campa",
+      "postal_code": [
+        "35665"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Primero de Mayo (El Quemado)",
+      "postal_code": [
+        "35676"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Puerto Pinto",
+      "postal_code": [
+        "35697"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Regio Gas Lerdo",
+      "postal_code": [
+        "35697"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "San Antonio de la Cienega",
+      "postal_code": [
+        "35683"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "San Carlos (El Ranchito)",
+      "postal_code": [
+        "35666"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "San Isidro de Morillos (Morillos)",
+      "postal_code": [
+        "35677"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "San Javier",
+      "postal_code": [
+        "35684"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "San Jose de Barraza",
+      "postal_code": [
+        "35660"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "San Jose del Panal (San Jose)",
+      "postal_code": [
+        "35686"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "San Jose de Ramos (Ramos)",
+      "postal_code": [
+        "35663"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "San Miguel de Berros",
+      "postal_code": [
+        "35683"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "35693"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Santa Cruz de Arriba",
+      "postal_code": [
+        "35687"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Santa Cruz de Tepehuanes (El Pueblo Chilero)",
+      "postal_code": [
+        "35687"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Santa Gertrudis (Tules)",
+      "postal_code": [
+        "35684"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "35677"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Santa Maria del Oro Centro",
+      "postal_code": [
+        "35690"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Santa Rita de Casia",
+      "postal_code": [
+        "35656"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "35666"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "San Vicente",
+      "postal_code": [
+        "35684"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Sauces",
+      "postal_code": [
+        "35650"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Sauces de Abajo",
+      "postal_code": [
+        "35680"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Sauces de Cardona",
+      "postal_code": [
+        "35680"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "35693"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Union y Progreso (Las Iglesias)",
+      "postal_code": [
+        "35654"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Valle Verde",
+      "postal_code": [
+        "35698"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Villa Jardin",
+      "postal_code": [
+        "35697"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "50633"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Aquiles Serdan",
+      "postal_code": [
+        "50610"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Bassoco de Hidalgo",
+      "postal_code": [
+        "50633"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Benemerito Pueblo Nuevo de los angeles",
+      "postal_code": [
+        "50634"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "50610"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "50637"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Cerro Lloron",
+      "postal_code": [
+        "50627"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Citeje",
+      "postal_code": [
+        "50634"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Concepcion Primera",
+      "postal_code": [
+        "50637"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "50604"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "50600"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "El Gigante",
+      "postal_code": [
+        "50627"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "El Mogote",
+      "postal_code": [
+        "50615"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "El Oro de Hidalgo",
+      "postal_code": [
+        "50600"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Endotejiare",
+      "postal_code": [
+        "50635"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Estacion Tultenango (Tultenango)",
+      "postal_code": [
+        "50615"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Francisco I Madero",
+      "postal_code": [
+        "50603"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "La Concepcion (La Concepcion Segunda)",
+      "postal_code": [
+        "50637"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "La Estrellita",
+      "postal_code": [
+        "50610"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Laguna Seca",
+      "postal_code": [
+        "50636"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "La Jordana",
+      "postal_code": [
+        "50633"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "La Loma de la Cima",
+      "postal_code": [
+        "50627"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "La Magdalena Morelos",
+      "postal_code": [
+        "50635"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "La Mesa",
+      "postal_code": [
+        "50635"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "La Nopalera",
+      "postal_code": [
+        "50615"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "La Palma",
+      "postal_code": [
+        "50633"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "50616"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Las Penitas",
+      "postal_code": [
+        "50625"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "50627"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Llanito Cuatro",
+      "postal_code": [
+        "50627"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Loma del Capulin",
+      "postal_code": [
+        "50627"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Monte Alto",
+      "postal_code": [
+        "50603"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Presa Brockman",
+      "postal_code": [
+        "50627"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Pueblo Nuevo de los angeles",
+      "postal_code": [
+        "50634"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "San Juan Bosco",
+      "postal_code": [
+        "50637"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "San Nicolas el Oro (Agua Escondida)",
+      "postal_code": [
+        "50613"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "San Nicolas el Oro (San Nicolas)",
+      "postal_code": [
+        "50626"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "San Nicolas Tultenango",
+      "postal_code": [
+        "50614"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "50600"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Santa Cruz el Tejocote (El Tejocote)",
+      "postal_code": [
+        "50627"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Santa Rosa de Guadalupe",
+      "postal_code": [
+        "50625"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Santa Rosa de Lima",
+      "postal_code": [
+        "50625"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Santiago Oxtempan",
+      "postal_code": [
+        "50601",
+        "50614"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Tapaxco",
+      "postal_code": [
+        "50630"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Venta del Aire",
+      "postal_code": [
+        "50616"
+      ]
+    },
+    {
+      "city": "El Oro",
+      "colonia": "Yomeje",
+      "postal_code": [
+        "50630"
+      ]
+    }
+  ]
+}

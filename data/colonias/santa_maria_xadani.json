@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Santa Maria Xadani",
+      "colonia": "10 de Mayo",
+      "postal_code": [
+        "70125"
+      ]
+    },
+    {
+      "city": "Santa Maria Xadani",
+      "colonia": "Los Martinez",
+      "postal_code": [
+        "70125"
+      ]
+    },
+    {
+      "city": "Santa Maria Xadani",
+      "colonia": "Santa Maria Xadani",
+      "postal_code": [
+        "70125"
+      ]
+    },
+    {
+      "city": "Santa Maria Xadani",
+      "colonia": "Segunda Seccion",
+      "postal_code": [
+        "70125"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Totoltepec de Guerrero",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "74930"
+      ]
+    },
+    {
+      "city": "Totoltepec de Guerrero",
+      "colonia": "San Cristobal",
+      "postal_code": [
+        "74930"
+      ]
+    },
+    {
+      "city": "Totoltepec de Guerrero",
+      "colonia": "San Juan",
+      "postal_code": [
+        "74930"
+      ]
+    },
+    {
+      "city": "Totoltepec de Guerrero",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "74930"
+      ]
+    },
+    {
+      "city": "Totoltepec de Guerrero",
+      "colonia": "Santa Cruz Nuevo",
+      "postal_code": [
+        "74935"
+      ]
+    }
+  ]
+}

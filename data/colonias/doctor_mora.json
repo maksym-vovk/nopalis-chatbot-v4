@@ -1,0 +1,515 @@
+{
+  "data": [
+    {
+      "city": "Doctor Mora",
+      "colonia": "Arroyo de la Plata (San Miguel)",
+      "postal_code": [
+        "37965"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Begona",
+      "postal_code": [
+        "37966"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Bordo la Luz",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Carbonera de Guadalupe",
+      "postal_code": [
+        "37966"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Cerrito de la Estancia (Cerrito Verde)",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Cerro Chato",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Cuarto Blanco",
+      "postal_code": [
+        "37966"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Derramadero de Charcas",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Derramadero de en Medio",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Derramadero del Sauz",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Doctor Mora Centro",
+      "postal_code": [
+        "37960"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Ejidal J. Orduna",
+      "postal_code": [
+        "37960"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Ejido Begona",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Ejido Vagui",
+      "postal_code": [
+        "37965"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "El Bano",
+      "postal_code": [
+        "37966"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "El Lindero",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "El Mezquite",
+      "postal_code": [
+        "37966"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "El Mirto",
+      "postal_code": [
+        "37966"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "37960"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "El Ramillete",
+      "postal_code": [
+        "37966"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "El Tepetate",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Escalante",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Jesus Maria",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "La Aldea",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "La Barranca",
+      "postal_code": [
+        "37966"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "La Cantera",
+      "postal_code": [
+        "37960"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "La Doncella",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "La Estancia (El Cerrito)",
+      "postal_code": [
+        "37966"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "La Fortuna",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "37966"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "La Noria",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "La Otra Banda",
+      "postal_code": [
+        "37960"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "La Presa del Gato",
+      "postal_code": [
+        "37965"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "La Purisima",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "La Redonda",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "37966"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Las Palmitas",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Loma de Buenavista",
+      "postal_code": [
+        "37965"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Loma del Zapote",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Loreto",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Los Amoles",
+      "postal_code": [
+        "37966"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Los Duraznos",
+      "postal_code": [
+        "37965"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Los Tejados",
+      "postal_code": [
+        "37966"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Majada Verde",
+      "postal_code": [
+        "37966"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Morisquillas",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Negritas",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Obrajitos de Abajo",
+      "postal_code": [
+        "37966"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Obrajitos de Arriba",
+      "postal_code": [
+        "37966"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Obrajitos de en Enmedio",
+      "postal_code": [
+        "37966"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Pena Rodada",
+      "postal_code": [
+        "37966"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Penitas",
+      "postal_code": [
+        "37966"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Presa de los Duraznos",
+      "postal_code": [
+        "37965"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Primero de Diciembre",
+      "postal_code": [
+        "37960"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Puerta de la Barranca",
+      "postal_code": [
+        "37965"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Puerta del Pedregal (Santo Nino)",
+      "postal_code": [
+        "37965"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Puerto de la Oveja",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Puerto del Obispo de Abajo",
+      "postal_code": [
+        "37965"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Puerto del Obispo de Arriba",
+      "postal_code": [
+        "37965"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Puerto de Trojes (La Troje)",
+      "postal_code": [
+        "37965"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Ranchito de San Jose",
+      "postal_code": [
+        "37965"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Rancho Nuevo de Guadalupe (El Huron)",
+      "postal_code": [
+        "37965"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Sacromonte",
+      "postal_code": [
+        "37965"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "San Antonio Tercero",
+      "postal_code": [
+        "37966"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "San Francisco del alamo",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "San Jeronimo del Mezquital",
+      "postal_code": [
+        "37966"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "San Vicente",
+      "postal_code": [
+        "37967"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Tierra Prieta",
+      "postal_code": [
+        "37965"
+      ]
+    },
+    {
+      "city": "Doctor Mora",
+      "colonia": "Vagui",
+      "postal_code": [
+        "37965"
+      ]
+    }
+  ]
+}

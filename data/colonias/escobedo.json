@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Escobedo",
+      "colonia": "El Tulillo",
+      "postal_code": [
+        "25496"
+      ]
+    },
+    {
+      "city": "Escobedo",
+      "colonia": "Escobedo",
+      "postal_code": [
+        "25470"
+      ]
+    },
+    {
+      "city": "Escobedo",
+      "colonia": "Estacion Hermanas",
+      "postal_code": [
+        "25490"
+      ]
+    },
+    {
+      "city": "Escobedo",
+      "colonia": "Obayos",
+      "postal_code": [
+        "25480"
+      ]
+    },
+    {
+      "city": "Escobedo",
+      "colonia": "Primero de Mayo",
+      "postal_code": [
+        "25490"
+      ]
+    },
+    {
+      "city": "Escobedo",
+      "colonia": "Veintinueve de Noviembre (Borregas)",
+      "postal_code": [
+        "25483"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Doctor Gonzalez",
+      "colonia": "Doctor Gonzalez Centro",
+      "postal_code": [
+        "66750"
+      ]
+    },
+    {
+      "city": "Doctor Gonzalez",
+      "colonia": "La Venadera",
+      "postal_code": [
+        "66790"
+      ]
+    },
+    {
+      "city": "Doctor Gonzalez",
+      "colonia": "Los Pena",
+      "postal_code": [
+        "66793"
+      ]
+    },
+    {
+      "city": "Doctor Gonzalez",
+      "colonia": "Nuevo Repueblo",
+      "postal_code": [
+        "66770"
+      ]
+    }
+  ]
+}

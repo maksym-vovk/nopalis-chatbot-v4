@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Santa Catarina Ayometla",
+      "colonia": "Estocapa",
+      "postal_code": [
+        "90773"
+      ]
+    },
+    {
+      "city": "Santa Catarina Ayometla",
+      "colonia": "Santa Catarina Ayometla",
+      "postal_code": [
+        "90770"
+      ]
+    },
+    {
+      "city": "Santa Catarina Ayometla",
+      "colonia": "Tlapayatla",
+      "postal_code": [
+        "90774"
+      ]
+    },
+    {
+      "city": "Santa Catarina Ayometla",
+      "colonia": "Tlaxcaltecatla",
+      "postal_code": [
+        "90775"
+      ]
+    }
+  ]
+}

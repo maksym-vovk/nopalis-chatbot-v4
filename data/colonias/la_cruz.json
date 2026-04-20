@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "La Cruz",
+      "colonia": "Corraleno de Juarez",
+      "postal_code": [
+        "33679"
+      ]
+    },
+    {
+      "city": "La Cruz",
+      "colonia": "El Morieleno",
+      "postal_code": [
+        "33673"
+      ]
+    },
+    {
+      "city": "La Cruz",
+      "colonia": "Estacion la Cruz",
+      "postal_code": [
+        "33677"
+      ]
+    },
+    {
+      "city": "La Cruz",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "33670"
+      ]
+    },
+    {
+      "city": "La Cruz",
+      "colonia": "Panamericana",
+      "postal_code": [
+        "33670"
+      ]
+    },
+    {
+      "city": "La Cruz",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "33671"
+      ]
+    }
+  ]
+}

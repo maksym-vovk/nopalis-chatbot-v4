@@ -1,0 +1,813 @@
+{
+  "data": [
+    {
+      "city": "Jerez",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "99370"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Alamedas",
+      "postal_code": [
+        "99360"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Alamitos",
+      "postal_code": [
+        "99393"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "alamos",
+      "postal_code": [
+        "99390"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Artesanos",
+      "postal_code": [
+        "99343"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Azteca",
+      "postal_code": [
+        "99323"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Balvanero",
+      "postal_code": [
+        "99344"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Banrural",
+      "postal_code": [
+        "99340"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Barrio Nuevo",
+      "postal_code": [
+        "99300"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Bosques",
+      "postal_code": [
+        "99344"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Camino Real",
+      "postal_code": [
+        "99323"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Candelario Huizar",
+      "postal_code": [
+        "99322",
+        "99323"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Caxcan",
+      "postal_code": [
+        "99363"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Cervantes Corona",
+      "postal_code": [
+        "99314"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Chulavista",
+      "postal_code": [
+        "99350"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Cienega",
+      "postal_code": [
+        "99316"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Cieneguitas de Fernandez",
+      "postal_code": [
+        "99471"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "CNOP",
+      "postal_code": [
+        "99392"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Concepcion",
+      "postal_code": [
+        "99352"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Constituyentes",
+      "postal_code": [
+        "99340"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "CTM",
+      "postal_code": [
+        "99312"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Delicias",
+      "postal_code": [
+        "99382"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Deportivo",
+      "postal_code": [
+        "99362"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Deportivo II",
+      "postal_code": [
+        "99323"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Don Durito",
+      "postal_code": [
+        "99323"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "El Cargadero",
+      "postal_code": [
+        "99476"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "El Duraznillo",
+      "postal_code": [
+        "99313"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "El Durazno",
+      "postal_code": [
+        "99312",
+        "99313",
+        "99447"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "El Huejote",
+      "postal_code": [
+        "99468"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "El Molino",
+      "postal_code": [
+        "99353"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "El Vergel",
+      "postal_code": [
+        "99312"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Ermita de Guadalupe",
+      "postal_code": [
+        "99467"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Ermita de los Correa",
+      "postal_code": [
+        "99443"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "FOVISSSTE",
+      "postal_code": [
+        "99390"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Frente Popular Norte",
+      "postal_code": [
+        "99316"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Frente Popular Sur",
+      "postal_code": [
+        "99316"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Fuenzanto",
+      "postal_code": [
+        "99380"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Granjas",
+      "postal_code": [
+        "99392"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Granjas El Molino",
+      "postal_code": [
+        "99353"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Guadalajara",
+      "postal_code": [
+        "99363"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "99310",
+        "99320"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Guadalupe Victoria (El Yegue)",
+      "postal_code": [
+        "99473"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Hidraulica",
+      "postal_code": [
+        "99363"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Huertas San Jose",
+      "postal_code": [
+        "99379"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Infonavit El Cortijo",
+      "postal_code": [
+        "99344"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Infonavit El Molino Plan Maestro",
+      "postal_code": [
+        "99316"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Jardin del alamo",
+      "postal_code": [
+        "99382"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Jardines de Jerez",
+      "postal_code": [
+        "99390"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Jardines de La Victoria",
+      "postal_code": [
+        "99313"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Jardines de Ramon Lopez Velarde",
+      "postal_code": [
+        "99390"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Jerez",
+      "postal_code": [
+        "99322"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Jerez Centro",
+      "postal_code": [
+        "99300"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Jomulquillo",
+      "postal_code": [
+        "99479"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Justo Sierra",
+      "postal_code": [
+        "99360"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "99457"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "99312"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "La Gavia",
+      "postal_code": [
+        "99456"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Lagunita",
+      "postal_code": [
+        "99340"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "La Noria",
+      "postal_code": [
+        "99362"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "99323"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Las Artes",
+      "postal_code": [
+        "99380"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Las Brisas",
+      "postal_code": [
+        "99382"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Las Huertas",
+      "postal_code": [
+        "99320"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "99315"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Las Quintas",
+      "postal_code": [
+        "99360"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Lo de Nava",
+      "postal_code": [
+        "99458"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Loma Dorada",
+      "postal_code": [
+        "99350"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Lopez Mateos",
+      "postal_code": [
+        "99380"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Los Cardos",
+      "postal_code": [
+        "99363"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Los Felix",
+      "postal_code": [
+        "99440"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Los Haro",
+      "postal_code": [
+        "99447"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "99382"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Los Rios",
+      "postal_code": [
+        "99469"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "99340"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "99311"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Magisterial II",
+      "postal_code": [
+        "99322"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Magisterial III",
+      "postal_code": [
+        "99312"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Matias Ramos",
+      "postal_code": [
+        "99316"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Mercaderes",
+      "postal_code": [
+        "99380"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "99440"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Modelo",
+      "postal_code": [
+        "99380"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Montecillo",
+      "postal_code": [
+        "99352"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Monte de los Garcia",
+      "postal_code": [
+        "99474"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "99360"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Nueva Reforma",
+      "postal_code": [
+        "99340"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Obrera",
+      "postal_code": [
+        "99380"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Olimpia",
+      "postal_code": [
+        "99313"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Organizacion Campesina",
+      "postal_code": [
+        "99313"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Palmas Altas",
+      "postal_code": [
+        "99473"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Patria Nueva",
+      "postal_code": [
+        "99316"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Pedregal",
+      "postal_code": [
+        "99362"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Popular del Sol",
+      "postal_code": [
+        "99323"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "P.R.D.",
+      "postal_code": [
+        "99323"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Rancho Los Arquitos",
+      "postal_code": [
+        "99390"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Real del Valle",
+      "postal_code": [
+        "99360"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Rio Florido (El Ranchito)",
+      "postal_code": [
+        "99476"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "San Cayetano",
+      "postal_code": [
+        "99440"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "99340"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "99323"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "San Isidro Del Salto",
+      "postal_code": [
+        "99454"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "San Juan del Centro",
+      "postal_code": [
+        "99478"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "99330"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "99344"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Santa Rita (Luis Moya)",
+      "postal_code": [
+        "99458"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Sarabia",
+      "postal_code": [
+        "99473"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Sauz de los Garcia de Abajo",
+      "postal_code": [
+        "99442"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "SUTSEMOP",
+      "postal_code": [
+        "99313"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Tetillas",
+      "postal_code": [
+        "99460"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Union Santa Cruz",
+      "postal_code": [
+        "99350"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Valle Real",
+      "postal_code": [
+        "99323"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Villa Flavia",
+      "postal_code": [
+        "99342"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Villa Fontana",
+      "postal_code": [
+        "99370"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Villa Hermosa",
+      "postal_code": [
+        "99474"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Villas de San Isidro",
+      "postal_code": [
+        "99323"
+      ]
+    },
+    {
+      "city": "Jerez",
+      "colonia": "Zaragoza",
+      "postal_code": [
+        "99320"
+      ]
+    }
+  ]
+}

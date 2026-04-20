@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Chiquilistlan",
+      "colonia": "Chiquilistlan",
+      "postal_code": [
+        "48640"
+      ]
+    },
+    {
+      "city": "Chiquilistlan",
+      "colonia": "Comala y Agua Puerca",
+      "postal_code": [
+        "48655"
+      ]
+    },
+    {
+      "city": "Chiquilistlan",
+      "colonia": "Jalpa",
+      "postal_code": [
+        "48650"
+      ]
+    },
+    {
+      "city": "Chiquilistlan",
+      "colonia": "La Cofradia de Jalpa",
+      "postal_code": [
+        "48654"
+      ]
+    }
+  ]
+}

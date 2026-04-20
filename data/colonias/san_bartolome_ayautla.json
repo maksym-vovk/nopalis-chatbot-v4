@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Bartolome Ayautla",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "68578"
+      ]
+    },
+    {
+      "city": "San Bartolome Ayautla",
+      "colonia": "La Soledad Piedra Ancha",
+      "postal_code": [
+        "68577"
+      ]
+    },
+    {
+      "city": "San Bartolome Ayautla",
+      "colonia": "San Bartolome Ayautla",
+      "postal_code": [
+        "68577"
+      ]
+    }
+  ]
+}

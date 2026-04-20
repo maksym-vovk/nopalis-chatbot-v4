@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Mecayapan",
+      "colonia": "Arrecifes",
+      "postal_code": [
+        "95930"
+      ]
+    },
+    {
+      "city": "Mecayapan",
+      "colonia": "El Rubi",
+      "postal_code": [
+        "95932"
+      ]
+    },
+    {
+      "city": "Mecayapan",
+      "colonia": "Ixhuapan",
+      "postal_code": [
+        "95930"
+      ]
+    },
+    {
+      "city": "Mecayapan",
+      "colonia": "Mecayapan",
+      "postal_code": [
+        "95930"
+      ]
+    },
+    {
+      "city": "Mecayapan",
+      "colonia": "San Andres Chamilpa",
+      "postal_code": [
+        "95933"
+      ]
+    }
+  ]
+}

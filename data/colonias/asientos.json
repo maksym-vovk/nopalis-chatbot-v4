@@ -1,0 +1,558 @@
+{
+  "data": [
+    {
+      "city": "Asientos",
+      "colonia": "Agua Nueva",
+      "postal_code": [
+        "20700"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "alamos",
+      "postal_code": [
+        "20700"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Alvarado",
+      "postal_code": [
+        "20720"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Amarillas de Esparza",
+      "postal_code": [
+        "20708"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "20700"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Asientos Centro",
+      "postal_code": [
+        "20710"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Bimbaletes Aguascalientes (El alamo)",
+      "postal_code": [
+        "20720"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Bimbaletes Atlas (Tanque de la Vieja)",
+      "postal_code": [
+        "20720"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Caldera",
+      "postal_code": [
+        "20741"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Charco Azul",
+      "postal_code": [
+        "20705"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Charco Prieto (El Palomar)",
+      "postal_code": [
+        "20742"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Cienega Grande",
+      "postal_code": [
+        "20722"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Clavellinas",
+      "postal_code": [
+        "20729"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Crisostomos",
+      "postal_code": [
+        "20720"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "De Guadalupe",
+      "postal_code": [
+        "20714"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Del CECYTE",
+      "postal_code": [
+        "20713"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Del Tepozan",
+      "postal_code": [
+        "20715"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "De Penitas",
+      "postal_code": [
+        "20712"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "El aguila [Rancho]",
+      "postal_code": [
+        "20768"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "El Bajio de los Campos",
+      "postal_code": [
+        "20796"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "El Chonguillo",
+      "postal_code": [
+        "20785"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "El Epazote",
+      "postal_code": [
+        "20796"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "El Fenix",
+      "postal_code": [
+        "20742"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "El Polvo",
+      "postal_code": [
+        "20740"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "El Rascon",
+      "postal_code": [
+        "20700"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "El Salitre",
+      "postal_code": [
+        "20796"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "El Tule",
+      "postal_code": [
+        "20700"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Emancipacion (Borunda)",
+      "postal_code": [
+        "20770"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Estacion San Gil",
+      "postal_code": [
+        "20720"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "20790"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Gomez Portugal",
+      "postal_code": [
+        "20724"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Gorriones",
+      "postal_code": [
+        "20746"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "20700"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Guadalupe de Atlas",
+      "postal_code": [
+        "20720"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "INFONAVIT",
+      "postal_code": [
+        "20715"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Jarillas",
+      "postal_code": [
+        "20723"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Jilotepec",
+      "postal_code": [
+        "20709"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Juventud",
+      "postal_code": [
+        "20715"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "La Dichosa",
+      "postal_code": [
+        "20709"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "La Divina Providencia",
+      "postal_code": [
+        "20720"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "20795"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "La Gloria",
+      "postal_code": [
+        "20736"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "La Loma",
+      "postal_code": [
+        "20700"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Las Adjuntas",
+      "postal_code": [
+        "20773"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Las Fraguas",
+      "postal_code": [
+        "20796"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "La Sierra",
+      "postal_code": [
+        "20700"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Las Joyas",
+      "postal_code": [
+        "20796"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Las Negritas",
+      "postal_code": [
+        "20799"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "20739"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "La Tinajuela",
+      "postal_code": [
+        "20773"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "20734"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Licenciado Adolfo Lopez Mateos",
+      "postal_code": [
+        "20720",
+        "20742"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "20700"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Los Encinos",
+      "postal_code": [
+        "20734"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Los Tepetates",
+      "postal_code": [
+        "20713"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Molinos",
+      "postal_code": [
+        "20730"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Noria del Borrego (Norias)",
+      "postal_code": [
+        "20723"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Ojo de Agua de los Sauces",
+      "postal_code": [
+        "20795"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Ojo de Agua de Rosales",
+      "postal_code": [
+        "20748"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Pilotos",
+      "postal_code": [
+        "20795"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Pino Suarez (Rancho Viejo)",
+      "postal_code": [
+        "20727"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Plutarco Elias Calles",
+      "postal_code": [
+        "20721"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Real Minero",
+      "postal_code": [
+        "20717"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "San Antonio de los Martinez",
+      "postal_code": [
+        "20744"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "20782"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "San Jose del Rio",
+      "postal_code": [
+        "20750"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "San Jose del Tulillo",
+      "postal_code": [
+        "20780"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "20739"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "San Rafael de Ocampo",
+      "postal_code": [
+        "20780"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "20710"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "San Vicente",
+      "postal_code": [
+        "20709"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Sector de Produccion Numero 2",
+      "postal_code": [
+        "20720"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Sector de Produccion Numero 3",
+      "postal_code": [
+        "20720"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Sociedad los Posada",
+      "postal_code": [
+        "20720"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Tanque de Guadalupe",
+      "postal_code": [
+        "20796"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Tanque Viejo",
+      "postal_code": [
+        "20773"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Tepetatillo",
+      "postal_code": [
+        "20749"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Villa Juarez Centro",
+      "postal_code": [
+        "20700"
+      ]
+    },
+    {
+      "city": "Asientos",
+      "colonia": "Viudas de Poniente",
+      "postal_code": [
+        "20704"
+      ]
+    }
+  ]
+}

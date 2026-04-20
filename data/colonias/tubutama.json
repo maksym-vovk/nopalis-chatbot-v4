@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "city": "Tubutama",
+      "colonia": "La Reforma",
+      "postal_code": [
+        "83805"
+      ]
+    },
+    {
+      "city": "Tubutama",
+      "colonia": "La Sangre (La Sangre Nueva)",
+      "postal_code": [
+        "83817"
+      ]
+    },
+    {
+      "city": "Tubutama",
+      "colonia": "San Jose (San Enrique)",
+      "postal_code": [
+        "83810"
+      ]
+    },
+    {
+      "city": "Tubutama",
+      "colonia": "San Juan",
+      "postal_code": [
+        "83801"
+      ]
+    },
+    {
+      "city": "Tubutama",
+      "colonia": "San Manuel (San Manuel Ocuca)",
+      "postal_code": [
+        "83818"
+      ]
+    },
+    {
+      "city": "Tubutama",
+      "colonia": "Santa Isabel (La Cuchilla)",
+      "postal_code": [
+        "83818"
+      ]
+    },
+    {
+      "city": "Tubutama",
+      "colonia": "Tubutama",
+      "postal_code": [
+        "83800"
+      ]
+    }
+  ]
+}

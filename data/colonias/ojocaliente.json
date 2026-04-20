@@ -1,0 +1,481 @@
+{
+  "data": [
+    {
+      "city": "Ojocaliente",
+      "colonia": "Boquillas",
+      "postal_code": [
+        "98725"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "98724"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Campesina",
+      "postal_code": [
+        "98715"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Casa Blanca",
+      "postal_code": [
+        "98712"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Cerrito de La Cruz",
+      "postal_code": [
+        "98706"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Cerrito Del Agua",
+      "postal_code": [
+        "98726"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Chinanpas",
+      "postal_code": [
+        "98717",
+        "98717"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Concepcion",
+      "postal_code": [
+        "98700"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Dolores",
+      "postal_code": [
+        "98704"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "El Chepinque",
+      "postal_code": [
+        "98727"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "El Fresno",
+      "postal_code": [
+        "98717"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "El Humedo",
+      "postal_code": [
+        "98717"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Elias Valadez",
+      "postal_code": [
+        "98718"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "El Mezquital",
+      "postal_code": [
+        "98714"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "El Papanton",
+      "postal_code": [
+        "98712"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "El Portalillo",
+      "postal_code": [
+        "98718"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "98700"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "El Trebol",
+      "postal_code": [
+        "98714"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Estacion Palmira",
+      "postal_code": [
+        "98700"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Felipe Herrera Villalobos",
+      "postal_code": [
+        "98715"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Fernando Pamanes Escobedo",
+      "postal_code": [
+        "98718"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Huerta Santa Teresa",
+      "postal_code": [
+        "98713"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Indeco",
+      "postal_code": [
+        "98712"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Jarillas",
+      "postal_code": [
+        "98700"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Jerusalem",
+      "postal_code": [
+        "98715"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "La Capilla",
+      "postal_code": [
+        "98705"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Las Coloradas",
+      "postal_code": [
+        "98706"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Las Cumbres",
+      "postal_code": [
+        "98712"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Las Ladrilleras",
+      "postal_code": [
+        "98718"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Las Lajas",
+      "postal_code": [
+        "98707"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Las Lomas",
+      "postal_code": [
+        "98712"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Las Villitas",
+      "postal_code": [
+        "98713"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "La Verde",
+      "postal_code": [
+        "98706"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "98716"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Luis Reyes",
+      "postal_code": [
+        "98715"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "98717"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Martel",
+      "postal_code": [
+        "98715"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Milagros",
+      "postal_code": [
+        "98700"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Nombre de Dios",
+      "postal_code": [
+        "98712"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Nuevo Mundo",
+      "postal_code": [
+        "98705"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Nuevo Ojocaliente",
+      "postal_code": [
+        "98712"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Ojocaliente Centro",
+      "postal_code": [
+        "98710"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Palmillas",
+      "postal_code": [
+        "98700"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Parga",
+      "postal_code": [
+        "98714"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Pastoria",
+      "postal_code": [
+        "98700"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Perales",
+      "postal_code": [
+        "98707"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Pozo de Jarillas",
+      "postal_code": [
+        "98707"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Real Bastidas",
+      "postal_code": [
+        "98715"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Real de Sacramento",
+      "postal_code": [
+        "98712"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Reginaldo Sandoval",
+      "postal_code": [
+        "98712"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Renacimiento",
+      "postal_code": [
+        "98713"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "San Antonio del Volcan (San Antonio)",
+      "postal_code": [
+        "98727"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "San Blas de Copudas",
+      "postal_code": [
+        "98723"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "San Blas de Copudas (El Tildio)",
+      "postal_code": [
+        "98723"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "San Cristobal",
+      "postal_code": [
+        "98720"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "San Jorge",
+      "postal_code": [
+        "98715"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "San Jose de los Llanos",
+      "postal_code": [
+        "98723"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "San Jose Del Vaquero",
+      "postal_code": [
+        "98723"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "San Juan de Carboneras",
+      "postal_code": [
+        "98725"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "98712"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "98717"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Santa Maria de la Paz (Los alamos)",
+      "postal_code": [
+        "98723"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Santo Tomas",
+      "postal_code": [
+        "98725"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Sauceda de Mulatos",
+      "postal_code": [
+        "98700"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Tlacotes",
+      "postal_code": [
+        "98700"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Valle de la Memoria",
+      "postal_code": [
+        "98714"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Venaditos",
+      "postal_code": [
+        "98726"
+      ]
+    },
+    {
+      "city": "Ojocaliente",
+      "colonia": "Veteranos de La Revolucion",
+      "postal_code": [
+        "98713"
+      ]
+    }
+  ]
+}

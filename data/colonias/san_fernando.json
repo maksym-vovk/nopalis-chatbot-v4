@@ -1,0 +1,760 @@
+{
+  "data": [
+    {
+      "city": "San Fernando",
+      "colonia": "16 de Septiembre",
+      "postal_code": [
+        "29129"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "5 de Mayo",
+      "postal_code": [
+        "87605"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Adolfo Ruiz Cortines",
+      "postal_code": [
+        "87625"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "aguila Azteca",
+      "postal_code": [
+        "87620"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Alfredo V. Bonfil (Luis Echeverria)",
+      "postal_code": [
+        "87619"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Alvaro Obregon",
+      "postal_code": [
+        "29129"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Americo Villarreal",
+      "postal_code": [
+        "87604"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Ampliacion los Vergeles",
+      "postal_code": [
+        "87619"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Bellavista Norte",
+      "postal_code": [
+        "87602"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Bellavista Sur",
+      "postal_code": [
+        "87604"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Caminera",
+      "postal_code": [
+        "87602"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Carboneras (La Carbonera)",
+      "postal_code": [
+        "87630"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Carvajal",
+      "postal_code": [
+        "87636"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Cerro La Marimba",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Chahuipac",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Cuatro Milpas",
+      "postal_code": [
+        "87622"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "29125"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Division del Norte (Laguna Seca)",
+      "postal_code": [
+        "87624"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Don Ventura",
+      "postal_code": [
+        "29129"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "El Barrancon del Tio Blas (El Barrancon)",
+      "postal_code": [
+        "87629"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "El Canelo",
+      "postal_code": [
+        "29129"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "El Carmelo",
+      "postal_code": [
+        "29127"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "El Copalar",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "El Panteon",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "El Portillo",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "El Progreso",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "El Tzintzum",
+      "postal_code": [
+        "29125"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "87602"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Francisco Galvan Loperena",
+      "postal_code": [
+        "87604"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Gabriel de la Garza",
+      "postal_code": [
+        "87607"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Gabriel Esquinca",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "General Francisco Gonzalez Villarreal (San Juan)",
+      "postal_code": [
+        "87618"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "General Francisco J. Mujica (La Poza)",
+      "postal_code": [
+        "87627"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "General Francisco Villa",
+      "postal_code": [
+        "87620"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Guadalupe Victoria (El Norteno)",
+      "postal_code": [
+        "87610"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Horacio Teran",
+      "postal_code": [
+        "87624"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Independencia",
+      "postal_code": [
+        "87602"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "INFONAVIT",
+      "postal_code": [
+        "87605"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Jardin",
+      "postal_code": [
+        "87602"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Juan Antonio",
+      "postal_code": [
+        "87613"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "La Carreta Uno",
+      "postal_code": [
+        "87617"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Ladrillera",
+      "postal_code": [
+        "87607"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Laguna de San Juan",
+      "postal_code": [
+        "87624"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "La Joya",
+      "postal_code": [
+        "87628"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "La Loma",
+      "postal_code": [
+        "87610"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "La Riverena",
+      "postal_code": [
+        "87605"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Las Escobas",
+      "postal_code": [
+        "87612"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Las Fuentes",
+      "postal_code": [
+        "87607"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Las Granjas",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Las Malvinas",
+      "postal_code": [
+        "87607"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Las Torres",
+      "postal_code": [
+        "87602"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "La Valentina",
+      "postal_code": [
+        "87602"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Linda Vista",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Loma Alta",
+      "postal_code": [
+        "87605"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Lomas de San Fernando",
+      "postal_code": [
+        "87606"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Los Anzas",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Los Cisnes",
+      "postal_code": [
+        "87606"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Los Lopez",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Los Manguitos",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Los Vergeles",
+      "postal_code": [
+        "87619"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "87605"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "87602"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Manuel Cavazos Lerma",
+      "postal_code": [
+        "87604"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Mauricio Martinez",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Mexico",
+      "postal_code": [
+        "87607"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Miguel Hidalgo II (Las Rosas)",
+      "postal_code": [
+        "87613"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Miguel Hidalgo (Lenin)",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Miguel Hidalgo Uno",
+      "postal_code": [
+        "87626"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Monterrey",
+      "postal_code": [
+        "29125"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Nuevo Amanecer",
+      "postal_code": [
+        "87604"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Nuevo Tlaxcala Xicotencatl",
+      "postal_code": [
+        "87624"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Obrera",
+      "postal_code": [
+        "87604"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Palos Blancos",
+      "postal_code": [
+        "87610"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Palo Solo",
+      "postal_code": [
+        "87629"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Paraiso",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Paso Hondo",
+      "postal_code": [
+        "87612"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Paso Real",
+      "postal_code": [
+        "87606"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Pastores (Escuadron 201)",
+      "postal_code": [
+        "87629"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Plan del Alazan",
+      "postal_code": [
+        "87618"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Punta de Alambre (Puente de Alambre)",
+      "postal_code": [
+        "87636"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Punta de Piedra",
+      "postal_code": [
+        "87636"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Rivera el Limon",
+      "postal_code": [
+        "29129"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Sagualoma",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "San Fernando Centro",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "San Fernando Centro",
+      "postal_code": [
+        "87600"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "87616"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "San German",
+      "postal_code": [
+        "87610"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "San Jose",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "San Jose",
+      "postal_code": [
+        "87620"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "87618"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "87610"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Santuario",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Seis de Enero (Miguel Hidalgo Segundo)",
+      "postal_code": [
+        "87627"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Tamaulipas",
+      "postal_code": [
+        "87604"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Terrero Copalar",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Valle Bonito",
+      "postal_code": [
+        "29129"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Villa del Mar",
+      "postal_code": [
+        "87602"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "29120"
+      ]
+    },
+    {
+      "city": "San Fernando",
+      "colonia": "Viva Cardenas",
+      "postal_code": [
+        "29129"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "data": [
+    {
+      "city": "La Trinitaria",
+      "colonia": "Allende",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Alvaro Obregon",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Angel Albino Corzo",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Chihuahua",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Cristobal Colon (Lagos de Colon)",
+      "postal_code": [
+        "30165"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Cruz Bola",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "El Alto",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "El Amate",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "El Lindero",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "30165"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "El Porvenir Agrarista",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "El Progreso",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Flor de Mayo",
+      "postal_code": [
+        "30165"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "30166"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Guadalupe Carretera",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Guadalupe El Zapote",
+      "postal_code": [
+        "30165"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Guadalupe Yalixhao",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Jose Maria Morelos",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Juan Sabines Gutierrez",
+      "postal_code": [
+        "30165"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Juncana",
+      "postal_code": [
+        "30162"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "La Campana",
+      "postal_code": [
+        "30166"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "La Estacion",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Las Cumbres",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Las delicias",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "La Trinitaria",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Los Ocotes",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Los Vertientes",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Michoacan",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Nueva Libertad (El Colorado)",
+      "postal_code": [
+        "30165"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Nuevo Llano Grande",
+      "postal_code": [
+        "30165"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Nuevo Saltillo",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Nuevo Villaflores",
+      "postal_code": [
+        "30165"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Pajulular",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Pamala",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Pozo Blanco",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Rio Grande el Grijalva",
+      "postal_code": [
+        "30165"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Rodulfo Figueroa",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Ruben Jaramillo",
+      "postal_code": [
+        "30166"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "San Antonio Tzalani",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "San Caralampio Monte Palido",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "San Diego",
+      "postal_code": [
+        "30162"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "San Francisco de Asis",
+      "postal_code": [
+        "30166"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "San Jose",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "San Juan del Valle",
+      "postal_code": [
+        "30165"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "30166"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "San Pedro el Porvenir",
+      "postal_code": [
+        "30164"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Santa Martha",
+      "postal_code": [
+        "30166"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Trece de Septiembre",
+      "postal_code": [
+        "30166"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Tres Arbolitos",
+      "postal_code": [
+        "30167"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Tziscao",
+      "postal_code": [
+        "30160"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Union Juarez",
+      "postal_code": [
+        "30162"
+      ]
+    },
+    {
+      "city": "La Trinitaria",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "30160"
+      ]
+    }
+  ]
+}

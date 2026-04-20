@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Miguel Quetzaltepec",
+      "colonia": "Chuxnaban Quetzaltepec",
+      "postal_code": [
+        "70289"
+      ]
+    },
+    {
+      "city": "San Miguel Quetzaltepec",
+      "colonia": "San Miguel Quetzaltepec",
+      "postal_code": [
+        "70288"
+      ]
+    },
+    {
+      "city": "San Miguel Quetzaltepec",
+      "colonia": "Santa Cruz Condoy",
+      "postal_code": [
+        "70289"
+      ]
+    }
+  ]
+}

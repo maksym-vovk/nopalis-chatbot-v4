@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Pedro Yolox",
+      "colonia": "Rosario Temextitlan",
+      "postal_code": [
+        "68708"
+      ]
+    },
+    {
+      "city": "San Pedro Yolox",
+      "colonia": "San Francisco la Reforma",
+      "postal_code": [
+        "68708"
+      ]
+    },
+    {
+      "city": "San Pedro Yolox",
+      "colonia": "San Pedro Yolox",
+      "postal_code": [
+        "68707"
+      ]
+    }
+  ]
+}

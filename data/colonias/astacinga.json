@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Astacinga",
+      "colonia": "Acatitla",
+      "postal_code": [
+        "94815"
+      ]
+    },
+    {
+      "city": "Astacinga",
+      "colonia": "Astacinga",
+      "postal_code": [
+        "94810"
+      ]
+    },
+    {
+      "city": "Astacinga",
+      "colonia": "Huapango",
+      "postal_code": [
+        "94813"
+      ]
+    }
+  ]
+}

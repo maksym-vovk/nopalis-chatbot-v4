@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "city": "San Jose Chiapa",
+      "colonia": "La Purisima",
+      "postal_code": [
+        "75014"
+      ]
+    },
+    {
+      "city": "San Jose Chiapa",
+      "colonia": "Nuevo Vicencio",
+      "postal_code": [
+        "75014"
+      ]
+    },
+    {
+      "city": "San Jose Chiapa",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "75014"
+      ]
+    },
+    {
+      "city": "San Jose Chiapa",
+      "colonia": "San Isidro Ovando",
+      "postal_code": [
+        "75016"
+      ]
+    },
+    {
+      "city": "San Jose Chiapa",
+      "colonia": "San Jose de Chiapa",
+      "postal_code": [
+        "75010"
+      ]
+    },
+    {
+      "city": "San Jose Chiapa",
+      "colonia": "San Jose Ozumba",
+      "postal_code": [
+        "75010"
+      ]
+    },
+    {
+      "city": "San Jose Chiapa",
+      "colonia": "San Juan Bautista",
+      "postal_code": [
+        "75014"
+      ]
+    },
+    {
+      "city": "San Jose Chiapa",
+      "colonia": "Vicencio Toros Bravos",
+      "postal_code": [
+        "75012"
+      ]
+    },
+    {
+      "city": "San Jose Chiapa",
+      "colonia": "Zona Industrial AUDI",
+      "postal_code": [
+        "75012"
+      ]
+    }
+  ]
+}

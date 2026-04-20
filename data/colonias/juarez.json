@@ -1,0 +1,9599 @@
+{
+  "data": [
+    {
+      "city": "Juarez",
+      "colonia": "Agua de la Piedra",
+      "postal_code": [
+        "61573"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "61570"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Buenavista de Zapata (El Atoron)",
+      "postal_code": [
+        "61575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "61570"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerro Colorado",
+      "postal_code": [
+        "61575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Dos Rios",
+      "postal_code": [
+        "61578"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Aguaje",
+      "postal_code": [
+        "61573"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Aventurero",
+      "postal_code": [
+        "61577"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El CBTA",
+      "postal_code": [
+        "61573"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Limoncito",
+      "postal_code": [
+        "61573"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Llano",
+      "postal_code": [
+        "61577"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Tanque",
+      "postal_code": [
+        "61570"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Enandio",
+      "postal_code": [
+        "61578"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Guanoro",
+      "postal_code": [
+        "61578"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Irapeo de Madero",
+      "postal_code": [
+        "61586"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines del Rincon",
+      "postal_code": [
+        "61570"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Empacadora",
+      "postal_code": [
+        "61575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "61578"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Landero",
+      "postal_code": [
+        "61577"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Parota",
+      "postal_code": [
+        "61580"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Canchas",
+      "postal_code": [
+        "61570"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Carretas",
+      "postal_code": [
+        "61570",
+        "61575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Ceibillas",
+      "postal_code": [
+        "61583"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Charcas",
+      "postal_code": [
+        "61570"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Mesitas",
+      "postal_code": [
+        "61578"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "61570"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "61573"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lopez Rios (Casa de Piedra Dos)",
+      "postal_code": [
+        "61573"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Tepetates",
+      "postal_code": [
+        "61570"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Viveros",
+      "postal_code": [
+        "61570"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "61575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Orocutin de Serdan",
+      "postal_code": [
+        "61583"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paricuaro",
+      "postal_code": [
+        "61580"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Puerto de los Laureles",
+      "postal_code": [
+        "61578"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Puerto de Timbuscatio (La Alcantarilla)",
+      "postal_code": [
+        "61583"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rodeo",
+      "postal_code": [
+        "61587"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Santa Ana de Guerrero (El Cascabel)",
+      "postal_code": [
+        "61573"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "61575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "61583"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Timbuscatio",
+      "postal_code": [
+        "61585"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Trincheras",
+      "postal_code": [
+        "61578"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Zicata Chico (Zicata Chico de Morelos)",
+      "postal_code": [
+        "61577"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Zicata de Morelos (Zicata Grande de Morelos)",
+      "postal_code": [
+        "61578"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "10 de Mayo",
+      "postal_code": [
+        "67286"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "20 de Septiembre",
+      "postal_code": [
+        "67260"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Alborada",
+      "postal_code": [
+        "67280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Allegra Valle Condesa I",
+      "postal_code": [
+        "67294"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Allegra Valle Condesa II",
+      "postal_code": [
+        "67294"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "America Unida",
+      "postal_code": [
+        "67277"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Anzures",
+      "postal_code": [
+        "67258"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Anzures Ventura",
+      "postal_code": [
+        "67258"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Arboledas de los Naranjos",
+      "postal_code": [
+        "67280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Arboledas del Parque",
+      "postal_code": [
+        "67262"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Arboledas de San Roque",
+      "postal_code": [
+        "67280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Arcadia",
+      "postal_code": [
+        "67286"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Arcos de Zirandaro",
+      "postal_code": [
+        "67277"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Aurora",
+      "postal_code": [
+        "67280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Balcones de Zirandaro",
+      "postal_code": [
+        "67277"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Bosques de la Silla (Santa Ana de Abajo)",
+      "postal_code": [
+        "67298"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Bosques del Seminario",
+      "postal_code": [
+        "67265"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Bosques de San Pedro",
+      "postal_code": [
+        "67286"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Bosques de San Roque",
+      "postal_code": [
+        "67280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Calderon",
+      "postal_code": [
+        "67257"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cardel",
+      "postal_code": [
+        "67276"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Carricitos",
+      "postal_code": [
+        "67298"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Centro Habitacional Burocratas de Guadalupe",
+      "postal_code": [
+        "67276"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerradas del Rey",
+      "postal_code": [
+        "67277"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerradas Diamante",
+      "postal_code": [
+        "67255"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerro de La Silla",
+      "postal_code": [
+        "67276"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ciudad Benito Juarez Centro",
+      "postal_code": [
+        "67250"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Coahuila",
+      "postal_code": [
+        "67257"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Colinas del Rio",
+      "postal_code": [
+        "67269"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Colinas Del Sol",
+      "postal_code": [
+        "67257"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Colinas Del Vergel",
+      "postal_code": [
+        "67265"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Colinas de San Juan",
+      "postal_code": [
+        "67262"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Contessa",
+      "postal_code": [
+        "67294"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cristales de San Roque",
+      "postal_code": [
+        "67280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Dalias Residencial",
+      "postal_code": [
+        "67294"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Dieciseis de Septiembre",
+      "postal_code": [
+        "67293"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Doce de Octubre",
+      "postal_code": [
+        "67262"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ejido Juarez",
+      "postal_code": [
+        "67256"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Ancon",
+      "postal_code": [
+        "67267"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Campanario",
+      "postal_code": [
+        "67298"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "67266"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Sabinal",
+      "postal_code": [
+        "67257"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ex Hacienda el Rosario",
+      "postal_code": [
+        "67288"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ex Hacienda el Rosario Sector Diamante",
+      "postal_code": [
+        "67288"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Fomerrey 131",
+      "postal_code": [
+        "67260"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Fuente de Piedra",
+      "postal_code": [
+        "67262"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Fuentes de Juarez",
+      "postal_code": [
+        "67267"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Fuentes del Seminario",
+      "postal_code": [
+        "67280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Gardenias",
+      "postal_code": [
+        "67276"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Garza y Garza",
+      "postal_code": [
+        "67267"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda de Juarez",
+      "postal_code": [
+        "67267"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda de Villa de Juarez",
+      "postal_code": [
+        "67267"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda Escondida",
+      "postal_code": [
+        "67265"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda La Morena",
+      "postal_code": [
+        "67262"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda los Laureles",
+      "postal_code": [
+        "67286"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda Rancho Viejo",
+      "postal_code": [
+        "67280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda Real",
+      "postal_code": [
+        "67266"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda San Benito",
+      "postal_code": [
+        "67267"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda San Jose",
+      "postal_code": [
+        "67250"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda San Marcos",
+      "postal_code": [
+        "67276"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda Santa Lucia",
+      "postal_code": [
+        "67250"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hector Caballero",
+      "postal_code": [
+        "67275"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Heroe de Nacozari",
+      "postal_code": [
+        "67288"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "INFONAVIT Benito Juarez",
+      "postal_code": [
+        "67253"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "INFONAVIT Francisco Villa",
+      "postal_code": [
+        "67267"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "INFONAVIT Valle del Oriente",
+      "postal_code": [
+        "67267"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ismael Flores",
+      "postal_code": [
+        "67262"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines de la Silla (Jardines)",
+      "postal_code": [
+        "67287"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines de Villa Juarez",
+      "postal_code": [
+        "67267"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Joyas de San Roque",
+      "postal_code": [
+        "67257"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Cienega (La Cieneguita)",
+      "postal_code": [
+        "67298"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Ciudadela",
+      "postal_code": [
+        "67265"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Ciudadela Sector Real de San Jose",
+      "postal_code": [
+        "67254"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Ciudadela Sector Villas de San Juan",
+      "postal_code": [
+        "67254"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Laderas de la Silla",
+      "postal_code": [
+        "67286"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "67267"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "67275"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lagos de Zirandaro",
+      "postal_code": [
+        "67277"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Lobita",
+      "postal_code": [
+        "67298"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Luz (La Posta)",
+      "postal_code": [
+        "67262"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Maestranza",
+      "postal_code": [
+        "67286"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Paz (Camino a la Paz)",
+      "postal_code": [
+        "67266"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Querencia Residencial",
+      "postal_code": [
+        "67288"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las aguilas",
+      "postal_code": [
+        "67257"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Bugambilias",
+      "postal_code": [
+        "67276"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Concordias",
+      "postal_code": [
+        "67275"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Espinas",
+      "postal_code": [
+        "67286"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Lomas",
+      "postal_code": [
+        "67265"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Lomas Residencial",
+      "postal_code": [
+        "67257"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "67269"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Quintas Residencial",
+      "postal_code": [
+        "67265"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Sabinas",
+      "postal_code": [
+        "67257"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Sabinitas",
+      "postal_code": [
+        "67257"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Toscana",
+      "postal_code": [
+        "67258"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "67286"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lomas Anzures",
+      "postal_code": [
+        "67258"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lomas de Cordoba",
+      "postal_code": [
+        "67275"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lomas de Fatima",
+      "postal_code": [
+        "67258"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lomas de los Naranjos",
+      "postal_code": [
+        "67288"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lomas Del Sol",
+      "postal_code": [
+        "67254"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lomas de Santa Monica I",
+      "postal_code": [
+        "67286"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lomas de Santa Monica II",
+      "postal_code": [
+        "67286"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Agaves",
+      "postal_code": [
+        "67275"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Alcatraces",
+      "postal_code": [
+        "67254"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Arcos",
+      "postal_code": [
+        "67279"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Canelos",
+      "postal_code": [
+        "67296"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Cantaros",
+      "postal_code": [
+        "67266"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Cometas",
+      "postal_code": [
+        "67280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Encinos",
+      "postal_code": [
+        "67275"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Huertos",
+      "postal_code": [
+        "67265"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "67288"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Puertos",
+      "postal_code": [
+        "67258"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Puertos Cuarto Sector",
+      "postal_code": [
+        "67258"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Puertos Tercer Sector",
+      "postal_code": [
+        "67258"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Rehiletes",
+      "postal_code": [
+        "67286"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "67277"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Valles",
+      "postal_code": [
+        "67280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Valles Segundo Sector",
+      "postal_code": [
+        "67280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Mirador de la Montana",
+      "postal_code": [
+        "67254"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Mirador del Parque",
+      "postal_code": [
+        "67254"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Mirador del Rio",
+      "postal_code": [
+        "67267"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Mirador San Antonio",
+      "postal_code": [
+        "67255"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Monte Alto",
+      "postal_code": [
+        "67288"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Montebello",
+      "postal_code": [
+        "67280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Monte Kristal",
+      "postal_code": [
+        "67280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Monte Kristal Cuarto Sector",
+      "postal_code": [
+        "67280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Monte Verde",
+      "postal_code": [
+        "67257"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Napoles",
+      "postal_code": [
+        "67258"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Navara",
+      "postal_code": [
+        "67266"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Palos Altos",
+      "postal_code": [
+        "67290"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paraje Juarez",
+      "postal_code": [
+        "67265"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseo Andaluz",
+      "postal_code": [
+        "67260"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseo de Acueducto Juarez",
+      "postal_code": [
+        "67288"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseo de la Rivera",
+      "postal_code": [
+        "67267"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseo de las Lomas",
+      "postal_code": [
+        "67260"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseo de las Margaritas",
+      "postal_code": [
+        "67269"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseo Del Prado",
+      "postal_code": [
+        "67275"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseo Santa Fe",
+      "postal_code": [
+        "67260"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Pedregal Santa Monica",
+      "postal_code": [
+        "67286"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Portal de Juarez",
+      "postal_code": [
+        "67266"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Portal de San Roberto",
+      "postal_code": [
+        "67266"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Portal de San Roque",
+      "postal_code": [
+        "67277"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Portal de Vaquerias",
+      "postal_code": [
+        "67280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Praderas de Oriente",
+      "postal_code": [
+        "67265"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Praderas de San Juan",
+      "postal_code": [
+        "67267"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Prados de San Roque",
+      "postal_code": [
+        "67277"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Privada Jardin Residencial",
+      "postal_code": [
+        "67287"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Privada San Fernando",
+      "postal_code": [
+        "67256"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Privada San Roque",
+      "postal_code": [
+        "67277"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Privadas de la Silla",
+      "postal_code": [
+        "67286"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Privadas del Bosque",
+      "postal_code": [
+        "67286"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Privadas de San Mateo",
+      "postal_code": [
+        "67265"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Privadas los Cyranos",
+      "postal_code": [
+        "67265"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Privadas los ebanos",
+      "postal_code": [
+        "67265"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Privadas Ocania",
+      "postal_code": [
+        "67267"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Privadas Sierra Morena",
+      "postal_code": [
+        "67257"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Privada Veralta",
+      "postal_code": [
+        "67254"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Privada Via Siete",
+      "postal_code": [
+        "67289"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Punta Esmeralda Sur",
+      "postal_code": [
+        "67289"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Quinta las Sabinas",
+      "postal_code": [
+        "67257"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rancho del Abuelo",
+      "postal_code": [
+        "67290"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rancho el ebano",
+      "postal_code": [
+        "67286"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "67288"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Reforma",
+      "postal_code": [
+        "67257"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Reforma Guadalupe",
+      "postal_code": [
+        "67257"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Reserva de San Roque",
+      "postal_code": [
+        "67277"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial los Huertos",
+      "postal_code": [
+        "67265"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Punta Esmeralda",
+      "postal_code": [
+        "67257"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Santa Julia",
+      "postal_code": [
+        "67276"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Terranova",
+      "postal_code": [
+        "67267"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Riberas de la Morena",
+      "postal_code": [
+        "67254"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Riberas de Santa Maria",
+      "postal_code": [
+        "67253"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "67287"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rinconada San Juan",
+      "postal_code": [
+        "67254"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincon del Parque",
+      "postal_code": [
+        "67269"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Riviera del Sol",
+      "postal_code": [
+        "67275"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Salvador Chavez Mora",
+      "postal_code": [
+        "67286"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "67259"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Cristobal",
+      "postal_code": [
+        "67256"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "67280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Jose",
+      "postal_code": [
+        "67262"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Juan",
+      "postal_code": [
+        "67275"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Mateo",
+      "postal_code": [
+        "67296"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Miguelito",
+      "postal_code": [
+        "67266"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Patricio y Alba",
+      "postal_code": [
+        "67266"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "67286"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Roque",
+      "postal_code": [
+        "67280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Santa Ana de Arriba",
+      "postal_code": [
+        "67290"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Santa Isabel",
+      "postal_code": [
+        "67288"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "67262"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Santa Monica",
+      "postal_code": [
+        "67286"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Sierra Vista",
+      "postal_code": [
+        "67288"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Sinai Residencial",
+      "postal_code": [
+        "67257"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Sol Residencial",
+      "postal_code": [
+        "67276"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Sol Residencial II Sector",
+      "postal_code": [
+        "67277"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "URBI Villa del Real",
+      "postal_code": [
+        "67256"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle Condesa I",
+      "postal_code": [
+        "67294"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle Condesa II",
+      "postal_code": [
+        "67294"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle Condesa III",
+      "postal_code": [
+        "67294"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle de Juarez",
+      "postal_code": [
+        "67289"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle de la Silla",
+      "postal_code": [
+        "67286"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle del Seminario",
+      "postal_code": [
+        "67266"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle Del Virrey",
+      "postal_code": [
+        "67257"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle de Vaquerias",
+      "postal_code": [
+        "67280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle Real",
+      "postal_code": [
+        "67280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle Santa Isabel",
+      "postal_code": [
+        "67256"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle Sur",
+      "postal_code": [
+        "67280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villa Alborada",
+      "postal_code": [
+        "67266"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villa los Arcos",
+      "postal_code": [
+        "67279"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villa los Naranjos",
+      "postal_code": [
+        "67288"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villa Luz",
+      "postal_code": [
+        "67275"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villa San Francisco",
+      "postal_code": [
+        "67276"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas Anzures",
+      "postal_code": [
+        "67258"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas de la Hacienda",
+      "postal_code": [
+        "67288"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas de Oriente",
+      "postal_code": [
+        "67267"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas de San Antonio",
+      "postal_code": [
+        "67262"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas de San Jose",
+      "postal_code": [
+        "67254"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villaterra",
+      "postal_code": [
+        "67294"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Vistas del Rio",
+      "postal_code": [
+        "67267"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Vistas del Seminario",
+      "postal_code": [
+        "67280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Vistas de San Juan",
+      "postal_code": [
+        "67266"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Viviendas Magdalena",
+      "postal_code": [
+        "67280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Zirandaro",
+      "postal_code": [
+        "67277"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Allende",
+      "postal_code": [
+        "29515"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Belisario Dominguez",
+      "postal_code": [
+        "29510"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Huapaque 1a Seccion",
+      "postal_code": [
+        "29518"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Huapaque 2a Seccion",
+      "postal_code": [
+        "29518"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "29518"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "29519"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Triunfo 1a Seccion",
+      "postal_code": [
+        "29510"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Triunfo 2da. Seccion",
+      "postal_code": [
+        "29516"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Galeana 1a Seccion",
+      "postal_code": [
+        "29510"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Galeana 2a Seccion",
+      "postal_code": [
+        "29510"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "29514"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Juarez Centro",
+      "postal_code": [
+        "29510"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Arena",
+      "postal_code": [
+        "29517"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Libertad",
+      "postal_code": [
+        "29516"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Mario Aguilera Dorantes",
+      "postal_code": [
+        "29518"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Morelos",
+      "postal_code": [
+        "29510"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Nicolas Bravo",
+      "postal_code": [
+        "29517"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Nuevo Mundo",
+      "postal_code": [
+        "29518"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Nuevo Mundo de Abajo",
+      "postal_code": [
+        "29514"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Nuevo Mundo de Arriba",
+      "postal_code": [
+        "29514"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Nuevo Progreso",
+      "postal_code": [
+        "29510"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Nuevo Volcan Chichonal",
+      "postal_code": [
+        "29517"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Palestina",
+      "postal_code": [
+        "29510"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Juanito",
+      "postal_code": [
+        "29510"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "29518"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Santa Cruz Tepate Abajo",
+      "postal_code": [
+        "29519"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Santa Teresa 1a Secc",
+      "postal_code": [
+        "29510"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Santa Teresa 2a Secc",
+      "postal_code": [
+        "29510"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Santa Teresa 3a Secc",
+      "postal_code": [
+        "29510"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Tecpate Abajo",
+      "postal_code": [
+        "29519"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Tecpate Arriba",
+      "postal_code": [
+        "29519"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Vida Mejor",
+      "postal_code": [
+        "29510"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Don Martin",
+      "postal_code": [
+        "25410"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Cuarenta y Cinco",
+      "postal_code": [
+        "25419"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Juarez",
+      "postal_code": [
+        "25400"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "25418"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Seccion 22-0",
+      "postal_code": [
+        "25419"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "12 de Julio",
+      "postal_code": [
+        "32674"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "15 de Enero",
+      "postal_code": [
+        "32696"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "15 de Mayo",
+      "postal_code": [
+        "32573"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "16 de Septiembre",
+      "postal_code": [
+        "32210"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "1 de Mayo",
+      "postal_code": [
+        "32670"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "1 de Septiembre",
+      "postal_code": [
+        "32676"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "1 de Septiembre Ampliacion",
+      "postal_code": [
+        "32676"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "2da. Burocrata",
+      "postal_code": [
+        "32340"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "3 Jacales",
+      "postal_code": [
+        "32724"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "3ra. Burocrata",
+      "postal_code": [
+        "32360"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "5 de Mayo",
+      "postal_code": [
+        "32620"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "6 de Enero",
+      "postal_code": [
+        "32676"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "6 de Mayo",
+      "postal_code": [
+        "32670"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "9 de Septiembre (CDP)",
+      "postal_code": [
+        "32629"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Abitalia Residencial",
+      "postal_code": [
+        "32545"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Acacias",
+      "postal_code": [
+        "32630"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Acento Residencial",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Acequias del Sur",
+      "postal_code": [
+        "32618"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Adicion Campestre",
+      "postal_code": [
+        "32505"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "32220"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Adriana",
+      "postal_code": [
+        "32350"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Aeropuerto",
+      "postal_code": [
+        "32690"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Aeropuerto Ampliacion",
+      "postal_code": [
+        "32690"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Agricola Emiliano Zapata",
+      "postal_code": [
+        "32675"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "aguilas",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "aguilas de Zaragoza",
+      "postal_code": [
+        "32599",
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Agustin Melgar",
+      "postal_code": [
+        "32380"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Alameda",
+      "postal_code": [
+        "32400"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "alamos de San Lorenzo",
+      "postal_code": [
+        "32340"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "alamos de Senecu",
+      "postal_code": [
+        "32472"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Alcazar Capri I",
+      "postal_code": [
+        "32545"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Alcazar Capri II",
+      "postal_code": [
+        "32545"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Alejandria Residencial",
+      "postal_code": [
+        "32616"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Alfa",
+      "postal_code": [
+        "32317"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Alondra",
+      "postal_code": [
+        "32405"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Altamira",
+      "postal_code": [
+        "32617"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Altavista",
+      "postal_code": [
+        "32120",
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Alto",
+      "postal_code": [
+        "32160"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Altozano el Nuevo Juarez",
+      "postal_code": [
+        "32594"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Alvaro Obregon",
+      "postal_code": [
+        "32220"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Amanda",
+      "postal_code": [
+        "32370"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Americano",
+      "postal_code": [
+        "32675"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Americas",
+      "postal_code": [
+        "32300"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ampliacion 16 de Septiembre",
+      "postal_code": [
+        "32217"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Anahuac",
+      "postal_code": [
+        "32240"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Andrea",
+      "postal_code": [
+        "32320"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Andres Figueroa",
+      "postal_code": [
+        "32650"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Anglia Residencial",
+      "postal_code": [
+        "32459"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Anita",
+      "postal_code": [
+        "32471"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Antares",
+      "postal_code": [
+        "32409"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Anzures",
+      "postal_code": [
+        "32350"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Arboleda",
+      "postal_code": [
+        "32409"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Arboleda San Fernando",
+      "postal_code": [
+        "32409"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Arboledas de Senecu",
+      "postal_code": [
+        "32459"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Arciniega",
+      "postal_code": [
+        "32390"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Arcoiris",
+      "postal_code": [
+        "32423"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Arecas",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Arecco",
+      "postal_code": [
+        "32380"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Aria",
+      "postal_code": [
+        "32544"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Arroyo Colorado",
+      "postal_code": [
+        "32140"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Arroyo del Paraiso",
+      "postal_code": [
+        "32545"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Arturo Gamiz",
+      "postal_code": [
+        "32663"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Asturias",
+      "postal_code": [
+        "32398"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Asturias (Hacienda de las Torres Universidad)",
+      "postal_code": [
+        "32576"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Atenas",
+      "postal_code": [
+        "32519"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Atenas II",
+      "postal_code": [
+        "32370"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Aurea Residencial",
+      "postal_code": [
+        "32659"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Aurora",
+      "postal_code": [
+        "32350"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Avinon",
+      "postal_code": [
+        "32460"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Azteca",
+      "postal_code": [
+        "32280",
+        "32280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Azul",
+      "postal_code": [
+        "32590"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Balanca Residencial",
+      "postal_code": [
+        "32500"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Banus 360",
+      "postal_code": [
+        "32544"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Barcena Residencial",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Barrio Hierro",
+      "postal_code": [
+        "32410"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Barrio Nuevo",
+      "postal_code": [
+        "32675"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Belisa Residencial",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Bella Provincia",
+      "postal_code": [
+        "32234"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Bella Vista",
+      "postal_code": [
+        "32130"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Bello Horizonte",
+      "postal_code": [
+        "32675"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "32270",
+        "32390"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Bilbao (Hacienda de las Torres Universidad)",
+      "postal_code": [
+        "32576"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Boca del Rio",
+      "postal_code": [
+        "32594"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Bonanza Residencial",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Bosque Bonito",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Bosques del Sol",
+      "postal_code": [
+        "32617"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Bosques del Valle",
+      "postal_code": [
+        "32538"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Bosques de Maple",
+      "postal_code": [
+        "32402"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Bosques de Salvarcar",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Bosques de San Jose",
+      "postal_code": [
+        "32538"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Bosques de Santa Fe",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Bosques de Senecu",
+      "postal_code": [
+        "32459"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Bosques de Sicomoro",
+      "postal_code": [
+        "32349"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Bosques de Waterfill",
+      "postal_code": [
+        "32560"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Bosques Residencial",
+      "postal_code": [
+        "32563"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Brio Residencial",
+      "postal_code": [
+        "32674"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Buendia",
+      "postal_code": [
+        "32653"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Buendia (San Antonio)",
+      "postal_code": [
+        "32250"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "32590"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "32040"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Burocrata",
+      "postal_code": [
+        "32330"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Burocrata Municipal",
+      "postal_code": [
+        "32234"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Calzada del Sol",
+      "postal_code": [
+        "32472"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Camino Real",
+      "postal_code": [
+        "32505"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Campestre",
+      "postal_code": [
+        "32460"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Campestre Ampliacion",
+      "postal_code": [
+        "32469"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Campestre Arboleda",
+      "postal_code": [
+        "32409"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Campestre las Palmas",
+      "postal_code": [
+        "32457"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Campestre Maria Isabel",
+      "postal_code": [
+        "32409"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Campestre Primavera",
+      "postal_code": [
+        "32460"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Campestre San Marcos",
+      "postal_code": [
+        "32435"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Campestre Sur",
+      "postal_code": [
+        "32545"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Campestre Virreyes",
+      "postal_code": [
+        "32694"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Campos Eliseos",
+      "postal_code": [
+        "32472"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cantares Residencial",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Canto de Calabria",
+      "postal_code": [
+        "32540"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Canto de Catania",
+      "postal_code": [
+        "32540"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Canto de Murano",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Canto de Toscana",
+      "postal_code": [
+        "32540"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Canto de Verona",
+      "postal_code": [
+        "32540"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Capistrano",
+      "postal_code": [
+        "32340"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Carlos Castillo Peraza",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Carlos Chavira Becerra",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Casitas de Satelite",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Catalan",
+      "postal_code": [
+        "32300"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cazadores Juarenses",
+      "postal_code": [
+        "32110"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Centro",
+      "postal_code": [
+        "32000"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Centro Industrial Juarez",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "CERESO",
+      "postal_code": [
+        "32675"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerrada Abedul",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerrada Andaluz",
+      "postal_code": [
+        "32472"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerrada Arboledas",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerrada Basalto",
+      "postal_code": [
+        "32540"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerrada de los Cipreses",
+      "postal_code": [
+        "32565"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerrada del Sol",
+      "postal_code": [
+        "32472"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerrada del Valle",
+      "postal_code": [
+        "32553"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerrada de San Pedro",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerrada de Tarso",
+      "postal_code": [
+        "32560"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerrada Florencia",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerrada Galena",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerrada los Olivos",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerrada Norte",
+      "postal_code": [
+        "32472"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerrada San angel",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerradas del Alamo",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerradas del alamo 2",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerradas del Sur",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerradas de Oriente I",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerradas de Oriente II",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerradas San Mateo",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerradas Santa Isabel",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerrada Strana",
+      "postal_code": [
+        "32563"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerrada Troja",
+      "postal_code": [
+        "32563"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerrada Turquesa",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cerrada Vinedos",
+      "postal_code": [
+        "32472"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Chamizal",
+      "postal_code": [
+        "32300"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Chavena",
+      "postal_code": [
+        "32060"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Chavez-Vargas",
+      "postal_code": [
+        "32663"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Che Guevara",
+      "postal_code": [
+        "32625"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Chihuahua",
+      "postal_code": [
+        "32389"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Chihuahua (Norponiente)",
+      "postal_code": [
+        "32180"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cibeles",
+      "postal_code": [
+        "32616"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cielo Vista",
+      "postal_code": [
+        "32665"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cienega Residencial",
+      "postal_code": [
+        "32685"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ciudad Moderna",
+      "postal_code": [
+        "32670"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ciudad Rio Bravo",
+      "postal_code": [
+        "32550"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Club Britania",
+      "postal_code": [
+        "32459"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Colegio",
+      "postal_code": [
+        "32340"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Colinas de Juarez",
+      "postal_code": [
+        "32680"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Colinas del Desierto",
+      "postal_code": [
+        "32696"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Colinas del Norte",
+      "postal_code": [
+        "32674"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Colinas del Sol",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Colinas del Sur",
+      "postal_code": [
+        "32670"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Colonial",
+      "postal_code": [
+        "32469"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Colonial del Sur",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Colonial del Valle",
+      "postal_code": [
+        "32553"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Coloso",
+      "postal_code": [
+        "32663"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Complejo Cielo",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Complejo R",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Condesa",
+      "postal_code": [
+        "32320"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Condominio Privado",
+      "postal_code": [
+        "32459"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Conjunto Habitacional Aeropuerto",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Constitucion",
+      "postal_code": [
+        "32260"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Constituyentes",
+      "postal_code": [
+        "32670"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Consumidor",
+      "postal_code": [
+        "32140"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Continental I",
+      "postal_code": [
+        "32616"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Continental II",
+      "postal_code": [
+        "32616"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cordova Americas",
+      "postal_code": [
+        "32310"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Corredor Controlado Reginal",
+      "postal_code": [
+        "32675"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Corregidora",
+      "postal_code": [
+        "32080"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Costa Rica (Panama)",
+      "postal_code": [
+        "32330"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Country Nogal",
+      "postal_code": [
+        "32472"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Country Raquet Club",
+      "postal_code": [
+        "32469"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Creta Residencial",
+      "postal_code": [
+        "32617"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Crucero",
+      "postal_code": [
+        "32500",
+        "32509"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "32010"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "CU (Ciudad Universitaria)",
+      "postal_code": [
+        "32579"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cuernavaca",
+      "postal_code": [
+        "32520"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Cumbres",
+      "postal_code": [
+        "32650"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Dalia Residencial",
+      "postal_code": [
+        "32310"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Del Agua",
+      "postal_code": [
+        "32500"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Del Bravo",
+      "postal_code": [
+        "32424"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Del Carmen",
+      "postal_code": [
+        "32160"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Del Encino",
+      "postal_code": [
+        "32389"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Del Futuro",
+      "postal_code": [
+        "32320"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Del Maestro",
+      "postal_code": [
+        "32280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Del Maestro (Deportiva)",
+      "postal_code": [
+        "32330"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Del Marquez",
+      "postal_code": [
+        "32607"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "De los Mecanicos",
+      "postal_code": [
+        "32688"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Del Palmar",
+      "postal_code": [
+        "32652"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Del Real",
+      "postal_code": [
+        "32660"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Del Safari 1",
+      "postal_code": [
+        "32675"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Del Safari II",
+      "postal_code": [
+        "32675"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Del Solar",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Del Valle",
+      "postal_code": [
+        "32430"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Demetrio Flores",
+      "postal_code": [
+        "32550"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Desarrollo Salvacar",
+      "postal_code": [
+        "32573"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Dinamarca",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Distrito Brescia",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Distrito Soho",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Division del Norte",
+      "postal_code": [
+        "32620",
+        "32670"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Don Julio",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Dunas Residencial",
+      "postal_code": [
+        "32415"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Durango",
+      "postal_code": [
+        "32160"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Eco 2000",
+      "postal_code": [
+        "32574"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Edificio Cartagena",
+      "postal_code": [
+        "32260"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Educacion",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ejercito Mexicano Ciudad Juarez",
+      "postal_code": [
+        "32675"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ejido Sauzal",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Barreal",
+      "postal_code": [
+        "32040"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Campanario",
+      "postal_code": [
+        "32376"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Campanario 4 Siglos",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Chamizal (Ampliacion San Isidro)",
+      "postal_code": [
+        "32720"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Cid",
+      "postal_code": [
+        "32538"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Colorin",
+      "postal_code": [
+        "32389"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Dorado",
+      "postal_code": [
+        "32330",
+        "32330"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Electricistas",
+      "postal_code": [
+        "32280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Fortin",
+      "postal_code": [
+        "32598"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Granjero",
+      "postal_code": [
+        "32690"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Marmol",
+      "postal_code": [
+        "32675"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Mezquital",
+      "postal_code": [
+        "32576"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Millon",
+      "postal_code": [
+        "32725"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Papalote",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "32408"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Paseo",
+      "postal_code": [
+        "32390"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Pensamiento",
+      "postal_code": [
+        "32563"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Portal",
+      "postal_code": [
+        "32370"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Roble",
+      "postal_code": [
+        "32390"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Sauzal",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "El Vergel",
+      "postal_code": [
+        "32658"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "32210",
+        "32320"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Era del Valle",
+      "postal_code": [
+        "32528",
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Era de San Lorenzo",
+      "postal_code": [
+        "32439"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Erendira",
+      "postal_code": [
+        "32662"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Estacion Mendez",
+      "postal_code": [
+        "32675"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Estrella del Poniente",
+      "postal_code": [
+        "32180"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Excelencia",
+      "postal_code": [
+        "32417"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ex Hipodromo",
+      "postal_code": [
+        "32330"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Felipe angeles",
+      "postal_code": [
+        "32100"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Felipe angeles Ampliacion",
+      "postal_code": [
+        "32109"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Fernando Baeza M.",
+      "postal_code": [
+        "32587"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Fidel avila",
+      "postal_code": [
+        "32540"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Florecillas",
+      "postal_code": [
+        "32560"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Florencia",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Floresta",
+      "postal_code": [
+        "32617"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Floresta de San Jose",
+      "postal_code": [
+        "32534"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "FOVISSSTE Chamizal",
+      "postal_code": [
+        "32310"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "FOVISSSTE Sur",
+      "postal_code": [
+        "32360"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Foxconn",
+      "postal_code": [
+        "32703"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "32170"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Francisco Sarabia",
+      "postal_code": [
+        "32150"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Francisco Villa (Norponiente)",
+      "postal_code": [
+        "32110"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Franja del Rio",
+      "postal_code": [
+        "32108"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Fray Garcia de San Francisco",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Frida Kahlo",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Frontera",
+      "postal_code": [
+        "32427"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Fronteriza",
+      "postal_code": [
+        "32180"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Fronteriza Ampliacion",
+      "postal_code": [
+        "32215"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Fuentes Copilco",
+      "postal_code": [
+        "32370"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Fuentes de los Nogales",
+      "postal_code": [
+        "32380"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Fuentes del Seminario",
+      "postal_code": [
+        "32538"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Fuentes del Valle",
+      "postal_code": [
+        "32500"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Fundidora",
+      "postal_code": [
+        "32630"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Gaby",
+      "postal_code": [
+        "32398"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Gardeno",
+      "postal_code": [
+        "32668"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Genova",
+      "postal_code": [
+        "32401",
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Girasoles",
+      "postal_code": [
+        "32534"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Granada (Hacienda de las Torres Universidad)",
+      "postal_code": [
+        "32576"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Granjas de Chapultepec",
+      "postal_code": [
+        "32677"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Granjas del Desierto",
+      "postal_code": [
+        "32675"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Granjas el Progreso",
+      "postal_code": [
+        "32675"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Granjas los Alcaldes",
+      "postal_code": [
+        "32587"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Granjas Polo Gamboa",
+      "postal_code": [
+        "32674"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Granjas San Rafael",
+      "postal_code": [
+        "32675"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Granjas Santa Elena",
+      "postal_code": [
+        "32674"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Granjas Unidas",
+      "postal_code": [
+        "32676"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Gregorio M. Solis",
+      "postal_code": [
+        "32160"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Guadalajara",
+      "postal_code": [
+        "32220"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Gustavo Diaz Ordaz",
+      "postal_code": [
+        "32220"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Habitad del Rio",
+      "postal_code": [
+        "32408"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda",
+      "postal_code": [
+        "32505"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda de Aragon",
+      "postal_code": [
+        "32537"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda de la Paloma",
+      "postal_code": [
+        "32545"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda de las Torres",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda de las Torres Universidad",
+      "postal_code": [
+        "32576"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda de los Nogales",
+      "postal_code": [
+        "32472"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda del Rosario",
+      "postal_code": [
+        "32507"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda del Sauz",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda del Sol",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda de San Francisco (Hacienda de las Torres)",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda de San Pedro",
+      "postal_code": [
+        "32520"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda Giralda",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda la Cantera",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda las Lajas",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda Residencial",
+      "postal_code": [
+        "32537"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda San Antonio (Hacienda de las Torres)",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda San Jose (Hacienda de las Torres)",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda San Juan (Hacienda de las Torres)",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda San Paulo (Hacienda de las Torres)",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda Santa Fe",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Haciendas del Campanario",
+      "postal_code": [
+        "32535"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hacienda Senecu",
+      "postal_code": [
+        "32457"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Harmoni",
+      "postal_code": [
+        "32668"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hermenegildo Galeana",
+      "postal_code": [
+        "32230"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hermila",
+      "postal_code": [
+        "32667"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Heroes de la Revolucion",
+      "postal_code": [
+        "32696"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Heroes de Mexico",
+      "postal_code": [
+        "32590"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "32300"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Holanda",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Horizontes del Sur",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ignacio Aldama",
+      "postal_code": [
+        "32160"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ignacio Allende",
+      "postal_code": [
+        "32190"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Independencia II",
+      "postal_code": [
+        "32670"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Independencia Sur",
+      "postal_code": [
+        "32640"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Industrial",
+      "postal_code": [
+        "32270"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "INFONAVIT Ampliacion Aeropuerto",
+      "postal_code": [
+        "32698"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "INFONAVIT Ampliacion Aeropuerto V",
+      "postal_code": [
+        "32665"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "INFONAVIT angel Trias",
+      "postal_code": [
+        "32668"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "INFONAVIT Casas Grandes",
+      "postal_code": [
+        "32600"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "INFONAVIT El Jarudo",
+      "postal_code": [
+        "32659"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "INFONAVIT Fidel Velazquez",
+      "postal_code": [
+        "32425"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "INFONAVIT Juarez Nuevo",
+      "postal_code": [
+        "32583"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "INFONAVIT Mil Cumbres",
+      "postal_code": [
+        "32600"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "INFONAVIT Oasis",
+      "postal_code": [
+        "32697"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "INFONAVIT Parques Industriales",
+      "postal_code": [
+        "32625"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "INFONAVIT Salvarcar",
+      "postal_code": [
+        "32598"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "INFONAVIT San Lorenzo",
+      "postal_code": [
+        "32420"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "INFONAVIT Solidaridad",
+      "postal_code": [
+        "32584"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "INFONAVIT Tecnologico",
+      "postal_code": [
+        "32699"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ingeniero Portillo",
+      "postal_code": [
+        "32380"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Instituto de Ciencias Biomedicas (ICB)",
+      "postal_code": [
+        "32310"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Instituto de Ingenieria y Arquitectura (IIT/IADA)",
+      "postal_code": [
+        "32320"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Insurgentes",
+      "postal_code": [
+        "32150"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Internacional Abraham Gonzalez",
+      "postal_code": [
+        "32692"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Isla del Encanto",
+      "postal_code": [
+        "32400"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ixtapa (Paseo de las Torres)",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jade Residencial",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardin",
+      "postal_code": [
+        "32469"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardin de las Moras",
+      "postal_code": [
+        "32563"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardin de Senecu",
+      "postal_code": [
+        "32469"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines Campestre",
+      "postal_code": [
+        "32434"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines de Aragon",
+      "postal_code": [
+        "32472"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines de Coyoacan",
+      "postal_code": [
+        "32408"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines del Aeropuerto",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines del Bosque",
+      "postal_code": [
+        "32539"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines del Lago",
+      "postal_code": [
+        "32616"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines del Seminario",
+      "postal_code": [
+        "32530"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines del Valle",
+      "postal_code": [
+        "32563"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines del Valle I",
+      "postal_code": [
+        "32422"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines del Valle II",
+      "postal_code": [
+        "32422"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines del Valle III",
+      "postal_code": [
+        "32422"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines de Roma",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines de San Carlos",
+      "postal_code": [
+        "32563"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines de San Francisco",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines de San Jose",
+      "postal_code": [
+        "32390"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines de San Marcos",
+      "postal_code": [
+        "32452"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines de San Miguel",
+      "postal_code": [
+        "32560"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines de San Pablo",
+      "postal_code": [
+        "32560"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines de San Patricio",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines de San Patricio IV",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines de San Patricio V",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines de Santa Clara",
+      "postal_code": [
+        "32563"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines de Santa Clara 10",
+      "postal_code": [
+        "32563"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines de Santa Monica",
+      "postal_code": [
+        "32538"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines de Satelite",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines Residencial",
+      "postal_code": [
+        "32618"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jardines Senecu",
+      "postal_code": [
+        "32459"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jarudo",
+      "postal_code": [
+        "32652"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jasso",
+      "postal_code": [
+        "32354"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jazmines",
+      "postal_code": [
+        "32424"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jesus Carranza (La Colorada)",
+      "postal_code": [
+        "32722"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Josefa Ortiz de Dominguez",
+      "postal_code": [
+        "32140"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jose Maria Pino Suarez",
+      "postal_code": [
+        "32584"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jose Marti",
+      "postal_code": [
+        "32697"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Jose Sulaiman",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Juarez",
+      "postal_code": [
+        "32190"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Kilometro 20",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Kilometro 20 Jose Maria",
+      "postal_code": [
+        "32674"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Kilometro 27",
+      "postal_code": [
+        "32675"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Kilometro 28",
+      "postal_code": [
+        "32675"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Kilometro 29",
+      "postal_code": [
+        "32675"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Kilometro 5",
+      "postal_code": [
+        "32625"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Campesina",
+      "postal_code": [
+        "32675"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Canada",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Cementera",
+      "postal_code": [
+        "32676"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Conquista",
+      "postal_code": [
+        "32107"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Cuesta",
+      "postal_code": [
+        "32650"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Cuesta II",
+      "postal_code": [
+        "32653"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ladrillera Juarez",
+      "postal_code": [
+        "32108"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ladrillera Juarez Ampliacion",
+      "postal_code": [
+        "32108"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ladrilleros y Caleros",
+      "postal_code": [
+        "32676"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Enramada",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Florida",
+      "postal_code": [
+        "32472"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Fortuna",
+      "postal_code": [
+        "32349"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Fuente",
+      "postal_code": [
+        "32370"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Gavia Residencial",
+      "postal_code": [
+        "32544"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Gaviota",
+      "postal_code": [
+        "32403"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Gran Manzana",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Hacienda",
+      "postal_code": [
+        "32674"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Herradura",
+      "postal_code": [
+        "32563"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Joya",
+      "postal_code": [
+        "32616"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Joya (Zona Centro)",
+      "postal_code": [
+        "32330"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Mesita",
+      "postal_code": [
+        "32100"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Moraleja",
+      "postal_code": [
+        "32402"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Muralla",
+      "postal_code": [
+        "32472"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Nueva Rosita",
+      "postal_code": [
+        "32580"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Paloma",
+      "postal_code": [
+        "32403"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Parcela",
+      "postal_code": [
+        "32409"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Parroquia",
+      "postal_code": [
+        "32370"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Perla",
+      "postal_code": [
+        "32590"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Playa",
+      "postal_code": [
+        "32317"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Presa",
+      "postal_code": [
+        "32688"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Raza",
+      "postal_code": [
+        "32360"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Rioja",
+      "postal_code": [
+        "32472"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Rivera",
+      "postal_code": [
+        "32408"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Rosaleda",
+      "postal_code": [
+        "32380"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Rosita",
+      "postal_code": [
+        "32563"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Acequias",
+      "postal_code": [
+        "32617",
+        "32618"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Aldabas",
+      "postal_code": [
+        "32545"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Almeras",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Arcadas",
+      "postal_code": [
+        "32563"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Arenas",
+      "postal_code": [
+        "32599",
+        "32654",
+        "32663"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Sarzana",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Dunas (IVIECH)",
+      "postal_code": [
+        "32585"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "32560",
+        "32676"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Garzas",
+      "postal_code": [
+        "32425"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Gladiolas",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Haciendas",
+      "postal_code": [
+        "32577"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Haciendas Oriente",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Hadas",
+      "postal_code": [
+        "32457"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Lunas",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Montanas",
+      "postal_code": [
+        "32590"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Nueces",
+      "postal_code": [
+        "32398"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "32330"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Palomas",
+      "postal_code": [
+        "32413"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Placitas I",
+      "postal_code": [
+        "32538"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Placitas II",
+      "postal_code": [
+        "32538"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Quintas",
+      "postal_code": [
+        "32401"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Terrazas",
+      "postal_code": [
+        "32460"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Torres",
+      "postal_code": [
+        "32583"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Las Vinas",
+      "postal_code": [
+        "32696"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "La Toscana",
+      "postal_code": [
+        "32580"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lausane",
+      "postal_code": [
+        "32415"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "32150",
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lexmark",
+      "postal_code": [
+        "32577"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Leyes de Reforma",
+      "postal_code": [
+        "32090"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Libertad",
+      "postal_code": [
+        "32290"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lince",
+      "postal_code": [
+        "32446"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Linda Vista",
+      "postal_code": [
+        "32270"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lisboa (Rinconada de las Torres)",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Loma Blanca",
+      "postal_code": [
+        "32702"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "32663"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lomas de las aguilas",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lomas del Desierto I",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lomas del Desierto II",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lomas del Desierto III",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lomas del Poleo",
+      "postal_code": [
+        "32107"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lomas del Rey",
+      "postal_code": [
+        "32651"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lomas del Valle",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lomas de Morelos",
+      "postal_code": [
+        "32676"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lomas de San Jose",
+      "postal_code": [
+        "32680"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Agaves",
+      "postal_code": [
+        "32696"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "32310",
+        "32600"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Alcaldes Ampliacion",
+      "postal_code": [
+        "32587"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Alpes",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los angeles (Horizonte del Sur)",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los angeles I",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Arcos",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Bosques",
+      "postal_code": [
+        "32370"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Cardenales",
+      "postal_code": [
+        "32537"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Cedros",
+      "postal_code": [
+        "32539"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Cipreses",
+      "postal_code": [
+        "32459",
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Cisnes",
+      "postal_code": [
+        "32449"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Frailes",
+      "postal_code": [
+        "32538"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Girasoles",
+      "postal_code": [
+        "32696"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Jardines",
+      "postal_code": [
+        "32469"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Lagos",
+      "postal_code": [
+        "32360"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "32696"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Manantiales",
+      "postal_code": [
+        "32538"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Mezquites",
+      "postal_code": [
+        "32696"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Mirlos",
+      "postal_code": [
+        "32370"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "32310"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Nogales",
+      "postal_code": [
+        "32350"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Olivos",
+      "postal_code": [
+        "32370"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Olmos",
+      "postal_code": [
+        "32310"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Olmos TEC",
+      "postal_code": [
+        "32510"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Parques",
+      "postal_code": [
+        "32440"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "32350"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Portales",
+      "postal_code": [
+        "32696"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Romerales",
+      "postal_code": [
+        "32423"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "32390"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Saucos",
+      "postal_code": [
+        "32417"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Tejados",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Tulipanes",
+      "postal_code": [
+        "32400"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Virreyes",
+      "postal_code": [
+        "32451"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Los Volcanes",
+      "postal_code": [
+        "32370"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lucio Blanco",
+      "postal_code": [
+        "32583"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lucio Blanco II",
+      "postal_code": [
+        "32583"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Lucio Cabanas",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "32616"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Luis Echeverria",
+      "postal_code": [
+        "32200"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Luis Olague",
+      "postal_code": [
+        "32647"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Maestros Estatales y Federales",
+      "postal_code": [
+        "32178"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "32350"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Magnolia",
+      "postal_code": [
+        "32424"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Malaga (Hacienda de las Torres Universidad)",
+      "postal_code": [
+        "32576"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Manuel Gomez Morin",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Manuel J. Clouthier",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Manuel Valdez",
+      "postal_code": [
+        "32590"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Maquila Thomson",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Margaritas",
+      "postal_code": [
+        "32300"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Maria Isabel",
+      "postal_code": [
+        "32560"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Mariano Escobedo",
+      "postal_code": [
+        "32230"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Marquis",
+      "postal_code": [
+        "32536"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Marruecos",
+      "postal_code": [
+        "32545"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Mascarenas",
+      "postal_code": [
+        "32340"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Mayas Sur",
+      "postal_code": [
+        "32280"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Mayorga",
+      "postal_code": [
+        "32310"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Medanos",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Medanos (Lomas de Zaragoza)",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Melchor Ocampo",
+      "postal_code": [
+        "32380"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Mexico",
+      "postal_code": [
+        "32410"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Mexico 68",
+      "postal_code": [
+        "32640"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Miguel Auza",
+      "postal_code": [
+        "32317"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Miguel Enriquez Guzman",
+      "postal_code": [
+        "32675"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Milan",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Mil Cumbres",
+      "postal_code": [
+        "32625"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Minerva",
+      "postal_code": [
+        "32370"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Mirador",
+      "postal_code": [
+        "32260"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Mision de los Lagos",
+      "postal_code": [
+        "32668"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Mision del Sol",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Mision de San Miguel",
+      "postal_code": [
+        "32519"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Misiones",
+      "postal_code": [
+        "32539"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Misiones de Creel",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Misiones del Emir",
+      "postal_code": [
+        "32537"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Misiones del Portal",
+      "postal_code": [
+        "32609"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Misiones del Real",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Misiones del Sur Residencial",
+      "postal_code": [
+        "32537"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Misiones de San Jose",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Misiones de Santa Fe",
+      "postal_code": [
+        "32545"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Misiones Prinz",
+      "postal_code": [
+        "32538"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Monarca Residencial",
+      "postal_code": [
+        "32598"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Montebello",
+      "postal_code": [
+        "32538"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Montecarlo",
+      "postal_code": [
+        "32469"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Montemayor",
+      "postal_code": [
+        "32380"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Monterrey",
+      "postal_code": [
+        "32070"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Monumental",
+      "postal_code": [
+        "32310",
+        "32310"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Monumento",
+      "postal_code": [
+        "32020"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Moradas del Porvenir",
+      "postal_code": [
+        "32545"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Morelos",
+      "postal_code": [
+        "32670"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Morelos I",
+      "postal_code": [
+        "32573"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Morelos II",
+      "postal_code": [
+        "32573"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Morelos III",
+      "postal_code": [
+        "32573"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Morelos IV",
+      "postal_code": [
+        "32573"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Moreno",
+      "postal_code": [
+        "32550"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Moretto Residencial",
+      "postal_code": [
+        "32408"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Municipio Libre",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Napoli",
+      "postal_code": [
+        "32401"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Nava",
+      "postal_code": [
+        "32340"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "32130"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Niza",
+      "postal_code": [
+        "32545"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Nobleza Residencial",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Nogalar de las Torres",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Nogales",
+      "postal_code": [
+        "32350"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Nogales Norte",
+      "postal_code": [
+        "32340"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Noruega",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Novel",
+      "postal_code": [
+        "32540"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Nueva Galeana",
+      "postal_code": [
+        "32230"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Nueva Galicia Residencial",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Nueva Vizcaya Residencial",
+      "postal_code": [
+        "32560"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Nuevo Hipodromo",
+      "postal_code": [
+        "32685"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Nuevo Mexico",
+      "postal_code": [
+        "32190"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Nuevo Milenio",
+      "postal_code": [
+        "32423",
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Oasis",
+      "postal_code": [
+        "32697"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Oasis Oriente",
+      "postal_code": [
+        "32697"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Oasis Oriente I",
+      "postal_code": [
+        "32697"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Oasis Oriente II",
+      "postal_code": [
+        "32697"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Oasis Revolucion",
+      "postal_code": [
+        "32674"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Oasis Sur",
+      "postal_code": [
+        "32697"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Oasis Zaragoza II",
+      "postal_code": [
+        "32697"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Obrera",
+      "postal_code": [
+        "32050"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Olimpia",
+      "postal_code": [
+        "32370"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Olivia Espinoza de Bermudez",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Oporto",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Oriente XXI Roma",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ortiz Rubio",
+      "postal_code": [
+        "32548"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Oscar Gonzalez",
+      "postal_code": [
+        "32653"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Pablo Gomez",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Palermo",
+      "postal_code": [
+        "32401"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Palmas del Sol (Victoria)",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Palmas Senecu",
+      "postal_code": [
+        "32469"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Palo Chino",
+      "postal_code": [
+        "32299"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Panama",
+      "postal_code": [
+        "32330"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Panamericana",
+      "postal_code": [
+        "32320"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Panamericano I",
+      "postal_code": [
+        "32616"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Panamericano II",
+      "postal_code": [
+        "32616"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Panamericano III",
+      "postal_code": [
+        "32616"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Panamericano Jardin",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Pancho Villa",
+      "postal_code": [
+        "32688"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Panfilo Natera",
+      "postal_code": [
+        "32670"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Papigochic",
+      "postal_code": [
+        "32696"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paquime",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paraguay (Rinconada de las Torres)",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paraje de San Juan",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parajes del Sol",
+      "postal_code": [
+        "32696"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parajes del Sur",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parajes del Valle",
+      "postal_code": [
+        "32590"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parajes de Oriente",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parajes de San Isidro",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parajes de San Isidro II",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parajes de San Jose",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Central",
+      "postal_code": [
+        "32659"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque el Mirador",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial ABH",
+      "postal_code": [
+        "32563"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Aerojuarez",
+      "postal_code": [
+        "32696"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Aeropuerto",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Altavista",
+      "postal_code": [
+        "32127"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial America",
+      "postal_code": [
+        "32427"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Americas",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Antonio Jaime Bermudez",
+      "postal_code": [
+        "32470"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Axial",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Aztecas",
+      "postal_code": [
+        "32679"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Eje Vial Juan Gabriel",
+      "postal_code": [
+        "32380"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Electrolux",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Fernandez",
+      "postal_code": [
+        "32649"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Gema",
+      "postal_code": [
+        "32648"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Gema II",
+      "postal_code": [
+        "32650"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Geminis",
+      "postal_code": [
+        "32674"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Henequen",
+      "postal_code": [
+        "32573"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Independencia",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial INTERMEX Oriente",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Intermex Sur",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Juarez",
+      "postal_code": [
+        "32630"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial las Lomas",
+      "postal_code": [
+        "32663"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial los Bravos",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial los Fuentes",
+      "postal_code": [
+        "32437"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Magnaplex",
+      "postal_code": [
+        "32419"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Omega",
+      "postal_code": [
+        "32410"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Panamericano",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial PIMSA INTERMEX",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Ramon Rivera Lara",
+      "postal_code": [
+        "32605"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Rio Bravo",
+      "postal_code": [
+        "32557"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Salvarcar",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Torres Sur",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Parque Industrial Zaragoza",
+      "postal_code": [
+        "32685"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Partido Diaz",
+      "postal_code": [
+        "32417"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Partido Doblado",
+      "postal_code": [
+        "32424"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Partido Escobedo",
+      "postal_code": [
+        "32330"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Partido Iglesias",
+      "postal_code": [
+        "32528"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Partido Manuel Doblado",
+      "postal_code": [
+        "32409"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Partido Romero",
+      "postal_code": [
+        "32030"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Partido Senecu",
+      "postal_code": [
+        "32545"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseo Cipreses",
+      "postal_code": [
+        "32240"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseo de las Flores",
+      "postal_code": [
+        "32401"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseo de las Lilas",
+      "postal_code": [
+        "32674"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseo de las Palmas",
+      "postal_code": [
+        "32664"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseo de las Torres",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseo del Bosque",
+      "postal_code": [
+        "32545"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseo del Castillo (Paseo de las Torres)",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseo de los Nogales",
+      "postal_code": [
+        "32668"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseo de los Virreyes",
+      "postal_code": [
+        "32507"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseo del Parque",
+      "postal_code": [
+        "32659"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseo del Real",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseo del Rio",
+      "postal_code": [
+        "32414"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseo del Sol",
+      "postal_code": [
+        "32607"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseo del Valle",
+      "postal_code": [
+        "32606"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseos del Alba",
+      "postal_code": [
+        "32696"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseos del Pedregal",
+      "postal_code": [
+        "32674"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseos del Pinar",
+      "postal_code": [
+        "32410"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseos de Santa Monica",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paseos de Zaragoza",
+      "postal_code": [
+        "32590"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paso del Norte",
+      "postal_code": [
+        "32380"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paso del Norte (Norponiente)",
+      "postal_code": [
+        "32110"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Patria",
+      "postal_code": [
+        "32590"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Patricia",
+      "postal_code": [
+        "32310"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Patzcuaro",
+      "postal_code": [
+        "32340"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Paula",
+      "postal_code": [
+        "32340"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Pedregal de San Isidro",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Periodista",
+      "postal_code": [
+        "32178"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Peru (Rinconada de las Torres)",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Pie de Casa (El Granjero)",
+      "postal_code": [
+        "32693"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Pinar del Rio I",
+      "postal_code": [
+        "32414"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Pino Alto",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Plaza del Sol",
+      "postal_code": [
+        "32607"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Plaza Juarez",
+      "postal_code": [
+        "32607"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Plazuela de Acuna",
+      "postal_code": [
+        "32675"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Plutarco Elias Calles",
+      "postal_code": [
+        "32217"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Plutarco Elias Calles Ampliacion",
+      "postal_code": [
+        "32217"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Popular",
+      "postal_code": [
+        "32110"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Porfirio Silva",
+      "postal_code": [
+        "32574"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Portal de los Olivos",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Portal del Roble",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Portal del Roble II",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Portal del Sol",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Portal del Valle",
+      "postal_code": [
+        "32594"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Portal de Oriente",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Portales de Abadia",
+      "postal_code": [
+        "32472"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Portales de San Antonio",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Portales de San Pedro",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Portento",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Porto Residencial",
+      "postal_code": [
+        "32320"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Postal",
+      "postal_code": [
+        "32140"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Pradera Dorada",
+      "postal_code": [
+        "32618"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Praderas de la Sierra",
+      "postal_code": [
+        "32696"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Praderas de las Torres",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Praderas del Henequen",
+      "postal_code": [
+        "32590"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Praderas del Oriente",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Praderas de los alamos",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Praderas de los Oasis",
+      "postal_code": [
+        "32674"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Praderas de los Oasis II",
+      "postal_code": [
+        "32674"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Praderas del Pacifico",
+      "postal_code": [
+        "32674"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Praderas del Sauzal",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Praderas del Sol",
+      "postal_code": [
+        "32576"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Praderas del Sur",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Prados del Campestre I",
+      "postal_code": [
+        "32509"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Prados del Real",
+      "postal_code": [
+        "32667"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Prados de Salvarcar",
+      "postal_code": [
+        "32573"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Prados de San Lorenzo",
+      "postal_code": [
+        "32410"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Prados de Santa Anita",
+      "postal_code": [
+        "32663"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Predio los Ojitos",
+      "postal_code": [
+        "32295"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Privada Capistrano",
+      "postal_code": [
+        "32340"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Privada de Casandra",
+      "postal_code": [
+        "32340"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Privada Miraloma Sector Espanol",
+      "postal_code": [
+        "32540"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Privada Miraloma Sector Frances",
+      "postal_code": [
+        "32540"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Privata Residencial",
+      "postal_code": [
+        "32540"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Profesora Maria Martinez",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Profesora Simona Barba",
+      "postal_code": [
+        "32575",
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Progresista",
+      "postal_code": [
+        "32310"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "PRONAF",
+      "postal_code": [
+        "32315"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Puente Alto",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Puente del Bravo",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Puerta de Hierro I",
+      "postal_code": [
+        "32616"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Puerta del Sol",
+      "postal_code": [
+        "32410"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Puerta Oriente",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Puerto Castilla",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Puerto Castilla II",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Puerto de Anapra",
+      "postal_code": [
+        "32107"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Puerto la Paz",
+      "postal_code": [
+        "32159"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Puesta del Sol",
+      "postal_code": [
+        "32360",
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Punto Central",
+      "postal_code": [
+        "32509"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Queretaro",
+      "postal_code": [
+        "32410"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Quintas Alameda",
+      "postal_code": [
+        "32400"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Quintas del Bosque",
+      "postal_code": [
+        "32472"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Quintas del Lago",
+      "postal_code": [
+        "32360"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Quintas del Real",
+      "postal_code": [
+        "32696"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Quintas del Solar",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Quintas del Valle",
+      "postal_code": [
+        "32540"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Quintas del Valle II",
+      "postal_code": [
+        "32540"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Quintas del Valle III",
+      "postal_code": [
+        "32540"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Quintas de San Jose",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Quintas Esmeralda",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ramos Aviles",
+      "postal_code": [
+        "32380"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rancho Anapra",
+      "postal_code": [
+        "32107"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Raul Garcia",
+      "postal_code": [
+        "32340"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Real Acequias",
+      "postal_code": [
+        "32618"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Real de Guadalupe",
+      "postal_code": [
+        "32560"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Real de las Torres",
+      "postal_code": [
+        "32398"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Real del Desierto",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Real del Sol",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Real del Sol II",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Real de San Jose",
+      "postal_code": [
+        "32507"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Real Waterfill",
+      "postal_code": [
+        "32560"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Reforma",
+      "postal_code": [
+        "32380",
+        "32540",
+        "32600"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Reganto Residencial",
+      "postal_code": [
+        "32422"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Reginaldo Kluche",
+      "postal_code": [
+        "32380"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Renovacion 92",
+      "postal_code": [
+        "32153"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Reserva del Valle",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Reserva Sur",
+      "postal_code": [
+        "32548"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Acueducto",
+      "postal_code": [
+        "32410"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Alamedas",
+      "postal_code": [
+        "32404"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Almendros",
+      "postal_code": [
+        "32537"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Andalucia",
+      "postal_code": [
+        "32417"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Bugambilias",
+      "postal_code": [
+        "32538"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Campestre Senecu",
+      "postal_code": [
+        "32457"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Coloso",
+      "postal_code": [
+        "32390"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial del Valle",
+      "postal_code": [
+        "32553"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial el Papalote",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Florencia",
+      "postal_code": [
+        "32409"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Galgodromo",
+      "postal_code": [
+        "32449"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Hacienda",
+      "postal_code": [
+        "32537"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Insurgentes",
+      "postal_code": [
+        "32320"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Ixtapa",
+      "postal_code": [
+        "32370"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Kastelo",
+      "postal_code": [
+        "32618"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial las Cumbres",
+      "postal_code": [
+        "32662"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial las Fuentes",
+      "postal_code": [
+        "32376"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial las Villas",
+      "postal_code": [
+        "32402"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Lausane",
+      "postal_code": [
+        "32415"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial la Villa",
+      "postal_code": [
+        "32310"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Maria Isabel",
+      "postal_code": [
+        "32409"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Montecarlo",
+      "postal_code": [
+        "32320"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Oviedo",
+      "postal_code": [
+        "32400"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Pueblo del Sol",
+      "postal_code": [
+        "32537"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial San Francisco",
+      "postal_code": [
+        "32548"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial San Jeronimo",
+      "postal_code": [
+        "32505"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Sendas",
+      "postal_code": [
+        "32548"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Toledo",
+      "postal_code": [
+        "32563"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Veranda",
+      "postal_code": [
+        "32537"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Victoria",
+      "postal_code": [
+        "32469"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Villa Jardin",
+      "postal_code": [
+        "32416"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Villas del Bravo",
+      "postal_code": [
+        "32415"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Residencial Villas Loreto",
+      "postal_code": [
+        "32553"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Revolucion Mexicana",
+      "postal_code": [
+        "32670"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Reyna Fabiola",
+      "postal_code": [
+        "32400"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Riberas del Bravo IX",
+      "postal_code": [
+        "32594"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "32290"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ricardo Montoya",
+      "postal_code": [
+        "32310"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rinconada de las Flores",
+      "postal_code": [
+        "32401"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rinconada de las Torres",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rinconada de las Torres IV",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rinconada del Rio",
+      "postal_code": [
+        "32409"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rinconada de San Marcos",
+      "postal_code": [
+        "32450"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rinconada los Nogales",
+      "postal_code": [
+        "32350"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rinconadas del Valle I",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rinconadas del Valle II",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincon de la Arboleda",
+      "postal_code": [
+        "32509"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincon del Amanecer",
+      "postal_code": [
+        "32590"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincon de la Mesa",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincon de las Flores",
+      "postal_code": [
+        "32472"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincon de las Flores II",
+      "postal_code": [
+        "32472"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincon del Cielo",
+      "postal_code": [
+        "32674"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincon del Portal",
+      "postal_code": [
+        "32520"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincon del Rio",
+      "postal_code": [
+        "32594"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincon del Rio II",
+      "postal_code": [
+        "32594"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincon del Seminario",
+      "postal_code": [
+        "32505"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincon del Sol",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincon del Solar",
+      "postal_code": [
+        "32674"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincon del solar II",
+      "postal_code": [
+        "32674"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincon del Sur",
+      "postal_code": [
+        "32573"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincon del Valle",
+      "postal_code": [
+        "32605"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincon de Waterfill",
+      "postal_code": [
+        "32553"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincones de Cartagena",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincones del Bravo",
+      "postal_code": [
+        "32424"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincones del Campanario",
+      "postal_code": [
+        "32317"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincones del Campestre",
+      "postal_code": [
+        "32457"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincones del Valle",
+      "postal_code": [
+        "32540"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincones de Oriente",
+      "postal_code": [
+        "32563"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincones de Salvarcar",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincones de Salvarcar II",
+      "postal_code": [
+        "32576"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincones de San Marcos",
+      "postal_code": [
+        "32450"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincones de Santa Fe",
+      "postal_code": [
+        "32540"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rincones de Santa Rita",
+      "postal_code": [
+        "32509"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rio Grande",
+      "postal_code": [
+        "32560"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rio Grande I - XXV",
+      "postal_code": [
+        "32422"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Riveras del Bravo",
+      "postal_code": [
+        "32594"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rodas",
+      "postal_code": [
+        "32545"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Rodriguez Borunda",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Roma",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Roma Poniente",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Ruisenor",
+      "postal_code": [
+        "32618"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Salvarcar",
+      "postal_code": [
+        "32580"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Samalayuca",
+      "postal_code": [
+        "32730"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "32721"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Andres",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San angel",
+      "postal_code": [
+        "32389"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "32250",
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Antonio Senecu",
+      "postal_code": [
+        "32459"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Borja",
+      "postal_code": [
+        "32020"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Sandra Lucia",
+      "postal_code": [
+        "32530"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Felipe",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Felipe el Real",
+      "postal_code": [
+        "32177"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Fernando",
+      "postal_code": [
+        "32409"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Isidro Rio Grande",
+      "postal_code": [
+        "32720"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Jeronimo",
+      "postal_code": [
+        "32505"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Jose",
+      "postal_code": [
+        "32389",
+        "32390"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "32320",
+        "32439"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "32409",
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Martin",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Miguel de Allende",
+      "postal_code": [
+        "32370"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "32560"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Patricio",
+      "postal_code": [
+        "32340"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "32380"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Pedro del Real",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "32409"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Santa Catalina",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "32350"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Santa Engracia",
+      "postal_code": [
+        "32537"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "32422"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "32676"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Santa Martha",
+      "postal_code": [
+        "32520",
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Santa Monica",
+      "postal_code": [
+        "32319",
+        "32376",
+        "32507",
+        "32545"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "32250"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Santa Rosalia",
+      "postal_code": [
+        "32389"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "32605",
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "San Valentin",
+      "postal_code": [
+        "32553"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Sara Lugo",
+      "postal_code": [
+        "32108"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Satelite",
+      "postal_code": [
+        "32540"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Satelite I",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Satelite II",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Senderos del Sol",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Senderos de Oriente",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Senderos de San Isidro",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Senecu I",
+      "postal_code": [
+        "32470"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Senecu II",
+      "postal_code": [
+        "32470"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Senorial",
+      "postal_code": [
+        "32390"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Servet",
+      "postal_code": [
+        "32510"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Sevilla (Hacienda de las Torres Universidad)",
+      "postal_code": [
+        "32576"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Sicomoros",
+      "postal_code": [
+        "32349"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Sierra Grande",
+      "postal_code": [
+        "32696"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Sierra Vista",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Sierra Vista Sur",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Siglo XXI",
+      "postal_code": [
+        "32153"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Silvias",
+      "postal_code": [
+        "32330"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Simon Rodriguez",
+      "postal_code": [
+        "32590"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "SOCOCEMA",
+      "postal_code": [
+        "32670"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Sol de Mayo",
+      "postal_code": [
+        "32620"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Solidaridad",
+      "postal_code": [
+        "32586"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Sor Juana Ines de La Cruz",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Stockmeyer",
+      "postal_code": [
+        "32370"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Suecia",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "SUTERM",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Tabachines",
+      "postal_code": [
+        "32290"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Tarahumaras",
+      "postal_code": [
+        "32223",
+        "32675"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Tarragona",
+      "postal_code": [
+        "32472"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "TEC de Monterrey",
+      "postal_code": [
+        "32470"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Tecnologico",
+      "postal_code": [
+        "32500"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Telegrafistas",
+      "postal_code": [
+        "32140"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Terraluna",
+      "postal_code": [
+        "32674"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Terranova",
+      "postal_code": [
+        "32576"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Terranova Sur",
+      "postal_code": [
+        "32576"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Terrazas del Valle",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Terrenos Nacionales Sur",
+      "postal_code": [
+        "32598"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Tierra Nueva I",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Tierra Nueva II (Francisco Villarreal)",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Tierra y Libertad",
+      "postal_code": [
+        "32628"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Tiradores del Norte",
+      "postal_code": [
+        "32190"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Tita",
+      "postal_code": [
+        "32390"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Toledo (Hacienda de las Torres Universidad)",
+      "postal_code": [
+        "32576"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Topacio Residencial",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Toribio Ortega",
+      "postal_code": [
+        "32675"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Torreon",
+      "postal_code": [
+        "32170"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Torres del PRI",
+      "postal_code": [
+        "32574"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Torres del Sur",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Tossa Residencial",
+      "postal_code": [
+        "32563"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Trebol Norte",
+      "postal_code": [
+        "32534"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Trebol Sur",
+      "postal_code": [
+        "32534"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Tres Cantos Segunda Seccion",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Tres Fresnos",
+      "postal_code": [
+        "32380"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Tres Hermanos Arecco",
+      "postal_code": [
+        "32380"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Tres Torres",
+      "postal_code": [
+        "32545"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Universidad",
+      "postal_code": [
+        "32320",
+        "32584"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Universidad Tecnologica de Ciudad Juarez",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Uranga-Unzueta",
+      "postal_code": [
+        "32317"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Urbiquinta Granada",
+      "postal_code": [
+        "32685"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Urbi Quinta Montecarlo",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Urbivilla Bonita",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Urbivilla del Campo",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Urbivilla del Cedro",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Urbivilla del Prado",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Urbivilla del Prado I",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valladolid (Hacienda de las Torres Universidad)",
+      "postal_code": [
+        "32576"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Vallarta (Paseo de las Torres)",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle Alto",
+      "postal_code": [
+        "32260"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle de Allende",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle del Bravo",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle del Marques",
+      "postal_code": [
+        "32576"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle de los Cantaros",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle del Sol",
+      "postal_code": [
+        "32422",
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle de Olivos",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle de Santiago",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle Diamante",
+      "postal_code": [
+        "32580"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle Dorado",
+      "postal_code": [
+        "32580"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle Dorado I",
+      "postal_code": [
+        "32674"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle Dorado II",
+      "postal_code": [
+        "32674"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle Dorado III",
+      "postal_code": [
+        "32674"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle Fundadores",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle Oriente",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valles",
+      "postal_code": [
+        "32563"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valles de America",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Valle Sur",
+      "postal_code": [
+        "32573"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Venecia",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Veneciano",
+      "postal_code": [
+        "32563"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Veneros",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Veredas del Sol",
+      "postal_code": [
+        "32472"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Vergel Satelite",
+      "postal_code": [
+        "32543"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Versalles",
+      "postal_code": [
+        "32423"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Versalles Lyon",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Versalles Niza",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Versalles Privada Burdeos",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Versalles Privada Marsella",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Versalles Privada Montpellier",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "32190"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Vienna Residencial",
+      "postal_code": [
+        "32560"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Viesca Residencial",
+      "postal_code": [
+        "32563"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Vilago",
+      "postal_code": [
+        "32472"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villa Alegre",
+      "postal_code": [
+        "32400",
+        "32520"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villa Bonita",
+      "postal_code": [
+        "32590"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villa Colonial",
+      "postal_code": [
+        "32674"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villa del Lago",
+      "postal_code": [
+        "32606"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villa del Norte",
+      "postal_code": [
+        "32360"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villa Esperanza",
+      "postal_code": [
+        "32675"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villahermosa",
+      "postal_code": [
+        "32510"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villa Jacarandas",
+      "postal_code": [
+        "32390"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villa Jardin",
+      "postal_code": [
+        "32665"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villa Manzanares",
+      "postal_code": [
+        "32389"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villa Marcela",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villa Mexicana",
+      "postal_code": [
+        "32538"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villa Residencial del Real",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas Adlin",
+      "postal_code": [
+        "32417"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas Anitas",
+      "postal_code": [
+        "32563"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villa San Pablo",
+      "postal_code": [
+        "32457"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas Cerezmy",
+      "postal_code": [
+        "32320"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas Conifer",
+      "postal_code": [
+        "32408"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas de Alcala",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas de la Arboleda",
+      "postal_code": [
+        "32409"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas del Bravo I",
+      "postal_code": [
+        "32417"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas del Granero",
+      "postal_code": [
+        "32507"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas del Lobo",
+      "postal_code": [
+        "32618"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas del Rio",
+      "postal_code": [
+        "32402"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas del Solar",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas del Sur",
+      "postal_code": [
+        "32695"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas del Valle",
+      "postal_code": [
+        "32583"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas de Pradera Dorada",
+      "postal_code": [
+        "32618"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas de Salvarcar",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas de Senecu",
+      "postal_code": [
+        "32457"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villa Serena",
+      "postal_code": [
+        "32618"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas Primavera",
+      "postal_code": [
+        "32469"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas San angel",
+      "postal_code": [
+        "32380"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas San Jose",
+      "postal_code": [
+        "32380"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas San Marcos",
+      "postal_code": [
+        "32450"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas San Rafael",
+      "postal_code": [
+        "32405"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas Santa Fe",
+      "postal_code": [
+        "32370"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas Santa Teresa",
+      "postal_code": [
+        "32606"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas Solares",
+      "postal_code": [
+        "32546"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Villas Vista del Sol",
+      "postal_code": [
+        "32402"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Virreyes",
+      "postal_code": [
+        "32507"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Vista de la Cumbre",
+      "postal_code": [
+        "32663"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Vista del Norte",
+      "postal_code": [
+        "32319"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Vista del Sol",
+      "postal_code": [
+        "32410",
+        "32609"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Vista del Valle",
+      "postal_code": [
+        "32663",
+        "32668"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "32295"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Vistas de la Aurora",
+      "postal_code": [
+        "32696"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Vistas del Bravo I",
+      "postal_code": [
+        "32423"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Vistas del Bravo II",
+      "postal_code": [
+        "32423"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Vistas del Bravo III",
+      "postal_code": [
+        "32423"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Vistas de Zaragoza",
+      "postal_code": [
+        "32575"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Vistas los Ojitos",
+      "postal_code": [
+        "32295"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Waterfill Rio Bravo",
+      "postal_code": [
+        "32553"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Yolanda",
+      "postal_code": [
+        "32663"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Zacatecas",
+      "postal_code": [
+        "32130"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Zaragocita",
+      "postal_code": [
+        "32599"
+      ]
+    },
+    {
+      "city": "Juarez",
+      "colonia": "Zaragoza",
+      "postal_code": [
+        "32560",
+        "32590"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "data": [
+    {
+      "city": "San Lucas",
+      "colonia": "Angao (Angao de los Herrera)",
+      "postal_code": [
+        "61987"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "61980"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Buena Vista",
+      "postal_code": [
+        "61993"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Capire Manzano",
+      "postal_code": [
+        "61990"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Capire Verde",
+      "postal_code": [
+        "61990"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Casa Blanca",
+      "postal_code": [
+        "61998"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Ceibas Altas",
+      "postal_code": [
+        "61997"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Ceiba Seca",
+      "postal_code": [
+        "61985"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Characharando",
+      "postal_code": [
+        "61990"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Chumbitaro",
+      "postal_code": [
+        "61990"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Corral Viejo",
+      "postal_code": [
+        "61987"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Cuauhtemoc (Huarichi)",
+      "postal_code": [
+        "61990"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "El Apartadero",
+      "postal_code": [
+        "61987"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "El Charapo",
+      "postal_code": [
+        "61990"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "El Cinco de Copas",
+      "postal_code": [
+        "61998"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "El Crucero",
+      "postal_code": [
+        "61993"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "El Cuajilote",
+      "postal_code": [
+        "61990"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "El Cueramo",
+      "postal_code": [
+        "61995"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "El Guayabo",
+      "postal_code": [
+        "61986"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "El Machuque (Plan del Reparo)",
+      "postal_code": [
+        "61986"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "El Naranjo",
+      "postal_code": [
+        "61995"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "El Ojo de Agua de Urerio",
+      "postal_code": [
+        "61995"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "El Para",
+      "postal_code": [
+        "61987"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "El Tamarindo",
+      "postal_code": [
+        "61998"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "El Tule",
+      "postal_code": [
+        "61997"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "La Angostura del Canje",
+      "postal_code": [
+        "61986"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "La Chica",
+      "postal_code": [
+        "61993"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "La Estancia",
+      "postal_code": [
+        "61985"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "La Garra",
+      "postal_code": [
+        "61998"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "La Herradura (La Cienega)",
+      "postal_code": [
+        "61993"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "La Huizachera (El Huizachal)",
+      "postal_code": [
+        "61993"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "La Laja (La Lajita)",
+      "postal_code": [
+        "61985"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "La Magueyera (Barrio de las Flores)",
+      "postal_code": [
+        "61997"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "La Quiringucua",
+      "postal_code": [
+        "61996"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Las Huitzucatas (El Terrero Blanco)",
+      "postal_code": [
+        "61997"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Las Palmitas",
+      "postal_code": [
+        "61995"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Las Paredes",
+      "postal_code": [
+        "61984"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Limon de Monte Grande",
+      "postal_code": [
+        "61996"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Los Bancos",
+      "postal_code": [
+        "61995"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Los Brasiles",
+      "postal_code": [
+        "61997"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Los Limones y Anexos",
+      "postal_code": [
+        "61984"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Monte Grande",
+      "postal_code": [
+        "61996"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "61980"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Paso de Corupo (Cuizillo)",
+      "postal_code": [
+        "61997"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Paso de las Parotas",
+      "postal_code": [
+        "61998"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Pinzan Colorado",
+      "postal_code": [
+        "61996"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Plan de las Carreras",
+      "postal_code": [
+        "61986"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Querutzeo (Queruseo)",
+      "postal_code": [
+        "61997"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Rincon de San Francisco",
+      "postal_code": [
+        "61991"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Salguero",
+      "postal_code": [
+        "61991"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "San Jeronimo",
+      "postal_code": [
+        "61993"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "San Lucas",
+      "postal_code": [
+        "61980"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "61993"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "San Pedrito",
+      "postal_code": [
+        "61997"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "San Pedro el Grande",
+      "postal_code": [
+        "61998"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Santa Cruz de Villa Gomez",
+      "postal_code": [
+        "61991"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Tacupa",
+      "postal_code": [
+        "61994"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Tejeria",
+      "postal_code": [
+        "61998"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Terrero Prieto",
+      "postal_code": [
+        "61998"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Terrero Salado",
+      "postal_code": [
+        "61995"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Tirinchicuas",
+      "postal_code": [
+        "61984"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Tiringueo de Abajo",
+      "postal_code": [
+        "61998"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Tiringueo de Arriba",
+      "postal_code": [
+        "61998"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Urerio",
+      "postal_code": [
+        "61995"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Vicente Riva Palacio",
+      "postal_code": [
+        "61992"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "Laguna del Carmen",
+      "postal_code": [
+        "29405"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "San Jose Buenavista",
+      "postal_code": [
+        "29400"
+      ]
+    },
+    {
+      "city": "San Lucas",
+      "colonia": "San Lucas",
+      "postal_code": [
+        "29400"
+      ]
+    }
+  ]
+}

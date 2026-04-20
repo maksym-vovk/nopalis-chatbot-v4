@@ -1,0 +1,677 @@
+{
+  "data": [
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "4 Caminos",
+      "postal_code": [
+        "47656"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Alameda",
+      "postal_code": [
+        "47650"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Bosques de la Gloria",
+      "postal_code": [
+        "47674"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Bosques de la Hacienda",
+      "postal_code": [
+        "47684"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Bosques Del Lago",
+      "postal_code": [
+        "47685"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "47635"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Campos Eliseos",
+      "postal_code": [
+        "47684"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Capilla de Guadalupe",
+      "postal_code": [
+        "47700"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Capilla de Milpillas (Milpillas)",
+      "postal_code": [
+        "47720"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Cerrito de La Cruz",
+      "postal_code": [
+        "47610"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Colinas Residencial",
+      "postal_code": [
+        "47620"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Colonial",
+      "postal_code": [
+        "47684"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Comarcas Francesas",
+      "postal_code": [
+        "47684"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Comercial Del Sur",
+      "postal_code": [
+        "47655"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Coto del Rey",
+      "postal_code": [
+        "47685"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Del Carmen",
+      "postal_code": [
+        "47690"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "El arbol",
+      "postal_code": [
+        "47620"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "El Molino",
+      "postal_code": [
+        "47664"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "47635"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "El Pipon",
+      "postal_code": [
+        "47650"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "El Tablon Infonavit",
+      "postal_code": [
+        "47639"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "47680"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Espanita",
+      "postal_code": [
+        "47630"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "FOVISSSTE",
+      "postal_code": [
+        "47635"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "47650"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Hacienda la Cruz",
+      "postal_code": [
+        "47610"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Hacienda Popotes",
+      "postal_code": [
+        "47620"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Jardines de La Rivera",
+      "postal_code": [
+        "47675"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Jardines del Real",
+      "postal_code": [
+        "47698"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Jardines Del Rosal",
+      "postal_code": [
+        "47698"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Jardines del Valle",
+      "postal_code": [
+        "47685"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Jardines de Oriente",
+      "postal_code": [
+        "47680"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Jardin Espanol",
+      "postal_code": [
+        "47634"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Jardines Tepatitlan",
+      "postal_code": [
+        "47680"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Jesus Maria",
+      "postal_code": [
+        "47660"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Juan Pablo II",
+      "postal_code": [
+        "47637"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "La Cima",
+      "postal_code": [
+        "47690"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "47707"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "La Gloria",
+      "postal_code": [
+        "47670"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "La Loma",
+      "postal_code": [
+        "47685"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "La Mesa del Guitarrero",
+      "postal_code": [
+        "47723"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "La Nueva Cruz",
+      "postal_code": [
+        "47610"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Las aguilas",
+      "postal_code": [
+        "47698"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Las Aguilillas",
+      "postal_code": [
+        "47698"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Las Calles de Alcala",
+      "postal_code": [
+        "47655"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Las Colonias",
+      "postal_code": [
+        "47620"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Las Hadas",
+      "postal_code": [
+        "47634"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Las Hormigas",
+      "postal_code": [
+        "47728"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Las Jardineras",
+      "postal_code": [
+        "47649"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Libramiento Sur",
+      "postal_code": [
+        "47655"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Loma Dorada",
+      "postal_code": [
+        "47685"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "47675"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Lomas Del Carmen",
+      "postal_code": [
+        "47690"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Lomas Del Real",
+      "postal_code": [
+        "47675"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Lomas del Rey",
+      "postal_code": [
+        "47685"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Los Adobes",
+      "postal_code": [
+        "47656"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Los Arroyos",
+      "postal_code": [
+        "47656"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Los Cerritos",
+      "postal_code": [
+        "47728"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Los Conejos",
+      "postal_code": [
+        "47690"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Los Popotes",
+      "postal_code": [
+        "47620"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Los Viveros",
+      "postal_code": [
+        "47614"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Maranta",
+      "postal_code": [
+        "47620"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Mazatitlan",
+      "postal_code": [
+        "47716"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Mezcala",
+      "postal_code": [
+        "47710"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Nueva Espanita",
+      "postal_code": [
+        "47630"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Ojo de Agua de Latillas",
+      "postal_code": [
+        "47724"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Paseo de las Lomas",
+      "postal_code": [
+        "47634"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Pegueros",
+      "postal_code": [
+        "47715"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Pozo Del Monte",
+      "postal_code": [
+        "47610"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Prados del Roble",
+      "postal_code": [
+        "47635"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Ramblas Grande",
+      "postal_code": [
+        "47725"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "47720"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Real Alteno",
+      "postal_code": [
+        "47675"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Real de Marsella",
+      "postal_code": [
+        "47636"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Residencial del Carmen",
+      "postal_code": [
+        "47690"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Residencial Jardines del Carmen",
+      "postal_code": [
+        "47690"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Residencial La Cuesta",
+      "postal_code": [
+        "47636"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Residencial La Hacienda",
+      "postal_code": [
+        "47684"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Rincon de Velazquez",
+      "postal_code": [
+        "47723"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Saint Michel",
+      "postal_code": [
+        "47675"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "San Alfonso",
+      "postal_code": [
+        "47639"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "San Antonio El Alto",
+      "postal_code": [
+        "47640",
+        "47674"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "47698"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "San Gabriel",
+      "postal_code": [
+        "47639"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "San Jose de Bazarte",
+      "postal_code": [
+        "47714"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "San Jose de Gracia",
+      "postal_code": [
+        "47728"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "47660"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "47634"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "47635"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Santa Barbara",
+      "postal_code": [
+        "47635"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "47670"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Santa Monica",
+      "postal_code": [
+        "47639"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Sierra Hermosa",
+      "postal_code": [
+        "47694"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Tecomatlan",
+      "postal_code": [
+        "47726"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Tepatitlan de Morelos Centro",
+      "postal_code": [
+        "47600"
+      ]
+    },
+    {
+      "city": "Tepatitlan de Morelos",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "47670"
+      ]
+    }
+  ]
+}

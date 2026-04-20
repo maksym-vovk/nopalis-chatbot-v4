@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Coatecas Altas",
+      "colonia": "Chepeginio",
+      "postal_code": [
+        "71573"
+      ]
+    },
+    {
+      "city": "Coatecas Altas",
+      "colonia": "Coatecas Altas",
+      "postal_code": [
+        "71570"
+      ]
+    },
+    {
+      "city": "Coatecas Altas",
+      "colonia": "El Portillo",
+      "postal_code": [
+        "71573"
+      ]
+    },
+    {
+      "city": "Coatecas Altas",
+      "colonia": "Poblete",
+      "postal_code": [
+        "71574"
+      ]
+    },
+    {
+      "city": "Coatecas Altas",
+      "colonia": "Tepehuaje",
+      "postal_code": [
+        "71573"
+      ]
+    }
+  ]
+}

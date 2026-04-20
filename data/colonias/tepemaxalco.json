@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Tepemaxalco",
+      "colonia": "San Felipe Tepemaxalco",
+      "postal_code": [
+        "74530"
+      ]
+    },
+    {
+      "city": "Tepemaxalco",
+      "colonia": "San Juan Catzoc",
+      "postal_code": [
+        "74534"
+      ]
+    },
+    {
+      "city": "Tepemaxalco",
+      "colonia": "San Miguel Xicotzingo",
+      "postal_code": [
+        "74534"
+      ]
+    }
+  ]
+}

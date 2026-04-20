@@ -1,0 +1,950 @@
+{
+  "data": [
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Abelardo H. Paredes Aldama (Bloque 521)",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "africa Sewa",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Agraristas de Ciudad Obregon",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Alefel",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Audencio Salamanca Bacobachi",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Augusto Escamilla",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Bachoco (Postura Granja Pesada)",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Bachomobampo",
+      "postal_code": [
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Bahia de Lobos",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Bateve Segundo (2 de Marzo)",
+      "postal_code": [
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Beatriz Herrera",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Bloque 0037",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Bloque 837",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Bruno Parra",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Calle Base y Veintiuno (Juan Maria Marquez)",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Campo Calderon (Bloque 517)",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Campo de Guadalupe Quintana",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Campo de Miguel Olea (Bloque 421)",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Campo de Polo Castillo",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Campo de Rosario Serrano",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Campo de Santiago Cosio",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Campo Flor del Valle",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Campo Hector Cervantes",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Campo la 21 (Bloque 423)",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Campo Maria de la Luz Robles",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Campo Maria Luisa Encinas (Bloque 625)",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Campo Mexia",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Campo Robles (Bloque 621)",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Campo Teran",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Carmen Morales (Bloque 527)",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Carmen Vazquez Cazares (Bloque 519)",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Casas Blancas",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Chumampaco (Bloque 523)",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "David Lamas Coronado",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Demetrio Vallejo",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Doctores",
+      "postal_code": [
+        "85515"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Ejido la Realidad",
+      "postal_code": [
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "El alamo",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "El Alhuate",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "El Banco",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "El Bateve",
+      "postal_code": [
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "El Chaparral",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "El Gallito",
+      "postal_code": [
+        "85515"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "El Novillo (Bloque 821)",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "El Nuevo Castillo",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "El Papalote",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "El Perico",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "El Porvenir de los Jaime",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "El Rastro",
+      "postal_code": [
+        "85515"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "El Tapiro",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Encinas Terrazas",
+      "postal_code": [
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Enrique Landa B.",
+      "postal_code": [
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Ernesto Higuera (Bloque 625)",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Esteban Lopez (Bloque 619)",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Familia Pablos Cruz",
+      "postal_code": [
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Feliciano Guzman",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Felizardo Ochoa",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Fernando Reynas Valenzuela (Bloque 723)",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Framagofa",
+      "postal_code": [
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Francisco Garcia",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Francisco Haro",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Gilberto Castro (Bloque 825)",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Guadalupe Vega",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Gustavo Lugers Becerrin",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Guzman Gallegos",
+      "postal_code": [
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Hilario Calderon",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Humberto Quintana Loya (Bloque 621)",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Isabel Cuen",
+      "postal_code": [
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Isidro Gonzalez (Bloque 325)",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Jesus Zuniga",
+      "postal_code": [
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Jorge Stewart (Bloque 823)",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Jose Gerardo Badilla (Bloque 725)",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Juan Leon Villegas (Bloque 325)",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "La Arboleda",
+      "postal_code": [
+        "85515"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "La Capilla (Bloque 733)",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "La Curva",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "La Democracia",
+      "postal_code": [
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "La Doce (Bloque 1217)",
+      "postal_code": [
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "La Lomita",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "La Sauceda",
+      "postal_code": [
+        "85515"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Las Isabeles",
+      "postal_code": [
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Lauterio Leon Barraza",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Liandro Parra (Bloque 617)",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Llano de Zaragoza",
+      "postal_code": [
+        "85515"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Los Dominguez",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Los Dos Aguacates (Bloque 723)",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Los Flores",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Los Hernandez",
+      "postal_code": [
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Los Hernandez (Los Laureles)",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Los Medanos (Los Melagos)",
+      "postal_code": [
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Los Perez",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Los Pinitos",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Los Ponce",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Los Venaditos",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Los Venaditos (Bloque 721)",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Luis Lizarraga Rodriguez",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Luz Maria Ricaud (Bloque 423)",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Manuel Felix",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Manuel Gonzalez",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Manuel Romero (Bloque 221)",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Maria Luisa Ochoa Borquez",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Marielos Guerrero Rodriguez",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Menual",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Militar",
+      "postal_code": [
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Palo Verde (Calle 200 y 21)",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Pueblo Nuevo (La Cuchilla)",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Rafael Cardenas",
+      "postal_code": [
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Rafael Ochoa (Bloque 621)",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Ricardo Jaime (Bloque 731)",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Ricardo Sagarena",
+      "postal_code": [
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Rodolfo Pablos",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Rodrigo Cota",
+      "postal_code": [
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Rogelio Velazquez",
+      "postal_code": [
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Rolando Navarro",
+      "postal_code": [
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Rosendo Montano",
+      "postal_code": [
+        "85515"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "San Francisco Rio Muerto (Las Cachoras)",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "San Ignacio Rio Muerto Centro",
+      "postal_code": [
+        "85515"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "San Isidro (El Polvoron)",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "San Jose el Tata",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "San Judas Tadeo",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "San Martin",
+      "postal_code": [
+        "85516"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Seis y Treinta y Seis Colonia Sonora (Bloque 633)",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Sergio Tellechea",
+      "postal_code": [
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Siete de Noviembre",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Singapur",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Sonora",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Tapirito",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Tetabiate",
+      "postal_code": [
+        "85519"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Tomas Stewart",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Urbalejo",
+      "postal_code": [
+        "85514"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "85518",
+        "85518"
+      ]
+    },
+    {
+      "city": "San Ignacio Rio Muerto",
+      "colonia": "Yucateco",
+      "postal_code": [
+        "85514"
+      ]
+    }
+  ]
+}

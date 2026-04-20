@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Palmillas",
+      "colonia": "El Llano de Azuas",
+      "postal_code": [
+        "87973"
+      ]
+    },
+    {
+      "city": "Palmillas",
+      "colonia": "La Compuerta",
+      "postal_code": [
+        "87974"
+      ]
+    },
+    {
+      "city": "Palmillas",
+      "colonia": "Los Arrieros",
+      "postal_code": [
+        "87975"
+      ]
+    },
+    {
+      "city": "Palmillas",
+      "colonia": "Palmillas",
+      "postal_code": [
+        "87970"
+      ]
+    },
+    {
+      "city": "Palmillas",
+      "colonia": "San Vicente",
+      "postal_code": [
+        "87972"
+      ]
+    }
+  ]
+}

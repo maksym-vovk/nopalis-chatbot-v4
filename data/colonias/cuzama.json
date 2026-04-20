@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Cuzama",
+      "colonia": "Chunkanan",
+      "postal_code": [
+        "97578"
+      ]
+    },
+    {
+      "city": "Cuzama",
+      "colonia": "Cuzama",
+      "postal_code": [
+        "97577"
+      ]
+    },
+    {
+      "city": "Cuzama",
+      "colonia": "Eknacan",
+      "postal_code": [
+        "97577"
+      ]
+    },
+    {
+      "city": "Cuzama",
+      "colonia": "Nohchacan",
+      "postal_code": [
+        "97577"
+      ]
+    },
+    {
+      "city": "Cuzama",
+      "colonia": "Yaxkukul",
+      "postal_code": [
+        "97578"
+      ]
+    }
+  ]
+}

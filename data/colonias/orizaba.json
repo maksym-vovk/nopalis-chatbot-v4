@@ -1,0 +1,866 @@
+{
+  "data": [
+    {
+      "city": "Orizaba",
+      "colonia": "10 de Abril UNE",
+      "postal_code": [
+        "94310"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "10 de Mayo",
+      "postal_code": [
+        "94327"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "15 de Agosto",
+      "postal_code": [
+        "94330"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "27 de Mayo",
+      "postal_code": [
+        "94328"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Abelardo L Rodriguez",
+      "postal_code": [
+        "94310"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "94324"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Agricola Librado Rivera",
+      "postal_code": [
+        "94380"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Agricola Moctezuma",
+      "postal_code": [
+        "94345"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "94340"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Aries",
+      "postal_code": [
+        "94333"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Aulicaba",
+      "postal_code": [
+        "94303"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Barrio Nuevo",
+      "postal_code": [
+        "94340"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "94390"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "CANACINTRA",
+      "postal_code": [
+        "94340"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Carlos Marx",
+      "postal_code": [
+        "94370"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Carlos Roberto Smicht",
+      "postal_code": [
+        "94393"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Cerritos Norte",
+      "postal_code": [
+        "94310"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Cerritos Sur",
+      "postal_code": [
+        "94353"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Cidosa",
+      "postal_code": [
+        "94370"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Cocolapan",
+      "postal_code": [
+        "94380"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "C.R.O.C.",
+      "postal_code": [
+        "94334"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "C.R.O.M.",
+      "postal_code": [
+        "94335"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Cuartos del Yute",
+      "postal_code": [
+        "94364"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Cuartos de Quintana",
+      "postal_code": [
+        "94364"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "94350"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Daniel Sierra",
+      "postal_code": [
+        "94330"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Dante Delgado",
+      "postal_code": [
+        "94394"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Del Camino Real",
+      "postal_code": [
+        "94370"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Del Maestro",
+      "postal_code": [
+        "94350"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "De los Taxistas I",
+      "postal_code": [
+        "94393"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "De los Taxistas II",
+      "postal_code": [
+        "94393"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Electricistas",
+      "postal_code": [
+        "94345"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "El Eden",
+      "postal_code": [
+        "94324"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "El Encinal",
+      "postal_code": [
+        "94330"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "El Espinal",
+      "postal_code": [
+        "94330"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "El Espinal Bajo",
+      "postal_code": [
+        "94330"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "El Espinal II",
+      "postal_code": [
+        "94337"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "94370"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "El Trebol",
+      "postal_code": [
+        "94340"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "El Yute II",
+      "postal_code": [
+        "94340"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Emiliano Zapata Norte",
+      "postal_code": [
+        "94320"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Emiliano Zapata Sur",
+      "postal_code": [
+        "94320"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Emilio Suberbie",
+      "postal_code": [
+        "94360"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Empleados Moctezuma",
+      "postal_code": [
+        "94320"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Escandon",
+      "postal_code": [
+        "94370"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Espinalillo",
+      "postal_code": [
+        "94324"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Fidel Velazquez",
+      "postal_code": [
+        "94349"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "FOVISSSTE I",
+      "postal_code": [
+        "94330"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "FOVISSSTE II",
+      "postal_code": [
+        "94330"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Francisco Ferrer Guardia",
+      "postal_code": [
+        "94390"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Francisco Verazas",
+      "postal_code": [
+        "94370"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Gabilondo Soler",
+      "postal_code": [
+        "94363"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Galan",
+      "postal_code": [
+        "94326"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "94370"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Heriberto Jara",
+      "postal_code": [
+        "94380"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Ignacio de La LLave",
+      "postal_code": [
+        "94380"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "INDECO",
+      "postal_code": [
+        "94310"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Instituto de Pensiones Del Estado",
+      "postal_code": [
+        "94311"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Jardin",
+      "postal_code": [
+        "94346"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Jardin I",
+      "postal_code": [
+        "94330"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Jardin II",
+      "postal_code": [
+        "94330"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Jazmin",
+      "postal_code": [
+        "94330"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "La Cantera",
+      "postal_code": [
+        "94340"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Lago del angel Residencial",
+      "postal_code": [
+        "94330"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "La Joya",
+      "postal_code": [
+        "94330"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Las Alamedas",
+      "postal_code": [
+        "94350"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Las Carmelitas",
+      "postal_code": [
+        "94390"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Las Haciendas",
+      "postal_code": [
+        "94330"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Las Lomas",
+      "postal_code": [
+        "94384"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "94363"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Las Palmeras",
+      "postal_code": [
+        "94399"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Las Palmeras II",
+      "postal_code": [
+        "94399"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Libertad Agrarista",
+      "postal_code": [
+        "94393"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Lomas de San Alejandro",
+      "postal_code": [
+        "94330"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Lomas de San Manuel",
+      "postal_code": [
+        "94330"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Los Maestros",
+      "postal_code": [
+        "94303"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Lourdes",
+      "postal_code": [
+        "94350"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "94330"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Marco Antonio Munoz",
+      "postal_code": [
+        "94370"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Mier y Pesado",
+      "postal_code": [
+        "94364"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Miguel Aleman",
+      "postal_code": [
+        "94340"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "94360"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Moctezuma",
+      "postal_code": [
+        "94394"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Molino",
+      "postal_code": [
+        "94389"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Obreros de la Moctezuma",
+      "postal_code": [
+        "94380"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "94347"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Omiquila",
+      "postal_code": [
+        "94344"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Orizaba Centro",
+      "postal_code": [
+        "94300"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Paraiso",
+      "postal_code": [
+        "94393"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Pluviosilla",
+      "postal_code": [
+        "94329"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Pradera",
+      "postal_code": [
+        "94399"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Quetzalcoatl",
+      "postal_code": [
+        "94330"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Rafael Alvarado",
+      "postal_code": [
+        "94340"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Real de Palmeras",
+      "postal_code": [
+        "94399"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Residencial Los Naranjos",
+      "postal_code": [
+        "94310"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Rincon Chico",
+      "postal_code": [
+        "94390"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Rincon Grande",
+      "postal_code": [
+        "94393"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Salvador Gonzalo Garcia",
+      "postal_code": [
+        "94310"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "94320"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "94390",
+        "94393"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "San Jose",
+      "postal_code": [
+        "94330"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "San Jose Albergue",
+      "postal_code": [
+        "94330"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "San Juan Bautista",
+      "postal_code": [
+        "94310"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "San Juan Bosco",
+      "postal_code": [
+        "94353"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "San Miguel Tlachichilco",
+      "postal_code": [
+        "94315"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "94339"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "94320"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "94390"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Santa Gertrudis",
+      "postal_code": [
+        "94400"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Santa Maria de Guadalupe",
+      "postal_code": [
+        "94363"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Santa Maria Tlachichilco",
+      "postal_code": [
+        "94350"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "SOAICC Solidaridad",
+      "postal_code": [
+        "94330"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Solidaridad I SOAICC",
+      "postal_code": [
+        "94393"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Tecnologica",
+      "postal_code": [
+        "94330"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Terminal",
+      "postal_code": [
+        "94330"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Terricola",
+      "postal_code": [
+        "94390"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Tulipanes I",
+      "postal_code": [
+        "94339"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Tulipanes II",
+      "postal_code": [
+        "94339"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Union Obrera",
+      "postal_code": [
+        "94350"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Urbana Librado Rivera",
+      "postal_code": [
+        "94380"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Via Toscana Residencial",
+      "postal_code": [
+        "94393"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Villas del Carmen",
+      "postal_code": [
+        "94390"
+      ]
+    },
+    {
+      "city": "Orizaba",
+      "colonia": "Villas Orizaba Residencial",
+      "postal_code": [
+        "94393"
+      ]
+    }
+  ]
+}

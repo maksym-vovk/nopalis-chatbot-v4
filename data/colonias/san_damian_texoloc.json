@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "San Damian Texoloc",
+      "colonia": "El Alto",
+      "postal_code": [
+        "90735"
+      ]
+    },
+    {
+      "city": "San Damian Texoloc",
+      "colonia": "La Cueva",
+      "postal_code": [
+        "90736"
+      ]
+    },
+    {
+      "city": "San Damian Texoloc",
+      "colonia": "Luis Echeverria",
+      "postal_code": [
+        "90737"
+      ]
+    },
+    {
+      "city": "San Damian Texoloc",
+      "colonia": "Monterrey",
+      "postal_code": [
+        "90736"
+      ]
+    },
+    {
+      "city": "San Damian Texoloc",
+      "colonia": "Zavaleta",
+      "postal_code": [
+        "90736"
+      ]
+    }
+  ]
+}

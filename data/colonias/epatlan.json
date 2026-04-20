@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Epatlan",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "74633"
+      ]
+    },
+    {
+      "city": "Epatlan",
+      "colonia": "San Juan Epatlan",
+      "postal_code": [
+        "74630"
+      ]
+    },
+    {
+      "city": "Epatlan",
+      "colonia": "San Mateo Oxtotla",
+      "postal_code": [
+        "74635"
+      ]
+    },
+    {
+      "city": "Epatlan",
+      "colonia": "Santa Ana Necoxtla",
+      "postal_code": [
+        "74630"
+      ]
+    },
+    {
+      "city": "Epatlan",
+      "colonia": "Xayultepec",
+      "postal_code": [
+        "74634"
+      ]
+    }
+  ]
+}

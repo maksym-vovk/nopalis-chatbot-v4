@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "San Pedro y San Pablo Ayutla",
+      "colonia": "Cerro del Amole",
+      "postal_code": [
+        "70283"
+      ]
+    },
+    {
+      "city": "San Pedro y San Pablo Ayutla",
+      "colonia": "Cerro Pelon",
+      "postal_code": [
+        "70283"
+      ]
+    },
+    {
+      "city": "San Pedro y San Pablo Ayutla",
+      "colonia": "El Duraznal",
+      "postal_code": [
+        "70284"
+      ]
+    },
+    {
+      "city": "San Pedro y San Pablo Ayutla",
+      "colonia": "El Portillo Guadalupe",
+      "postal_code": [
+        "70283"
+      ]
+    },
+    {
+      "city": "San Pedro y San Pablo Ayutla",
+      "colonia": "Lachicocana",
+      "postal_code": [
+        "70284"
+      ]
+    },
+    {
+      "city": "San Pedro y San Pablo Ayutla",
+      "colonia": "San Pedro y San Pablo Ayutla",
+      "postal_code": [
+        "70283"
+      ]
+    }
+  ]
+}

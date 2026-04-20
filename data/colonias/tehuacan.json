@@ -1,0 +1,1741 @@
+{
+  "data": [
+    {
+      "city": "Tehuacan",
+      "colonia": "15 de Mayo",
+      "postal_code": [
+        "75796"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "16 de Marzo",
+      "postal_code": [
+        "75766"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "18 de Marzo",
+      "postal_code": [
+        "75764"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "21 de Marzo",
+      "postal_code": [
+        "75859"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "24 de Febrero",
+      "postal_code": [
+        "75742"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "3 de Mayo",
+      "postal_code": [
+        "75765"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Aeropuerto",
+      "postal_code": [
+        "75718"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Aeropuerto 2a Seccion",
+      "postal_code": [
+        "75718"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Agricola el Porvenir",
+      "postal_code": [
+        "75758"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Agua Blanca I",
+      "postal_code": [
+        "75796"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Agua Blanca II",
+      "postal_code": [
+        "75793"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Agua Santa",
+      "postal_code": [
+        "75719"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Alatriste",
+      "postal_code": [
+        "75855"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Allende",
+      "postal_code": [
+        "75740"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "America",
+      "postal_code": [
+        "75766"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Anahuac",
+      "postal_code": [
+        "75710"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Aquiles Serdan",
+      "postal_code": [
+        "75750"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "75765"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Arcangel",
+      "postal_code": [
+        "75710"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Asuncion",
+      "postal_code": [
+        "75857"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Aveiro",
+      "postal_code": [
+        "75859"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Aviacion",
+      "postal_code": [
+        "75718"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "75793"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "75730",
+        "75770"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Bosques de Reforma",
+      "postal_code": [
+        "75719"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Bosques de San Pedro",
+      "postal_code": [
+        "75740"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "75730"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Cerrada del Pirul",
+      "postal_code": [
+        "75730"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Cerritos",
+      "postal_code": [
+        "75731"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Chapultepec",
+      "postal_code": [
+        "75763"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Concepcion",
+      "postal_code": [
+        "75780"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Concordia",
+      "postal_code": [
+        "75763"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Constituyentes",
+      "postal_code": [
+        "75710"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Constituyentes 2a Seccion",
+      "postal_code": [
+        "75710"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Constituyentes 3a Seccion",
+      "postal_code": [
+        "75710"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Cuatro Caminos",
+      "postal_code": [
+        "75758"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "75740"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Cultural",
+      "postal_code": [
+        "75795"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Del Empleado",
+      "postal_code": [
+        "75799"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Del Empleado Municipal",
+      "postal_code": [
+        "75743"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Del Valle",
+      "postal_code": [
+        "75740"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Del Valle 2a Seccion",
+      "postal_code": [
+        "75740"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Del Valle 3a Seccion",
+      "postal_code": [
+        "75740"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "El Calvario",
+      "postal_code": [
+        "75790"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "75760"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "El Convento",
+      "postal_code": [
+        "75710"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "El Dorado",
+      "postal_code": [
+        "75730"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Electricistas",
+      "postal_code": [
+        "75741"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "El Eden",
+      "postal_code": [
+        "75720"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "El Eden 2a Seccion",
+      "postal_code": [
+        "75719"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "El Humilladero",
+      "postal_code": [
+        "75790"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "El Lucero",
+      "postal_code": [
+        "75758"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "75780"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "El Molino",
+      "postal_code": [
+        "75780"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "El Palmar",
+      "postal_code": [
+        "75726"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "El Paseo",
+      "postal_code": [
+        "75726"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "75726"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "El Riego",
+      "postal_code": [
+        "75760",
+        "75763"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "El Riego 1a Seccion",
+      "postal_code": [
+        "75763"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "El Riego INFONAVIT",
+      "postal_code": [
+        "75760"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "75780"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "El Vergel",
+      "postal_code": [
+        "75758"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "75730"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Esmeralda",
+      "postal_code": [
+        "75763"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Estrella del Sur",
+      "postal_code": [
+        "75790"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Europa",
+      "postal_code": [
+        "75793"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Exhacienda El Riego",
+      "postal_code": [
+        "75760"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Ex Hacienda San Lorenzo",
+      "postal_code": [
+        "75750"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Ex-Hacienda San Lorenzo",
+      "postal_code": [
+        "75758"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "FOVISSSTE El Rosario",
+      "postal_code": [
+        "75743"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "FOVISSSTE Garci Crespo",
+      "postal_code": [
+        "75730"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Frailes II",
+      "postal_code": [
+        "75710"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Frailes III",
+      "postal_code": [
+        "75710"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Framboyanes",
+      "postal_code": [
+        "75740"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Francisco Sarabia",
+      "postal_code": [
+        "75730"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "75750"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Fuertes de Loreto",
+      "postal_code": [
+        "75855"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Garambuyo",
+      "postal_code": [
+        "75740"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Granjas de Oriente",
+      "postal_code": [
+        "75790"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "75730",
+        "75855",
+        "75859"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Guerrero",
+      "postal_code": [
+        "75740"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Hacienda El Humilladero",
+      "postal_code": [
+        "75796"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Hacienda El Humilladero II",
+      "postal_code": [
+        "75796"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Hacienda La Herradura IV",
+      "postal_code": [
+        "75743"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Hacienda Penafiel",
+      "postal_code": [
+        "75710"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Hacienda San Vicente",
+      "postal_code": [
+        "75718"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Herradura",
+      "postal_code": [
+        "75740"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Ibero Tabachines",
+      "postal_code": [
+        "75710"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "75770"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Independencia",
+      "postal_code": [
+        "75780"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Industrial Jorge Carreno",
+      "postal_code": [
+        "75766"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "INFONAVIT Granada",
+      "postal_code": [
+        "75760"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "INFONAVIT Jardines de Tehuacan",
+      "postal_code": [
+        "75760"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "INFONAVIT San Francisco",
+      "postal_code": [
+        "75758"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "INFONAVIT San Nicolas",
+      "postal_code": [
+        "75710"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "INFONAVIT San Rafael",
+      "postal_code": [
+        "75758"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "INFONAVIT Venustiano Carranza",
+      "postal_code": [
+        "75760"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Ingeniero Pastor Rouaix",
+      "postal_code": [
+        "75784"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Insurgentes",
+      "postal_code": [
+        "75740",
+        "75770"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Insurgentes II",
+      "postal_code": [
+        "75740"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Insurgentes III",
+      "postal_code": [
+        "75740"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Jacarandas",
+      "postal_code": [
+        "75730"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Jardin",
+      "postal_code": [
+        "75720"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Jardines del Valle",
+      "postal_code": [
+        "75796"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Jardines de Tehuacan",
+      "postal_code": [
+        "75769"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Jardines de Tehuacan (Ascote)",
+      "postal_code": [
+        "75769"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Jerusalen",
+      "postal_code": [
+        "75855"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Juquilita",
+      "postal_code": [
+        "75859"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "La Arcadia",
+      "postal_code": [
+        "75760"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "La Huizachera",
+      "postal_code": [
+        "75718"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "La Joya",
+      "postal_code": [
+        "75730"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "La Paz",
+      "postal_code": [
+        "75790"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "La Pedrera",
+      "postal_code": [
+        "75770"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "La Presita",
+      "postal_code": [
+        "75730"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "La Purisima",
+      "postal_code": [
+        "75784"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "La Purisima 1a Secc",
+      "postal_code": [
+        "75784"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "75786"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Las Garzas",
+      "postal_code": [
+        "75758"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Lazaro Cardenas Norte",
+      "postal_code": [
+        "75710"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Lazaro Cardenas Sur",
+      "postal_code": [
+        "75859"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Leyes de Reforma",
+      "postal_code": [
+        "75780"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Libertad",
+      "postal_code": [
+        "75768"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Lobera",
+      "postal_code": [
+        "75720"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Lomas de la Soledad",
+      "postal_code": [
+        "75719"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "75790"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Los Cipreses",
+      "postal_code": [
+        "75740"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Los Delfines",
+      "postal_code": [
+        "75796"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Los Frailes I",
+      "postal_code": [
+        "75710"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "75857"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "75758"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Los Manantiales",
+      "postal_code": [
+        "75855"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "75710",
+        "75797"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Los Pirules",
+      "postal_code": [
+        "75720"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "75725"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Luis Donaldo Colosio Murrieta",
+      "postal_code": [
+        "75726"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Magdalena Cuayucatepec",
+      "postal_code": [
+        "75853"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Maravillas",
+      "postal_code": [
+        "75859"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Maridol",
+      "postal_code": [
+        "75719"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Mazateca",
+      "postal_code": [
+        "75859"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Mexico 68",
+      "postal_code": [
+        "75764"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "75790"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Miguel Romero",
+      "postal_code": [
+        "75758"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Mision Madrid",
+      "postal_code": [
+        "75859"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Moctezuma",
+      "postal_code": [
+        "75740"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Morelos",
+      "postal_code": [
+        "75770",
+        "75780"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Municipio Libre",
+      "postal_code": [
+        "75859"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Nacional",
+      "postal_code": [
+        "75794"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Nicolas Bravo",
+      "postal_code": [
+        "75790"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Nicolas Bravo 2a Seccion",
+      "postal_code": [
+        "75796"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Nicolas Bravo 3a Seccion",
+      "postal_code": [
+        "75790"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "75760"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Nueva Escocia",
+      "postal_code": [
+        "75855"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Nueva Espana",
+      "postal_code": [
+        "75793"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Obrero Penafiel",
+      "postal_code": [
+        "75740"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Observatorio",
+      "postal_code": [
+        "75720"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Palmas",
+      "postal_code": [
+        "75720"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Paraiso de Jesus",
+      "postal_code": [
+        "75726"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Paseo de San Pedro",
+      "postal_code": [
+        "75740"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Paseos de Reforma",
+      "postal_code": [
+        "75719"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Plaza",
+      "postal_code": [
+        "75758"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Primavera",
+      "postal_code": [
+        "75758"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Puebla",
+      "postal_code": [
+        "75768"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Puerta del Sol",
+      "postal_code": [
+        "75796"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Puesta del Sol",
+      "postal_code": [
+        "75760"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Quinta Guadalupe",
+      "postal_code": [
+        "75740"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Rancho Grande",
+      "postal_code": [
+        "75790"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Rancho Las Flores I",
+      "postal_code": [
+        "75796"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Rancho Las Flores II",
+      "postal_code": [
+        "75793"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "75790"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Rancho Viejo II",
+      "postal_code": [
+        "75790"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Real de las Flores",
+      "postal_code": [
+        "75764"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Real de Santa Fe",
+      "postal_code": [
+        "75710"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Real San Felipe",
+      "postal_code": [
+        "75710"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Reforma",
+      "postal_code": [
+        "75760"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Residencial el Paseo",
+      "postal_code": [
+        "75758"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Residencial San Pedro",
+      "postal_code": [
+        "75740"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Resureccion",
+      "postal_code": [
+        "75858"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "75796"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "75780"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Rincon de los Cipreses",
+      "postal_code": [
+        "75740"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "San angel",
+      "postal_code": [
+        "75718"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "San angel Acoquiaco",
+      "postal_code": [
+        "75740"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "75760"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "San Antonio Viveros",
+      "postal_code": [
+        "75758"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "San Cristobal Tepetiopan",
+      "postal_code": [
+        "75853"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "San Diego Chalma",
+      "postal_code": [
+        "75859"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "San Diego I",
+      "postal_code": [
+        "75859"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "San Diego II",
+      "postal_code": [
+        "75859"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "75726"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "San Isidro Sur",
+      "postal_code": [
+        "75859"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "San Jose Tochapa",
+      "postal_code": [
+        "75730"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "75855"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "San Lorenzo Teotipilco",
+      "postal_code": [
+        "75855"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "San Luis Rey",
+      "postal_code": [
+        "75855"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "San Marcos Necoxtla",
+      "postal_code": [
+        "75859"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "San Martin",
+      "postal_code": [
+        "75726"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "75793",
+        "75859"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "75726"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "San Nicolas Tetitzintla",
+      "postal_code": [
+        "75710"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "San Pablo Tepetzingo",
+      "postal_code": [
+        "75859"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "San Pedro Acoquiaco",
+      "postal_code": [
+        "75740"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "75758"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Santa Ana Teloxtoc",
+      "postal_code": [
+        "75856"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Santa Catarina de Siena",
+      "postal_code": [
+        "75855"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Santa Catarina Otzolotepec",
+      "postal_code": [
+        "75855"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "75855"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "75720"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Santa Cruz Acapa",
+      "postal_code": [
+        "75859"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "75857"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Santa Maria Coapan",
+      "postal_code": [
+        "75857"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Santa Maria VI",
+      "postal_code": [
+        "75857"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Santa Monica",
+      "postal_code": [
+        "75790"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Santiago de Tula",
+      "postal_code": [
+        "75740"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Santiago Tula",
+      "postal_code": [
+        "75720"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "75770"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "San Vicente Ferrer",
+      "postal_code": [
+        "75718"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Sarabia",
+      "postal_code": [
+        "75730"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Sotolin",
+      "postal_code": [
+        "75784"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Tehuacan",
+      "postal_code": [
+        "75768"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Tehuacan Centro",
+      "postal_code": [
+        "75700"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Tehuacan (Tehuacan)",
+      "postal_code": [
+        "75717"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Tehuantepec",
+      "postal_code": [
+        "75855"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Tepeyac",
+      "postal_code": [
+        "75726"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Valle del Sol",
+      "postal_code": [
+        "75758"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Valle Sur",
+      "postal_code": [
+        "75795"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Venustiano Carranza",
+      "postal_code": [
+        "75760"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Vicente Suarez",
+      "postal_code": [
+        "75760"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Villa Alhuelican",
+      "postal_code": [
+        "75725"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Villa Benavente",
+      "postal_code": [
+        "75719"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Villa Granadas",
+      "postal_code": [
+        "75732"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Villa Manantiales",
+      "postal_code": [
+        "75857"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Villas Campestre",
+      "postal_code": [
+        "75720"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Villas de la Loma",
+      "postal_code": [
+        "75859"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Villas del Sol",
+      "postal_code": [
+        "75730"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Villas Esmeralda",
+      "postal_code": [
+        "75790"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Villas las Palmas",
+      "postal_code": [
+        "75719"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Villas Paraiso",
+      "postal_code": [
+        "75726"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Villas Puerta del Sol II",
+      "postal_code": [
+        "75796"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Villas Reforma",
+      "postal_code": [
+        "75719"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Villas Universidad",
+      "postal_code": [
+        "75793"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Villas Verona I",
+      "postal_code": [
+        "75719"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Villas Virginia",
+      "postal_code": [
+        "75726"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Villa Verona II",
+      "postal_code": [
+        "75719"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "75858"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Vivir",
+      "postal_code": [
+        "75859"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Xochipilli",
+      "postal_code": [
+        "75770"
+      ]
+    },
+    {
+      "city": "Tehuacan",
+      "colonia": "Zona Alta",
+      "postal_code": [
+        "75750"
+      ]
+    }
+  ]
+}

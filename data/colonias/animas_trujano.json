@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "animas Trujano",
+      "colonia": "Animas Trujano",
+      "postal_code": [
+        "71270"
+      ]
+    },
+    {
+      "city": "animas Trujano",
+      "colonia": "El Paredon",
+      "postal_code": [
+        "71273"
+      ]
+    },
+    {
+      "city": "animas Trujano",
+      "colonia": "El Zapotillo",
+      "postal_code": [
+        "71273"
+      ]
+    },
+    {
+      "city": "animas Trujano",
+      "colonia": "Paraje la Tortuga",
+      "postal_code": [
+        "71274"
+      ]
+    }
+  ]
+}

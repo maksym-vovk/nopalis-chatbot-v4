@@ -1,0 +1,3459 @@
+{
+  "data": [
+    {
+      "city": "Balleza",
+      "colonia": "Adjuntas de Arriba",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Agostadero de Aguirre",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Agostadero de Moreno",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Agua Azul",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Agua Caliente",
+      "postal_code": [
+        "33567",
+        "33573",
+        "33576",
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Aguaje del Alto",
+      "postal_code": [
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Aguaje de las Colonias (Cerro Nanaruchi)",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Aguaje de Salome",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Agua Puerca",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Alto de Navarro (Mesa del Madrono)",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Altos de la Garrocha",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Altos de Metatitos",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Aquichi",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Arroyo de Bacochi",
+      "postal_code": [
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Arroyo de Chabela",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Arroyo del Agua",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Arroyo de las Cuevas",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Arroyo del Burro",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Arroyo del Chiguitoso",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Arroyo del Maiz",
+      "postal_code": [
+        "33570",
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Arroyo del Molino",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Arroyo del Muerto",
+      "postal_code": [
+        "33565"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Arroyo de los Compadres",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Arroyo del Rancho",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Arroyo de San Rafael",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Arroyo Hondo",
+      "postal_code": [
+        "33563",
+        "33567",
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Arroyo los Pozos",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Aserradero Pilares",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Atotonilco (Los Nogales)",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Bacasoachi",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Bacochi",
+      "postal_code": [
+        "33574",
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Bagueachi",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Bajichi",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Bajio del Agua",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Bajio del Alambre",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Bajio del Arbolito",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Bajio de las Ratas",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Bajio del Carmen",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Bajio del Corralito",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Bajio el Arbolito",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Bajio Grande",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Bajio Largo",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Banos de Abajo",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Banos de Arriba (San Francisco)",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Baquiriachi",
+      "postal_code": [
+        "33564",
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Barbechitos",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Basigochi",
+      "postal_code": [
+        "33565",
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Batosigare",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Bohuichique",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Boquirare",
+      "postal_code": [
+        "33576",
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Buenavista [Internado]",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Camellones",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Capulin",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Carril Calazanes",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Carrizal",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Casa Quemada",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Cebadillas",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Cerro Blanco",
+      "postal_code": [
+        "33565",
+        "33573",
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Cerro Colorado",
+      "postal_code": [
+        "33566",
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Cerro Prieto",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Chabarachi",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Chacachi",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Chahueachi",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Chalayotes",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Chepumichi",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Chinameachi",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Chiquihuite",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Chiturachi",
+      "postal_code": [
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Choreachi",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Churichique",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Cienega Grande",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Cienega Larga",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Cienega Prieta",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Cieneguita",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Comarachi",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Comunidad el Cerrito",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Comunidad el Durazno",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Comunidad Rio Verde",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Comunidad Todos Santos",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Coquenas",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Coquenas de Abajo",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Coremachi",
+      "postal_code": [
+        "33573",
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Corralitos",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Coscomates",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Coyachi",
+      "postal_code": [
+        "33574",
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Cristobal Colon",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Cuatro Vientos",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Cuechi",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Cueva Colorada (Mesa del Pino)",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Cueva de Remigio",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Cueva Pinta",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Cuevas Blancas",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Cumbres del Durazno",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Ejido el Vergel",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Ejido Guajolotes",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Ejido Guazarachi",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Ejido la Pinta",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Aguaje",
+      "postal_code": [
+        "33563",
+        "33566",
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Aguaje de la Nopalera",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Aguajito",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Agua Zarca",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Alamillo",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Alamito",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El alamo",
+      "postal_code": [
+        "33564",
+        "33565",
+        "33566",
+        "33575",
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El almagre",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Alto de la Cebadilla",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Alto de la Rana (Puerto de los Gachupines)",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Arbolito",
+      "postal_code": [
+        "33563",
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Arroyo del Alamillo (Arroyo del Gato)",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Arroyo del Embudo (Arroyo del Ojito)",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Arroyo del Trueno",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Bajio",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Barro",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Bosque",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Brincadero",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Burro",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Cahuite",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Carcaje",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "33564",
+        "33576",
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Chamizal",
+      "postal_code": [
+        "33560"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Chiguitoso",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Chihuite",
+      "postal_code": [
+        "33573",
+        "33573",
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Chihuite de Abajo",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Cordon de Enmedio",
+      "postal_code": [
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Corral",
+      "postal_code": [
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Crucero",
+      "postal_code": [
+        "33565"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Cuerno",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Cuervo",
+      "postal_code": [
+        "33565"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Divisadero",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Durazno",
+      "postal_code": [
+        "33563",
+        "33567",
+        "33574",
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Durazno (El Duraznito)",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Embudo",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Encino",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Fortin",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Fresno",
+      "postal_code": [
+        "33563",
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Gavilan",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Guajolote",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Jacalito",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Llano",
+      "postal_code": [
+        "33565"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Llano Grande",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Madronito",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Madrono (Las Damianas)",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Maguey",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Manzano",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Metate",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Molineno",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Molino",
+      "postal_code": [
+        "33567",
+        "33576",
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Nogal",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Nogalito",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Obispo",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Obscuro",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Ojito",
+      "postal_code": [
+        "33564",
+        "33566",
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Olote",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Padre",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Pajarito",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Palomo",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Papalote",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Paso del aguila",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Paso de las Tinas (Llano de la Virgen)",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Pinito",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Pinole",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Pirame",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Poleo",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "33564",
+        "33566",
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Porvenir (La Lajita)",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Potrero",
+      "postal_code": [
+        "33570",
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Puerto",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Puerto de los Chiles",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Puerto de los Compadres",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Puerto (La Puerta)",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Puerto Pilares",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Quelite",
+      "postal_code": [
+        "33564",
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "33566",
+        "33573",
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Realito",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Rebaje",
+      "postal_code": [
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Remate",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Remolino",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Remudadero",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Reparo",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Riito",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Rojo",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Rosado",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Sabinal",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Salto",
+      "postal_code": [
+        "33563",
+        "33563",
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Saucito",
+      "postal_code": [
+        "33564",
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Tajo",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Tascate",
+      "postal_code": [
+        "33564",
+        "33566",
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Tequesquite",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Tigre (Casita del Alto)",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Toro",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Torreon",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Treinta y Cuatro",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Trigueno",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Tulerillo",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Venteo",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "El Vigueno [Aserradero]",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Ex-Hacienda San Juan",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Faustinos",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "General Carlos Pacheco (El Terrero)",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Granja la Joyita",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Guachamoachi",
+      "postal_code": [
+        "33565"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Guachique",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Guahueachi (Guajeachi)",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Guasachique",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Güichagoachi",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Güichinachi",
+      "postal_code": [
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Hacienda los Nogales",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Huajotita",
+      "postal_code": [
+        "33565"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Huerta Victoria",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Bascula",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Bascula Ganadera",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Boca",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Boquilla",
+      "postal_code": [
+        "33566",
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Casa Colorada",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Cebolla",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Chinaca",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Cieneguilla",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Cieneguita",
+      "postal_code": [
+        "33566",
+        "33573",
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Cieneguita (El Terrerito)",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Concepcion",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Cruzada",
+      "postal_code": [
+        "33563",
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Cueva",
+      "postal_code": [
+        "33564",
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Cuevita",
+      "postal_code": [
+        "33565"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Culebra",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Culebra 2",
+      "postal_code": [
+        "33565"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Espuela",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Garrapata",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Gotera",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Laguna del Tascate (La Quebradora)",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Laguna Juanota",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Lagunas Cuatas",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Haciendita",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Hierbabuena",
+      "postal_code": [
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Impregnadora",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Joya",
+      "postal_code": [
+        "33576",
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Joya del Rio Verde",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Joyita",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Laborcita",
+      "postal_code": [
+        "33564",
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Lagartija",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "33563",
+        "33564",
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Lagunita",
+      "postal_code": [
+        "33564",
+        "33570",
+        "33575",
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Laja",
+      "postal_code": [
+        "33563",
+        "33565",
+        "33565",
+        "33573",
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Lajita",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Loma",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Madera",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Magdalena",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Mesa",
+      "postal_code": [
+        "33563",
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Mesa de la Cruz",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Mesa del aguila",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Mesa del Salto",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Mesa de Talayotes",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Mesita",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Nopalera (La Cueva Nopalera)",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Noria",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Otra Banda (Los Medina)",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Palangana",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Parida",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Piedad",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Puerta",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Punta",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Quebrada",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Rana",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Las animas",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Las Coloradas",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Las Delicias",
+      "postal_code": [
+        "33575",
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Las Dos W",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Las Granjas (Los Cocedores)",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Las Gualdias",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Simbra",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Las Jaquimas",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Las Jarillas",
+      "postal_code": [
+        "33564",
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Las Jarillas (Gamboa)",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Las Jarillas (Villalobos)",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Las Joyas",
+      "postal_code": [
+        "33573",
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Las Juntas",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Las Lagunas",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Las Marthas",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Las Mesitas",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Sobrenjalma",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Las Palomas",
+      "postal_code": [
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Las Playas",
+      "postal_code": [
+        "33563",
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Las Tinas",
+      "postal_code": [
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Las Tortugas",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Las Trampas",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Las Tres Flores [Albercas]",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Las Tronchas",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Targea",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Tarinena",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Testera",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "33563",
+        "33565",
+        "33566",
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Troja",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Union",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Viborilla",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Y",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "La Yerbabuena",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Lerdo",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los Aguajes",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los alamos (San Fernando de los alamos)",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los Altos de la Sierra",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los Bajios de Felix",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los Berros",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los Bustillos",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los Cerritos",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los Charcos",
+      "postal_code": [
+        "33566",
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los Chavira",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "33563",
+        "33573",
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los Jacales",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los Lamentos",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los Lirios",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los Llanitos",
+      "postal_code": [
+        "33567",
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los Magueyitos",
+      "postal_code": [
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los Manzanos",
+      "postal_code": [
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los Nogales (Rancho de Abajo)",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los Ositos",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los Pilares",
+      "postal_code": [
+        "33575",
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los Prietos",
+      "postal_code": [
+        "33565"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los Sabinos",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Los Tascates",
+      "postal_code": [
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Macahuachi",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Manzanilla",
+      "postal_code": [
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Manzanillas",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Mariano Balleza Centro",
+      "postal_code": [
+        "33560"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Matachachi",
+      "postal_code": [
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Matatenas de Abajo",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Matejoachi",
+      "postal_code": [
+        "33573",
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Matejorare",
+      "postal_code": [
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Mesa Blanca",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Mesa de Agostadero",
+      "postal_code": [
+        "33565"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Mesa de Agua Blanca",
+      "postal_code": [
+        "33565"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Mesa de Corralitos",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Mesa de Gevaria",
+      "postal_code": [
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Mesa del Agua",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Mesa del Agua de Enmedio",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Mesa del aguila",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Mesa de la Laguna",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Mesa de las Manzanillas (Manzanillas)",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Mesa del Maguey",
+      "postal_code": [
+        "33570",
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Mesa de los Charcos",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Mesa de los Magueyes",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Mesa de los Pinos",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Mesa de Piedra Bola",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Mesa de Tucheachi",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Mesa Metatillo",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Metatillo",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Metatitos",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Mexicana Forestal [Ex-Aserradero]",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Milpillas",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Moba",
+      "postal_code": [
+        "33565"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Morisochi",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Nanaruchi",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Napichi",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Napuchi",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Navarrito",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Navarro (Puente de Navarro)",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Ocherachi (Ocherari)",
+      "postal_code": [
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Otovachi",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Pachao",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Palominas",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Paraje Buena Vista",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Paraje el Palomo",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Paraje Frailecillo",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Paraje la Colorada",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Paraje la Laguna",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Paraje la Soledad",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Paraje las Palmillas",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Paraje la Tuna",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Paraje los Alamitos",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Paraje los Bajillos",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Paraje Macho Grullo",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Paraje Mesa de los Surcos",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Paraje Potrero Viejo (Bajio de las Delicias)",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Paraje Puerto Colorado",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Paraje Seco",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Paraje Tonachi de Arriba",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Parichi",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Pastores",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Paula Aun de Aguirre",
+      "postal_code": [
+        "33560"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Pechurachi",
+      "postal_code": [
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Penas Prietas",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Penjamo",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Picachos",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Pichique",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Piedra Agujerada",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Piedra Bola",
+      "postal_code": [
+        "33573",
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Piedra de Amolar",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Piedra Reventada (La Reventada)",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Pilares de Abajo",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Pinalejo",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Potrero de Nicolas",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Puerto Blanco",
+      "postal_code": [
+        "33573",
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Puerto del Coyote",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Puerto Escondido",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Puerto Nazario (La Laja)",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Puerto Tres Hermanos",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Ramillete",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Ranchito de Agujas",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Ranchito de Agujas (El Reventon)",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Ranchito de San Juan",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Ranchito (San Juanito)",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rancho Chico",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rancho de Bejarano",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rancho de Cecilio",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rancho de Enmedio",
+      "postal_code": [
+        "33567",
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rancho de Enmedio (El Jacalito)",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rancho del Medio",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rancho del Tepozan",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rancho el Moscu",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rancho el Saucito",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rancho Ibarreno (Rancho Ibarra)",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rancho la Tableta",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rancho los Alamillos",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rancho Lupe (Agua Fria)",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rancho Moba",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rancho Niri",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rancho Tetona",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rancho Viejo de Arriba",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Raul Fernandez",
+      "postal_code": [
+        "33560"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rebajes",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Recubichi",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rejolocachi",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Remate del Arroyo de las Viboras",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Remurachi",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rerohuachi",
+      "postal_code": [
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rincon Colorado",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rincon del Aguaje",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rincon de la Laguna",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rio Chico",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rio Santa Rita",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rojarare",
+      "postal_code": [
+        "33574",
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Roneachi",
+      "postal_code": [
+        "33565"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Ronorochare",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rosahuachi",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Rosanachi",
+      "postal_code": [
+        "33574",
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Sagoachi",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Saguarachi",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Saguaroachi",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Sahuarichi",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Sahuaroachi",
+      "postal_code": [
+        "33563"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "San Antonio de Abajo",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "San Antonio de Arriba",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "San Cristobal",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "San Esteban",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "San Gabriel",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "San Jose",
+      "postal_code": [
+        "33566",
+        "33574",
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "San Jose de las Varas",
+      "postal_code": [
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "San Juan",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "San Juan de Atotonilco",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "San Juan de los Iturralde",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "33566"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "San Rafael de Agostadero",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "San Silvestre",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Santa Clara",
+      "postal_code": [
+        "33566",
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Santa Gertrudis",
+      "postal_code": [
+        "33577"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Santana",
+      "postal_code": [
+        "33564",
+        "33565",
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Sapareachi",
+      "postal_code": [
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Satevo",
+      "postal_code": [
+        "33574",
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Segorachi",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Sehuamachi",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Sitanachi",
+      "postal_code": [
+        "33574"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Tascate de Arriba",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Tecorichi",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Tenenuco",
+      "postal_code": [
+        "33567"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Terreritos",
+      "postal_code": [
+        "33564"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "33563",
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Tonachi",
+      "postal_code": [
+        "33575"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Tres Encinos [Grupo Forestal]",
+      "postal_code": [
+        "33573"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "ultima Agua",
+      "postal_code": [
+        "33570"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Valle el Manzano",
+      "postal_code": [
+        "33576"
+      ]
+    },
+    {
+      "city": "Balleza",
+      "colonia": "Ventanas",
+      "postal_code": [
+        "33576"
+      ]
+    }
+  ]
+}

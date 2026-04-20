@@ -1,0 +1,725 @@
+{
+  "data": [
+    {
+      "city": "Santo Domingo",
+      "colonia": "Abundancia",
+      "postal_code": [
+        "78638"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Alfonso Garcia",
+      "postal_code": [
+        "78636"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Antonio Lopez",
+      "postal_code": [
+        "78636"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Bajio del Ciriaco",
+      "postal_code": [
+        "78633"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Caldereta",
+      "postal_code": [
+        "78643"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Cerrito el Tejon",
+      "postal_code": [
+        "78643"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Cerritos de Bernal",
+      "postal_code": [
+        "78634"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Cerro el Tezontle",
+      "postal_code": [
+        "78643"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Charco Colorado",
+      "postal_code": [
+        "78645"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Congregacion de Santo Domingo",
+      "postal_code": [
+        "78638"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "78647"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Bozal",
+      "postal_code": [
+        "78636"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Capisallo",
+      "postal_code": [
+        "78647"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Carmen (El Papalote)",
+      "postal_code": [
+        "78635"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Castillo (El Salto de Contreras)",
+      "postal_code": [
+        "78637"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Chaparro",
+      "postal_code": [
+        "78647"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Colorado (Luz Munoz)",
+      "postal_code": [
+        "78634"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Convento",
+      "postal_code": [
+        "78640"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Dorado",
+      "postal_code": [
+        "78633"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Encino",
+      "postal_code": [
+        "78635"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Gavilan",
+      "postal_code": [
+        "78636"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Herradero (Adalberto Davila Ortiz)",
+      "postal_code": [
+        "78633"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Jardin",
+      "postal_code": [
+        "78638"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Lobo Chico",
+      "postal_code": [
+        "78640"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Lobo Grande",
+      "postal_code": [
+        "78640"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Matambo",
+      "postal_code": [
+        "78637"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Mezquite Verde",
+      "postal_code": [
+        "78640"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Ranchito (Francisco Flores)",
+      "postal_code": [
+        "78633"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "78638"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Relicario",
+      "postal_code": [
+        "78637"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Rosalito (Laguna del Muerto)",
+      "postal_code": [
+        "78640"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "78635"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Sabino",
+      "postal_code": [
+        "78633"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Soyate (Loma del Soyate)",
+      "postal_code": [
+        "78635"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Taponcito",
+      "postal_code": [
+        "78633"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "El Tepetate",
+      "postal_code": [
+        "78634"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Gamez",
+      "postal_code": [
+        "78645"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Hacienda el Indio",
+      "postal_code": [
+        "78636"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Illescas",
+      "postal_code": [
+        "78645"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Jesus Maria",
+      "postal_code": [
+        "78646"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Jose Davila Castro (El Encino)",
+      "postal_code": [
+        "78635"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Jose Villanueva",
+      "postal_code": [
+        "78636"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Juan Sarabia (Centro Ovino)",
+      "postal_code": [
+        "78633"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "La Botoncita",
+      "postal_code": [
+        "78639"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "La Calandria",
+      "postal_code": [
+        "78636"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "La Coyotera (Adalberto Davila)",
+      "postal_code": [
+        "78638"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "78638"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "La Esperanza (Hermanos de la Torre)",
+      "postal_code": [
+        "78634"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "La Flor",
+      "postal_code": [
+        "78638"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Laguna la Cardona",
+      "postal_code": [
+        "78639"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "La Independencia (Ernesto Munoz)",
+      "postal_code": [
+        "78634"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "La Merced",
+      "postal_code": [
+        "78636"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "La Rastrerita",
+      "postal_code": [
+        "78639"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "La Sabanilla 3",
+      "postal_code": [
+        "78633"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Las Huertas",
+      "postal_code": [
+        "78636"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Las Palomas",
+      "postal_code": [
+        "78649"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Las Papas",
+      "postal_code": [
+        "78645"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Las Vegas (San Agustin)",
+      "postal_code": [
+        "78637"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "La Tapona",
+      "postal_code": [
+        "78635"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "78638"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "La Ventura (El Grullo)",
+      "postal_code": [
+        "78640"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "La Victoria",
+      "postal_code": [
+        "78636"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "La Yerbabuena",
+      "postal_code": [
+        "78637"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "78638"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Los Pachones",
+      "postal_code": [
+        "78634"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Los Remedios",
+      "postal_code": [
+        "78643"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Morelos",
+      "postal_code": [
+        "78638"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Nicolas Mata",
+      "postal_code": [
+        "78634"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Nueva Rosita",
+      "postal_code": [
+        "78636"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Palma Mocha",
+      "postal_code": [
+        "78646"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Pena Tercera",
+      "postal_code": [
+        "78634"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Potrero del Muerto",
+      "postal_code": [
+        "78640"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Providencia",
+      "postal_code": [
+        "78643"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Rancho Cinco Hermanos (La Tapona)",
+      "postal_code": [
+        "78638"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Rancho San Antonio",
+      "postal_code": [
+        "78646"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Rancho San Jose (Los Cuatillos)",
+      "postal_code": [
+        "78634"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Rodrigo Becerra",
+      "postal_code": [
+        "78637"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "San Antonio Banderillas",
+      "postal_code": [
+        "78647"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "San Antonio del Mezquite",
+      "postal_code": [
+        "78649"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "San Antonio de los Garza",
+      "postal_code": [
+        "78635"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "San Dionisio",
+      "postal_code": [
+        "78643"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "78635"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "San Jose Calihuey",
+      "postal_code": [
+        "78646"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "San Juan de Dios",
+      "postal_code": [
+        "78639"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "San Juan del Salado",
+      "postal_code": [
+        "78643"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "San Martin (Jaime Esquivel Castro)",
+      "postal_code": [
+        "78639"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "San Matias",
+      "postal_code": [
+        "78638"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "78635"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "78638"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "San Simon",
+      "postal_code": [
+        "78649"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Santa Cecilia (Mario Rodriguez Quiroz)",
+      "postal_code": [
+        "78640"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Santa Cecilia (Nicolas Garcia)",
+      "postal_code": [
+        "78633"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Santa Clara",
+      "postal_code": [
+        "78647"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Santa Efigenia",
+      "postal_code": [
+        "78638"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Santa Fe (Abel Rodriguez Quiroz)",
+      "postal_code": [
+        "78640"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "78647"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Santa Maria del Mezquite",
+      "postal_code": [
+        "78638"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Santa Matilde",
+      "postal_code": [
+        "78640"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "78630"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "San Vicente Banderillas",
+      "postal_code": [
+        "78644"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Socorro de Dios",
+      "postal_code": [
+        "78638"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Zancarron",
+      "postal_code": [
+        "78647"
+      ]
+    },
+    {
+      "city": "Santo Domingo",
+      "colonia": "Zaragoza (Pozo Salado)",
+      "postal_code": [
+        "78649"
+      ]
+    }
+  ]
+}

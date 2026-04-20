@@ -1,0 +1,4883 @@
+{
+  "data": [
+    {
+      "city": "Matamoros",
+      "colonia": "14 de Febrero",
+      "postal_code": [
+        "87477"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "1° de Mayo",
+      "postal_code": [
+        "87320"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "87450"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "21 de Marzo",
+      "postal_code": [
+        "27449"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "21 de Mayo",
+      "postal_code": [
+        "87453"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "27 de Febrero",
+      "postal_code": [
+        "87477"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "29 de Junio",
+      "postal_code": [
+        "27444"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "3 Rios",
+      "postal_code": [
+        "87324"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "5 de Marzo",
+      "postal_code": [
+        "87477"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Abelardo de la Torre",
+      "postal_code": [
+        "87455"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Acuario 2001",
+      "postal_code": [
+        "87344"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "87395"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Aeropuerto",
+      "postal_code": [
+        "87395"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Agricola Oriental",
+      "postal_code": [
+        "87454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "aguilas",
+      "postal_code": [
+        "87346"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "aguilas 2001",
+      "postal_code": [
+        "87346"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Albia [Granja]",
+      "postal_code": [
+        "27457"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Alborada",
+      "postal_code": [
+        "87454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Aldali (La Aurora)",
+      "postal_code": [
+        "27457"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Alfonso Trevino",
+      "postal_code": [
+        "87440"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Alianza",
+      "postal_code": [
+        "87410"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Amado Nervo",
+      "postal_code": [
+        "87396"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ampliacion Abelardo de la Torre",
+      "postal_code": [
+        "87453"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ampliacion Ejido las Rusias",
+      "postal_code": [
+        "87324"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ampliacion Ejido Longoreno",
+      "postal_code": [
+        "87493"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ampliacion Expofiesta Norte",
+      "postal_code": [
+        "87395"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ampliacion Jose Santos Valdez",
+      "postal_code": [
+        "27443"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ampliacion la Tijerita",
+      "postal_code": [
+        "87560"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ampliacion los Agaves",
+      "postal_code": [
+        "87454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ampliacion Reforma Sur",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ampliacion Santa Cecilia",
+      "postal_code": [
+        "87456"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Andalucia",
+      "postal_code": [
+        "27447",
+        "27460"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "angeles de Dios [Casa Hogar]",
+      "postal_code": [
+        "87557"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ano de Juarez",
+      "postal_code": [
+        "27447"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "87448"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Arboledas del Rio",
+      "postal_code": [
+        "87440"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Arecas",
+      "postal_code": [
+        "87413"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Asturias",
+      "postal_code": [
+        "27476"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Atalaya",
+      "postal_code": [
+        "27454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Aureliano Barajas",
+      "postal_code": [
+        "27448"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Aurora",
+      "postal_code": [
+        "87370"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Azteca",
+      "postal_code": [
+        "87398"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Bagdad Sur",
+      "postal_code": [
+        "87383"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Baltazar Agüero",
+      "postal_code": [
+        "27442"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Baltazar Diaz Bazan",
+      "postal_code": [
+        "87310"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Bancaria",
+      "postal_code": [
+        "87370"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Baracaldo",
+      "postal_code": [
+        "27466"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Bascula la Sandillita",
+      "postal_code": [
+        "27466"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Benavides (Morelos Uno)",
+      "postal_code": [
+        "27466"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "27443",
+        "27463"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "87469"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Bertha Avellano",
+      "postal_code": [
+        "87438"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Bienestar",
+      "postal_code": [
+        "87398"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Bozanes",
+      "postal_code": [
+        "27475"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Breka (Sector Cuatro Andalucia)",
+      "postal_code": [
+        "27460"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Brisas",
+      "postal_code": [
+        "87444"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Brisas del Valle",
+      "postal_code": [
+        "87313"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "87350"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "87395",
+        "87554"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Cabras Pintas",
+      "postal_code": [
+        "87395"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Campestre del Lago",
+      "postal_code": [
+        "87498"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Campestre del Real",
+      "postal_code": [
+        "87497"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Campestre del Rio I",
+      "postal_code": [
+        "87440"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Campestre del Rio II",
+      "postal_code": [
+        "87440"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Campo Espiguero del Cuate",
+      "postal_code": [
+        "27466"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Canada",
+      "postal_code": [
+        "87493"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Cananea",
+      "postal_code": [
+        "87310"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Canaveral",
+      "postal_code": [
+        "87495"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Carlos Salinas de Gortari",
+      "postal_code": [
+        "27446"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Carolinas",
+      "postal_code": [
+        "27444"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Carrera Torres",
+      "postal_code": [
+        "87313"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Casa Blanca",
+      "postal_code": [
+        "87345"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Casa Colorada",
+      "postal_code": [
+        "87430"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Castillos Reales",
+      "postal_code": [
+        "87495"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "CBTIS",
+      "postal_code": [
+        "87399"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Cecilia Ocelli",
+      "postal_code": [
+        "87456"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Cedritos",
+      "postal_code": [
+        "87314"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "CEFERESO Numero 3",
+      "postal_code": [
+        "87560"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Central Mercado de Abastos",
+      "postal_code": [
+        "87399"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Centro Comercial Plaza Fiesta",
+      "postal_code": [
+        "87390"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Centro Comercial Plaza Sendero",
+      "postal_code": [
+        "87345"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Cerrada Girasoles",
+      "postal_code": [
+        "27460"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Chapultepec",
+      "postal_code": [
+        "87380"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Chulavista",
+      "postal_code": [
+        "87385"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Cinco de Mayo",
+      "postal_code": [
+        "87580"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ciudad Industrial",
+      "postal_code": [
+        "87494",
+        "87499"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Colonia Unidad",
+      "postal_code": [
+        "87454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Compuertas",
+      "postal_code": [
+        "27458"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Comunicadores",
+      "postal_code": [
+        "87453"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Condesa",
+      "postal_code": [
+        "87454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Congregacion Sacrificio (El Dolar)",
+      "postal_code": [
+        "27476"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Constitucion del 17",
+      "postal_code": [
+        "87310"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Control 3 Norte",
+      "postal_code": [
+        "87320"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Control 3 Sur",
+      "postal_code": [
+        "87340"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Corea",
+      "postal_code": [
+        "27476"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Corona",
+      "postal_code": [
+        "27454",
+        "27463"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Correcaminos",
+      "postal_code": [
+        "87477"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Cuatro Caminos",
+      "postal_code": [
+        "87395"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Del Bosque",
+      "postal_code": [
+        "87477"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Del Carmen",
+      "postal_code": [
+        "87400"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Del Golfo",
+      "postal_code": [
+        "87343"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Delicias",
+      "postal_code": [
+        "87360"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Del Nino",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Del Valle",
+      "postal_code": [
+        "87320"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Derechos Humanos",
+      "postal_code": [
+        "87477"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Division del Norte",
+      "postal_code": [
+        "87456"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Dona Margarita (Monclova) [Establo]",
+      "postal_code": [
+        "27478"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ebenezer",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ejidal",
+      "postal_code": [
+        "27446"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ejidal y Deportiva",
+      "postal_code": [
+        "27443"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ejido 20 de Noviembre",
+      "postal_code": [
+        "87399"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ejido Buena Vista",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ejido Cabras Pintas",
+      "postal_code": [
+        "87343"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ejido la Union",
+      "postal_code": [
+        "87345"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ejido los Arados",
+      "postal_code": [
+        "87313"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ejido Lucio Blanco",
+      "postal_code": [
+        "87444"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ejido San Miguel",
+      "postal_code": [
+        "27440"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ejido Santo Tomas",
+      "postal_code": [
+        "27449"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Alto",
+      "postal_code": [
+        "87394",
+        "87553"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Bastan",
+      "postal_code": [
+        "27475"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Cambio",
+      "postal_code": [
+        "27455"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Cambio",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Capote",
+      "postal_code": [
+        "87554"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Caracol",
+      "postal_code": [
+        "87313"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Carino Veinte",
+      "postal_code": [
+        "27464"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "27460",
+        "27478"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Chalet",
+      "postal_code": [
+        "27447"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Chorizo",
+      "postal_code": [
+        "87316"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Cinco",
+      "postal_code": [
+        "27453"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Cinco (Mariano Matamoros)",
+      "postal_code": [
+        "27466"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Consuelo",
+      "postal_code": [
+        "27460",
+        "27476"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Consuelo [Establo]",
+      "postal_code": [
+        "27460"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Control",
+      "postal_code": [
+        "87552"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Coyote",
+      "postal_code": [
+        "27454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Cuije",
+      "postal_code": [
+        "27457"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Dolar",
+      "postal_code": [
+        "27470"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Ebanito",
+      "postal_code": [
+        "87557"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Electricistas",
+      "postal_code": [
+        "87360"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Electricistas Sur",
+      "postal_code": [
+        "87455"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Fenix",
+      "postal_code": [
+        "27450"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Fenix [Establo]",
+      "postal_code": [
+        "27457"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Fuerte",
+      "postal_code": [
+        "27457"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Galaneno",
+      "postal_code": [
+        "87560"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Huizachal",
+      "postal_code": [
+        "87577"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Loco",
+      "postal_code": [
+        "27460",
+        "27460"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Longoreno",
+      "postal_code": [
+        "87540"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Mezquital",
+      "postal_code": [
+        "87587"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Milagro de Fresneo",
+      "postal_code": [
+        "27454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Moquetito",
+      "postal_code": [
+        "87580"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Nacimiento",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Olivo",
+      "postal_code": [
+        "27473"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Pacifico",
+      "postal_code": [
+        "27478"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Parreno",
+      "postal_code": [
+        "27460",
+        "27465"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Perote",
+      "postal_code": [
+        "87557"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Pilar",
+      "postal_code": [
+        "27459"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Pilar (Vigo)",
+      "postal_code": [
+        "27458"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "87477"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "87570"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Ranchito y Refugio (El Refugio)",
+      "postal_code": [
+        "87570"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Realito",
+      "postal_code": [
+        "87554"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Recuerdo",
+      "postal_code": [
+        "87454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "27476"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "87540"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Roble",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Sabinito",
+      "postal_code": [
+        "87557"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Sabino",
+      "postal_code": [
+        "87557"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Sabino (Napoleon Benavides)",
+      "postal_code": [
+        "87557"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Sacrificio",
+      "postal_code": [
+        "27476"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Saucito",
+      "postal_code": [
+        "87453"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Tahuachal",
+      "postal_code": [
+        "87557"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Tecolote",
+      "postal_code": [
+        "87544",
+        "87544"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Tejaban",
+      "postal_code": [
+        "27452"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "27445"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "87398"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Emilio Portes Gil",
+      "postal_code": [
+        "87340"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Enrique Cardenas",
+      "postal_code": [
+        "87450"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Enrique Martinez y Martinez",
+      "postal_code": [
+        "27442"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Entrada al Cuije",
+      "postal_code": [
+        "27457"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Entronque Congregacion Hidalgo",
+      "postal_code": [
+        "27468"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ernesto Elizondo",
+      "postal_code": [
+        "87395"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Escuadron Doscientos Uno",
+      "postal_code": [
+        "27457"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Esfuerzo Compartido",
+      "postal_code": [
+        "87344"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Espana",
+      "postal_code": [
+        "87345"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Esperanza",
+      "postal_code": [
+        "87310"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Esperanza y Reforma",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Estacion Sandoval",
+      "postal_code": [
+        "87557"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Estancias Residencial",
+      "postal_code": [
+        "87398"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Estero San Pablo",
+      "postal_code": [
+        "87320"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Eulalio Gutierrez Trevino",
+      "postal_code": [
+        "27442"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Euzkadi",
+      "postal_code": [
+        "87370"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Eva Samano",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Expofiesta Norte",
+      "postal_code": [
+        "87396"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Expofiesta Oriente",
+      "postal_code": [
+        "87398"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Expofiesta Sur",
+      "postal_code": [
+        "87396"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Felipe Zarate",
+      "postal_code": [
+        "27442"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ferrocarril",
+      "postal_code": [
+        "27447"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Fidel Velazquez",
+      "postal_code": [
+        "87313"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Filipinas (Lampacitos)",
+      "postal_code": [
+        "27467"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "FOVISSSTE Fraccionamiento",
+      "postal_code": [
+        "87400"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Francisco Castellanos",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Francisco Covarrubias",
+      "postal_code": [
+        "87395"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Francisco I Madero",
+      "postal_code": [
+        "87395"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "27442"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "87580"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Francisco Izaguirre",
+      "postal_code": [
+        "87440"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "27444"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Francisco Villa Norte",
+      "postal_code": [
+        "87349"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Francisco Villa Sur",
+      "postal_code": [
+        "87395"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Francisco Zarco",
+      "postal_code": [
+        "87315"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Fresno del Sur (El Fresno)",
+      "postal_code": [
+        "27470"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Fuentes de Bagdad",
+      "postal_code": [
+        "87496"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Fuentes del Valle",
+      "postal_code": [
+        "87496"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Fuentes Industriales I",
+      "postal_code": [
+        "87496"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Fuentes Industriales II",
+      "postal_code": [
+        "87496"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Fuerza y Unidad",
+      "postal_code": [
+        "87477"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Fundadores",
+      "postal_code": [
+        "87496"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Futaam",
+      "postal_code": [
+        "87475"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Galeme",
+      "postal_code": [
+        "27443"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Gilberto Ordaz Rocha",
+      "postal_code": [
+        "27443"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Gracielas A",
+      "postal_code": [
+        "27456"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Granada",
+      "postal_code": [
+        "27454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Granada Noria Setecientos Sesenta y Siete",
+      "postal_code": [
+        "27454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Granjas de la Reforma",
+      "postal_code": [
+        "87454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Gremio Unido de Choferes",
+      "postal_code": [
+        "87343"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "87569"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Guadalupe [Establo]",
+      "postal_code": [
+        "27452"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Guadalupe Mainero",
+      "postal_code": [
+        "87345"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "27452"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "87457"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Guillermo Guajardo",
+      "postal_code": [
+        "87447"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Hacienda del Prado",
+      "postal_code": [
+        "87470"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Hacienda del Puente",
+      "postal_code": [
+        "87344"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Hacienda la Cima",
+      "postal_code": [
+        "87496"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Hacienda la Cima III",
+      "postal_code": [
+        "87493"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Hacienda las Bugambilias",
+      "postal_code": [
+        "87343"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Hacienda las Misiones",
+      "postal_code": [
+        "87343"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Hacienda los Olivos",
+      "postal_code": [
+        "27473"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Hacienda los Portales",
+      "postal_code": [
+        "87458"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Hacienda Praderas",
+      "postal_code": [
+        "87470"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Hacienda San Miguel",
+      "postal_code": [
+        "27473"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Heroica Matamoros Centro",
+      "postal_code": [
+        "87300"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "27468"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "87350"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Hogares de Matamoros",
+      "postal_code": [
+        "87495"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Hormiguero",
+      "postal_code": [
+        "27457"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Hortalizas",
+      "postal_code": [
+        "27446"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "27442"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "87314",
+        "87560"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ignacio Zaragoza (La Crisis)",
+      "postal_code": [
+        "27464"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Independencia",
+      "postal_code": [
+        "27449"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Independencia",
+      "postal_code": [
+        "87477"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Industrial",
+      "postal_code": [
+        "87350"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "INFONAVIT Buenavista",
+      "postal_code": [
+        "87390"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "INFONAVIT los angeles",
+      "postal_code": [
+        "87458"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "INFONAVIT los ebanos",
+      "postal_code": [
+        "87340"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "INFONAVIT Paseo Residencial",
+      "postal_code": [
+        "87380"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "INFONAVIT Satelite",
+      "postal_code": [
+        "87458"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Insurgentes",
+      "postal_code": [
+        "87396"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Integracion Familiar",
+      "postal_code": [
+        "87343"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Irlanda",
+      "postal_code": [
+        "27467"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Isla del Amor (Puntilla Sur)",
+      "postal_code": [
+        "87587"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Isla la Fantasia",
+      "postal_code": [
+        "87587"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Isla la Mano de Leon",
+      "postal_code": [
+        "87587"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Isla las Malvinas",
+      "postal_code": [
+        "87587"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Isla Puntilla Norte",
+      "postal_code": [
+        "87587"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jacarandas",
+      "postal_code": [
+        "87313"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jacinto Argumedo",
+      "postal_code": [
+        "27443"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "JAD",
+      "postal_code": [
+        "87470"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jardin",
+      "postal_code": [
+        "87330"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jardines del Recuerdo",
+      "postal_code": [
+        "87454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jardines del Rey",
+      "postal_code": [
+        "87455"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jardines del Sur",
+      "postal_code": [
+        "87395"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jardines de Oriente",
+      "postal_code": [
+        "27444"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jardines de Oriente",
+      "postal_code": [
+        "87454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jardines de San Felipe",
+      "postal_code": [
+        "87347"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jardines de San Juan",
+      "postal_code": [
+        "87455"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jardines de San Roberto",
+      "postal_code": [
+        "87344"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jardines de Satelite",
+      "postal_code": [
+        "87458"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jesus Aguilera Luna",
+      "postal_code": [
+        "27449"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jesus Rios Rueda I",
+      "postal_code": [
+        "27446"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jesus Rios Rueda II",
+      "postal_code": [
+        "27442"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jesus Urquiza",
+      "postal_code": [
+        "87340"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jesus Vega Sanchez",
+      "postal_code": [
+        "87343"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jose Ayup Tedy",
+      "postal_code": [
+        "27443"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jose Casanova",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jose Lopez Portillo",
+      "postal_code": [
+        "27442"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jose Lopez Portillo",
+      "postal_code": [
+        "87348"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jose Maria Morelos",
+      "postal_code": [
+        "87459",
+        "87553"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jose Santos Valdez",
+      "postal_code": [
+        "27444"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jose Tejeda",
+      "postal_code": [
+        "87454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Jose T Luna",
+      "postal_code": [
+        "27444"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Juan C Bonilla",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Juanillo",
+      "postal_code": [
+        "87310"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Alegria",
+      "postal_code": [
+        "87454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Amistad",
+      "postal_code": [
+        "87475"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Azufrera",
+      "postal_code": [
+        "27464"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Barranca",
+      "postal_code": [
+        "87551",
+        "87551"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Barranquita",
+      "postal_code": [
+        "87444"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Bartolina",
+      "postal_code": [
+        "87577"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Batalla",
+      "postal_code": [
+        "27477"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Brigada",
+      "postal_code": [
+        "87554"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Capilla",
+      "postal_code": [
+        "87587"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ladrillera",
+      "postal_code": [
+        "27448"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Encantada",
+      "postal_code": [
+        "87389"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "27465"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "27460"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Estrella",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Flor de Mayo y la Barca",
+      "postal_code": [
+        "27467"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Fortuna",
+      "postal_code": [
+        "27466"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Garcita",
+      "postal_code": [
+        "27442",
+        "27473"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Gavia",
+      "postal_code": [
+        "27456"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Gloria",
+      "postal_code": [
+        "87560"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Grulla",
+      "postal_code": [
+        "27475"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Laguna Honda",
+      "postal_code": [
+        "87563"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Herradura",
+      "postal_code": [
+        "87440"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Huerta",
+      "postal_code": [
+        "87343"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La India",
+      "postal_code": [
+        "87395"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Jarita Norte",
+      "postal_code": [
+        "87560"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Jarita Sur",
+      "postal_code": [
+        "87560"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Joya",
+      "postal_code": [
+        "87455"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "87553"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Laguneta",
+      "postal_code": [
+        "87343"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Libertad",
+      "postal_code": [
+        "27453"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Libertad Numero Dos",
+      "postal_code": [
+        "87585"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Luz",
+      "postal_code": [
+        "27453",
+        "27466"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Luz",
+      "postal_code": [
+        "87394",
+        "87560"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Nina",
+      "postal_code": [
+        "27464"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Noria Tres",
+      "postal_code": [
+        "27457"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Palangana",
+      "postal_code": [
+        "87551"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Paz",
+      "postal_code": [
+        "87315"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Plaza",
+      "postal_code": [
+        "87344"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Pola",
+      "postal_code": [
+        "27477"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Puerta",
+      "postal_code": [
+        "87554"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Reforma",
+      "postal_code": [
+        "87558"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Rosita",
+      "postal_code": [
+        "87413",
+        "87554"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "87497"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Bermudas",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Blancas",
+      "postal_code": [
+        "87565"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Brisas",
+      "postal_code": [
+        "87444"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Bugambilias",
+      "postal_code": [
+        "87450"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Carolinas",
+      "postal_code": [
+        "27444",
+        "27466"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Culturas",
+      "postal_code": [
+        "87490"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Cumbres",
+      "postal_code": [
+        "87476"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Enramadas",
+      "postal_code": [
+        "27476"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "87395"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Fuentes",
+      "postal_code": [
+        "27447"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Fuentes",
+      "postal_code": [
+        "87317"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Granjas",
+      "postal_code": [
+        "87390"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Higuerillas",
+      "postal_code": [
+        "87587"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Sierrita",
+      "postal_code": [
+        "87555"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Lomas",
+      "postal_code": [
+        "87315"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "27465"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Misiones II",
+      "postal_code": [
+        "87347"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Mitras",
+      "postal_code": [
+        "87314"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Nogaleras",
+      "postal_code": [
+        "27444"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Norias",
+      "postal_code": [
+        "87390"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "27456",
+        "27466"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "87420"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Palmitas",
+      "postal_code": [
+        "87475"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Palomas",
+      "postal_code": [
+        "27477"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Palomas",
+      "postal_code": [
+        "87495"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Puertas",
+      "postal_code": [
+        "87360"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Riveras",
+      "postal_code": [
+        "87318"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Torres",
+      "postal_code": [
+        "87396"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Tijerita",
+      "postal_code": [
+        "87560"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Tijerita (Potrero Nuevo)",
+      "postal_code": [
+        "87560"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Lauro Villar",
+      "postal_code": [
+        "87470"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Vanguardia",
+      "postal_code": [
+        "87553"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Venada",
+      "postal_code": [
+        "87560"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Venadita",
+      "postal_code": [
+        "87393"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Ventana",
+      "postal_code": [
+        "87569"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "La Villa",
+      "postal_code": [
+        "87390"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "27443"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "87326",
+        "87360"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Leyes de Colonos",
+      "postal_code": [
+        "87395"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Libertad",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Libertad y Progreso",
+      "postal_code": [
+        "87313"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Libre Comercio",
+      "postal_code": [
+        "87470"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Licenciado Marcelino Miranda",
+      "postal_code": [
+        "87496"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Loma Alta",
+      "postal_code": [
+        "87495"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "87398"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Lomas del Real",
+      "postal_code": [
+        "87395"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Lomas del Sur",
+      "postal_code": [
+        "87454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Lomas de San Juan",
+      "postal_code": [
+        "87455"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "87385"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Los Alfredos Dos",
+      "postal_code": [
+        "27465"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "27453"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Los Cedros",
+      "postal_code": [
+        "87496"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Los Doctores",
+      "postal_code": [
+        "87440"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Los ebanos",
+      "postal_code": [
+        "87395"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Los Encinos",
+      "postal_code": [
+        "87345"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "87440"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Los Girasoles",
+      "postal_code": [
+        "87314"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "87396"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Los Nogales",
+      "postal_code": [
+        "87470"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Los Olivos",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Los Olmos",
+      "postal_code": [
+        "87558"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Los Palmares",
+      "postal_code": [
+        "87347"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "87448"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Los Presidentes",
+      "postal_code": [
+        "87413"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Los Pueblitos",
+      "postal_code": [
+        "87347"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Los Ranchitos (Porfirio Mendez)",
+      "postal_code": [
+        "87560"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "87454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Los Rosales",
+      "postal_code": [
+        "87395"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "87380"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Los Timones",
+      "postal_code": [
+        "87558"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Los Vergeles",
+      "postal_code": [
+        "87315"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Lucero",
+      "postal_code": [
+        "87350"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Lucio Blanco",
+      "postal_code": [
+        "87397"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "27443"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Luz del Paraiso",
+      "postal_code": [
+        "87395"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Luz del Valle",
+      "postal_code": [
+        "87393"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "87399"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Manantial",
+      "postal_code": [
+        "27470"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Manuel Cavazos Lerma",
+      "postal_code": [
+        "87453"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Manuel Munoz",
+      "postal_code": [
+        "27446"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Manuel Munoz Olivares",
+      "postal_code": [
+        "27445"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Mapulas",
+      "postal_code": [
+        "27467"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Maravillas",
+      "postal_code": [
+        "27448",
+        "27456"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Maravillas [Establo]",
+      "postal_code": [
+        "27456"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Mariano Matamoros",
+      "postal_code": [
+        "27445"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Mariano Matamoros",
+      "postal_code": [
+        "87380"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Martha Rita Prince Aguilera",
+      "postal_code": [
+        "87343"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Matamoros",
+      "postal_code": [
+        "27449"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Matamoros Centro",
+      "postal_code": [
+        "27440"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Matamoros (Servando Canales)",
+      "postal_code": [
+        "87560"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Melchor Ocampo",
+      "postal_code": [
+        "87399"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Meliton Suarez",
+      "postal_code": [
+        "87453"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Mexico",
+      "postal_code": [
+        "87497"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Mexico Agrario",
+      "postal_code": [
+        "87440"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "27442"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "87470"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Mineria",
+      "postal_code": [
+        "87454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Modelo",
+      "postal_code": [
+        "87360"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Moderna",
+      "postal_code": [
+        "87330"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Moderno",
+      "postal_code": [
+        "87380"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Mogote de Santiago",
+      "postal_code": [
+        "87560"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Molino del Rey",
+      "postal_code": [
+        "87413"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Monte Alegre",
+      "postal_code": [
+        "27456"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Monte Calvario",
+      "postal_code": [
+        "27442"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Monte Carlo",
+      "postal_code": [
+        "27478"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Montolleras",
+      "postal_code": [
+        "27456"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Morelos Dos (Bilbao)",
+      "postal_code": [
+        "27465"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Movimiento 18 de Octubre",
+      "postal_code": [
+        "87454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Nidia Edith",
+      "postal_code": [
+        "27456"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "27443"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "87457"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Noacan",
+      "postal_code": [
+        "27477"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Noacan (No que No)",
+      "postal_code": [
+        "27477"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Nogal",
+      "postal_code": [
+        "27442"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Nogalar Oriente",
+      "postal_code": [
+        "87453"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Nogalar Poniente",
+      "postal_code": [
+        "87453"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Noria de Compuertas (El Ranchito)",
+      "postal_code": [
+        "27458"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Noria Numero Dos del Ejido Buen Abrigo (La Selva)",
+      "postal_code": [
+        "27454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Noria Numero Tres Ejido San Miguel",
+      "postal_code": [
+        "27460"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Noria Santa Ana del Pilar Sector Dos",
+      "postal_code": [
+        "27457"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Nueva Jerusalem",
+      "postal_code": [
+        "87455"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Nueva Soledad",
+      "postal_code": [
+        "27465"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Nuevo Amanecer",
+      "postal_code": [
+        "87315"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Nuevo Matamoros",
+      "postal_code": [
+        "27449"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Nuevo Mieleras (La Tres)",
+      "postal_code": [
+        "27477"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Nuevo Milenio",
+      "postal_code": [
+        "87347"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Nuevo Paraiso",
+      "postal_code": [
+        "87477"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Nuevo Renacimiento",
+      "postal_code": [
+        "87430"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Oasis",
+      "postal_code": [
+        "87315"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Obrera",
+      "postal_code": [
+        "27442"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Obrera",
+      "postal_code": [
+        "87340",
+        "87552"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ocampo",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Oscar Gonzalez",
+      "postal_code": [
+        "27445"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Otto el Cambio",
+      "postal_code": [
+        "27456"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Pacheco",
+      "postal_code": [
+        "87563"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Palmas del Mar",
+      "postal_code": [
+        "87497"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Palo Blanco",
+      "postal_code": [
+        "87558"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Palo Verde",
+      "postal_code": [
+        "87497"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Paraiso",
+      "postal_code": [
+        "87475"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Parque Industrial CYLSA",
+      "postal_code": [
+        "87470"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Parque Industrial FINSA del Norte",
+      "postal_code": [
+        "87316"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Parque Industrial FINSA Oriente",
+      "postal_code": [
+        "87493"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Parque Industrial las Ventanas",
+      "postal_code": [
+        "87569"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Parque Industrial Los Palmares",
+      "postal_code": [
+        "87313"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Paseo de las Brisas",
+      "postal_code": [
+        "87313"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Paseo del Magisterio",
+      "postal_code": [
+        "87344"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Paseo del Nogalar",
+      "postal_code": [
+        "87313"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Paseo Residencial",
+      "postal_code": [
+        "87380"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Pedro Moreno",
+      "postal_code": [
+        "87385"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Periodistas",
+      "postal_code": [
+        "87457"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Periodistas Segunda Seccion",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Petronilas",
+      "postal_code": [
+        "27474"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Piramide",
+      "postal_code": [
+        "87456"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Plateria",
+      "postal_code": [
+        "87455"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Playa Sol",
+      "postal_code": [
+        "87470"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Popular",
+      "postal_code": [
+        "87460"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Portal del Sol",
+      "postal_code": [
+        "27442"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Praderas",
+      "postal_code": [
+        "87470"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Praderas de la Rioja",
+      "postal_code": [
+        "87395"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Praderas del Sur",
+      "postal_code": [
+        "87454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Praxedis Balboa",
+      "postal_code": [
+        "87430"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Presidente Cardenas (Villa Cardenas)",
+      "postal_code": [
+        "87550"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Primer Campo Pesquero",
+      "postal_code": [
+        "87577"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Prisciliano Delgado",
+      "postal_code": [
+        "87550"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Privada las Flores",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Privada Residencial Magnolias",
+      "postal_code": [
+        "87445"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Privada San Miguel",
+      "postal_code": [
+        "87343"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Privanzas",
+      "postal_code": [
+        "87413"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Privanzas del Rio",
+      "postal_code": [
+        "87360"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Profesor Rafael Ramirez",
+      "postal_code": [
+        "87494"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Progreso",
+      "postal_code": [
+        "87440"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Progreso Agrario (Santa Librada)",
+      "postal_code": [
+        "87558"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Pueblo Viejo",
+      "postal_code": [
+        "87457"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Puertas Verdes",
+      "postal_code": [
+        "87449"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Puerto de Matamoros",
+      "postal_code": [
+        "87587"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Puerto Rico",
+      "postal_code": [
+        "87344"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Purisima",
+      "postal_code": [
+        "27457"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Quijano",
+      "postal_code": [
+        "87580"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Quinta Moros",
+      "postal_code": [
+        "87319"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Quinta Real",
+      "postal_code": [
+        "87345"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ramirez",
+      "postal_code": [
+        "87552"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Rancho Alegre",
+      "postal_code": [
+        "87395"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Rancho de Afuera",
+      "postal_code": [
+        "27456"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Rancho Grande",
+      "postal_code": [
+        "27449"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "87551"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Redencion Agraria",
+      "postal_code": [
+        "27475"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Reforma",
+      "postal_code": [
+        "87310"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Renacimiento",
+      "postal_code": [
+        "87495"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Republica Norte",
+      "postal_code": [
+        "87314"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Republica Sur",
+      "postal_code": [
+        "87314"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Residencial 21",
+      "postal_code": [
+        "27456"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Residencial del Valle",
+      "postal_code": [
+        "87415"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Residencial la Hacienda",
+      "postal_code": [
+        "87382"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Residencial las Gaviotas",
+      "postal_code": [
+        "87496"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Residencial Lumbalca",
+      "postal_code": [
+        "27449"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Residencial Portal de las Garzas",
+      "postal_code": [
+        "87315"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Residencial Punta Laguna",
+      "postal_code": [
+        "27448"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "87553"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Revolucion (El Alto)",
+      "postal_code": [
+        "87553"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Revolucion Verde",
+      "postal_code": [
+        "87445"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ricardo A Basso",
+      "postal_code": [
+        "87440"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Ricardo Ramos",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Rinconada de las Brisas",
+      "postal_code": [
+        "87313"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Rincon Colonial",
+      "postal_code": [
+        "87344",
+        "87380"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Rincon del Valle",
+      "postal_code": [
+        "27442"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Rio",
+      "postal_code": [
+        "87360"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Rio Rico",
+      "postal_code": [
+        "87559"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Roberto F Garcia",
+      "postal_code": [
+        "87370"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Roberto Guerra",
+      "postal_code": [
+        "87458"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Rodolfo Sanchez Taboada",
+      "postal_code": [
+        "87470"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Rodriguez",
+      "postal_code": [
+        "87395"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Rosalinda Ramirez Esquivel",
+      "postal_code": [
+        "27446"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Rosa Rodriguez de Ordaz",
+      "postal_code": [
+        "27443"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Salinas de Gortari",
+      "postal_code": [
+        "87456"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Andres",
+      "postal_code": [
+        "87558"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San angel Oriente",
+      "postal_code": [
+        "87495"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San angel Poniente",
+      "postal_code": [
+        "87345"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Antonio del Alto",
+      "postal_code": [
+        "27474"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Antonio del Coyote",
+      "postal_code": [
+        "27450"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Charbel",
+      "postal_code": [
+        "87393"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Cristobal",
+      "postal_code": [
+        "87395"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Sandoval (Familia Pizana)",
+      "postal_code": [
+        "87557"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Felipe Aguanaval",
+      "postal_code": [
+        "27467"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Fernando",
+      "postal_code": [
+        "87456"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "87350"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Francisco Aguanaval",
+      "postal_code": [
+        "27474"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Gerardo [Granja]",
+      "postal_code": [
+        "27457"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "27476"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "87456"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Javier",
+      "postal_code": [
+        "87314"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Jeronimo Residencial",
+      "postal_code": [
+        "87493"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Jose",
+      "postal_code": [
+        "87340"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Jose de los Emilianos",
+      "postal_code": [
+        "27467"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Juan",
+      "postal_code": [
+        "87446"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Julian",
+      "postal_code": [
+        "27470"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "87589"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Luis",
+      "postal_code": [
+        "87454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Luisito",
+      "postal_code": [
+        "87554"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Manuel",
+      "postal_code": [
+        "87455"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "87398",
+        "87453"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Pablo Guelatao",
+      "postal_code": [
+        "27467"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "87313"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "87340"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Santa Adelaida",
+      "postal_code": [
+        "87557"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "87380"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Santa Ana del Pilar",
+      "postal_code": [
+        "27457"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Santa Anita",
+      "postal_code": [
+        "87344"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Santa Anita [Granja]",
+      "postal_code": [
+        "27457"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Santa Brigida",
+      "postal_code": [
+        "27475"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "27477"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "87456"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "87315",
+        "87370"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "87340"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "87495"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Santa Irene",
+      "postal_code": [
+        "87557"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "87314"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "87454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Santa Martha",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Santa Monica",
+      "postal_code": [
+        "27448"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Santo Nino Aguanaval",
+      "postal_code": [
+        "27470"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Satelite",
+      "postal_code": [
+        "87458"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Seccion 11",
+      "postal_code": [
+        "87310"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Seccion 16",
+      "postal_code": [
+        "87390"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Sector Tres Ejidal",
+      "postal_code": [
+        "27446"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Segundo Campo Pesquero y el Chichonal",
+      "postal_code": [
+        "87577"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Servando Canales",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Siglo XXI",
+      "postal_code": [
+        "87313"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Sindicato Carpinteros",
+      "postal_code": [
+        "87454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Sindicato de Albaniles",
+      "postal_code": [
+        "87454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Sindicato de Trabajadores alServicio del Municipio",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Solidaridad",
+      "postal_code": [
+        "87456"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Solima",
+      "postal_code": [
+        "27454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Solis",
+      "postal_code": [
+        "27463"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Soliseno",
+      "postal_code": [
+        "87551"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Tamaulipas",
+      "postal_code": [
+        "87383"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Tampico",
+      "postal_code": [
+        "87457"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Tecnologico",
+      "postal_code": [
+        "87490"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "27477"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Tierra y Libertad",
+      "postal_code": [
+        "87477"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Torreon (Los Alcoholicos)",
+      "postal_code": [
+        "27466"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Trevino Zapata",
+      "postal_code": [
+        "87450"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Unidad Hogar",
+      "postal_code": [
+        "87360"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Unidos Avanzamos",
+      "postal_code": [
+        "87347"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Union del Barreal",
+      "postal_code": [
+        "27474"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Uniones",
+      "postal_code": [
+        "87310"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Universitaria",
+      "postal_code": [
+        "87457"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Valle Alto",
+      "postal_code": [
+        "87380"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Valle de Anahuac",
+      "postal_code": [
+        "87394"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Valle de Casa Blanca",
+      "postal_code": [
+        "87345"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Valle de la Palangana",
+      "postal_code": [
+        "87497"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Valle del Campestre",
+      "postal_code": [
+        "87470"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Valle del Magisterio",
+      "postal_code": [
+        "87382"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Valle del Mezquital",
+      "postal_code": [
+        "87495"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Valle de los Reyes",
+      "postal_code": [
+        "87345"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Valle de San Miguel",
+      "postal_code": [
+        "27473"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Valle Dorado",
+      "postal_code": [
+        "87382"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Valle Encantado",
+      "postal_code": [
+        "87389"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Valle Escondido",
+      "postal_code": [
+        "87400"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Valle Hermoso",
+      "postal_code": [
+        "27446"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Valle Real",
+      "postal_code": [
+        "87345"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Valle Verde",
+      "postal_code": [
+        "87477"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Vamos Tamaulipas",
+      "postal_code": [
+        "87313"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Vega de Marrufo",
+      "postal_code": [
+        "27448"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Veinte de Noviembre",
+      "postal_code": [
+        "27458"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Veintiuno de Marzo (La Reforma)",
+      "postal_code": [
+        "27465"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Veintiuno de Marzo (Las Cuatrocientas)",
+      "postal_code": [
+        "87560"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Venustiano Carranza",
+      "postal_code": [
+        "87585"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Veredas de San Miguel",
+      "postal_code": [
+        "27473"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "27463"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "87456"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Victoria",
+      "postal_code": [
+        "87390"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Victoria Seccion Fiesta",
+      "postal_code": [
+        "87390"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Villa Azteca",
+      "postal_code": [
+        "87383"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Villa Coapa",
+      "postal_code": [
+        "87395"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Villa de Cortes",
+      "postal_code": [
+        "87455"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Villa de las Flores",
+      "postal_code": [
+        "87344"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Villa del Jardin",
+      "postal_code": [
+        "87454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Villa del Mar",
+      "postal_code": [
+        "87410"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Villa del Parque",
+      "postal_code": [
+        "87315"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Villa Esmeralda",
+      "postal_code": [
+        "87396"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Villa Espanola",
+      "postal_code": [
+        "87344"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Villa Hermosa",
+      "postal_code": [
+        "87315",
+        "87457"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Villa las Palmas",
+      "postal_code": [
+        "87400"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Villa las Torres",
+      "postal_code": [
+        "87398"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Villa Madrid",
+      "postal_code": [
+        "87390"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Villanueva",
+      "postal_code": [
+        "87554"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Villas del Lago",
+      "postal_code": [
+        "87444"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Villas del Rio",
+      "postal_code": [
+        "87400"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Villas Santa Cecilia",
+      "postal_code": [
+        "27448"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Villa Universidad",
+      "postal_code": [
+        "87340"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Villaverde",
+      "postal_code": [
+        "87557"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Vista del Sol",
+      "postal_code": [
+        "87497"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "87370",
+        "87550"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Vivienda Popular",
+      "postal_code": [
+        "87420"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Vizcaya",
+      "postal_code": [
+        "27463"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Voluntad y Trabajo",
+      "postal_code": [
+        "87390"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Xochimilco",
+      "postal_code": [
+        "87497"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Zafiro",
+      "postal_code": [
+        "87454"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Zaragoza",
+      "postal_code": [
+        "27442"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Zona Industrial",
+      "postal_code": [
+        "87316"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Aeropuerto",
+      "postal_code": [
+        "33960"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "33960"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Cienega de Ceniceros",
+      "postal_code": [
+        "33961"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Chilicote",
+      "postal_code": [
+        "33963"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "El Verano (Ejido de Borjas)",
+      "postal_code": [
+        "33964"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Heroes de la Revolucion",
+      "postal_code": [
+        "33960"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Independencia y Reforma (Los Charcos)",
+      "postal_code": [
+        "33969"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Negras (El alamo)",
+      "postal_code": [
+        "33963"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Las Ranas",
+      "postal_code": [
+        "33960"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "33960"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Matamoros Centro",
+      "postal_code": [
+        "33960"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Obrera",
+      "postal_code": [
+        "33960"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Parque Industrial Parral",
+      "postal_code": [
+        "33964"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Santa Rosalia (La Maroma)",
+      "postal_code": [
+        "33960"
+      ]
+    },
+    {
+      "city": "Matamoros",
+      "colonia": "Valsequillo",
+      "postal_code": [
+        "33962"
+      ]
+    }
+  ]
+}

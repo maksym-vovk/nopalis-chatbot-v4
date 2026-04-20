@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "San Pablo Coatlan",
+      "colonia": "San Antonio Lalana",
+      "postal_code": [
+        "70855"
+      ]
+    },
+    {
+      "city": "San Pablo Coatlan",
+      "colonia": "San Francisco Coatlan",
+      "postal_code": [
+        "70855"
+      ]
+    },
+    {
+      "city": "San Pablo Coatlan",
+      "colonia": "San Pablo Coatlan",
+      "postal_code": [
+        "70855"
+      ]
+    },
+    {
+      "city": "San Pablo Coatlan",
+      "colonia": "Santa Maria Coatlan",
+      "postal_code": [
+        "70855"
+      ]
+    }
+  ]
+}

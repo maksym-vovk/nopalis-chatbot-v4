@@ -1,0 +1,3166 @@
+{
+  "data": [
+    {
+      "city": "San Dimas",
+      "colonia": "Agua Blanca",
+      "postal_code": [
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Agua Caliente",
+      "postal_code": [
+        "34675",
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Agua Caliente de Arriba",
+      "postal_code": [
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Agua Tibia",
+      "postal_code": [
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Agua Zarca",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Americana",
+      "postal_code": [
+        "34690"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Apolonio Madriles",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Arroyo del Agua",
+      "postal_code": [
+        "34696"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Arroyo del Oro",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Arroyo el Saucillal (Rancho Tomas)",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Atoyaderos",
+      "postal_code": [
+        "34670"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Bainorito",
+      "postal_code": [
+        "34674"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Bajio Largo",
+      "postal_code": [
+        "34686"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Bajio Seco",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Belenes",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "34690",
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Cacaxtles",
+      "postal_code": [
+        "34696"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Calaveras",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Calerita",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Canta Ranas",
+      "postal_code": [
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Carboneras",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Carboneras (Santa Rosa de los Alvarados)",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Carboneritas",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Carpinteria",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Ceniceros",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Cerro Blanco",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Chavarria de Abajo",
+      "postal_code": [
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Chavarria de Arriba",
+      "postal_code": [
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Cibeles",
+      "postal_code": [
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Cienega de la Providencia",
+      "postal_code": [
+        "34687"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Cienega del Madrono",
+      "postal_code": [
+        "34686"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Cieneguita",
+      "postal_code": [
+        "34695"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Cinco Senores",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Corral de Piedra",
+      "postal_code": [
+        "34674"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Coscomates",
+      "postal_code": [
+        "34670"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Coyotes",
+      "postal_code": [
+        "34676"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Crucero a las Flores",
+      "postal_code": [
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Cruces",
+      "postal_code": [
+        "34673",
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Cuatro Caminos",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Cuevecillas",
+      "postal_code": [
+        "34670"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Doce de Mayo",
+      "postal_code": [
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Duranguito",
+      "postal_code": [
+        "34670",
+        "34690"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Alacran",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Alamito",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Ancon",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Apomito",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "34690"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Arroyito Colorado",
+      "postal_code": [
+        "34673"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Arroyo del Saucillal",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Arroyo de Tejas",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Aseteado",
+      "postal_code": [
+        "34686"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Astillero",
+      "postal_code": [
+        "34674"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Aviadero",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Bajio",
+      "postal_code": [
+        "34695"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Banadero",
+      "postal_code": [
+        "34670"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Barroso",
+      "postal_code": [
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Becerro",
+      "postal_code": [
+        "34673"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Broto",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Cajon",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Camaron",
+      "postal_code": [
+        "34696"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Campo Amoroso",
+      "postal_code": [
+        "34687"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Capulin",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Caracol",
+      "postal_code": [
+        "34696"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Carrizo",
+      "postal_code": [
+        "34694",
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Casco",
+      "postal_code": [
+        "34687"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Cebo",
+      "postal_code": [
+        "34673"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Centenario [Rancho]",
+      "postal_code": [
+        "34673"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Chicural",
+      "postal_code": [
+        "34674"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Chino",
+      "postal_code": [
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Chiquerito",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Chirimoyo",
+      "postal_code": [
+        "34693",
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Chorro",
+      "postal_code": [
+        "34676"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Ciruelito",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Ciruelo",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Cocono",
+      "postal_code": [
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Comisario",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Corpo",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Coyote de Abajo",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Coyote de Arriba",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Cuadro",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Desecho",
+      "postal_code": [
+        "34674"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Duraznito",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Duraznito del Oro",
+      "postal_code": [
+        "34674"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Faisan",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Gallo",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Gato",
+      "postal_code": [
+        "34680",
+        "34696"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Gavilan",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Granizo",
+      "postal_code": [
+        "34675",
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Granizo de Abajo",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Guamuchil",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Guayabo",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Hachazo",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Hospital",
+      "postal_code": [
+        "34690"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Huehuento",
+      "postal_code": [
+        "34670"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Huizachal",
+      "postal_code": [
+        "34675",
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Hundido",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Jaral",
+      "postal_code": [
+        "34686"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Jaralito de Abajo",
+      "postal_code": [
+        "34687"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Jaralito de Arriba",
+      "postal_code": [
+        "34687"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Limon",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Limoncito",
+      "postal_code": [
+        "34674",
+        "34693",
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Llanito",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Llano",
+      "postal_code": [
+        "34674"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Lucero",
+      "postal_code": [
+        "34687"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Madrono",
+      "postal_code": [
+        "34674"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Maguey",
+      "postal_code": [
+        "34676"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Maguey de la Calavera",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Manzanillo",
+      "postal_code": [
+        "34674"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Muerto",
+      "postal_code": [
+        "34675",
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Ojito",
+      "postal_code": [
+        "34696"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Ojo del Lobo",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Oso",
+      "postal_code": [
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Pajonal",
+      "postal_code": [
+        "34670"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Palmar",
+      "postal_code": [
+        "34694",
+        "34695"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Palmarito",
+      "postal_code": [
+        "34696"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Palmillar",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Palmito",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Pandito",
+      "postal_code": [
+        "34696"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Paso",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Paso del Arroyo",
+      "postal_code": [
+        "34696"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Peron (El Arroyito de la Cueva)",
+      "postal_code": [
+        "34673"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Pilar",
+      "postal_code": [
+        "34673",
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Pinto",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Pitayo",
+      "postal_code": [
+        "34690"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Platanar",
+      "postal_code": [
+        "34695"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Polillar",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Potrero",
+      "postal_code": [
+        "34694",
+        "34696"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Pueblo",
+      "postal_code": [
+        "34674"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Puerto",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Puerto de la Travesia",
+      "postal_code": [
+        "34695"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Purgatorio",
+      "postal_code": [
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Quemado",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "34674",
+        "34675",
+        "34680",
+        "34685",
+        "34693",
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Ranchito de Cornelio",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Rancho de Marcos",
+      "postal_code": [
+        "34674"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Rancho de Tierra Blanca",
+      "postal_code": [
+        "34696"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Rayo",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Remudadero",
+      "postal_code": [
+        "34676"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Reventon",
+      "postal_code": [
+        "34690"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "34673",
+        "34696"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Rincon de Tierra Blanca",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Rio de San Luis (El Riyito)",
+      "postal_code": [
+        "34695"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Roble",
+      "postal_code": [
+        "34674"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Rosillo",
+      "postal_code": [
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Rusio",
+      "postal_code": [
+        "34686"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Sacrificio",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Saltito",
+      "postal_code": [
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Saucito",
+      "postal_code": [
+        "34696"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Sobaco",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Tablon",
+      "postal_code": [
+        "34696"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Tascatito",
+      "postal_code": [
+        "34687"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Tastito",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Tazcate",
+      "postal_code": [
+        "34686"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Tecolote",
+      "postal_code": [
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Tepozan",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Toril",
+      "postal_code": [
+        "34690"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Trigo",
+      "postal_code": [
+        "34676",
+        "34686"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Tule",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Tunel",
+      "postal_code": [
+        "34690"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Venadillo",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Vetarron",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Yaqui",
+      "postal_code": [
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Yesquero",
+      "postal_code": [
+        "34686"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Zanjon",
+      "postal_code": [
+        "34695"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "El Zapote (Los Chapotes)",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Espadanal de San Jeronimo",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Feliciano Melendez",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Gavilanes",
+      "postal_code": [
+        "34674"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "General Rafael Buelna (Socavon)",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Guamuchil",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Guarisamey",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Huachichiles",
+      "postal_code": [
+        "34674"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Huachimetas de Abajo",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Huachimetas de Arriba",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Huachochi",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Huahuapan",
+      "postal_code": [
+        "34670"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Huizar",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Jacales",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Aduana",
+      "postal_code": [
+        "34673"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Alisosa",
+      "postal_code": [
+        "34673"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Angostura",
+      "postal_code": [
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Anqueta",
+      "postal_code": [
+        "34676"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Aplastada",
+      "postal_code": [
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Bandera",
+      "postal_code": [
+        "34687"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Bellota",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Bolsa",
+      "postal_code": [
+        "34677",
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Boquilla de San Luis",
+      "postal_code": [
+        "34686"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Borcelana",
+      "postal_code": [
+        "34670"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Cabra",
+      "postal_code": [
+        "34686"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Canal de la Borrega",
+      "postal_code": [
+        "34670"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Canoa",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Cartera (Los Olvidados)",
+      "postal_code": [
+        "34686"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Cebadilla",
+      "postal_code": [
+        "34673",
+        "34687"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Ceja Amarilla",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Choza",
+      "postal_code": [
+        "34696"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "34683",
+        "34684",
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Ciudad",
+      "postal_code": [
+        "34676"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Cobriza",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Crucita",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Cueva",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Cueva de la Tierra",
+      "postal_code": [
+        "34686"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Curva",
+      "postal_code": [
+        "34690",
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Desmontada",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "34687"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Esmeralda (El Alacran)",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Espinaloza",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Estacion",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Flor",
+      "postal_code": [
+        "34673"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Flor del Campo",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Florida",
+      "postal_code": [
+        "34686"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Flor (Sanjoncito)",
+      "postal_code": [
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Frontera",
+      "postal_code": [
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Gatunenta",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Gloria",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Guajolota",
+      "postal_code": [
+        "34674"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Guitarra",
+      "postal_code": [
+        "34687"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Lagunas del Refugio",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Hedionda",
+      "postal_code": [
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Joya",
+      "postal_code": [
+        "34675",
+        "34677",
+        "34687"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Joya Alegre",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Juarez",
+      "postal_code": [
+        "34690"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Labor",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Laguna del Progreso",
+      "postal_code": [
+        "34695"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Laguna del Tular",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Lajita",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Lobera",
+      "postal_code": [
+        "34685",
+        "34695"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Manga de Abajo",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Manga de Arriba",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Medalla",
+      "postal_code": [
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Mesa",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Mesa de la Cobriza",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Mesa del Leon",
+      "postal_code": [
+        "34673"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Mesa de los Caballos",
+      "postal_code": [
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Mesa de los Negros",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Mesa Pinaloza",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Mesa Verde",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Mesita",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Mona",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Moneda",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Mora",
+      "postal_code": [
+        "34670"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Nopalera",
+      "postal_code": [
+        "34696"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Obscuridad",
+      "postal_code": [
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Palma",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Paloma",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Pasadita",
+      "postal_code": [
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Pedregoza",
+      "postal_code": [
+        "34695"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Pena",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Piedra Amolar",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Pinalosa",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Pinaloza",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Plazuela",
+      "postal_code": [
+        "34684",
+        "34690"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Presa",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Puerta",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Quebrada",
+      "postal_code": [
+        "34675",
+        "34677",
+        "34694",
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Quebradita de Galindo",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Quinta",
+      "postal_code": [
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Ramada",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Adjuntas",
+      "postal_code": [
+        "34686"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Adjuntas del Rio",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las aguilas de Abajo",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las aguilas de Arriba",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Aguilillas",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Camichinas",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Cebollas",
+      "postal_code": [
+        "34674",
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Cuevas",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Delicias",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Flechas",
+      "postal_code": [
+        "34686"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Güeras",
+      "postal_code": [
+        "34676"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Güeritas",
+      "postal_code": [
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Huertas",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Silla",
+      "postal_code": [
+        "34686"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Joyas",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Lagunas",
+      "postal_code": [
+        "34676"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Lagunetas",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Meladas",
+      "postal_code": [
+        "34687"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Moras",
+      "postal_code": [
+        "34674"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Orejas",
+      "postal_code": [
+        "34674"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Pintas",
+      "postal_code": [
+        "34686"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Ranas",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Rosillas",
+      "postal_code": [
+        "34687"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Seguidillas",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Tahonitas",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Tinajas",
+      "postal_code": [
+        "34674"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Truchas",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Vegas",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Las Vueltas",
+      "postal_code": [
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Tableta",
+      "postal_code": [
+        "34670"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Tecolota",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Tijera",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Traspana",
+      "postal_code": [
+        "34676"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Valenciana",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Vega",
+      "postal_code": [
+        "34676"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Vega de Marines",
+      "postal_code": [
+        "34674"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Ventana",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Vinata",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Yerbabuena",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "La Zorra",
+      "postal_code": [
+        "34695"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Aguajitos",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Alamillos",
+      "postal_code": [
+        "34680",
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Alazanes",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Alazanes Dos (El Quelite)",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Alegres",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Altares",
+      "postal_code": [
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Amoles",
+      "postal_code": [
+        "34674"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los angeles de Arriba",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Banos",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Bueyes de Arriba",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Caliches",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Canelos",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Canelos de Abajo",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Cardos",
+      "postal_code": [
+        "34674"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Chapotes",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Charcos",
+      "postal_code": [
+        "34683",
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Cimientos",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Desmontes",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Eslabones",
+      "postal_code": [
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Estanques",
+      "postal_code": [
+        "34677",
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Estanques (Silviano Soto)",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Frailecitos",
+      "postal_code": [
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "34683",
+        "34690"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "34676",
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Lobos",
+      "postal_code": [
+        "34677",
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Macias",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Macias de Abajo",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Manzanos (Rancho Viejo)",
+      "postal_code": [
+        "34673"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Monos",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Naranjitos",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Negritos",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Obscuros de Abajo",
+      "postal_code": [
+        "34687"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Ojitos",
+      "postal_code": [
+        "34673",
+        "34674",
+        "34685",
+        "34695"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Oscuros",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Parajes",
+      "postal_code": [
+        "34673",
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Parajes del Faisan",
+      "postal_code": [
+        "34696"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Pavos",
+      "postal_code": [
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Platanos",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Potreros",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Robles",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Sotanos",
+      "postal_code": [
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Tanques",
+      "postal_code": [
+        "34674"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Los Toriles",
+      "postal_code": [
+        "34695"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Mala Noche",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Marungo",
+      "postal_code": [
+        "34673"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Memelujo",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Mesa Verde",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Metatitos",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Morillitos",
+      "postal_code": [
+        "34670"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Navarrete",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Neveros",
+      "postal_code": [
+        "34696"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Noche Buena",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Nogales",
+      "postal_code": [
+        "34673"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Nuevo Zocabon",
+      "postal_code": [
+        "34690"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Obrera",
+      "postal_code": [
+        "34690"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Palo Prieto",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Palos Caidos",
+      "postal_code": [
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Parajes",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Penuelas",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Pericos",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Piaxtla",
+      "postal_code": [
+        "34690"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Picachos",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Piedra Cargada",
+      "postal_code": [
+        "34695"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Piedra Gorda",
+      "postal_code": [
+        "34696"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Piedra Rajada",
+      "postal_code": [
+        "34686"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Piedras de Lumbre",
+      "postal_code": [
+        "34670"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Potrerillos",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Potreros de Bueyes",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Puentecillas",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Puerta Chiquita",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Puerto de Flechas",
+      "postal_code": [
+        "34686"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Rancho de Cuca",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "34687"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Rancho Solo",
+      "postal_code": [
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "34670",
+        "34673",
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Revolcaderos",
+      "postal_code": [
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Rio de Miravalles",
+      "postal_code": [
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Rio Escondido",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Antonio de la Cruz",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Antonio de las Truchas",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Bartolo",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Blas",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Dimas",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Francisco de los Lobos",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Ignacio",
+      "postal_code": [
+        "34687"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Ignacio de Abajo",
+      "postal_code": [
+        "34670"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Ignacio de Arriba",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Ignacio de Enmedio",
+      "postal_code": [
+        "34670"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Ignacio de la Guitarra",
+      "postal_code": [
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Isidro de las Lomas (La Cueva Agujerada)",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Jeronimo",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Jose",
+      "postal_code": [
+        "34670",
+        "34686",
+        "34697"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Jose de la Puentecilla",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Jose de las Causas",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Jose del Favor",
+      "postal_code": [
+        "34696"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Jose del Olvido",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Jose de Miravalles",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Jose de Miravalles (El Baluarte)",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Juan",
+      "postal_code": [
+        "34670"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Juan de Agua Blanca (Las Paridas)",
+      "postal_code": [
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Luis de Villa Corona",
+      "postal_code": [
+        "34695"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Manuel de Villa Corona",
+      "postal_code": [
+        "34695"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Miguel de Cruces",
+      "postal_code": [
+        "34670"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Miguelito",
+      "postal_code": [
+        "34677"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Pedro de Villa Corona",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "34675",
+        "34676"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Rafael de Abajo",
+      "postal_code": [
+        "34673"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Rafael de Arriba",
+      "postal_code": [
+        "34673"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "34673",
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "34675",
+        "34686"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "34687"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Santo Nino",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "San Vicente",
+      "postal_code": [
+        "34686",
+        "34687"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Sapioris",
+      "postal_code": [
+        "34670"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Servicoy",
+      "postal_code": [
+        "34690"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Sotolitos de Carrasco",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Sotolitos de la Puerta",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Sutiga",
+      "postal_code": [
+        "34694"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Tambores de Abajo (Las Vegas)",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Tambores de Arriba",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Tapacoya",
+      "postal_code": [
+        "34690"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Tayoltita Centro",
+      "postal_code": [
+        "34690"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Temehuaya",
+      "postal_code": [
+        "34674"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Temporales",
+      "postal_code": [
+        "34695"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Tepalcates",
+      "postal_code": [
+        "34696"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Tinajuelas",
+      "postal_code": [
+        "34684"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Toluanda",
+      "postal_code": [
+        "34670"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Union Modelo (El Pueblito)",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Valderrama",
+      "postal_code": [
+        "34693"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Varones",
+      "postal_code": [
+        "34696"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Vazquez",
+      "postal_code": [
+        "34685"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Vencedores",
+      "postal_code": [
+        "34680"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Veracruz de la Sierra (El Pueblo)",
+      "postal_code": [
+        "34683"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Villa Corona (Ventanas)",
+      "postal_code": [
+        "34696"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Yamoriba",
+      "postal_code": [
+        "34675"
+      ]
+    },
+    {
+      "city": "San Dimas",
+      "colonia": "Yerbaniz",
+      "postal_code": [
+        "34670",
+        "34695"
+      ]
+    }
+  ]
+}

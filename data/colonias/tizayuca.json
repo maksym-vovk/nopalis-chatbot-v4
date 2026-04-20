@@ -1,0 +1,601 @@
+{
+  "data": [
+    {
+      "city": "Tizayuca",
+      "colonia": "Accordia",
+      "postal_code": [
+        "43802"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Ampliacion el Carmen",
+      "postal_code": [
+        "43815"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Ampliacion Emiliano Zapata",
+      "postal_code": [
+        "43810"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Ampliacion Lazaro Cardenas",
+      "postal_code": [
+        "43806"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Ampliacion Residencial San angel",
+      "postal_code": [
+        "43803"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Andalucia Residencial",
+      "postal_code": [
+        "43825"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "43808"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Atempa",
+      "postal_code": [
+        "43808"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Bosques de Ibiza",
+      "postal_code": [
+        "43815"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Campestre",
+      "postal_code": [
+        "43807"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "City",
+      "postal_code": [
+        "43806"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Ciudad de los Ninos (Rosas Rojas)",
+      "postal_code": [
+        "43802"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Ciudad Natura Tizayuca",
+      "postal_code": [
+        "43817"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "C.T.M.",
+      "postal_code": [
+        "43804"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Cuenca Lechera",
+      "postal_code": [
+        "43804"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Cuztitla",
+      "postal_code": [
+        "43803"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Deportiva",
+      "postal_code": [
+        "43802"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Don Carlos",
+      "postal_code": [
+        "43810"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Don Carlos 2da Seccion",
+      "postal_code": [
+        "43810"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "43807"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "El Chopo",
+      "postal_code": [
+        "43824",
+        "43817"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "El Cid",
+      "postal_code": [
+        "43810"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "El Manantial",
+      "postal_code": [
+        "43824"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "43815"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "43802"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "El Sitio",
+      "postal_code": [
+        "43807"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "El Tejocote",
+      "postal_code": [
+        "43824"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "43810"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Ex-Presidentes Municipales",
+      "postal_code": [
+        "43810"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Felipe Reyes",
+      "postal_code": [
+        "43815"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Florencia",
+      "postal_code": [
+        "43806"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Fuentes del Valle",
+      "postal_code": [
+        "43806"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Fuentes de Tizayuca",
+      "postal_code": [
+        "43816"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Geo Villas",
+      "postal_code": [
+        "43806"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Hacienda de Guadalupe",
+      "postal_code": [
+        "43810"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Hacienda las Torres",
+      "postal_code": [
+        "43802"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Haciendas de Tizayuca",
+      "postal_code": [
+        "43815"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Huicalco",
+      "postal_code": [
+        "43808"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Huitzila",
+      "postal_code": [
+        "43820"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Ignacio Zaragoza (Mogotes)",
+      "postal_code": [
+        "43824"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Jardines de Tizayuca I",
+      "postal_code": [
+        "43803"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Jardines de Tizayuca II",
+      "postal_code": [
+        "43803"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Joyas de Tizayuca",
+      "postal_code": [
+        "43807"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "La Canada",
+      "postal_code": [
+        "43803"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "La Ilusion (La Casa del Manantial)",
+      "postal_code": [
+        "43824"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "La Joya",
+      "postal_code": [
+        "43820"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "La Posta",
+      "postal_code": [
+        "43824"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "La Pradera",
+      "postal_code": [
+        "43807"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Las Campanas",
+      "postal_code": [
+        "43806"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Las Maravillas del angel",
+      "postal_code": [
+        "43810"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Las Plazas",
+      "postal_code": [
+        "43810"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "43806"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Lisboa",
+      "postal_code": [
+        "43803"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "43810"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Lomas de Tizayuca",
+      "postal_code": [
+        "43807"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Los Almendros",
+      "postal_code": [
+        "43803"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Los Heroes Tizayuca",
+      "postal_code": [
+        "43816"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "43815"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Marbella",
+      "postal_code": [
+        "43823"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Maria Candelaria",
+      "postal_code": [
+        "43824"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Nacozari",
+      "postal_code": [
+        "43803"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Nuevo Tizayuca",
+      "postal_code": [
+        "43806"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Olmos",
+      "postal_code": [
+        "43825"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Paseos del Pedregal",
+      "postal_code": [
+        "43815"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Pedregal de Tizayuca",
+      "postal_code": [
+        "43803"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Privada Diamante",
+      "postal_code": [
+        "43804"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Quinta Esperanza",
+      "postal_code": [
+        "43808"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Quintas de Tizayuca",
+      "postal_code": [
+        "43808"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Rancho Don Antonio",
+      "postal_code": [
+        "43810"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Rancho la Purisima",
+      "postal_code": [
+        "43803"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Real de San Jeronimo",
+      "postal_code": [
+        "43808"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Rojo Gomez",
+      "postal_code": [
+        "43804"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "San angel",
+      "postal_code": [
+        "43803"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "43803"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "43817"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "San Jose",
+      "postal_code": [
+        "43803"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Tepeyac",
+      "postal_code": [
+        "43804"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Tepojaco",
+      "postal_code": [
+        "43823"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Tizara Town",
+      "postal_code": [
+        "43816"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Tizayuca",
+      "postal_code": [
+        "43804",
+        "43806"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Tizayuca Centro",
+      "postal_code": [
+        "43800"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Unidad Deportiva",
+      "postal_code": [
+        "43802"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Villa los Milagros",
+      "postal_code": [
+        "43810"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Villa Magna",
+      "postal_code": [
+        "43806"
+      ]
+    },
+    {
+      "city": "Tizayuca",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "43823"
+      ]
+    }
+  ]
+}

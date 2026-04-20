@@ -1,0 +1,831 @@
+{
+  "data": [
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Acuna",
+      "postal_code": [
+        "67902"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Agua Nueva",
+      "postal_code": [
+        "67904"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Albercones",
+      "postal_code": [
+        "67935"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Alvaro Obregon (Cruz de Costilla)",
+      "postal_code": [
+        "67936"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Amaro",
+      "postal_code": [
+        "67923"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Boquillas",
+      "postal_code": [
+        "67905"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Capaderito",
+      "postal_code": [
+        "67902"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Carmen de Castano",
+      "postal_code": [
+        "67904"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Carmen de la Laja",
+      "postal_code": [
+        "67930"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Cerrito de Vacas",
+      "postal_code": [
+        "67928"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Charco de la Granja",
+      "postal_code": [
+        "67925"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Coloradas",
+      "postal_code": [
+        "67926"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Cruz de Elorza",
+      "postal_code": [
+        "67933"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Doctor Arroyo Centro",
+      "postal_code": [
+        "67900"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "El alamo",
+      "postal_code": [
+        "67934"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "El Canelo",
+      "postal_code": [
+        "67913"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "El Cerrito del Aire",
+      "postal_code": [
+        "67905"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "El Charquillo",
+      "postal_code": [
+        "67930"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "El Consuelo",
+      "postal_code": [
+        "67936"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "El Corazon",
+      "postal_code": [
+        "67935"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "El Jarro",
+      "postal_code": [
+        "67930"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "El Leoncito",
+      "postal_code": [
+        "67912"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "El Milagro",
+      "postal_code": [
+        "67930"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "El Pequeno",
+      "postal_code": [
+        "67923"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "El Pineno",
+      "postal_code": [
+        "67937"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "El Pocito",
+      "postal_code": [
+        "67930"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "El Refugio de Cedillo",
+      "postal_code": [
+        "67923"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "El Refugio y el Reparo",
+      "postal_code": [
+        "67938"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "El Represadero",
+      "postal_code": [
+        "67928"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "El Rucio",
+      "postal_code": [
+        "67924"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "El Salto",
+      "postal_code": [
+        "67931"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "El Tajo",
+      "postal_code": [
+        "67913"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "El Tecolote",
+      "postal_code": [
+        "67920"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Entronque los Medina (La Loma)",
+      "postal_code": [
+        "67921"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Estanque Nuevo",
+      "postal_code": [
+        "67917"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Guadalupe de Silva",
+      "postal_code": [
+        "67933"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Jesus Maria de Berrones",
+      "postal_code": [
+        "67926"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Jesus Maria y el Salto",
+      "postal_code": [
+        "67931"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Jorge Trevino",
+      "postal_code": [
+        "67900"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "La Agüita",
+      "postal_code": [
+        "67926"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "La Bolsa",
+      "postal_code": [
+        "67937"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "La Chiripa",
+      "postal_code": [
+        "67936"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "La Concepcion",
+      "postal_code": [
+        "67908"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "La Escondida de Arzola",
+      "postal_code": [
+        "67928"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Lagunita de Castillo",
+      "postal_code": [
+        "67907"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Lagunita y Ranchos Nuevos",
+      "postal_code": [
+        "67915"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "La Lagunita",
+      "postal_code": [
+        "67932"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "La Lajita",
+      "postal_code": [
+        "67930"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "La Lobera de Portillo",
+      "postal_code": [
+        "67905"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "La Mesa de Berrones",
+      "postal_code": [
+        "67904"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "La Presa de Quintero",
+      "postal_code": [
+        "67935"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "La Presita de Macias",
+      "postal_code": [
+        "67920"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "La Presita de Rueda",
+      "postal_code": [
+        "67937"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Largo",
+      "postal_code": [
+        "67905"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Las Brisas",
+      "postal_code": [
+        "67900"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Las Catorce",
+      "postal_code": [
+        "67908"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Las Huertas de Quiroga",
+      "postal_code": [
+        "67937"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Las Jarillas",
+      "postal_code": [
+        "67935"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Las Virgenes",
+      "postal_code": [
+        "67937"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "La Tapona de Camarillo",
+      "postal_code": [
+        "67907"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "La Union y el Cardonal",
+      "postal_code": [
+        "67926"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "La Yerba",
+      "postal_code": [
+        "67920"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Los Altitos",
+      "postal_code": [
+        "67905"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Los Arreozola",
+      "postal_code": [
+        "67905"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Los Cuartos",
+      "postal_code": [
+        "67930"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Los Medina",
+      "postal_code": [
+        "67920"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Los Terrenos",
+      "postal_code": [
+        "67902"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Martinez Dominguez",
+      "postal_code": [
+        "67900"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Mesa de Gonzalez",
+      "postal_code": [
+        "67914"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Mesa del Traidor",
+      "postal_code": [
+        "67931"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Palma Gorda",
+      "postal_code": [
+        "67904"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Palmillas (Aguilillas)",
+      "postal_code": [
+        "67916"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Panales de Arriba",
+      "postal_code": [
+        "67904"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Panalillos",
+      "postal_code": [
+        "67905"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Pintores Mexicanos",
+      "postal_code": [
+        "67900"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Presa de Maltos",
+      "postal_code": [
+        "67908"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Presa de San Carlos",
+      "postal_code": [
+        "67904"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Presa San Antonio",
+      "postal_code": [
+        "67915"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Puerta de Aguilar",
+      "postal_code": [
+        "67931",
+        "67932"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Puerto de Dolores",
+      "postal_code": [
+        "67906"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Puerto del Aire",
+      "postal_code": [
+        "67908"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "San Agustin de Valdez",
+      "postal_code": [
+        "67906"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "San Antonio de Buenavista (Los Cochinitos)",
+      "postal_code": [
+        "67904"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "San Antonio de Pena Nevada",
+      "postal_code": [
+        "67937"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "San Cayetano de Vacas",
+      "postal_code": [
+        "67925"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "San Diego (San Diego de Vacas)",
+      "postal_code": [
+        "67924"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "San Francisco de los Desmontes",
+      "postal_code": [
+        "67935"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "San Francisco del Yugo",
+      "postal_code": [
+        "67933"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "San Francisco de Zuniga",
+      "postal_code": [
+        "67932"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "San Gregorio",
+      "postal_code": [
+        "67938"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "San Ignacio de Torres",
+      "postal_code": [
+        "67938"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "San Isidro de Fernandez",
+      "postal_code": [
+        "67905"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "San Jose de Flores",
+      "postal_code": [
+        "67905"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "San Jose de la Luz",
+      "postal_code": [
+        "67906"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "San Juan de la Cruz",
+      "postal_code": [
+        "67937"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "San Juan del Palmar",
+      "postal_code": [
+        "67920"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "San Juanito",
+      "postal_code": [
+        "67932"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "San Miguel de los Aguirre",
+      "postal_code": [
+        "67936"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "San Miguelito",
+      "postal_code": [
+        "67928"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "San Pablo de Rueda",
+      "postal_code": [
+        "67916"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "San Pedro de Gonzalez (San Pedro de Rueda)",
+      "postal_code": [
+        "67934"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "San Rafael del Castillo",
+      "postal_code": [
+        "67905"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "San Ramon de los Martinez",
+      "postal_code": [
+        "67931"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "67921"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Santa Gertrudis",
+      "postal_code": [
+        "67926"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Santa Isabel",
+      "postal_code": [
+        "67924"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "67937"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Santa Margarita",
+      "postal_code": [
+        "67914"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "67934"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "67920"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Santa Teresa y San Jeronimo",
+      "postal_code": [
+        "67932"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "San Vicente de Gonzalez",
+      "postal_code": [
+        "67914"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "San Vicente de la Puerta",
+      "postal_code": [
+        "67905"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Socrates Rizzo",
+      "postal_code": [
+        "67900"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Tanquecillos",
+      "postal_code": [
+        "67926"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Taponcita de Camarillo",
+      "postal_code": [
+        "67907"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Vallecillos",
+      "postal_code": [
+        "67923"
+      ]
+    },
+    {
+      "city": "Doctor Arroyo",
+      "colonia": "Valle de la Purisima",
+      "postal_code": [
+        "67900"
+      ]
+    }
+  ]
+}

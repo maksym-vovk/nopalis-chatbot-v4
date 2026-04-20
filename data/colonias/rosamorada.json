@@ -1,0 +1,614 @@
+{
+  "data": [
+    {
+      "city": "Rosamorada",
+      "colonia": "16 de Septiembre",
+      "postal_code": [
+        "63645"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "20 noviembre",
+      "postal_code": [
+        "63645"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Abelardo L. Rodriguez (Amapa)",
+      "postal_code": [
+        "63633"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Agua Aceda",
+      "postal_code": [
+        "63652"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Agua Caliente",
+      "postal_code": [
+        "63630"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Benito Valle (San Miguel)",
+      "postal_code": [
+        "63657"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Bonita",
+      "postal_code": [
+        "63634"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Cerro Verde",
+      "postal_code": [
+        "63634"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Chilapa",
+      "postal_code": [
+        "63637"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Cofradia de Cuyutlan",
+      "postal_code": [
+        "63635"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Colonias 18 de Marzo",
+      "postal_code": [
+        "63637"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Copales",
+      "postal_code": [
+        "63634"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Coyotes",
+      "postal_code": [
+        "63650"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Crucero a Mexcaltitan (La Siesta)",
+      "postal_code": [
+        "63648"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Crucero a Zomatlan",
+      "postal_code": [
+        "63637"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Crucero de los Medina",
+      "postal_code": [
+        "63640"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Crucero Providencia",
+      "postal_code": [
+        "63634"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "El Balsamo",
+      "postal_code": [
+        "63657"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "El Camionero [Restaurante]",
+      "postal_code": [
+        "63634"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "El Canal de la Lima",
+      "postal_code": [
+        "63648"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "El Chirimoyo [Embarcadero]",
+      "postal_code": [
+        "63644"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "El Cuatante",
+      "postal_code": [
+        "63635"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "El Llanito",
+      "postal_code": [
+        "63646"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "El Mil",
+      "postal_code": [
+        "63637"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "El Ochenta",
+      "postal_code": [
+        "63658"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "El Potro",
+      "postal_code": [
+        "63638"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "El Quebrantadero (Hermanos Ibarra)",
+      "postal_code": [
+        "63658"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "El Rastro",
+      "postal_code": [
+        "63630"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "El Tamarindo",
+      "postal_code": [
+        "63648"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Estacion Chilapa",
+      "postal_code": [
+        "63656"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Francisco Contreras [Granja Camaronera]",
+      "postal_code": [
+        "63644"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "63633"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Huerta Paula Sojo",
+      "postal_code": [
+        "63637"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Insurgentes",
+      "postal_code": [
+        "63630"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "La Boquita",
+      "postal_code": [
+        "63640"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "La Flecha",
+      "postal_code": [
+        "63652"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "La Loma",
+      "postal_code": [
+        "63646"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "La Pila",
+      "postal_code": [
+        "63630"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Las Adelitas",
+      "postal_code": [
+        "63634"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Las Anonas",
+      "postal_code": [
+        "63634"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Las Conchas",
+      "postal_code": [
+        "63657"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Las Lajitas",
+      "postal_code": [
+        "63630"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Las Pilas",
+      "postal_code": [
+        "63638"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "63634",
+        "63645"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Llano del Tigre",
+      "postal_code": [
+        "63636"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Los 5 Puentes",
+      "postal_code": [
+        "63658"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Los Arrayanes",
+      "postal_code": [
+        "63635"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Los Cerritos (Loma de los Chivos)",
+      "postal_code": [
+        "63648"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Los Cinco Hermanos",
+      "postal_code": [
+        "63635"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Los Cuates",
+      "postal_code": [
+        "63658"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Los Espejos [Embarcadero]",
+      "postal_code": [
+        "63644"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Los Espejos [Granja Camaronera]",
+      "postal_code": [
+        "63644"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Los Horcones",
+      "postal_code": [
+        "63634"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Los Leandros",
+      "postal_code": [
+        "63658"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Los Medina",
+      "postal_code": [
+        "63640"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Los Petates",
+      "postal_code": [
+        "63634"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Los Pimienta",
+      "postal_code": [
+        "63658"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Los Ramirez",
+      "postal_code": [
+        "63648"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Minitas",
+      "postal_code": [
+        "63638"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Mojocuautla (Adjuntas)",
+      "postal_code": [
+        "63655"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Obrera CTM",
+      "postal_code": [
+        "63645"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Paramita",
+      "postal_code": [
+        "63635"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Paso Real del Bejuco",
+      "postal_code": [
+        "63656"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Pericos",
+      "postal_code": [
+        "63643"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Pescadero",
+      "postal_code": [
+        "63633"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Pimientillo",
+      "postal_code": [
+        "63644"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Providencia",
+      "postal_code": [
+        "63634"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Puente el Bejuco (El Capricho)",
+      "postal_code": [
+        "63658"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Rancho de Agripin Flores",
+      "postal_code": [
+        "63655"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Rancho de Miguel Sosa (Crucero de Pericos)",
+      "postal_code": [
+        "63640"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Rancho de Ramon Ibarra",
+      "postal_code": [
+        "63638"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Rancho Hermanos Bautista",
+      "postal_code": [
+        "63656"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Rancho Miguel Cervantes",
+      "postal_code": [
+        "63650"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Rincon de las Cucharas",
+      "postal_code": [
+        "63657"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Rosamorada Centro",
+      "postal_code": [
+        "63630"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Rosarito",
+      "postal_code": [
+        "63657"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "San Diego del Naranjo",
+      "postal_code": [
+        "63650"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "San Juan Bautista",
+      "postal_code": [
+        "63635"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "San Juan Corapan",
+      "postal_code": [
+        "63655"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "San Marcos Cuyutlan",
+      "postal_code": [
+        "63635"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "San Miguelito",
+      "postal_code": [
+        "63636"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "63652"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "San Vicente Centro",
+      "postal_code": [
+        "63645"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Teodoro Estrada",
+      "postal_code": [
+        "63645"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Teponahuaxtla (Huaixta)",
+      "postal_code": [
+        "63634"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Vicente Guerrero (El Mogote)",
+      "postal_code": [
+        "63640"
+      ]
+    },
+    {
+      "city": "Rosamorada",
+      "colonia": "Zomatlan del Caimanero",
+      "postal_code": [
+        "63637"
+      ]
+    }
+  ]
+}

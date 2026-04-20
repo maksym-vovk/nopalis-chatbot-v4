@@ -1,0 +1,2580 @@
+{
+  "data": [
+    {
+      "city": "Reynosa",
+      "colonia": "10 de Mayo",
+      "postal_code": [
+        "88520"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "15 de Enero",
+      "postal_code": [
+        "88784"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "16 de Septiembre",
+      "postal_code": [
+        "88786"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "1° de Mayo",
+      "postal_code": [
+        "88786"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "88786"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "5 de Diciembre",
+      "postal_code": [
+        "88700"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Actrices Mexicanas",
+      "postal_code": [
+        "88614"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "88654"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Adolfo Ruiz Cortines",
+      "postal_code": [
+        "88757"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Aeropuerto",
+      "postal_code": [
+        "88787"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Alfredo V. Bonfil (Periquitos)",
+      "postal_code": [
+        "88875"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Alianza Social",
+      "postal_code": [
+        "88790"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Almaguer",
+      "postal_code": [
+        "88780"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Altamira",
+      "postal_code": [
+        "88630"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Altavista",
+      "postal_code": [
+        "88720"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Alvaro Obregon",
+      "postal_code": [
+        "88520"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Americo Villarreal Guerra",
+      "postal_code": [
+        "88778"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Antara",
+      "postal_code": [
+        "88710"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Antonio J Bermudez",
+      "postal_code": [
+        "88727"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Anzalduas",
+      "postal_code": [
+        "88630"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Anzalduas (Estacion Anzalduas)",
+      "postal_code": [
+        "88857"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Aquiles Serdan",
+      "postal_code": [
+        "88540"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Arboledas de Juarez",
+      "postal_code": [
+        "88796"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Arboledas Riberena",
+      "postal_code": [
+        "88615"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Arcoiris",
+      "postal_code": [
+        "88779"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Arecas",
+      "postal_code": [
+        "88790"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Argüelles",
+      "postal_code": [
+        "88859"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Ayala",
+      "postal_code": [
+        "88689"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Ayuntamiento",
+      "postal_code": [
+        "88620"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Ayuntamiento 2000",
+      "postal_code": [
+        "88794"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Azteca",
+      "postal_code": [
+        "88760"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Aztlan",
+      "postal_code": [
+        "88740"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Balcones de Alcala",
+      "postal_code": [
+        "88799"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Beatriz Anaya",
+      "postal_code": [
+        "88796"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Beatty",
+      "postal_code": [
+        "88630"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Bella Vista",
+      "postal_code": [
+        "88600"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "88790"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Bienestar",
+      "postal_code": [
+        "88788"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Birrueta",
+      "postal_code": [
+        "88729"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Bosques de las Haciendas",
+      "postal_code": [
+        "88614"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Brisas de Almaguer",
+      "postal_code": [
+        "88780"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "88707"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Burocratica",
+      "postal_code": [
+        "88756"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Cactus II",
+      "postal_code": [
+        "88747"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Calpulli o Unidad y Esfuerzo",
+      "postal_code": [
+        "88715"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Campestre",
+      "postal_code": [
+        "88735"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Campestre Bugambilias",
+      "postal_code": [
+        "88713"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Campestre ITAVU",
+      "postal_code": [
+        "88655"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Campestre (Lago Orizatlan)",
+      "postal_code": [
+        "88783"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Campo Militar General Pedro Hinojosa",
+      "postal_code": [
+        "88785"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Capitan Carlos Cantu",
+      "postal_code": [
+        "88797"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Carmen Serdan",
+      "postal_code": [
+        "88522"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Casa Bella",
+      "postal_code": [
+        "88747"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Chapultepec (Chaparral)",
+      "postal_code": [
+        "88510"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Colinas de Loma Real",
+      "postal_code": [
+        "88715"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Colinas del Pedregal",
+      "postal_code": [
+        "88730"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Condado del Norte",
+      "postal_code": [
+        "88715"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Constitucion",
+      "postal_code": [
+        "88600"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Country",
+      "postal_code": [
+        "88620"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "88670"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Del Bosque Norte",
+      "postal_code": [
+        "88707"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Del Bosque Sur",
+      "postal_code": [
+        "88707"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Del Maestro",
+      "postal_code": [
+        "88770"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Del Parque",
+      "postal_code": [
+        "88700"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Del Prado",
+      "postal_code": [
+        "88560"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Del Rio",
+      "postal_code": [
+        "88580"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Del Sol",
+      "postal_code": [
+        "88709"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Del Valle",
+      "postal_code": [
+        "88620"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Diez de Noviembre",
+      "postal_code": [
+        "88850"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Ejido la Escondida",
+      "postal_code": [
+        "88760"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Ejido la Rosita",
+      "postal_code": [
+        "88610"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "El Anhelo",
+      "postal_code": [
+        "88760"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "El Banco",
+      "postal_code": [
+        "88790"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "El Bravo",
+      "postal_code": [
+        "88580"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "El Campanario",
+      "postal_code": [
+        "88787"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "El Circulo",
+      "postal_code": [
+        "88640"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Electricistas",
+      "postal_code": [
+        "88690"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "El Guerreno",
+      "postal_code": [
+        "88783"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "El Guerreno (Brecha 100y102 con km 23y26 Norte)",
+      "postal_code": [
+        "88850"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "El Halcon",
+      "postal_code": [
+        "88735"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "El Maestro (Centro)",
+      "postal_code": [
+        "88570"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "El Mezquite",
+      "postal_code": [
+        "88780"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "El Oasis",
+      "postal_code": [
+        "88796"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "El Olmito",
+      "postal_code": [
+        "88656"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "El Olmo",
+      "postal_code": [
+        "88650"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "88760"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "El Porvenir (El Bajio)",
+      "postal_code": [
+        "88850"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "88750"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Enrique Cardenas Gonzalez",
+      "postal_code": [
+        "88706"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Ernesto Zedillo",
+      "postal_code": [
+        "88684"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Esfuerzo Nacional",
+      "postal_code": [
+        "88735"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Esperanza",
+      "postal_code": [
+        "88777"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Fernandez Gomez",
+      "postal_code": [
+        "88570"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Ferrocarril Oriente",
+      "postal_code": [
+        "88598"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Ferrocarril Poniente",
+      "postal_code": [
+        "88600"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Ferrocarril Zona Centro",
+      "postal_code": [
+        "88570"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Fidel Velazquez",
+      "postal_code": [
+        "88789"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Flovigar",
+      "postal_code": [
+        "88630"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "FOVISSSTE Modulo Habitacional",
+      "postal_code": [
+        "88740"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Framboyanes",
+      "postal_code": [
+        "88710"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "88875"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Francisco Sarabia",
+      "postal_code": [
+        "88787"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "88780"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Fuentes del Valle",
+      "postal_code": [
+        "88746"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Fundadores",
+      "postal_code": [
+        "88759"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Garcia Rojas",
+      "postal_code": [
+        "88740"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Generacion 2000",
+      "postal_code": [
+        "88790"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Gomez Lira",
+      "postal_code": [
+        "88793"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Granjas Economicas del Norte",
+      "postal_code": [
+        "88730"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "88778"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Hacienda del Sol",
+      "postal_code": [
+        "88736"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Hacienda las Bugambilias",
+      "postal_code": [
+        "88735"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Hacienda las Fuentes",
+      "postal_code": [
+        "88655"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "88650"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Independencia",
+      "postal_code": [
+        "88795"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Industrial",
+      "postal_code": [
+        "88599"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Industrial Maquiladora",
+      "postal_code": [
+        "88787"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "INFONAVIT Anzalduas",
+      "postal_code": [
+        "88649"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "INFONAVIT Arboledas",
+      "postal_code": [
+        "88703"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "INFONAVIT las Lomas",
+      "postal_code": [
+        "88743"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "INFONAVIT Paraiso",
+      "postal_code": [
+        "88680"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Ingeniero Humberto Valdez Richaud",
+      "postal_code": [
+        "88790"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Integracion Familiar Desarrollo Integral ITAVU",
+      "postal_code": [
+        "88735"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Jacinto Lopez I",
+      "postal_code": [
+        "88756"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Jacinto Lopez II",
+      "postal_code": [
+        "88757"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Jarachina del Sur",
+      "postal_code": [
+        "88736"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Jardin",
+      "postal_code": [
+        "88670"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Jardines Coloniales",
+      "postal_code": [
+        "88749"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Jesus Vega Sanchez",
+      "postal_code": [
+        "88610"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Jose de Escandon (Petrolera)",
+      "postal_code": [
+        "88680"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Josefa Ortiz de Dominguez",
+      "postal_code": [
+        "88653"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Juan Escutia",
+      "postal_code": [
+        "88680"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "La Amistad",
+      "postal_code": [
+        "88756"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "La Canada",
+      "postal_code": [
+        "88700"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "La Cima",
+      "postal_code": [
+        "88710"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "La Curva",
+      "postal_code": [
+        "88597"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Laderas de Monterreal",
+      "postal_code": [
+        "88737"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Ladrillera Mexicana",
+      "postal_code": [
+        "88632"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "88770"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "La Joya",
+      "postal_code": [
+        "88777"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "88760"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Lampasitos",
+      "postal_code": [
+        "88780"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Laredo",
+      "postal_code": [
+        "88708"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "La Retama",
+      "postal_code": [
+        "88855"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "La Rosita",
+      "postal_code": [
+        "88670"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Las Anacuas",
+      "postal_code": [
+        "88796"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Las Arboledas",
+      "postal_code": [
+        "88655"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Las Camelias",
+      "postal_code": [
+        "88655"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Las Cumbres",
+      "postal_code": [
+        "88740"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Las Cumbres Prolongacion",
+      "postal_code": [
+        "88745"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Las Delicias",
+      "postal_code": [
+        "88680"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Las Fuentes",
+      "postal_code": [
+        "88740"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Las Fuentes Colonial",
+      "postal_code": [
+        "88703"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Las Fuentes Seccion Lomas",
+      "postal_code": [
+        "88703"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Las Haciendas",
+      "postal_code": [
+        "88614"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Las Lomas",
+      "postal_code": [
+        "88670"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Las Milpas",
+      "postal_code": [
+        "88794"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Las Mitras",
+      "postal_code": [
+        "88759"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "88700",
+        "88795"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Las Palmas II",
+      "postal_code": [
+        "88735"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Las Piramides",
+      "postal_code": [
+        "88799"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Las Quintas",
+      "postal_code": [
+        "88710"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Las Torres",
+      "postal_code": [
+        "88650"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "88760"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Lazaro Cardenas Oriente",
+      "postal_code": [
+        "88769"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Leal Puente",
+      "postal_code": [
+        "88720"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Leyes de Reforma",
+      "postal_code": [
+        "88655"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Licenciado Galo alvarez",
+      "postal_code": [
+        "88854"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Loma Alta",
+      "postal_code": [
+        "88670"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Loma Blanca",
+      "postal_code": [
+        "88780"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "88715"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "88700"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Loma Real",
+      "postal_code": [
+        "88715"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Lomas de la Torre",
+      "postal_code": [
+        "88793"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Lomas del Pedregal",
+      "postal_code": [
+        "88793"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Lomas del Real de Jarachinas",
+      "postal_code": [
+        "88730"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Lomas del Real de Jarachinas Norte",
+      "postal_code": [
+        "88730"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Lomas del Real de Jarachinas Sur",
+      "postal_code": [
+        "88736"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Lomas de Sinai",
+      "postal_code": [
+        "88736"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Lomas de Valle Alto",
+      "postal_code": [
+        "88747"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Lomas de Villar",
+      "postal_code": [
+        "88763"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Longoria San Ricardo",
+      "postal_code": [
+        "88690"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Lopez Portillo",
+      "postal_code": [
+        "88757"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "88655"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Los Almendros",
+      "postal_code": [
+        "88799"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Los Almendros II",
+      "postal_code": [
+        "88799"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Los Altos (El Alto)",
+      "postal_code": [
+        "88850"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Los Arcos",
+      "postal_code": [
+        "88799"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Los Caracoles",
+      "postal_code": [
+        "88610"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Los Cavazos",
+      "postal_code": [
+        "88614",
+        "88720"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Los Doctores",
+      "postal_code": [
+        "88690"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Los Encinos",
+      "postal_code": [
+        "88799"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Los Fresnos Residencial",
+      "postal_code": [
+        "88715"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "88715"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Los Leones",
+      "postal_code": [
+        "88690"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Los Longorias",
+      "postal_code": [
+        "88520"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Los Muros",
+      "postal_code": [
+        "88747"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "88640"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Los Olivos",
+      "postal_code": [
+        "88799"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Los Pinos de Loma Real",
+      "postal_code": [
+        "88715"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Los Robles",
+      "postal_code": [
+        "88780"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "88653"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Los Virreyes",
+      "postal_code": [
+        "88620"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Lucio Blanco",
+      "postal_code": [
+        "88777"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "88793"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "88707"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Mano con Mano",
+      "postal_code": [
+        "88796"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Manuel Cavazos Lerma",
+      "postal_code": [
+        "88600"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Manuel Tarrega",
+      "postal_code": [
+        "88596"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Margarita Maza de Juarez",
+      "postal_code": [
+        "88784"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Marte R Gomez",
+      "postal_code": [
+        "88790",
+        "88798"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Medardo Gonzalez",
+      "postal_code": [
+        "88550"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Mexico",
+      "postal_code": [
+        "88796"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Miravalle",
+      "postal_code": [
+        "88733"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Mision Santa Fe",
+      "postal_code": [
+        "88799"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Mocambo",
+      "postal_code": [
+        "88651"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Modelo",
+      "postal_code": [
+        "88790"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Moderno",
+      "postal_code": [
+        "88710"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Modulo 2000 Rancho Grande",
+      "postal_code": [
+        "88600"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Modulo 2000 Reynosa",
+      "postal_code": [
+        "88700"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Montecasino",
+      "postal_code": [
+        "88640"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Montecristo",
+      "postal_code": [
+        "88614"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Morelos",
+      "postal_code": [
+        "88650"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Naranjitos",
+      "postal_code": [
+        "88796"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Narciso Mendoza",
+      "postal_code": [
+        "88700"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Nuevo Amanecer",
+      "postal_code": [
+        "88786"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Nuevo Mexico",
+      "postal_code": [
+        "88713"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Nuevo Mexico Sectores I II III IV V",
+      "postal_code": [
+        "88758"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Nuevo Reynosa",
+      "postal_code": [
+        "88780"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Nuevo Santander",
+      "postal_code": [
+        "88758"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Nuevo Tamaulipas",
+      "postal_code": [
+        "88595"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Obrera",
+      "postal_code": [
+        "88680"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Palma Real",
+      "postal_code": [
+        "88710"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Palo Blanco",
+      "postal_code": [
+        "88856"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Paraiso",
+      "postal_code": [
+        "88680"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Parque Industrial American Industries Kimco",
+      "postal_code": [
+        "88796"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Parque Industrial Center",
+      "postal_code": [
+        "88780"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Parque Industrial Colonial",
+      "postal_code": [
+        "88787"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Parque Industrial del Norte",
+      "postal_code": [
+        "88736"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Parque Industrial El Puente (Manimex)",
+      "postal_code": [
+        "88783"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Parque Industrial Maquilpark",
+      "postal_code": [
+        "88614"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Parque Industrial Reynosa (Seccion Norte)",
+      "postal_code": [
+        "88788"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Parque Industrial STIVA Alcala",
+      "postal_code": [
+        "88799"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Parque Industrial Sur",
+      "postal_code": [
+        "88787"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Parque Industrial Villa Florida",
+      "postal_code": [
+        "88710"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Parque Mol Industrial",
+      "postal_code": [
+        "88756"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Paseo de las Flores",
+      "postal_code": [
+        "88799"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Paseo del Prado",
+      "postal_code": [
+        "88754"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Paseo Residencial",
+      "postal_code": [
+        "88715"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Pedro J Mendez",
+      "postal_code": [
+        "88799"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Polanco",
+      "postal_code": [
+        "88710"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Portal San Miguel",
+      "postal_code": [
+        "88747"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Praderas de Oriente",
+      "postal_code": [
+        "88595"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Praderas Elite",
+      "postal_code": [
+        "88795"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Prado Sur",
+      "postal_code": [
+        "88560"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Presa la Laguna",
+      "postal_code": [
+        "88750"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Presa la Laguna (Ampliacion)",
+      "postal_code": [
+        "88758"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Privada las Americas",
+      "postal_code": [
+        "88632",
+        "88799"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Privada las Ceibas",
+      "postal_code": [
+        "88655"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Privada las Palmas",
+      "postal_code": [
+        "88710"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Privada los Montejos",
+      "postal_code": [
+        "88680"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Privadas Campestre",
+      "postal_code": [
+        "88735"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Privadas de la Hacienda",
+      "postal_code": [
+        "88655"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Privadas del Norte",
+      "postal_code": [
+        "88747"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "ProLogis Park",
+      "postal_code": [
+        "88787"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Puente Nuevo",
+      "postal_code": [
+        "88783"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Puerta del Sol",
+      "postal_code": [
+        "88736"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Puerta Grande",
+      "postal_code": [
+        "88736"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Puerta Sur",
+      "postal_code": [
+        "88734"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Puerto Escondido",
+      "postal_code": [
+        "88790"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Ramon Perez Garcia",
+      "postal_code": [
+        "88794"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Ramos",
+      "postal_code": [
+        "88520"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Rancho Grande",
+      "postal_code": [
+        "88610"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Real del Cantaro",
+      "postal_code": [
+        "88730"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Refineria",
+      "postal_code": [
+        "88640"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Renacimiento",
+      "postal_code": [
+        "88756"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Renacimiento II",
+      "postal_code": [
+        "88754"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Resendez Fierro",
+      "postal_code": [
+        "88640"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Reserva Territorial Campestre",
+      "postal_code": [
+        "88655"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Residencial del Valle",
+      "postal_code": [
+        "88787"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Residencial Miraloma",
+      "postal_code": [
+        "88710"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Residencial San Jose",
+      "postal_code": [
+        "88748"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Revolucion Obrera",
+      "postal_code": [
+        "88759"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Revolucion Verde",
+      "postal_code": [
+        "88687"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Reynosa",
+      "postal_code": [
+        "88780"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Reynosa Centro",
+      "postal_code": [
+        "88500"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Reynosa Diaz",
+      "postal_code": [
+        "88850",
+        "88859"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Reynosa (General Lucio Blanco)",
+      "postal_code": [
+        "88509"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Riberas del Aeropuerto",
+      "postal_code": [
+        "88787"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Riberas del Bosque",
+      "postal_code": [
+        "88615"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Riberas de Rancho Grande",
+      "postal_code": [
+        "88615"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Riberena",
+      "postal_code": [
+        "88620"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "88759"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Rincon de las Flores",
+      "postal_code": [
+        "88796"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Rincon del Parque I y II",
+      "postal_code": [
+        "88707"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Rincon del Valle",
+      "postal_code": [
+        "88710"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Rio Grande",
+      "postal_code": [
+        "88747"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Riveras del Carmen",
+      "postal_code": [
+        "88795"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Rodhe",
+      "postal_code": [
+        "88700"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Rodolfo Martin Rocha (Martin Rocha)",
+      "postal_code": [
+        "88850"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Rodriguez",
+      "postal_code": [
+        "88630"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Rodriguez Ampliacion",
+      "postal_code": [
+        "88631"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Roma Burocratica",
+      "postal_code": [
+        "88755"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Rosa Linda Guerrero",
+      "postal_code": [
+        "88730"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "San angel Residencial",
+      "postal_code": [
+        "88746"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "88710"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "San Jeronimo",
+      "postal_code": [
+        "88709"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "San Jose de los Garza",
+      "postal_code": [
+        "88713"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "88735"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "88754"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "San Roberto",
+      "postal_code": [
+        "88707"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "88850",
+        "88850"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "88650"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "88650"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "88735",
+        "88758"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "88710"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "San Valentin",
+      "postal_code": [
+        "88733"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Satelite",
+      "postal_code": [
+        "88795"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Sendas Residencial",
+      "postal_code": [
+        "88715"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Sierra de la Garza",
+      "postal_code": [
+        "88680"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Simon Rodriguez",
+      "postal_code": [
+        "88670"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "SNTE",
+      "postal_code": [
+        "88747"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Solidaridad",
+      "postal_code": [
+        "88736"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Tamaulipas I",
+      "postal_code": [
+        "88793"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Tamaulipas II y III",
+      "postal_code": [
+        "88790"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Tamaulipas IV (Nuevo Milenio)",
+      "postal_code": [
+        "88790"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Tecnologico de Reynosa",
+      "postal_code": [
+        "88736"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Terranova",
+      "postal_code": [
+        "88799"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Unidad Obrera",
+      "postal_code": [
+        "88786"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Unidad Obrera Seccion II",
+      "postal_code": [
+        "88780"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Unidad y Progreso",
+      "postal_code": [
+        "88589"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Unidos Podemos",
+      "postal_code": [
+        "88757"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Universitaria",
+      "postal_code": [
+        "88757"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Valle Alto",
+      "postal_code": [
+        "88710"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Valle del Bravo",
+      "postal_code": [
+        "88747"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Valle del Mezquite",
+      "postal_code": [
+        "88710"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Valle del Pedregal",
+      "postal_code": [
+        "88730"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Valle del Vergel",
+      "postal_code": [
+        "88730"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Valle Dorado",
+      "postal_code": [
+        "88709"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Valle Soleado",
+      "postal_code": [
+        "88799"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Valle Verde",
+      "postal_code": [
+        "88720"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Vamos Tamaulipas",
+      "postal_code": [
+        "88795"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Ventura",
+      "postal_code": [
+        "88715"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "88620"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Villa del Sol",
+      "postal_code": [
+        "88764"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Villa Dorada",
+      "postal_code": [
+        "88736"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Villa Esmeralda",
+      "postal_code": [
+        "88795"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Villa Florida",
+      "postal_code": [
+        "88715"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Villa Florida Jardines",
+      "postal_code": [
+        "88715"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Villa las Fuentes",
+      "postal_code": [
+        "88740"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Villa los Nogales",
+      "postal_code": [
+        "88710"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Villa Marin",
+      "postal_code": [
+        "88754"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Villa Real",
+      "postal_code": [
+        "88787"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Villas de Imaq",
+      "postal_code": [
+        "88776"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Villas de la Joya",
+      "postal_code": [
+        "88795"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Villas de las Haciendas",
+      "postal_code": [
+        "88614"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Villas del Palmar",
+      "postal_code": [
+        "88780"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Villas del Parque",
+      "postal_code": [
+        "88780"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Villas del Prado",
+      "postal_code": [
+        "88597"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Villas del Roble",
+      "postal_code": [
+        "88715"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Villas de San Jose",
+      "postal_code": [
+        "88748"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Villas de San Lazaro",
+      "postal_code": [
+        "88710"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Villas Diamante",
+      "postal_code": [
+        "88776"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Vista Alta Residencial",
+      "postal_code": [
+        "88715"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "88710"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Voluntad y Trabajo",
+      "postal_code": [
+        "88776"
+      ]
+    },
+    {
+      "city": "Reynosa",
+      "colonia": "Zona de Agentes Aduanales Adscritos",
+      "postal_code": [
+        "88788"
+      ]
+    }
+  ]
+}

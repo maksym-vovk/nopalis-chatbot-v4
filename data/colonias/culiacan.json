@@ -1,0 +1,5898 @@
+{
+  "data": [
+    {
+      "city": "Culiacan",
+      "colonia": "10 de Abril",
+      "postal_code": [
+        "80029"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "10 de Mayo",
+      "postal_code": [
+        "80270"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "12 de Diciembre",
+      "postal_code": [
+        "80296"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "16 de Septiembre",
+      "postal_code": [
+        "80016"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "18 de Marzo",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "80308"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "21 de Marzo",
+      "postal_code": [
+        "80280"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "22 de Diciembre",
+      "postal_code": [
+        "80199"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "4 de Marzo",
+      "postal_code": [
+        "80054"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "5° alvarez",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "5 de Febrero",
+      "postal_code": [
+        "80247"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "5 de Febrero (Las Güeras)",
+      "postal_code": [
+        "80464"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "5 de Mayo",
+      "postal_code": [
+        "80230"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "6 de Enero",
+      "postal_code": [
+        "80010"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "7 Gotas",
+      "postal_code": [
+        "80247"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "8 de Febrero",
+      "postal_code": [
+        "80296"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "9 de Marzo",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Abuya",
+      "postal_code": [
+        "80496"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Abuya y Ceuta 2",
+      "postal_code": [
+        "80393"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Acapulco",
+      "postal_code": [
+        "80304"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Acueducto",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Acueducto III",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "80190",
+        "80303"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Adolfo Lopez Mateos (Casa Blanca)",
+      "postal_code": [
+        "80492"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Adolfo Ruiz Cortines",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Adolfo Ruiz Cortinez",
+      "postal_code": [
+        "80190"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Aeropuerto",
+      "postal_code": [
+        "80130"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Agrarista Mexicana",
+      "postal_code": [
+        "80014"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Agua Blanca",
+      "postal_code": [
+        "80318"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Agua Caliente de los Monzon",
+      "postal_code": [
+        "80319"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Aguaruto Centro",
+      "postal_code": [
+        "80308"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Aguaruto Viejo",
+      "postal_code": [
+        "80308"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Agustina Ramirez",
+      "postal_code": [
+        "80028",
+        "80308"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Alameda",
+      "postal_code": [
+        "80019"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Albaterra",
+      "postal_code": [
+        "80014"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Alcoyonqui",
+      "postal_code": [
+        "80391"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Alegranza",
+      "postal_code": [
+        "80025"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Alejandro Redo",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Altamira",
+      "postal_code": [
+        "80027"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Altamira Seccion Altana",
+      "postal_code": [
+        "80027"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Altamira Seccion Barcelo",
+      "postal_code": [
+        "80027"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Alteza",
+      "postal_code": [
+        "80177"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Alto de Quila (San Francisco)",
+      "postal_code": [
+        "80402"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Altos Bacurimi",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Altos de Bachigualato",
+      "postal_code": [
+        "80130"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Alturas del Sur",
+      "postal_code": [
+        "80295"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Amado Nervo",
+      "postal_code": [
+        "80199"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Amapas",
+      "postal_code": [
+        "80063"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Amorada",
+      "postal_code": [
+        "80014"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Ampliacion El Barrio",
+      "postal_code": [
+        "80249"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Ampliacion el Realito I (Curva el Treinta y Seis)",
+      "postal_code": [
+        "80434"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Ampliacion Navito",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Ampliacion Union (Nueva)",
+      "postal_code": [
+        "80400"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Antonio Nakayama",
+      "postal_code": [
+        "80194"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Antonio Rosales",
+      "postal_code": [
+        "80230"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Antonio Toledo Corro",
+      "postal_code": [
+        "80296",
+        "80435"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Aquiles Serdan",
+      "postal_code": [
+        "80190"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "80010"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Argentina Dos",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Arkadia Uno (El Siete)",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Arroyo de la Higuera",
+      "postal_code": [
+        "80386"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Arroyo Grande",
+      "postal_code": [
+        "80380"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Aurora",
+      "postal_code": [
+        "80060"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Avellaneda",
+      "postal_code": [
+        "80050"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Aviacion",
+      "postal_code": [
+        "80409"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Ayune",
+      "postal_code": [
+        "80384"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Azaleas Residencial",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Azucena",
+      "postal_code": [
+        "80189"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Bachigualato",
+      "postal_code": [
+        "80130",
+        "80140"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Bacurimi",
+      "postal_code": [
+        "80301"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Bagrecitos",
+      "postal_code": [
+        "80311"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Baila",
+      "postal_code": [
+        "80390"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Balcones Del Humaya",
+      "postal_code": [
+        "80028"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Balcones Del Valle",
+      "postal_code": [
+        "80184"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Balcones de San Miguel",
+      "postal_code": [
+        "80176"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Banjercito",
+      "postal_code": [
+        "80246"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Banus",
+      "postal_code": [
+        "80065"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Banus 360",
+      "postal_code": [
+        "80065"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Barcelona Seccion Villa Barcelona",
+      "postal_code": [
+        "80059"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Barcelona Seccion Villa Barcelona Etapa II",
+      "postal_code": [
+        "80059"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Barrio de San Anselmo",
+      "postal_code": [
+        "80199"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Barrio de San Luis",
+      "postal_code": [
+        "80199"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Barrio Estacion",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Barrio San Agustin",
+      "postal_code": [
+        "80199"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Barrio San Francisco",
+      "postal_code": [
+        "80199"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Barrio San Jose",
+      "postal_code": [
+        "80199"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Belcantto",
+      "postal_code": [
+        "80184"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "80301",
+        "80408"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Benevento Residencial",
+      "postal_code": [
+        "80014"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "80210",
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Benito Juarez Norte",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Benito Juarez Sur",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Bicentenario",
+      "postal_code": [
+        "80019",
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Bombas de Redo",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Bonanza",
+      "postal_code": [
+        "80020"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Bonaterra",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Bosque Encinos",
+      "postal_code": [
+        "80029"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Bosques Del alamo",
+      "postal_code": [
+        "80018"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Bosques del Humaya",
+      "postal_code": [
+        "80025"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Bosques del Rey",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Brisas de Humaya",
+      "postal_code": [
+        "80025"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Buena Vista",
+      "postal_code": [
+        "80014"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "80199"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "80145"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Burocrata",
+      "postal_code": [
+        "80030"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Camino Real",
+      "postal_code": [
+        "80247"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campesina El Barrio",
+      "postal_code": [
+        "80249"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campestre",
+      "postal_code": [
+        "80015"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campestre Los Laureles",
+      "postal_code": [
+        "80027"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campestre San Jorge",
+      "postal_code": [
+        "80029"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campestre Tres Rios",
+      "postal_code": [
+        "80028"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo 5 y Medio",
+      "postal_code": [
+        "80434"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo Agricola San Miguel",
+      "postal_code": [
+        "80490"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo Arbaco",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo Batan",
+      "postal_code": [
+        "80308"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo Bello",
+      "postal_code": [
+        "80140"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo Cuarenta y Cuatro",
+      "postal_code": [
+        "80434"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo El Cardenal I",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo El Chorizo",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo El Conejo (Campo Esperazna)",
+      "postal_code": [
+        "80434"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo El Huarache",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo el Seis",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo El Sol (Campo Pegaso)",
+      "postal_code": [
+        "80398"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo El Toro",
+      "postal_code": [
+        "80434"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo erika",
+      "postal_code": [
+        "80434"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo Esperanza",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo Eureka",
+      "postal_code": [
+        "80439"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo Gobierno II",
+      "postal_code": [
+        "80435"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo Isabelitas",
+      "postal_code": [
+        "80434"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo Jal-Aca",
+      "postal_code": [
+        "80490"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo La Baqueta",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo la Catorce",
+      "postal_code": [
+        "80433"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo La Flor",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo Laguna",
+      "postal_code": [
+        "80415"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo La Laguna",
+      "postal_code": [
+        "80415"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo Mezquitillo 2",
+      "postal_code": [
+        "80439"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo Morelia",
+      "postal_code": [
+        "80301"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo Moroleon",
+      "postal_code": [
+        "80308"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo Nota",
+      "postal_code": [
+        "80434"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo Nuevo Mexico",
+      "postal_code": [
+        "80398"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo Paredes",
+      "postal_code": [
+        "80434"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo Patricia",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo San Emilio",
+      "postal_code": [
+        "80303"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo San Javier",
+      "postal_code": [
+        "80309"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo San Marcos",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo San Martin",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo Santa Aurora",
+      "postal_code": [
+        "80439"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campo Santa Lucia",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Campos Eliseos",
+      "postal_code": [
+        "80199"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "CANACO",
+      "postal_code": [
+        "80059"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Canadas",
+      "postal_code": [
+        "80178"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Canan",
+      "postal_code": [
+        "80398"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Canitas",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Cantabria",
+      "postal_code": [
+        "80301"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Capistrano Residencial",
+      "postal_code": [
+        "80194"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Carboneras",
+      "postal_code": [
+        "80385"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Casa Blanca",
+      "postal_code": [
+        "80184"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Casas Lindas",
+      "postal_code": [
+        "80184"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Cedros",
+      "postal_code": [
+        "80408"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Centenario",
+      "postal_code": [
+        "80184"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Central Internacional Milenium",
+      "postal_code": [
+        "80106"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Centro",
+      "postal_code": [
+        "80000",
+        "80430",
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Centro Sinaloa",
+      "postal_code": [
+        "80000"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Chapultepec",
+      "postal_code": [
+        "80040"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Chapultepec Del Rio",
+      "postal_code": [
+        "80040"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Chiqueritos",
+      "postal_code": [
+        "80496"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Chulavista",
+      "postal_code": [
+        "80194"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Cimas del Humaya",
+      "postal_code": [
+        "80029"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Ciudad Universitaria",
+      "postal_code": [
+        "80013"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "CNOP",
+      "postal_code": [
+        "80297"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Colina del Rey",
+      "postal_code": [
+        "80177"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Colinas de La Rivera",
+      "postal_code": [
+        "80025"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Colinas de la Rivera Segunda Seccion",
+      "postal_code": [
+        "80025"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Colinas del Bosque",
+      "postal_code": [
+        "80197"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Colinas del Humaya",
+      "postal_code": [
+        "80029"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Colinas Del Parque",
+      "postal_code": [
+        "80176"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Colinas del Sol",
+      "postal_code": [
+        "80194"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Colinas de San Miguel",
+      "postal_code": [
+        "80228"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Comanito",
+      "postal_code": [
+        "80419"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Comunicadores",
+      "postal_code": [
+        "80034"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Condesa",
+      "postal_code": [
+        "80100"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Conquista del Rey",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Constitucion CROC",
+      "postal_code": [
+        "80249"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Constituyentes",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Corcega",
+      "postal_code": [
+        "80294"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Cospita",
+      "postal_code": [
+        "80498"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Costa del Sol",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Country alamos",
+      "postal_code": [
+        "80100"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Country Courts",
+      "postal_code": [
+        "80107"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Country del Rio",
+      "postal_code": [
+        "80050"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Country Tres Rios",
+      "postal_code": [
+        "80107"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "80027"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Culiacancito",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Culiacan (Culiacan)",
+      "postal_code": [
+        "80139"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Culiacan Tres Rios",
+      "postal_code": [
+        "80050"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Cumbre Real",
+      "postal_code": [
+        "80029"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Danubio",
+      "postal_code": [
+        "80140"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Del Camino",
+      "postal_code": [
+        "80184"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Del Humaya",
+      "postal_code": [
+        "80054"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Demetrio Vallejo",
+      "postal_code": [
+        "80308"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Diamante",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Diana Laura Riojas de Colosio",
+      "postal_code": [
+        "80199"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Domingo Rubi",
+      "postal_code": [
+        "80194"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Dos Arroyos",
+      "postal_code": [
+        "80304"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Dos Puntas",
+      "postal_code": [
+        "80184"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Ejidal",
+      "postal_code": [
+        "80405"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El alamo",
+      "postal_code": [
+        "80394",
+        "80398"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Alhuate",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Alto de Culiacancito",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Alto del Coyote",
+      "postal_code": [
+        "80309"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Barrio",
+      "postal_code": [
+        "80080"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Camalote",
+      "postal_code": [
+        "80460"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "80410"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Carrizal Dos",
+      "postal_code": [
+        "80410"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Carrizalejo",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Chorrito",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Ciruelar",
+      "postal_code": [
+        "80386"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Conchal",
+      "postal_code": [
+        "80467"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Cuervo",
+      "postal_code": [
+        "80467"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Diez",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Eldorado Viejo",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Espinal",
+      "postal_code": [
+        "80383"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Gato",
+      "postal_code": [
+        "80398"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Guayabito",
+      "postal_code": [
+        "80311"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Higueral",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Huinacaxtle",
+      "postal_code": [
+        "80460"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Limoncito",
+      "postal_code": [
+        "80313"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Limon de los Ramos",
+      "postal_code": [
+        "80305"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Limon de Tellaeche",
+      "postal_code": [
+        "80385"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Manguito",
+      "postal_code": [
+        "80453"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Melon (San Alejandro)",
+      "postal_code": [
+        "80460"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "80017"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Olivar",
+      "postal_code": [
+        "80189"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Paso del Norte (El Pasito)",
+      "postal_code": [
+        "80315"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Pinole",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Pipila",
+      "postal_code": [
+        "80249"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "80411"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Pozo",
+      "postal_code": [
+        "80384"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Quemadito",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Quince",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Quince (El Quincito)",
+      "postal_code": [
+        "80398"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Ranchito de los Burgos",
+      "postal_code": [
+        "80442"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Real",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Realito",
+      "postal_code": [
+        "80444"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Retiro",
+      "postal_code": [
+        "80491"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "80384",
+        "80386"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Robalar",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Rosarito",
+      "postal_code": [
+        "80457"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Salado",
+      "postal_code": [
+        "80440"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Saucito Nuevo",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Sifon",
+      "postal_code": [
+        "80305"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Sinaloense",
+      "postal_code": [
+        "80490"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Talayote",
+      "postal_code": [
+        "80415"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Tecomate",
+      "postal_code": [
+        "80305"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Tule",
+      "postal_code": [
+        "80390",
+        "80463"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Vallado",
+      "postal_code": [
+        "80110"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Venadillo",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Vichi de Abajo",
+      "postal_code": [
+        "80443"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "El Vizcaino",
+      "postal_code": [
+        "80441"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Emancipacion",
+      "postal_code": [
+        "80490"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "80260",
+        "80409"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Empaque del Valle",
+      "postal_code": [
+        "80434"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Enrique Felix Castro",
+      "postal_code": [
+        "80050"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Esmeralda Life",
+      "postal_code": [
+        "80197"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Espacios Barcelona",
+      "postal_code": [
+        "80059"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Espacios Marsella",
+      "postal_code": [
+        "80010"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Estacion Obispo",
+      "postal_code": [
+        "80485"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Estacion Quila",
+      "postal_code": [
+        "80480"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Estacion Rosales",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Estacion Vitaruto",
+      "postal_code": [
+        "80303"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Estancia de los Garcia",
+      "postal_code": [
+        "80470"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Esthela Ortiz de Toledo",
+      "postal_code": [
+        "80197"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Estrella Nueva Galicia",
+      "postal_code": [
+        "80280"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Felipe angeles",
+      "postal_code": [
+        "80197"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Ferrocarrilera",
+      "postal_code": [
+        "80194"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Fidel Velazquez",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Fincas del Humaya",
+      "postal_code": [
+        "80029"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Finisterra",
+      "postal_code": [
+        "80194"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Florenza",
+      "postal_code": [
+        "80247"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Floresta",
+      "postal_code": [
+        "80014"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Floresta Tres Rios",
+      "postal_code": [
+        "80104"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Florida",
+      "postal_code": [
+        "80246"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "FOVISSSTE Abelardo de La Torre",
+      "postal_code": [
+        "80040"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "FOVISSSTE Diamante",
+      "postal_code": [
+        "80020"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "FOVISSSTE Humaya",
+      "postal_code": [
+        "80029"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Francisco Alarcon Fregoso",
+      "postal_code": [
+        "80199"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "80199"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Francisco Labastida Ochoa",
+      "postal_code": [
+        "80199"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "80110",
+        "80430",
+        "80490"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Fresnos",
+      "postal_code": [
+        "80010"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Fuentes Del Valle",
+      "postal_code": [
+        "80155"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Gabriel Leyva",
+      "postal_code": [
+        "80030"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Genaro Estrada",
+      "postal_code": [
+        "80080"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "General Zapata",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Girasoles",
+      "postal_code": [
+        "80019"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Granada",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Grecia",
+      "postal_code": [
+        "80015"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "80220"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "80240",
+        "80455"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Gustavo Diaz Ordaz",
+      "postal_code": [
+        "80180"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Hacienda Alameda",
+      "postal_code": [
+        "80019"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Hacienda Arboledas",
+      "postal_code": [
+        "80019"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Hacienda de La Mora",
+      "postal_code": [
+        "80145"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Hacienda Del Valle",
+      "postal_code": [
+        "80197"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Hacienda Los Huertos",
+      "postal_code": [
+        "80019"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Hacienda los Huertos Seccion Bosques de la Colina",
+      "postal_code": [
+        "80019"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Hacienda Molino de Flores",
+      "postal_code": [
+        "80155"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Hacienda San Juan",
+      "postal_code": [
+        "80135"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Haciendas del Rio",
+      "postal_code": [
+        "80064"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Heraclio Bernal",
+      "postal_code": [
+        "80029",
+        "80463"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Hermanos Flores Magon",
+      "postal_code": [
+        "80050"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Higueras de Abuya",
+      "postal_code": [
+        "80489"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Horizontes",
+      "postal_code": [
+        "80054"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Huerta de Redo 1",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Huerta de Redo 2",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Huertos del Pedregal",
+      "postal_code": [
+        "80301"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Huizaches",
+      "postal_code": [
+        "80298"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Humaya",
+      "postal_code": [
+        "80020"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Humaya del Super",
+      "postal_code": [
+        "80025"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Iberica",
+      "postal_code": [
+        "80197"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Ignacio Allende",
+      "postal_code": [
+        "80010"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Imala",
+      "postal_code": [
+        "80384"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Independencia",
+      "postal_code": [
+        "80190",
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Industrial Bravo",
+      "postal_code": [
+        "80120"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Industrial El Palmito",
+      "postal_code": [
+        "80160"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "INFONAVIT 88",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "INFONAVIT Alondras",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "INFONAVIT Barrancos",
+      "postal_code": [
+        "80189"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "INFONAVIT Barrancos II",
+      "postal_code": [
+        "80184"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "INFONAVIT Barrancos III",
+      "postal_code": [
+        "80184"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "INFONAVIT Barrancos IV",
+      "postal_code": [
+        "80184"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "INFONAVIT Canadas",
+      "postal_code": [
+        "80179"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "INFONAVIT El Barrio",
+      "postal_code": [
+        "80080"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "INFONAVIT FTS",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "INFONAVIT Humaya",
+      "postal_code": [
+        "80020"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "INFONAVIT Las Flores",
+      "postal_code": [
+        "80159"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "INFONAVIT Prados del Sol",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "INFONAVIT San Diego",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "INFONAVIT San Diego 2",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "INFONAVIT Solidaridad",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Ingenio",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Instituto Tecnologico Regional de Culiacan",
+      "postal_code": [
+        "80225"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Insurgentes",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Interlomas",
+      "postal_code": [
+        "80016"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Isla del Oeste",
+      "postal_code": [
+        "80199"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "ISSSTE Insurgentes",
+      "postal_code": [
+        "80170"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "ISSSTESIN",
+      "postal_code": [
+        "80026"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Jacola",
+      "postal_code": [
+        "80460"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Jacola (El Guayabo)",
+      "postal_code": [
+        "80491"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Jardines de La Sierra",
+      "postal_code": [
+        "80019"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Jardines Del Pedregal",
+      "postal_code": [
+        "80025"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Jardines del Rey",
+      "postal_code": [
+        "80025"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Jardines del Sol",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Jardines Del Valle",
+      "postal_code": [
+        "80189"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Jardines de San Bartolome",
+      "postal_code": [
+        "80308"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Jardines de Santa Fe",
+      "postal_code": [
+        "80029"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Jardines Tres Rios",
+      "postal_code": [
+        "80100"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Jesus Manuel Camez Valdez",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Jesus Maria",
+      "postal_code": [
+        "80310"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Jesus Valdez Aldana",
+      "postal_code": [
+        "80017"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Joel Ramirez",
+      "postal_code": [
+        "80029"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Jorge Almada",
+      "postal_code": [
+        "80200"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Josefa Ortiz de Dominguez",
+      "postal_code": [
+        "80190"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Joyas del Valle",
+      "postal_code": [
+        "80135"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Juan de Dios Batiz",
+      "postal_code": [
+        "80016",
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Juntas de Humaya",
+      "postal_code": [
+        "80050"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Amistad",
+      "postal_code": [
+        "80249"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Anona",
+      "postal_code": [
+        "80313"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Arboleda",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Arrocera",
+      "postal_code": [
+        "80465"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Aviacion",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Bebelama San Lorenzo",
+      "postal_code": [
+        "80449"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Boca",
+      "postal_code": [
+        "80305"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Campana",
+      "postal_code": [
+        "80302"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Campina",
+      "postal_code": [
+        "80060"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Candelaria",
+      "postal_code": [
+        "80408"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Cantera",
+      "postal_code": [
+        "80106"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Cascada",
+      "postal_code": [
+        "80028",
+        "80280"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Ceiba",
+      "postal_code": [
+        "80308"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Compuerta",
+      "postal_code": [
+        "80308",
+        "80460"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Conquista",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Constancia",
+      "postal_code": [
+        "80464"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Costera",
+      "postal_code": [
+        "80296"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Cruz de Carrizalejo",
+      "postal_code": [
+        "80384"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Cruz Del Dorado",
+      "postal_code": [
+        "80463"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Cuchilla",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Cuspide",
+      "postal_code": [
+        "80177"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Esmeralda",
+      "postal_code": [
+        "80385"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "80248",
+        "80491"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Esperanza (La Torta)",
+      "postal_code": [
+        "80463"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Estancia de los Burgos",
+      "postal_code": [
+        "80442"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Flor",
+      "postal_code": [
+        "80454"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Florida",
+      "postal_code": [
+        "80419"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Flor (Metesaca)",
+      "postal_code": [
+        "80454"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Lago Tres Rios",
+      "postal_code": [
+        "80027"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Guamuchilera",
+      "postal_code": [
+        "80394"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Guasima",
+      "postal_code": [
+        "80305",
+        "80493"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Laguna Colorada",
+      "postal_code": [
+        "80390"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Laguna de Canachi",
+      "postal_code": [
+        "80460"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Higuera",
+      "postal_code": [
+        "80302"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Higuerita",
+      "postal_code": [
+        "80304"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Higuerita (Las Higueras de Culiacan)",
+      "postal_code": [
+        "80301"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Huerta",
+      "postal_code": [
+        "80314"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Huertita",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Lima",
+      "postal_code": [
+        "80040"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Loma",
+      "postal_code": [
+        "80480"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Mojonera",
+      "postal_code": [
+        "80455"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Mora",
+      "postal_code": [
+        "80394"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Noria",
+      "postal_code": [
+        "80385"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Palma",
+      "postal_code": [
+        "80415"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Palmita",
+      "postal_code": [
+        "80305"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Paloma",
+      "postal_code": [
+        "80100"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Pedrera",
+      "postal_code": [
+        "80398"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Pitahayita",
+      "postal_code": [
+        "80315",
+        "80318",
+        "80416"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Platanera (El Pizal)",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Presita",
+      "postal_code": [
+        "80301"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Primavera",
+      "postal_code": [
+        "80199",
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Primavera Seccion Parque Industrial",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Puerta",
+      "postal_code": [
+        "80028"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Reforma",
+      "postal_code": [
+        "80316",
+        "80419"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Ribera Residencial",
+      "postal_code": [
+        "80025"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Rioja",
+      "postal_code": [
+        "80050"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Romana",
+      "postal_code": [
+        "80460"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Aguamitas",
+      "postal_code": [
+        "80384"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Alondras",
+      "postal_code": [
+        "80140"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Amapas",
+      "postal_code": [
+        "80019",
+        "80308"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "80016"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Arenitas",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Bateas",
+      "postal_code": [
+        "80398"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Brisas",
+      "postal_code": [
+        "80301"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Canarias",
+      "postal_code": [
+        "80025"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Carpas",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Cerezas",
+      "postal_code": [
+        "80019"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Coloradas",
+      "postal_code": [
+        "80246"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Cucas",
+      "postal_code": [
+        "80018"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Dunas",
+      "postal_code": [
+        "80100"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Flechas",
+      "postal_code": [
+        "80397"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "80104",
+        "80107",
+        "80481"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Glorias",
+      "postal_code": [
+        "80014"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Guasimas",
+      "postal_code": [
+        "80316"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Güeras",
+      "postal_code": [
+        "80460"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Higueras",
+      "postal_code": [
+        "80302"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Huertas",
+      "postal_code": [
+        "80290"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Ilusiones",
+      "postal_code": [
+        "80295"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Isabeles",
+      "postal_code": [
+        "80434"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Mananitas",
+      "postal_code": [
+        "80140"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Milpas 1",
+      "postal_code": [
+        "80417"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Milpas 2",
+      "postal_code": [
+        "80386"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Moras",
+      "postal_code": [
+        "80100"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "80159",
+        "80308",
+        "80457"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Palomas",
+      "postal_code": [
+        "80178"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Piedritas",
+      "postal_code": [
+        "80430",
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Quintas",
+      "postal_code": [
+        "80060"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Tapias",
+      "postal_code": [
+        "80410"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Terrazas",
+      "postal_code": [
+        "80140"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Tranquitas",
+      "postal_code": [
+        "80411"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Tres Gotas de Agua",
+      "postal_code": [
+        "80453"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Vegas",
+      "postal_code": [
+        "80090"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Las Vinoramas",
+      "postal_code": [
+        "80387"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Laureles",
+      "postal_code": [
+        "80246"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Laureles Pinos",
+      "postal_code": [
+        "80246"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "La Ventana",
+      "postal_code": [
+        "80179"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "80290"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Leopoldo Sanchez Celis",
+      "postal_code": [
+        "80453"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Libertad",
+      "postal_code": [
+        "80180"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Libertad (Piramo)",
+      "postal_code": [
+        "80419"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Lienzo Charro",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Limita de Hitaje",
+      "postal_code": [
+        "80064"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Lirios del Rio",
+      "postal_code": [
+        "80018"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Lo de Bartolo",
+      "postal_code": [
+        "80411"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Lo de Clemente",
+      "postal_code": [
+        "80417"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "80180"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Loma de los Huizaches",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Loma de Rodriguera",
+      "postal_code": [
+        "80019"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "80177",
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Lomas de Guadalupe",
+      "postal_code": [
+        "80250"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Lomas del Bosque",
+      "postal_code": [
+        "80179"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Lomas del Boulevard",
+      "postal_code": [
+        "80110"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Lomas Del Humaya",
+      "postal_code": [
+        "80029"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Lomas Del Magisterio",
+      "postal_code": [
+        "80015"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Lomas Del Pedregal",
+      "postal_code": [
+        "80016"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Lomas del Sol",
+      "postal_code": [
+        "80016"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Lomas del Sol Duplex",
+      "postal_code": [
+        "80016"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Lomas de San Isidro",
+      "postal_code": [
+        "80197"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Lomas de San Isidro Seccion Cumbres del Sur",
+      "postal_code": [
+        "80197"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Lomas de San Jeronimo",
+      "postal_code": [
+        "80015"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Lomas de Tamazula",
+      "postal_code": [
+        "80014"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Lomas Paraiso",
+      "postal_code": [
+        "80194"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Lomas Verdes",
+      "postal_code": [
+        "80028"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Loma y Tecomate",
+      "postal_code": [
+        "80463"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Alamitos",
+      "postal_code": [
+        "80018"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "80100"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Almendros",
+      "postal_code": [
+        "80027"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Angeles",
+      "postal_code": [
+        "80014"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Becos",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Becos (Duranguito)",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Brasiles",
+      "postal_code": [
+        "80383"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Cerritos",
+      "postal_code": [
+        "80029"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Chinitos",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Ciruelos",
+      "postal_code": [
+        "80019"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Cisnes",
+      "postal_code": [
+        "80034"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Cuartos",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Durmientes",
+      "postal_code": [
+        "80447"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Girasoles",
+      "postal_code": [
+        "80180"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Helechos",
+      "postal_code": [
+        "80130"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Huertos",
+      "postal_code": [
+        "80019"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Huizaches",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Limones",
+      "postal_code": [
+        "80313"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Mayos",
+      "postal_code": [
+        "80386"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Mezcales",
+      "postal_code": [
+        "80019"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "80384"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Olivos",
+      "postal_code": [
+        "80025",
+        "80034"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Patios 1",
+      "postal_code": [
+        "80100"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Patios 2",
+      "postal_code": [
+        "80100"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Payes",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "80063",
+        "80128"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Portales",
+      "postal_code": [
+        "80180"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "80028"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Los Vasitos",
+      "postal_code": [
+        "80443"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "80308"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Magnolias Residencial",
+      "postal_code": [
+        "80100"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Maralago",
+      "postal_code": [
+        "80014"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Marcelo Loya (Las Güeras)",
+      "postal_code": [
+        "80464"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Margarita",
+      "postal_code": [
+        "80270"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Mariano Escobedo",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Massara",
+      "postal_code": [
+        "80064"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Melchor Ocampo",
+      "postal_code": [
+        "80230"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Mercado de Abastos",
+      "postal_code": [
+        "80299"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Mezquitillo",
+      "postal_code": [
+        "80280"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Mezquitillo 2",
+      "postal_code": [
+        "80439"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Mezquitillo (La Curva)",
+      "postal_code": [
+        "80439"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Mezquitillo Nuevo",
+      "postal_code": [
+        "80452"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Mezquitita",
+      "postal_code": [
+        "80384"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Miguel Aleman",
+      "postal_code": [
+        "80200"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Miguel de La Madrid",
+      "postal_code": [
+        "80295"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "80090",
+        "80308"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Miguel Valdez Quintero (El Corazon)",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Miravalle",
+      "postal_code": [
+        "80189"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Mision del alamo",
+      "postal_code": [
+        "80100"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Misiones",
+      "postal_code": [
+        "80054"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Mision San Fernando",
+      "postal_code": [
+        "80177"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Mojolo",
+      "postal_code": [
+        "80305"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Mont Alto",
+      "postal_code": [
+        "80019"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Mont Blanc",
+      "postal_code": [
+        "80184"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Montebello",
+      "postal_code": [
+        "80227"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Montebello Seccion Dali",
+      "postal_code": [
+        "80227"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Montecarlo Residencial",
+      "postal_code": [
+        "80054"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Montereal",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Montesierra",
+      "postal_code": [
+        "80017"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Monte Verde de Villa",
+      "postal_code": [
+        "80441"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Morelos",
+      "postal_code": [
+        "80170"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Musala Isla Bonita",
+      "postal_code": [
+        "80065"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Navito",
+      "postal_code": [
+        "80450",
+        "80455"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "NCPE El 30",
+      "postal_code": [
+        "80398"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Nicolas Bravo",
+      "postal_code": [
+        "80460"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Novena Zona Militar",
+      "postal_code": [
+        "80093"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Nueva",
+      "postal_code": [
+        "80308"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Nueva Galaxia",
+      "postal_code": [
+        "80014"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Nueva Galicia",
+      "postal_code": [
+        "80295"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Nuevas Canitas",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Nueva Vizcaya",
+      "postal_code": [
+        "80025"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Nuevo",
+      "postal_code": [
+        "80433"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Nuevo Bachigualato",
+      "postal_code": [
+        "80135"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Nuevo Culiacan",
+      "postal_code": [
+        "80170"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Nuevo Higueral",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Nuevo Mexico",
+      "postal_code": [
+        "80297"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Nuevo Mundo",
+      "postal_code": [
+        "80391"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Nuevo Rosarito",
+      "postal_code": [
+        "80491"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Obispo",
+      "postal_code": [
+        "80491"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Obrero Campesino",
+      "postal_code": [
+        "80013"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Oso Nuevo",
+      "postal_code": [
+        "80480"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Oso Viejo",
+      "postal_code": [
+        "80483"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Palermo",
+      "postal_code": [
+        "80104"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Palma Dorada",
+      "postal_code": [
+        "80150"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Palmillas Residencial",
+      "postal_code": [
+        "80150"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Palo Blanco",
+      "postal_code": [
+        "80444"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Palos Blancos",
+      "postal_code": [
+        "80305"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Panaltita",
+      "postal_code": [
+        "80492"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Paraiso",
+      "postal_code": [
+        "80140"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Paredones",
+      "postal_code": [
+        "80304"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Parque Alameda",
+      "postal_code": [
+        "80030"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Parque Andares",
+      "postal_code": [
+        "80197"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Parque Industrial CANACINTRA I",
+      "postal_code": [
+        "80054"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Parque Industrial CANACINTRA II",
+      "postal_code": [
+        "80150"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Parque Industrial El Trebol",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Parque Industrial La Costa",
+      "postal_code": [
+        "80143"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Parque Industrial Nueva Estacion",
+      "postal_code": [
+        "80180"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Parque Industrial Orion",
+      "postal_code": [
+        "80145"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Paseo Alameda",
+      "postal_code": [
+        "80019"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Paseo Azteca",
+      "postal_code": [
+        "80194"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Paseo de los Arcos",
+      "postal_code": [
+        "80180"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Paseo Del Rio",
+      "postal_code": [
+        "80040"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Paseos del Rey",
+      "postal_code": [
+        "80180"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Paseos del Valle",
+      "postal_code": [
+        "80140"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Pedregal del Humaya",
+      "postal_code": [
+        "80029"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Pedregal de San Angel",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "PEMEX",
+      "postal_code": [
+        "80180"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Peninsula de Villamoros",
+      "postal_code": [
+        "80468"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Periodista",
+      "postal_code": [
+        "80060"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Perisur",
+      "postal_code": [
+        "80197"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Plan de Oriente (El Doce)",
+      "postal_code": [
+        "80384"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Plutarco Elias Calles",
+      "postal_code": [
+        "80194"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Pontevedra",
+      "postal_code": [
+        "80065"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Popular",
+      "postal_code": [
+        "80120",
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Portabelo",
+      "postal_code": [
+        "80014"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Portacaeli",
+      "postal_code": [
+        "80460"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Portafe",
+      "postal_code": [
+        "80028"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Portalegre",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Portales Del Country",
+      "postal_code": [
+        "80100"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Portales del Rio",
+      "postal_code": [
+        "80030"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Portanova",
+      "postal_code": [
+        "80028"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Portareal",
+      "postal_code": [
+        "80247"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Portezuelo",
+      "postal_code": [
+        "80384"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Pradera Dorada",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Pradera Dorada II",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Praderas del Humaya",
+      "postal_code": [
+        "80059"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Praderas Del Rey",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Prados de La Conquista",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Prados Del Sol",
+      "postal_code": [
+        "80197"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Prados Del Sur",
+      "postal_code": [
+        "80296"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Prados de Occidente",
+      "postal_code": [
+        "80050"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Prados Residencial",
+      "postal_code": [
+        "80194"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Presidentes de Mexico",
+      "postal_code": [
+        "80308"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Privada Del Real",
+      "postal_code": [
+        "80040"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Privada Del Rey",
+      "postal_code": [
+        "80177"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Privada La Joya",
+      "postal_code": [
+        "80030"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Privada La Rinconada",
+      "postal_code": [
+        "80028"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Privada La Rivera",
+      "postal_code": [
+        "80020"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Privada Real del Valle",
+      "postal_code": [
+        "80145"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Privadas la Estancia",
+      "postal_code": [
+        "80143"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Privanzas",
+      "postal_code": [
+        "80100"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Privanzas Natura",
+      "postal_code": [
+        "80100"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Progreso",
+      "postal_code": [
+        "80197"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Providencia",
+      "postal_code": [
+        "80290"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Pueblo Bonito",
+      "postal_code": [
+        "80020"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Pueblos Unidos",
+      "postal_code": [
+        "80484"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Puerta de Hierro",
+      "postal_code": [
+        "80100"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Puerto Rico (El Reparito)",
+      "postal_code": [
+        "80383"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Punto Oriente",
+      "postal_code": [
+        "80080"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Quila Centro",
+      "postal_code": [
+        "80400"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Quinta Americana",
+      "postal_code": [
+        "80063"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Quinto Patio",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Rafael Buelna",
+      "postal_code": [
+        "80260"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Rancho Contento",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Rastro Viejo",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Real de Chapultepec",
+      "postal_code": [
+        "80040"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Real del alamo",
+      "postal_code": [
+        "80100"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Real Del Country",
+      "postal_code": [
+        "80104"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Real Del Parque",
+      "postal_code": [
+        "80194"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Real de Minas",
+      "postal_code": [
+        "80199"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Real de Santa Fe",
+      "postal_code": [
+        "80029"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Real San angel",
+      "postal_code": [
+        "80140"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Real San Sebastian",
+      "postal_code": [
+        "80143"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Rebeca",
+      "postal_code": [
+        "80466"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Rebeca II (Metesaca)",
+      "postal_code": [
+        "80453"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Rebeca Uno (1 de Mayo)",
+      "postal_code": [
+        "80452"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Recursos Hidraulicos",
+      "postal_code": [
+        "80105"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Renato Vega Alvarado",
+      "postal_code": [
+        "80199"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Renato Vega Amador",
+      "postal_code": [
+        "80280",
+        "80430",
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Republica Mexicana",
+      "postal_code": [
+        "80279"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Residencial Hacienda",
+      "postal_code": [
+        "80015"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Residencial San Jose",
+      "postal_code": [
+        "80100"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Residencial Santa Sofia",
+      "postal_code": [
+        "80145"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "80248",
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Riberas del Humaya",
+      "postal_code": [
+        "80025"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Riberas de Tamazula",
+      "postal_code": [
+        "80040"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Rincon Alameda",
+      "postal_code": [
+        "80034"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Rincon Colonial",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Rincon Del Humaya",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Rincon Del Parque",
+      "postal_code": [
+        "80197"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Rincon del Valle",
+      "postal_code": [
+        "80155"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Rincon Feliz",
+      "postal_code": [
+        "80248"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Rincon Las Palmas",
+      "postal_code": [
+        "80150"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Rincon Real",
+      "postal_code": [
+        "80028"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Rincon San Rafael",
+      "postal_code": [
+        "80150"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Rincon Santa Rosa",
+      "postal_code": [
+        "80184"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Rio Florido",
+      "postal_code": [
+        "80491"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Riverside",
+      "postal_code": [
+        "80030"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Roma Residencial",
+      "postal_code": [
+        "80145"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Rosario Uzarraga",
+      "postal_code": [
+        "80014"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Rosita",
+      "postal_code": [
+        "80308"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Rotarismo",
+      "postal_code": [
+        "80019"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Ruben Jaramillo",
+      "postal_code": [
+        "80015",
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Salate de los Tapias",
+      "postal_code": [
+        "80394"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Salvador Alvarado",
+      "postal_code": [
+        "80160"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "80184"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Sanalona",
+      "postal_code": [
+        "80380"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San angel",
+      "postal_code": [
+        "80100",
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "80309"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Antonio Dos",
+      "postal_code": [
+        "80434"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Benito",
+      "postal_code": [
+        "80246"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "80178"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Cipriano",
+      "postal_code": [
+        "80184"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Diego",
+      "postal_code": [
+        "80140",
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Fermin",
+      "postal_code": [
+        "80019"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Fernando",
+      "postal_code": [
+        "80143"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Florencio",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "80491"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Javier",
+      "postal_code": [
+        "80135"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Joaquin",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Juan",
+      "postal_code": [
+        "80240"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "80475"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Lorenzo Nuevo",
+      "postal_code": [
+        "80447"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Luis Residencial",
+      "postal_code": [
+        "80140"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Luis Residencial II",
+      "postal_code": [
+        "80140"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Manuel",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "80150",
+        "80316"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Rafael de Costa Rica",
+      "postal_code": [
+        "80398"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Roman",
+      "postal_code": [
+        "80396"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "80184"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Santa Aynes",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Santa Barbara",
+      "postal_code": [
+        "80143"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Santa Clara",
+      "postal_code": [
+        "80180"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "80028"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "80029"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Santa Fe Real",
+      "postal_code": [
+        "80029"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Santa Ines",
+      "postal_code": [
+        "80100"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Santa Loreto",
+      "postal_code": [
+        "80416"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Santa Lourdes",
+      "postal_code": [
+        "80434"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Santa Margarita",
+      "postal_code": [
+        "80040"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "80402"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Santa Refugio",
+      "postal_code": [
+        "80491"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Santa Rita (Tableta)",
+      "postal_code": [
+        "80454"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Santa Rocio",
+      "postal_code": [
+        "80135"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "80029"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Santa Susana",
+      "postal_code": [
+        "80184"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "80040"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Santo Nino",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "San Valentino",
+      "postal_code": [
+        "80247"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Seccion Alhuate",
+      "postal_code": [
+        "80439",
+        "80439"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Seccion Cumbres",
+      "postal_code": [
+        "80029"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Servidor Publico Municipal",
+      "postal_code": [
+        "80248"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Sfera Residencial",
+      "postal_code": [
+        "80014"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Simon Bolivar",
+      "postal_code": [
+        "80290"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Sinaloa",
+      "postal_code": [
+        "80260",
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Solidaridad",
+      "postal_code": [
+        "80015",
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Solidaridad Campesina",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Soyatita",
+      "postal_code": [
+        "80467"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Soyatita (Cruz Segunda)",
+      "postal_code": [
+        "80467"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Stanza Castilla",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Stanza Solare",
+      "postal_code": [
+        "80145"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Stanza Toscana",
+      "postal_code": [
+        "80050"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "S.T.A.S.A.C.",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "STASE",
+      "postal_code": [
+        "80020"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "STASE II",
+      "postal_code": [
+        "80025"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "STASE III",
+      "postal_code": [
+        "80020"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Tabachines",
+      "postal_code": [
+        "80104"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Tabala",
+      "postal_code": [
+        "80475"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Tachinolpa",
+      "postal_code": [
+        "80317"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Tacuichamona",
+      "postal_code": [
+        "80470"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Tecolotes",
+      "postal_code": [
+        "80316"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Tepuche",
+      "postal_code": [
+        "80318"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Tepuchito",
+      "postal_code": [
+        "80317"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Terranova",
+      "postal_code": [
+        "80143"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "80030"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Tierra y Libertad",
+      "postal_code": [
+        "80419"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Tierra y Libertad 1",
+      "postal_code": [
+        "80419"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Tierra y Libertad Dos",
+      "postal_code": [
+        "80419"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Tomo",
+      "postal_code": [
+        "80383"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Torralba",
+      "postal_code": [
+        "80247"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Torre Dorada",
+      "postal_code": [
+        "80145"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Torres Aeropuerto",
+      "postal_code": [
+        "80144"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Torres del Rio",
+      "postal_code": [
+        "80020"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Tres Rios",
+      "postal_code": [
+        "80020"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Tulipanes",
+      "postal_code": [
+        "80028"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Unidad de Servicios Educativos A Descentralizar",
+      "postal_code": [
+        "80103"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Unidad de Servicios Estatales",
+      "postal_code": [
+        "80109"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Union",
+      "postal_code": [
+        "80403"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Union Antorchista",
+      "postal_code": [
+        "80300"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Universidad 94",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Universidad 94 II",
+      "postal_code": [
+        "80055"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Universitaria",
+      "postal_code": [
+        "80013"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Urbivilla del Prado",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Urbi Villa del Sol",
+      "postal_code": [
+        "80194"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Valencia",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Vallado Viejo",
+      "postal_code": [
+        "80105"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Valle Alto",
+      "postal_code": [
+        "80050"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Valle Bonito",
+      "postal_code": [
+        "80140"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Valle de Amapa",
+      "postal_code": [
+        "80194"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Valle de Encino",
+      "postal_code": [
+        "80197"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Valle del Agua",
+      "postal_code": [
+        "80014"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Valle Del Rio",
+      "postal_code": [
+        "80050"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Valle Dorado",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Valle Escondido",
+      "postal_code": [
+        "80419"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Valle Real",
+      "postal_code": [
+        "80197"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Valles Del Sol",
+      "postal_code": [
+        "80143"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Valles Espanoles",
+      "postal_code": [
+        "80145"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Veracruz",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Verona",
+      "postal_code": [
+        "80064"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Versalles",
+      "postal_code": [
+        "80145"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "80070"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Vicente Lombardo Toledano",
+      "postal_code": [
+        "80010"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Victoria",
+      "postal_code": [
+        "80178"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villa Andalucia",
+      "postal_code": [
+        "80130"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villa Bonita",
+      "postal_code": [
+        "80199"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villa Colonial",
+      "postal_code": [
+        "80189"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villa Contenta",
+      "postal_code": [
+        "80159"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villa del Cedro",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villa del Pedregal",
+      "postal_code": [
+        "80025"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villa Del Real",
+      "postal_code": [
+        "80247"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villa del Roble",
+      "postal_code": [
+        "80184"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villa Del Sol",
+      "postal_code": [
+        "80015"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villa Dorada",
+      "postal_code": [
+        "80184"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villa Eldorado",
+      "postal_code": [
+        "80450"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villa Fontana",
+      "postal_code": [
+        "80028"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villa Rica",
+      "postal_code": [
+        "80430"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villa Satelite",
+      "postal_code": [
+        "80088"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villas de Bacurimi Seccion Acacia",
+      "postal_code": [
+        "80050"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villas de Bacurimi Seccion Britania",
+      "postal_code": [
+        "80050"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villas de Cortes",
+      "postal_code": [
+        "80140"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villas de Culiacan",
+      "postal_code": [
+        "80028"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villas del Campo",
+      "postal_code": [
+        "80135"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villas del Humaya",
+      "postal_code": [
+        "80025"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villas Del Manantial",
+      "postal_code": [
+        "80140"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villas Del Rio",
+      "postal_code": [
+        "80050"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villas Del Rio Elite",
+      "postal_code": [
+        "80050"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villa Serena",
+      "postal_code": [
+        "80159"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villas San Antonio",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villas Santa Anita",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villas Victoria",
+      "postal_code": [
+        "80058"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villa Universidad",
+      "postal_code": [
+        "80010"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villa Verde",
+      "postal_code": [
+        "80184"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Villegas",
+      "postal_code": [
+        "80308"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Vinedos",
+      "postal_code": [
+        "80063"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Vinoramas",
+      "postal_code": [
+        "80184"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Virreyes SC",
+      "postal_code": [
+        "80170"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "80246"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Walamito",
+      "postal_code": [
+        "80470"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Zalate de Los Ibarra",
+      "postal_code": [
+        "80314"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Zona Dorada",
+      "postal_code": [
+        "80014"
+      ]
+    },
+    {
+      "city": "Culiacan",
+      "colonia": "Zona Dorada II",
+      "postal_code": [
+        "80014"
+      ]
+    }
+  ]
+}

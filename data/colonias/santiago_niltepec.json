@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "city": "Santiago Niltepec",
+      "colonia": "Cazadero Abajo",
+      "postal_code": [
+        "70133"
+      ]
+    },
+    {
+      "city": "Santiago Niltepec",
+      "colonia": "Cazadero de Arriba",
+      "postal_code": [
+        "70133"
+      ]
+    },
+    {
+      "city": "Santiago Niltepec",
+      "colonia": "Cuarta Seccion",
+      "postal_code": [
+        "70130"
+      ]
+    },
+    {
+      "city": "Santiago Niltepec",
+      "colonia": "El Huamul",
+      "postal_code": [
+        "70135"
+      ]
+    },
+    {
+      "city": "Santiago Niltepec",
+      "colonia": "El Zopilote (Teotepec)",
+      "postal_code": [
+        "70135"
+      ]
+    },
+    {
+      "city": "Santiago Niltepec",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "70130",
+        "70133"
+      ]
+    },
+    {
+      "city": "Santiago Niltepec",
+      "colonia": "Laguna de Hojas",
+      "postal_code": [
+        "70135"
+      ]
+    },
+    {
+      "city": "Santiago Niltepec",
+      "colonia": "Las Petacas",
+      "postal_code": [
+        "70135"
+      ]
+    },
+    {
+      "city": "Santiago Niltepec",
+      "colonia": "Santiago Niltepec",
+      "postal_code": [
+        "70130"
+      ]
+    }
+  ]
+}

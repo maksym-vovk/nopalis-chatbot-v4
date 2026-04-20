@@ -1,0 +1,403 @@
+{
+  "data": [
+    {
+      "city": "Mezcalapa",
+      "colonia": "Adolfo Lopez Mateos Kilometro 54",
+      "postal_code": [
+        "29605"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Alegre",
+      "postal_code": [
+        "29606"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "angel Albino Corzo",
+      "postal_code": [
+        "29605"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Arena Moreno",
+      "postal_code": [
+        "29600"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Belisario Dominguez",
+      "postal_code": [
+        "29605"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Campamento CFE",
+      "postal_code": [
+        "29600"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Campamento Zona CUPSA",
+      "postal_code": [
+        "29600"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Campamento Zona ICA",
+      "postal_code": [
+        "29600"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Campamento Zona OMSA",
+      "postal_code": [
+        "29600"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Chintulito Campamento",
+      "postal_code": [
+        "29605"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Cinco de Mayo",
+      "postal_code": [
+        "29603"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Ciudad Perdida",
+      "postal_code": [
+        "29600"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Dique I",
+      "postal_code": [
+        "29600"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "El Estrecho",
+      "postal_code": [
+        "29606"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "El Limoncito",
+      "postal_code": [
+        "29603"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "29600"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "29605"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "El Progreso (Chintul)",
+      "postal_code": [
+        "29605"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Esperanza de los Pobres",
+      "postal_code": [
+        "29606"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Genaro Vazquez Rojas",
+      "postal_code": [
+        "29605"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Ignacio Allende",
+      "postal_code": [
+        "29600"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Jose Lopez Portillo",
+      "postal_code": [
+        "29604"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "La Alianza",
+      "postal_code": [
+        "29606"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "La Floresta",
+      "postal_code": [
+        "29605"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "La Jovi",
+      "postal_code": [
+        "29600"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "La Venta",
+      "postal_code": [
+        "29604"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "29603"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Linda Vista",
+      "postal_code": [
+        "29600"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "29600"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Los Diamantes",
+      "postal_code": [
+        "29605"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "29600"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Miravalle",
+      "postal_code": [
+        "29603"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Nueva Esperanza",
+      "postal_code": [
+        "29605"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Nueva Revolucion",
+      "postal_code": [
+        "29600"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Nuevo Chalputenango",
+      "postal_code": [
+        "29600"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Nuevo Chapultenango",
+      "postal_code": [
+        "29603"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Nuevo General Francisco Villa",
+      "postal_code": [
+        "29604"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Nuevo Mexico",
+      "postal_code": [
+        "29605"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Nuevo San Juan",
+      "postal_code": [
+        "29600"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Palestina",
+      "postal_code": [
+        "29604"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Piramide Alta",
+      "postal_code": [
+        "29600"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Piramide Baja",
+      "postal_code": [
+        "29600"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Plan de Ayala",
+      "postal_code": [
+        "29604"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Reacomodo Nuevo Mexico (Kilometro 59)",
+      "postal_code": [
+        "29605"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Romulo Calzada (La Herradura)",
+      "postal_code": [
+        "29605"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Ruben Jaramillo",
+      "postal_code": [
+        "29605"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "San Antonio Acambac",
+      "postal_code": [
+        "29600"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "San Antonio Acambac (El Faisan)",
+      "postal_code": [
+        "29603"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "San Fernando Diaz (Maritano)",
+      "postal_code": [
+        "29604"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "29605"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "29603"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Santos Degollado",
+      "postal_code": [
+        "29605"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Tierra y Libertad",
+      "postal_code": [
+        "29603"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "29600"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Vicente Guerrero (Dique Dos)",
+      "postal_code": [
+        "29604"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Zona C",
+      "postal_code": [
+        "29600"
+      ]
+    },
+    {
+      "city": "Mezcalapa",
+      "colonia": "Zona Comercial",
+      "postal_code": [
+        "29600"
+      ]
+    }
+  ]
+}

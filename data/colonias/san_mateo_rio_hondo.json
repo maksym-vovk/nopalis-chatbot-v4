@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "San Mateo Rio Hondo",
+      "colonia": "El Progreso",
+      "postal_code": [
+        "70864"
+      ]
+    },
+    {
+      "city": "San Mateo Rio Hondo",
+      "colonia": "San Ildefonso Ozolotepec",
+      "postal_code": [
+        "70862"
+      ]
+    },
+    {
+      "city": "San Mateo Rio Hondo",
+      "colonia": "San Jose del Pacifico",
+      "postal_code": [
+        "70861"
+      ]
+    },
+    {
+      "city": "San Mateo Rio Hondo",
+      "colonia": "San Mateo Rio Hondo",
+      "postal_code": [
+        "70860"
+      ]
+    }
+  ]
+}

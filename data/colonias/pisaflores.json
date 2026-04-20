@@ -1,0 +1,551 @@
+{
+  "data": [
+    {
+      "city": "Pisaflores",
+      "colonia": "Abasolo",
+      "postal_code": [
+        "42220"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Agua del Mono",
+      "postal_code": [
+        "42230"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Allende",
+      "postal_code": [
+        "42220"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Arteaga",
+      "postal_code": [
+        "42220"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Casas Viejas",
+      "postal_code": [
+        "42223"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Cerro de Guadalupe",
+      "postal_code": [
+        "42230"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Cerro del Carmen",
+      "postal_code": [
+        "42223"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Cerro Grande",
+      "postal_code": [
+        "42230"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Chalahuite",
+      "postal_code": [
+        "42230"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Chalahuitito",
+      "postal_code": [
+        "42235"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Colosio",
+      "postal_code": [
+        "42220"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Cuartel Escamilla",
+      "postal_code": [
+        "42220"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Cuartel Morelos",
+      "postal_code": [
+        "42220"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Cuicillos",
+      "postal_code": [
+        "42223"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Aguacate",
+      "postal_code": [
+        "42236"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El alamo",
+      "postal_code": [
+        "42230"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Amolar",
+      "postal_code": [
+        "42233"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Bonigu",
+      "postal_code": [
+        "42237"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Caracol",
+      "postal_code": [
+        "42230"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Cedral",
+      "postal_code": [
+        "42224"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Chililite",
+      "postal_code": [
+        "42239"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Chinillal",
+      "postal_code": [
+        "42230"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Coyol",
+      "postal_code": [
+        "42223"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Cuamirro",
+      "postal_code": [
+        "42224"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Dexthi",
+      "postal_code": [
+        "42223"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Durazno",
+      "postal_code": [
+        "42224"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Garabato",
+      "postal_code": [
+        "42225"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Higueron",
+      "postal_code": [
+        "42224"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Limoncito",
+      "postal_code": [
+        "42222"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Magueyal",
+      "postal_code": [
+        "42222"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Naranjal",
+      "postal_code": [
+        "42223"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Nogal",
+      "postal_code": [
+        "42224"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Pemuche",
+      "postal_code": [
+        "42236"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Pescadito",
+      "postal_code": [
+        "42222"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Petatillo",
+      "postal_code": [
+        "42224"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Plan",
+      "postal_code": [
+        "42230"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Platanito",
+      "postal_code": [
+        "42237"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Rayo",
+      "postal_code": [
+        "42223"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Sancudo",
+      "postal_code": [
+        "42222"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "El Zacatal",
+      "postal_code": [
+        "42224"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Escondida de San Rafael",
+      "postal_code": [
+        "42223"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Gargantilla",
+      "postal_code": [
+        "42234"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Guayabos",
+      "postal_code": [
+        "42236"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "La Ameca",
+      "postal_code": [
+        "42234"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "La Arena",
+      "postal_code": [
+        "42234"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "42223"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "La Crucita",
+      "postal_code": [
+        "42230"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "La Cueva",
+      "postal_code": [
+        "42223"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "La Escondida de lo Verde",
+      "postal_code": [
+        "42222"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "La Florida",
+      "postal_code": [
+        "42223"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Lagunita del Cerro",
+      "postal_code": [
+        "42222"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "La Hormiga",
+      "postal_code": [
+        "42237"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "42233"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "La Palma",
+      "postal_code": [
+        "42225"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "La Palma (Los Chivos)",
+      "postal_code": [
+        "42225"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "La Pechuga",
+      "postal_code": [
+        "42221"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "La Pena",
+      "postal_code": [
+        "42224"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "La Presa",
+      "postal_code": [
+        "42225"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Las Moras",
+      "postal_code": [
+        "42233"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "42237"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Miraflores",
+      "postal_code": [
+        "42222"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "42222"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Palmitas",
+      "postal_code": [
+        "42223",
+        "42223"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Pie de la Cuesta",
+      "postal_code": [
+        "42222"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Piedra Ancha",
+      "postal_code": [
+        "42234"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Plan de Ayala",
+      "postal_code": [
+        "42225"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Plan de Zapotal",
+      "postal_code": [
+        "42233"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Poza Amarilla",
+      "postal_code": [
+        "42222"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Puerto Enebro",
+      "postal_code": [
+        "42223"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Puerto Obscuro",
+      "postal_code": [
+        "42233"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "42239"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "San Pedro Xochicuaco",
+      "postal_code": [
+        "42237"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "42236"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "San Vicente",
+      "postal_code": [
+        "42233"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Tlacuilola",
+      "postal_code": [
+        "42224"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Tripuente",
+      "postal_code": [
+        "42232"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Villeda",
+      "postal_code": [
+        "42237"
+      ]
+    },
+    {
+      "city": "Pisaflores",
+      "colonia": "Zapotal de Moras",
+      "postal_code": [
+        "42233"
+      ]
+    }
+  ]
+}

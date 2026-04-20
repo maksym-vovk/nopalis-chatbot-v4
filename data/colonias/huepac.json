@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Huepac",
+      "colonia": "Huepac",
+      "postal_code": [
+        "84860"
+      ]
+    },
+    {
+      "city": "Huepac",
+      "colonia": "Norte",
+      "postal_code": [
+        "84865"
+      ]
+    },
+    {
+      "city": "Huepac",
+      "colonia": "Ojo de Agua de Huepac",
+      "postal_code": [
+        "84874"
+      ]
+    },
+    {
+      "city": "Huepac",
+      "colonia": "Porvenir",
+      "postal_code": [
+        "84863"
+      ]
+    },
+    {
+      "city": "Huepac",
+      "colonia": "Ranchito de Huepac",
+      "postal_code": [
+        "84874"
+      ]
+    },
+    {
+      "city": "Huepac",
+      "colonia": "Sur",
+      "postal_code": [
+        "84864"
+      ]
+    }
+  ]
+}

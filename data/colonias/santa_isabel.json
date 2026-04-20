@@ -1,0 +1,376 @@
+{
+  "data": [
+    {
+      "city": "Santa Isabel",
+      "colonia": "Barrio las Colonias",
+      "postal_code": [
+        "33270"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Boquilla del Rio",
+      "postal_code": [
+        "33273"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Chirihuia (San Vicente de Pau)",
+      "postal_code": [
+        "33276"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "El alamo",
+      "postal_code": [
+        "33275"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "El Lugo",
+      "postal_code": [
+        "33275"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "El Muerto",
+      "postal_code": [
+        "33274"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "33277"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "33273"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "33274"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "El Tecuan",
+      "postal_code": [
+        "33277"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "33275"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Granillas",
+      "postal_code": [
+        "33274"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "La Baeza",
+      "postal_code": [
+        "33275"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "33277"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "La Dalia",
+      "postal_code": [
+        "33275"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "La Estacion",
+      "postal_code": [
+        "33270"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "La Frontera",
+      "postal_code": [
+        "33270",
+        "33274"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Lago de Jacales",
+      "postal_code": [
+        "33273"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "La Higuera",
+      "postal_code": [
+        "33273"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Lajas de Abajo",
+      "postal_code": [
+        "33276"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Lajas de Arriba",
+      "postal_code": [
+        "33276"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "La Lengüeta",
+      "postal_code": [
+        "33274"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "La Lengüetita",
+      "postal_code": [
+        "33274"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "La Mision",
+      "postal_code": [
+        "33276"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "La Nopalera",
+      "postal_code": [
+        "33275"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "La Noria",
+      "postal_code": [
+        "33275"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Las Gallinas",
+      "postal_code": [
+        "33275"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "33274"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Loma Jaquena",
+      "postal_code": [
+        "33270"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Mesa Calderon",
+      "postal_code": [
+        "33275"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Nopales",
+      "postal_code": [
+        "33277"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Nuevo Palomas",
+      "postal_code": [
+        "33274"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "33270"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Otra Banda del Rio",
+      "postal_code": [
+        "33275"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Perales",
+      "postal_code": [
+        "33275"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Piedras Verdes",
+      "postal_code": [
+        "33274"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Plan de Iguala (La Tapia)",
+      "postal_code": [
+        "33275"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Quiroga",
+      "postal_code": [
+        "33275"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Rancho de Duarte",
+      "postal_code": [
+        "33274"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Rancho de Pena",
+      "postal_code": [
+        "33273"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Rancho de Rosas",
+      "postal_code": [
+        "33274"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Rancho Maldonado",
+      "postal_code": [
+        "33274"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Rancho Palacio",
+      "postal_code": [
+        "33276"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Rancho Pinones",
+      "postal_code": [
+        "33274"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "San Leopoldo",
+      "postal_code": [
+        "33273"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "San Miguel de los Anchondo",
+      "postal_code": [
+        "33277"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "San Pedro del Pino (El Cuarenta y Cinco)",
+      "postal_code": [
+        "33274"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "33276"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Santa Isabel Centro",
+      "postal_code": [
+        "33270"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Santa Rosa (Xicotencatl)",
+      "postal_code": [
+        "33275"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Santa Sabina",
+      "postal_code": [
+        "33273"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Temporales de Pena (Palomas de Arriba)",
+      "postal_code": [
+        "33274"
+      ]
+    },
+    {
+      "city": "Santa Isabel",
+      "colonia": "Valle Dorado",
+      "postal_code": [
+        "33273"
+      ]
+    }
+  ]
+}

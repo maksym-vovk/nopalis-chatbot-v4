@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Coronango",
+      "colonia": "Analco",
+      "postal_code": [
+        "72670"
+      ]
+    },
+    {
+      "city": "Coronango",
+      "colonia": "Las Barrancas",
+      "postal_code": [
+        "72670"
+      ]
+    },
+    {
+      "city": "Coronango",
+      "colonia": "San Antonio Mihuacan",
+      "postal_code": [
+        "72670"
+      ]
+    },
+    {
+      "city": "Coronango",
+      "colonia": "San Francisco Ocotlan (Ocotlan)",
+      "postal_code": [
+        "72680"
+      ]
+    },
+    {
+      "city": "Coronango",
+      "colonia": "San Martin Zoquiapan",
+      "postal_code": [
+        "72685"
+      ]
+    },
+    {
+      "city": "Coronango",
+      "colonia": "Santa Maria Coronango",
+      "postal_code": [
+        "72670"
+      ]
+    }
+  ]
+}

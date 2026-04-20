@@ -1,0 +1,651 @@
+{
+  "data": [
+    {
+      "city": "Escarcega",
+      "colonia": "10 de Mayo",
+      "postal_code": [
+        "24350"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "24374"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Altamira de Zinaparo",
+      "postal_code": [
+        "24370"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Alto Rio Caribe",
+      "postal_code": [
+        "24376"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Belen",
+      "postal_code": [
+        "24375"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "24350"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Benito Juarez (La Polla)",
+      "postal_code": [
+        "24357"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Benito Juarez Numero 3",
+      "postal_code": [
+        "24370"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "California",
+      "postal_code": [
+        "24353"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Centenario",
+      "postal_code": [
+        "24370"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Chambalita",
+      "postal_code": [
+        "24369"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Chan Laguna",
+      "postal_code": [
+        "24373"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Colonia San Francisco (El Cinco)",
+      "postal_code": [
+        "24353"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Concordia",
+      "postal_code": [
+        "24350"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "C. Salinas de Gortari",
+      "postal_code": [
+        "24350"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Division del Norte",
+      "postal_code": [
+        "24354"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Don Samuel",
+      "postal_code": [
+        "24354"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "El Arbolito",
+      "postal_code": [
+        "24353"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "El Calabozo",
+      "postal_code": [
+        "24355"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "El Caracol",
+      "postal_code": [
+        "24353"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "El Conejo",
+      "postal_code": [
+        "24377"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "El Corriental",
+      "postal_code": [
+        "24358"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "El Diamante",
+      "postal_code": [
+        "24367"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "El Gallo",
+      "postal_code": [
+        "24358"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "El Gallo Samuel (El Gallito)",
+      "postal_code": [
+        "24356"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "El Huiro",
+      "postal_code": [
+        "24358"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "El Hular",
+      "postal_code": [
+        "24369"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "El Jobal",
+      "postal_code": [
+        "24373"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "El Lechugal",
+      "postal_code": [
+        "24374"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "El Pozo",
+      "postal_code": [
+        "24358"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "El Retiro",
+      "postal_code": [
+        "24358"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "El Rosario (Puerto Escondido)",
+      "postal_code": [
+        "24367"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "El Tornillo",
+      "postal_code": [
+        "24369"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "El Zacatecano",
+      "postal_code": [
+        "24366"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "24350",
+        "24372"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Escarcega Centro",
+      "postal_code": [
+        "24350"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Esperanza",
+      "postal_code": [
+        "24350"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Fatima",
+      "postal_code": [
+        "24350"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Fertimex",
+      "postal_code": [
+        "24350"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Flor de Chiapas",
+      "postal_code": [
+        "24370"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Flores Magon",
+      "postal_code": [
+        "24350"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "24357"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "General Rodolfo Fierros",
+      "postal_code": [
+        "24375"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Guadalajara",
+      "postal_code": [
+        "24358"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Haro",
+      "postal_code": [
+        "24354"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Herradero",
+      "postal_code": [
+        "24368"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Ignacio Magdaleno",
+      "postal_code": [
+        "24357"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "I. Zaragoza",
+      "postal_code": [
+        "24350"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Jesus Garcia",
+      "postal_code": [
+        "24350"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Jose de la Cruz Blanco",
+      "postal_code": [
+        "24368"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Jose Lopez Portillo",
+      "postal_code": [
+        "24370"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Juan de la Barrera",
+      "postal_code": [
+        "24364"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Juan Escutia",
+      "postal_code": [
+        "24364"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Justicia Social",
+      "postal_code": [
+        "24374"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Kilometro Setenta y Cuatro",
+      "postal_code": [
+        "24364"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Kilometro Treinta y Seis",
+      "postal_code": [
+        "24368"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "La Asuncion",
+      "postal_code": [
+        "24368"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "La Chiquita",
+      "postal_code": [
+        "24369"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "La Constancia",
+      "postal_code": [
+        "24365"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "24353",
+        "24364"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "La Fe",
+      "postal_code": [
+        "24367"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "La Flor",
+      "postal_code": [
+        "24357"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Laguna Grande",
+      "postal_code": [
+        "24370"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "La Jeringa",
+      "postal_code": [
+        "24350"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "La Libertad",
+      "postal_code": [
+        "24374"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "La Misteriosa",
+      "postal_code": [
+        "24357"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Las Maravillas",
+      "postal_code": [
+        "24373"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "La Victoria",
+      "postal_code": [
+        "24365"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Luna",
+      "postal_code": [
+        "24357"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Maria de la Luz",
+      "postal_code": [
+        "24366"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Matamoros",
+      "postal_code": [
+        "24353"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Miguel de la Madrid",
+      "postal_code": [
+        "24375"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Miguel Hidalgo (Caracol)",
+      "postal_code": [
+        "24353"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Miguel Hidalgo y Costilla",
+      "postal_code": [
+        "24369"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Morelos",
+      "postal_code": [
+        "24350"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Nuevo Campeche (Tres Aguadas)",
+      "postal_code": [
+        "24374"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Nuevo Progreso Dos",
+      "postal_code": [
+        "24367"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "24350"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Sal Si Puedes I",
+      "postal_code": [
+        "24350"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Sal Si Puedes II",
+      "postal_code": [
+        "24350"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "San Alejandro",
+      "postal_code": [
+        "24368"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "24365"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "San Jose",
+      "postal_code": [
+        "24364",
+        "24367"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "San Luis",
+      "postal_code": [
+        "24366"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "24365"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "24358"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Santa Isabel",
+      "postal_code": [
+        "24358"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Santa Martha (El Naranjito)",
+      "postal_code": [
+        "24367"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Silvituc",
+      "postal_code": [
+        "24370"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Unidad Esfuerzo y Trabajo I",
+      "postal_code": [
+        "24350"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Unidad Esfuerzo y Trabajo II",
+      "postal_code": [
+        "24350"
+      ]
+    },
+    {
+      "city": "Escarcega",
+      "colonia": "Vicente Fox",
+      "postal_code": [
+        "24350"
+      ]
+    }
+  ]
+}

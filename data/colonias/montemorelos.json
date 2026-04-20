@@ -1,0 +1,670 @@
+{
+  "data": [
+    {
+      "city": "Montemorelos",
+      "colonia": "6 de Abril",
+      "postal_code": [
+        "67588"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "7 de Noviembre",
+      "postal_code": [
+        "67535"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Alfonso Martinez Dominguez",
+      "postal_code": [
+        "67535"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Anita",
+      "postal_code": [
+        "67541"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Brisas del Pedregal",
+      "postal_code": [
+        "67512"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Buenavista (Las Caleras)",
+      "postal_code": [
+        "67613"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "67543"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "67535"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Burocratas Municipales",
+      "postal_code": [
+        "67544"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Campestre Bosque Real",
+      "postal_code": [
+        "67610"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Campestre Don Arnulfo",
+      "postal_code": [
+        "67570"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Canoas",
+      "postal_code": [
+        "67610"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Centenario",
+      "postal_code": [
+        "67587"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Chihuahua",
+      "postal_code": [
+        "67614"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Congregacion Calles",
+      "postal_code": [
+        "67608"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Cruz Verde",
+      "postal_code": [
+        "67528"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Del Maestro",
+      "postal_code": [
+        "67510"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "El Bajio",
+      "postal_code": [
+        "67612"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "El Bosque",
+      "postal_code": [
+        "67515"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "El Consuelo (Echavarria)",
+      "postal_code": [
+        "67554"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "El Desagüe",
+      "postal_code": [
+        "67611"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "El Fraile",
+      "postal_code": [
+        "67600"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "El Fraile (El Faro)",
+      "postal_code": [
+        "67606"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "El Fresno",
+      "postal_code": [
+        "67515"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "El Nogalito (El Barranco)",
+      "postal_code": [
+        "67619"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "El Pastor",
+      "postal_code": [
+        "67617"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "67619"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "El Toro",
+      "postal_code": [
+        "67637"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "67589"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "67587"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Garza Garcia",
+      "postal_code": [
+        "67590"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "General Escobedo",
+      "postal_code": [
+        "67618"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Gil de Leyva",
+      "postal_code": [
+        "67560"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Hacienda de Enmedio",
+      "postal_code": [
+        "67604"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Hacienda los Azahares",
+      "postal_code": [
+        "67520"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Hacienda los Naranjos",
+      "postal_code": [
+        "67528"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Hortencia Gonzalez",
+      "postal_code": [
+        "67543"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Huertas [Estacion]",
+      "postal_code": [
+        "67639"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "INFONAVIT Antonio I Villareal",
+      "postal_code": [
+        "67543"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Jalisco",
+      "postal_code": [
+        "67599"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Jardines del Pedregal",
+      "postal_code": [
+        "67560"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Jose Lopez Portillo",
+      "postal_code": [
+        "67590"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Jose Maria Morelos y Pavon",
+      "postal_code": [
+        "67543"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Jose Maria Paras",
+      "postal_code": [
+        "67588"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "La Estacion",
+      "postal_code": [
+        "67543"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "La Fe",
+      "postal_code": [
+        "67535"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "La Ladrillera",
+      "postal_code": [
+        "67580"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "La Primavera",
+      "postal_code": [
+        "67530"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Las Adjuntas",
+      "postal_code": [
+        "67640"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Las Alamedas",
+      "postal_code": [
+        "67563"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "67512"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Las Puentes",
+      "postal_code": [
+        "67616"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "La Union",
+      "postal_code": [
+        "67637"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "67543"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Lerdo de Tejada",
+      "postal_code": [
+        "67570"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Loma Prieta",
+      "postal_code": [
+        "67610"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Los Adobes",
+      "postal_code": [
+        "67619"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Los Arcangeles",
+      "postal_code": [
+        "67512"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Los Arroyos (Seccion Juarez)",
+      "postal_code": [
+        "67604"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "67515"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Los Nogales",
+      "postal_code": [
+        "67515",
+        "67544"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Los Sabinos",
+      "postal_code": [
+        "67515"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Maranatha",
+      "postal_code": [
+        "67515"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Matamoros",
+      "postal_code": [
+        "67510"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Mendivil",
+      "postal_code": [
+        "67540"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Mexiquito",
+      "postal_code": [
+        "67550"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "67588"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Montemorelos Centro",
+      "postal_code": [
+        "67500"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Montemorelos Industrial Park",
+      "postal_code": [
+        "67535"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Monte Real",
+      "postal_code": [
+        "67560"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Morelos I",
+      "postal_code": [
+        "67544"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Morelos II",
+      "postal_code": [
+        "67535"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Naranjos",
+      "postal_code": [
+        "67560"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "67614"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Padre Mier",
+      "postal_code": [
+        "67560"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Paras",
+      "postal_code": [
+        "67520"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Primero de Mayo",
+      "postal_code": [
+        "67535"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Puente Amarillo",
+      "postal_code": [
+        "67535"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Raices",
+      "postal_code": [
+        "67619"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Rancho Escondido",
+      "postal_code": [
+        "67607"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Raul Caballero",
+      "postal_code": [
+        "67543"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Real del Valle",
+      "postal_code": [
+        "67515"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Residencial Hacienda las Cumbres",
+      "postal_code": [
+        "67512"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Residencial Santa Fe",
+      "postal_code": [
+        "67512"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Rincon de las Huertas",
+      "postal_code": [
+        "67512"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Rincon del Eden",
+      "postal_code": [
+        "67535"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Rincon de los Naranjos",
+      "postal_code": [
+        "67528"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "67600"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "San Vicente",
+      "postal_code": [
+        "67615"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Tierras Coloradas",
+      "postal_code": [
+        "67606"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Valeriano Garcia Galvan",
+      "postal_code": [
+        "67543"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Valle Dorado",
+      "postal_code": [
+        "67515"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Valle Hidalgo (La Cotorra)",
+      "postal_code": [
+        "67606"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Zambrano",
+      "postal_code": [
+        "67512"
+      ]
+    },
+    {
+      "city": "Montemorelos",
+      "colonia": "Zaragoza",
+      "postal_code": [
+        "67530"
+      ]
+    }
+  ]
+}

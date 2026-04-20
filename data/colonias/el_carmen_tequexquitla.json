@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "El Carmen Tequexquitla",
+      "colonia": "De Guadalupe",
+      "postal_code": [
+        "90574"
+      ]
+    },
+    {
+      "city": "El Carmen Tequexquitla",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "90575"
+      ]
+    },
+    {
+      "city": "El Carmen Tequexquitla",
+      "colonia": "Mazatepec",
+      "postal_code": [
+        "90573"
+      ]
+    },
+    {
+      "city": "El Carmen Tequexquitla",
+      "colonia": "Ocotlan Temalacayucan",
+      "postal_code": [
+        "90577"
+      ]
+    },
+    {
+      "city": "El Carmen Tequexquitla",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "90576"
+      ]
+    },
+    {
+      "city": "El Carmen Tequexquitla",
+      "colonia": "Villa del Carmen Tequexquitla",
+      "postal_code": [
+        "90570"
+      ]
+    }
+  ]
+}

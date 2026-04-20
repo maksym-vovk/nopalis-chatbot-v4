@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Santa Cruz Nundaco",
+      "colonia": "Loma nuhucua",
+      "postal_code": [
+        "69859"
+      ]
+    },
+    {
+      "city": "Santa Cruz Nundaco",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "69855"
+      ]
+    },
+    {
+      "city": "Santa Cruz Nundaco",
+      "colonia": "San Isidro Vista Hermosa",
+      "postal_code": [
+        "69855"
+      ]
+    },
+    {
+      "city": "Santa Cruz Nundaco",
+      "colonia": "San Jose Yatandoyo",
+      "postal_code": [
+        "69859"
+      ]
+    },
+    {
+      "city": "Santa Cruz Nundaco",
+      "colonia": "Santa Cruz Nundaco",
+      "postal_code": [
+        "69855"
+      ]
+    }
+  ]
+}

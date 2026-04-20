@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Mina",
+      "colonia": "Espinazo (Espinazo Nuevo Leon)",
+      "postal_code": [
+        "65140"
+      ]
+    },
+    {
+      "city": "Mina",
+      "colonia": "Los Guerra",
+      "postal_code": [
+        "65100"
+      ]
+    },
+    {
+      "city": "Mina",
+      "colonia": "Mina",
+      "postal_code": [
+        "65100"
+      ]
+    },
+    {
+      "city": "Mina",
+      "colonia": "Presa de la Mula (Las Presas)",
+      "postal_code": [
+        "65118"
+      ]
+    },
+    {
+      "city": "Mina",
+      "colonia": "San Jose de la Popa",
+      "postal_code": [
+        "65110"
+      ]
+    }
+  ]
+}

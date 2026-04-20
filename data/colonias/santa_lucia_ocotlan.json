@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Santa Lucia Ocotlan",
+      "colonia": "Los Sarmiento",
+      "postal_code": [
+        "71543"
+      ]
+    },
+    {
+      "city": "Santa Lucia Ocotlan",
+      "colonia": "Rompecapa",
+      "postal_code": [
+        "71543"
+      ]
+    },
+    {
+      "city": "Santa Lucia Ocotlan",
+      "colonia": "Santa Lucia Ocotlan",
+      "postal_code": [
+        "71543"
+      ]
+    },
+    {
+      "city": "Santa Lucia Ocotlan",
+      "colonia": "Tierra Negra (Pozo Tierra Negra)",
+      "postal_code": [
+        "71543"
+      ]
+    }
+  ]
+}

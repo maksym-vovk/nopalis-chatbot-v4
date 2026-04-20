@@ -1,0 +1,893 @@
+{
+  "data": [
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Acatlima",
+      "postal_code": [
+        "69004"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Agua Dulce",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Ahuehuetitlan de Gonzalez",
+      "postal_code": [
+        "69008"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Altavista Juarez",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Antonio de Leon",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Antonio de Leon FOVISSSTE",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Antonio de Leon FOVISSSTE 2da. Seccion",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Antonio de Leon FOVISSSTE 3ra. Seccion",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Aviacion 1a Secc",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Aviacion 2a. Secc",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Aviacion Poniente",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Bella Vista",
+      "postal_code": [
+        "69003"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Chapultepec",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Del Carmen",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Del Maestro 1a Seccion",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Del Maestro 2a Seccion",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Del Valle",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Dolores",
+      "postal_code": [
+        "69008"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "El Calvario",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "El Carmen II",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "El Castillo",
+      "postal_code": [
+        "69008"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "El Giron",
+      "postal_code": [
+        "69009"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "El Molino",
+      "postal_code": [
+        "69009"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "69008"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "El Rosario 2da. Seccion",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "El Tanque",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "El Tatoto (Palo de Flor)",
+      "postal_code": [
+        "69009"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "El Zapote (El Zapote Juquilita)",
+      "postal_code": [
+        "69009"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Esquipulas",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Fidepal",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "FIOB",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "69009"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Hacienda el Rosario",
+      "postal_code": [
+        "69009"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Heroes de la Independencia",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Heroica Ciudad de Huajuapan de Leon Centro",
+      "postal_code": [
+        "69000"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Insurgentes",
+      "postal_code": [
+        "69003"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Jardines del Sur",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Jose Lopez alavez",
+      "postal_code": [
+        "69003"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Juquilita",
+      "postal_code": [
+        "69009"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "La Antorcha",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "69009"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "La Ermita",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "La Estancia",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "La Estancia Tercera Seccion",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "La Joya",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "La Junta",
+      "postal_code": [
+        "69008"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "La Merced",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Las Animas",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "La SARH",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Las Campanas",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Las Huertas",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Las Lomas",
+      "postal_code": [
+        "69003"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Las Penitas",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Lazaro Cardenas 1ra. Seccion",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Lazaro Cardenas 2da Seccion",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Llano Grande",
+      "postal_code": [
+        "69008"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Los alamos 1a. Seccion",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Los alamos 2da. Seccion",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Los Pinos 2a. Seccion",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Los Presidentes",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Los Presidentes 2da Seccion",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Magdalena Tetaltepec",
+      "postal_code": [
+        "69008"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Militar",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Mixteca de Cardenas INFONAVIT",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Monte Alban",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Morelos",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Nucleo Rural Universitario",
+      "postal_code": [
+        "69009"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "69009"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Pedregal de la Mixteca",
+      "postal_code": [
+        "69003"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Puerta del Sol",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Rancho Burgoa",
+      "postal_code": [
+        "69009"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Rancho Jesus",
+      "postal_code": [
+        "69009"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Rancho Ramirez",
+      "postal_code": [
+        "69008"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Rancho Reyes",
+      "postal_code": [
+        "69008"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Reforma 1a. Seccion",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Reforma 2a. Seccion",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Reforma Agraria",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Rio Balsas",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Salto del Agua",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "San angel",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "San Diego",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "San Francisco Yosocuta",
+      "postal_code": [
+        "69009"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "San Isidro Oriente",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "San Isidro Poniente",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "San Mateo",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "San Miguel Papalutla",
+      "postal_code": [
+        "69009"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "San Nicolas Tabernillas",
+      "postal_code": [
+        "69008"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "San Pedro de los Pinos",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "San Pedro Yodoyuxi",
+      "postal_code": [
+        "69009"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "San Rafael 1 Seccion",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "San Rafael 2 Seccion",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Santa Isabel",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Santa Maria Ayu",
+      "postal_code": [
+        "69008"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Santa Maria Xochixtlapilco",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Santa Rosa 1a. Seccion",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Santa Rosa 2a. Seccion",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Santiago Chilixtlahuaca",
+      "postal_code": [
+        "69009"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Senor de los Corazones",
+      "postal_code": [
+        "69009"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Sinahi 1a. Seccion",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Sinahi 2a. Seccion",
+      "postal_code": [
+        "69007"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Solano",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Tabaco",
+      "postal_code": [
+        "69008"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Tepeyac",
+      "postal_code": [
+        "69006"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Valerio Trujano",
+      "postal_code": [
+        "69003"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Villa de Los angeles",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Villa Universitaria",
+      "postal_code": [
+        "69004"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Volcanes",
+      "postal_code": [
+        "69005"
+      ]
+    },
+    {
+      "city": "Heroica Ciudad de Huajuapan de Leon",
+      "colonia": "Yuxichi",
+      "postal_code": [
+        "69008"
+      ]
+    }
+  ]
+}

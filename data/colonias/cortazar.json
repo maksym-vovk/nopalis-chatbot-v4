@@ -1,0 +1,1356 @@
+{
+  "data": [
+    {
+      "city": "Cortazar",
+      "colonia": "Agua Caliente",
+      "postal_code": [
+        "38360"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Alameda",
+      "postal_code": [
+        "38359"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Alameda San Jose de los Amoles",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Andalucia",
+      "postal_code": [
+        "38334"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Arreguin de Arriba",
+      "postal_code": [
+        "38498"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Baez Olague (Fraccion la Palma)",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Balcones de Cortazar",
+      "postal_code": [
+        "38358"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "38497"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Brasil (La Nopalera)",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Buenavista de Culiacan",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Burocrata",
+      "postal_code": [
+        "38349"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Campestre Los Pinos",
+      "postal_code": [
+        "38325"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Canada de Caracheo",
+      "postal_code": [
+        "38490"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Caracheo",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Carrillo Puerto",
+      "postal_code": [
+        "38350"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Cecilia Novoa Guzman (San Jose de la Pena)",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Cerrito Colorado",
+      "postal_code": [
+        "38358"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Cerro Culiacan",
+      "postal_code": [
+        "38499"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Chapingo",
+      "postal_code": [
+        "38317"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Corralejo",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Cortazar Centro",
+      "postal_code": [
+        "38300"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Crecensio Rocha Ruiz (Callejones)",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "De Fuentes (Las Colonias)",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Del Bosque",
+      "postal_code": [
+        "38324"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Del Rio",
+      "postal_code": [
+        "38320"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Del Valle",
+      "postal_code": [
+        "38320"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "De Parral",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Dos Plazas",
+      "postal_code": [
+        "38320"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Ejidal",
+      "postal_code": [
+        "38324"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El alamo",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Baztan (El Milagro)",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Colorado",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Coyote",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Culebrero",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Diamante",
+      "postal_code": [
+        "38333"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Diamante 2da. Seccion",
+      "postal_code": [
+        "38334"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Diezmo",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Durazno",
+      "postal_code": [
+        "38312"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Ejemplo es Cortazar",
+      "postal_code": [
+        "38314"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Fortin",
+      "postal_code": [
+        "38322"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Fresno",
+      "postal_code": [
+        "38329"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Huevo",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Huizache",
+      "postal_code": [
+        "38499"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Jilote",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Laurel",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Molinito",
+      "postal_code": [
+        "38322"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Peral",
+      "postal_code": [
+        "38349"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Pipila",
+      "postal_code": [
+        "38356"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Pirul",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Salitre",
+      "postal_code": [
+        "38497"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Sandillal",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Saucito",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Tecolote (Cerrito de Hierbas)",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Estacion de Cortazar",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Ex Hacienda Corralejo",
+      "postal_code": [
+        "38373"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Fermin Monte Negro",
+      "postal_code": [
+        "38383"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Flores Mendoza (Segunda Fraccion San Ignacio)",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Fray Daniel Patino Moreno",
+      "postal_code": [
+        "38360"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Fray Elias Nieves",
+      "postal_code": [
+        "38357"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Galeras",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Granja Sanjuanita",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Guanajuato",
+      "postal_code": [
+        "38317"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Hermilo Frias Garcia (El Carrizal)",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Huertas de La Hacienda",
+      "postal_code": [
+        "38332"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Jacinto Lopez",
+      "postal_code": [
+        "38360"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Jaral Diaz",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Jose Luis Patino",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Jose Razo Vera (El Zapote)",
+      "postal_code": [
+        "38499"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Joyas de Corralejo",
+      "postal_code": [
+        "38373"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Juan Aboytes",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Juan Alonso",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Juan Simon del Parque",
+      "postal_code": [
+        "38374"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Juan Tovar Mancera",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Julian Navarrete",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "La Arboleda",
+      "postal_code": [
+        "38338"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "La Calzada (La Olla)",
+      "postal_code": [
+        "38395"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "La Casa Blanca",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "La Concepcion",
+      "postal_code": [
+        "38499"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "La Espanita",
+      "postal_code": [
+        "38390"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "38373"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "La Fortaleza",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "La Gavia",
+      "postal_code": [
+        "38498"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "La Huerta (San Jose de Amoles)",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "La Isla",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "La Luz",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "La Luz de Orozco",
+      "postal_code": [
+        "38497"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "La Minilla",
+      "postal_code": [
+        "38497"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "La Mocha",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "La Noria",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "La Palma",
+      "postal_code": [
+        "38343",
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "La Palma II",
+      "postal_code": [
+        "38363"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "La Perla",
+      "postal_code": [
+        "38342"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "La Piedad",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "La Purisima",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Las Cuatas",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "38344"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Las Penitas",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Las Torres",
+      "postal_code": [
+        "38309"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Laureles",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Loma Linda (San Jose de Parra)",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Lomas del Peral",
+      "postal_code": [
+        "38358"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "38330"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "38322"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "38494"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Los Pioneros [Invernadero Casa Verde]",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Los Trejo",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Magueyes",
+      "postal_code": [
+        "38342"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Manantiales",
+      "postal_code": [
+        "38499"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Mandinga",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Manuel Macias (Camino Viejo)",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Merino",
+      "postal_code": [
+        "38497"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Nueva del Valle",
+      "postal_code": [
+        "38320"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Nueva Rosales",
+      "postal_code": [
+        "38345"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Nueva San Francisco",
+      "postal_code": [
+        "38344"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Nuevo Ejido de Merino",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Numero 12 [Granja Avicola]",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Numero 20 [Granja Avicola]",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Numero 22 [Granja Postura]",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Numero 23 [Granja Avicola]",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Numero 24 [Granja Avicola]",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Palmira",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Panamericana",
+      "postal_code": [
+        "38362"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Paseo de las Arboledas",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Piedra Clavada",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Porfirio Vazquez Garcia",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Pozo Lazaro Cardenas",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Praderas de la Soledad [Radio Lobo]",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Praderas del Laja",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Primero es Cortazar",
+      "postal_code": [
+        "38315"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Privada Residencial Cortazar",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Pueblo Viejo de Corralejo",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Quinta la Esperanza",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Quinta Medrano",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Rancho Alegre",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Rancho Bonito",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Rancho San Lorenzo",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Rancho Yolanda",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Real de Chapingo",
+      "postal_code": [
+        "38317"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Residencial Los Huertos",
+      "postal_code": [
+        "38335"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Rinconada del Camino Viejo",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Rinconada Ignacio Flores Quintana",
+      "postal_code": [
+        "38310"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Rosales",
+      "postal_code": [
+        "38346"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Rosa Maria Torres Ojeda (Fraccion la Palma)",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "San Agustin Culiacan",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "San Diego",
+      "postal_code": [
+        "38322"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "38344"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "San Francisco de los Leon",
+      "postal_code": [
+        "38499"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "San Isidro Culiacan",
+      "postal_code": [
+        "38499"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "San Jose Cerro Gordo (El Tope)",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "San Jose de la Pena",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "San Jose del Llano",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "San Jose de Parra (Cola de Pato)",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "San Jose el Poblano",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "San Juan de Santa Anita (Los Rodriguez)",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "38317"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "San Nicolas de Manantiales",
+      "postal_code": [
+        "38499"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "38499"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "San Ramon",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Santa Anita",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "38362"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Santa Fe de la Purisima",
+      "postal_code": [
+        "38497"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "San Vicente",
+      "postal_code": [
+        "38346"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Sauz de Fuentes",
+      "postal_code": [
+        "38499"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Sauz de Merino",
+      "postal_code": [
+        "38497"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Tabachines",
+      "postal_code": [
+        "38349"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Teresa Contreras Cuevas (San Isidro)",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Tierra Fria",
+      "postal_code": [
+        "38494"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Torres Juarez (La Palma)",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Tres Lagunas",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Union de Colonos",
+      "postal_code": [
+        "38324"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Universidad Politecnica de Guanajuato",
+      "postal_code": [
+        "38496"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Valencia de Fuentes",
+      "postal_code": [
+        "38493"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Valle de las Espinas",
+      "postal_code": [
+        "38317"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Valle Hermoso",
+      "postal_code": [
+        "38322"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Vazquez (Juan Manuel Vazquez)",
+      "postal_code": [
+        "38495"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Villas de Amoles",
+      "postal_code": [
+        "38314"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Villas de Amoles 2a Seccion",
+      "postal_code": [
+        "38343"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Villas de Corralejo",
+      "postal_code": [
+        "38322"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Villas de Cortazar",
+      "postal_code": [
+        "38324"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Villas del Pedregal",
+      "postal_code": [
+        "38375"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Villas del Sol",
+      "postal_code": [
+        "38310"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Villas de San Cristobal",
+      "postal_code": [
+        "38337"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Villa Toscana",
+      "postal_code": [
+        "38373"
+      ]
+    },
+    {
+      "city": "Cortazar",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "38496"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "San Ildefonso Villa Alta",
+      "colonia": "San Francisco Yatee",
+      "postal_code": [
+        "68801"
+      ]
+    },
+    {
+      "city": "San Ildefonso Villa Alta",
+      "colonia": "San Ildefonso Villa Alta",
+      "postal_code": [
+        "68800"
+      ]
+    },
+    {
+      "city": "San Ildefonso Villa Alta",
+      "colonia": "San Juan Tagui",
+      "postal_code": [
+        "68804"
+      ]
+    },
+    {
+      "city": "San Ildefonso Villa Alta",
+      "colonia": "San Juan Yalahui",
+      "postal_code": [
+        "68803"
+      ]
+    },
+    {
+      "city": "San Ildefonso Villa Alta",
+      "colonia": "San Juan Yetzacovi",
+      "postal_code": [
+        "68804"
+      ]
+    },
+    {
+      "city": "San Ildefonso Villa Alta",
+      "colonia": "Santa Catarina Yetze-lalag",
+      "postal_code": [
+        "68804"
+      ]
+    }
+  ]
+}

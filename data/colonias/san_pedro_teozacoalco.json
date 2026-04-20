@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Pedro Teozacoalco",
+      "colonia": "San Antonio el Progreso",
+      "postal_code": [
+        "69983"
+      ]
+    },
+    {
+      "city": "San Pedro Teozacoalco",
+      "colonia": "San Jose Rio Minas",
+      "postal_code": [
+        "69983"
+      ]
+    },
+    {
+      "city": "San Pedro Teozacoalco",
+      "colonia": "San Pedro Teozacoalco",
+      "postal_code": [
+        "69980"
+      ]
+    }
+  ]
+}

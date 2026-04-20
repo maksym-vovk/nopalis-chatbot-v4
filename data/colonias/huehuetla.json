@@ -1,0 +1,684 @@
+{
+  "data": [
+    {
+      "city": "Huehuetla",
+      "colonia": "3 de Mayo",
+      "postal_code": [
+        "43423"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Acuautla",
+      "postal_code": [
+        "43425"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Agua Fria",
+      "postal_code": [
+        "43427"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Arroyo Negro",
+      "postal_code": [
+        "43423"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Aztlan",
+      "postal_code": [
+        "43422"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Cantarranas",
+      "postal_code": [
+        "43427"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Cerro de Chapingo",
+      "postal_code": [
+        "43422"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Cerro de la Luna",
+      "postal_code": [
+        "43427"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Cerro del Caballo",
+      "postal_code": [
+        "43425"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Cerro del Tomate",
+      "postal_code": [
+        "43422"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Chapingo",
+      "postal_code": [
+        "43422"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Chicontla",
+      "postal_code": [
+        "43422"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Chintipan",
+      "postal_code": [
+        "43435"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "43423"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Dos Caminos",
+      "postal_code": [
+        "43426"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "43435"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El Borbollon",
+      "postal_code": [
+        "43435"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El Bosque",
+      "postal_code": [
+        "43436"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El Cajon",
+      "postal_code": [
+        "43436"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El Catrin",
+      "postal_code": [
+        "43434"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El Chamizal",
+      "postal_code": [
+        "43424"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El Chote",
+      "postal_code": [
+        "43433"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El Dambo",
+      "postal_code": [
+        "43426"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El Denxe",
+      "postal_code": [
+        "43434"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El Descansadero",
+      "postal_code": [
+        "43434"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El Dextho",
+      "postal_code": [
+        "43434"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El Encinal",
+      "postal_code": [
+        "43433",
+        "43434"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El Lindero",
+      "postal_code": [
+        "43433"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El nanjuay (Agua Fria)",
+      "postal_code": [
+        "43426"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El Ocotal",
+      "postal_code": [
+        "43421"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El Padhi",
+      "postal_code": [
+        "43426"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El Palote",
+      "postal_code": [
+        "43427"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "43421"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El Plan del Recreo",
+      "postal_code": [
+        "43422"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El Rincon de Cantarranas",
+      "postal_code": [
+        "43427"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El Salto del Agua",
+      "postal_code": [
+        "43433"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El Tarral",
+      "postal_code": [
+        "43433"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El Tempesquite",
+      "postal_code": [
+        "43433"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El Tigre",
+      "postal_code": [
+        "43436"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "El Xone",
+      "postal_code": [
+        "43433"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Hacienda el Potrero",
+      "postal_code": [
+        "43436"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Hermanos Galeana",
+      "postal_code": [
+        "43422"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Huehuetla Centro",
+      "postal_code": [
+        "43420"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Juntas Chicas",
+      "postal_code": [
+        "43430"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "La Cebolla (Arroyo de las Cebollas)",
+      "postal_code": [
+        "43435"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "43426"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "La Esmeralda",
+      "postal_code": [
+        "43426"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "La Esperanza Numero 1",
+      "postal_code": [
+        "43425"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "La Esperanza Numero 2",
+      "postal_code": [
+        "43435"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "La Joya",
+      "postal_code": [
+        "43435"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "La Loma de San Clemente",
+      "postal_code": [
+        "43426"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "La Pahua",
+      "postal_code": [
+        "43427"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "La Pimienta",
+      "postal_code": [
+        "43433"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "La Pina",
+      "postal_code": [
+        "43434"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "La Tortuga",
+      "postal_code": [
+        "43434"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "La Tuza",
+      "postal_code": [
+        "43433"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Lindavista II",
+      "postal_code": [
+        "43426"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Linda Vista I (Mirasol)",
+      "postal_code": [
+        "43427"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Loma de Buenavista",
+      "postal_code": [
+        "43424"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Los Planes",
+      "postal_code": [
+        "43426"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Milpa Redonda",
+      "postal_code": [
+        "43434"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Nueva",
+      "postal_code": [
+        "43423"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Palo Gordo",
+      "postal_code": [
+        "43433"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Palo Verde",
+      "postal_code": [
+        "43434"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Piedra Desboronada (Potrero Grande)",
+      "postal_code": [
+        "43434"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Piedras Negras",
+      "postal_code": [
+        "43422"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Poza Grande",
+      "postal_code": [
+        "43433"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Rio Beltran",
+      "postal_code": [
+        "43434"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Rio Blanco",
+      "postal_code": [
+        "43421"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "San Ambrosio",
+      "postal_code": [
+        "43431"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "43436"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "San Antonio el Grande",
+      "postal_code": [
+        "43427"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "San Clemente",
+      "postal_code": [
+        "43421"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "San Esteban",
+      "postal_code": [
+        "43431"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "San Gregorio",
+      "postal_code": [
+        "43431"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "San Guillermo",
+      "postal_code": [
+        "43427"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "San Lorenzo Achiotepec",
+      "postal_code": [
+        "43430"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "43433"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Santa Ines",
+      "postal_code": [
+        "43422"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Santa ursula",
+      "postal_code": [
+        "43426"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Tierra Amarilla",
+      "postal_code": [
+        "43434"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Tres Marias",
+      "postal_code": [
+        "43435"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Villahermosa",
+      "postal_code": [
+        "43435"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "43434"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Zicatlan",
+      "postal_code": [
+        "43427"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Chilocoyo del Carmen",
+      "postal_code": [
+        "73473"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Chilocoyo Guadalupe",
+      "postal_code": [
+        "73473"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Cinco de Mayo",
+      "postal_code": [
+        "73470"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "73476"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Huehuetla",
+      "postal_code": [
+        "73470"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Huehuetla (Barrio Alto)",
+      "postal_code": [
+        "73476"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Kuwit Chuchut",
+      "postal_code": [
+        "73476"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Leacaman",
+      "postal_code": [
+        "73477"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Lipuntahuaca",
+      "postal_code": [
+        "73475"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Ozelonacaxtla",
+      "postal_code": [
+        "73471"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Putaxcat",
+      "postal_code": [
+        "73475"
+      ]
+    },
+    {
+      "city": "Huehuetla",
+      "colonia": "Xonalpu",
+      "postal_code": [
+        "73471"
+      ]
+    }
+  ]
+}

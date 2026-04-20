@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Tlacotepec de Mejia",
+      "colonia": "Actopan",
+      "postal_code": [
+        "94080"
+      ]
+    },
+    {
+      "city": "Tlacotepec de Mejia",
+      "colonia": "Rincon San Salcotla",
+      "postal_code": [
+        "94080"
+      ]
+    },
+    {
+      "city": "Tlacotepec de Mejia",
+      "colonia": "Tlacotepec de Mejia",
+      "postal_code": [
+        "94080"
+      ]
+    }
+  ]
+}

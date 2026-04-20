@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Rincon Chamula San Pedro",
+      "colonia": "La Florida",
+      "postal_code": [
+        "29759"
+      ]
+    },
+    {
+      "city": "Rincon Chamula San Pedro",
+      "colonia": "Rincon Chamula",
+      "postal_code": [
+        "29759"
+      ]
+    },
+    {
+      "city": "Rincon Chamula San Pedro",
+      "colonia": "Rincon San Jose",
+      "postal_code": [
+        "29759"
+      ]
+    },
+    {
+      "city": "Rincon Chamula San Pedro",
+      "colonia": "San Felipe",
+      "postal_code": [
+        "29759"
+      ]
+    },
+    {
+      "city": "Rincon Chamula San Pedro",
+      "colonia": "Tejeria",
+      "postal_code": [
+        "29759"
+      ]
+    }
+  ]
+}

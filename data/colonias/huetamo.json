@@ -1,0 +1,1485 @@
+{
+  "data": [
+    {
+      "city": "Huetamo",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Acapulco",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Acopeo",
+      "postal_code": [
+        "61974"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Agua de la Virgen",
+      "postal_code": [
+        "61969"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Agua del Obispo",
+      "postal_code": [
+        "61942"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Agua del Refugio (Agua Hedionda)",
+      "postal_code": [
+        "61959"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Agua Fria",
+      "postal_code": [
+        "61945"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Ajunuato",
+      "postal_code": [
+        "61959"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Alameda",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Amengaricuaro",
+      "postal_code": [
+        "61959"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Angandico",
+      "postal_code": [
+        "61972"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Aparandan",
+      "postal_code": [
+        "61958"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Arroyo de las Caramicuas",
+      "postal_code": [
+        "61970"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Arroyo Seco",
+      "postal_code": [
+        "61952"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Arroyo Seco (El Bebo) [Albergue Jornalero]",
+      "postal_code": [
+        "61952"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Arua",
+      "postal_code": [
+        "61971"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Aterio de los Sanchez",
+      "postal_code": [
+        "61972"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Atzimbaro",
+      "postal_code": [
+        "61966"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Baztan del Cobre",
+      "postal_code": [
+        "61957"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Brasil",
+      "postal_code": [
+        "61969"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Buena Vista",
+      "postal_code": [
+        "61974"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Buenavista Tres",
+      "postal_code": [
+        "61959"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Buenavista Uno (Buenavista de las Anonas)",
+      "postal_code": [
+        "61959"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Cahuaro",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Capeo",
+      "postal_code": [
+        "61952"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Chapala",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Characuaro",
+      "postal_code": [
+        "61971"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Chihuero",
+      "postal_code": [
+        "61943"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Coenandio",
+      "postal_code": [
+        "61952"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Comburindio",
+      "postal_code": [
+        "61975"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Corondiro",
+      "postal_code": [
+        "61967"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Corral Viejo",
+      "postal_code": [
+        "61976"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Corutzen",
+      "postal_code": [
+        "61979"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Cuaro",
+      "postal_code": [
+        "61952"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Cutzeo",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Del Coco",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Del Libramiento",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Dolores",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Aguacate",
+      "postal_code": [
+        "61945"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Ancon",
+      "postal_code": [
+        "61940",
+        "61970"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Anono",
+      "postal_code": [
+        "61957"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Bejuco (Los Bejucos)",
+      "postal_code": [
+        "61964"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Capire",
+      "postal_code": [
+        "61950"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Capire (Los Capires)",
+      "postal_code": [
+        "61963"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "61974"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Cascalote",
+      "postal_code": [
+        "61974"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Chamizal",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Cipiate de San Antonio Urapa",
+      "postal_code": [
+        "61974"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Cuajilote",
+      "postal_code": [
+        "61959"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Embarcadero",
+      "postal_code": [
+        "61971"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Espiritu Santo",
+      "postal_code": [
+        "61954"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Guayabo",
+      "postal_code": [
+        "61969"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Guayacan",
+      "postal_code": [
+        "61970"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Gusano de Santiago",
+      "postal_code": [
+        "61950"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Jagüey",
+      "postal_code": [
+        "61976"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Limon de los Garcia",
+      "postal_code": [
+        "61972"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Limon de los Jaimes (La Cuchilla)",
+      "postal_code": [
+        "61970"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Limon (Puerto el Limon)",
+      "postal_code": [
+        "61967"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Naranjo",
+      "postal_code": [
+        "61948",
+        "61973"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Ocuaro",
+      "postal_code": [
+        "61947"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Palmar",
+      "postal_code": [
+        "61957"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Paracatal",
+      "postal_code": [
+        "61966"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Pinzan",
+      "postal_code": [
+        "61964"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Pinzanal",
+      "postal_code": [
+        "61952"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Potrero",
+      "postal_code": [
+        "61948"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Reparito",
+      "postal_code": [
+        "61946"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Reparo",
+      "postal_code": [
+        "61959",
+        "61976"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Rodeo",
+      "postal_code": [
+        "61954"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "61970"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Salitrillo",
+      "postal_code": [
+        "61967"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Sauz",
+      "postal_code": [
+        "61969"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Terrero de Sanchiqueo",
+      "postal_code": [
+        "61969"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Ticuiche",
+      "postal_code": [
+        "61954"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Timbinal",
+      "postal_code": [
+        "61967"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Toreo",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "El Zipiate de los Ayllon",
+      "postal_code": [
+        "61958"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Estimucha",
+      "postal_code": [
+        "61963"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Garita de Tomatlan",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Granjas de Cahuaro",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Guayabo de los Valdez",
+      "postal_code": [
+        "61957"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Hornos del Palmar",
+      "postal_code": [
+        "61954"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Huatichapio",
+      "postal_code": [
+        "61946"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Huetamo de Nunez Centro",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Independencia (Barrio Alto)",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Iramuco",
+      "postal_code": [
+        "61964"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "ISSSTE",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "J. David Tellitud (Santa Rita)",
+      "postal_code": [
+        "61952"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Cana",
+      "postal_code": [
+        "61976"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Canada (La Canada de los Rastrojos)",
+      "postal_code": [
+        "61958"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Casa Blanca",
+      "postal_code": [
+        "61946"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Compuerta",
+      "postal_code": [
+        "61963"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Crucillera",
+      "postal_code": [
+        "61957"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Cuchilla",
+      "postal_code": [
+        "61972"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Era",
+      "postal_code": [
+        "61974"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Erendira (La Desviacion de Nunez)",
+      "postal_code": [
+        "61948"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Estancia",
+      "postal_code": [
+        "61955"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Fragua",
+      "postal_code": [
+        "61969"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Garita",
+      "postal_code": [
+        "61966"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Guajillera",
+      "postal_code": [
+        "61967"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Higuera",
+      "postal_code": [
+        "61957"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Laja",
+      "postal_code": [
+        "61947",
+        "61966"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Maestranza",
+      "postal_code": [
+        "61972"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Michoacana",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Nopalera",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Papaya",
+      "postal_code": [
+        "61976"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Parota",
+      "postal_code": [
+        "61943",
+        "61952",
+        "61958"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Parotita (Pitayo Manzo)",
+      "postal_code": [
+        "61952"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Piedra",
+      "postal_code": [
+        "61972"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Pinuela",
+      "postal_code": [
+        "61958"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Presa",
+      "postal_code": [
+        "61976"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Puerta de Chiripio",
+      "postal_code": [
+        "61946"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Puerta del Barro",
+      "postal_code": [
+        "61956"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Quetzeria (La Queseria)",
+      "postal_code": [
+        "61963"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Quiringucua",
+      "postal_code": [
+        "61956"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Redonda (La Piedra Redonda)",
+      "postal_code": [
+        "61948"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Rodillera",
+      "postal_code": [
+        "61967"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Las Anonas (Las Anonas de los Jaimes)",
+      "postal_code": [
+        "61959"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Las Caramicuas",
+      "postal_code": [
+        "61964",
+        "61970"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Las Ceibas",
+      "postal_code": [
+        "61946"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Las Ceibas de Pataceo",
+      "postal_code": [
+        "61955"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Las Colonias",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Las Galeras",
+      "postal_code": [
+        "61963"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Las Juntas",
+      "postal_code": [
+        "61956"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Las Trincheras",
+      "postal_code": [
+        "61942"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Tamacua",
+      "postal_code": [
+        "61948"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Tiringucha",
+      "postal_code": [
+        "61942"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Vinata",
+      "postal_code": [
+        "61967"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "La Vuelta Grande",
+      "postal_code": [
+        "61957"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Loma de La Santa Cruz",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Loma de las Rosas",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Los Almendros",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Los Bonetes",
+      "postal_code": [
+        "61959"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Los Ciruelos",
+      "postal_code": [
+        "61965"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Los Cuachalalates",
+      "postal_code": [
+        "61973"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Los Cueramos",
+      "postal_code": [
+        "61950"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Los Gemelos (Agua la Estrella)",
+      "postal_code": [
+        "61978"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Los Hornitos",
+      "postal_code": [
+        "61959"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Los Hornos (La Cacamicua)",
+      "postal_code": [
+        "61974"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Los Lampaces",
+      "postal_code": [
+        "61959"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Los Llanos",
+      "postal_code": [
+        "61944"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Los Otates",
+      "postal_code": [
+        "61974"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Los Quelites (El Quelite)",
+      "postal_code": [
+        "61978"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Mesa de Tototlan",
+      "postal_code": [
+        "61956"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "61957",
+        "61969"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Ojo de Agua de Uro",
+      "postal_code": [
+        "61957"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Otatitos",
+      "postal_code": [
+        "61967"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Palo Seco",
+      "postal_code": [
+        "61964"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Pataceo",
+      "postal_code": [
+        "61955"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Pena Prieta (La Trampa)",
+      "postal_code": [
+        "61948"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Piedras de Lumbre",
+      "postal_code": [
+        "61944"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Pinzanangapio",
+      "postal_code": [
+        "61973"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Pinzandaro",
+      "postal_code": [
+        "61976"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Pirinda",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Piriticuaro",
+      "postal_code": [
+        "61943"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Pito Real",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Pomacuaro",
+      "postal_code": [
+        "61955"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Puertas Cuatas",
+      "postal_code": [
+        "61975"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Puerto del Horcon",
+      "postal_code": [
+        "61958"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Purechucho (El Brasil)",
+      "postal_code": [
+        "61970"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Puruato",
+      "postal_code": [
+        "61945"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Quebrantadero",
+      "postal_code": [
+        "61952"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Quenchendio",
+      "postal_code": [
+        "61947"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Quetzerio",
+      "postal_code": [
+        "61960"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Regional",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Rincon de las Truchas",
+      "postal_code": [
+        "61964"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "San Antonio Tomatlan",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "San Antonio Urapa",
+      "postal_code": [
+        "61940",
+        "61978"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "San Bartolo",
+      "postal_code": [
+        "61975"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Sanchiqueo",
+      "postal_code": [
+        "61969"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "San Ignacio",
+      "postal_code": [
+        "61979"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "San Jeronimo",
+      "postal_code": [
+        "61963"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "San Jose del Palmar",
+      "postal_code": [
+        "61957"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "61976"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "San Miguel Montecillos",
+      "postal_code": [
+        "61954"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "San Nicolas Arroyo Hondo",
+      "postal_code": [
+        "61970"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "61967"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "61944",
+        "61976"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "61956"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Santa Gertrudis",
+      "postal_code": [
+        "61954"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "61957"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "61958"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "61963",
+        "61976"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "61954"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Santiago Conguripo",
+      "postal_code": [
+        "61952"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Suazo Pineda",
+      "postal_code": [
+        "61978"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Tecario",
+      "postal_code": [
+        "61956"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Terrero de los Diaz",
+      "postal_code": [
+        "61958"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Tierra Caliente",
+      "postal_code": [
+        "61955"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Tierras Blancas",
+      "postal_code": [
+        "61946"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Tiriricuaro",
+      "postal_code": [
+        "61946"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Tiristaran",
+      "postal_code": [
+        "61978"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Turitzio",
+      "postal_code": [
+        "61971"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Tziritzicuaro",
+      "postal_code": [
+        "61972"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Unidad Deportiva",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Uro",
+      "postal_code": [
+        "61957"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Uruetaro",
+      "postal_code": [
+        "61959"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Uspio",
+      "postal_code": [
+        "61944"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Viejo de los Diaz",
+      "postal_code": [
+        "61958"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Zacanguirete",
+      "postal_code": [
+        "61947"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Zacualpan",
+      "postal_code": [
+        "61970"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Zapote de los Diaz",
+      "postal_code": [
+        "61958"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Zaragoza",
+      "postal_code": [
+        "61940"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Zicuiran",
+      "postal_code": [
+        "61971"
+      ]
+    },
+    {
+      "city": "Huetamo",
+      "colonia": "Zirucuaro",
+      "postal_code": [
+        "61963"
+      ]
+    }
+  ]
+}

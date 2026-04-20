@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Juan N. Mendez",
+      "colonia": "Animas Guadalupe",
+      "postal_code": [
+        "75694"
+      ]
+    },
+    {
+      "city": "Juan N. Mendez",
+      "colonia": "Atenayuca",
+      "postal_code": [
+        "75690"
+      ]
+    },
+    {
+      "city": "Juan N. Mendez",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "75694"
+      ]
+    },
+    {
+      "city": "Juan N. Mendez",
+      "colonia": "Magdalena Alquizapan",
+      "postal_code": [
+        "75699"
+      ]
+    },
+    {
+      "city": "Juan N. Mendez",
+      "colonia": "San Jeronimo Zoyatitlanapan",
+      "postal_code": [
+        "75698"
+      ]
+    },
+    {
+      "city": "Juan N. Mendez",
+      "colonia": "Zamarrilla de Alvaro Obregon",
+      "postal_code": [
+        "75695"
+      ]
+    }
+  ]
+}

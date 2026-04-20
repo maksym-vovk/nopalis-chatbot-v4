@@ -1,0 +1,599 @@
+{
+  "data": [
+    {
+      "city": "Tlahualilo",
+      "colonia": "1o. de Mayo",
+      "postal_code": [
+        "35253"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "4 de Noviembre",
+      "postal_code": [
+        "35254"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Alfredo V. Bonfil",
+      "postal_code": [
+        "35274"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Alma Campesina",
+      "postal_code": [
+        "35284"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Amapolas",
+      "postal_code": [
+        "35255",
+        "35267"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Balcones",
+      "postal_code": [
+        "35255",
+        "35260"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Banco Nacional",
+      "postal_code": [
+        "35265"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Barcelona",
+      "postal_code": [
+        "35256",
+        "35283"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "35265"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Campana",
+      "postal_code": [
+        "35255"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Canuto Favela",
+      "postal_code": [
+        "35254"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Carolina",
+      "postal_code": [
+        "35256",
+        "35280"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Ceceda",
+      "postal_code": [
+        "35256",
+        "35263"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Cordoba",
+      "postal_code": [
+        "35256",
+        "35283"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Division del Norte",
+      "postal_code": [
+        "35265"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "35255"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "El Brillante",
+      "postal_code": [
+        "35267"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "El Canal",
+      "postal_code": [
+        "35280"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "El Capulin",
+      "postal_code": [
+        "35264"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "El Cuarenta (El Barro)",
+      "postal_code": [
+        "35265"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "El Esterito",
+      "postal_code": [
+        "35264"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "El Lucero (Arcinas)",
+      "postal_code": [
+        "35265"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "El Milagro",
+      "postal_code": [
+        "35263"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "El Nogal",
+      "postal_code": [
+        "35264"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "El Palomar",
+      "postal_code": [
+        "35255"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "El Pilar",
+      "postal_code": [
+        "35264"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "El Renegado (La Noria)",
+      "postal_code": [
+        "35266"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "El Renegado (La Perla)",
+      "postal_code": [
+        "35266"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "El Roble (Tres Tumbas)",
+      "postal_code": [
+        "35264"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "El Veintiocho",
+      "postal_code": [
+        "35274"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Estacion Peronal",
+      "postal_code": [
+        "35274"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Francisco I. Madero (El Quemado)",
+      "postal_code": [
+        "35286"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Francisco Villa (Milpillas)",
+      "postal_code": [
+        "35274"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Garcia Lozano (El Bajo)",
+      "postal_code": [
+        "35266"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Granja Union Pastor Rouaix",
+      "postal_code": [
+        "35266"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "J. Agustin Castro",
+      "postal_code": [
+        "35253"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Jauja",
+      "postal_code": [
+        "35265"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Jesus Garcia",
+      "postal_code": [
+        "35257"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "La Alborada",
+      "postal_code": [
+        "35266"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "La Blanca [Propiedad Privada]",
+      "postal_code": [
+        "35265"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "La Campana",
+      "postal_code": [
+        "35260"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "La Flor",
+      "postal_code": [
+        "35293"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "La Giralda",
+      "postal_code": [
+        "35267"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Las Arcadias (Rancho Grande)",
+      "postal_code": [
+        "35266"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Las Arenas",
+      "postal_code": [
+        "35266"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "La Sierrita",
+      "postal_code": [
+        "35267"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "35253"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Las Teresitas (La Siete)",
+      "postal_code": [
+        "35265"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Las Tortugas",
+      "postal_code": [
+        "35296"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "La Virgen",
+      "postal_code": [
+        "35265"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Loma Verde",
+      "postal_code": [
+        "35255",
+        "35267"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Londres",
+      "postal_code": [
+        "35256",
+        "35280"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Lopez Faudoa",
+      "postal_code": [
+        "35253"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Morelos (La Loma Yermo) [Granja]",
+      "postal_code": [
+        "35297"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Nombre de Dios",
+      "postal_code": [
+        "35270"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Noria Lucero II",
+      "postal_code": [
+        "35266"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Nueva Zaragoza",
+      "postal_code": [
+        "35253"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Nuevo Mexico",
+      "postal_code": [
+        "35266"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Oquendo",
+      "postal_code": [
+        "35256",
+        "35280"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Pamplona",
+      "postal_code": [
+        "35255",
+        "35260"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Pompeya",
+      "postal_code": [
+        "35265"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Providencia",
+      "postal_code": [
+        "35255",
+        "35280"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Rancho el Lucero",
+      "postal_code": [
+        "35265"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Rancho los Cuates (Las Vallas)",
+      "postal_code": [
+        "35275"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Rosas",
+      "postal_code": [
+        "35255",
+        "35280"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "San Bernardo",
+      "postal_code": [
+        "35270"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "San Dionisio",
+      "postal_code": [
+        "35274"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "San Francisco de Horizonte (Horizonte)",
+      "postal_code": [
+        "35265"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "35254"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "San Jose de los alamos",
+      "postal_code": [
+        "35267",
+        "35293"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "San Juan de Banderas",
+      "postal_code": [
+        "35270"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "San Julio",
+      "postal_code": [
+        "35265"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "35274"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "San Martin",
+      "postal_code": [
+        "35264"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "San Miguel del Real",
+      "postal_code": [
+        "35264"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "San Sebastian Dos",
+      "postal_code": [
+        "35267"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Santa Isabel (Las Luisas)",
+      "postal_code": [
+        "35266"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "35264"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Tlahualilo de Zaragoza Centro",
+      "postal_code": [
+        "35250"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Tres Postes",
+      "postal_code": [
+        "35264"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Uruapan",
+      "postal_code": [
+        "35266"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Valencia",
+      "postal_code": [
+        "35255",
+        "35283"
+      ]
+    },
+    {
+      "city": "Tlahualilo",
+      "colonia": "Zaragoza",
+      "postal_code": [
+        "35257"
+      ]
+    }
+  ]
+}

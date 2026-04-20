@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "San Andres Teotilalpam",
+      "colonia": "Constitucion",
+      "postal_code": [
+        "68633"
+      ]
+    },
+    {
+      "city": "San Andres Teotilalpam",
+      "colonia": "Flor Batavia",
+      "postal_code": [
+        "68630"
+      ]
+    },
+    {
+      "city": "San Andres Teotilalpam",
+      "colonia": "Lucrecia",
+      "postal_code": [
+        "68633"
+      ]
+    },
+    {
+      "city": "San Andres Teotilalpam",
+      "colonia": "San Andres Teotilalpam",
+      "postal_code": [
+        "68631"
+      ]
+    },
+    {
+      "city": "San Andres Teotilalpam",
+      "colonia": "Santa Cruz Teotilalpan",
+      "postal_code": [
+        "68632"
+      ]
+    }
+  ]
+}

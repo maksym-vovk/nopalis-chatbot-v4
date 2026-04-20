@@ -1,0 +1,1822 @@
+{
+  "data": [
+    {
+      "city": "Los Cabos",
+      "colonia": "4 de Marzo",
+      "postal_code": [
+        "23472"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "5 de Febrero",
+      "postal_code": [
+        "23406"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "8 de Octubre",
+      "postal_code": [
+        "23406"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Acuario",
+      "postal_code": [
+        "23456"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Aeropuerto",
+      "postal_code": [
+        "23420"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Agua Caliente",
+      "postal_code": [
+        "23510"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Agua Clara",
+      "postal_code": [
+        "23473"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Altamira",
+      "postal_code": [
+        "23473"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Altamira Condominios Plus",
+      "postal_code": [
+        "23473"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Altos de Miramar",
+      "postal_code": [
+        "23456"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Amalfi",
+      "postal_code": [
+        "23467"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Ampliacion 4 de Marzo",
+      "postal_code": [
+        "23470"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Ampliacion Juarez",
+      "postal_code": [
+        "23469"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Ampliacion Mariano Matamoros",
+      "postal_code": [
+        "23460"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Ampliacion Veredas",
+      "postal_code": [
+        "23434"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Ampliacion Vista Hermosa",
+      "postal_code": [
+        "23427"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Animas Altas",
+      "postal_code": [
+        "23407"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Animas Bajas",
+      "postal_code": [
+        "23407"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Arco Iris",
+      "postal_code": [
+        "23456"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Arcos del Sol",
+      "postal_code": [
+        "23474"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Arcos del Sol II",
+      "postal_code": [
+        "23478"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Arenal",
+      "postal_code": [
+        "23460"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Aura Residencial",
+      "postal_code": [
+        "23462"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Auroras",
+      "postal_code": [
+        "23473"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Balcones",
+      "postal_code": [
+        "23456"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Bella Vista",
+      "postal_code": [
+        "23456"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "23469"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Boca de la Sierra",
+      "postal_code": [
+        "23520"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Boca del Saucito",
+      "postal_code": [
+        "23593"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Brisas del Pacifico",
+      "postal_code": [
+        "23473"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Brisas del Pacifico Codepa",
+      "postal_code": [
+        "23473"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "23580",
+        "23597"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "23436",
+        "23456"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "23456"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Cabo Bello",
+      "postal_code": [
+        "23455"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Cabo Colorado",
+      "postal_code": [
+        "23405"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Cabo del Mar",
+      "postal_code": [
+        "23454"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Cabo Fierro",
+      "postal_code": [
+        "23477"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Cabo Hills Villas",
+      "postal_code": [
+        "23473"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Cabo Pulmo",
+      "postal_code": [
+        "23574"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Cabo Real",
+      "postal_code": [
+        "23405"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Cabo San Lucas Centro",
+      "postal_code": [
+        "23450"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Cabo San Lucas Country Club",
+      "postal_code": [
+        "23463"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Cabo Toscana",
+      "postal_code": [
+        "23467"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Caduano",
+      "postal_code": [
+        "23530"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Casa Blanca",
+      "postal_code": [
+        "23473"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Casa Mexicana",
+      "postal_code": [
+        "23467"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Celeste Residencial",
+      "postal_code": [
+        "23477"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Cerro de los Venados",
+      "postal_code": [
+        "23473",
+        "23473"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Cerro del Vigia",
+      "postal_code": [
+        "23406"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Chulavista",
+      "postal_code": [
+        "23477"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Chula Vista",
+      "postal_code": [
+        "23443"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Club Campestre el Madrigal",
+      "postal_code": [
+        "23522"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Club Campestre San Jose",
+      "postal_code": [
+        "23406"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Club de Golf FONATUR",
+      "postal_code": [
+        "23405"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Colinas de Cabo Baja",
+      "postal_code": [
+        "23456"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Colinas Plus",
+      "postal_code": [
+        "23444"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Colinas San Jose",
+      "postal_code": [
+        "23427"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Coral Baja",
+      "postal_code": [
+        "23405"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Coromuel",
+      "postal_code": [
+        "23469"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Costa Azul",
+      "postal_code": [
+        "23406"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Costa Dorada",
+      "postal_code": [
+        "23420",
+        "23434"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Coto San Diego",
+      "postal_code": [
+        "23467"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Country del Mar",
+      "postal_code": [
+        "23444"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Cresta del Mar",
+      "postal_code": [
+        "23467"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Cumbres del Tezal",
+      "postal_code": [
+        "23454"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Don Martin",
+      "postal_code": [
+        "23570"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Ejidal",
+      "postal_code": [
+        "23470"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "El Aguajito",
+      "postal_code": [
+        "23443"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "El Campamento",
+      "postal_code": [
+        "23560"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "El Caribe",
+      "postal_code": [
+        "23477"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "El Caribe Bajo",
+      "postal_code": [
+        "23462"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "El Encanto de la Laguna",
+      "postal_code": [
+        "23403"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "El Epazote",
+      "postal_code": [
+        "23501"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "El Limon",
+      "postal_code": [
+        "23437"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "El Medano",
+      "postal_code": [
+        "23453"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "El Palmar",
+      "postal_code": [
+        "23456"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "23453"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "El Progreso",
+      "postal_code": [
+        "23477"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "23530",
+        "23586"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "23500"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "El Sauzal",
+      "postal_code": [
+        "23593"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "El Tesoro Residencial",
+      "postal_code": [
+        "23473"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "El Tezal",
+      "postal_code": [
+        "23454"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "El Zacatal",
+      "postal_code": [
+        "23427",
+        "23500"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Estrella de Mar",
+      "postal_code": [
+        "23456"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "FOVISSSTE las Veredas",
+      "postal_code": [
+        "23435"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Gardenias",
+      "postal_code": [
+        "23473"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Gringos Hill",
+      "postal_code": [
+        "23406"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Guaymitas",
+      "postal_code": [
+        "23407"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Hacienda Encantada",
+      "postal_code": [
+        "23455"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Hemisferia",
+      "postal_code": [
+        "23475"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Hermitage",
+      "postal_code": [
+        "23467"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Hojazen",
+      "postal_code": [
+        "23473"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Ildefonso Green",
+      "postal_code": [
+        "23470"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "INFONAVIT",
+      "postal_code": [
+        "23435"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "INFONAVIT Nuevo",
+      "postal_code": [
+        "23473"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "INFONAVIT Viejo",
+      "postal_code": [
+        "23468"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Inova",
+      "postal_code": [
+        "23474"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Invi San Jose Viejo",
+      "postal_code": [
+        "23426"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Invi Santa Anita",
+      "postal_code": [
+        "23420"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Jacarandas",
+      "postal_code": [
+        "23473"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Jardines del Sol",
+      "postal_code": [
+        "23474"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Jazmines",
+      "postal_code": [
+        "23456"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Jesus Castro Agundes",
+      "postal_code": [
+        "23440"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "La Antigua",
+      "postal_code": [
+        "23405"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "La Ballena",
+      "postal_code": [
+        "23426",
+        "23581"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "La Candelaria",
+      "postal_code": [
+        "23590"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "La Choya INFONAVIT",
+      "postal_code": [
+        "23403"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "23470"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "La Darsena",
+      "postal_code": [
+        "23450"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "23474"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Lagunitas",
+      "postal_code": [
+        "23462"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "La Joya de los Cabos",
+      "postal_code": [
+        "23405"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "La Marina",
+      "postal_code": [
+        "23453"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "La Noria",
+      "postal_code": [
+        "23454"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "La Palmilla",
+      "postal_code": [
+        "23522"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "La Playa",
+      "postal_code": [
+        "23403"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "La Ribera",
+      "postal_code": [
+        "23570"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Las Barrancas",
+      "postal_code": [
+        "23575"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Las Casitas",
+      "postal_code": [
+        "23522"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Las Cuevas",
+      "postal_code": [
+        "23560"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Las Dunas",
+      "postal_code": [
+        "23437"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Las Misiones",
+      "postal_code": [
+        "23467"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "23477",
+        "23477"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Las Residencias",
+      "postal_code": [
+        "23455"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Las Veredas",
+      "postal_code": [
+        "23435"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Las Villas del Tezal",
+      "postal_code": [
+        "23454"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "La Vista",
+      "postal_code": [
+        "23454"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Leonardo Gastelum Quinta Etapa",
+      "postal_code": [
+        "23462"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Leonardo Rodriguez Gastelum",
+      "postal_code": [
+        "23462"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Libertad",
+      "postal_code": [
+        "23470"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Lienzo Charro Centro",
+      "postal_code": [
+        "23470"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Loma Cruz",
+      "postal_code": [
+        "23426"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Loma Encantada",
+      "postal_code": [
+        "23405"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Lomas Altas",
+      "postal_code": [
+        "23472"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Lomas de Guaymitas",
+      "postal_code": [
+        "23445"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Lomas de La Jolla",
+      "postal_code": [
+        "23406"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Lomas del Cabo",
+      "postal_code": [
+        "23456"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Lomas del Faro Viejo",
+      "postal_code": [
+        "23472"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Lomas del Pacifico",
+      "postal_code": [
+        "23473"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Lomas del Sol",
+      "postal_code": [
+        "23477"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Lomas del Valle",
+      "postal_code": [
+        "23477"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Lomas de Rosarito",
+      "postal_code": [
+        "23444"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Los Cangrejos",
+      "postal_code": [
+        "23473"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Los Pozos",
+      "postal_code": [
+        "23593"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "23444"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Luna del Tezal",
+      "postal_code": [
+        "23454"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "23472"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Magisterial Viva",
+      "postal_code": [
+        "23477"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Mananitas",
+      "postal_code": [
+        "23405"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Mariano Matamoros",
+      "postal_code": [
+        "23468"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Matancitas",
+      "postal_code": [
+        "23500"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Mauricio Castro",
+      "postal_code": [
+        "23443"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Mediterranea",
+      "postal_code": [
+        "23454"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Mesa Colorada",
+      "postal_code": [
+        "23462"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Mesa Colorada II",
+      "postal_code": [
+        "23462"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Mesa Colorada III",
+      "postal_code": [
+        "23462"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Milpillas",
+      "postal_code": [
+        "23500"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Miraflores",
+      "postal_code": [
+        "23520"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Miramar",
+      "postal_code": [
+        "23456"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Misiones del Cabo",
+      "postal_code": [
+        "23455"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Misiones de Santa Fe",
+      "postal_code": [
+        "23477"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Modulo Turistico",
+      "postal_code": [
+        "23450"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Monte Bello Condominio Plus",
+      "postal_code": [
+        "23427"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Monte Real Residencial",
+      "postal_code": [
+        "23444"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Mykonos",
+      "postal_code": [
+        "23405"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Nucleo Agrario",
+      "postal_code": [
+        "23472"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Nueva Ejidal",
+      "postal_code": [
+        "23470"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Oasis",
+      "postal_code": [
+        "23434"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Obrera",
+      "postal_code": [
+        "23472"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Pablo L Martinez",
+      "postal_code": [
+        "23444"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Palmilla",
+      "postal_code": [
+        "23405"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Paraiso",
+      "postal_code": [
+        "23456"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Paraiso del Sol",
+      "postal_code": [
+        "23462"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Penjamo",
+      "postal_code": [
+        "23434"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Plaza Bonita",
+      "postal_code": [
+        "23450"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Plaza del Marlin",
+      "postal_code": [
+        "23450"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Plaza del Sol",
+      "postal_code": [
+        "23450"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Plaza las Glorias",
+      "postal_code": [
+        "23450"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Plaza Nautica",
+      "postal_code": [
+        "23450"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Plaza Real",
+      "postal_code": [
+        "23450"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Portales",
+      "postal_code": [
+        "23473"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Primero de Mayo",
+      "postal_code": [
+        "23406"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Privada Perla",
+      "postal_code": [
+        "23456"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Privanzas",
+      "postal_code": [
+        "23454"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Progreso",
+      "postal_code": [
+        "23477"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Pueblo Bonito Montecristo",
+      "postal_code": [
+        "23456"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Pueblo Bonito Palacio",
+      "postal_code": [
+        "23456"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Pueblo Bonito Sunset",
+      "postal_code": [
+        "23456"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Pueblo Nuevo",
+      "postal_code": [
+        "23462"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Puerta de Hierro",
+      "postal_code": [
+        "23467"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Puerta del Mar",
+      "postal_code": [
+        "23454"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Puerto Nuevo",
+      "postal_code": [
+        "23426"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Punta Arena",
+      "postal_code": [
+        "23454",
+        "23467"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Punta Ballena",
+      "postal_code": [
+        "23455"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Quintas California",
+      "postal_code": [
+        "23456"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Rancho Cerro Colorado",
+      "postal_code": [
+        "23405"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Rancho Paraiso",
+      "postal_code": [
+        "23454"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Real del Monte",
+      "postal_code": [
+        "23420"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Real de Miramar",
+      "postal_code": [
+        "23456"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Real Unidad",
+      "postal_code": [
+        "23462"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Reforma",
+      "postal_code": [
+        "23473"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Residencial Cabo del Sol",
+      "postal_code": [
+        "23455"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Residencial Ciruelos",
+      "postal_code": [
+        "23467"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Residencial La Cima",
+      "postal_code": [
+        "23454"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Residencial La Pena",
+      "postal_code": [
+        "23477"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Residencial Maranata",
+      "postal_code": [
+        "23454"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Residencial Olamar",
+      "postal_code": [
+        "23455"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Residencial Puerta del Sol",
+      "postal_code": [
+        "23467"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Residencial San Jeronimo",
+      "postal_code": [
+        "23467"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Residencial San Luciano",
+      "postal_code": [
+        "23454"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Reyna Avalos",
+      "postal_code": [
+        "23467"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Rinconada La Huerta",
+      "postal_code": [
+        "23407"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Rincon de la Playa",
+      "postal_code": [
+        "23403"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Rincon de Miramar",
+      "postal_code": [
+        "23456"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Rosa Delia",
+      "postal_code": [
+        "23477"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Rosarito",
+      "postal_code": [
+        "23407"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "23455"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "San Bernabe",
+      "postal_code": [
+        "23436"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "23434"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "San Felipe",
+      "postal_code": [
+        "23581"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "San Jose del Cabo Centro",
+      "postal_code": [
+        "23400"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "San Jose del Cabo (Los Cabos)",
+      "postal_code": [
+        "23429"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "San Jose Viejo",
+      "postal_code": [
+        "23437"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Santa Anita",
+      "postal_code": [
+        "23420"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Santa Barbara",
+      "postal_code": [
+        "23473",
+        "23500"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Santa Carmela",
+      "postal_code": [
+        "23455"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Santa Catarina",
+      "postal_code": [
+        "23425"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "23567"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "23428"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Santiago",
+      "postal_code": [
+        "23500"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "San Vicente",
+      "postal_code": [
+        "23403"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Sierra Dorada",
+      "postal_code": [
+        "23467"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Tabachines",
+      "postal_code": [
+        "23460"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Tamar Residencial",
+      "postal_code": [
+        "23467"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Terranova",
+      "postal_code": [
+        "23473"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Terrasol",
+      "postal_code": [
+        "23453"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Terrazas Costa Azul",
+      "postal_code": [
+        "23406"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Terrazas las Fuentes",
+      "postal_code": [
+        "23467"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Tierra y Libertad",
+      "postal_code": [
+        "23477"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Ventanas de Cabo",
+      "postal_code": [
+        "23454"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Ventanas del Cortes",
+      "postal_code": [
+        "23454"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Ventanas del Mar",
+      "postal_code": [
+        "23454"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Villa Bonita",
+      "postal_code": [
+        "23434"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Villa Neptuno",
+      "postal_code": [
+        "23467"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Villas de Cortez",
+      "postal_code": [
+        "23427"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Villas de La Joya",
+      "postal_code": [
+        "23406",
+        "23474"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Villa Serena",
+      "postal_code": [
+        "23455"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Vista Bahia",
+      "postal_code": [
+        "23454"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Vista Colorada",
+      "postal_code": [
+        "23405"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Vista de Cortes",
+      "postal_code": [
+        "23467"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "23427",
+        "23473"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Vistana",
+      "postal_code": [
+        "23454"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Vista Real",
+      "postal_code": [
+        "23467"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Zona Ejidal",
+      "postal_code": [
+        "23460"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Zona Hotelera",
+      "postal_code": [
+        "23454"
+      ]
+    },
+    {
+      "city": "Los Cabos",
+      "colonia": "Zona Hotelera San Jose del Cabo",
+      "postal_code": [
+        "23405"
+      ]
+    }
+  ]
+}

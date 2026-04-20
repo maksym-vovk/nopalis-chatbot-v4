@@ -1,0 +1,2956 @@
+{
+  "data": [
+    {
+      "city": "alamos",
+      "colonia": "5 de Febrero La Campana",
+      "postal_code": [
+        "85764"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Abachapa",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Agua Blanca",
+      "postal_code": [
+        "85770",
+        "85770",
+        "85770",
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Agua Caliente de Antero (Agua Caliente)",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Agua Fria",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Aguaje del Chino",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Aguaje Grande",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Agua Nueva",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Agua Salada",
+      "postal_code": [
+        "85773",
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Agua Tapada",
+      "postal_code": [
+        "85773",
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "alamo Dorado",
+      "postal_code": [
+        "85767"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "alamos 5 de Febrero",
+      "postal_code": [
+        "85767"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "alamos Centro",
+      "postal_code": [
+        "85760"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Antonico",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Aquinavo",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Argentina",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Arnoldo Acosta",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Arroyo Hondo",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Aurora",
+      "postal_code": [
+        "85767"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Baboyagui",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Bacajaqui",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Bachaca",
+      "postal_code": [
+        "85776",
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Barumico",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Batarimocha",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Bavicora",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Borbon",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "85770",
+        "85773",
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Burapaco",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Burapaquito",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "California (Santa Monica)",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Campamento de la CFE",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Campamento las Casitas (El Mocuzarit)",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Campo 24-A",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Campo Nuevo",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Casas Coloradas",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Cerro Blanco [El Gringo]",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Chacari",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Chicoras",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Chinahuiro",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Chinajaque",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Chinatopa",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Choquinahui (El Cobre)",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Chorijoa",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Chula Vista",
+      "postal_code": [
+        "85764"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Churubusco",
+      "postal_code": [
+        "85766"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Cieneguita",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Cochibampo",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Cochuhuerito",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Compostela de las Amapas",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Corogüi",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Crianza (Bachoco 3264)",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Cuchuhuari",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Cuchuhueri",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Cuchujaqui",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Cuesta Blanca",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "DIF",
+      "postal_code": [
+        "85767"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Dolisa (Presa el Veranito)",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Dos Hermanos",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Ejido Severino Ceniceros (Cerro Pelon)",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Alamillo (Las Pitahayitas)",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Amapal",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Babojori",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Baiquillo",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Barazon",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Barranco",
+      "postal_code": [
+        "85764"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Bebedero",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Borbollon",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Cajon",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Cajoncito",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Cajon del Sabino (El Cajon)",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Calvario",
+      "postal_code": [
+        "85765"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Campamento de la CNA",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Campamento Viejo de la CNA",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Caracol",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Centro",
+      "postal_code": [
+        "85770",
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Cerco de Boon",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Chalate",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Chalaton",
+      "postal_code": [
+        "85766"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Charuco",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Chichal",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Chicural (Aniceto)",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Chiflido",
+      "postal_code": [
+        "85773",
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Chiflido (El Chicural)",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Chirivo",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Chupadero",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Churubusco",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Copas (La Noria)",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Corcovado",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Coso",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Datil",
+      "postal_code": [
+        "85773",
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Divisadero (El Mezquite Cuate)",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Encino",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Eucalipto",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Frijol",
+      "postal_code": [
+        "85774",
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Garabato (Los Dos Hermanos)",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Garambullo",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Gran Chaparral",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Guacaporo",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Guajolote",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Guamuchil",
+      "postal_code": [
+        "85773",
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Guasimal",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Guayabo",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Infiernito",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Maquipito",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Maquipo",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Mezquital",
+      "postal_code": [
+        "85767",
+        "85770",
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Mirasol",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Mocuzari (Conicarit)",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Molino",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Nacapul",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Naranjo",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Ojo de Agua",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Palomar (Canada)",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Palomo",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Papalote",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Paredon Blanco",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Penasco Blanco",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Perico",
+      "postal_code": [
+        "85765"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "85773",
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Potrero",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Potrillo",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Puerto",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "85773",
+        "85773",
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Rastro",
+      "postal_code": [
+        "85764"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Reparo",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Retiro",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Reventon",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "85773",
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Rincon Viejo",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Rodeo",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Sabinal (Arroyo Grande)",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Sabino",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Sabino Grande (El Sabino)",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Sauce",
+      "postal_code": [
+        "85775",
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Sauz",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Sombrerito",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Tabelito",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Tabelo (San Jose del Tabelo)",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Taray",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Tepehuaje",
+      "postal_code": [
+        "85770",
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Tepustete",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Tezal",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Trigo",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Tuburi",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Vado",
+      "postal_code": [
+        "85773",
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Veranito",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Volantin",
+      "postal_code": [
+        "85765"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Ferrocarril",
+      "postal_code": [
+        "85767"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Fundicion",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "General Francisco Villa",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "General Francisco Villa Division del Norte",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Gochico Nuevo",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Gochico Viejo",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Gocojaqui",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Gocopiro",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Goriego",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Gran Chaparron",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "85773",
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Guadalupe (Los Encinos)",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Guajaray",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Guamuchilito",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Guataturi",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Guayparin",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Hacienda Vieja",
+      "postal_code": [
+        "85764"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Huicochic",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Huirocoba",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Huirubampo",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Jamochihuasa",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Jecopaco (San Antonio)",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Jobegüi",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Joconas",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Juchica",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Jurinavo",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Aceituna",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Aduana",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Aviacion",
+      "postal_code": [
+        "85767"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Batea",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Bebelama",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Cabana",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Campana",
+      "postal_code": [
+        "85764"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Cana",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Canada del Agua",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Capilla",
+      "postal_code": [
+        "85767"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Casita",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Chuna",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Cieneguilla",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Cieneguita",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Colorada",
+      "postal_code": [
+        "85765"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Concepcion",
+      "postal_code": [
+        "85770",
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Cuarentenaria",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Cuchilla",
+      "postal_code": [
+        "85773",
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Esmeralda",
+      "postal_code": [
+        "85767"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Esperanza (Testapochi)",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Estacion",
+      "postal_code": [
+        "85764"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Haciendita",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Higuera",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Hortaliza",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Huerta",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Huerta de los Ricos",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Independencia",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Isleta",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Junta",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Laborcita",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Labor de Santa Lucia (El Mezquital)",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Labor Grande",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Ladrillera",
+      "postal_code": [
+        "85767",
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Lecheria",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Majada",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Mesa",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Mezcalera",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Mina de la Cruz",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Mojonera",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Noria",
+      "postal_code": [
+        "85770",
+        "85773",
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Palma",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Pasadita (Tres Marias)",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Pionia",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Presa",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Quintera",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Reforma",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Algarrobas",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Amapas [Agropecuaria]",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las animas",
+      "postal_code": [
+        "85770",
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Sauceda",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Burras",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Cabras",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Canoas",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Cebollas",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Chicuritas (Agua Cercada)",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Choyitas",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Cuevas",
+      "postal_code": [
+        "85774",
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Delicias",
+      "postal_code": [
+        "85764"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Garzas",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Gemelas",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Güijas",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Higueras",
+      "postal_code": [
+        "85765"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Sierrita",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Lajas",
+      "postal_code": [
+        "85770",
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Lajitas",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Lomas",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Mercedes",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Minitas",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Mojarras",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Norias",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "85766"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Panelas",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Pitahayitas",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Plomosas",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Rastras",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Sardinas",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Tablas",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Uvalamas",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Viboras",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Viguitas",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Vinoramas",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Las Viruelas",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Tescalama",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Tinajera",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Toma de Agua",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Tribuna (Cuernavaca)",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Urraca",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Uvalama",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Ventana",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Vinata",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Vinateria",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "La Zata",
+      "postal_code": [
+        "85773",
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Loma de Guadalupe",
+      "postal_code": [
+        "85765"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Loma del Sabino",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Algodones",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Amoles",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Arenales",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Becerros",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Brasiles",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Bustillos",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Camotes (San Jose del Palmar)",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Cangrejos",
+      "postal_code": [
+        "85765"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Coyotes",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Cuates",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Encinitos",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Encinos",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Estrados",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Ganchos",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Guayparines",
+      "postal_code": [
+        "85766"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Guayparines Sonochihua",
+      "postal_code": [
+        "85766"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Güicos",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Jicotes",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Josos",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Llanos",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Llanos de Benito",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Mezcales",
+      "postal_code": [
+        "85770",
+        "85773",
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Mezquitos",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Mimbres (El Pinto)",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Molinos",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Otates",
+      "postal_code": [
+        "85774",
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Sonogoris",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Tanques",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Valles",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Los Vergeles",
+      "postal_code": [
+        "85767"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Macoyahui",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Maranatha (Argentina)",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Margarita Valenzuela",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Mascuragüi",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Mesa Colorada",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Mexiquillo",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Minas Nuevas",
+      "postal_code": [
+        "85773",
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Miramar",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Mochibampo",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Mochomobampo",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Monte",
+      "postal_code": [
+        "85765"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Monterrey (Bachoco 3265)",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Munihuasa",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Mutica",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Nacapul",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Nacapule",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Nahuibampo",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Nasubampo",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Nueva Creacion",
+      "postal_code": [
+        "85767"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Nueva Esmeralda",
+      "postal_code": [
+        "85767"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Nuevo alamos",
+      "postal_code": [
+        "85766"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Nuevo Amanecer",
+      "postal_code": [
+        "85767"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Nuevo Piedras Verdes",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Ojo Prieto",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Olas Altas 4",
+      "postal_code": [
+        "85764"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Osobampo",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Palmarito",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Palo Injerto",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Palos Chinos",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Paparique",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Paraje Colorado",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Paredones",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Pie de la Cuesta",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Piedras Blancas",
+      "postal_code": [
+        "85776",
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Potrerillos",
+      "postal_code": [
+        "85770",
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Potrero de Alcantar",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Potrero de Reuter",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Pozo Viejo",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Predio Santa Anita",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Presa de Corrales",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Presa de Denis",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Puerta de Mano",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Rancherias",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Rancho Jayze",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Rancho Piedras Blancas (La Presa)",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "85770",
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Real de los alamos",
+      "postal_code": [
+        "85766"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Real de Minas",
+      "postal_code": [
+        "85764"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Roberto Valenzuela",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Roman Yocupicio (El Ranchito)",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Sabinito Sur",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Sahuarivo",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "San Agustin de la Palma",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "San Alfonso (La Pasadita)",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "San Andres",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "85773",
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "San Antonio del Cupis",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "San Antonio de los Gonzalez",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "San Antonio de los Lopez",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "San Bernardo",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "San Jose",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "San Juan",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "San Manuel",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "San Martin",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "85770",
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "85770",
+        "85770",
+        "85773",
+        "85773",
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "San Rafael del Sabino (El Sabinito)",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "San Ramon (El Mezquital)",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Santa Amalia (El Toro)",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Santa Anita",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Santa Barbara",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "85775"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "San Vicente del Cupis",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Satajaqui",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Sejaqui",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Setajaqui (Setajaqui del Rio)",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Sobia",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Sotorijaqui",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Tabelojaqui",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Tacubaya El Perico",
+      "postal_code": [
+        "85765"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Tasajera",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Tascate",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Taymuco",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Techobampo",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Tecoripa",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Tepara",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Tepopa",
+      "postal_code": [
+        "85774",
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Tetacora",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Tetacruz",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Tetagiosa",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Tobari",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Todos Santos",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Tojibampo",
+      "postal_code": [
+        "85770",
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Topiyeca",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Tres Marias",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Tres Marias (Bachoco 3261)",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Tres Marias (Bachoco 3262)",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Tres Marias (Bachoco 3263)",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Vado Cuate",
+      "postal_code": [
+        "85770"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Vinateria",
+      "postal_code": [
+        "85774"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Yocojigua",
+      "postal_code": [
+        "85776"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Yoricarichic",
+      "postal_code": [
+        "85773"
+      ]
+    },
+    {
+      "city": "alamos",
+      "colonia": "Zacatemato",
+      "postal_code": [
+        "85770"
+      ]
+    }
+  ]
+}

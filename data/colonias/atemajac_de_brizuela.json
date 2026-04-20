@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Atemajac de Brizuela",
+      "colonia": "Atemajac de Brizuela",
+      "postal_code": [
+        "45790"
+      ]
+    },
+    {
+      "city": "Atemajac de Brizuela",
+      "colonia": "Lagunillas",
+      "postal_code": [
+        "45798"
+      ]
+    },
+    {
+      "city": "Atemajac de Brizuela",
+      "colonia": "Las Varillas",
+      "postal_code": [
+        "45796"
+      ]
+    },
+    {
+      "city": "Atemajac de Brizuela",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "45799"
+      ]
+    }
+  ]
+}

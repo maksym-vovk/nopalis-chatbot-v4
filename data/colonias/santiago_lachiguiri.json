@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Santiago Lachiguiri",
+      "colonia": "Guigovelaga",
+      "postal_code": [
+        "70705"
+      ]
+    },
+    {
+      "city": "Santiago Lachiguiri",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "70707"
+      ]
+    },
+    {
+      "city": "Santiago Lachiguiri",
+      "colonia": "Santa Maria Coatlan Nativitas",
+      "postal_code": [
+        "70705"
+      ]
+    },
+    {
+      "city": "Santiago Lachiguiri",
+      "colonia": "Santiago Lachiguiri",
+      "postal_code": [
+        "70706"
+      ]
+    },
+    {
+      "city": "Santiago Lachiguiri",
+      "colonia": "Villa la Esperanza (Ocotal)",
+      "postal_code": [
+        "70705"
+      ]
+    }
+  ]
+}

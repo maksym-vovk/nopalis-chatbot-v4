@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "San Juan Lachigalla",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "71578"
+      ]
+    },
+    {
+      "city": "San Juan Lachigalla",
+      "colonia": "Progreso",
+      "postal_code": [
+        "71576"
+      ]
+    },
+    {
+      "city": "San Juan Lachigalla",
+      "colonia": "San Andres Nino",
+      "postal_code": [
+        "71575"
+      ]
+    },
+    {
+      "city": "San Juan Lachigalla",
+      "colonia": "San Juan Lachigalla",
+      "postal_code": [
+        "71575"
+      ]
+    },
+    {
+      "city": "San Juan Lachigalla",
+      "colonia": "Santiago la Libertad",
+      "postal_code": [
+        "71576"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1451 @@
+{
+  "data": [
+    {
+      "city": "Monclova",
+      "colonia": "10 de Mayo",
+      "postal_code": [
+        "25717"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "18 de Marzo",
+      "postal_code": [
+        "25760"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "1 de Mayo",
+      "postal_code": [
+        "25760"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "21 de Marzo",
+      "postal_code": [
+        "25733",
+        "25747"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "23 de Abril",
+      "postal_code": [
+        "25748"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "2 de Abril",
+      "postal_code": [
+        "25743"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "5 de Abril",
+      "postal_code": [
+        "25732"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Aguanaval",
+      "postal_code": [
+        "25730"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Aguilar",
+      "postal_code": [
+        "25770"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Aguilar 3er Sector",
+      "postal_code": [
+        "25776"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Ampliacion Barrera",
+      "postal_code": [
+        "25743"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Ampliacion las Flores",
+      "postal_code": [
+        "25775"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Ampliacion Roma",
+      "postal_code": [
+        "25717"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Anahuac",
+      "postal_code": [
+        "25750"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Andalucia",
+      "postal_code": [
+        "25770"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "25725"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Asturias",
+      "postal_code": [
+        "25790"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Azteca",
+      "postal_code": [
+        "25756"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Barrera",
+      "postal_code": [
+        "25770"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Benavides",
+      "postal_code": [
+        "25760"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Braulio Fernandez Aguirre",
+      "postal_code": [
+        "25767"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Brisas del Rio",
+      "postal_code": [
+        "25734"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Brisas del Valle",
+      "postal_code": [
+        "25724"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Brisas Norte",
+      "postal_code": [
+        "25725"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "25770"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "25718"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Burocratas",
+      "postal_code": [
+        "25790"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Calderon",
+      "postal_code": [
+        "25780"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Campestre",
+      "postal_code": [
+        "25733"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Canada Norte",
+      "postal_code": [
+        "25760"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Canada Poniente",
+      "postal_code": [
+        "25768"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Canada Sur",
+      "postal_code": [
+        "25760"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Canada Sureste",
+      "postal_code": [
+        "25766"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Capichola",
+      "postal_code": [
+        "25845"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Carlos Salinas de Gortari",
+      "postal_code": [
+        "25790"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Carmen Serdan",
+      "postal_code": [
+        "25780"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Carranza",
+      "postal_code": [
+        "25760"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Carrizalejo",
+      "postal_code": [
+        "25845"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Chamizal",
+      "postal_code": [
+        "25720"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Chapultepec",
+      "postal_code": [
+        "25730"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Chinameca",
+      "postal_code": [
+        "25748"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Ciudad Sanitaria",
+      "postal_code": [
+        "25747"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Colinas de Santiago",
+      "postal_code": [
+        "25790"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Conjunto Acero",
+      "postal_code": [
+        "25734"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Continental",
+      "postal_code": [
+        "25740"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Contry Residencial",
+      "postal_code": [
+        "25720"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Cordoba",
+      "postal_code": [
+        "25775"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Curva de Juan Sanchez",
+      "postal_code": [
+        "25785"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Del Prado",
+      "postal_code": [
+        "25730"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Del Rio",
+      "postal_code": [
+        "25748"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Del Valle",
+      "postal_code": [
+        "25730"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Deportiva",
+      "postal_code": [
+        "25750"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Deportivo",
+      "postal_code": [
+        "25760"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Ejidal",
+      "postal_code": [
+        "25760"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "El Bragado",
+      "postal_code": [
+        "25853"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "El Campanario",
+      "postal_code": [
+        "25743"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Eliseo Mendoza Berrueto",
+      "postal_code": [
+        "25747"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Elizondo",
+      "postal_code": [
+        "25760"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "El Milagro",
+      "postal_code": [
+        "25730"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "El Mimbre",
+      "postal_code": [
+        "25853"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "El Oro",
+      "postal_code": [
+        "25847"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "El Oro (Nuevo Poblado el Oro)",
+      "postal_code": [
+        "25844"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "El Potrero",
+      "postal_code": [
+        "25770"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "El Pueblo",
+      "postal_code": [
+        "25730"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "El Roble",
+      "postal_code": [
+        "25776"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Elsa Hernandez",
+      "postal_code": [
+        "25725"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "25740"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Emiliano Zapata Sur",
+      "postal_code": [
+        "25767"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Escorial",
+      "postal_code": [
+        "25720"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Esmeralda",
+      "postal_code": [
+        "25748"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Estableros del Norte",
+      "postal_code": [
+        "25734"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Estacion Fierro (Fierro)",
+      "postal_code": [
+        "25780"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Estancias de San Juan Bautista",
+      "postal_code": [
+        "25733"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Estancias de Santa Ana",
+      "postal_code": [
+        "25734"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Eva Samano de Lopez Mateos",
+      "postal_code": [
+        "25790"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Fraccionamiento 288",
+      "postal_code": [
+        "25776"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Francisco I Madero",
+      "postal_code": [
+        "25720",
+        "25790"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "25734"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "FSTSE las Estancias",
+      "postal_code": [
+        "25734"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Granjas del Rio",
+      "postal_code": [
+        "25734"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "25750"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Guadalupe AHMSA",
+      "postal_code": [
+        "25750"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Guadalupe Camarillo",
+      "postal_code": [
+        "25790"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Guadalupe Murguia",
+      "postal_code": [
+        "25747"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Guadalupe Norte",
+      "postal_code": [
+        "25720"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Guanajuato",
+      "postal_code": [
+        "25730"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Guerrero",
+      "postal_code": [
+        "25740"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Hacienda Real",
+      "postal_code": [
+        "25866"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Heroes del 47",
+      "postal_code": [
+        "25740"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Hipodromo",
+      "postal_code": [
+        "25740",
+        "25746"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Independencia",
+      "postal_code": [
+        "25750"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Industrial",
+      "postal_code": [
+        "25760"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Industrial Sur",
+      "postal_code": [
+        "25790"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Jardines de Guadalupe",
+      "postal_code": [
+        "25730"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Jardines de Guanajuato",
+      "postal_code": [
+        "25730"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Jardines del Valle",
+      "postal_code": [
+        "25730"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Jardines de Montessori",
+      "postal_code": [
+        "25733"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Jardines de Santa Cecilia",
+      "postal_code": [
+        "25720"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Jesus Garcia",
+      "postal_code": [
+        "25720"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Jose de las Fuentes Rodriguez",
+      "postal_code": [
+        "25747"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "La Amistad",
+      "postal_code": [
+        "25776"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "La Cola de Agua",
+      "postal_code": [
+        "25843"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "La Coma",
+      "postal_code": [
+        "25844"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "La Loma",
+      "postal_code": [
+        "25770"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "La Mota",
+      "postal_code": [
+        "25855"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "La Ribera",
+      "postal_code": [
+        "25748"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "La Salle",
+      "postal_code": [
+        "25720"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Las Esperanzas",
+      "postal_code": [
+        "25796"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "25770"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Las Higueras",
+      "postal_code": [
+        "25836"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Las Malvinas",
+      "postal_code": [
+        "25775"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Las Misiones",
+      "postal_code": [
+        "25743"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "25725"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Las Villas",
+      "postal_code": [
+        "25790"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Leandro Valle",
+      "postal_code": [
+        "25718"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Libertad",
+      "postal_code": [
+        "25777"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "25790"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Lomas de La Cantera",
+      "postal_code": [
+        "25758"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Lomas de La Gloria",
+      "postal_code": [
+        "25770"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Lomas de San Miguel",
+      "postal_code": [
+        "25747"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Lomas de Tecolotes",
+      "postal_code": [
+        "25749"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Loma Verde",
+      "postal_code": [
+        "25775"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Los 90s",
+      "postal_code": [
+        "25733"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "25796"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "25733"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Los Bosques",
+      "postal_code": [
+        "25710"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Los Cedros",
+      "postal_code": [
+        "25710"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Los Nogales",
+      "postal_code": [
+        "25730"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "25720"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "25710"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Lucrecia Solano",
+      "postal_code": [
+        "25743"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Magisterio",
+      "postal_code": [
+        "25716"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Maravillas",
+      "postal_code": [
+        "25725"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Margarito Silva",
+      "postal_code": [
+        "25757"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Mezquital del Valle",
+      "postal_code": [
+        "25796"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "25749"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Miguel Ramos Arizpe",
+      "postal_code": [
+        "25780"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Mirador",
+      "postal_code": [
+        "25749"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Mirador Guadalupe",
+      "postal_code": [
+        "25750"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Miravalle",
+      "postal_code": [
+        "25750"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Moderno",
+      "postal_code": [
+        "25770"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Monclova",
+      "postal_code": [
+        "25790"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Monclova 400",
+      "postal_code": [
+        "25775"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Monclova Centro",
+      "postal_code": [
+        "25700"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Nueva Miravalle",
+      "postal_code": [
+        "25750"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Obrera Norte",
+      "postal_code": [
+        "25790"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Obrera Sur",
+      "postal_code": [
+        "25790"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Obrera Sur Sector II",
+      "postal_code": [
+        "25790"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Obrera Sur Sector III",
+      "postal_code": [
+        "25790"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Oscar Flores Tapia",
+      "postal_code": [
+        "25775"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Otilio Montano",
+      "postal_code": [
+        "25796"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Palma",
+      "postal_code": [
+        "25730"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Paloma Cordero de de La Madrid",
+      "postal_code": [
+        "25775"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Patricia Blizzard de Paez",
+      "postal_code": [
+        "25793"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Pedregal de San angel",
+      "postal_code": [
+        "25740"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "PEMEX",
+      "postal_code": [
+        "25718"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Picasso",
+      "postal_code": [
+        "25714"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Pipila",
+      "postal_code": [
+        "25748"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Plan de Guadalupe",
+      "postal_code": [
+        "25747"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Policarpo Cardenas",
+      "postal_code": [
+        "25747"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Posada del Sol",
+      "postal_code": [
+        "25743"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Praderas del Sur",
+      "postal_code": [
+        "25799"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Praderas del Sur 3er Sector",
+      "postal_code": [
+        "25796"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Privada las Nueces",
+      "postal_code": [
+        "25724"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Privanzas Monclova Residencial",
+      "postal_code": [
+        "25734"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Progreso",
+      "postal_code": [
+        "25770"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Purisima",
+      "postal_code": [
+        "25770"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Quinta San Francisco",
+      "postal_code": [
+        "25724"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Regina",
+      "postal_code": [
+        "25720"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "25740"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Rinconada Santa Monica",
+      "postal_code": [
+        "25724"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Rogelio Montemayor Segui",
+      "postal_code": [
+        "25790"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Roma",
+      "postal_code": [
+        "25710"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Rosita",
+      "postal_code": [
+        "25710"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Salitrillos (Yucatan)",
+      "postal_code": [
+        "25851"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Saltillo",
+      "postal_code": [
+        "25730"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "San Antonio del Potrero",
+      "postal_code": [
+        "25770"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "25740"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "25720"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "25740"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "San Jose",
+      "postal_code": [
+        "25770"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "25740",
+        "25748"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "25726",
+        "25866"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "San Salvador",
+      "postal_code": [
+        "25757"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Santa Barbara",
+      "postal_code": [
+        "25740"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Santa Eulalia",
+      "postal_code": [
+        "25793"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "25720"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Santa Isabel",
+      "postal_code": [
+        "25732"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "25730"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Santa Monica",
+      "postal_code": [
+        "25720"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Santiago de la Monclova",
+      "postal_code": [
+        "25776"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Soledad Reyes",
+      "postal_code": [
+        "25740"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Tecnologico",
+      "postal_code": [
+        "25716"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Telefonistas",
+      "postal_code": [
+        "25758"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Teocali",
+      "postal_code": [
+        "25717"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Tierra y Libertad",
+      "postal_code": [
+        "25740"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Universitaria",
+      "postal_code": [
+        "25724"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Valle de San Miguel",
+      "postal_code": [
+        "25743"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Veteranos de la Revolucion",
+      "postal_code": [
+        "25747"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Vicente Armendariz",
+      "postal_code": [
+        "25790"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Victoriano Cepeda",
+      "postal_code": [
+        "25730"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Villarreal",
+      "postal_code": [
+        "25793"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Villas del Norte",
+      "postal_code": [
+        "25734"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Villas de Santa Ana",
+      "postal_code": [
+        "25734"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Williamson",
+      "postal_code": [
+        "25730"
+      ]
+    },
+    {
+      "city": "Monclova",
+      "colonia": "Zona Industrial",
+      "postal_code": [
+        "25756"
+      ]
+    }
+  ]
+}

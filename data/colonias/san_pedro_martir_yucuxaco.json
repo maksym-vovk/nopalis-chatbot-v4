@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Pedro Martir Yucuxaco",
+      "colonia": "Canada Maria",
+      "postal_code": [
+        "69811"
+      ]
+    },
+    {
+      "city": "San Pedro Martir Yucuxaco",
+      "colonia": "Guadalupe Hidalgo",
+      "postal_code": [
+        "69812"
+      ]
+    },
+    {
+      "city": "San Pedro Martir Yucuxaco",
+      "colonia": "San Pedro Martir Yucuxaco",
+      "postal_code": [
+        "69810"
+      ]
+    }
+  ]
+}

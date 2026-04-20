@@ -1,0 +1,854 @@
+{
+  "data": [
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "12 de Octubre",
+      "postal_code": [
+        "63351"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "18 de Septiembre",
+      "postal_code": [
+        "63553"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "19 de Septiembre",
+      "postal_code": [
+        "63330"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "4 de Octubre",
+      "postal_code": [
+        "63565"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Amado Nervo",
+      "postal_code": [
+        "63310",
+        "63550"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Amapa",
+      "postal_code": [
+        "63554"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Aztlan de las Garzas",
+      "postal_code": [
+        "63565"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "63550"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Boca de Camichin",
+      "postal_code": [
+        "63573"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Campo 7",
+      "postal_code": [
+        "63380"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Campo de los Limones",
+      "postal_code": [
+        "63565"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Canada del Tabaco",
+      "postal_code": [
+        "63578"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Canada Grande",
+      "postal_code": [
+        "63561"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Cerritos",
+      "postal_code": [
+        "63554"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Cerro Chico",
+      "postal_code": [
+        "63300"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Cerro Grande",
+      "postal_code": [
+        "63360"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Crispin Duran Z",
+      "postal_code": [
+        "63550"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Crucero Bonfil",
+      "postal_code": [
+        "63559"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Crucero de Villa Hidalgo",
+      "postal_code": [
+        "63559"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Crucero las Higueras",
+      "postal_code": [
+        "63559"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "CTM",
+      "postal_code": [
+        "63313"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "63330"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "El Botadero",
+      "postal_code": [
+        "63575"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "El Capomal",
+      "postal_code": [
+        "63567"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "El Carrizo",
+      "postal_code": [
+        "63554"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "El Corte (El Tuchi)",
+      "postal_code": [
+        "63576"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "El Estero",
+      "postal_code": [
+        "63565"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "El Famoso",
+      "postal_code": [
+        "63562"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "El Limon",
+      "postal_code": [
+        "63556"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "El Mezcal",
+      "postal_code": [
+        "63564"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "63311"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "El Novillero",
+      "postal_code": [
+        "63552"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "El Nuevo Mexcaltitan",
+      "postal_code": [
+        "63563"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "El Papalote",
+      "postal_code": [
+        "63557"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "El Puente",
+      "postal_code": [
+        "63552"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "El Tambor",
+      "postal_code": [
+        "63558"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "El Turco",
+      "postal_code": [
+        "63576"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "63550",
+        "63552"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Estacion Nanchi (Penasquillo)",
+      "postal_code": [
+        "63559"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Flores Magon",
+      "postal_code": [
+        "63321"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Gavilan Chico",
+      "postal_code": [
+        "63565"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Gavilan Grande",
+      "postal_code": [
+        "63554"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Independencia",
+      "postal_code": [
+        "63312"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "INFONAVIT",
+      "postal_code": [
+        "63311"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Jose Martinez Escobedo",
+      "postal_code": [
+        "63550"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Juarez",
+      "postal_code": [
+        "63350"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "63380"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "La Guinea",
+      "postal_code": [
+        "63570"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "La Higuerita (La Escondida)",
+      "postal_code": [
+        "63561"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "La Nayarita",
+      "postal_code": [
+        "63550"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "La Presa Centro",
+      "postal_code": [
+        "63555"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "La Quinta",
+      "postal_code": [
+        "63340"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "La Quinta (El Rancho de la Higuera)",
+      "postal_code": [
+        "63560"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Las Colonias",
+      "postal_code": [
+        "63550"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "63341"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Las Higueras",
+      "postal_code": [
+        "63559"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Las Labores",
+      "postal_code": [
+        "63561"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Leyes de Reforma",
+      "postal_code": [
+        "63550"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "63552"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Los Corchos",
+      "postal_code": [
+        "63573"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Los Hornos",
+      "postal_code": [
+        "63330"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Los Limos",
+      "postal_code": [
+        "63300"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Los Otates",
+      "postal_code": [
+        "63578"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Los Perez",
+      "postal_code": [
+        "63565"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "63352"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "63352"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "63311"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Marcos Cardenas",
+      "postal_code": [
+        "63555"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Mayorquin",
+      "postal_code": [
+        "63561"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Mexcaltitan de Uribe",
+      "postal_code": [
+        "63563"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "63550"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Mojarritas",
+      "postal_code": [
+        "63559"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Morelos",
+      "postal_code": [
+        "63550"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Nuevo Mexico",
+      "postal_code": [
+        "63340"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Obrera",
+      "postal_code": [
+        "63320"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Ojos de Agua",
+      "postal_code": [
+        "63552"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Olimpica",
+      "postal_code": [
+        "63555"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Palmar de Cuautla",
+      "postal_code": [
+        "63568"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Pantano Grande",
+      "postal_code": [
+        "63383"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Paredones (La Punta de la Laguna)",
+      "postal_code": [
+        "63552"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Parque Industrial El Tizate",
+      "postal_code": [
+        "63559"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Patroneno I",
+      "postal_code": [
+        "63575"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Playa el Sesteo",
+      "postal_code": [
+        "63573"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Pozo de Ibarra",
+      "postal_code": [
+        "63556"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Pozo de Villa",
+      "postal_code": [
+        "63552"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Primero de Enero",
+      "postal_code": [
+        "63341"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Pueblo Nuevo",
+      "postal_code": [
+        "63575"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Puerta Azul",
+      "postal_code": [
+        "63552"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Puerta de Mangos",
+      "postal_code": [
+        "63577"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Puerta de Palapares",
+      "postal_code": [
+        "63562"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Ramon Lopez Velarde",
+      "postal_code": [
+        "63311"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "63561"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Roma",
+      "postal_code": [
+        "63550"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "San Andres",
+      "postal_code": [
+        "63561"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "63550"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "63553"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "San Jose",
+      "postal_code": [
+        "63550"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "San Martin",
+      "postal_code": [
+        "63550"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "San Miguel Numero Dos (El Quemado)",
+      "postal_code": [
+        "63565"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "63550"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "63560"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "63578"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Santiago Ixcuintla Centro",
+      "postal_code": [
+        "63300"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "San Vicente",
+      "postal_code": [
+        "63563"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Sauta",
+      "postal_code": [
+        "63570"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Sentispac",
+      "postal_code": [
+        "63565"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Sinaloa",
+      "postal_code": [
+        "63561"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Solorceno",
+      "postal_code": [
+        "63550"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Talpita",
+      "postal_code": [
+        "63550",
+        "63555"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Toro Mocho",
+      "postal_code": [
+        "63573"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Universidad",
+      "postal_code": [
+        "63311"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Vado del Cora",
+      "postal_code": [
+        "63558"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Vado del Cora (Estacion Pani)",
+      "postal_code": [
+        "63558"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Valle Lerma",
+      "postal_code": [
+        "63559"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Valle Morelos",
+      "postal_code": [
+        "63552"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Valle Zaragoza",
+      "postal_code": [
+        "63553"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Villa de Guadalupe",
+      "postal_code": [
+        "63550"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Villa Hidalgo Centro",
+      "postal_code": [
+        "63550"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Villa Juarez",
+      "postal_code": [
+        "63579"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Villas de Ixcuintla",
+      "postal_code": [
+        "63352"
+      ]
+    },
+    {
+      "city": "Santiago Ixcuintla",
+      "colonia": "Yago Estacion",
+      "postal_code": [
+        "63380"
+      ]
+    }
+  ]
+}

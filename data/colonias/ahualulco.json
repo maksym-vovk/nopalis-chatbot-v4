@@ -1,0 +1,655 @@
+{
+  "data": [
+    {
+      "city": "Ahualulco",
+      "colonia": "Ahualulco del Sonido 13 Centro",
+      "postal_code": [
+        "78450"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Alegre",
+      "postal_code": [
+        "78454"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Arenal de Morelos",
+      "postal_code": [
+        "78456"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Arroyo Blanco",
+      "postal_code": [
+        "78453"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Barrancas",
+      "postal_code": [
+        "78457"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Canada Grande",
+      "postal_code": [
+        "78455"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Canada Grande (El Bosque)",
+      "postal_code": [
+        "78455"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Canon de Yerbabuena",
+      "postal_code": [
+        "78455"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Casita Blanca",
+      "postal_code": [
+        "78453"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Cerrito de Rojas",
+      "postal_code": [
+        "78456"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Cerro Blanco",
+      "postal_code": [
+        "78457"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Cieneguita (Cieneguilla)",
+      "postal_code": [
+        "78454"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Clavellinas",
+      "postal_code": [
+        "78457"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Cochinillas",
+      "postal_code": [
+        "78456"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Colonia de la Cruz",
+      "postal_code": [
+        "78455"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Coyotillos",
+      "postal_code": [
+        "78456"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Ejido del Centro",
+      "postal_code": [
+        "78455"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "El Aguaje",
+      "postal_code": [
+        "78454"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "El Durazno",
+      "postal_code": [
+        "78457"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "El Epazote",
+      "postal_code": [
+        "78453"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "El Garabatillal",
+      "postal_code": [
+        "78457"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "El Mezquite",
+      "postal_code": [
+        "78454"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "El Novillo",
+      "postal_code": [
+        "78453"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "El Pachoncito",
+      "postal_code": [
+        "78457"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "El Paso de la Aguja",
+      "postal_code": [
+        "78454"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "El Pastillo",
+      "postal_code": [
+        "78453"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "El Rosal",
+      "postal_code": [
+        "78457"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "El Salitre",
+      "postal_code": [
+        "78455"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "El Salto",
+      "postal_code": [
+        "78455"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "El Saucito",
+      "postal_code": [
+        "78453"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "El Soldadillo",
+      "postal_code": [
+        "78453"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "El Temazcal",
+      "postal_code": [
+        "78456"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "El Tepozan",
+      "postal_code": [
+        "78453"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "El Tulillo",
+      "postal_code": [
+        "78453"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "El Tulillo (San Nicolas)",
+      "postal_code": [
+        "78453"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "El Zapatero",
+      "postal_code": [
+        "78456"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "El Zapote (Cerrito Blanco)",
+      "postal_code": [
+        "78455"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Estacion Ipina",
+      "postal_code": [
+        "78454"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Estancia del Arenal (Arenal Viejo)",
+      "postal_code": [
+        "78456"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Francisco Guevara Sifuentes",
+      "postal_code": [
+        "78454"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Julian Carrillo",
+      "postal_code": [
+        "78450"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "La Canada de la Cruz",
+      "postal_code": [
+        "78454"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "La Candelaria",
+      "postal_code": [
+        "78454"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "La Crucita",
+      "postal_code": [
+        "78457"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "La Encarnacion",
+      "postal_code": [
+        "78454"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "La Higuera",
+      "postal_code": [
+        "78456"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "La Mesa",
+      "postal_code": [
+        "78456"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "La Mezclita",
+      "postal_code": [
+        "78457"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "La Palma",
+      "postal_code": [
+        "78453"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "La Parada",
+      "postal_code": [
+        "78457"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "La Pila",
+      "postal_code": [
+        "78454"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Las Enramadas",
+      "postal_code": [
+        "78454"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Las Mangas",
+      "postal_code": [
+        "78457"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "78455"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Las Pilas",
+      "postal_code": [
+        "78454"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Las Taponas",
+      "postal_code": [
+        "78456"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "78453"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Loma del Becerro",
+      "postal_code": [
+        "78453"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Lomas de la Soledad",
+      "postal_code": [
+        "78450"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Los arboles (Colonia de la Cruz)",
+      "postal_code": [
+        "78455"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Los Cerritos",
+      "postal_code": [
+        "78453"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Los Llanitos",
+      "postal_code": [
+        "78454"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Los Magueyes",
+      "postal_code": [
+        "78450"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Majada Alta",
+      "postal_code": [
+        "78454"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Milpillas",
+      "postal_code": [
+        "78454"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Mina Blanca",
+      "postal_code": [
+        "78457"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Nopales Altos",
+      "postal_code": [
+        "78454"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Ojo de Agua del Llano",
+      "postal_code": [
+        "78454"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Paredes",
+      "postal_code": [
+        "78453"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Paso Bonito",
+      "postal_code": [
+        "78457"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Pedregal",
+      "postal_code": [
+        "78456"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Potrerillos",
+      "postal_code": [
+        "78453"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Potrero Agua Bendita",
+      "postal_code": [
+        "78453"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Puente Mina Blanca",
+      "postal_code": [
+        "78456"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Puerto de Duques",
+      "postal_code": [
+        "78454"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Rancho de la Cruz",
+      "postal_code": [
+        "78457"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "78457"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Rincon de Yerbabuena",
+      "postal_code": [
+        "78455"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "San Antonio Ojo de Agua",
+      "postal_code": [
+        "78455"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "San Francisco de los Chavez (Potrerillos)",
+      "postal_code": [
+        "78453"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "San Ignacio",
+      "postal_code": [
+        "78457"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "San Jose",
+      "postal_code": [
+        "78453"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "San Juan de la Hija",
+      "postal_code": [
+        "78453"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "San Juan (San Juan de Coyotillos)",
+      "postal_code": [
+        "78456"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "San Salvador",
+      "postal_code": [
+        "78455"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Santa Petronilas",
+      "postal_code": [
+        "78456"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "78456"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Tanque Canon del Puerto",
+      "postal_code": [
+        "78455"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Tanque el Puerto",
+      "postal_code": [
+        "78455"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Tierra Prieta",
+      "postal_code": [
+        "78455"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Tinaja",
+      "postal_code": [
+        "78455"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Tomates",
+      "postal_code": [
+        "78453"
+      ]
+    },
+    {
+      "city": "Ahualulco",
+      "colonia": "Yerbabuena",
+      "postal_code": [
+        "78455"
+      ]
+    }
+  ]
+}

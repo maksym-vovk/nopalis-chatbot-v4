@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "city": "Concepcion Papalo",
+      "colonia": "Aserradero Papalo (Tierra Colorada)",
+      "postal_code": [
+        "68643"
+      ]
+    },
+    {
+      "city": "Concepcion Papalo",
+      "colonia": "Coapan de Guerrero",
+      "postal_code": [
+        "68644"
+      ]
+    },
+    {
+      "city": "Concepcion Papalo",
+      "colonia": "Concepcion Papalo",
+      "postal_code": [
+        "68640"
+      ]
+    },
+    {
+      "city": "Concepcion Papalo",
+      "colonia": "Pena Blanca",
+      "postal_code": [
+        "68641"
+      ]
+    },
+    {
+      "city": "Concepcion Papalo",
+      "colonia": "San Francisco de Asis",
+      "postal_code": [
+        "68643"
+      ]
+    },
+    {
+      "city": "Concepcion Papalo",
+      "colonia": "San Francisco Pueblo Nuevo",
+      "postal_code": [
+        "68643"
+      ]
+    },
+    {
+      "city": "Concepcion Papalo",
+      "colonia": "San Lorenzo Papalo",
+      "postal_code": [
+        "68640"
+      ]
+    },
+    {
+      "city": "Concepcion Papalo",
+      "colonia": "Tecomaltianguisco",
+      "postal_code": [
+        "68644"
+      ]
+    }
+  ]
+}

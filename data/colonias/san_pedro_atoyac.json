@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "San Pedro Atoyac",
+      "colonia": "Cruz Colorada",
+      "postal_code": [
+        "71714"
+      ]
+    },
+    {
+      "city": "San Pedro Atoyac",
+      "colonia": "La Palma",
+      "postal_code": [
+        "71713"
+      ]
+    },
+    {
+      "city": "San Pedro Atoyac",
+      "colonia": "San Pedro Atoyac",
+      "postal_code": [
+        "71710"
+      ]
+    },
+    {
+      "city": "San Pedro Atoyac",
+      "colonia": "Zapote Blanco",
+      "postal_code": [
+        "71715"
+      ]
+    }
+  ]
+}

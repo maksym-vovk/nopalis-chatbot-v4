@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Sotuta",
+      "colonia": "Sotuta",
+      "postal_code": [
+        "97690"
+      ]
+    },
+    {
+      "city": "Sotuta",
+      "colonia": "Tabi",
+      "postal_code": [
+        "97695"
+      ]
+    },
+    {
+      "city": "Sotuta",
+      "colonia": "Tibolon",
+      "postal_code": [
+        "97694"
+      ]
+    },
+    {
+      "city": "Sotuta",
+      "colonia": "Zavala",
+      "postal_code": [
+        "97697"
+      ]
+    }
+  ]
+}

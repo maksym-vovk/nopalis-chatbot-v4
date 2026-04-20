@@ -1,0 +1,608 @@
+{
+  "data": [
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Aguilera",
+      "postal_code": [
+        "2900"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Aldana",
+      "postal_code": [
+        "2910"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Ampliacion Cosmopolita",
+      "postal_code": [
+        "2920"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Ampliacion Del Gas",
+      "postal_code": [
+        "2970"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Ampliacion Petrolera",
+      "postal_code": [
+        "2470"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Ampliacion San Pedro Xalpa",
+      "postal_code": [
+        "2719"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "angel Zimbron",
+      "postal_code": [
+        "2099"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Arenal",
+      "postal_code": [
+        "2980"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Centro de Azcapotzalco",
+      "postal_code": [
+        "2000"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Claveria",
+      "postal_code": [
+        "2080"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Coltongo",
+      "postal_code": [
+        "2630",
+        "2630"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Cosmopolita",
+      "postal_code": [
+        "2670"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Del Gas",
+      "postal_code": [
+        "2950"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Del Maestro",
+      "postal_code": [
+        "2040"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Del Recreo",
+      "postal_code": [
+        "2070"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "El Jagüey",
+      "postal_code": [
+        "2519"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "2100"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Estacion Pantaco",
+      "postal_code": [
+        "2520"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Euzkadi",
+      "postal_code": [
+        "2660"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Ex-Hacienda El Rosario",
+      "postal_code": [
+        "2420"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Ferreria",
+      "postal_code": [
+        "2310"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Huautla de las Salinas",
+      "postal_code": [
+        "2330"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Ignacio Allende",
+      "postal_code": [
+        "2810"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Industrial San Antonio",
+      "postal_code": [
+        "2760"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Industrial Vallejo",
+      "postal_code": [
+        "2300"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Jardin Azpeitia",
+      "postal_code": [
+        "2530"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "La Preciosa",
+      "postal_code": [
+        "2460"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "La Raza",
+      "postal_code": [
+        "2990"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Las Salinas",
+      "postal_code": [
+        "2360"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Liberacion",
+      "postal_code": [
+        "2930"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Libertad",
+      "postal_code": [
+        "2050"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "2010"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Monte Alto",
+      "postal_code": [
+        "2640"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Nextengo",
+      "postal_code": [
+        "2070"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Nueva El Rosario",
+      "postal_code": [
+        "2128"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Nueva Espana",
+      "postal_code": [
+        "2129"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Nueva Santa Maria",
+      "postal_code": [
+        "2800"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Nuevo Barrio San Rafael",
+      "postal_code": [
+        "2010"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Obrero Popular",
+      "postal_code": [
+        "2840"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Pasteros",
+      "postal_code": [
+        "2150"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Patrimonio Familiar",
+      "postal_code": [
+        "2980"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Petrolera",
+      "postal_code": [
+        "2480"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Plenitud",
+      "postal_code": [
+        "2780"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Porvenir",
+      "postal_code": [
+        "2940"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Potrero del Llano",
+      "postal_code": [
+        "2680"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Prados del Rosario",
+      "postal_code": [
+        "2410"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Pro-Hogar",
+      "postal_code": [
+        "2600"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Providencia",
+      "postal_code": [
+        "2440"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Reynosa Tamaulipas",
+      "postal_code": [
+        "2200"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "San Alvaro",
+      "postal_code": [
+        "2090"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "San Andres",
+      "postal_code": [
+        "2240",
+        "2240"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "San Andres de las Salinas",
+      "postal_code": [
+        "2320"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "2720"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "San Bartolo Cahualtongo",
+      "postal_code": [
+        "2720"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "San Bernabe",
+      "postal_code": [
+        "2830"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "San Francisco Tetecala",
+      "postal_code": [
+        "2730"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "San Francisco Xocotitla",
+      "postal_code": [
+        "2960"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "San Juan Tlihuaca",
+      "postal_code": [
+        "2400"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "2020"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "San Martin Xochinahuac",
+      "postal_code": [
+        "2120"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "San Mateo",
+      "postal_code": [
+        "2490"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "San Miguel Amantla",
+      "postal_code": [
+        "2700"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "San Pedro Xalpa",
+      "postal_code": [
+        "2710"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "2010"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "San Salvador Xochimanca",
+      "postal_code": [
+        "2870"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "2040"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Santa Apolonia",
+      "postal_code": [
+        "2790"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Santa Barbara",
+      "postal_code": [
+        "2230"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Santa Catarina",
+      "postal_code": [
+        "2250"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Santa Cruz Acayucan",
+      "postal_code": [
+        "2770"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Santa Cruz de las Salinas",
+      "postal_code": [
+        "2340"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Santa Ines",
+      "postal_code": [
+        "2140"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "2760"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Santa Maria Malinalco",
+      "postal_code": [
+        "2050"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Santiago Ahuizotla",
+      "postal_code": [
+        "2750"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "2160"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Santo Tomas",
+      "postal_code": [
+        "2020"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Sector Naval",
+      "postal_code": [
+        "2080"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Sindicato Mexicano de Electricistas",
+      "postal_code": [
+        "2060"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Tezozomoc",
+      "postal_code": [
+        "2459"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Tierra Nueva",
+      "postal_code": [
+        "2130"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Tlatilco",
+      "postal_code": [
+        "2860"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Trabajadores de Hierro",
+      "postal_code": [
+        "2650"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Un Hogar Para Cada Trabajador",
+      "postal_code": [
+        "2060"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Unidad Cuitlahuac",
+      "postal_code": [
+        "2500"
+      ]
+    },
+    {
+      "city": "Azcapotzalco",
+      "colonia": "Victoria de las Democracias",
+      "postal_code": [
+        "2810"
+      ]
+    }
+  ]
+}

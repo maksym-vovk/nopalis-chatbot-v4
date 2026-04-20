@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Santiago Zacatepec",
+      "colonia": "La Candelaria",
+      "postal_code": [
+        "70201"
+      ]
+    },
+    {
+      "city": "Santiago Zacatepec",
+      "colonia": "Metaltepec",
+      "postal_code": [
+        "70201"
+      ]
+    },
+    {
+      "city": "Santiago Zacatepec",
+      "colonia": "San Juan Metaltepec",
+      "postal_code": [
+        "70201"
+      ]
+    },
+    {
+      "city": "Santiago Zacatepec",
+      "colonia": "Santiago Zacatepec",
+      "postal_code": [
+        "70200"
+      ]
+    }
+  ]
+}

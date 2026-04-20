@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "San Francisco Lachigolo",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "70424"
+      ]
+    },
+    {
+      "city": "San Francisco Lachigolo",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "70424"
+      ]
+    },
+    {
+      "city": "San Francisco Lachigolo",
+      "colonia": "San Francisco Lachigolo",
+      "postal_code": [
+        "70424"
+      ]
+    },
+    {
+      "city": "San Francisco Lachigolo",
+      "colonia": "Villa Alta",
+      "postal_code": [
+        "70424"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,686 @@
+{
+  "data": [
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "10 de Abril",
+      "postal_code": [
+        "81475"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "10 de Mayo",
+      "postal_code": [
+        "81429"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "12 de Enero",
+      "postal_code": [
+        "81440"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "15 de Julio",
+      "postal_code": [
+        "81440"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "1 de Mayo",
+      "postal_code": [
+        "81476"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "5 de Febrero",
+      "postal_code": [
+        "81426"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Agustina Ramirez",
+      "postal_code": [
+        "81430"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "alamo de los Montoya",
+      "postal_code": [
+        "81530"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Amapas",
+      "postal_code": [
+        "81490"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Ampliacion Lomas del Valle",
+      "postal_code": [
+        "81410"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Bebelamas INFONAVIT",
+      "postal_code": [
+        "81460"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "81450",
+        "81520"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "81535"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "81427"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "81490"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Caitime",
+      "postal_code": [
+        "81535"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Campo Penjamo",
+      "postal_code": [
+        "81504"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Campo Rochin",
+      "postal_code": [
+        "81500"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Campo San Felipe",
+      "postal_code": [
+        "81500"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "CANACO",
+      "postal_code": [
+        "81413"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Carricitos",
+      "postal_code": [
+        "81535"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Chutamonas",
+      "postal_code": [
+        "81460"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Cienega de Casal",
+      "postal_code": [
+        "81525"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Colinas de San Ambrosio",
+      "postal_code": [
+        "81448"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Cruz Blanca",
+      "postal_code": [
+        "81504"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "81490"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Del Evora",
+      "postal_code": [
+        "81460"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "El Alto del Taballal",
+      "postal_code": [
+        "81530"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "El Descanso",
+      "postal_code": [
+        "81533"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "El Guayacan",
+      "postal_code": [
+        "81525"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "81430"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "El Salitre",
+      "postal_code": [
+        "81500"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "El Taballal",
+      "postal_code": [
+        "81530"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "81448",
+        "81448"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Emilio alvarez Ibarra (Las Golondrinas)",
+      "postal_code": [
+        "81504"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Empleados de FFCC Nacionales de Mexico Secc 26",
+      "postal_code": [
+        "81400"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Empleados de FFCC Nacionales de Mexico Secc 27",
+      "postal_code": [
+        "81400"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "evora 2000",
+      "postal_code": [
+        "81475"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Fernando Irizar Lopez",
+      "postal_code": [
+        "81448"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "FOVISSSTE",
+      "postal_code": [
+        "81470"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Gabriel Leyva Velazquez (La Escalera)",
+      "postal_code": [
+        "81500"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Gustavo Diaz Ordaz",
+      "postal_code": [
+        "81535"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Haciendas",
+      "postal_code": [
+        "81490"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "INFONAVIT Las Higueras",
+      "postal_code": [
+        "81490"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Insurgentes",
+      "postal_code": [
+        "81470"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Jobori",
+      "postal_code": [
+        "81474"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "La Cuesta de Higuera",
+      "postal_code": [
+        "81427"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "La Gloria",
+      "postal_code": [
+        "81470"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Las Fincas de Tultita",
+      "postal_code": [
+        "81478"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Las Fuentes",
+      "postal_code": [
+        "81479"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Las Garzas",
+      "postal_code": [
+        "81490"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "81474"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Las Praderas",
+      "postal_code": [
+        "81475"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "La Vibora",
+      "postal_code": [
+        "81500"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Linda Vista",
+      "postal_code": [
+        "81478"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Loma Dorada",
+      "postal_code": [
+        "81490"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "81479"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Lomas de las Torres",
+      "postal_code": [
+        "81448"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Lomas de los Achiris",
+      "postal_code": [
+        "81493"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Lomas del Sol",
+      "postal_code": [
+        "81479"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Lomas del Valle",
+      "postal_code": [
+        "81410"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Loma Verde",
+      "postal_code": [
+        "81490"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "81480"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "81426"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "81427"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Los Mautos",
+      "postal_code": [
+        "81413"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Los Parques",
+      "postal_code": [
+        "81469"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Lucio Blanco",
+      "postal_code": [
+        "81504"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Magisterio",
+      "postal_code": [
+        "81470"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Maquio Clouthier",
+      "postal_code": [
+        "81475"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Militar",
+      "postal_code": [
+        "81440"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Morelos",
+      "postal_code": [
+        "81460"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "81430"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Nuestra Senora de Guadalupe",
+      "postal_code": [
+        "81479"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Pedro Infante",
+      "postal_code": [
+        "81475"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Prado Bonito",
+      "postal_code": [
+        "81476"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Privada San Felipe",
+      "postal_code": [
+        "81430"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Profesionistas",
+      "postal_code": [
+        "81448"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Renato Vega",
+      "postal_code": [
+        "81476"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Residencial del Valle",
+      "postal_code": [
+        "81479"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Rodolfo Sanchez Taboada (Las Lagunitas)",
+      "postal_code": [
+        "81504"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "San Cristobal",
+      "postal_code": [
+        "81479"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "81420",
+        "81474"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "81480"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "81479"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "81410"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Santa Sofia Residencial",
+      "postal_code": [
+        "81479"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Solidaridad",
+      "postal_code": [
+        "81475"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Toro Manchado",
+      "postal_code": [
+        "81535"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Tultita",
+      "postal_code": [
+        "81477"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Unidad Nacional",
+      "postal_code": [
+        "81478"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Valle Bonito",
+      "postal_code": [
+        "81475"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Victoria",
+      "postal_code": [
+        "81479"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Villahermosa",
+      "postal_code": [
+        "81427"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Viva Bien",
+      "postal_code": [
+        "81440"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Zona Centro",
+      "postal_code": [
+        "81400"
+      ]
+    },
+    {
+      "city": "Salvador Alvarado",
+      "colonia": "Zona Industrial",
+      "postal_code": [
+        "81489"
+      ]
+    }
+  ]
+}

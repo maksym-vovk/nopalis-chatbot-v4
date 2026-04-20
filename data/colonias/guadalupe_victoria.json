@@ -1,0 +1,599 @@
+{
+  "data": [
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "5a. Santa Elena",
+      "postal_code": [
+        "34704"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Antonio Amaro (Saucillo)",
+      "postal_code": [
+        "34730"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Bicentenario",
+      "postal_code": [
+        "34707"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Cantarranas",
+      "postal_code": [
+        "34710"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Carboneras",
+      "postal_code": [
+        "34735"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Casa Blanca",
+      "postal_code": [
+        "34730"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Centro de Readaptacion Social Numero 3 (Cereso)",
+      "postal_code": [
+        "34713"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Dos de Abril",
+      "postal_code": [
+        "34734"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Dos Hermanos",
+      "postal_code": [
+        "34737"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Ejidal",
+      "postal_code": [
+        "34706"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "El Alacran",
+      "postal_code": [
+        "34707"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "El Chorrito",
+      "postal_code": [
+        "34726"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "El Corazon",
+      "postal_code": [
+        "34714"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "El Espejo",
+      "postal_code": [
+        "34720"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "El Hormiguero",
+      "postal_code": [
+        "34707"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "El Jaral",
+      "postal_code": [
+        "34727"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Felipe Carrillo Puerto (Tarabillas)",
+      "postal_code": [
+        "34733"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "General Alvaro Obregon",
+      "postal_code": [
+        "34720"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "General Calixto Contreras (Colorada)",
+      "postal_code": [
+        "34724"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Guadalupe [Granja]",
+      "postal_code": [
+        "34725"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Guadalupe Victoria Centro",
+      "postal_code": [
+        "34700"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Ignacio Allende",
+      "postal_code": [
+        "34723"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Ignacio Ramirez",
+      "postal_code": [
+        "34720"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "INFONAVIT",
+      "postal_code": [
+        "34704"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Isidro de Flores",
+      "postal_code": [
+        "34703"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Jose Guadalupe Rodriguez (Penuelas)",
+      "postal_code": [
+        "34736"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Jose Maria Martinez",
+      "postal_code": [
+        "34706"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Jose Maria Pino Suarez (Providencia)",
+      "postal_code": [
+        "34725"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Juan Aldama (Magueyes)",
+      "postal_code": [
+        "34713"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "La Bocona (Plomo y Plata)",
+      "postal_code": [
+        "34714"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "La Estacion",
+      "postal_code": [
+        "34705"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "La Gavia",
+      "postal_code": [
+        "34710"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Laguna de Nuestra Senora (Buenavista)",
+      "postal_code": [
+        "34737"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "La Herradura",
+      "postal_code": [
+        "34737"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "La Noria",
+      "postal_code": [
+        "34703"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "La Puerta",
+      "postal_code": [
+        "34736"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Las Culecas",
+      "postal_code": [
+        "34704"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Las Estacas",
+      "postal_code": [
+        "34714"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "34705"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Las Lules (Juan Francisco Elizalde Mercado)",
+      "postal_code": [
+        "34726"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Loma Verde",
+      "postal_code": [
+        "34703"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Los angeles [Rancho]",
+      "postal_code": [
+        "34737"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Los Corrales",
+      "postal_code": [
+        "34737"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Los Eucaliptos",
+      "postal_code": [
+        "34710"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Lucio Saldivar",
+      "postal_code": [
+        "34710"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Mi Ranchito",
+      "postal_code": [
+        "34704"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Rancho el Bajio (Rancho el Albur)",
+      "postal_code": [
+        "34726"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Rancho la Biznaga (Rancho Tinoco)",
+      "postal_code": [
+        "34713"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Rancho la Loma (Rancho Antuna)",
+      "postal_code": [
+        "34726"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Rancho la Luz",
+      "postal_code": [
+        "34725"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Rancho la Morena",
+      "postal_code": [
+        "34725"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Rancho los 3 Panchos (Rancho Pancho Elizalde)",
+      "postal_code": [
+        "34726"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Rancho Maria Isabel",
+      "postal_code": [
+        "34710"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Rancho San Jorge",
+      "postal_code": [
+        "34725"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Rancho San Miguel (Rancho Bugarim)",
+      "postal_code": [
+        "34737"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Rancho Santa Maria (Las Margaritas)",
+      "postal_code": [
+        "34726"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "San Francisco de la Palmita (La Palmita)",
+      "postal_code": [
+        "34717"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "San Jose",
+      "postal_code": [
+        "34737"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "San Jose de los Herreras",
+      "postal_code": [
+        "34730"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "San Juan de Pinos (Chepinque)",
+      "postal_code": [
+        "34737"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "San Pedro [Rancho]",
+      "postal_code": [
+        "34737"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "San Salvador",
+      "postal_code": [
+        "34716"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "San Salvador (El Golfo)",
+      "postal_code": [
+        "34716"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Santa Barbara [Rancho]",
+      "postal_code": [
+        "34734"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Santa Catalina de Siena",
+      "postal_code": [
+        "34715"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "34734"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Santa Esperanza",
+      "postal_code": [
+        "34727"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Villas del Sur",
+      "postal_code": [
+        "34705"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Canoitas",
+      "postal_code": [
+        "75047"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Carmen Serdan",
+      "postal_code": [
+        "75040"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "El Nino Jesus",
+      "postal_code": [
+        "75049"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "El Progreso",
+      "postal_code": [
+        "75049"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Guadalupe Buenavista (El Tecolote)",
+      "postal_code": [
+        "75046"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "75040"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Hacienda Nueva",
+      "postal_code": [
+        "75044"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "La Concepcion",
+      "postal_code": [
+        "75040"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Las Juanitas",
+      "postal_code": [
+        "75040"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Maravillas",
+      "postal_code": [
+        "75049"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "Quechulac (Santa Cruz)",
+      "postal_code": [
+        "75046"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "75040"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "San Jose",
+      "postal_code": [
+        "75040"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "San Juan la Muralla",
+      "postal_code": [
+        "75044"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "San Juan Quimixtlan",
+      "postal_code": [
+        "75040"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "San Luis Atexcac",
+      "postal_code": [
+        "75043"
+      ]
+    },
+    {
+      "city": "Guadalupe Victoria",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "75045"
+      ]
+    }
+  ]
+}

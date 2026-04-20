@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Alpatlahuac",
+      "colonia": "Alpatlahuac",
+      "postal_code": [
+        "94130"
+      ]
+    },
+    {
+      "city": "Alpatlahuac",
+      "colonia": "Ayahualulco",
+      "postal_code": [
+        "94135"
+      ]
+    },
+    {
+      "city": "Alpatlahuac",
+      "colonia": "Cocalzingo",
+      "postal_code": [
+        "94134"
+      ]
+    },
+    {
+      "city": "Alpatlahuac",
+      "colonia": "Rancho Alegre",
+      "postal_code": [
+        "94135"
+      ]
+    },
+    {
+      "city": "Alpatlahuac",
+      "colonia": "Xicola",
+      "postal_code": [
+        "94133"
+      ]
+    }
+  ]
+}

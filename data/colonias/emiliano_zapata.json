@@ -1,0 +1,2271 @@
+{
+  "data": [
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Alborada",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Buena Vista",
+      "postal_code": [
+        "91634"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Campestre Las Trancas",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Campestre los Girasoles",
+      "postal_code": [
+        "91643"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Cerro Gordo",
+      "postal_code": [
+        "91635"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Chavarrillo",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Cincuentenario",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Ciudad Primavera",
+      "postal_code": [
+        "91633"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Club de golf Xalapa",
+      "postal_code": [
+        "91644"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Colmenar",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Corral Falso",
+      "postal_code": [
+        "91636"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Del Maestro",
+      "postal_code": [
+        "91630"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Don Salvador",
+      "postal_code": [
+        "91643"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Dos Rios",
+      "postal_code": [
+        "91640"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Aguaje",
+      "postal_code": [
+        "91634"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "91630"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Chico",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Guayabo",
+      "postal_code": [
+        "91643"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Jobo",
+      "postal_code": [
+        "91643"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Lencero",
+      "postal_code": [
+        "91640"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Limon",
+      "postal_code": [
+        "91643"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Palmar [Estacion el Palmar]",
+      "postal_code": [
+        "91635"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Roble",
+      "postal_code": [
+        "91635"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Telefre",
+      "postal_code": [
+        "91643"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "91643"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Estacion Chavarrillo",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Grabilias (Monoc)",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Gravilias",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Jacarandas",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "La Aurora",
+      "postal_code": [
+        "91644"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "La Balsa",
+      "postal_code": [
+        "91633"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "La Bocana",
+      "postal_code": [
+        "91634"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "La Cima",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "La Cumbre",
+      "postal_code": [
+        "91633"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "La Estanzuela",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Laguna de Miradores",
+      "postal_code": [
+        "91636"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "La Perseverancia",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "La Pradera",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Las Cascadas",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Las Dalias",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Las Granjas",
+      "postal_code": [
+        "91640"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Las Lagrimas",
+      "postal_code": [
+        "91643"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Las Trancas",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "91644"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "91640"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Loma de Rogel",
+      "postal_code": [
+        "91643"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Lomas de la Hacienda",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Lomas de la Pradera",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Lomas de Miradores",
+      "postal_code": [
+        "91636"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Lomas de Providencia",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Los Cafetales",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Los Hungaros",
+      "postal_code": [
+        "91634"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "91634"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "91636"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Marco Antonio Munoz (Nacaxtle)",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Miradores (Miradores del Mar)",
+      "postal_code": [
+        "91640"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Monte Obscuro (Colonia Penjamo)",
+      "postal_code": [
+        "91636"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Morada del Quetzal (Tres Pasos)",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Ojuelos (Nuevo Poblado)",
+      "postal_code": [
+        "91644"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Orquideas",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Pacho Nuevo",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Palmar de Perez",
+      "postal_code": [
+        "91635"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Palmarejo",
+      "postal_code": [
+        "91636"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Palo Gacho",
+      "postal_code": [
+        "91633"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Paso Grande [Estacion el Chico]",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Pinoltepec",
+      "postal_code": [
+        "91636"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Plan Chico",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Plan del Rio",
+      "postal_code": [
+        "91633"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Rafael Guizar y Valencia",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "91643"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "91636"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Residencial Dos Rios",
+      "postal_code": [
+        "91640"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Residencial La Pradera",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Residencial Los Cedros",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Rinconada",
+      "postal_code": [
+        "91634"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Santa Anita",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Santa Lucia Dos",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "91636"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Terranova",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Tres Pasos",
+      "postal_code": [
+        "91643",
+        "91643"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Valle Hermoso",
+      "postal_code": [
+        "91637"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Villa Emiliano Zapata",
+      "postal_code": [
+        "91630"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Xoltepec",
+      "postal_code": [
+        "91635"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "14 de Febrero",
+      "postal_code": [
+        "62764"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "1ra Seccion Villa Morelos",
+      "postal_code": [
+        "62766"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "24 de Abril",
+      "postal_code": [
+        "62764"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "28 de Agosto",
+      "postal_code": [
+        "62763"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Altavista",
+      "postal_code": [
+        "62764"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Amatitlan",
+      "postal_code": [
+        "62767"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Ampliacion el organo",
+      "postal_code": [
+        "62766"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Ampliacion Prohogar",
+      "postal_code": [
+        "62765"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Arboleda",
+      "postal_code": [
+        "62764"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "62765"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Calera Chica",
+      "postal_code": [
+        "62764"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Campo Nuevo",
+      "postal_code": [
+        "62766",
+        "62766"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Canaveral",
+      "postal_code": [
+        "62767"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Capulin",
+      "postal_code": [
+        "62767"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Condominio el amate",
+      "postal_code": [
+        "62766"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Condominios Capiri",
+      "postal_code": [
+        "62764"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Conjunto Urbano la Mision",
+      "postal_code": [
+        "62764"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "62767"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Aguaje",
+      "postal_code": [
+        "62764"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Amate",
+      "postal_code": [
+        "62766"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Calvario",
+      "postal_code": [
+        "62764"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Capiri",
+      "postal_code": [
+        "62764"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Capulin",
+      "postal_code": [
+        "62765"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Castillo",
+      "postal_code": [
+        "62767"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Guante",
+      "postal_code": [
+        "62764"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "62765"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El organo",
+      "postal_code": [
+        "62766"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Tomatal",
+      "postal_code": [
+        "62766"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Vigilante",
+      "postal_code": [
+        "62766"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "62760"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Emiliano Zapata Centro",
+      "postal_code": [
+        "62760"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Estacion",
+      "postal_code": [
+        "62766"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Geo Villas Colorines",
+      "postal_code": [
+        "62767"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Gerardo Perez",
+      "postal_code": [
+        "62764"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Guadalupe de las Arenas",
+      "postal_code": [
+        "62765"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Jardines de Tezoyuca",
+      "postal_code": [
+        "62767"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "La Campina",
+      "postal_code": [
+        "62768"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "La Mina",
+      "postal_code": [
+        "62767"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "62767"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Las Fuentes",
+      "postal_code": [
+        "62764"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Las Garzas",
+      "postal_code": [
+        "62767"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Las Gaviotas",
+      "postal_code": [
+        "62766"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Las Rocas",
+      "postal_code": [
+        "62764"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "62767"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Lomas del Copal",
+      "postal_code": [
+        "62763"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Lomas de Trujillo",
+      "postal_code": [
+        "62763"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Loma Sur",
+      "postal_code": [
+        "62763"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Los Agaves",
+      "postal_code": [
+        "62765"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Los Sabinos",
+      "postal_code": [
+        "62767"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Manantiales",
+      "postal_code": [
+        "62765"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Modesto Rangel",
+      "postal_code": [
+        "62766"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "62765"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Ojo de Agua II",
+      "postal_code": [
+        "62765"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Palo Escrito (Colonia Benito Juarez)",
+      "postal_code": [
+        "62765"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Paraiso Country Club",
+      "postal_code": [
+        "62766"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Paseos del Rio",
+      "postal_code": [
+        "62766"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Paseos de Tezoyuca",
+      "postal_code": [
+        "62767"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Prohogar",
+      "postal_code": [
+        "62765"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Rancho San Pedro",
+      "postal_code": [
+        "62764"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Real de Tezoyuca",
+      "postal_code": [
+        "62767"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Residencial Amarantto Habittat",
+      "postal_code": [
+        "62766"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Residencial Rancho Tezoyuca",
+      "postal_code": [
+        "62767"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Rinconada de Tezoyuca",
+      "postal_code": [
+        "62767"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Rinconada la Mision",
+      "postal_code": [
+        "62764"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "62764"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "San Jose de las Cumbres",
+      "postal_code": [
+        "62763"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Tepetzingo",
+      "postal_code": [
+        "62768"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Tesoros de Tezoyuca",
+      "postal_code": [
+        "62767"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Tetecalita",
+      "postal_code": [
+        "62768"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Tezoyuca",
+      "postal_code": [
+        "62767",
+        "62767"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Tres de Mayo",
+      "postal_code": [
+        "62763"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Villa Morelos",
+      "postal_code": [
+        "62766"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Villas del Portezuelo",
+      "postal_code": [
+        "62767"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Villas del Seminario",
+      "postal_code": [
+        "62767"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Villas de Tezoyuca",
+      "postal_code": [
+        "62767"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Ahilitla",
+      "postal_code": [
+        "90548"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Atotonilco",
+      "postal_code": [
+        "90548"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Coamila",
+      "postal_code": [
+        "90548"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Cruz Verde",
+      "postal_code": [
+        "90548"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Cipres",
+      "postal_code": [
+        "90548"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Epazote",
+      "postal_code": [
+        "90548"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "90547"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "90547"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Guardamonte",
+      "postal_code": [
+        "90548"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Gustavo Diaz Ordaz",
+      "postal_code": [
+        "90548"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "La Loma",
+      "postal_code": [
+        "90548"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Las Palomas",
+      "postal_code": [
+        "90548"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "La Venta",
+      "postal_code": [
+        "90548"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Los Encinos",
+      "postal_code": [
+        "90548"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "90548"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "90548"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Tecoaquillo",
+      "postal_code": [
+        "90548"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Tipitzila",
+      "postal_code": [
+        "90548"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Tlaximaloya (La Amapola)",
+      "postal_code": [
+        "90548"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Tres Rios",
+      "postal_code": [
+        "90548"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "90548"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Ampliacion Loma Bonita",
+      "postal_code": [
+        "43964"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Chamizal",
+      "postal_code": [
+        "43964"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Demetrio Martinez",
+      "postal_code": [
+        "43965"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Durazno",
+      "postal_code": [
+        "43966"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Emiliano Zapata Centro",
+      "postal_code": [
+        "43960"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Ex-hacienda San Lorenzo",
+      "postal_code": [
+        "43961"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Jardines",
+      "postal_code": [
+        "43963"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Jose Maria Morelos (San Jose)",
+      "postal_code": [
+        "43961"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "La Palma",
+      "postal_code": [
+        "43961"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "43964"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "43963"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Malpais",
+      "postal_code": [
+        "43961"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Ramos Millan",
+      "postal_code": [
+        "43963"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Santa Barbara",
+      "postal_code": [
+        "43961"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Santa Clara",
+      "postal_code": [
+        "43961",
+        "43961"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "43963",
+        "43966"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Tortolitas",
+      "postal_code": [
+        "43966"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "2 Potrancas",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Belen Dos",
+      "postal_code": [
+        "29386"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Campo Real",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Carlos Salinas de Gortari",
+      "postal_code": [
+        "29386"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Central Campesina Cardenista",
+      "postal_code": [
+        "29386"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Cruz Chiquita",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Dolores Buenavista",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Canutillo",
+      "postal_code": [
+        "29383"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Coyol",
+      "postal_code": [
+        "29386"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Herradero",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "29386"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Porvenir Uno",
+      "postal_code": [
+        "29386"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Recuerdo",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Tesoro",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Tesoro de Berlin",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Familia Alfaro",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Fortunata Perez Gomez",
+      "postal_code": [
+        "29386"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Irazeu",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Javier Lopez Moreno (Las Palomas)",
+      "postal_code": [
+        "29386"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Jesus Moreno",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Jose Maria Morelos y Pavon",
+      "postal_code": [
+        "29386"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "La Encrucijada",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "La Naranja Uno",
+      "postal_code": [
+        "29386"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "La Nueva Era",
+      "postal_code": [
+        "29386"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "La Nueva Esperanza",
+      "postal_code": [
+        "29383"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Las Carolinas",
+      "postal_code": [
+        "29386"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Las Cruces (El Relicario)",
+      "postal_code": [
+        "29386"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Las Esperanzas",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Las Grutas",
+      "postal_code": [
+        "29386"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Las Pavas",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "29386"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Lorena",
+      "postal_code": [
+        "29386"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "29386"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Los Potrillos",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Luis Echeverria Alvarez",
+      "postal_code": [
+        "29386"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Monterrey",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Montes Azules",
+      "postal_code": [
+        "29386"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Nuevo Poblado Concepcion",
+      "postal_code": [
+        "29383"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Nuevo Vicente Guerrero (el Chichonal)",
+      "postal_code": [
+        "29383"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Porciavi",
+      "postal_code": [
+        "29386"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "San Antonio Zaragoza",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "San Fernando",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "San Joaquin",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "San Jose",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "29380"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "29386"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "29383"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "29383"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Tierra y Libertad",
+      "postal_code": [
+        "29386"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Veintinueve de Octubre",
+      "postal_code": [
+        "29386"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Aguacate",
+      "postal_code": [
+        "86988"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "86992"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Bajos Usumacinta",
+      "postal_code": [
+        "86992"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Banrural",
+      "postal_code": [
+        "86996"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Barrio Olvidado",
+      "postal_code": [
+        "86993"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Boca de Chacamax",
+      "postal_code": [
+        "86984"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "86996"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Buena Vista",
+      "postal_code": [
+        "86988"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "86998"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Cacao",
+      "postal_code": [
+        "86986"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Cacao Zona Alta",
+      "postal_code": [
+        "86985"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Cacao Zona Baja",
+      "postal_code": [
+        "86985"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Carlos A Madrazo",
+      "postal_code": [
+        "86996"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Chable",
+      "postal_code": [
+        "86983"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Chacaj",
+      "postal_code": [
+        "86985"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Chacama",
+      "postal_code": [
+        "86985"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Colonos del Usumacinta",
+      "postal_code": [
+        "86995"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Concepcion",
+      "postal_code": [
+        "86985"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Corozal",
+      "postal_code": [
+        "86985"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Despertar Magisterial",
+      "postal_code": [
+        "86994"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Ecologista",
+      "postal_code": [
+        "86995"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Campanario",
+      "postal_code": [
+        "86992"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "86996"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Cuyo",
+      "postal_code": [
+        "86984"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Elda y Jose",
+      "postal_code": [
+        "86994"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Mangal",
+      "postal_code": [
+        "86994"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "86996"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Piedral",
+      "postal_code": [
+        "86998"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Recreo",
+      "postal_code": [
+        "86997"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "El Tucuy",
+      "postal_code": [
+        "86993"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Emiliano Zapata Centro",
+      "postal_code": [
+        "86990"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Emiliano Zapata El Avispero",
+      "postal_code": [
+        "86982"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Emiliano Zapata Pochote",
+      "postal_code": [
+        "86982"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Emiliano Zapata (Seccion Jobal)",
+      "postal_code": [
+        "86982"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Ganadera",
+      "postal_code": [
+        "86992"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Gregorio Mendez Magana (Penjamo)",
+      "postal_code": [
+        "86989"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Heriberto Cabrera",
+      "postal_code": [
+        "86993"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Jose Lehman Ocampo",
+      "postal_code": [
+        "86998"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "La Ceiba",
+      "postal_code": [
+        "86997"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "86986",
+        "86998"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "La Isla",
+      "postal_code": [
+        "86980"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "La Pita",
+      "postal_code": [
+        "86988"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Las Lomas",
+      "postal_code": [
+        "86997"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "86996"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Los Pescadores",
+      "postal_code": [
+        "86992"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "86996"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Luis Donaldo Colosio II",
+      "postal_code": [
+        "86996"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Manuel Andrade Diaz",
+      "postal_code": [
+        "86983"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Mariche",
+      "postal_code": [
+        "86985"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Militar",
+      "postal_code": [
+        "86996"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Municipal",
+      "postal_code": [
+        "86995"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Nuevo Chable",
+      "postal_code": [
+        "86983"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Nuevo Pochote",
+      "postal_code": [
+        "86983"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Paso de San Roman",
+      "postal_code": [
+        "86984"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Pedregal de Montecristo",
+      "postal_code": [
+        "86992"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Pocvicuc",
+      "postal_code": [
+        "86985"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Reforma",
+      "postal_code": [
+        "86989"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Rio Final",
+      "postal_code": [
+        "86986"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "San Bartolo",
+      "postal_code": [
+        "86992"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "86998"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "86998"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Santa Isabel",
+      "postal_code": [
+        "86996"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Tierra Montecristo",
+      "postal_code": [
+        "86994"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Tierra y Libertad",
+      "postal_code": [
+        "86992"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Tres Letras",
+      "postal_code": [
+        "86984"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "ultimo Esfuerzo",
+      "postal_code": [
+        "86996"
+      ]
+    },
+    {
+      "city": "Emiliano Zapata",
+      "colonia": "Unidos en Solidaridad",
+      "postal_code": [
+        "86992"
+      ]
+    }
+  ]
+}

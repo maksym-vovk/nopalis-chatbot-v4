@@ -1,0 +1,1512 @@
+{
+  "data": [
+    {
+      "city": "Tultitlan",
+      "colonia": "Alborada I",
+      "postal_code": [
+        "54929"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Alborada II",
+      "postal_code": [
+        "54935"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Ampliacion Buenavista",
+      "postal_code": [
+        "54955"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Ampliacion Buenavista 1ra. Seccion",
+      "postal_code": [
+        "54955"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Ampliacion Buenavista 2da. Seccion",
+      "postal_code": [
+        "54955"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Ampliacion COCEM",
+      "postal_code": [
+        "54913"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Ampliacion El Fresno",
+      "postal_code": [
+        "54944"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Ampliacion El Tesoro",
+      "postal_code": [
+        "54957"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Ampliacion La Sardana",
+      "postal_code": [
+        "54958"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Ampliacion Las Torres Segunda Seccion",
+      "postal_code": [
+        "54942"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Ampliacion San Marcos",
+      "postal_code": [
+        "54954"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Ampliacion San Pablo de las Salinas",
+      "postal_code": [
+        "54938"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Arbolada la Loma",
+      "postal_code": [
+        "54944"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Arboledas (lote 49)",
+      "postal_code": [
+        "54938"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Arcos I",
+      "postal_code": [
+        "54938"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Arcos II",
+      "postal_code": [
+        "54938"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Arcos III",
+      "postal_code": [
+        "54938"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Arcos IV",
+      "postal_code": [
+        "54938"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Arcos V",
+      "postal_code": [
+        "54938"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Arcos VI",
+      "postal_code": [
+        "54938"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Azul Cielo",
+      "postal_code": [
+        "54933"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Belem",
+      "postal_code": [
+        "54900"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Bello Horizonte",
+      "postal_code": [
+        "54948"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "54942"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Bonito Tultitlan (lote 60)",
+      "postal_code": [
+        "54938"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Bosques de Tultitlan",
+      "postal_code": [
+        "54913"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Buenavista Parte Alta",
+      "postal_code": [
+        "54944"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Buenavista Parte Baja",
+      "postal_code": [
+        "54944"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Cartagena",
+      "postal_code": [
+        "54918"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Casas Alfa",
+      "postal_code": [
+        "54935"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Casitas San Pablo",
+      "postal_code": [
+        "54935"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Central de Abastos",
+      "postal_code": [
+        "54910"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Ciudad Labor",
+      "postal_code": [
+        "54943"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "COCEM",
+      "postal_code": [
+        "54913"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Conjunto Brillante",
+      "postal_code": [
+        "54949"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Conjunto Cristal",
+      "postal_code": [
+        "54924"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Conjunto Fortuna",
+      "postal_code": [
+        "54932"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Conjunto San Pablo",
+      "postal_code": [
+        "54935"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Conjunto Urbano La Loma",
+      "postal_code": [
+        "54944"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Corredor Lecheria-Cuautitlan",
+      "postal_code": [
+        "54940"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Corredor Lopez Portillo",
+      "postal_code": [
+        "54959"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Coyoli Martinez",
+      "postal_code": [
+        "54933"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Ejido Buenavista",
+      "postal_code": [
+        "54944"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Ejido Santa Maria Cuautepec",
+      "postal_code": [
+        "54949"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "El Alcazar",
+      "postal_code": [
+        "54938"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "El Campanario",
+      "postal_code": [
+        "54933"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "El Cueyamil",
+      "postal_code": [
+        "54918"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "El Faro (Lote 3 Pte.)",
+      "postal_code": [
+        "54935"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "El Fresno",
+      "postal_code": [
+        "54944"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "El Golfo",
+      "postal_code": [
+        "54944"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "El Kiosco",
+      "postal_code": [
+        "54924"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "El Laurel",
+      "postal_code": [
+        "54938"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "El Obelisco",
+      "postal_code": [
+        "54915"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "El Paraje",
+      "postal_code": [
+        "54959"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "El Rocio",
+      "postal_code": [
+        "54934"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "El Tesoro",
+      "postal_code": [
+        "54957"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Emilio Chuayffet",
+      "postal_code": [
+        "54927"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Estado de Mexico",
+      "postal_code": [
+        "54945"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Estepas",
+      "postal_code": [
+        "54926"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Estrella de Tultitlan (Lote 55 Pte.)",
+      "postal_code": [
+        "54920"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Ferrocarrilera",
+      "postal_code": [
+        "54946"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "FIMESA I (El Paraje)",
+      "postal_code": [
+        "54959"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "FIMESA II (Ampliacion la Sardana)",
+      "postal_code": [
+        "54958"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Fuentes del Valle",
+      "postal_code": [
+        "54910"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Galaxias Tultitlan",
+      "postal_code": [
+        "54926"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Granjas San Pablo",
+      "postal_code": [
+        "54930"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Gustavo Baz",
+      "postal_code": [
+        "54934"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Hacienda San Pablo",
+      "postal_code": [
+        "54925"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Hogares de Castera",
+      "postal_code": [
+        "54920"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Hogares de Castera Lote 73",
+      "postal_code": [
+        "54927"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "IMMEX II",
+      "postal_code": [
+        "54932"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Independencia",
+      "postal_code": [
+        "54915",
+        "54915"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Isidro Fabela",
+      "postal_code": [
+        "54932"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Izcalli del Valle",
+      "postal_code": [
+        "54945"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Izcalli Rinconada",
+      "postal_code": [
+        "54930"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Izcalli San Pablo",
+      "postal_code": [
+        "54933"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Jardines de la Canada",
+      "postal_code": [
+        "54958"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Jardines de los Claustros I",
+      "postal_code": [
+        "54935"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Jardines de los Claustros II",
+      "postal_code": [
+        "54935"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Jardines de los Claustros III",
+      "postal_code": [
+        "54920"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Jardines de los Claustros IV",
+      "postal_code": [
+        "54930"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Jardines de los Claustros V",
+      "postal_code": [
+        "54930"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Jardines de los Claustros VI",
+      "postal_code": [
+        "54929"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Jardines de San Pablo",
+      "postal_code": [
+        "54933"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Jardines de Tultitlan",
+      "postal_code": [
+        "54910"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "La Alborada Vallas",
+      "postal_code": [
+        "54929"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "La Concepcion",
+      "postal_code": [
+        "54900"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "La Granja",
+      "postal_code": [
+        "54930"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "La Isla",
+      "postal_code": [
+        "54935"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "La Joya",
+      "postal_code": [
+        "54944"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "La Libertad",
+      "postal_code": [
+        "54942"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "La Loma I",
+      "postal_code": [
+        "54944"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "La Loma II",
+      "postal_code": [
+        "54944"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "La Loma III",
+      "postal_code": [
+        "54944"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "La Mariscala",
+      "postal_code": [
+        "54910"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "La Ponderosa",
+      "postal_code": [
+        "54910"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Las Almenas",
+      "postal_code": [
+        "54935"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "La Sardana",
+      "postal_code": [
+        "54950"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Las Calderas",
+      "postal_code": [
+        "54935"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Las Chinampas",
+      "postal_code": [
+        "54935"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Las Fuentes",
+      "postal_code": [
+        "54935"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Las Granjas",
+      "postal_code": [
+        "54930"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Las Manzanas",
+      "postal_code": [
+        "54925"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Las Terrazas",
+      "postal_code": [
+        "54949"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Las Torres I",
+      "postal_code": [
+        "54942"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Las Tortolas",
+      "postal_code": [
+        "54927"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lava 46",
+      "postal_code": [
+        "54935"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lazaro Cardenas (Zona Hornos)",
+      "postal_code": [
+        "54916"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lecheria",
+      "postal_code": [
+        "54940"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Llanuras",
+      "postal_code": [
+        "54924"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Llanura Verde",
+      "postal_code": [
+        "54930"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lomas de Cartagena",
+      "postal_code": [
+        "54958"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lomas del Parque I",
+      "postal_code": [
+        "54958"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lomas del Parque II",
+      "postal_code": [
+        "54958"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lomas del Parque III",
+      "postal_code": [
+        "54958"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lomas de San Pablo",
+      "postal_code": [
+        "54930"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Los Agaves (Lote 71)",
+      "postal_code": [
+        "54926"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Los Agaves Tultitlan",
+      "postal_code": [
+        "54910"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Los Portales",
+      "postal_code": [
+        "54910"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "54900",
+        "54915"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "54949"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Los Tulipanes",
+      "postal_code": [
+        "54958"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lote 104 (Tehuantepec)",
+      "postal_code": [
+        "54924"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lote 105 (ebano)",
+      "postal_code": [
+        "54932"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lote 12 (Crepusculo)",
+      "postal_code": [
+        "54929"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lote 41 (El Carmen)",
+      "postal_code": [
+        "54927"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lote 46 (El Reloj Villas)",
+      "postal_code": [
+        "54938"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lote 47 (El Reloj Residencial)",
+      "postal_code": [
+        "54938"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lote 48 (El Reloj Cronos)",
+      "postal_code": [
+        "54938"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lote 50 A",
+      "postal_code": [
+        "54938"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lote 50 B (Las Laderas)",
+      "postal_code": [
+        "54938"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lote 50 C (Real De Tultitlan)",
+      "postal_code": [
+        "54938"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lote 50 D",
+      "postal_code": [
+        "54938"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lote 52 (Torres Tultitlan)",
+      "postal_code": [
+        "54935"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lote 55 (Los Tejados)",
+      "postal_code": [
+        "54926"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lote 59 (Torres del Reloj)",
+      "postal_code": [
+        "54938"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lote 62 (Juan Rulfo)",
+      "postal_code": [
+        "54938"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lote 63 Conjunto Pilares",
+      "postal_code": [
+        "54938"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lote 64 (Octavio Paz)",
+      "postal_code": [
+        "54938"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lote 76 (El Reloj)",
+      "postal_code": [
+        "54938"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lote 82 (Guillermo Gonzalez C.)",
+      "postal_code": [
+        "54935"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lote 84 (Las Adelas)",
+      "postal_code": [
+        "54935"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lote 92 (Las Rosas)",
+      "postal_code": [
+        "54930"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Lote 93 (Amalia)",
+      "postal_code": [
+        "54933"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Magnolias",
+      "postal_code": [
+        "54932"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Magnolias 2000",
+      "postal_code": [
+        "54932"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Mariano Escobedo",
+      "postal_code": [
+        "54946"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Mariano Escobedo (los Faroles)",
+      "postal_code": [
+        "54927"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Mayorazgo de Tultitlan",
+      "postal_code": [
+        "54949"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Nativitas",
+      "postal_code": [
+        "54900"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Nueva Tultitlan",
+      "postal_code": [
+        "54945"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Nuevo INFONAVIT",
+      "postal_code": [
+        "54929"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Ojo de Agua Primera Seccion",
+      "postal_code": [
+        "54943"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Ojo de Agua Segunda Seccion",
+      "postal_code": [
+        "54943"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Paraje San Pablito",
+      "postal_code": [
+        "54939"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Parque de San Pablo",
+      "postal_code": [
+        "54933"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Pensamientos",
+      "postal_code": [
+        "54930"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Plaza Arbolada la Loma",
+      "postal_code": [
+        "54944"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Plaza Jardines",
+      "postal_code": [
+        "54933"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Portal San Pablo",
+      "postal_code": [
+        "54935"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Portal San Pablo II",
+      "postal_code": [
+        "54935"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Porto Alegre",
+      "postal_code": [
+        "54915"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Prados A",
+      "postal_code": [
+        "54934"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Prados B",
+      "postal_code": [
+        "54925"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Privada los Prados",
+      "postal_code": [
+        "54930"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Quinta el angel",
+      "postal_code": [
+        "54913"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Quintas San Pablo",
+      "postal_code": [
+        "54930"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Real del Bosque",
+      "postal_code": [
+        "54948"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Recursos Hidraulicos",
+      "postal_code": [
+        "54913"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Residencial del Sol",
+      "postal_code": [
+        "54913"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Residencial La Esperanza",
+      "postal_code": [
+        "54933"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Residencial los Reyes",
+      "postal_code": [
+        "54900"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Residencial Magnolias",
+      "postal_code": [
+        "54932"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Residencial Morelos",
+      "postal_code": [
+        "54935"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Residencial San Pablo II",
+      "postal_code": [
+        "54932"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Rinconada San Marcos",
+      "postal_code": [
+        "54954"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Rincon Colonial",
+      "postal_code": [
+        "54915"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "San Bartolo",
+      "postal_code": [
+        "54900"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "San Francisco Chilpan",
+      "postal_code": [
+        "54944"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "San Juan",
+      "postal_code": [
+        "54900"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "San Mateo Cuautepec",
+      "postal_code": [
+        "54948"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "San Pablo Castera II",
+      "postal_code": [
+        "54920"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "San Pablo de las Salinas",
+      "postal_code": [
+        "54930",
+        "54930"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "San Pablo III-A",
+      "postal_code": [
+        "54932"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "San Pablo III-B",
+      "postal_code": [
+        "54932"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Santa Clara",
+      "postal_code": [
+        "54944"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Santa Maria Cuautepec",
+      "postal_code": [
+        "54949"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Santiaguito",
+      "postal_code": [
+        "54900"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Sierra de Guadalupe",
+      "postal_code": [
+        "54957"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Solar San Pablo",
+      "postal_code": [
+        "54930"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Sol de Tultitlan (Zona Oriente)",
+      "postal_code": [
+        "54913"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Solidaridad 1ra. Seccion",
+      "postal_code": [
+        "54948"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Solidaridad 2da. Seccion",
+      "postal_code": [
+        "54948"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Solidaridad 3ra. Seccion",
+      "postal_code": [
+        "54948"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Solidaridad Social (Lote 105)",
+      "postal_code": [
+        "54930"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Sustitucion Arista",
+      "postal_code": [
+        "54926"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Tultitlan",
+      "postal_code": [
+        "54918"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Tultitlan de Mariano Escobedo Centro",
+      "postal_code": [
+        "54900"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Unidad Electricistas",
+      "postal_code": [
+        "54914"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Unidad Morelos 2da. Seccion",
+      "postal_code": [
+        "54930"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Unidad Morelos 3ra. Seccion",
+      "postal_code": [
+        "54935"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Unidad Morelos 3ra. Seccion INFONAVIT",
+      "postal_code": [
+        "54929"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Valle de Tules",
+      "postal_code": [
+        "54945"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Valle Verde",
+      "postal_code": [
+        "54945"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Verde Claro",
+      "postal_code": [
+        "54933"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Villa Esmeralda",
+      "postal_code": [
+        "54910"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Villas de San Francisco Chilpan",
+      "postal_code": [
+        "54944"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Villas de San Francisco II",
+      "postal_code": [
+        "54944"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Villas de San Jose",
+      "postal_code": [
+        "54910"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Villas de San Pablo",
+      "postal_code": [
+        "54932"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Villas Jardin",
+      "postal_code": [
+        "54913"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Villas Loreto",
+      "postal_code": [
+        "54929"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Villas San Pablo (Lote 117 Sur)",
+      "postal_code": [
+        "54932"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Villas Santa Teresita",
+      "postal_code": [
+        "54938"
+      ]
+    },
+    {
+      "city": "Tultitlan",
+      "colonia": "Villas Tultitlan (Lote 65)",
+      "postal_code": [
+        "54938"
+      ]
+    }
+  ]
+}

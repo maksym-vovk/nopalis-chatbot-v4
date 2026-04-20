@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "San Luis Amatlan",
+      "colonia": "San Esteban Amatlan",
+      "postal_code": [
+        "70811"
+      ]
+    },
+    {
+      "city": "San Luis Amatlan",
+      "colonia": "San Isidro Guishe",
+      "postal_code": [
+        "70810"
+      ]
+    },
+    {
+      "city": "San Luis Amatlan",
+      "colonia": "San Luis Amatlan",
+      "postal_code": [
+        "70810"
+      ]
+    },
+    {
+      "city": "San Luis Amatlan",
+      "colonia": "Sitio del Palmar",
+      "postal_code": [
+        "70811"
+      ]
+    }
+  ]
+}

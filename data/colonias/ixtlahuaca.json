@@ -1,0 +1,509 @@
+{
+  "data": [
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "50750"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Atotonilco",
+      "postal_code": [
+        "50754"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Casa Blanca",
+      "postal_code": [
+        "50755"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "50753"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Dolores Enyege",
+      "postal_code": [
+        "50770"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "El Rincon de los Perales",
+      "postal_code": [
+        "50770"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "El Tecomate",
+      "postal_code": [
+        "50773"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Emiliano Zapata (Santo Domingo)",
+      "postal_code": [
+        "50770"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Francisco I Madero",
+      "postal_code": [
+        "50774"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Guadalupe Cachi",
+      "postal_code": [
+        "50773"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Guadalupe del Rio",
+      "postal_code": [
+        "50753"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Hacienda la Purisima",
+      "postal_code": [
+        "50783"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Huereje",
+      "postal_code": [
+        "50774"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "50774"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "ISSEMYM",
+      "postal_code": [
+        "50744"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Ixtlahuaca de Rayon Centro",
+      "postal_code": [
+        "50740"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Jalpa de Dolores",
+      "postal_code": [
+        "50750"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Jalpa de los Banos",
+      "postal_code": [
+        "50750"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "La Bandera",
+      "postal_code": [
+        "50770"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "La Concepcion de los Banos",
+      "postal_code": [
+        "50740",
+        "50754"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "La Concepcion de los Banos Primero",
+      "postal_code": [
+        "50754"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "La Concepcion Enyege",
+      "postal_code": [
+        "50770"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "La Guadalupana (El Sauco)",
+      "postal_code": [
+        "50770"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "La Purisima",
+      "postal_code": [
+        "50783"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Las Trojes",
+      "postal_code": [
+        "50774"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "50743"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "50774"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "50740"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Numero 5",
+      "postal_code": [
+        "50774"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Numero 9",
+      "postal_code": [
+        "50774"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "PROFEDIX I",
+      "postal_code": [
+        "50740"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "PROFEDIX II",
+      "postal_code": [
+        "50740"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Quimico Jose Donaciano y Mier",
+      "postal_code": [
+        "50744"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Andres del Pedregal",
+      "postal_code": [
+        "50770"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Antonio Bonixi",
+      "postal_code": [
+        "50783"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Antonio de los Remedios",
+      "postal_code": [
+        "50750"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Bartolo del Llano",
+      "postal_code": [
+        "50774"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Cristobal de los Banos",
+      "postal_code": [
+        "50754"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "50780"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Francisco de Asis",
+      "postal_code": [
+        "50740"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Francisco de Guzman",
+      "postal_code": [
+        "50774"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Francisco del Rio",
+      "postal_code": [
+        "50753"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Francisco Ixtlahuaca",
+      "postal_code": [
+        "50780"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Ignacio del Pedregal",
+      "postal_code": [
+        "50760"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Ildefonso",
+      "postal_code": [
+        "50780"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Isidro Boxipe",
+      "postal_code": [
+        "50760"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Jeronimo Ixtapantongo",
+      "postal_code": [
+        "50785"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Jeronimo Ixtlapantongo",
+      "postal_code": [
+        "50785"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Jeronimo la Canada",
+      "postal_code": [
+        "50783"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Joaquin el Junco",
+      "postal_code": [
+        "50783"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Joaquin la Cabecera",
+      "postal_code": [
+        "50783"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Jose del Rio",
+      "postal_code": [
+        "50773"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Jose Huereje",
+      "postal_code": [
+        "50774"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Juan de las Manzanas",
+      "postal_code": [
+        "50770"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Lorenzo Toxico",
+      "postal_code": [
+        "50780"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Lorenzo Toxico Manzana Octava",
+      "postal_code": [
+        "50780"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Lorenzo Toxico Manzana Septima",
+      "postal_code": [
+        "50780"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Lorenzo Toxico Manzana Sexta",
+      "postal_code": [
+        "50780"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Mateo Ixtlahuaca",
+      "postal_code": [
+        "50773"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Miguel el Alto (Ranchos Viejos)",
+      "postal_code": [
+        "50775"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Miguel Enyege",
+      "postal_code": [
+        "50770"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Pablo de los Remedios",
+      "postal_code": [
+        "50773"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "50740"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Pedro de los Banos",
+      "postal_code": [
+        "50755"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "San Pedro la Cabecera",
+      "postal_code": [
+        "50783"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Santa Ana Ixtlahuaca (Santa Ana Ixtlahuacingo)",
+      "postal_code": [
+        "50760"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Santa Ana la Ladera",
+      "postal_code": [
+        "50760"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Santa Maria del Llano",
+      "postal_code": [
+        "50774"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Santo Domingo de Guzman",
+      "postal_code": [
+        "50773"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Santo Domingo Huereje",
+      "postal_code": [
+        "50774"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Sedue",
+      "postal_code": [
+        "50740"
+      ]
+    },
+    {
+      "city": "Ixtlahuaca",
+      "colonia": "Shira",
+      "postal_code": [
+        "50764"
+      ]
+    }
+  ]
+}

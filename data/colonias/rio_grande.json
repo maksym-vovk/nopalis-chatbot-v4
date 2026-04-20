@@ -1,0 +1,489 @@
+{
+  "data": [
+    {
+      "city": "Rio Grande",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "98425"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "alamos",
+      "postal_code": [
+        "98429"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Alfonso Medina (El Capricho)",
+      "postal_code": [
+        "98401"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Azteca",
+      "postal_code": [
+        "98422"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Bajo de Moya",
+      "postal_code": [
+        "98400"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "98422"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Cantarranas",
+      "postal_code": [
+        "98429"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "C. C. I.",
+      "postal_code": [
+        "98424"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Cienega y Mancillas",
+      "postal_code": [
+        "98400"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "CTM",
+      "postal_code": [
+        "98424"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Del Norte",
+      "postal_code": [
+        "98425"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Del Rosario",
+      "postal_code": [
+        "98425"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "El Bajio",
+      "postal_code": [
+        "98424"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "El Cuero",
+      "postal_code": [
+        "98426"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "El Fuerte",
+      "postal_code": [
+        "98401"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "El Llano",
+      "postal_code": [
+        "98426"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "El Mezquital",
+      "postal_code": [
+        "98424"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "El Ruisenor",
+      "postal_code": [
+        "98429"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "98419"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Francisco Garcia Salinas",
+      "postal_code": [
+        "98413"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Halcones",
+      "postal_code": [
+        "98423"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Ignacio Allende",
+      "postal_code": [
+        "98400"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Ignacio Lopez Rayon (Los Delgado)",
+      "postal_code": [
+        "98400"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "98419"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Imperio Azteca",
+      "postal_code": [
+        "98422"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "INFONAVIT",
+      "postal_code": [
+        "98425"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Jardines del Rio",
+      "postal_code": [
+        "98424"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Jose Maria Morelos y Pavon (La Almoloya)",
+      "postal_code": [
+        "98405"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "La Cuesta",
+      "postal_code": [
+        "98425"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "La Estrella",
+      "postal_code": [
+        "98422",
+        "98429"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "La Florida",
+      "postal_code": [
+        "98400"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "La Hacienda",
+      "postal_code": [
+        "98429"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "La Loma",
+      "postal_code": [
+        "98423"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "La Luz",
+      "postal_code": [
+        "98400"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Las Esperanzas",
+      "postal_code": [
+        "98400"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Las Palomas",
+      "postal_code": [
+        "98400"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Las Piedras",
+      "postal_code": [
+        "98400"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "98429",
+        "98429"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Lic Luis Donaldo Colosio",
+      "postal_code": [
+        "98423"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Llaneros",
+      "postal_code": [
+        "98423"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Lomas del Rio",
+      "postal_code": [
+        "98424"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Lomas del Sol",
+      "postal_code": [
+        "98426"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Loreto",
+      "postal_code": [
+        "98406"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Los Condes",
+      "postal_code": [
+        "98400"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Los Duraznos",
+      "postal_code": [
+        "98422"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Los Marquez",
+      "postal_code": [
+        "98400"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Los Ramirez",
+      "postal_code": [
+        "98400"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "98422"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Pastelera",
+      "postal_code": [
+        "98419"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Potrero Loma Prieta",
+      "postal_code": [
+        "98424"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Progreso de Alfonso Medina (Progreso)",
+      "postal_code": [
+        "98410"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "98422"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Rio Agua Naval",
+      "postal_code": [
+        "98425"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Rio Grande",
+      "postal_code": [
+        "98429"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Rio Grande Centro",
+      "postal_code": [
+        "98420"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Ruiz Cortines",
+      "postal_code": [
+        "98426"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "San Felipe",
+      "postal_code": [
+        "98404"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "San Joaquin",
+      "postal_code": [
+        "98423"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "San Judas Tadeo",
+      "postal_code": [
+        "98425"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "98426"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "98400"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "SNTE D-II-12",
+      "postal_code": [
+        "98423"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Sol de Oriente",
+      "postal_code": [
+        "98424"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "SUTSEMOP",
+      "postal_code": [
+        "98423"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Tepeyac",
+      "postal_code": [
+        "98422"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Tetillas",
+      "postal_code": [
+        "98416"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "98400"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "98400"
+      ]
+    },
+    {
+      "city": "Rio Grande",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "98424"
+      ]
+    }
+  ]
+}

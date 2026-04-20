@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Coyame del Sotol",
+      "colonia": "Coyame",
+      "postal_code": [
+        "32850"
+      ]
+    },
+    {
+      "city": "Coyame del Sotol",
+      "colonia": "Cuchillo Parado",
+      "postal_code": [
+        "32854"
+      ]
+    },
+    {
+      "city": "Coyame del Sotol",
+      "colonia": "La Paz de Mexico",
+      "postal_code": [
+        "32850"
+      ]
+    },
+    {
+      "city": "Coyame del Sotol",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "32853"
+      ]
+    }
+  ]
+}

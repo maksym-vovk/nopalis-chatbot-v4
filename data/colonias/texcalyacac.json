@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Texcalyacac",
+      "colonia": "La Joya Maravillas",
+      "postal_code": [
+        "52570"
+      ]
+    },
+    {
+      "city": "Texcalyacac",
+      "colonia": "Mexicapan",
+      "postal_code": [
+        "52570"
+      ]
+    },
+    {
+      "city": "Texcalyacac",
+      "colonia": "San Mateo Texcalyacac",
+      "postal_code": [
+        "52570"
+      ]
+    }
+  ]
+}

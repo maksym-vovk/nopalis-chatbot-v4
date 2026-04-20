@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Jalcomulco",
+      "colonia": "Jalcomulco",
+      "postal_code": [
+        "94000"
+      ]
+    },
+    {
+      "city": "Jalcomulco",
+      "colonia": "Santa Maria Tatetla",
+      "postal_code": [
+        "94019"
+      ]
+    },
+    {
+      "city": "Jalcomulco",
+      "colonia": "Tacotalpa",
+      "postal_code": [
+        "94000"
+      ]
+    }
+  ]
+}

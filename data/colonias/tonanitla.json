@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Tonanitla",
+      "colonia": "La Asuncion",
+      "postal_code": [
+        "55786"
+      ]
+    },
+    {
+      "city": "Tonanitla",
+      "colonia": "Las Chinampas",
+      "postal_code": [
+        "55785"
+      ]
+    },
+    {
+      "city": "Tonanitla",
+      "colonia": "San Juan Zacazontla",
+      "postal_code": [
+        "55785"
+      ]
+    },
+    {
+      "city": "Tonanitla",
+      "colonia": "Santa Maria Tonanitla",
+      "postal_code": [
+        "55785"
+      ]
+    },
+    {
+      "city": "Tonanitla",
+      "colonia": "Valle Verde",
+      "postal_code": [
+        "55785"
+      ]
+    },
+    {
+      "city": "Tonanitla",
+      "colonia": "Villas de Santa Maria",
+      "postal_code": [
+        "55785"
+      ]
+    }
+  ]
+}

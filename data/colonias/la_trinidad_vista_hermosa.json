@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "La Trinidad Vista Hermosa",
+      "colonia": "El Encinal",
+      "postal_code": [
+        "69509"
+      ]
+    },
+    {
+      "city": "La Trinidad Vista Hermosa",
+      "colonia": "El Moral",
+      "postal_code": [
+        "69508"
+      ]
+    },
+    {
+      "city": "La Trinidad Vista Hermosa",
+      "colonia": "La Trinidad Vista Hermosa",
+      "postal_code": [
+        "69507"
+      ]
+    }
+  ]
+}

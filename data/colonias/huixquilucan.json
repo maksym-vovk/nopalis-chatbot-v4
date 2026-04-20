@@ -1,0 +1,712 @@
+{
+  "data": [
+    {
+      "city": "Huixquilucan",
+      "colonia": "Agua Bendita",
+      "postal_code": [
+        "52799"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Agua Blanca",
+      "postal_code": [
+        "52799"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Agua de Santo",
+      "postal_code": [
+        "52769"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Ampliacion Palo Solo",
+      "postal_code": [
+        "52778"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Arenal",
+      "postal_code": [
+        "52774"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Balcones de la Herradura",
+      "postal_code": [
+        "52785"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Bosque Real",
+      "postal_code": [
+        "52774"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Bosques de la Herradura",
+      "postal_code": [
+        "52783"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Bosques de las Palmas",
+      "postal_code": [
+        "52787"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Canales",
+      "postal_code": [
+        "52795"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Cerro de San Francisco",
+      "postal_code": [
+        "52798"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Conjunto Urbano Green House",
+      "postal_code": [
+        "52779"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Constituyentes de 1917",
+      "postal_code": [
+        "52775"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Del Rio",
+      "postal_code": [
+        "52773"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "El Bosque",
+      "postal_code": [
+        "52777"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "52760"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "El Escobal",
+      "postal_code": [
+        "52773"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "El Guarda (Puerto el Guarda)",
+      "postal_code": [
+        "52794"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "El Hielo",
+      "postal_code": [
+        "52794"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "El Laurel",
+      "postal_code": [
+        "52799"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "El Manzano",
+      "postal_code": [
+        "52773"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "El Mirasol",
+      "postal_code": [
+        "52766"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "El Obraje",
+      "postal_code": [
+        "52793"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "El Olivo",
+      "postal_code": [
+        "52789"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "El Palacio",
+      "postal_code": [
+        "52767"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "52774"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "El Plan",
+      "postal_code": [
+        "52760"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "El Retiro",
+      "postal_code": [
+        "52760"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "El Xiguiro",
+      "postal_code": [
+        "52767"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Esfuerzo Obrero",
+      "postal_code": [
+        "52765"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Federal Burocratica",
+      "postal_code": [
+        "52777"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Frondoso Torres",
+      "postal_code": [
+        "52788"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Galardon",
+      "postal_code": [
+        "52785"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Hacienda de las Palmas",
+      "postal_code": [
+        "52763"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Huiloteapan (San Jose Huiloteapan)",
+      "postal_code": [
+        "52797"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Huixquilucan de Degollado Centro",
+      "postal_code": [
+        "52760"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Ignacio Allende",
+      "postal_code": [
+        "52767"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Industria Militar y Cove",
+      "postal_code": [
+        "52765"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Interlomas",
+      "postal_code": [
+        "52787"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Jardines de la Herradura",
+      "postal_code": [
+        "52785"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Jesus del Monte",
+      "postal_code": [
+        "52764"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "La Canada",
+      "postal_code": [
+        "52769"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "La Capilla",
+      "postal_code": [
+        "52773"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "La Cima",
+      "postal_code": [
+        "52769"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "La Cumbre",
+      "postal_code": [
+        "52794"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "La Glorieta",
+      "postal_code": [
+        "52794"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "La Herradura",
+      "postal_code": [
+        "52784"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "La Herradura Seccion I",
+      "postal_code": [
+        "52784"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "La Herradura Seccion II",
+      "postal_code": [
+        "52784"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "La Herradura Seccion III",
+      "postal_code": [
+        "52784"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "La Manzana (La Rinconada)",
+      "postal_code": [
+        "52773"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "La Pera",
+      "postal_code": [
+        "52790"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "La Retama",
+      "postal_code": [
+        "52764"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Las Canteras",
+      "postal_code": [
+        "52770"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "La Unidad",
+      "postal_code": [
+        "52776"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Llano Grande (San Miguel Llano Grande)",
+      "postal_code": [
+        "52799"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Loma del Carmen",
+      "postal_code": [
+        "52776"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Lomas Anahuac",
+      "postal_code": [
+        "52786"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Lomas Country Club",
+      "postal_code": [
+        "52779"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Lomas de La Herradura",
+      "postal_code": [
+        "52785"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Lomas de las Palmas",
+      "postal_code": [
+        "52788"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Lomas del Olivo",
+      "postal_code": [
+        "52788"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Lomas del Sol",
+      "postal_code": [
+        "52789"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Lomas de Tecamachalco Seccion Bosques I y II",
+      "postal_code": [
+        "52780"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Lomas de Tecamachalco Seccion Cumbres",
+      "postal_code": [
+        "52780"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Magdalena Chichicaspa",
+      "postal_code": [
+        "52773"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Magdalena Chichicaspa (Las Campanitas)",
+      "postal_code": [
+        "52773"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Magnocentro",
+      "postal_code": [
+        "52786"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Monton Cuarteles",
+      "postal_code": [
+        "52779"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Palmas Altas Residencial",
+      "postal_code": [
+        "52787"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Palo Solo",
+      "postal_code": [
+        "52778"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Paradice",
+      "postal_code": [
+        "52777"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Paraje el Mirador",
+      "postal_code": [
+        "52793"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Paraje Trejo (El Chaparral)",
+      "postal_code": [
+        "52793"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Parques de la Herradura",
+      "postal_code": [
+        "52786"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Paseo de las Palmas",
+      "postal_code": [
+        "52787"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Paseos del Bosque",
+      "postal_code": [
+        "52770"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Piedra Grande",
+      "postal_code": [
+        "52799"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Pirules",
+      "postal_code": [
+        "52779"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Privada del Bosque",
+      "postal_code": [
+        "52788"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Rinconada de la Herradura",
+      "postal_code": [
+        "52783"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "San Bartolome Coatepec",
+      "postal_code": [
+        "52793"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "San Cristobal Texcalucan",
+      "postal_code": [
+        "52796"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "San Fernando",
+      "postal_code": [
+        "52765",
+        "52765"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "San Francisco Ayotuzco",
+      "postal_code": [
+        "52798"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "San Francisco Dos Rios",
+      "postal_code": [
+        "52790"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "San Jacinto",
+      "postal_code": [
+        "52766"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "San Juan Bautista",
+      "postal_code": [
+        "52760"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "San Juan Yautepec",
+      "postal_code": [
+        "52768"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "San Martin",
+      "postal_code": [
+        "52760"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "San Melchor",
+      "postal_code": [
+        "52760"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "52760"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "San Ramon",
+      "postal_code": [
+        "52760"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Santa Cruz Ayotuxco",
+      "postal_code": [
+        "52795"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Santiago Yancuitlalpan",
+      "postal_code": [
+        "52766"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Tierra y Libertad",
+      "postal_code": [
+        "52775"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Valle de las Palmas",
+      "postal_code": [
+        "52787"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Villa de las Lomas",
+      "postal_code": [
+        "52787"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Villa Florence",
+      "postal_code": [
+        "52763"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Vista Horizonte",
+      "postal_code": [
+        "52763"
+      ]
+    },
+    {
+      "city": "Huixquilucan",
+      "colonia": "Zacamulpa",
+      "postal_code": [
+        "52766"
+      ]
+    }
+  ]
+}

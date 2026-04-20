@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Teopantlan",
+      "colonia": "San Francisco Jalapexco",
+      "postal_code": [
+        "74600"
+      ]
+    },
+    {
+      "city": "Teopantlan",
+      "colonia": "San Sebastian Tenango",
+      "postal_code": [
+        "74600"
+      ]
+    },
+    {
+      "city": "Teopantlan",
+      "colonia": "Teopantlan",
+      "postal_code": [
+        "74600"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Concepcion Buenavista",
+      "colonia": "Concepcion Buenavista",
+      "postal_code": [
+        "69320"
+      ]
+    },
+    {
+      "city": "Concepcion Buenavista",
+      "colonia": "El Enebro",
+      "postal_code": [
+        "69325"
+      ]
+    },
+    {
+      "city": "Concepcion Buenavista",
+      "colonia": "Rio de las Palmas",
+      "postal_code": [
+        "69324"
+      ]
+    },
+    {
+      "city": "Concepcion Buenavista",
+      "colonia": "San Miguel Astatla",
+      "postal_code": [
+        "69321"
+      ]
+    },
+    {
+      "city": "Concepcion Buenavista",
+      "colonia": "Santa Cruz Corunda",
+      "postal_code": [
+        "69321"
+      ]
+    }
+  ]
+}

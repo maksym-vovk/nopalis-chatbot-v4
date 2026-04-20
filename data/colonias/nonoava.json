@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Nonoava",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "33170"
+      ]
+    },
+    {
+      "city": "Nonoava",
+      "colonia": "Humariza",
+      "postal_code": [
+        "33179"
+      ]
+    },
+    {
+      "city": "Nonoava",
+      "colonia": "Nonoava",
+      "postal_code": [
+        "33170"
+      ]
+    }
+  ]
+}

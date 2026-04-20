@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Santiago Apoala",
+      "colonia": "Jazmin Morelos",
+      "postal_code": [
+        "69627"
+      ]
+    },
+    {
+      "city": "Santiago Apoala",
+      "colonia": "Santiago Apoala",
+      "postal_code": [
+        "69625"
+      ]
+    },
+    {
+      "city": "Santiago Apoala",
+      "colonia": "Tierra Colorada",
+      "postal_code": [
+        "69626"
+      ]
+    }
+  ]
+}

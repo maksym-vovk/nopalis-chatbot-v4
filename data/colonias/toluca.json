@@ -1,0 +1,2946 @@
+{
+  "data": [
+    {
+      "city": "Toluca",
+      "colonia": "14 de Diciembre",
+      "postal_code": [
+        "50100"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "2 de Marzo",
+      "postal_code": [
+        "50285"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "3 Caminos",
+      "postal_code": [
+        "50020"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "5 de Mayo",
+      "postal_code": [
+        "50090"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Acuxtitla",
+      "postal_code": [
+        "50258"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Agua Bendita",
+      "postal_code": [
+        "50256"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Alcaltunco",
+      "postal_code": [
+        "50290"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Alejandria",
+      "postal_code": [
+        "50260"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Almoloya de Juarez",
+      "postal_code": [
+        "50285"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Altamirano",
+      "postal_code": [
+        "50130"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Americas",
+      "postal_code": [
+        "50130"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Ampliacion Lazaro Cardenas",
+      "postal_code": [
+        "50180"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Apilulco",
+      "postal_code": [
+        "50257"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Armando Neyra Chavez",
+      "postal_code": [
+        "50200"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Arroyo Vista Hermosa",
+      "postal_code": [
+        "50236"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Atenea",
+      "postal_code": [
+        "50260"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Atotonilco",
+      "postal_code": [
+        "50103"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Aviacion Autopan",
+      "postal_code": [
+        "50295"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Azteca",
+      "postal_code": [
+        "50180"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Balbuena",
+      "postal_code": [
+        "50295"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Balcones de San Felipe",
+      "postal_code": [
+        "50254"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Balcones Santin",
+      "postal_code": [
+        "50214"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Barrio San Gabriel",
+      "postal_code": [
+        "50200"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "50190",
+        "50257"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Bordo de las Canastas",
+      "postal_code": [
+        "50225"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Bordo Nuevo",
+      "postal_code": [
+        "50290"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Bosques de Cantabria",
+      "postal_code": [
+        "50210"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Bosques de Colon",
+      "postal_code": [
+        "50180"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Bosques de la Mora",
+      "postal_code": [
+        "50020"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Bosques de San Mateo",
+      "postal_code": [
+        "50100"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "50273"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Cacalomacan Centro",
+      "postal_code": [
+        "50265"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Calixtlahuaca",
+      "postal_code": [
+        "50280"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Campo Real",
+      "postal_code": [
+        "50245"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Campo Real I",
+      "postal_code": [
+        "50245"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Campo Real II",
+      "postal_code": [
+        "50245"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Campo Real III",
+      "postal_code": [
+        "50245"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Capultitlan Centro",
+      "postal_code": [
+        "50260"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Carlos Hank Gonzalez",
+      "postal_code": [
+        "50026"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Celanese",
+      "postal_code": [
+        "50010"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Cerrillo Piedras Blancas",
+      "postal_code": [
+        "50295"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Chichipicas",
+      "postal_code": [
+        "50290"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Chupascliya",
+      "postal_code": [
+        "50290"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Cientificos",
+      "postal_code": [
+        "50075"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Cipres",
+      "postal_code": [
+        "50120"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Club Jardin",
+      "postal_code": [
+        "50010"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Comision Federal de Electricidad",
+      "postal_code": [
+        "50150"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Contracaja",
+      "postal_code": [
+        "50290"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Cristo Rey",
+      "postal_code": [
+        "50255"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "50130"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Cultural",
+      "postal_code": [
+        "50110"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "De Canaleja",
+      "postal_code": [
+        "50220"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "De Cristo Rey",
+      "postal_code": [
+        "50263"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "De Jesus 1da. Seccion",
+      "postal_code": [
+        "50290"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "De Jesus 2da. Seccion",
+      "postal_code": [
+        "50290"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "De Jesus 3a. Seccion",
+      "postal_code": [
+        "50294"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "De la Crespa",
+      "postal_code": [
+        "50016"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "De la Cruz",
+      "postal_code": [
+        "50263"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Del Campo",
+      "postal_code": [
+        "50265"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Del Deporte",
+      "postal_code": [
+        "50110"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Del Espiritu Santo",
+      "postal_code": [
+        "50263"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Del Panteon",
+      "postal_code": [
+        "50010",
+        "50254",
+        "50265"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Del Parque",
+      "postal_code": [
+        "50180"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Del Pozo",
+      "postal_code": [
+        "50290"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Del Tejocote",
+      "postal_code": [
+        "50295"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "De Pueblo Nuevo",
+      "postal_code": [
+        "50294"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "De Santa Cruz",
+      "postal_code": [
+        "50294"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "De Santa Maria",
+      "postal_code": [
+        "50294"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Doctores",
+      "postal_code": [
+        "50060"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Dos Rios",
+      "postal_code": [
+        "50253"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Ejido Santa Cruz Atzcapotzaltongo",
+      "postal_code": [
+        "50290"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Balcon",
+      "postal_code": [
+        "50010"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Calvario",
+      "postal_code": [
+        "50253",
+        "50256",
+        "50284",
+        "50286"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Canal",
+      "postal_code": [
+        "50256"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Carmen Totoltepec",
+      "postal_code": [
+        "50240"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Cerrillo Vista Hermosa",
+      "postal_code": [
+        "50235"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "50290"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Cerro del Perico",
+      "postal_code": [
+        "50290"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Chamizal",
+      "postal_code": [
+        "50258"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Charco",
+      "postal_code": [
+        "50019"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Chorrito",
+      "postal_code": [
+        "50265"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Coecillo",
+      "postal_code": [
+        "50246"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Coporo",
+      "postal_code": [
+        "50050"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Cruzado",
+      "postal_code": [
+        "50257"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Durazno",
+      "postal_code": [
+        "50255"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Electricistas Locales",
+      "postal_code": [
+        "50040"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Fronton",
+      "postal_code": [
+        "50254"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "50254",
+        "50255"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Mogote",
+      "postal_code": [
+        "50018",
+        "50254"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Mostrante",
+      "postal_code": [
+        "50258"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Olimpo",
+      "postal_code": [
+        "50240"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Pacifico",
+      "postal_code": [
+        "50260"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "50274"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Pozo Blanco",
+      "postal_code": [
+        "50283"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "50255"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "50258"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Seminario 1a Seccion",
+      "postal_code": [
+        "50170"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Seminario 2a Seccion",
+      "postal_code": [
+        "50170"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Seminario 3a Seccion",
+      "postal_code": [
+        "50170"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Seminario 4a Seccion",
+      "postal_code": [
+        "50170"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Seminario 5a Seccion",
+      "postal_code": [
+        "50170"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Tejocote",
+      "postal_code": [
+        "50010"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Tepetate",
+      "postal_code": [
+        "50286"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "El Trigo",
+      "postal_code": [
+        "50100"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "50190"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Eva Samano de Lopez Mateos",
+      "postal_code": [
+        "50190"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Ex-Hacienda San Jorge",
+      "postal_code": [
+        "50100"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Ex Hacienda San Jose",
+      "postal_code": [
+        "50210"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Federal (Adolfo Lopez Mateos)",
+      "postal_code": [
+        "50120"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Fidel Velazquez",
+      "postal_code": [
+        "50070"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Francisco Murguia El Ranchito",
+      "postal_code": [
+        "50130"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Galaxias de San Lorenzo",
+      "postal_code": [
+        "50010"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Galaxia Toluca",
+      "postal_code": [
+        "50295"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Geovillas Centenario",
+      "postal_code": [
+        "50225"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Geo Villas de la Ind",
+      "postal_code": [
+        "50228"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Geo Villas de la Ind. II",
+      "postal_code": [
+        "50228"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Geovillas de San Mateo",
+      "postal_code": [
+        "50227"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Geovillas los Cedros",
+      "postal_code": [
+        "50228"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Granjas",
+      "postal_code": [
+        "50120"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Gran Morada",
+      "postal_code": [
+        "50010"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "50010",
+        "50255",
+        "50258",
+        "50265"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Guadalupe San Buenaventura",
+      "postal_code": [
+        "50110"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Guadalupe Totoltepec",
+      "postal_code": [
+        "50235"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Hacienda del Valle I",
+      "postal_code": [
+        "50210"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Hacienda del Valle II",
+      "postal_code": [
+        "50210"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Hacienda La Galia",
+      "postal_code": [
+        "50245"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Hacienda San Agustin",
+      "postal_code": [
+        "50010"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Hermanos de la Vega",
+      "postal_code": [
+        "50180"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Heroes del 5 de Mayo",
+      "postal_code": [
+        "50170"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Huitzila",
+      "postal_code": [
+        "50060"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Independencia",
+      "postal_code": [
+        "50070"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Isidro Fabela 1a Seccion",
+      "postal_code": [
+        "50170"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Isidro Fabela 2a Seccion",
+      "postal_code": [
+        "50170"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Izcalli IPIEM",
+      "postal_code": [
+        "50150"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Izcalli Toluca",
+      "postal_code": [
+        "50150"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Jardines de la Crespa",
+      "postal_code": [
+        "50016"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Jardines de San Pedro",
+      "postal_code": [
+        "50253"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Jicaltepec Autopan",
+      "postal_code": [
+        "50290"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Jicaltepec Cuexcontitlan",
+      "postal_code": [
+        "50205"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Juan Beltran",
+      "postal_code": [
+        "50150"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Julian Escalante",
+      "postal_code": [
+        "50295"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Junta Local de Caminos",
+      "postal_code": [
+        "50285"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Alameda",
+      "postal_code": [
+        "50245"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Arboleda",
+      "postal_code": [
+        "50228"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Arboleda II",
+      "postal_code": [
+        "50226"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Arboleda III",
+      "postal_code": [
+        "50226"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Arboleda IV",
+      "postal_code": [
+        "50228"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Arboleda V",
+      "postal_code": [
+        "50228"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Canada",
+      "postal_code": [
+        "50250"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Capilla",
+      "postal_code": [
+        "50265"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Comunidad",
+      "postal_code": [
+        "50253"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Concepcion",
+      "postal_code": [
+        "50200"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Constitucion Totoltepec",
+      "postal_code": [
+        "50236"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Crespa",
+      "postal_code": [
+        "50228"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "50258"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Cruz Comalco",
+      "postal_code": [
+        "50010"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Curva",
+      "postal_code": [
+        "50250"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Era",
+      "postal_code": [
+        "50260"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Floresta",
+      "postal_code": [
+        "50227"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Granja",
+      "postal_code": [
+        "50290"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Joya",
+      "postal_code": [
+        "50100",
+        "50257",
+        "50257"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Joya de Ignacio Esquivel",
+      "postal_code": [
+        "50257"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Loma",
+      "postal_code": [
+        "50010",
+        "50265"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Loma Cuexcontitlan",
+      "postal_code": [
+        "50206"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Loma Residencial",
+      "postal_code": [
+        "50250"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Machincuepa",
+      "postal_code": [
+        "50168"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Magdalena",
+      "postal_code": [
+        "50010",
+        "50190"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Magdalena Otzacatipan",
+      "postal_code": [
+        "50210"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Merced  (Alameda)",
+      "postal_code": [
+        "50080"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Palma",
+      "postal_code": [
+        "50265"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Palma Toltepec",
+      "postal_code": [
+        "50285"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Pena",
+      "postal_code": [
+        "50283",
+        "50286"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Perla",
+      "postal_code": [
+        "50228"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Retama",
+      "postal_code": [
+        "50040"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Ribera I",
+      "postal_code": [
+        "50100"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Ribera II",
+      "postal_code": [
+        "50100"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Ribera III",
+      "postal_code": [
+        "50100"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Ribera IV",
+      "postal_code": [
+        "50100"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Rivera",
+      "postal_code": [
+        "50260"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Santisima Trinidad",
+      "postal_code": [
+        "50263"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Las Barranquitas",
+      "postal_code": [
+        "50256"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Las Brisas",
+      "postal_code": [
+        "50017"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Las Bugambilias",
+      "postal_code": [
+        "50245",
+        "50285"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "50018"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Las Fuentes",
+      "postal_code": [
+        "50228"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Las Fuentes del Ordal",
+      "postal_code": [
+        "50228"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Las Fuentes Ind.",
+      "postal_code": [
+        "50228"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Las Haciendas",
+      "postal_code": [
+        "50170"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Las Jaras San Nicolas",
+      "postal_code": [
+        "50295"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "50250"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Las Misiones",
+      "postal_code": [
+        "50230"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "50264"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "50256",
+        "50264"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Las Palomas",
+      "postal_code": [
+        "50250",
+        "50265"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Las Torres",
+      "postal_code": [
+        "50075"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Teresona",
+      "postal_code": [
+        "50040"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "50200",
+        "50295"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Vega",
+      "postal_code": [
+        "50290"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Venta",
+      "postal_code": [
+        "50254"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "La Virgen de Guadalupe",
+      "postal_code": [
+        "50263"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "50180",
+        "50285"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Linda Vista",
+      "postal_code": [
+        "50255"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "50115",
+        "50254",
+        "50255",
+        "50257"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Lomas Altas",
+      "postal_code": [
+        "50060"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Lomas de San Mateo",
+      "postal_code": [
+        "50100"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Los Ahuehuetes",
+      "postal_code": [
+        "50240"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "50253"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "50020"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Los Cipreses",
+      "postal_code": [
+        "50283"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Los Frailes",
+      "postal_code": [
+        "50020"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Los Girasoles",
+      "postal_code": [
+        "50010"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Los Girasoles I",
+      "postal_code": [
+        "50010"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Los Girasoles II",
+      "postal_code": [
+        "50010"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Los Girasoles III",
+      "postal_code": [
+        "50010"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Los Girasoles IV",
+      "postal_code": [
+        "50010"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Los Heroes I",
+      "postal_code": [
+        "50245"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Los Heroes II",
+      "postal_code": [
+        "50246"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Los Heroes III",
+      "postal_code": [
+        "50246"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Los Pajaritos",
+      "postal_code": [
+        "50255"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "50263"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Los Pocitos",
+      "postal_code": [
+        "50284"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Los Sabinos",
+      "postal_code": [
+        "50228"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Los Sauces I",
+      "postal_code": [
+        "50210"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Los Sauces II",
+      "postal_code": [
+        "50210"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Los Sauces III",
+      "postal_code": [
+        "50210"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Los Sauces IV",
+      "postal_code": [
+        "50210"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Los Sauces V",
+      "postal_code": [
+        "50210"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Maria Bonita",
+      "postal_code": [
+        "50245"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Meteoro",
+      "postal_code": [
+        "50070"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Miguel Hidalgo (Corralitos)",
+      "postal_code": [
+        "50100"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Miramonte",
+      "postal_code": [
+        "50260"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Misiones de Santa Esperanza",
+      "postal_code": [
+        "50227"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Moderna de la Cruz",
+      "postal_code": [
+        "50180"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Morelos 1a Seccion",
+      "postal_code": [
+        "50120"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Morelos 2a Secc",
+      "postal_code": [
+        "50120"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Natividad",
+      "postal_code": [
+        "50200"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "50100"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Ninos Heroes (Pensiones)",
+      "postal_code": [
+        "50060"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Nueva Oxtotitlan",
+      "postal_code": [
+        "50100"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Nueva San Francisco",
+      "postal_code": [
+        "50225"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Nueva Santa Maria",
+      "postal_code": [
+        "50140"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Nueva Santa Maria de las Rosas",
+      "postal_code": [
+        "50140"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Ocho Cedros",
+      "postal_code": [
+        "50170"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Ocho Cedros 2a Seccion",
+      "postal_code": [
+        "50170"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "50285"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Palmillas",
+      "postal_code": [
+        "50285"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Paraje el Ocote",
+      "postal_code": [
+        "50258"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Paraje Tlalmimilolpan",
+      "postal_code": [
+        "50255"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Parque de San Mateo",
+      "postal_code": [
+        "50100"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Parque industrial Exportec I",
+      "postal_code": [
+        "50223"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Parque industrial Exportec II",
+      "postal_code": [
+        "50223"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Parque industrial San Antonio",
+      "postal_code": [
+        "50016"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Parque Industrial San Cayetano",
+      "postal_code": [
+        "50295"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Parque industrial Toluca",
+      "postal_code": [
+        "50293"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Parque industrial Toluca 2000",
+      "postal_code": [
+        "50233"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Parque industrial Vesta",
+      "postal_code": [
+        "50233"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Parques Nacionales",
+      "postal_code": [
+        "50100"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Paseos del Pilar",
+      "postal_code": [
+        "50200"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Paseos del Valle",
+      "postal_code": [
+        "50260"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Paseos de Toluca",
+      "postal_code": [
+        "50227"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Paseos San Martin",
+      "postal_code": [
+        "50285"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Paseos Santin",
+      "postal_code": [
+        "50214"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Paseo Tollocan INFONAVIT",
+      "postal_code": [
+        "50123"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Plazas de San Buenaventura",
+      "postal_code": [
+        "50110"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Prados de Tollocan",
+      "postal_code": [
+        "50240"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Progreso",
+      "postal_code": [
+        "50150"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Protinbos",
+      "postal_code": [
+        "50100"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Pueblo Nuevo (Serraton)",
+      "postal_code": [
+        "50274"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Puxinco",
+      "postal_code": [
+        "50258"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Rancho Buenavista",
+      "postal_code": [
+        "50258"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Rancho de Maya",
+      "postal_code": [
+        "50250"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Rancho la Mora",
+      "postal_code": [
+        "50020"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Rancho San Jose",
+      "postal_code": [
+        "50210"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Real del Bosque",
+      "postal_code": [
+        "50110"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Real de San Pablo",
+      "postal_code": [
+        "50295"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Reforma y Ferrocarriles Nacionales",
+      "postal_code": [
+        "50070"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Residencial Colon",
+      "postal_code": [
+        "50120"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Residencial la Joya",
+      "postal_code": [
+        "50245"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Rinconada de la Mora",
+      "postal_code": [
+        "50020"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Rinconadas del Pilar",
+      "postal_code": [
+        "50227"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Rincon del Parque",
+      "postal_code": [
+        "50100"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Rincon de San Lorenzo",
+      "postal_code": [
+        "50017"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Sagrado Corazon de Jesus",
+      "postal_code": [
+        "50265"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Salvador Sanchez Colin",
+      "postal_code": [
+        "50150"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Andres Cuexcontitlan",
+      "postal_code": [
+        "50200"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Angelin",
+      "postal_code": [
+        "50010"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "50018"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Antonio Abad",
+      "postal_code": [
+        "50245"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Antonio Buenavista",
+      "postal_code": [
+        "50266"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Bernardino",
+      "postal_code": [
+        "50080"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Blas Otzacatipan",
+      "postal_code": [
+        "50230"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Blas Totoltepec",
+      "postal_code": [
+        "50230"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Buenaventura",
+      "postal_code": [
+        "50110"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "50295"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Carlos Autopan",
+      "postal_code": [
+        "50295"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Cayetano Morelos",
+      "postal_code": [
+        "50295"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Cristobal Huichochitlan",
+      "postal_code": [
+        "50200"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Diego",
+      "postal_code": [
+        "50295"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Diego de los Padres Cuexcontitlan",
+      "postal_code": [
+        "50205"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Diego de los Padres Otzacatipan",
+      "postal_code": [
+        "50205"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Diego Linares",
+      "postal_code": [
+        "50206"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Felipe de Jesus",
+      "postal_code": [
+        "50264"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Felipe Tlalmimilolpan",
+      "postal_code": [
+        "50250"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "50235"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Francisco Totoltepec",
+      "postal_code": [
+        "50235"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "50285"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Isidro Labrador",
+      "postal_code": [
+        "50263"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Jeronimo",
+      "postal_code": [
+        "50245"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Jose",
+      "postal_code": [
+        "50264"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Jose Buenavista",
+      "postal_code": [
+        "50295"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Jose Guadalupe",
+      "postal_code": [
+        "50200"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Jose Guadalupe Otzacatipan",
+      "postal_code": [
+        "50230"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Jose la Costa",
+      "postal_code": [
+        "50295"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Juan Apostol",
+      "postal_code": [
+        "50263"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Juan Buenavista",
+      "postal_code": [
+        "50060"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Juan de la Cruz",
+      "postal_code": [
+        "50010"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Juan Tilapa Centro",
+      "postal_code": [
+        "50255"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Judas Tadeo",
+      "postal_code": [
+        "50264"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Lorenzo Tepaltitlan Centro",
+      "postal_code": [
+        "50010"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Luis Obispo",
+      "postal_code": [
+        "50040"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Marcos Yachihuacaltepec",
+      "postal_code": [
+        "50285",
+        "50285"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Martin Toltepec",
+      "postal_code": [
+        "50285"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Mateo",
+      "postal_code": [
+        "50295"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Mateo Otzacatipan",
+      "postal_code": [
+        "50220"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Mateo Oxtotitlan",
+      "postal_code": [
+        "50100"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Miguel Apinahuizco",
+      "postal_code": [
+        "50040"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Miguel Totoltepec",
+      "postal_code": [
+        "50225"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Miguel Zacango",
+      "postal_code": [
+        "50265"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Nicolas Tolentino",
+      "postal_code": [
+        "50230"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "50264",
+        "50273"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Pablo Autopan",
+      "postal_code": [
+        "50290"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "50265"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Pedro Totoltepec",
+      "postal_code": [
+        "50226"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "50019"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Salvador",
+      "postal_code": [
+        "50200"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "50150"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Santa Ana Tlapaltitlan",
+      "postal_code": [
+        "50160"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Santa Barbara",
+      "postal_code": [
+        "50050"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Santa Clara",
+      "postal_code": [
+        "50090"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Santa Cruz Atzcapotzaltongo",
+      "postal_code": [
+        "50290"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Santa Cruz Otzacatipan",
+      "postal_code": [
+        "50210"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Santa Juanita",
+      "postal_code": [
+        "50250"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "50255"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Santa Maria de las Rosas",
+      "postal_code": [
+        "50140"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Santa Maria Totoltepec",
+      "postal_code": [
+        "50245"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Santa Maria Zozoquilpan",
+      "postal_code": [
+        "50168"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "50200"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Santiago Miltepec",
+      "postal_code": [
+        "50020"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Santiago Tlacotepec",
+      "postal_code": [
+        "50255"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Santiago Tlacotepec Centro",
+      "postal_code": [
+        "50255"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Santiago Tlaxomulco Centro",
+      "postal_code": [
+        "50280"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Sebastian Lerdo de Tejada",
+      "postal_code": [
+        "50295"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Sector Popular",
+      "postal_code": [
+        "50040"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Sixto Noguez",
+      "postal_code": [
+        "50265"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Sor Juana Ines de la Cruz",
+      "postal_code": [
+        "50040",
+        "50245",
+        "50265"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Tanamato",
+      "postal_code": [
+        "50290"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Tecaxic",
+      "postal_code": [
+        "50270"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Tejocote",
+      "postal_code": [
+        "50290"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Tenojo",
+      "postal_code": [
+        "50284"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Tepetongo",
+      "postal_code": [
+        "50270"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Terminal",
+      "postal_code": [
+        "50140"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Tierra Coloradas",
+      "postal_code": [
+        "50265"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Tilapa",
+      "postal_code": [
+        "50258"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Tlachaloya",
+      "postal_code": [
+        "50294",
+        "50295"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Tlachaloya 2a Seccion Centro",
+      "postal_code": [
+        "50295"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Tlacopa",
+      "postal_code": [
+        "50010"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Tlala",
+      "postal_code": [
+        "50254"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Tlalnepantla",
+      "postal_code": [
+        "50274"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Tlanepantla",
+      "postal_code": [
+        "50103"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Tlayaca",
+      "postal_code": [
+        "50103"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Tollocan",
+      "postal_code": [
+        "50257"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Toluca",
+      "postal_code": [
+        "50071"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Toluca de Lerdo Centro",
+      "postal_code": [
+        "50000"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Toluca (Lic. Adolfo Lopez Mateos)",
+      "postal_code": [
+        "50209"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Unidad Victoria",
+      "postal_code": [
+        "50190"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Union",
+      "postal_code": [
+        "50040"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Universidad",
+      "postal_code": [
+        "50010",
+        "50130"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Valle de Santiago Residencial",
+      "postal_code": [
+        "50020"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Valle Don Camilo",
+      "postal_code": [
+        "50140"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Valle Verde",
+      "postal_code": [
+        "50140"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Vertice",
+      "postal_code": [
+        "50150"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "50110"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villa de San Andres",
+      "postal_code": [
+        "50228"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villa Hogar",
+      "postal_code": [
+        "50170"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villa Mane",
+      "postal_code": [
+        "50210"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villas de la Hacienda 1a. Seccion",
+      "postal_code": [
+        "50210"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villas de la Hacienda 2a. Seccion",
+      "postal_code": [
+        "50210"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villas de San Buenaventura",
+      "postal_code": [
+        "50110"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villas de San Mateo",
+      "postal_code": [
+        "50220"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villas de Santa Ana",
+      "postal_code": [
+        "50160"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villas de Santa Ana I",
+      "postal_code": [
+        "50160"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villas de Santa Ana II",
+      "postal_code": [
+        "50160"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villas de Santa Ana III",
+      "postal_code": [
+        "50160"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villas de Santa Ana IV",
+      "postal_code": [
+        "50160"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villas de Santa Ana V",
+      "postal_code": [
+        "50160"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villas de Santa Ana VI",
+      "postal_code": [
+        "50160"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villas de Santa Ana VII",
+      "postal_code": [
+        "50160"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villas de Santa Monica",
+      "postal_code": [
+        "50227"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villas el Limoncito",
+      "postal_code": [
+        "50170"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villas Florencia",
+      "postal_code": [
+        "50140"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villas Fontana",
+      "postal_code": [
+        "50260"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villas Fontana I",
+      "postal_code": [
+        "50070"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villas Fontana II",
+      "postal_code": [
+        "50070"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villas los angeles",
+      "postal_code": [
+        "50290"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villas Santa Esther",
+      "postal_code": [
+        "50260"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villas Santa Maria (Galaxia)",
+      "postal_code": [
+        "50226"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villas Santin",
+      "postal_code": [
+        "50214"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villas Tepaltitlan",
+      "postal_code": [
+        "50010"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villa Toscana",
+      "postal_code": [
+        "50230"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Villa Tulipanes",
+      "postal_code": [
+        "50220"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "50255"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Xicaltepec",
+      "postal_code": [
+        "50295"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Zimbrones",
+      "postal_code": [
+        "50285"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Zona Militar",
+      "postal_code": [
+        "50122"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Zopilocalco Norte",
+      "postal_code": [
+        "50050"
+      ]
+    },
+    {
+      "city": "Toluca",
+      "colonia": "Zopilocalco Sur",
+      "postal_code": [
+        "50050"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Ixmatlahuacan",
+      "colonia": "Chicalpextle",
+      "postal_code": [
+        "95430"
+      ]
+    },
+    {
+      "city": "Ixmatlahuacan",
+      "colonia": "Ixmatlahuacan",
+      "postal_code": [
+        "95430"
+      ]
+    },
+    {
+      "city": "Ixmatlahuacan",
+      "colonia": "Mozapa",
+      "postal_code": [
+        "95430"
+      ]
+    },
+    {
+      "city": "Ixmatlahuacan",
+      "colonia": "Pachuca",
+      "postal_code": [
+        "95430"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3692 @@
+{
+  "data": [
+    {
+      "city": "Hidalgo",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "61211"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "3 de Mayo",
+      "postal_code": [
+        "61128"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "5 de Mayo",
+      "postal_code": [
+        "61201"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Agostitlan",
+      "postal_code": [
+        "61241"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Agua Azul",
+      "postal_code": [
+        "61246"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Agua Bendita",
+      "postal_code": [
+        "61235"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Agua Blanca",
+      "postal_code": [
+        "61228"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Agua del Pino",
+      "postal_code": [
+        "61206"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Agua Escondida",
+      "postal_code": [
+        "61235"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Agua Fria (Pizcuaro)",
+      "postal_code": [
+        "61217"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Agua Quemada",
+      "postal_code": [
+        "61194"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Alborada Socialista",
+      "postal_code": [
+        "61133"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Ampliacion El Molino",
+      "postal_code": [
+        "61165"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Ampliacion Fabrica La Virgen",
+      "postal_code": [
+        "61165"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Aquiles Cordova",
+      "postal_code": [
+        "61153"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Arboledas del Rio",
+      "postal_code": [
+        "61166"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Arcoiris",
+      "postal_code": [
+        "61110"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Arroyo Atascoso",
+      "postal_code": [
+        "61222"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Arroyo Largo",
+      "postal_code": [
+        "61222"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Arroyo Zarco",
+      "postal_code": [
+        "61210"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Aurora",
+      "postal_code": [
+        "61139"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Balcones del Sur",
+      "postal_code": [
+        "61169"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Barcino",
+      "postal_code": [
+        "61246"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Barranca el Laurelito",
+      "postal_code": [
+        "61235"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Barranca Seca",
+      "postal_code": [
+        "61116"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Barranquitas",
+      "postal_code": [
+        "61174"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "61120"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "61203"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Bosque de La Virgen",
+      "postal_code": [
+        "61165"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "61231",
+        "61243"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "61194"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Camelinas",
+      "postal_code": [
+        "61192"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Camino a los Pozos",
+      "postal_code": [
+        "61206"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Camino Nuevo",
+      "postal_code": [
+        "61183"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Camino Real",
+      "postal_code": [
+        "61196"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Carindapaz",
+      "postal_code": [
+        "61245"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Casa Blanca",
+      "postal_code": [
+        "61210"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Casas Pintas",
+      "postal_code": [
+        "61214"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Cedritos",
+      "postal_code": [
+        "61155"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Cerro Azul",
+      "postal_code": [
+        "61247"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Cerro del Macho",
+      "postal_code": [
+        "61244"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Charapio",
+      "postal_code": [
+        "61236"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Cieneguillas",
+      "postal_code": [
+        "61227"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Ciudad Hidalgo Centro",
+      "postal_code": [
+        "61100"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Colonias Unidas",
+      "postal_code": [
+        "61215"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Colonia Unida",
+      "postal_code": [
+        "61113"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Contreras",
+      "postal_code": [
+        "61130"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Cristo Rey",
+      "postal_code": [
+        "61113"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Cruz de Caminos",
+      "postal_code": [
+        "61224"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Cuauhtemoc Sur",
+      "postal_code": [
+        "61169"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Cuchipitio Palos Secos",
+      "postal_code": [
+        "61226"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Cuitzillos",
+      "postal_code": [
+        "61190",
+        "61243"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Cusio",
+      "postal_code": [
+        "61236"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Dotacion la Granja (Los Capulines)",
+      "postal_code": [
+        "61243"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Ecologica de Tembendado",
+      "postal_code": [
+        "61205"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Ejido Rincon de Rubios (Rancho Ruiz)",
+      "postal_code": [
+        "61210"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Agostaderito",
+      "postal_code": [
+        "61248"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "61125"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Astillero (Astilleros)",
+      "postal_code": [
+        "61236"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Bayo",
+      "postal_code": [
+        "61244"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Bosque",
+      "postal_code": [
+        "61166",
+        "61241"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Calicanto",
+      "postal_code": [
+        "61166"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Campestre",
+      "postal_code": [
+        "61135"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Capulin",
+      "postal_code": [
+        "61215",
+        "61230"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Caracol",
+      "postal_code": [
+        "61230"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Carrizo",
+      "postal_code": [
+        "61227"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Castillo",
+      "postal_code": [
+        "61240"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Chaparro",
+      "postal_code": [
+        "61203"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Charco",
+      "postal_code": [
+        "61220"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Chirimoyo",
+      "postal_code": [
+        "61113"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Convento (El Encuentro)",
+      "postal_code": [
+        "61204"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Copal",
+      "postal_code": [
+        "61233"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Cortijo",
+      "postal_code": [
+        "61203"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Fresno 2da. Etapa",
+      "postal_code": [
+        "61155"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Fresno II",
+      "postal_code": [
+        "61135"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Garrapato",
+      "postal_code": [
+        "61235",
+        "61245"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Huarache",
+      "postal_code": [
+        "61235"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Jaral",
+      "postal_code": [
+        "61153"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Jaral (Janamoro)",
+      "postal_code": [
+        "61207"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Llano (Llano Blanco)",
+      "postal_code": [
+        "61247"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Malacate",
+      "postal_code": [
+        "61246"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Mamuyo",
+      "postal_code": [
+        "61246"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Manzano",
+      "postal_code": [
+        "61113"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "61174"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Mirador de Dolores",
+      "postal_code": [
+        "61173"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Molcajete",
+      "postal_code": [
+        "61230"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Moral I",
+      "postal_code": [
+        "61182"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Moral II",
+      "postal_code": [
+        "61182"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Muerto",
+      "postal_code": [
+        "61215"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Naranjo",
+      "postal_code": [
+        "61155"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Nogal",
+      "postal_code": [
+        "61203"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "61194"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Pavo (Ojo de Agua)",
+      "postal_code": [
+        "61205"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "61222"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Pilon",
+      "postal_code": [
+        "61167"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Pirul",
+      "postal_code": [
+        "61100"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Pitorreal (Cerro Prieto)",
+      "postal_code": [
+        "61206"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Plan",
+      "postal_code": [
+        "61241"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "61156",
+        "61225"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Potrero",
+      "postal_code": [
+        "61164"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Potrero de la Virgen",
+      "postal_code": [
+        "61204"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Retaje",
+      "postal_code": [
+        "61247"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Retranque (La Presa de Pucuato)",
+      "postal_code": [
+        "61240"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Roble",
+      "postal_code": [
+        "61112"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "61169"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Salitre",
+      "postal_code": [
+        "61235"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Senaladero",
+      "postal_code": [
+        "61248"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Sol",
+      "postal_code": [
+        "61211"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Tejocote Redondo",
+      "postal_code": [
+        "61245"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Tepetate",
+      "postal_code": [
+        "61244"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Trebol",
+      "postal_code": [
+        "61190"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Tren",
+      "postal_code": [
+        "61227"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Triguito",
+      "postal_code": [
+        "61235"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Valle",
+      "postal_code": [
+        "61211"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Zacatonal",
+      "postal_code": [
+        "61241"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "61192"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Encino Copudo",
+      "postal_code": [
+        "61247"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Erendira",
+      "postal_code": [
+        "61168"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Estanco de San Matias",
+      "postal_code": [
+        "61213"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Fabrica La Virgen",
+      "postal_code": [
+        "61165"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Francisco Davalos",
+      "postal_code": [
+        "61170"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "61154"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Francisco Villa III",
+      "postal_code": [
+        "61154"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Fresno I",
+      "postal_code": [
+        "61155"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Fresno II",
+      "postal_code": [
+        "61155"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Grandemira",
+      "postal_code": [
+        "61203"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Guayabitos",
+      "postal_code": [
+        "61233"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Heroes de Reforma",
+      "postal_code": [
+        "61206"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Huajumbaro",
+      "postal_code": [
+        "61220"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Huaniqueo",
+      "postal_code": [
+        "61203"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Huindo",
+      "postal_code": [
+        "61228"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Independencia (Zapote)",
+      "postal_code": [
+        "61128"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Insurgentes",
+      "postal_code": [
+        "61137"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Jardines de Hidalgo",
+      "postal_code": [
+        "61194"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Jaritas de Pucuato",
+      "postal_code": [
+        "61230"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Jose Maria Morelos",
+      "postal_code": [
+        "61183"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Jose Maria Morelos (Ziripeo)",
+      "postal_code": [
+        "61240"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Joyas de Birruete (Janamoro)",
+      "postal_code": [
+        "61207"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Juan Pablo II",
+      "postal_code": [
+        "61155"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Kitzia",
+      "postal_code": [
+        "61190"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Alborada (El Pavo)",
+      "postal_code": [
+        "61205"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Ale",
+      "postal_code": [
+        "61165"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Antena",
+      "postal_code": [
+        "61153"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Antorcha Campesina",
+      "postal_code": [
+        "61194"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Cascada",
+      "postal_code": [
+        "61194"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "61137",
+        "61204"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Conguera",
+      "postal_code": [
+        "61245"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "61211"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Cuadrilla (Los Capulines)",
+      "postal_code": [
+        "61210"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "61135"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Estacion",
+      "postal_code": [
+        "61149"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Fragua",
+      "postal_code": [
+        "61247"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Granja (Puerto la Granja)",
+      "postal_code": [
+        "61243"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Laguna Larga",
+      "postal_code": [
+        "61217"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Herradura",
+      "postal_code": [
+        "61155"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Huerta",
+      "postal_code": [
+        "61203",
+        "61241"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Joya",
+      "postal_code": [
+        "61190"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Libertad",
+      "postal_code": [
+        "61190"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Libertad (Las Tablas)",
+      "postal_code": [
+        "61244"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Loma",
+      "postal_code": [
+        "61174"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Loma de Jose alvarez",
+      "postal_code": [
+        "61155"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Magdalena",
+      "postal_code": [
+        "61190"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Mangana",
+      "postal_code": [
+        "61120"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Mesa",
+      "postal_code": [
+        "61204",
+        "61243"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Mina",
+      "postal_code": [
+        "61222"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Mina Vieja",
+      "postal_code": [
+        "61203"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Morita",
+      "postal_code": [
+        "61140"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Ortiga",
+      "postal_code": [
+        "61243"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Palma",
+      "postal_code": [
+        "61114",
+        "61153",
+        "61230",
+        "61236"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Parada (Desviacion a Huajumbaro)",
+      "postal_code": [
+        "61222"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Perla",
+      "postal_code": [
+        "61128"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Pitahaya",
+      "postal_code": [
+        "61246"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Pradera",
+      "postal_code": [
+        "61195"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Presa",
+      "postal_code": [
+        "61166"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Puente",
+      "postal_code": [
+        "61211"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Puerta",
+      "postal_code": [
+        "61190"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Regadera",
+      "postal_code": [
+        "61160"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Resinera",
+      "postal_code": [
+        "61204"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "61136"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Caleras",
+      "postal_code": [
+        "61203"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Canoyitas",
+      "postal_code": [
+        "61247"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Capillas",
+      "postal_code": [
+        "61244"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Cuevas",
+      "postal_code": [
+        "61247"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Esperanzas",
+      "postal_code": [
+        "61233"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Espinas",
+      "postal_code": [
+        "61245"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Espinas de la Union",
+      "postal_code": [
+        "61248"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "61112"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Frutas",
+      "postal_code": [
+        "61236"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Fuentes",
+      "postal_code": [
+        "61115"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Galeras",
+      "postal_code": [
+        "61203"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Grutas",
+      "postal_code": [
+        "61203"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Joyas",
+      "postal_code": [
+        "61246"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Joyitas",
+      "postal_code": [
+        "61246"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "61194"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Palomas",
+      "postal_code": [
+        "61237"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Pilas",
+      "postal_code": [
+        "61224"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Pitayas",
+      "postal_code": [
+        "61237"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Pitayas Dos",
+      "postal_code": [
+        "61237"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Presitas",
+      "postal_code": [
+        "61235"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Rosas",
+      "postal_code": [
+        "61125"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Trojas",
+      "postal_code": [
+        "61243"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Tecata",
+      "postal_code": [
+        "61247"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Teja",
+      "postal_code": [
+        "61210"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Teneria",
+      "postal_code": [
+        "61166"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Toma",
+      "postal_code": [
+        "61245"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Venta de San Andres",
+      "postal_code": [
+        "61220"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Veronica",
+      "postal_code": [
+        "61215"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Villa",
+      "postal_code": [
+        "61137"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Virgen",
+      "postal_code": [
+        "61182"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Yerbabuena",
+      "postal_code": [
+        "61247"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "61150",
+        "61224"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Zarza",
+      "postal_code": [
+        "61235"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Lienzo Charro",
+      "postal_code": [
+        "61170"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Linares",
+      "postal_code": [
+        "61112"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "61110"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Llano de Agostitlan",
+      "postal_code": [
+        "61244"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Llanos del Ejido",
+      "postal_code": [
+        "61170"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "61241"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Loma de en Medio",
+      "postal_code": [
+        "61233"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Loma de Enmedio",
+      "postal_code": [
+        "61174"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "61190"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Lomas del Hidalgo",
+      "postal_code": [
+        "61173"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Lomas del Jaral",
+      "postal_code": [
+        "61153"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Lomas del Jaral II",
+      "postal_code": [
+        "61153"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Lomas del Jaral III",
+      "postal_code": [
+        "61153"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Loma Seca",
+      "postal_code": [
+        "61204"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Lopez Rayon",
+      "postal_code": [
+        "61190"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los Adobes",
+      "postal_code": [
+        "61248"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los Ajolotes",
+      "postal_code": [
+        "61217"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "61190"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los Banos de San Pedro (Erendira)",
+      "postal_code": [
+        "61217"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los Cedritos",
+      "postal_code": [
+        "61243"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los Corros",
+      "postal_code": [
+        "61128"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "61137",
+        "61247"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los Gigantes",
+      "postal_code": [
+        "61134"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los Mamullos",
+      "postal_code": [
+        "61244"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los Manantiales",
+      "postal_code": [
+        "61120"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los Manantiales [Parque]",
+      "postal_code": [
+        "61224"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los Patios",
+      "postal_code": [
+        "61235"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los Pinitos de Taximaroa",
+      "postal_code": [
+        "61177"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "61143",
+        "61241"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los Pirules",
+      "postal_code": [
+        "61120"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los Pozos",
+      "postal_code": [
+        "61215"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "61110"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "61136"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los Tejamaniles (Rancho Viejo)",
+      "postal_code": [
+        "61217"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los Tizates (Llano de la Tecata)",
+      "postal_code": [
+        "61200"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los Viveros",
+      "postal_code": [
+        "61192"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "61192"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Magallanes (Los Pinos)",
+      "postal_code": [
+        "61204"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Manzana de Alcala (Janamoro)",
+      "postal_code": [
+        "61206"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Mariano Matamoros",
+      "postal_code": [
+        "61150"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Mata de Pinos",
+      "postal_code": [
+        "61244",
+        "61244"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Mata Venado",
+      "postal_code": [
+        "61243"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Mesa de Guadalupe (La Noria)",
+      "postal_code": [
+        "61214"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Mesa de Mil Cumbres",
+      "postal_code": [
+        "61222"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Mesa de Nazario (Los Pozos)",
+      "postal_code": [
+        "61215"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Mil Cumbres",
+      "postal_code": [
+        "61222"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Monte Bello",
+      "postal_code": [
+        "61180"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Monte Bello II",
+      "postal_code": [
+        "61180"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Monte Oscuro (Monte Obscuro)",
+      "postal_code": [
+        "61230"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Morelos Intenciones de La Nacion",
+      "postal_code": [
+        "61134"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Morelos Intenciones de La Nacion II",
+      "postal_code": [
+        "61134"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "61149"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Oasis",
+      "postal_code": [
+        "61120"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Ojo de Agua del Encino",
+      "postal_code": [
+        "61244"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Ojos de Agua",
+      "postal_code": [
+        "61110",
+        "61113"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Otilio Montano",
+      "postal_code": [
+        "61137"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Palomas (Cerro del Gallo)",
+      "postal_code": [
+        "61237"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Palomas San Isidro",
+      "postal_code": [
+        "61216"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Palomillas",
+      "postal_code": [
+        "61216"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Palos Secos",
+      "postal_code": [
+        "61247"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Paraiso",
+      "postal_code": [
+        "61211"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Patriotismo",
+      "postal_code": [
+        "61170"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Pena del Agua",
+      "postal_code": [
+        "61247"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Penuelas (El Tren Penuelas)",
+      "postal_code": [
+        "61227"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Perales y Ailitos",
+      "postal_code": [
+        "61169"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Perseverancia Ecologica",
+      "postal_code": [
+        "61116",
+        "61155"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Piedra Azul",
+      "postal_code": [
+        "61211"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Piedra del Molino",
+      "postal_code": [
+        "61215"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Piedra Gorda",
+      "postal_code": [
+        "61248"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Piedra Parada",
+      "postal_code": [
+        "61245"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Pino Gordo",
+      "postal_code": [
+        "61222"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Plan de Ayala",
+      "postal_code": [
+        "61125"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Plan de Santa Rosa (Plan de Huaniqueo)",
+      "postal_code": [
+        "61204"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Plan Seco",
+      "postal_code": [
+        "61247"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Presa de Chavez",
+      "postal_code": [
+        "61196"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Presa La Virgen",
+      "postal_code": [
+        "61165"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Progreso",
+      "postal_code": [
+        "61155"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Prol. de Reforma",
+      "postal_code": [
+        "61120"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Pucuato",
+      "postal_code": [
+        "61230"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Puente del Encino",
+      "postal_code": [
+        "61244"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Puente de Tierra",
+      "postal_code": [
+        "61235"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Puente de Vacas",
+      "postal_code": [
+        "61244"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Puente las Gallinas",
+      "postal_code": [
+        "61243"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Puerta del Sol",
+      "postal_code": [
+        "61150",
+        "61190"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Puertas del Oriente",
+      "postal_code": [
+        "61183"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Puerto Coyote",
+      "postal_code": [
+        "61246"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Puerto de Cuitareo (Puerto del Sagrado Corazon)",
+      "postal_code": [
+        "61203"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Puerto de Pucuato (La Cooperativa)",
+      "postal_code": [
+        "61223"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Puerto Ventero",
+      "postal_code": [
+        "61236"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Rancho Alegre",
+      "postal_code": [
+        "61224"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Rancho de Corros",
+      "postal_code": [
+        "61128"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Rancho de Ponce",
+      "postal_code": [
+        "61113",
+        "61125"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Rancho Grande",
+      "postal_code": [
+        "61203"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Rancho San Joaquin",
+      "postal_code": [
+        "61155"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Reforma",
+      "postal_code": [
+        "61155"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Rinconada",
+      "postal_code": [
+        "61140"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Rinconada de Pirules",
+      "postal_code": [
+        "61100"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Rincon de Arriba (Janamoro)",
+      "postal_code": [
+        "61206"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Rincon de Dolores",
+      "postal_code": [
+        "61134"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Rincon de Escobedo (Janamoro)",
+      "postal_code": [
+        "61206"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Rincon del Escobal (La Boveda)",
+      "postal_code": [
+        "61220"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Rincon de Pitahayas",
+      "postal_code": [
+        "61222"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Rincon de Rubios (Ejidos)",
+      "postal_code": [
+        "61213"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Rincon de San Jeronimo (El Encuentro)",
+      "postal_code": [
+        "61224"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Rio Chiquito",
+      "postal_code": [
+        "61169"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Rio Hondo",
+      "postal_code": [
+        "61235"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Rosa de Castilla",
+      "postal_code": [
+        "61166"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Rosa del Maiz",
+      "postal_code": [
+        "61214"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Sabaneta",
+      "postal_code": [
+        "61248"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Antonio de Las Palmas",
+      "postal_code": [
+        "61129"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Antonio de las Palmas I",
+      "postal_code": [
+        "61125"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Antonio de las Palmas II",
+      "postal_code": [
+        "61128"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Antonio Villalongin",
+      "postal_code": [
+        "61231"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Bartolo Cuitareo",
+      "postal_code": [
+        "61201"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "61174"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "61170"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Francisco Ojo de Agua",
+      "postal_code": [
+        "61105"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "61150",
+        "61230"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Isidro Alta Huerta",
+      "postal_code": [
+        "61213"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Jeronimo",
+      "postal_code": [
+        "61225"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Jeronimo (Rincon de San Jeronimo)",
+      "postal_code": [
+        "61224"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Jose",
+      "postal_code": [
+        "61231"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Jose Irapeo (La Casa del Padre)",
+      "postal_code": [
+        "61225"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Jose [La Fabrica]",
+      "postal_code": [
+        "61245"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Juan de Dios Jauja",
+      "postal_code": [
+        "61236"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Lazaro",
+      "postal_code": [
+        "61190"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Lazaro II",
+      "postal_code": [
+        "61190"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Lucas Huarirapeo (La Mesa de San Lucas)",
+      "postal_code": [
+        "61225"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Matias Grande",
+      "postal_code": [
+        "61211"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "61155",
+        "61231"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Nicolas Cuchipitio",
+      "postal_code": [
+        "61226"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "61190"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Pedro Jacuaro (Las Joyas)",
+      "postal_code": [
+        "61210"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "61233"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "61233"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "61180"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "61150",
+        "61204"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Santuario Monarca",
+      "postal_code": [
+        "61113"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Saucedo",
+      "postal_code": [
+        "61233"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Serrano",
+      "postal_code": [
+        "61236"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Siempreviva",
+      "postal_code": [
+        "61247"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Solache",
+      "postal_code": [
+        "61204"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Tacario",
+      "postal_code": [
+        "61216"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Talisman I",
+      "postal_code": [
+        "61120"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Talisman II",
+      "postal_code": [
+        "61120"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Taxi Maroa 400",
+      "postal_code": [
+        "61194"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Tejocotes Dulces",
+      "postal_code": [
+        "61155"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Tembendado (Temendao)",
+      "postal_code": [
+        "61205"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Teocalli",
+      "postal_code": [
+        "61211"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Tepetates",
+      "postal_code": [
+        "61173"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Tierras Coloradas",
+      "postal_code": [
+        "61190",
+        "61237"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Tierras Coloradas II",
+      "postal_code": [
+        "61192"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Tierras Coloradas (San Pedro)",
+      "postal_code": [
+        "61210"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Tiro al Blanco",
+      "postal_code": [
+        "61154"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Tizates",
+      "postal_code": [
+        "61173"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Tlaximaloyan",
+      "postal_code": [
+        "61170"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Valle de Guadalupe",
+      "postal_code": [
+        "61155"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Valle de Hidalgo",
+      "postal_code": [
+        "61194"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Valle del Jaral",
+      "postal_code": [
+        "61150"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Valle del Rincon",
+      "postal_code": [
+        "61134"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Vasco de Quiroga",
+      "postal_code": [
+        "61150"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Villa Etelvina",
+      "postal_code": [
+        "61192"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Villa Hidalgo",
+      "postal_code": [
+        "61154"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Villas del Manantial",
+      "postal_code": [
+        "61115"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Vista Bella",
+      "postal_code": [
+        "61190"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "61110"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Agua Nueva",
+      "postal_code": [
+        "35344"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Alfonso Hernandez",
+      "postal_code": [
+        "65600"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Alfredo V. Bonfil (San Miguel)",
+      "postal_code": [
+        "35327"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Atotonilco",
+      "postal_code": [
+        "35316"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "65600"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Benjamin y Urias (San Andres)",
+      "postal_code": [
+        "35320"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Chombos",
+      "postal_code": [
+        "35324"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Crescenciano Lozano",
+      "postal_code": [
+        "65600"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Cruces",
+      "postal_code": [
+        "35335"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Cuatro Hermanos (Toquero)",
+      "postal_code": [
+        "35314"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "65600"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "35344"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "35344",
+        "35344"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Chaparral",
+      "postal_code": [
+        "35313"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Ciento Veinte (La Zarca)",
+      "postal_code": [
+        "35344"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Clavel de Santa Rita",
+      "postal_code": [
+        "35330"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Consuelo",
+      "postal_code": [
+        "35330"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Diamante",
+      "postal_code": [
+        "35330"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Entronque del Carrizo",
+      "postal_code": [
+        "35327"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Herradero",
+      "postal_code": [
+        "35330"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Huizache",
+      "postal_code": [
+        "35317"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Mimbre",
+      "postal_code": [
+        "35330"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "35327"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Ojo de Agua",
+      "postal_code": [
+        "35333"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Palmillento (La Victoria)",
+      "postal_code": [
+        "35324"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Portento (El Pinole)",
+      "postal_code": [
+        "35313"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "35330"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Retiro",
+      "postal_code": [
+        "35335"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "35324"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Hacienda la Zarca (Hacienda)",
+      "postal_code": [
+        "35336"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Hidalgo Centro",
+      "postal_code": [
+        "65600"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Ignacio Valencia (Los Alamitos)",
+      "postal_code": [
+        "35340"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Jose Alatorre Gamez",
+      "postal_code": [
+        "65600"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Cieneguilla",
+      "postal_code": [
+        "35347"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Doce",
+      "postal_code": [
+        "35333"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "35337"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Fortuna (Los Paseos)",
+      "postal_code": [
+        "35317"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Guadalupe (El Cien)",
+      "postal_code": [
+        "35346"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Guitarrilla",
+      "postal_code": [
+        "35334"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Lajilla",
+      "postal_code": [
+        "35325"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Resolana",
+      "postal_code": [
+        "35327"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Bateas",
+      "postal_code": [
+        "35330"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Felisas (San Jose de la Mimbrera)",
+      "postal_code": [
+        "35333"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Pintas de Abajo (Las Pintas)",
+      "postal_code": [
+        "35347"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Pintas de Arriba",
+      "postal_code": [
+        "35347"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Playas",
+      "postal_code": [
+        "35340"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Zarca",
+      "postal_code": [
+        "35336"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "65600"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los Angeles",
+      "postal_code": [
+        "65600"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los Auras (Santa Rita)",
+      "postal_code": [
+        "35317"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los Lobos",
+      "postal_code": [
+        "35317"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Margarita Maza de Juarez",
+      "postal_code": [
+        "65600"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "65600"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Morelos",
+      "postal_code": [
+        "65600"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Morterillos",
+      "postal_code": [
+        "35335"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Nueva Vista del Llano",
+      "postal_code": [
+        "35330"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Nuevo San Juan",
+      "postal_code": [
+        "35326"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Palo Chino",
+      "postal_code": [
+        "35343"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "65600"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Revolucion (Las Viboras)",
+      "postal_code": [
+        "35320"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Roman Arreola (La Mimbrera)",
+      "postal_code": [
+        "35327"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Andres",
+      "postal_code": [
+        "65600"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "35333"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Bernardo (Nuevo San Bernardo)",
+      "postal_code": [
+        "35340"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "35333"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Fermin",
+      "postal_code": [
+        "35310"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "35330",
+        "35343"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Jorge",
+      "postal_code": [
+        "35337"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Jose (Las Carbonosas)",
+      "postal_code": [
+        "35345"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Juan",
+      "postal_code": [
+        "35316",
+        "35345"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Juan Bautista (Los Metates)",
+      "postal_code": [
+        "35325"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Martin",
+      "postal_code": [
+        "65600"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Rafael (Las Cocinas)",
+      "postal_code": [
+        "35323"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Ricardo (Las Petras)",
+      "postal_code": [
+        "35335"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Santa Eugenia",
+      "postal_code": [
+        "35326"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "35345"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Santa Genoveva",
+      "postal_code": [
+        "35314"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "35316"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "35323"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Terrenates",
+      "postal_code": [
+        "35347"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Tomas Urbina",
+      "postal_code": [
+        "35315"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Tres Hermanos",
+      "postal_code": [
+        "35330"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Urueta",
+      "postal_code": [
+        "35333"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Valle Verde (La Mula)",
+      "postal_code": [
+        "35327"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Villa Hidalgo",
+      "postal_code": [
+        "35300"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Villa Union de Munoz (Villa Union)",
+      "postal_code": [
+        "35340"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Zaragoza",
+      "postal_code": [
+        "65600"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Elsa Hernandez de las Fuentes",
+      "postal_code": [
+        "26670"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Enrique Martinez y Martinez",
+      "postal_code": [
+        "26670"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "26670"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Hidalgo II",
+      "postal_code": [
+        "26670"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Humberto Moreira",
+      "postal_code": [
+        "26670"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Barbosa",
+      "postal_code": [
+        "87806"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "87848"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Benito Juarez (Monfort)",
+      "postal_code": [
+        "87800"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "87827"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Carrizos (La Hacienda)",
+      "postal_code": [
+        "87810"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Cinco de Mayo",
+      "postal_code": [
+        "87806"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Conrado Castillo",
+      "postal_code": [
+        "87854"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Cruz y Carmen",
+      "postal_code": [
+        "87840"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Cruz y Cruz",
+      "postal_code": [
+        "87840"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "87803"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Chorro (El Chorrito)",
+      "postal_code": [
+        "87820"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Pensamiento Libre",
+      "postal_code": [
+        "87804"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Progreso",
+      "postal_code": [
+        "87831"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Sauz",
+      "postal_code": [
+        "87843"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "El Tomaseno (Ejido)",
+      "postal_code": [
+        "87805"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Estacion Carrizos",
+      "postal_code": [
+        "87813"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Estacion la Cruz",
+      "postal_code": [
+        "87840"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Estacion Santa Engracia Centro",
+      "postal_code": [
+        "87849"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Ex-Hacienda de la Mesa",
+      "postal_code": [
+        "87822"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "General Julian Cerda",
+      "postal_code": [
+        "87808"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "87823"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Guayabas",
+      "postal_code": [
+        "87853"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Guillermo Zuniga",
+      "postal_code": [
+        "87841"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "87800"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Ignacio Allende (Estacion Adelaida)",
+      "postal_code": [
+        "87844"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Independencia",
+      "postal_code": [
+        "87823"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Jose Maria Morelos y Pavon (Mapaches)",
+      "postal_code": [
+        "87832"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Aurora",
+      "postal_code": [
+        "87858"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Colombina",
+      "postal_code": [
+        "87832"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Crucita (La Piragua)",
+      "postal_code": [
+        "87825"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Garita",
+      "postal_code": [
+        "87835"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Noria",
+      "postal_code": [
+        "87824"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Rosalba (Ejido)",
+      "postal_code": [
+        "87805"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "87827"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Las Tinajas",
+      "postal_code": [
+        "87816"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "87825"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "87801"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Marroquin",
+      "postal_code": [
+        "87827"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Morquecho",
+      "postal_code": [
+        "87829"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Oyama",
+      "postal_code": [
+        "87831"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Palo Alto",
+      "postal_code": [
+        "87832"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Primero de Mayo",
+      "postal_code": [
+        "87808"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Puerto del Aire (Isaias Gonzalez Vazquez)",
+      "postal_code": [
+        "87813"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Purificacion (Penuelas)",
+      "postal_code": [
+        "87801"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "87826"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "87834"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "87822"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Juana",
+      "postal_code": [
+        "87806"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Matias",
+      "postal_code": [
+        "87826"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "87819"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Santa Cleotilde",
+      "postal_code": [
+        "87808"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "87830"
+      ]
+    },
+    {
+      "city": "Hidalgo",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "87835"
+      ]
+    }
+  ]
+}

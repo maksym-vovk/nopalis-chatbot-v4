@@ -1,0 +1,607 @@
+{
+  "data": [
+    {
+      "city": "Apizaco",
+      "colonia": "10 de Mayo",
+      "postal_code": [
+        "90402"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "90341"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "2a. Seccion",
+      "postal_code": [
+        "90402"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Actipan",
+      "postal_code": [
+        "90405"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "90342"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Agricola Covadonga",
+      "postal_code": [
+        "90380"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Apatlahuaya",
+      "postal_code": [
+        "90355"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Atenco",
+      "postal_code": [
+        "90405"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Atlayoalco",
+      "postal_code": [
+        "90407"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "90338"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "90357"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Benito Juarez Apizaquito",
+      "postal_code": [
+        "90401"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Bryc",
+      "postal_code": [
+        "90360"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "90350"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Campestre los Sabinos",
+      "postal_code": [
+        "90370"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Centro",
+      "postal_code": [
+        "90300"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "CERESO Apizaco",
+      "postal_code": [
+        "90404"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Cerrito de Guadalupe",
+      "postal_code": [
+        "90323"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Coporo y Cerro Azul I y II",
+      "postal_code": [
+        "90401"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Cuarta Manzana",
+      "postal_code": [
+        "90405"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "El Calvario",
+      "postal_code": [
+        "90401"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "90338"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "90402"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "El Farallon",
+      "postal_code": [
+        "90401"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "El Llano",
+      "postal_code": [
+        "90380"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Emilio Sanchez Piedras",
+      "postal_code": [
+        "90342"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Fatima",
+      "postal_code": [
+        "90357"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Ferrocarrilera",
+      "postal_code": [
+        "90342"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "FOVISSSTE Loma Verde",
+      "postal_code": [
+        "90355"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "90402"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Fuentes de Actipan",
+      "postal_code": [
+        "90329"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Granjas de Guadalupe",
+      "postal_code": [
+        "90320"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "90330"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Guadalupe Texcalac",
+      "postal_code": [
+        "90403"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Hogares Ferrocarrileros",
+      "postal_code": [
+        "90329"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Hogares Ferrocarrileros 3",
+      "postal_code": [
+        "90329"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "INDECO San Rafael Atlixtac",
+      "postal_code": [
+        "90370"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "INFONAVIT CTM",
+      "postal_code": [
+        "90350"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "INFONAVIT Loma Verde",
+      "postal_code": [
+        "90355"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "INFONAVIT San Rafael Atlixtac",
+      "postal_code": [
+        "90350"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Jardines de Apizaco",
+      "postal_code": [
+        "90380"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Jardines de San Francisco",
+      "postal_code": [
+        "90405"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Jardines de San Isidro",
+      "postal_code": [
+        "90406"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Jesus y San Juan",
+      "postal_code": [
+        "90358"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Jose Maria Morelos",
+      "postal_code": [
+        "90405"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "La Canada",
+      "postal_code": [
+        "90360"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "90347"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "La Colina",
+      "postal_code": [
+        "90401"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "La Paz",
+      "postal_code": [
+        "90401"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "La Perla",
+      "postal_code": [
+        "90355"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "La Perla II",
+      "postal_code": [
+        "90355"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "90380"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "90357"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Loma Florida 1a Secc",
+      "postal_code": [
+        "90356"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Loma Florida 2a Secc",
+      "postal_code": [
+        "90356"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Loma Paraiso",
+      "postal_code": [
+        "90355"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Loma Santa Anita",
+      "postal_code": [
+        "90378"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Lomas de Apizaquito",
+      "postal_code": [
+        "90401"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Lomas del Bosque",
+      "postal_code": [
+        "90406"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Lomas del Bosque II",
+      "postal_code": [
+        "90406"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Los Morales II",
+      "postal_code": [
+        "90360"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "90356"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Nuevo Mexico",
+      "postal_code": [
+        "90356"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Paso de Cortes I",
+      "postal_code": [
+        "90355"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Paso de Cortes II",
+      "postal_code": [
+        "90355"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Real del Bosque",
+      "postal_code": [
+        "90355"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Real del Valle",
+      "postal_code": [
+        "90355"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Residencial Las Flores",
+      "postal_code": [
+        "90401"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Rodan",
+      "postal_code": [
+        "90319"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "San Diego",
+      "postal_code": [
+        "90355"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "San Diego Crom",
+      "postal_code": [
+        "90338"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "90406"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "San Luis",
+      "postal_code": [
+        "90401"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "San Luis Apizaquito",
+      "postal_code": [
+        "90401",
+        "90401"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "90407"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "San Martin de Porres",
+      "postal_code": [
+        "90337"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "90339"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Santa Anita Huiloac",
+      "postal_code": [
+        "90407"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Santa Maria Texcalac",
+      "postal_code": [
+        "90402"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "90340"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Tulio Hernandez",
+      "postal_code": [
+        "90401"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Villa Santa Anita",
+      "postal_code": [
+        "90355"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Villa Santa Clara",
+      "postal_code": [
+        "90355"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Villas de Apizaco",
+      "postal_code": [
+        "90355"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Villas del Monte",
+      "postal_code": [
+        "90355"
+      ]
+    },
+    {
+      "city": "Apizaco",
+      "colonia": "Zaragoza",
+      "postal_code": [
+        "90370"
+      ]
+    }
+  ]
+}

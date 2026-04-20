@@ -1,0 +1,719 @@
+{
+  "data": [
+    {
+      "city": "Chontla",
+      "colonia": "Arranca Estacas",
+      "postal_code": [
+        "92206"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "92226"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Canoas",
+      "postal_code": [
+        "92216"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Cedro Agujerado",
+      "postal_code": [
+        "92210"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Chalahuite",
+      "postal_code": [
+        "92217"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Charco Prieto",
+      "postal_code": [
+        "92220"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Chontla",
+      "postal_code": [
+        "92200"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Comales",
+      "postal_code": [
+        "92220"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Comales Naranjado",
+      "postal_code": [
+        "92216"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Cruz Manantial",
+      "postal_code": [
+        "92213"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Dona Ana",
+      "postal_code": [
+        "92210"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Dos Caminos",
+      "postal_code": [
+        "92210"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Durazno",
+      "postal_code": [
+        "92227"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Ejido Adolfo Lopez Mateos",
+      "postal_code": [
+        "92203"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "El Aguacate",
+      "postal_code": [
+        "92217"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "El Alto la Providencia",
+      "postal_code": [
+        "92226"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "92214"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "El Cajete",
+      "postal_code": [
+        "92210"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "El Cajon",
+      "postal_code": [
+        "92207"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "92220"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "El Chote",
+      "postal_code": [
+        "92205"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "El Coyol",
+      "postal_code": [
+        "92210"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "El Ebanal",
+      "postal_code": [
+        "92216"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "El Encinal",
+      "postal_code": [
+        "92205"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "El Espiritu",
+      "postal_code": [
+        "92227"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "El Higo",
+      "postal_code": [
+        "92210"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "El Jardin",
+      "postal_code": [
+        "92220"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "El Limonar",
+      "postal_code": [
+        "92220"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "El Llano",
+      "postal_code": [
+        "92207"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "El Maguey",
+      "postal_code": [
+        "92210"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "El Maguey (El Maguey Chiquito)",
+      "postal_code": [
+        "92204"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "El Nopal",
+      "postal_code": [
+        "92205"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "El organo",
+      "postal_code": [
+        "92214"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "92216"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "El Solito",
+      "postal_code": [
+        "92220"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "El Tanque",
+      "postal_code": [
+        "92210"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "92215"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Finca el Llano",
+      "postal_code": [
+        "92205"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Guasimal",
+      "postal_code": [
+        "92210"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Huayacocotla",
+      "postal_code": [
+        "92216"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Huizache",
+      "postal_code": [
+        "92204"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "La Canada",
+      "postal_code": [
+        "92216"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "La Cuchilla",
+      "postal_code": [
+        "92205"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "La Estrella",
+      "postal_code": [
+        "92210",
+        "92220"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "La Florena",
+      "postal_code": [
+        "92220"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "La Florida",
+      "postal_code": [
+        "92214"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "La Garita",
+      "postal_code": [
+        "92207"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "La Laja",
+      "postal_code": [
+        "92217"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "La Mora",
+      "postal_code": [
+        "92220"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "La Penita",
+      "postal_code": [
+        "92227"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "La Reforma",
+      "postal_code": [
+        "92207"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Las Canoas",
+      "postal_code": [
+        "92210"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Las Cruces",
+      "postal_code": [
+        "92204"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Las Delicias",
+      "postal_code": [
+        "92220"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "92204"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Las Guasimas",
+      "postal_code": [
+        "92213"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "La Sierrita",
+      "postal_code": [
+        "92223"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Las Limas",
+      "postal_code": [
+        "92226"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "La Tronadora",
+      "postal_code": [
+        "92204"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Llano Verde",
+      "postal_code": [
+        "92207"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Loma Grande",
+      "postal_code": [
+        "92220"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Los Altos de Jesus",
+      "postal_code": [
+        "92220"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Los Anteojos",
+      "postal_code": [
+        "92217"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Los Arroyos",
+      "postal_code": [
+        "92225"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Los Azahares (El Jardin)",
+      "postal_code": [
+        "92225"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Los Callejones",
+      "postal_code": [
+        "92213"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Los Manantiales",
+      "postal_code": [
+        "92220"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Los Perales",
+      "postal_code": [
+        "92220"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Los Tigres",
+      "postal_code": [
+        "92204"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Magozal",
+      "postal_code": [
+        "92220"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Mala Gana",
+      "postal_code": [
+        "92215"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Mata de Otate",
+      "postal_code": [
+        "92213"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Ochenta y Uno",
+      "postal_code": [
+        "92220"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Pacheco (Chalahuite)",
+      "postal_code": [
+        "92217"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Paciencia",
+      "postal_code": [
+        "92220"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Palo de Rosas",
+      "postal_code": [
+        "92210"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Paso Manantial",
+      "postal_code": [
+        "92204"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Paso Quebrache",
+      "postal_code": [
+        "92207"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Rancho Abajo",
+      "postal_code": [
+        "92220"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Rancho Quemado",
+      "postal_code": [
+        "92207"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Sabana Grande",
+      "postal_code": [
+        "92207"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "92206"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "San Juan Otontepec",
+      "postal_code": [
+        "92204"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "San Mateo",
+      "postal_code": [
+        "92214"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "San Nicolasillo",
+      "postal_code": [
+        "92203"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "92217"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Santa Julia",
+      "postal_code": [
+        "92220"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "92220"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Santana",
+      "postal_code": [
+        "92220"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "92210"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Santa Valeria",
+      "postal_code": [
+        "92207"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "92203"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Tamalcuatitla",
+      "postal_code": [
+        "92204"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Tampac (El Ojital)",
+      "postal_code": [
+        "92220"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Tancolol",
+      "postal_code": [
+        "92206"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Tecomate",
+      "postal_code": [
+        "92215"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Tezitlal",
+      "postal_code": [
+        "92204"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Tlatemalco",
+      "postal_code": [
+        "92213"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Tres Potrillos",
+      "postal_code": [
+        "92220"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Villa Hermosa (El Crucero)",
+      "postal_code": [
+        "92220"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Xochitlan (Parajes)",
+      "postal_code": [
+        "92204"
+      ]
+    },
+    {
+      "city": "Chontla",
+      "colonia": "Zocohuite",
+      "postal_code": [
+        "92220"
+      ]
+    }
+  ]
+}

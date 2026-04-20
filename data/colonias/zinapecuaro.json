@@ -1,0 +1,712 @@
+{
+  "data": [
+    {
+      "city": "Zinapecuaro",
+      "colonia": "12 de Diciembre",
+      "postal_code": [
+        "58931"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "58932"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Ampliacion el Sauz",
+      "postal_code": [
+        "58966"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Ampliacion los Pinos",
+      "postal_code": [
+        "58933"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Araro",
+      "postal_code": [
+        "58950"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "58931"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Atzimba",
+      "postal_code": [
+        "58938"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Belisario Dominguez",
+      "postal_code": [
+        "58940"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Bella Vista",
+      "postal_code": [
+        "58936"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Buenavista (San Miguel Buenavista)",
+      "postal_code": [
+        "58960"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Chirrionera (Tierra Larga)",
+      "postal_code": [
+        "58954"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Clavellinas",
+      "postal_code": [
+        "58937"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Cristo Rey",
+      "postal_code": [
+        "58931"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Cruz de Caminos (Entronque Jerahuaro)",
+      "postal_code": [
+        "58966"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "De Coro",
+      "postal_code": [
+        "58940"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Ejidal Eusebio Luna (Zocalo)",
+      "postal_code": [
+        "58949"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "58956"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "El Colorado (Los Pinos)",
+      "postal_code": [
+        "58960"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "El Cuitzillo",
+      "postal_code": [
+        "58946"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "El Derramadero",
+      "postal_code": [
+        "58966"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "El Desierto",
+      "postal_code": [
+        "58933"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "El Fresno",
+      "postal_code": [
+        "58960"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "El Jaral (El Jaral Lagunillas)",
+      "postal_code": [
+        "58948"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "El Jaralillo",
+      "postal_code": [
+        "58965"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "El Potrero",
+      "postal_code": [
+        "58960"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "El Puerto",
+      "postal_code": [
+        "58936"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "El Rincon de Jerahuaro",
+      "postal_code": [
+        "58966"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "El Rocio (Desviacion a Araro)",
+      "postal_code": [
+        "58953"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "El Rosario (El Tapanco)",
+      "postal_code": [
+        "58959"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "El Salto",
+      "postal_code": [
+        "58960"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "El Sauz",
+      "postal_code": [
+        "58966"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "El Seguro",
+      "postal_code": [
+        "58935"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "El Tico",
+      "postal_code": [
+        "58956"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "El Zapote Alto",
+      "postal_code": [
+        "58949"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "El Zapote (El Zapote Bajo)",
+      "postal_code": [
+        "58949"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "58932"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Felix Ireta",
+      "postal_code": [
+        "58938"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "58933"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "58940"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Heriberto Jara (La Presa)",
+      "postal_code": [
+        "58965"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Huajumbaro (Huajumbaro de Guadalupe)",
+      "postal_code": [
+        "58965"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Independencia",
+      "postal_code": [
+        "58931"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Jacuarillo (Jucuarillo)",
+      "postal_code": [
+        "58964"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Jose Maria Morelos (La Yegüeria)",
+      "postal_code": [
+        "58942"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "La Galera (San Joaquin Jaripeo)",
+      "postal_code": [
+        "58966"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "La Joya",
+      "postal_code": [
+        "58964"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "La Joya (Joya de los Capulines)",
+      "postal_code": [
+        "58957"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "La Mora",
+      "postal_code": [
+        "58935"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "La Parra (El Naranjo)",
+      "postal_code": [
+        "58946"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "La Presa",
+      "postal_code": [
+        "58935"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "58944"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "La Reserva",
+      "postal_code": [
+        "58966"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Las Adjuntas",
+      "postal_code": [
+        "58958"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Las Canoas",
+      "postal_code": [
+        "58935",
+        "58960"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Las Cruces",
+      "postal_code": [
+        "58948"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Las Galeras",
+      "postal_code": [
+        "58932"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Las Malvinas (Zapote Bajo)",
+      "postal_code": [
+        "58949"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Las Tinajas",
+      "postal_code": [
+        "58932"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "La Venta del Capulin",
+      "postal_code": [
+        "58965"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "58936"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "58937"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Los Guerreros (El Fondo)",
+      "postal_code": [
+        "58965"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Los Parajes",
+      "postal_code": [
+        "58938"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "58945"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Los Positos",
+      "postal_code": [
+        "58938"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Los Trigos",
+      "postal_code": [
+        "58956"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Mesa Colorada",
+      "postal_code": [
+        "58946"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Miguel Hinojosa",
+      "postal_code": [
+        "58932"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Ojo de Agua de Bucio",
+      "postal_code": [
+        "58959"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Ojo de Agua del Cuervo",
+      "postal_code": [
+        "58948"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Ojos de Agua",
+      "postal_code": [
+        "58949"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Paso de Yeguas",
+      "postal_code": [
+        "58965"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Pino Cerdon",
+      "postal_code": [
+        "58964"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Querendaro [Estacion]",
+      "postal_code": [
+        "58940"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Residencial Hacienda Real",
+      "postal_code": [
+        "58935"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "58932"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "San Bartolome Coro",
+      "postal_code": [
+        "58942"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "San Bernardo",
+      "postal_code": [
+        "58940"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "58931"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "San Ildefonso",
+      "postal_code": [
+        "58965"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "San Joaquin Jaripeo (La Ex-Hacienda)",
+      "postal_code": [
+        "58966"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "San Jose Carpintero",
+      "postal_code": [
+        "58957"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "San Jose del Rincon (El Rincon de Taimeo)",
+      "postal_code": [
+        "58958"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "San Jose la Trasquila",
+      "postal_code": [
+        "58953"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "San Juan",
+      "postal_code": [
+        "58932"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "San Miguel las Palomas (Zacazonapan)",
+      "postal_code": [
+        "58954"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "San Miguel Taimeo",
+      "postal_code": [
+        "58946"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "San Nicolas Simirao",
+      "postal_code": [
+        "58944"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "San Pedro Bocaneo",
+      "postal_code": [
+        "58945"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Santa Clara del Tule",
+      "postal_code": [
+        "58949"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "58946"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Taimeo el Chico (La Yerbabuena)",
+      "postal_code": [
+        "58967"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Tierras Blancas",
+      "postal_code": [
+        "58953"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Tierras Coloradas",
+      "postal_code": [
+        "58932"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Tierras Negras",
+      "postal_code": [
+        "58953"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Ucareo",
+      "postal_code": [
+        "58962"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Valle de Juarez (Jerahuaro)",
+      "postal_code": [
+        "58963"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Valles de Michoacan",
+      "postal_code": [
+        "58936"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Vasco de Quiroga",
+      "postal_code": [
+        "58931"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Zinapecuaro de Figueroa Centro",
+      "postal_code": [
+        "58930"
+      ]
+    },
+    {
+      "city": "Zinapecuaro",
+      "colonia": "Zirondaro",
+      "postal_code": [
+        "58948"
+      ]
+    }
+  ]
+}

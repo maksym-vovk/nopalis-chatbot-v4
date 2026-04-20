@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "San Bartolo Soyaltepec",
+      "colonia": "Gavillera",
+      "postal_code": [
+        "69567"
+      ]
+    },
+    {
+      "city": "San Bartolo Soyaltepec",
+      "colonia": "La Union Soyaltepec",
+      "postal_code": [
+        "69566"
+      ]
+    },
+    {
+      "city": "San Bartolo Soyaltepec",
+      "colonia": "San Bartolo Soyaltepec",
+      "postal_code": [
+        "69565"
+      ]
+    },
+    {
+      "city": "San Bartolo Soyaltepec",
+      "colonia": "San Pedro Anane",
+      "postal_code": [
+        "69569"
+      ]
+    }
+  ]
+}

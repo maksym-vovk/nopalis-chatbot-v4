@@ -1,0 +1,899 @@
+{
+  "data": [
+    {
+      "city": "Badiraguato",
+      "colonia": "Aguaje Grande",
+      "postal_code": [
+        "80545"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Alcoyonqui",
+      "postal_code": [
+        "80554"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Alisos",
+      "postal_code": [
+        "80677"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Arroyo de los Payan",
+      "postal_code": [
+        "80670"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Bacacoragua",
+      "postal_code": [
+        "80680"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Badiraguato",
+      "postal_code": [
+        "80500"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Bamopa",
+      "postal_code": [
+        "80527"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Batequitas",
+      "postal_code": [
+        "80556"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Batopito",
+      "postal_code": [
+        "80565"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Baymusari",
+      "postal_code": [
+        "80536"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Boca de Arroyo",
+      "postal_code": [
+        "80537",
+        "80544"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Calabazas",
+      "postal_code": [
+        "80639"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Camotete [Campo Camotete]",
+      "postal_code": [
+        "80583"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Casas Viejas",
+      "postal_code": [
+        "80610"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Cerro de los Guerrero",
+      "postal_code": [
+        "80556"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Chinacates",
+      "postal_code": [
+        "80544"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Cienega de los Lara",
+      "postal_code": [
+        "80567"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Cinco de Mayo (Tepalcates)",
+      "postal_code": [
+        "80537"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Colinas del Camichin",
+      "postal_code": [
+        "80500"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Cortijos de Guatenipa (Los Cortijos)",
+      "postal_code": [
+        "80570"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Aguaje",
+      "postal_code": [
+        "80534",
+        "80537"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El alamo",
+      "postal_code": [
+        "80530"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Arroyo de la Vainilla",
+      "postal_code": [
+        "80677"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Brasil",
+      "postal_code": [
+        "80585"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Epazote",
+      "postal_code": [
+        "80670"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Gato",
+      "postal_code": [
+        "80639"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Guasimal",
+      "postal_code": [
+        "80530"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Guayabo de Abajo",
+      "postal_code": [
+        "80639"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Guayabo de Arriba",
+      "postal_code": [
+        "80639"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Huejote",
+      "postal_code": [
+        "80534"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Huejotillo",
+      "postal_code": [
+        "80585"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Mezquite",
+      "postal_code": [
+        "80670"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Molino",
+      "postal_code": [
+        "80610"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Nogalito",
+      "postal_code": [
+        "80627"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Picacho",
+      "postal_code": [
+        "80610"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Pinito",
+      "postal_code": [
+        "80639"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Platanar",
+      "postal_code": [
+        "80536"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Portezuelo",
+      "postal_code": [
+        "80565"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Potrerito",
+      "postal_code": [
+        "80677"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Pueblito",
+      "postal_code": [
+        "80560",
+        "80679"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "80600"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Realito",
+      "postal_code": [
+        "80677"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Reparo",
+      "postal_code": [
+        "80670"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Rincon de los Montes",
+      "postal_code": [
+        "80583"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Saucito",
+      "postal_code": [
+        "80610",
+        "80670"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Saucito (El Saucito de Lugo)",
+      "postal_code": [
+        "80639"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Tecuan",
+      "postal_code": [
+        "80540"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "80670"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Triguito",
+      "postal_code": [
+        "80640"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Tule",
+      "postal_code": [
+        "80545"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Vallecito",
+      "postal_code": [
+        "80670"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "80560"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Zapote de los Monzon",
+      "postal_code": [
+        "80545"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "El Zapotillo",
+      "postal_code": [
+        "80544",
+        "80670"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Guanajuato",
+      "postal_code": [
+        "80677"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Higueras de alvarez Borboa (Higuera de los Monzon)",
+      "postal_code": [
+        "80550"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Higueras de Bayaca (Bayaca)",
+      "postal_code": [
+        "80585"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Huanacaxtle",
+      "postal_code": [
+        "80610"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Huicharabito",
+      "postal_code": [
+        "80583"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Huixiopa",
+      "postal_code": [
+        "80680"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Jajalpa",
+      "postal_code": [
+        "80670"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "La Amapa",
+      "postal_code": [
+        "80570"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "La Catalina",
+      "postal_code": [
+        "80670"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "La Cofradia",
+      "postal_code": [
+        "80670"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "La Dispencilla",
+      "postal_code": [
+        "80530"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "La Haciendita",
+      "postal_code": [
+        "80677"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "La Higuerita",
+      "postal_code": [
+        "80554"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "La Juanilla",
+      "postal_code": [
+        "80536"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "La Ladrillera",
+      "postal_code": [
+        "80678"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "La Lapara",
+      "postal_code": [
+        "80679"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "La Mezcla",
+      "postal_code": [
+        "80560"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "La Palma",
+      "postal_code": [
+        "80627"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "La Pitahayita",
+      "postal_code": [
+        "80670"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Las Cuevitas",
+      "postal_code": [
+        "80640"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Las Higueras",
+      "postal_code": [
+        "80610"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Las Higueras del Tecuan",
+      "postal_code": [
+        "80540"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Las Higueritas",
+      "postal_code": [
+        "80560"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Las Olorosas",
+      "postal_code": [
+        "80583"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Las Paredes",
+      "postal_code": [
+        "80680"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "La Tasajera",
+      "postal_code": [
+        "80536"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "La Tuna",
+      "postal_code": [
+        "80627"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "La Vainilla",
+      "postal_code": [
+        "80560",
+        "80677"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Llano de los Rochin",
+      "postal_code": [
+        "80554"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Los Alcajeces",
+      "postal_code": [
+        "80536"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Los Alisitos",
+      "postal_code": [
+        "80639"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Los Chinos",
+      "postal_code": [
+        "80554"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Los Cocos",
+      "postal_code": [
+        "80639"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Los Mirasoles",
+      "postal_code": [
+        "80610"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "80679"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Los Rebajes",
+      "postal_code": [
+        "80679"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Los Tepehuajes",
+      "postal_code": [
+        "80678"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Los Veneros",
+      "postal_code": [
+        "80679"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Los Zapotes de Abajo",
+      "postal_code": [
+        "80536"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Los Zapotes de Arriba",
+      "postal_code": [
+        "80536"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Mesa Colorada",
+      "postal_code": [
+        "80639"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Morirato",
+      "postal_code": [
+        "80544"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Nocoriba",
+      "postal_code": [
+        "80560"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Otatillos",
+      "postal_code": [
+        "80560"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Palmar de los Rios",
+      "postal_code": [
+        "80565"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Palmarito de San Javier",
+      "postal_code": [
+        "80610"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Paso del Huejote",
+      "postal_code": [
+        "80585"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Pie de la Cuesta",
+      "postal_code": [
+        "80627"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Piedra Bola",
+      "postal_code": [
+        "80639"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Plan Grande",
+      "postal_code": [
+        "80600"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Potrerillo",
+      "postal_code": [
+        "80530"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Potrerillos",
+      "postal_code": [
+        "80610"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Potrero de los Medina",
+      "postal_code": [
+        "80536"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Potrero de los Vega",
+      "postal_code": [
+        "80545"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Rincon de los Monzon",
+      "postal_code": [
+        "80556"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Saca de Agua",
+      "postal_code": [
+        "80583"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "San Antonio de la Palma",
+      "postal_code": [
+        "80537"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "San Antonio de los Ortiz (El Riyito)",
+      "postal_code": [
+        "80565"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "San Javier de Abajo",
+      "postal_code": [
+        "80610"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "San Javier de Arriba",
+      "postal_code": [
+        "80610"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "San Jose de la Puerta",
+      "postal_code": [
+        "80537"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "San Jose del Barranco",
+      "postal_code": [
+        "80627"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "San Nicolas del Sitio (Sitio de Arriba)",
+      "postal_code": [
+        "80534"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "80678"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "80530"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Santiago de los Caballeros (Santiago)",
+      "postal_code": [
+        "80677"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Sitio de Abajo",
+      "postal_code": [
+        "80530"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Sitio de en Medio",
+      "postal_code": [
+        "80535"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Surutato",
+      "postal_code": [
+        "80600"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Tameapa",
+      "postal_code": [
+        "80670"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Terreros Bayos",
+      "postal_code": [
+        "80639"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Terreros de San Javier",
+      "postal_code": [
+        "80610"
+      ]
+    },
+    {
+      "city": "Badiraguato",
+      "colonia": "Zoquitita",
+      "postal_code": [
+        "80570"
+      ]
+    }
+  ]
+}

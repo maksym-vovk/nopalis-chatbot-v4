@@ -1,0 +1,419 @@
+{
+  "data": [
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Ampliacion Los Potros (Tres Piedras)",
+      "postal_code": [
+        "54607"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Arboleda",
+      "postal_code": [
+        "54616"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Arcos del Sitio",
+      "postal_code": [
+        "54645"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Axotlan II",
+      "postal_code": [
+        "54615"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Canada de Cisneros",
+      "postal_code": [
+        "54650"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Capula",
+      "postal_code": [
+        "54603"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Cedros",
+      "postal_code": [
+        "54605"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Club Virreyes",
+      "postal_code": [
+        "54650"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Ejido Santiago",
+      "postal_code": [
+        "54604"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "El Arroyo",
+      "postal_code": [
+        "54607"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "El Convento",
+      "postal_code": [
+        "54610"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "El Gavillero",
+      "postal_code": [
+        "54640"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "El Jagüey",
+      "postal_code": [
+        "54655"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "54650"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "El Puerto de los Huizaches",
+      "postal_code": [
+        "54655"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "54602"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "El Tejocote",
+      "postal_code": [
+        "54602"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "El Trebol",
+      "postal_code": [
+        "54614"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Granjas Hogar y Petrohuertos Delegacion",
+      "postal_code": [
+        "54655"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "54602"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Hacienda la Concepcion",
+      "postal_code": [
+        "54650"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Hacienda la Concepcion (Ex-Rancho la Joya)",
+      "postal_code": [
+        "54655"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Industrial el Trebol",
+      "postal_code": [
+        "54610"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "La Concepcion",
+      "postal_code": [
+        "54655"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "La Lumbrera",
+      "postal_code": [
+        "54607"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "La Luz",
+      "postal_code": [
+        "54650",
+        "54655"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Lanzarote",
+      "postal_code": [
+        "54650"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "La Palmita",
+      "postal_code": [
+        "54602"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "La Pedrera (La Mina)",
+      "postal_code": [
+        "54655"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Las Animas",
+      "postal_code": [
+        "54616"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Las Cabanas",
+      "postal_code": [
+        "54658"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Las Lechuguillas",
+      "postal_code": [
+        "54658"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "La Tecla",
+      "postal_code": [
+        "54615"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "54607"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "54608"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Los Dolores (Ex-hacienda los Dolores)",
+      "postal_code": [
+        "54640"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Lumbrera II",
+      "postal_code": [
+        "54615"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Paseo los Virreyes",
+      "postal_code": [
+        "54608"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Puente Grande",
+      "postal_code": [
+        "54610"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Reserva Ecologica Xochitla",
+      "postal_code": [
+        "54610"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "54607"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "San Bartolo",
+      "postal_code": [
+        "54655"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "San Jose",
+      "postal_code": [
+        "54602",
+        "54650"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "San Jose la Teja",
+      "postal_code": [
+        "54607"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "San Martin",
+      "postal_code": [
+        "54600"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "San Mateo Xoloc",
+      "postal_code": [
+        "54600"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "San Miguel Canadas",
+      "postal_code": [
+        "54656"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "54615"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "54604"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "54655"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Santiago",
+      "postal_code": [
+        "54650"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Santiago Cuautlalpan",
+      "postal_code": [
+        "54650"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Santiago el Alto",
+      "postal_code": [
+        "54650"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "San Vicente",
+      "postal_code": [
+        "54655"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Tepotzotlan Centro",
+      "postal_code": [
+        "54600"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Texcacoa",
+      "postal_code": [
+        "54605"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Titini",
+      "postal_code": [
+        "54650"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Tlacateco",
+      "postal_code": [
+        "54605"
+      ]
+    },
+    {
+      "city": "Tepotzotlan",
+      "colonia": "Villas del Convento",
+      "postal_code": [
+        "54605"
+      ]
+    }
+  ]
+}

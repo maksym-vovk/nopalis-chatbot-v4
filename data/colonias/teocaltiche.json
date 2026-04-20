@@ -1,0 +1,424 @@
+{
+  "data": [
+    {
+      "city": "Teocaltiche",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "47207"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Belen del Refugio",
+      "postal_code": [
+        "47220"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "47203"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "47216"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Calerita",
+      "postal_code": [
+        "47215"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Cerro de los Gregorios",
+      "postal_code": [
+        "47245"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Colinas de La Cruz",
+      "postal_code": [
+        "47202"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "C T M",
+      "postal_code": [
+        "47203"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "El alamo de Abajo",
+      "postal_code": [
+        "47225"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "El alamo de Arriba",
+      "postal_code": [
+        "47225"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "El Barrio",
+      "postal_code": [
+        "47245"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "El Crucero",
+      "postal_code": [
+        "47216"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "47216"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "El Pueblito",
+      "postal_code": [
+        "47249"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "El Refugio (Las Urracas)",
+      "postal_code": [
+        "47249"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "El Salitre",
+      "postal_code": [
+        "47216"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "El Santo",
+      "postal_code": [
+        "47218"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "El Saucito",
+      "postal_code": [
+        "47218"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "El Tablero",
+      "postal_code": [
+        "47248"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "El Talayote (El Morisco)",
+      "postal_code": [
+        "47235"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Gavilan de Abajo",
+      "postal_code": [
+        "47229"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Gavilan de Arriba",
+      "postal_code": [
+        "47229"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Halconero de Abajo",
+      "postal_code": [
+        "47240"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Jose de Jesus Aguirre",
+      "postal_code": [
+        "47220"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Juarez",
+      "postal_code": [
+        "47206"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "La Calera",
+      "postal_code": [
+        "47215"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "La Ciudad de los Ninos",
+      "postal_code": [
+        "47215"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "47202"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "La Parrita",
+      "postal_code": [
+        "47216"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "47228"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Las Juntas",
+      "postal_code": [
+        "47240"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "La Tejuinera",
+      "postal_code": [
+        "47215"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "47248"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Lomas de Teocaltiche",
+      "postal_code": [
+        "47202"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Los Angeles",
+      "postal_code": [
+        "47204"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Los Arcos",
+      "postal_code": [
+        "47204"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Los Saucos",
+      "postal_code": [
+        "47218"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "47207"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Maravillas",
+      "postal_code": [
+        "47204"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Mascua",
+      "postal_code": [
+        "47239"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Mechoacanejo",
+      "postal_code": [
+        "47210"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Nueva Maravillas",
+      "postal_code": [
+        "47204"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Ostotan",
+      "postal_code": [
+        "47230"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Rancho Cuatro Vientos",
+      "postal_code": [
+        "47220"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Rancho Mayor",
+      "postal_code": [
+        "47218"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Rincon de la Presa",
+      "postal_code": [
+        "47228"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "San Bernardo",
+      "postal_code": [
+        "47229"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "San Jose de Ajojucar",
+      "postal_code": [
+        "47227"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "San Jose de la Haciendita",
+      "postal_code": [
+        "47220"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "San Martin",
+      "postal_code": [
+        "47204"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "San Miguel Norte",
+      "postal_code": [
+        "47203"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "San Miguel Sur",
+      "postal_code": [
+        "47203"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "47207"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "San Roque (El Barrio)",
+      "postal_code": [
+        "47220"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Santa Barbara",
+      "postal_code": [
+        "47238"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Sierrita de los Dolores (La Sierrita)",
+      "postal_code": [
+        "47249"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Tavares",
+      "postal_code": [
+        "47203"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Teocaltiche Centro",
+      "postal_code": [
+        "47200"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Tonalan",
+      "postal_code": [
+        "47248"
+      ]
+    },
+    {
+      "city": "Teocaltiche",
+      "colonia": "Villa de Ornelas (Ornelas)",
+      "postal_code": [
+        "47240"
+      ]
+    }
+  ]
+}

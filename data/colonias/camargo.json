@@ -1,0 +1,684 @@
+{
+  "data": [
+    {
+      "city": "Camargo",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "88443"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Behula",
+      "postal_code": [
+        "88444"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Camargo (Estradeno Dos)",
+      "postal_code": [
+        "88440"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Ciudad Camargo Centro",
+      "postal_code": [
+        "88440"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Comales Centro",
+      "postal_code": [
+        "88460"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Congregacion Ochoa",
+      "postal_code": [
+        "88469"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "88442"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "El Azucar",
+      "postal_code": [
+        "88470"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "El Gonzaleno",
+      "postal_code": [
+        "88440"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "El Gonzalito",
+      "postal_code": [
+        "88447"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "El Sauz",
+      "postal_code": [
+        "88444"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Estacion Camargo",
+      "postal_code": [
+        "88468"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Guardados de Abajo",
+      "postal_code": [
+        "88455"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Industrial Camargo",
+      "postal_code": [
+        "88443"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "INFONAVIT Nuevo Camargo",
+      "postal_code": [
+        "88459"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "La Mision",
+      "postal_code": [
+        "88446"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Lemus",
+      "postal_code": [
+        "88442"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Lopez y Nuevo Cadillo",
+      "postal_code": [
+        "88440"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "88473"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "88456"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Nuevo Cadillo",
+      "postal_code": [
+        "88449"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Nuevo Camargo (Villanueva)",
+      "postal_code": [
+        "88468"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Obrera",
+      "postal_code": [
+        "88448"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Puertecitos",
+      "postal_code": [
+        "88479"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Rancherias",
+      "postal_code": [
+        "88450"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "88470"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Santa Gertrudis",
+      "postal_code": [
+        "88490"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Santa Rosalia",
+      "postal_code": [
+        "88480"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "4 Milpas INFONAVIT",
+      "postal_code": [
+        "33759"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Abraham Gonzalez",
+      "postal_code": [
+        "33778"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Abraham Gonzalez FONHAPO",
+      "postal_code": [
+        "33778"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Aeropuerto",
+      "postal_code": [
+        "33748"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Agricola Industrial",
+      "postal_code": [
+        "33750"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Alsalcia y Lorena",
+      "postal_code": [
+        "33737"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Alta Vista",
+      "postal_code": [
+        "33601"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "arbol Grande",
+      "postal_code": [
+        "33739"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "33768"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Chavira",
+      "postal_code": [
+        "33770"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Ciudad Camargo Centro",
+      "postal_code": [
+        "33700"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "David Alfaro Siqueiros",
+      "postal_code": [
+        "33749"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "El Campanario",
+      "postal_code": [
+        "33759"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "El Molino",
+      "postal_code": [
+        "33604"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "El Molino (Las Virginias)",
+      "postal_code": [
+        "33604"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "33604"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "El Rosal (Chavira)",
+      "postal_code": [
+        "33600"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "El Tecuan",
+      "postal_code": [
+        "33600"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Estacion Diaz (Ejido San Leonardo)",
+      "postal_code": [
+        "33604"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Estanislao Munoz",
+      "postal_code": [
+        "33740"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Floreno",
+      "postal_code": [
+        "33601"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Flores",
+      "postal_code": [
+        "33600"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "FOVISSSTE",
+      "postal_code": [
+        "33770"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "33749"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "INFONAVIT Lomas del Florido",
+      "postal_code": [
+        "33720"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "INFONAVIT Rio Florido",
+      "postal_code": [
+        "33720"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Jardines del Conchos",
+      "postal_code": [
+        "33710"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Jardines del Desierto",
+      "postal_code": [
+        "33749"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Jardines de San Marcos",
+      "postal_code": [
+        "33720"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Jorge Negrete",
+      "postal_code": [
+        "33779"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Laderas Abraham Gonzalez",
+      "postal_code": [
+        "33778"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "La Enramada",
+      "postal_code": [
+        "33604"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Laguna Jaco (Alvaro Obregon)",
+      "postal_code": [
+        "33618"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Lagunas de las Vacas",
+      "postal_code": [
+        "33605"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "33600"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "La Lagunita",
+      "postal_code": [
+        "33730"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "La Perla Mineral",
+      "postal_code": [
+        "33610"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Las Boquillas",
+      "postal_code": [
+        "33749"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Las Cuevas",
+      "postal_code": [
+        "33600"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Las Torres",
+      "postal_code": [
+        "33778"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Leyes de Reforma",
+      "postal_code": [
+        "33600"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "33749"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "33601"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "33777"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Magisterial Santa Gracia",
+      "postal_code": [
+        "33737"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Maravillas",
+      "postal_code": [
+        "33601"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Obrera",
+      "postal_code": [
+        "33769"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Ojo Caliente de Abajo",
+      "postal_code": [
+        "33600"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Ortegueno",
+      "postal_code": [
+        "33600"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Parque Industrial el Soldado",
+      "postal_code": [
+        "33750"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Pascualeno",
+      "postal_code": [
+        "33600"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "PEMEX",
+      "postal_code": [
+        "33730"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Presilla Alta",
+      "postal_code": [
+        "33600"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Quinta Gracia",
+      "postal_code": [
+        "33737"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "33600"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "33740"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Rio del Parral",
+      "postal_code": [
+        "33605"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Rivera del Conchos FONHAPO",
+      "postal_code": [
+        "33749"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Roma",
+      "postal_code": [
+        "33777"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "San Ignacio I",
+      "postal_code": [
+        "33601"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "33760"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "San Jose del Parralito",
+      "postal_code": [
+        "33604"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "33778"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "33600"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Santa Rosalia",
+      "postal_code": [
+        "33710",
+        "33765"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Universidad Tecnologica de Camargo",
+      "postal_code": [
+        "33730"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Villa Diamante",
+      "postal_code": [
+        "33737"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Villas del Sol",
+      "postal_code": [
+        "33749"
+      ]
+    },
+    {
+      "city": "Camargo",
+      "colonia": "Xeoh",
+      "postal_code": [
+        "33770"
+      ]
+    }
+  ]
+}

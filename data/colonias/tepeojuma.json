@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Tepeojuma",
+      "colonia": "El Astillero",
+      "postal_code": [
+        "74395"
+      ]
+    },
+    {
+      "city": "Tepeojuma",
+      "colonia": "Independencia",
+      "postal_code": [
+        "74390"
+      ]
+    },
+    {
+      "city": "Tepeojuma",
+      "colonia": "La Magdalena",
+      "postal_code": [
+        "74397"
+      ]
+    },
+    {
+      "city": "Tepeojuma",
+      "colonia": "Tepeojuma",
+      "postal_code": [
+        "74390"
+      ]
+    },
+    {
+      "city": "Tepeojuma",
+      "colonia": "Teyuca",
+      "postal_code": [
+        "74393"
+      ]
+    },
+    {
+      "city": "Tepeojuma",
+      "colonia": "Xoyatla",
+      "postal_code": [
+        "74394"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,943 @@
+{
+  "data": [
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Agricola el Bacame",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Aguariel",
+      "postal_code": [
+        "83373"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Campito San Alberto",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Campo del Rosario",
+      "postal_code": [
+        "83365"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Campo Jorge Ortega",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Campo Miguel Campillo",
+      "postal_code": [
+        "83366"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Campo Numero Dos",
+      "postal_code": [
+        "83366"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Campo San Jose",
+      "postal_code": [
+        "83365"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Cano Sainz (El Rastro)",
+      "postal_code": [
+        "83370"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Cerro Colorado",
+      "postal_code": [
+        "83370"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Cerro Pelon",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Chupisonora",
+      "postal_code": [
+        "83363"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Codorachi",
+      "postal_code": [
+        "83373"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "El Beny [Vinedo]",
+      "postal_code": [
+        "83374"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "El Cajon",
+      "postal_code": [
+        "83370"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "El Carricito",
+      "postal_code": [
+        "83364"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "El Carrizo",
+      "postal_code": [
+        "83373"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "El Chinalito",
+      "postal_code": [
+        "83363"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "El Coyote (Rancho Grande)",
+      "postal_code": [
+        "83373"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "El Cuatro",
+      "postal_code": [
+        "83366"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "El Flojo",
+      "postal_code": [
+        "83363"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "El Gato",
+      "postal_code": [
+        "83363"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "El Llano",
+      "postal_code": [
+        "83364"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "El Manto [Vinedo]",
+      "postal_code": [
+        "83375"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "El Molino de Abajo",
+      "postal_code": [
+        "83364"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "El Molino de Arriba",
+      "postal_code": [
+        "83364"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "El Nogalito",
+      "postal_code": [
+        "83370"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "El Padre",
+      "postal_code": [
+        "83365"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "83367"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "El Tecolote",
+      "postal_code": [
+        "83374"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "El Tigre",
+      "postal_code": [
+        "83363"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "El Torreon",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "El Tren",
+      "postal_code": [
+        "83364"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "El Veranito",
+      "postal_code": [
+        "83363"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Fer-Ver de los Molinas",
+      "postal_code": [
+        "83375"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Frigorificos Pesqueira Sonhofrut",
+      "postal_code": [
+        "83375"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Grupo Serrano",
+      "postal_code": [
+        "83366"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "83363"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Juan Peralta",
+      "postal_code": [
+        "83365"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "La Aduana",
+      "postal_code": [
+        "83374"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "La Bajada",
+      "postal_code": [
+        "83364"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "La Canada",
+      "postal_code": [
+        "83370"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "La Canada de San Miguel",
+      "postal_code": [
+        "83370"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "La Carrizosa",
+      "postal_code": [
+        "83364"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "La Casa Colorada",
+      "postal_code": [
+        "83364"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "La Chepa (Rancho Leonardito)",
+      "postal_code": [
+        "83363"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "La Galera",
+      "postal_code": [
+        "83370"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "La Gloria",
+      "postal_code": [
+        "83365"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "La Mancha",
+      "postal_code": [
+        "83363"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "La Noria",
+      "postal_code": [
+        "83366"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "La Perla",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "La Pinacata [Porcicola]",
+      "postal_code": [
+        "83374"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "83363"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "La Quinta",
+      "postal_code": [
+        "83373"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "La Salada de Abajo",
+      "postal_code": [
+        "83374"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "La Salada de Arriba (SAHOP)",
+      "postal_code": [
+        "83374"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Las Bateas",
+      "postal_code": [
+        "83375"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Las Bateas (Las Bateas de Arriba)",
+      "postal_code": [
+        "83375"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Las Limas",
+      "postal_code": [
+        "83364"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Las Mercedes [Agropecuaria]",
+      "postal_code": [
+        "83375"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Las Mestenas",
+      "postal_code": [
+        "83366"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Las Playitas",
+      "postal_code": [
+        "83367"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "La Tembladera de Arriba",
+      "postal_code": [
+        "83370"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "La Vinorama",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "La Virgen",
+      "postal_code": [
+        "83366"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Los angeles (La Fabrica de los angeles)",
+      "postal_code": [
+        "83370"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Los Cochitos",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Los Cuates",
+      "postal_code": [
+        "83365",
+        "83366"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Los Diques",
+      "postal_code": [
+        "83370"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Los Gordos",
+      "postal_code": [
+        "83375"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Los Hoyos",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Los Mezquites [Hipodromo]",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Los Robles",
+      "postal_code": [
+        "83370"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Los Seris",
+      "postal_code": [
+        "83364"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Los Tres Garcia [Ganadera]",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Los Vergeles",
+      "postal_code": [
+        "83366"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Noria del Verde",
+      "postal_code": [
+        "83366"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Nunez (Campo Nunez)",
+      "postal_code": [
+        "83375"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Parcela 45",
+      "postal_code": [
+        "83366"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Parronales Porfin",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Pedro Moreno (Predio Mata de Carrizo)",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Pepon (Las Minitas)",
+      "postal_code": [
+        "83363"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Pesqueira",
+      "postal_code": [
+        "83377"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Pesqueira [Granja Porcicola]",
+      "postal_code": [
+        "83374"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Pesqueira [Vinedo]",
+      "postal_code": [
+        "83374"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Placar",
+      "postal_code": [
+        "83366"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Pozo Enrique",
+      "postal_code": [
+        "83374"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Pozo Manuel",
+      "postal_code": [
+        "83367"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Predio Dos Pozos",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Pueblo Nuevo",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Punta de Agua Uno",
+      "postal_code": [
+        "83363"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Ranchito del Rio Bonito",
+      "postal_code": [
+        "83365"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Rancho Agua Salada",
+      "postal_code": [
+        "83364"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Rancho Aldana",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Rancho Arbisena",
+      "postal_code": [
+        "83364"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Rancho Arturo Garcia",
+      "postal_code": [
+        "83373"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Rancho de Alejo Lugo",
+      "postal_code": [
+        "83367"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Rancho de Baldomero Robles",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Rancho FIGVAL",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Rancho Guadalupe",
+      "postal_code": [
+        "83373"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Rancho San Antonio",
+      "postal_code": [
+        "83367"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Rancho Santiago Y",
+      "postal_code": [
+        "83365"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Rancho Vacajuzary",
+      "postal_code": [
+        "83364"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Sagrado Corazon de Jesus",
+      "postal_code": [
+        "83366"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "San Benito",
+      "postal_code": [
+        "83363"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "San Carlos (La Carbonera)",
+      "postal_code": [
+        "83373"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "San Diego",
+      "postal_code": [
+        "83365"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "83370"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "83373"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "San Jeronimo",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "San Jose del Porvenir",
+      "postal_code": [
+        "83366"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "San Juan de los Lagos",
+      "postal_code": [
+        "83365"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "San Judas",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "San Justino",
+      "postal_code": [
+        "83364"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "San Martin",
+      "postal_code": [
+        "83366"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "San Martin de Porres",
+      "postal_code": [
+        "83365"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "San Martin (La Luna)",
+      "postal_code": [
+        "83374"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "San Miguel de Horcasitas",
+      "postal_code": [
+        "83360"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "83366"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Santa Elena (La Providencia)",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Santa Maria del Populo",
+      "postal_code": [
+        "83364"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "83364"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Santa Rita (Campo Numero Tres)",
+      "postal_code": [
+        "83366"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "83363"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Serrano",
+      "postal_code": [
+        "83366"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Sociedad Bracamonte Amarilla",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Tierras Nuevas",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "UES [Campo]",
+      "postal_code": [
+        "83375"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Vinedo el Porvenir",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Vinedo el Sol",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Vinedo Escondido",
+      "postal_code": [
+        "83375"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Vinedo la Mesa",
+      "postal_code": [
+        "83376"
+      ]
+    },
+    {
+      "city": "San Miguel de Horcasitas",
+      "colonia": "Vinedos 2000 Norte (La Tracalita)",
+      "postal_code": [
+        "83374"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5544 @@
+{
+  "data": [
+    {
+      "city": "Mezquital",
+      "colonia": "Abelino Castaneda",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Adelaido Santana",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Agostadero el Coyote",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Agua Caliente",
+      "postal_code": [
+        "34974",
+        "34985",
+        "34994",
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Agua Fria",
+      "postal_code": [
+        "34990",
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Agua Prieta",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Agua Puerca",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Aguasal",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Agua Salada",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Agua Seca",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Agua Verde",
+      "postal_code": [
+        "34993",
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Agua Zarca",
+      "postal_code": [
+        "34977",
+        "34977",
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Alamitos",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Algodones",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Altamira",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Amatan",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Angostura",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Arroyo de las Papas",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Arroyo de los Limones",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Arroyo de Toros",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Arroyo de Zapotes",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Arroyo el Limon",
+      "postal_code": [
+        "34990",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Arroyo Hondo",
+      "postal_code": [
+        "34977",
+        "34985",
+        "34986",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Arroyo los Arrayanes",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Atotonilco",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Azucena",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Bagres",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Bajio de Carrizales",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Bajio de Gavilanes",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Bajio de la China",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Bajio de la Cienega",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Bajio del Llano (Chichoktam)",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Bajio de Milpillas (Tierra Sonando)",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Banco Colorado",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Banco del Ciruelo (Las Adjuntas)",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Banco del Nopal (Los Pinoles)",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Bancos",
+      "postal_code": [
+        "34994",
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Bancos de Calitique",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Barbechitos",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Barrancos Prietos",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Barriles",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Berenjen (Tepetates Dos)",
+      "postal_code": [
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Bramaderos",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Brasiles",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "34993",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Buena Vista",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Buenos Aires (Mesa de la Bandera)",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cabezas",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cachantita",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Caligüey",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Calitique",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Camichiz",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Campamento Canoas",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Candelarita",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Canoas",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Canoas 3",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Canoitas (Canoas Dos)",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cantaritos",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cantaros",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Capulines",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Capultita",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Carambas",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cardosanto",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Carretones",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Carricillos",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Carrizos",
+      "postal_code": [
+        "34977",
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Catarino Solis Marquez",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cebolleta",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cebollitas",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Ceja de Cebolleta",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Ceja de los Cuervos",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Ceja de los Sauces",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Ceja de Pericos",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Ceja de Toyana",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cerrito Blanco",
+      "postal_code": [
+        "34986",
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cerrito de Llano",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cerrito Gordo",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cerro Agujerado",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cerro Alto",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cerro Amarillo",
+      "postal_code": [
+        "34980",
+        "34986",
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cerro Blanco",
+      "postal_code": [
+        "34985",
+        "34985",
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cerro Bolillo",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cerro de la Flecha",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cerro de la Silla",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cerro de las Mesas",
+      "postal_code": [
+        "34985",
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cerro de las Papas",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cerro de la Vaca",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cerro del Guamuchil",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cerro Gordo",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cerro Pelon",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cerro Prieto",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cerros Juntos",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cerro Verde",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Chalate",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Chalate 2",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Chalates",
+      "postal_code": [
+        "34985",
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Chalatita",
+      "postal_code": [
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Chalchihuites",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Chalchihuitillo",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Chametla",
+      "postal_code": [
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Charco Largo",
+      "postal_code": [
+        "34976"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Chicaltita",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Chilacayotes",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Chimaltita",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Chinacates",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Chomatita",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cienega de la Mesa",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cienega de los Carrizos",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cienega del Oso",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cienega del Zancudo Uno",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cienega de Mirasoles",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cienega Ladera",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cieneguita",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cihuacora",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cofradia",
+      "postal_code": [
+        "34997",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Colomos",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Combustita",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Conejos",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Copales",
+      "postal_code": [
+        "34975"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cordon de Buenavista (El Cordon)",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cordon de Joyancas",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cordon del Encino",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cordon el Carrizal",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Corpus",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Corralitos",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Coscomates",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Coyotes",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Crucero del Carrizo",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cuamyam (La Joyita)",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cuc Tam",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cuernavaca",
+      "postal_code": [
+        "34976"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cuesta Blanca (Agüita Escondida)",
+      "postal_code": [
+        "34976"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cueva Escondida",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Cuevitas",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Curachitos (Buena Vista)",
+      "postal_code": [
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Durango",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Agostadero",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Agua Caliente",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Aguacate",
+      "postal_code": [
+        "34987",
+        "34996",
+        "34997",
+        "34997",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Agua de los Coyotes",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Alacran",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El angel",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Apago",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Arrayan (El Guayabo)",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Atravesano",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Banco",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Banquito",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Borrego",
+      "postal_code": [
+        "34975"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Carpintero",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "34977",
+        "34985",
+        "34993",
+        "34995",
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Carrizalillo",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Carrizo",
+      "postal_code": [
+        "34985",
+        "34987",
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Catorce",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Cedro",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Cerro de la Flor",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Chalate",
+      "postal_code": [
+        "34985",
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Chapotito",
+      "postal_code": [
+        "34976"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Charco Verde",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Chino",
+      "postal_code": [
+        "34975"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Coleadero",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Consuelo",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Convento",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Cordon",
+      "postal_code": [
+        "34985",
+        "34990",
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Cortador",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Cotorro",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Coyote",
+      "postal_code": [
+        "34976"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Cuervito",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Descanso",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Duraznito",
+      "postal_code": [
+        "34976",
+        "34977",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Durazno (Duraznitos)",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Escorpion",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Espiritu Santo",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Gallo",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Gavilan",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Guayabito",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Guayabo",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Huarache",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Huas",
+      "postal_code": [
+        "34993",
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Izote",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Jabali",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Juego de Hule",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Limon",
+      "postal_code": [
+        "34974",
+        "34990",
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Limon del Rio",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Llanito",
+      "postal_code": [
+        "34974",
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Llano",
+      "postal_code": [
+        "34985",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Llano de Cofradia",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Madrono",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Maguey",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Magueyal",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Manzano",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Mezquite",
+      "postal_code": [
+        "34986",
+        "34994",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Naranjo",
+      "postal_code": [
+        "34990",
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Oso",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Paraje",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Pata de Gallo",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Penasco (Relices)",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Pinito",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Pino",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Pirame (Pena Alto)",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Polvorin",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Potrero",
+      "postal_code": [
+        "34990",
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Puertecito",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Puerto",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Puerto del Carrizal",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Purgatorio",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Quitapeiste",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Reventon",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "34976",
+        "34985",
+        "34986",
+        "34986",
+        "34987",
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Rincon de Peyotan",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Rincon (Los Horcones)",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Rincon (Troncones)",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Roble",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Rodeo",
+      "postal_code": [
+        "34986",
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "34975"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Salitre",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Salto",
+      "postal_code": [
+        "34976",
+        "34987",
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Sapo",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Sauce",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Saucito",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Silvancito",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Sombrero",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Sotolito",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Tapeiste",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Tejaban",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Tepetatal",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Toro",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Troncon",
+      "postal_code": [
+        "34974",
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Venado",
+      "postal_code": [
+        "34976",
+        "34985",
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Yaqui",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Zacate",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Zancudo Uno",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "34987",
+        "34990",
+        "34997",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Encinos Chaparros",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Encino Verde",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Enramadas",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Epifanio Santana Cervantes",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Escalera",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Estafiate",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Faustino Galindo",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Flor de Mayo",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Flores China",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Fortines (Los Fortines)",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Gavilancillos",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Gavilanes",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Guadalajara",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Guajolote",
+      "postal_code": [
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Gualamas",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Guayabito",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Guayabitos",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Hervidero",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Higo Parado",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Hojas Anchas",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Huastita",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Huazamota",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Huazamotita",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Huerta Santa Cruz",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Irak",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Isquelta",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Jabalies",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Jaripa de Arriba",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Jocouixtle (Palo Amarillo)",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Jorge Alvarado",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Jose Cumplido",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Joyas de Guamuchil",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Juan Pablo Cardenas",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Julia Ortiz",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Amapola",
+      "postal_code": [
+        "34975"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Angostura",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Angostura (El Aguacate)",
+      "postal_code": [
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Arena",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Bolsa",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Boquilla",
+      "postal_code": [
+        "34977",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Brillera",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Buenavista",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Buniga",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Canada",
+      "postal_code": [
+        "34996",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Candelaria",
+      "postal_code": [
+        "34976"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Cascada",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Cebadilla",
+      "postal_code": [
+        "34975"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Ceja",
+      "postal_code": [
+        "34980",
+        "34985",
+        "34994",
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Chia",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Chira",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "34985",
+        "34985",
+        "34986",
+        "34987",
+        "34987",
+        "34994",
+        "34997",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Cieneguita",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Cocona",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Cofradia",
+      "postal_code": [
+        "34985",
+        "34986",
+        "34990",
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Colita de Celestino",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Cueva",
+      "postal_code": [
+        "34977",
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Cueva del Diablo",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Culebra",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Cumbre",
+      "postal_code": [
+        "34995",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Curata",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Escalera",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Estancia",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Estrella",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Frontera",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Gloria (Canoas)",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Gotera",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Guacamaya",
+      "postal_code": [
+        "34985",
+        "34987",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Guacamayita",
+      "postal_code": [
+        "34975",
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Guajolota",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Laguna del Burro",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Hacienda",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Haciendita",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Higuerita",
+      "postal_code": [
+        "34994",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Huella del Nino",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Jabonera",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Joya",
+      "postal_code": [
+        "34976",
+        "34986",
+        "34990",
+        "34990",
+        "34993",
+        "34994",
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Joya del Agostadero",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Joyanca",
+      "postal_code": [
+        "34990",
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Joyanca de los Poblanos",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Joyas",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Joyita",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Joyita Escondida",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Ladera",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "34977",
+        "34985",
+        "34986",
+        "34987",
+        "34987",
+        "34990",
+        "34993",
+        "34993",
+        "34994",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Laguna (La Joya)",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Lagunita",
+      "postal_code": [
+        "34976"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Laja",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Leonera",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Loma",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Manga",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Mesa",
+      "postal_code": [
+        "34976",
+        "34985",
+        "34985",
+        "34985",
+        "34985",
+        "34986",
+        "34987",
+        "34987",
+        "34993",
+        "34993",
+        "34995",
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Mesa de las Escobas",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Mesa de la Ventana",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Mesa del Cordon",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Mesa del Jabali (Marrano Parado)",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Mesa del Jacal",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Mesa de San Bernabe",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Mesa de San Buena (San Buena)",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Mesa de San Jose",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Mesa de Tierra Blanca (La Mesita del Diablo)",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Mesita",
+      "postal_code": [
+        "34985",
+        "34985",
+        "34985",
+        "34985",
+        "34986",
+        "34987",
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Mesita del Rincon",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Meza",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Mina",
+      "postal_code": [
+        "34990",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Montoya",
+      "postal_code": [
+        "34976"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Mora",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Muralla",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Nopalera",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Palma",
+      "postal_code": [
+        "34985",
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Palmita",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Patilla",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Pena",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Pena (Las Bolsas)",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Pinuda",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Pista",
+      "postal_code": [
+        "34977",
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Presa",
+      "postal_code": [
+        "34974",
+        "34987",
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Puerta",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Punta",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Redonda",
+      "postal_code": [
+        "34976"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Reja",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Aguas",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las aguilas",
+      "postal_code": [
+        "34980",
+        "34986",
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Aguilillas (El Venado)",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Anonas",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Astas",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Avispas",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Bonitas",
+      "postal_code": [
+        "34975",
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Boticas",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Botijas",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Cabezas",
+      "postal_code": [
+        "34994",
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Cabrillas",
+      "postal_code": [
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Campanas",
+      "postal_code": [
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Carreras",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Cebollas",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Chiches",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Chichis",
+      "postal_code": [
+        "34985",
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Ciruelas",
+      "postal_code": [
+        "34980",
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Colmenas",
+      "postal_code": [
+        "34980",
+        "34985",
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Coloradas",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Cruces",
+      "postal_code": [
+        "34985",
+        "34986",
+        "34993",
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Crucitas",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Cuevitas",
+      "postal_code": [
+        "34990",
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Semilla",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Enramadas",
+      "postal_code": [
+        "34995",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Esperanzas",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Espinas",
+      "postal_code": [
+        "34986",
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Estrellas",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "34980",
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Gallinas",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Glorias",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Golondrinas",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Guacamayas",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Guasimas",
+      "postal_code": [
+        "34986",
+        "34986",
+        "34990",
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Guitarras",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Higuerillas",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Hormigas",
+      "postal_code": [
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Hormigueras",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Silleta",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Joyas",
+      "postal_code": [
+        "34975",
+        "34977",
+        "34977",
+        "34985",
+        "34985",
+        "34986",
+        "34986",
+        "34986",
+        "34986",
+        "34987",
+        "34994",
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Joyas de Abajo",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Joyas de Arriba",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Joyas de los Limones",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Joyas (Guayabitos)",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Joyitas",
+      "postal_code": [
+        "34980",
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Laderas",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Lagunitas",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Lajas",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Leches",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Lomas",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Mangas",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Manzanas",
+      "postal_code": [
+        "34985",
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Manzanillas",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Mariposas",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Mariposas (Las Flores)",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Mesas",
+      "postal_code": [
+        "34977",
+        "34985",
+        "34987",
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Mesas del Bajio",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Mesas de Xoconoxtle",
+      "postal_code": [
+        "34976"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Mesitas",
+      "postal_code": [
+        "34986",
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Milpas",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Minas",
+      "postal_code": [
+        "34985",
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Minas (Las Minitas)",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Minitas",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Mojoneras",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Montanas",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Norias",
+      "postal_code": [
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "34993",
+        "34994",
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Orejas",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Palmitas",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Palomas",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Palomas [Rancho]",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Peras",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Piedras",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Pilas",
+      "postal_code": [
+        "34980",
+        "34987",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Pilitas",
+      "postal_code": [
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Pipas",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Pitayitas",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Quebradas",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Ramadas",
+      "postal_code": [
+        "34980",
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Rejas de Cerro Blanco",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Rosas (Mazata)",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Sillas",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Sillas (Los Justes)",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Tortugas",
+      "postal_code": [
+        "34977",
+        "34985",
+        "34985",
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Trementinas",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Viboras",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Vigas",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Las Zamoras",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Tijera",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "34974",
+        "34990",
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Torre",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Torrecilla",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Laureles",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Venadita",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Ventana",
+      "postal_code": [
+        "34985",
+        "34986",
+        "34986",
+        "34987",
+        "34994",
+        "34994",
+        "34995",
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Ventana (Zapotes)",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "La Ventanita",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Lechuguillas",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Lena Amontonada",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Lirio Blanco",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Llanito los Arroyitos",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Llano de Jacalitos",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Llano de Jerusalen",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Llano del Bajio",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Llano Delgado",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Llano de Tejones",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Loma Alta",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Aguacates",
+      "postal_code": [
+        "34976",
+        "34985",
+        "34986",
+        "34987",
+        "34993",
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Aires",
+      "postal_code": [
+        "34985",
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Alacranes",
+      "postal_code": [
+        "34986",
+        "34987",
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Alisos",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Altos",
+      "postal_code": [
+        "34980",
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Altos de las Quebradas",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Amoles",
+      "postal_code": [
+        "34974",
+        "34985",
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Amoles (La Reja)",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Arbolitos",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Arcos",
+      "postal_code": [
+        "34985",
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Arenales",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Armadillos",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Arquitos",
+      "postal_code": [
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Balones",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Bancos",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Barbechos",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Barriles (Barrilitos)",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Barros",
+      "postal_code": [
+        "34993",
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Berros",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Bosques",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Caballos",
+      "postal_code": [
+        "34985",
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Cajones",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Capulines",
+      "postal_code": [
+        "34977",
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Carrizos",
+      "postal_code": [
+        "34985",
+        "34986",
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Cedros",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Cerritos",
+      "postal_code": [
+        "34987",
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Cerros",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Chalates",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Chocotes",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Ciruelos",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Coconos",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Copales",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Cordones",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Cordones (Rincones)",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Corpos",
+      "postal_code": [
+        "34990",
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Corrales",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Corralitos",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Coyautes",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Coyotes",
+      "postal_code": [
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Crucitos",
+      "postal_code": [
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Cuchillos",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Cuervos",
+      "postal_code": [
+        "34977",
+        "34985",
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Duraznitos",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Duraznos",
+      "postal_code": [
+        "34985",
+        "34986",
+        "34993",
+        "34994",
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Encinos",
+      "postal_code": [
+        "34980",
+        "34993",
+        "34994",
+        "34994",
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Escalones",
+      "postal_code": [
+        "34976"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Espejos",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Fortines",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Frijoles",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Gallos",
+      "postal_code": [
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Gavilanes",
+      "postal_code": [
+        "34985",
+        "34985",
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Guaises",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Higos",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Hongos",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Horcones",
+      "postal_code": [
+        "34980",
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Hornitos",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Hornos",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Hoyos",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Huaises",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Jabones",
+      "postal_code": [
+        "34985",
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Lamentos",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Lazos",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Leones",
+      "postal_code": [
+        "34985",
+        "34987",
+        "34987",
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Limoncitos",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Limones",
+      "postal_code": [
+        "34987",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Lirios",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Llanitos",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Lobos",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Lobos (El Rincon)",
+      "postal_code": [
+        "34976"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Madronos",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Maniados",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Marranos",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Metates",
+      "postal_code": [
+        "34987",
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Mezquites",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Mimbres",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Nopales",
+      "postal_code": [
+        "34985",
+        "34985",
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Obscuros",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Ocotes",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los organos",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Padres",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Pedernales",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Peines",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Perros",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Picachos",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Pinitos",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "34985",
+        "34987",
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Pocitos",
+      "postal_code": [
+        "34975"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Ratones",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Robles",
+      "postal_code": [
+        "34976",
+        "34986",
+        "34994",
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Saltos",
+      "postal_code": [
+        "34985",
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Sapos",
+      "postal_code": [
+        "34996",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "34985",
+        "34986",
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Sombreros",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Sotoles",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Soyates (El Chapulin)",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Tabanos",
+      "postal_code": [
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Tejones",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Trigos",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Troncones",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Veranos",
+      "postal_code": [
+        "34985",
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Zancudos",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Los Zapotes",
+      "postal_code": [
+        "34987",
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Luis Cardenas",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Magueycito",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Maguey Enterrado (La Ventanita)",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Magueyes",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Margarito Mendoza Santana",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Masparillos",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Maypura de Jalpa",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa de Alamitos",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa de Bajio",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa de Buenavista",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa de Conejos",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa de la Bandera",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa de la Cebolleta",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa de la Madera",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa de las Cruces",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa de las Joyas",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa de las Milpas",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa de las Nieves",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa de las Vacas",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa de las Varas",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa de la Torrecilla",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa del Durazno",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa de los Bancos",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa de los Diablos",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa de los Hongos",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa de los Horcones",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa del Pajaro",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa del Pata de Gallo",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa del Venado",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa del Venado (Sombrero Quemado)",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa de Navios",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa de Platanitos",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa de Soyates",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesa de Tierras Coloradas",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesilla de Maguey",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mesilla Huizache",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Metate Tirado",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Metatita",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mezquite Gacho",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mimbres",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Minillas",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Mojolotita",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Murcielagos",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Muruata",
+      "postal_code": [
+        "34985",
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Muruata Chiquito",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Navios",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Nogales (Piedra Parada)",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Nopalera",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Nopalitos",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Nopalitos (La Nopalera)",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Nuevo Leon",
+      "postal_code": [
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Otilio Soto Soto",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Palmas",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Palomas",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Palo Moro",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Panales",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Paso de los Arrieros",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Pelillos",
+      "postal_code": [
+        "34975"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Penasco Blanco",
+      "postal_code": [
+        "34985",
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Penasco Blanco (La Vinata)",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Penasco Cenizo",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Penillas",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Penjamo",
+      "postal_code": [
+        "34975"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Petacas",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Picachos",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Picachos (Barranca de los Picachos)",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Picudos",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Piedra Ancha",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Piedra Ceniza",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Piedra de Amolar",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Piedras Altas",
+      "postal_code": [
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Piedras Blancas (Los Zarabiques)",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Piedras Planas",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Piedra Verde",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Piedra Volteada",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Piloncillos",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Pino Real",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Pino Real de Jabalin",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Pino Redondo",
+      "postal_code": [
+        "34986",
+        "34986",
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Pino Rodeado",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Pinos Altos",
+      "postal_code": [
+        "34993",
+        "34995",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Pinos Enterrados",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Pirame de Arriba",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Platanitos",
+      "postal_code": [
+        "34986",
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Platano Enterrado",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Potreros",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Predio el Burro",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Puerta de Mazata",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Puerta de Pericos",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Puerta los Membrillos",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Puerto Colorado",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Puerto de Corralitos",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Puerto del Bule",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Puerto del Guamuchil",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Puerto de Milpas",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Puerto el Colorado",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Puerto el Gatuno",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Puerto la Cantera",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Puerto Mexico",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Rancho de Beto",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Rancho de las Manzanillas",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Rancho el Mezquite",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Rancho la Pena",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "34980",
+        "34993",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Reynaldo Solis Soto",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Rodeo",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Salatita",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "San Antonio de Padua",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "San Bernabe",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "San Buenaventura",
+      "postal_code": [
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "San Diego",
+      "postal_code": [
+        "34996",
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "San Francisco del Mezquital",
+      "postal_code": [
+        "34970"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "San Francisco de Ocotan",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "34976",
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "San Jose del Llano",
+      "postal_code": [
+        "34986",
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "San Juan de Morga",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "San Lucas",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "San Lucas de Jalpa",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "San Miguel de las Espinas",
+      "postal_code": [
+        "34975"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "San Miguel de las Mesas",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "San Miguel de Temohaya",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "San Pedro de Xicoras",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Santa Elena del Rio",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Santa Maria de las Flores",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Santa Maria Magdalena de Taxicaringa",
+      "postal_code": [
+        "34977"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Santiago Teneraca",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Saucito",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Saucito (Los Monos)",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Senaido Soto",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Se Uan Tio",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Sombrero Quemado",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Sotoles",
+      "postal_code": [
+        "34974"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Sotolita",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Soyates",
+      "postal_code": [
+        "34974",
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tachichilpa",
+      "postal_code": [
+        "34985",
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tampico",
+      "postal_code": [
+        "34976"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Techalote (Buenavista)",
+      "postal_code": [
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tecomates",
+      "postal_code": [
+        "34976"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tecomatita",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tempisque",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tepalcates",
+      "postal_code": [
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tepetate",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tepetates",
+      "postal_code": [
+        "34990",
+        "34996",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tepetates Colorados",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tepetates de la Sierra",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tepetatitos (La Reja)",
+      "postal_code": [
+        "34993"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tepocatita",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Texcalame",
+      "postal_code": [
+        "34990",
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tezcalame",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tierra Arada",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "34985",
+        "34985",
+        "34985",
+        "34986",
+        "34987",
+        "34994",
+        "34995",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tierra Blanca de las Ramadas",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tierra Blanca (Penascos Blancos)",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tierra Colorada",
+      "postal_code": [
+        "34985",
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tierras Azules",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tierras Blancas",
+      "postal_code": [
+        "34995",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tierras Coloradas",
+      "postal_code": [
+        "34980",
+        "34985",
+        "34985",
+        "34986",
+        "34990",
+        "34997",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tierra Sonando",
+      "postal_code": [
+        "34987"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tomasa Solis",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tonalampa",
+      "postal_code": [
+        "34993",
+        "34997"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Torrecillas",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tortillas",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tortugas",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Toyana",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tres Cerritos",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Tres Colores",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Vainillas",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Victoriano Santana",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Vigilia",
+      "postal_code": [
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Xoconoxtle",
+      "postal_code": [
+        "34976"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Yerbabuena",
+      "postal_code": [
+        "34986",
+        "34990"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Yerbanices",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Yerbanis",
+      "postal_code": [
+        "34985"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Yerbaniz",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Yonora",
+      "postal_code": [
+        "34977",
+        "34996"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Zacatecas",
+      "postal_code": [
+        "34980"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Zacatecas (Chalchihuitillo)",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Zacatecas Chalchihuitillo",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Zalatita",
+      "postal_code": [
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Zancudo Dos",
+      "postal_code": [
+        "34986"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Zapotes",
+      "postal_code": [
+        "34980",
+        "34985",
+        "34994"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Zapotes (Rancho Viejo)",
+      "postal_code": [
+        "34995"
+      ]
+    },
+    {
+      "city": "Mezquital",
+      "colonia": "Zopilotes",
+      "postal_code": [
+        "34985",
+        "34985",
+        "34987"
+      ]
+    }
+  ]
+}

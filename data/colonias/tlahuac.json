@@ -1,0 +1,459 @@
+{
+  "data": [
+    {
+      "city": "Tlahuac",
+      "colonia": "Agricola Metropolitana",
+      "postal_code": [
+        "13280"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Ampliacion Jose Lopez Portillo",
+      "postal_code": [
+        "13419"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Ampliacion La Conchita",
+      "postal_code": [
+        "13545"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Ampliacion Los Olivos",
+      "postal_code": [
+        "13219"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Ampliacion Santa Catarina",
+      "postal_code": [
+        "13120"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Ampliacion Selene",
+      "postal_code": [
+        "13430"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Ampliacion Zapotitla",
+      "postal_code": [
+        "13315"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Del Mar",
+      "postal_code": [
+        "13270"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "13540"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "El Triangulo",
+      "postal_code": [
+        "13460"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "13520"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Granjas Cabrera",
+      "postal_code": [
+        "13230"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Guadalupe Tlaltenco",
+      "postal_code": [
+        "13450"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Jaime Torres Bodet",
+      "postal_code": [
+        "13530"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Jardines del Llano",
+      "postal_code": [
+        "13550"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "La Asuncion",
+      "postal_code": [
+        "13000",
+        "13530"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "La Concepcion",
+      "postal_code": [
+        "13150",
+        "13509"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "La Conchita Zapotitlan",
+      "postal_code": [
+        "13360"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "La Draga",
+      "postal_code": [
+        "13273"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "La Estacion",
+      "postal_code": [
+        "13319"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "La Guadalupe",
+      "postal_code": [
+        "13060",
+        "13100"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "La Habana",
+      "postal_code": [
+        "13050"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "La Lupita",
+      "postal_code": [
+        "13510"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "La Magdalena",
+      "postal_code": [
+        "13070"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "La Nopalera",
+      "postal_code": [
+        "13220"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Las Arboledas",
+      "postal_code": [
+        "13219"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "13508"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "La Turba",
+      "postal_code": [
+        "13250"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Lopez Portillo",
+      "postal_code": [
+        "13410"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Los Olivos",
+      "postal_code": [
+        "13210"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "13080",
+        "13610"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "13200"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "13450"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Pena Alta",
+      "postal_code": [
+        "13549"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Potrero del Llano",
+      "postal_code": [
+        "13550"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Quiahuatla",
+      "postal_code": [
+        "13090"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "13508",
+        "13630"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "San Andres",
+      "postal_code": [
+        "13099"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "San Bartolome",
+      "postal_code": [
+        "13600"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "San Francisco Tlaltenco",
+      "postal_code": [
+        "13400"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "13094"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "San Jose",
+      "postal_code": [
+        "13020"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "San Juan",
+      "postal_code": [
+        "13030"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "San Mateo",
+      "postal_code": [
+        "13040"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "13070",
+        "13180",
+        "13640"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "San Nicolas Tetelco",
+      "postal_code": [
+        "13700"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "13093"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "13060"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Santa Ana Centro",
+      "postal_code": [
+        "13300"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Santa Ana Norte",
+      "postal_code": [
+        "13300"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Santa Ana Poniente",
+      "postal_code": [
+        "13300"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Santa Ana Sur",
+      "postal_code": [
+        "13360"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "13010"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "13625"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Santiago",
+      "postal_code": [
+        "13120"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Santiago Centro",
+      "postal_code": [
+        "13300"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Santiago Norte",
+      "postal_code": [
+        "13300"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Santiago Sur",
+      "postal_code": [
+        "13360"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Selene",
+      "postal_code": [
+        "13420"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Tepantitlamilco",
+      "postal_code": [
+        "13700"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "13540"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Villa Centroamericana",
+      "postal_code": [
+        "13278"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Zacatenco",
+      "postal_code": [
+        "13440"
+      ]
+    },
+    {
+      "city": "Tlahuac",
+      "colonia": "Zapotitla",
+      "postal_code": [
+        "13310"
+      ]
+    }
+  ]
+}

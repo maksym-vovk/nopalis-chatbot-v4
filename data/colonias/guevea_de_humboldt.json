@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Guevea de Humboldt",
+      "colonia": "Cuajinicuil",
+      "postal_code": [
+        "70726"
+      ]
+    },
+    {
+      "city": "Guevea de Humboldt",
+      "colonia": "El Portillo",
+      "postal_code": [
+        "70728"
+      ]
+    },
+    {
+      "city": "Guevea de Humboldt",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "70725"
+      ]
+    },
+    {
+      "city": "Guevea de Humboldt",
+      "colonia": "Guevea de Humboldt",
+      "postal_code": [
+        "70725"
+      ]
+    },
+    {
+      "city": "Guevea de Humboldt",
+      "colonia": "Santa Cruz Ojo de Agua",
+      "postal_code": [
+        "70728"
+      ]
+    },
+    {
+      "city": "Guevea de Humboldt",
+      "colonia": "Xadani",
+      "postal_code": [
+        "70725"
+      ]
+    }
+  ]
+}

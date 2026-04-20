@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Oteapan",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "96330"
+      ]
+    },
+    {
+      "city": "Oteapan",
+      "colonia": "La Tina",
+      "postal_code": [
+        "96330"
+      ]
+    },
+    {
+      "city": "Oteapan",
+      "colonia": "Oteapan Centro",
+      "postal_code": [
+        "96330"
+      ]
+    },
+    {
+      "city": "Oteapan",
+      "colonia": "Tierra Colorada",
+      "postal_code": [
+        "96335"
+      ]
+    }
+  ]
+}

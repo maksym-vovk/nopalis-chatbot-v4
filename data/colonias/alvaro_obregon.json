@@ -1,0 +1,1805 @@
+{
+  "data": [
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Adolfo Ruiz Cortines",
+      "postal_code": [
+        "58923"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Alvaro Obregon",
+      "postal_code": [
+        "58920"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Ampliacion la Mina",
+      "postal_code": [
+        "58923"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "58920"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Chehuayo Chico (Chehuayito)",
+      "postal_code": [
+        "58925"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Chehuayo Grande",
+      "postal_code": [
+        "58925"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "El Alto de Aviles",
+      "postal_code": [
+        "58927"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "El Calvario",
+      "postal_code": [
+        "58928"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "El Moral",
+      "postal_code": [
+        "58923"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "El Venado",
+      "postal_code": [
+        "58928"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "El Zapote [Colonia Agricola]",
+      "postal_code": [
+        "58927"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "58926"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Estacion de Quirio",
+      "postal_code": [
+        "58928"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Ex Hacienda la Huerta",
+      "postal_code": [
+        "58920"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Felipe angeles (Hacienda de las Piedras)",
+      "postal_code": [
+        "58923"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Felipe Carrillo Puerto",
+      "postal_code": [
+        "58924"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Felix Ireta",
+      "postal_code": [
+        "58924"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Isla de Cirio (Isla de los Puercos)",
+      "postal_code": [
+        "58924"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "La Mina",
+      "postal_code": [
+        "58923"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "La Presa",
+      "postal_code": [
+        "58924"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Las Penas",
+      "postal_code": [
+        "58923"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Las Trojes",
+      "postal_code": [
+        "58925"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Lazaro Cardenas (La Purisima)",
+      "postal_code": [
+        "58923"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Leon Cardenas (La Ardilla)",
+      "postal_code": [
+        "58925"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Loma Larga",
+      "postal_code": [
+        "58920"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "58920"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Mezquite Verde (Felipe angeles)",
+      "postal_code": [
+        "58923"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Mezquite Verde (La Hacienda del Mezquite Verde)",
+      "postal_code": [
+        "58923"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Palo Blanco",
+      "postal_code": [
+        "58926"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Potrero Verde",
+      "postal_code": [
+        "58928"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Quirio (Ex-Hacienda de Quirio)",
+      "postal_code": [
+        "58928"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Sacapendo",
+      "postal_code": [
+        "58923"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Singuio",
+      "postal_code": [
+        "58920"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Temazcal (La Soledad)",
+      "postal_code": [
+        "58923"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Tepacua (El Cerrito)",
+      "postal_code": [
+        "58923"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Tzintzimeo",
+      "postal_code": [
+        "58923"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Vista Bella",
+      "postal_code": [
+        "58920"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "1a Ampliacion Presidentes",
+      "postal_code": [
+        "1299"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "1a Seccion Canada",
+      "postal_code": [
+        "1269"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "1a Victoria",
+      "postal_code": [
+        "1160"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "2a Ampliacion Presidentes",
+      "postal_code": [
+        "1299"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "2a Del Moral del Pueblo Tetelpan",
+      "postal_code": [
+        "1700"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "2a Seccion Canada",
+      "postal_code": [
+        "1269"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "2o Reacomodo Tlacuitlapa",
+      "postal_code": [
+        "1650"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "8 de Agosto",
+      "postal_code": [
+        "1180"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Abraham M. Gonzalez",
+      "postal_code": [
+        "1170"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Acueducto",
+      "postal_code": [
+        "1120"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Acuilotla",
+      "postal_code": [
+        "1539"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Alcantarilla",
+      "postal_code": [
+        "1729"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Alfalfar",
+      "postal_code": [
+        "1470"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Alfonso XIII",
+      "postal_code": [
+        "1460"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Altavista",
+      "postal_code": [
+        "1060"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Ampliacion Acueducto",
+      "postal_code": [
+        "1125"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Ampliacion Alpes",
+      "postal_code": [
+        "1710"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Ampliacion El Capulin",
+      "postal_code": [
+        "1110"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Ampliacion Estado de Hidalgo",
+      "postal_code": [
+        "1520"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Ampliacion Jalalpa",
+      "postal_code": [
+        "1296"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Ampliacion La Cebada",
+      "postal_code": [
+        "1259"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Ampliacion La Mexicana",
+      "postal_code": [
+        "1260"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Ampliacion Las aguilas",
+      "postal_code": [
+        "1759"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Ampliacion Los Pirules",
+      "postal_code": [
+        "1520"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Ampliacion Piloto Adolfo Lopez Mateos",
+      "postal_code": [
+        "1298"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Ampliacion Tepeaca",
+      "postal_code": [
+        "1550"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Ampliacion Tlacuitlapa",
+      "postal_code": [
+        "1650"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Arcos Centenario",
+      "postal_code": [
+        "1618"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Arturo Martinez",
+      "postal_code": [
+        "1200"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Arvide",
+      "postal_code": [
+        "1280"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Atlamaya",
+      "postal_code": [
+        "1760"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Ave Real",
+      "postal_code": [
+        "1560"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Axotla",
+      "postal_code": [
+        "1030"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Balcones de Cehuayo",
+      "postal_code": [
+        "1540"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Barrio Norte",
+      "postal_code": [
+        "1410"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Bejero del Pueblo Santa Fe",
+      "postal_code": [
+        "1340"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Belem de las Flores",
+      "postal_code": [
+        "1110"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "1140"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Bonanza",
+      "postal_code": [
+        "1220"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Bosque",
+      "postal_code": [
+        "1160"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Calzada Jalalpa",
+      "postal_code": [
+        "1260"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Campestre",
+      "postal_code": [
+        "1040"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Campo de Tiro los Gamitos",
+      "postal_code": [
+        "1230"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Canutillo",
+      "postal_code": [
+        "1560"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Canutillo 2a Seccion",
+      "postal_code": [
+        "1560"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Canutillo 3a Seccion",
+      "postal_code": [
+        "1560"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Carlos A. Madrazo",
+      "postal_code": [
+        "1320"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Carola",
+      "postal_code": [
+        "1180"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Cehuaya",
+      "postal_code": [
+        "1540"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Chimalistac",
+      "postal_code": [
+        "1070"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Colina del Sur",
+      "postal_code": [
+        "1430"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Colinas de Tarango",
+      "postal_code": [
+        "1610"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Cooperativa Union Olivos",
+      "postal_code": [
+        "1539"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Corpus Christy",
+      "postal_code": [
+        "1530"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Cove",
+      "postal_code": [
+        "1120"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Cristo Rey",
+      "postal_code": [
+        "1150"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Cuevitas",
+      "postal_code": [
+        "1220"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Desarrollo Urbano",
+      "postal_code": [
+        "1278"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Dos Rios del Pueblo Santa Lucia",
+      "postal_code": [
+        "1549"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Ejido San Mateo",
+      "postal_code": [
+        "1820"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "El arbol",
+      "postal_code": [
+        "1250"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "El Capulin",
+      "postal_code": [
+        "1110"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "El Cuernito",
+      "postal_code": [
+        "1220"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "El Encino del Pueblo Tetelpan",
+      "postal_code": [
+        "1708"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "El Mirador del Pueblo Tetelpan",
+      "postal_code": [
+        "1708"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "El Piru 2a Ampliacion",
+      "postal_code": [
+        "1230"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "El Pirul",
+      "postal_code": [
+        "1276"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "El Piru Santa Fe",
+      "postal_code": [
+        "1230"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "El Pocito",
+      "postal_code": [
+        "1280"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "El Politoco",
+      "postal_code": [
+        "1520"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "1590"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "El Rodeo",
+      "postal_code": [
+        "1285"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "El Ruedo",
+      "postal_code": [
+        "1650"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "El Tejocote",
+      "postal_code": [
+        "1270"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Ermita Tizapan",
+      "postal_code": [
+        "1089"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Estado de Hidalgo",
+      "postal_code": [
+        "1520"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Ex-Hacienda de Guadalupe Chimalistac",
+      "postal_code": [
+        "1050"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Ex-Hacienda de Tarango",
+      "postal_code": [
+        "1618"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Flor de Maria",
+      "postal_code": [
+        "1760"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Florida",
+      "postal_code": [
+        "1030"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "1280"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Galeana",
+      "postal_code": [
+        "1407"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Garcimarrero",
+      "postal_code": [
+        "1510"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Golondrinas",
+      "postal_code": [
+        "1270"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Golondrinas 1a Seccion",
+      "postal_code": [
+        "1270"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Golondrinas 2a Seccion",
+      "postal_code": [
+        "1270"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Guadalupe Inn",
+      "postal_code": [
+        "1020"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Heron Proal",
+      "postal_code": [
+        "1640"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "1120"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Hogar y Redencion",
+      "postal_code": [
+        "1450"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Hueytlale",
+      "postal_code": [
+        "1566"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Isidro Fabela",
+      "postal_code": [
+        "1160"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Jalalpa El Grande",
+      "postal_code": [
+        "1377"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Jalalpa Tepito",
+      "postal_code": [
+        "1296"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Jalalpa Tepito 2a Ampliacion",
+      "postal_code": [
+        "1296"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Jardines del Pedregal",
+      "postal_code": [
+        "1900"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Jose Maria Pino Suarez",
+      "postal_code": [
+        "1140"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "La Angostura",
+      "postal_code": [
+        "1770"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "La Arana",
+      "postal_code": [
+        "1510"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "La Cascada",
+      "postal_code": [
+        "1490"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "La Conchita",
+      "postal_code": [
+        "1109"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Ladera",
+      "postal_code": [
+        "1250"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "La Estrella",
+      "postal_code": [
+        "1220"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "La Herradura del Pueblo Tetelpan",
+      "postal_code": [
+        "1760"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "La Huerta",
+      "postal_code": [
+        "1239"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "La Joya",
+      "postal_code": [
+        "1280"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "La Joyita del Pueblo Tetelpan",
+      "postal_code": [
+        "1700"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "La Martinica",
+      "postal_code": [
+        "1619"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "La Mexicana",
+      "postal_code": [
+        "1260"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "La Mexicana 2a Ampliacion",
+      "postal_code": [
+        "1259"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "La Milagrosa",
+      "postal_code": [
+        "1650"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "La Otra Banda",
+      "postal_code": [
+        "1090"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "La Palmita",
+      "postal_code": [
+        "1260"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "La Penita del Pueblo Tetelpan",
+      "postal_code": [
+        "1740"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "La Presa",
+      "postal_code": [
+        "1270"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Las aguilas",
+      "postal_code": [
+        "1710"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Las aguilas 1a Seccion",
+      "postal_code": [
+        "1750"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Las aguilas 2o Parque",
+      "postal_code": [
+        "1750"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Las aguilas 3er Parque",
+      "postal_code": [
+        "1750"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "1120"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Liberacion Proletaria",
+      "postal_code": [
+        "1260"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Liberales de 1857",
+      "postal_code": [
+        "1110"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Llano Redondo",
+      "postal_code": [
+        "1540"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Lomas Axomiatla",
+      "postal_code": [
+        "1820"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Lomas de Becerra",
+      "postal_code": [
+        "1279"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Lomas de Capula",
+      "postal_code": [
+        "1270"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Lomas de Chamontoya",
+      "postal_code": [
+        "1857"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Lomas de Guadalupe",
+      "postal_code": [
+        "1720"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Lomas de La Era",
+      "postal_code": [
+        "1860"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Lomas de las aguilas",
+      "postal_code": [
+        "1730"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Lomas del Capulin",
+      "postal_code": [
+        "1863"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Lomas de los angeles del Pueblo Tetelpan",
+      "postal_code": [
+        "1790"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Lomas de los Cedros",
+      "postal_code": [
+        "1870"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Lomas de Nuevo Mexico",
+      "postal_code": [
+        "1250"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Lomas de Plateros",
+      "postal_code": [
+        "1480"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Lomas de Puerta Grande",
+      "postal_code": [
+        "1630"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Lomas de San angel Inn",
+      "postal_code": [
+        "1790"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Lomas de Santa Fe",
+      "postal_code": [
+        "1219"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Lomas de Tarango",
+      "postal_code": [
+        "1620"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Loreto",
+      "postal_code": [
+        "1090"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Los Alpes",
+      "postal_code": [
+        "1010"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Los Cedros",
+      "postal_code": [
+        "1510"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Los Gamitos",
+      "postal_code": [
+        "1230"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Los Juristas",
+      "postal_code": [
+        "1630"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Margarita Maza de Juarez",
+      "postal_code": [
+        "1250"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Maria G. de Garcia Ruiz",
+      "postal_code": [
+        "1160"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Martires de Tacubaya",
+      "postal_code": [
+        "1220"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Merced Gomez",
+      "postal_code": [
+        "1600"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Miguel Gaona Armenta",
+      "postal_code": [
+        "1500"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "1789"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Minas Cristo Rey",
+      "postal_code": [
+        "1419"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Molino de Rosas",
+      "postal_code": [
+        "1470"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Molino de Santo Domingo",
+      "postal_code": [
+        "1130"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Ocotillos del Pueblo Tetelpan",
+      "postal_code": [
+        "1700"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Olivar del Conde 1a Seccion",
+      "postal_code": [
+        "1400"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Olivar del Conde 2a Seccion",
+      "postal_code": [
+        "1408"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Olivar de los Padres",
+      "postal_code": [
+        "1780"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Palmas",
+      "postal_code": [
+        "1410"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Palmas Axotitla",
+      "postal_code": [
+        "1650"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Paraiso",
+      "postal_code": [
+        "1130"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Paseo de las Lomas",
+      "postal_code": [
+        "1330"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Piloto Adolfo Lopez Mateos",
+      "postal_code": [
+        "1290"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Piru Santa Lucia",
+      "postal_code": [
+        "1520"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Polvora",
+      "postal_code": [
+        "1100"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Ponciano Arriaga",
+      "postal_code": [
+        "1645"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Preconcreto",
+      "postal_code": [
+        "1400"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Presidentes",
+      "postal_code": [
+        "1290"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Profesor J. Arturo Lopez Martinez",
+      "postal_code": [
+        "1610"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Progreso Tizapan",
+      "postal_code": [
+        "1080"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Pueblo Nuevo",
+      "postal_code": [
+        "1240"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Puente Colorado",
+      "postal_code": [
+        "1730"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Puerta Grande",
+      "postal_code": [
+        "1630"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Punta de Cehuaya",
+      "postal_code": [
+        "1540"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Rancho del Carmen del Pueblo San Bartolo Ameyalco",
+      "postal_code": [
+        "1849"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Rancho San Francisco Pueblo San Bartolo Ameyalco",
+      "postal_code": [
+        "1807"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Reacomodo El Cuernito",
+      "postal_code": [
+        "1289"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Reacomodo Pino Suarez",
+      "postal_code": [
+        "1139"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Reacomodo Valentin Gomez Farias",
+      "postal_code": [
+        "1569"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Real del Monte",
+      "postal_code": [
+        "1130"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Rinconada de Tarango",
+      "postal_code": [
+        "1619"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Rinconada Las Cuevitas",
+      "postal_code": [
+        "1550"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Rincon de la Bolsa",
+      "postal_code": [
+        "1849"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Sacramento",
+      "postal_code": [
+        "1420"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "San Agustin del Pueblo Tetelpan",
+      "postal_code": [
+        "1700"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "San angel",
+      "postal_code": [
+        "1000"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "San angel Inn",
+      "postal_code": [
+        "1060"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "San Bartolo Ameyalco",
+      "postal_code": [
+        "1800"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "San Clemente Norte",
+      "postal_code": [
+        "1740"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "San Clemente Sur",
+      "postal_code": [
+        "1740"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "San Gabriel",
+      "postal_code": [
+        "1310"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "San Jeronimo Aculco",
+      "postal_code": [
+        "1904"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "San Jose del Olivar",
+      "postal_code": [
+        "1770"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "San Pedro de los Pinos",
+      "postal_code": [
+        "1180"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "1210",
+        "1376"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Santa Fe Centro Ciudad",
+      "postal_code": [
+        "1376"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Santa Fe La Loma",
+      "postal_code": [
+        "1376"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Santa Fe Pena Blanca",
+      "postal_code": [
+        "1376"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Santa Fe Tlayapaca",
+      "postal_code": [
+        "1389"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "1500"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Santa Lucia Chantepec",
+      "postal_code": [
+        "1509",
+        "1650"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Santa Maria Nonoalco",
+      "postal_code": [
+        "1420"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Santa Rosa Xochiac",
+      "postal_code": [
+        "1830"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Tarango",
+      "postal_code": [
+        "1588"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Tecalcapa del Pueblo Tetelpan",
+      "postal_code": [
+        "1700"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Tecolalco",
+      "postal_code": [
+        "1250"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Tepeaca",
+      "postal_code": [
+        "1550"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Tepopotla",
+      "postal_code": [
+        "1538"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Tetelpan",
+      "postal_code": [
+        "1700"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Tizampampano del Pueblo Tetelpan",
+      "postal_code": [
+        "1780"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Tizapan",
+      "postal_code": [
+        "1090"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Tlacopac",
+      "postal_code": [
+        "1049"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Tlacoyaque",
+      "postal_code": [
+        "1859"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Tlacuitlapa",
+      "postal_code": [
+        "1650"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Tlapechico",
+      "postal_code": [
+        "1230"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Tolteca",
+      "postal_code": [
+        "1150"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Torres de Potrero",
+      "postal_code": [
+        "1840"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Villa Progresista",
+      "postal_code": [
+        "1548"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Villa Solidaridad",
+      "postal_code": [
+        "1275"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Villa Verdun",
+      "postal_code": [
+        "1810"
+      ]
+    },
+    {
+      "city": "Alvaro Obregon",
+      "colonia": "Zenon Delgado",
+      "postal_code": [
+        "1220"
+      ]
+    }
+  ]
+}

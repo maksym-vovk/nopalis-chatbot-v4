@@ -1,0 +1,683 @@
+{
+  "data": [
+    {
+      "city": "Puruandiro",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "58503"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Batuecas",
+      "postal_code": [
+        "58520"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "58508"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Candico",
+      "postal_code": [
+        "58507"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Carano",
+      "postal_code": [
+        "58503"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Centro",
+      "postal_code": [
+        "58500"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Chamacuero",
+      "postal_code": [
+        "58520"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Constituyentes",
+      "postal_code": [
+        "58508"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Del angel",
+      "postal_code": [
+        "58502"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "El Armadillo",
+      "postal_code": [
+        "58515"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "El Fresno de Guadalupe",
+      "postal_code": [
+        "58523"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "El Granjenal",
+      "postal_code": [
+        "58532"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "El Maestro",
+      "postal_code": [
+        "58502"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "El Magisterio",
+      "postal_code": [
+        "58505"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "El Marquezado",
+      "postal_code": [
+        "58502"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "El Pilar",
+      "postal_code": [
+        "58520"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "El Pueblito",
+      "postal_code": [
+        "58531"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "58503"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "El Rincon de Don Pedro",
+      "postal_code": [
+        "58524"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "El Rodeo de las Rosas",
+      "postal_code": [
+        "58516"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "El Salitre",
+      "postal_code": [
+        "58503"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "El Saucito",
+      "postal_code": [
+        "58504"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "El Saucito FOVISSSTE",
+      "postal_code": [
+        "58504"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Erendira",
+      "postal_code": [
+        "58500"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Francisco Javier Mujica",
+      "postal_code": [
+        "58505"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Galeana",
+      "postal_code": [
+        "58532"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Huatajo",
+      "postal_code": [
+        "58515"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "INFONAVIT La Loma",
+      "postal_code": [
+        "58502"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Isaac Arriaga",
+      "postal_code": [
+        "58506"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Isaac Arriaga (Santa Ana Mancera)",
+      "postal_code": [
+        "58510"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Jacarandas",
+      "postal_code": [
+        "58502"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Janambo",
+      "postal_code": [
+        "58513"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Janamuato",
+      "postal_code": [
+        "58533"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Jeroche",
+      "postal_code": [
+        "58503"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "La Arboleda",
+      "postal_code": [
+        "58506"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "La Barranca",
+      "postal_code": [
+        "58520"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "La Cofradia",
+      "postal_code": [
+        "58532"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "La Cuevita",
+      "postal_code": [
+        "58506"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "La Excusa",
+      "postal_code": [
+        "58516"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "La Galera",
+      "postal_code": [
+        "58508"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "La Higuera",
+      "postal_code": [
+        "58532"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "La Huerta",
+      "postal_code": [
+        "58502"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "58508"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "La Loma",
+      "postal_code": [
+        "58502"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "La Quemada",
+      "postal_code": [
+        "58520"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "La Quemadita",
+      "postal_code": [
+        "58523"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "58505"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "58507"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Las Letras",
+      "postal_code": [
+        "58520"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "La Soledad de Santa Ana",
+      "postal_code": [
+        "58516"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Las Ranas",
+      "postal_code": [
+        "58512"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Las Tortugas (Emiliano Zapata)",
+      "postal_code": [
+        "58520"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "La Tepusa",
+      "postal_code": [
+        "58512"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "La Yerbabuena",
+      "postal_code": [
+        "58505"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "58506"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Libertad",
+      "postal_code": [
+        "58502"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Loma Dorada",
+      "postal_code": [
+        "58502"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Lomas del Agua Tibia",
+      "postal_code": [
+        "58503"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Lomas de La Laguna",
+      "postal_code": [
+        "58508"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Lomas del Pedregal",
+      "postal_code": [
+        "58506"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Lomas del Salitre",
+      "postal_code": [
+        "58503"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Lomas del Tepeyac",
+      "postal_code": [
+        "58505"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "58507"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Los Lemus",
+      "postal_code": [
+        "58508"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Los Presidentes",
+      "postal_code": [
+        "58502"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "58520"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Manuel Villalongin",
+      "postal_code": [
+        "58511"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Melchor Ocampo",
+      "postal_code": [
+        "58506"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Nuevo Amanecer",
+      "postal_code": [
+        "58502"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Nuevo Progreso (Casas Viejas)",
+      "postal_code": [
+        "58531"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Nuevo Uren",
+      "postal_code": [
+        "58531"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Piedras Anchas",
+      "postal_code": [
+        "58520"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Poblanas",
+      "postal_code": [
+        "58506"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Purua",
+      "postal_code": [
+        "58503"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Sabino Buenavista",
+      "postal_code": [
+        "58532"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "San Antonio Carano",
+      "postal_code": [
+        "58507"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Sanguijuelas",
+      "postal_code": [
+        "58520"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "San Isidro de la Cuesta",
+      "postal_code": [
+        "58517"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "San Jose del Reparo",
+      "postal_code": [
+        "58514"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "San Jose Otunguitiro",
+      "postal_code": [
+        "58520"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "San Juan",
+      "postal_code": [
+        "58505"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "58531"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "58531"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "58517"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "San Pedro (San Pedro Carano)",
+      "postal_code": [
+        "58516"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Santa Clara",
+      "postal_code": [
+        "58520"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "58531"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Santuario de Guadalupe",
+      "postal_code": [
+        "58505"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Tabachines",
+      "postal_code": [
+        "58500"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Tenerias",
+      "postal_code": [
+        "58502"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Tepeyac",
+      "postal_code": [
+        "58505"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Unidad Magisterial Puruandiro",
+      "postal_code": [
+        "58507"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Ururuta",
+      "postal_code": [
+        "58533"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Valle de Mexico",
+      "postal_code": [
+        "58508"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Ventura Puente",
+      "postal_code": [
+        "58507"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Villachuato",
+      "postal_code": [
+        "58530"
+      ]
+    },
+    {
+      "city": "Puruandiro",
+      "colonia": "Vista Bella",
+      "postal_code": [
+        "58503"
+      ]
+    }
+  ]
+}

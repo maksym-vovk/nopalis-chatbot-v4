@@ -1,0 +1,312 @@
+{
+  "data": [
+    {
+      "city": "Pantepec",
+      "colonia": "El Triunfo",
+      "postal_code": [
+        "29661"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Nueva Reforma",
+      "postal_code": [
+        "29661"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Pantepec",
+      "postal_code": [
+        "29660"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "San Isidro las Banderas",
+      "postal_code": [
+        "29661"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "San Juan",
+      "postal_code": [
+        "29660"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "28 de Abril",
+      "postal_code": [
+        "73029"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "5 de Mayo",
+      "postal_code": [
+        "73029"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Acalmancillo",
+      "postal_code": [
+        "73026"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Agua Linda",
+      "postal_code": [
+        "73028"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Ameluca",
+      "postal_code": [
+        "73029"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Buena Vista",
+      "postal_code": [
+        "73025"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Canada de Colotla",
+      "postal_code": [
+        "73023"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Candelaria",
+      "postal_code": [
+        "73029"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Carrizal Viejo",
+      "postal_code": [
+        "73029"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Cayhuapan",
+      "postal_code": [
+        "73029"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Cerro del Tablon",
+      "postal_code": [
+        "73029"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Ejido Canada Colotla",
+      "postal_code": [
+        "73023"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "El Coyol",
+      "postal_code": [
+        "73020"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "El Limonar",
+      "postal_code": [
+        "73021"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "El Pacifico",
+      "postal_code": [
+        "73027"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "El Pozo",
+      "postal_code": [
+        "73026"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "El Sol",
+      "postal_code": [
+        "73029"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "73025"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "El Zapotal",
+      "postal_code": [
+        "73028"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "73028"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "73020"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "73027"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Ixtololoya",
+      "postal_code": [
+        "73025"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "La Ceiba Chica",
+      "postal_code": [
+        "73026"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "73029"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "73023"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "73028"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Mecapalapa",
+      "postal_code": [
+        "73029"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Nuevo Carrizal",
+      "postal_code": [
+        "73029"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Nuevo Jardin",
+      "postal_code": [
+        "73020"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Nuevo Limonar",
+      "postal_code": [
+        "73021"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Pantepec",
+      "postal_code": [
+        "73020"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Papatlar",
+      "postal_code": [
+        "73023"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Progreso de Allende",
+      "postal_code": [
+        "73021"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "73025"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "73029"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "73020"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Tejeria",
+      "postal_code": [
+        "73025"
+      ]
+    },
+    {
+      "city": "Pantepec",
+      "colonia": "Tenexco",
+      "postal_code": [
+        "73026"
+      ]
+    }
+  ]
+}

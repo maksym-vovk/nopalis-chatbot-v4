@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Los Aldamas",
+      "colonia": "Aldamas",
+      "postal_code": [
+        "66910"
+      ]
+    },
+    {
+      "city": "Los Aldamas",
+      "colonia": "Estacion Aldama",
+      "postal_code": [
+        "66930"
+      ]
+    },
+    {
+      "city": "Los Aldamas",
+      "colonia": "La Palmita",
+      "postal_code": [
+        "66945"
+      ]
+    },
+    {
+      "city": "Los Aldamas",
+      "colonia": "Los Aldamas",
+      "postal_code": [
+        "66900"
+      ]
+    },
+    {
+      "city": "Los Aldamas",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "66940"
+      ]
+    }
+  ]
+}

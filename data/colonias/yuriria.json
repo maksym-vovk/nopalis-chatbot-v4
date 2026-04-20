@@ -1,0 +1,907 @@
+{
+  "data": [
+    {
+      "city": "Yuriria",
+      "colonia": "5 de Mayo",
+      "postal_code": [
+        "38946"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Agua Fria",
+      "postal_code": [
+        "38958"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Antiguo de la Cruz Colorada",
+      "postal_code": [
+        "38946"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Aragon",
+      "postal_code": [
+        "38965"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Bordo de la Joya",
+      "postal_code": [
+        "38945"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Buenavista (Buena Vista de Cerano)",
+      "postal_code": [
+        "38964"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Buenavista de la Libertad",
+      "postal_code": [
+        "38956"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Cahuilote",
+      "postal_code": [
+        "38957"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Campestre del Rio",
+      "postal_code": [
+        "38944"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Canada de Pastores",
+      "postal_code": [
+        "38958"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Cerano (San Juan Cerano)",
+      "postal_code": [
+        "38961"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Cerecuaro",
+      "postal_code": [
+        "38964"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Corrales",
+      "postal_code": [
+        "38964"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Cruz Grande",
+      "postal_code": [
+        "38944"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Cuerunero",
+      "postal_code": [
+        "38956"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Del Armadillo",
+      "postal_code": [
+        "38956"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Ejido de Parangarico (La Y Griega)",
+      "postal_code": [
+        "38954"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "El Bosque",
+      "postal_code": [
+        "38956"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "El Canario",
+      "postal_code": [
+        "38960"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "El Cimental (Hacienda del Cimental)",
+      "postal_code": [
+        "38956"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "El Grangenal",
+      "postal_code": [
+        "38955"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "El Moral",
+      "postal_code": [
+        "38967"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "El Moralito",
+      "postal_code": [
+        "38967"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "El Moro",
+      "postal_code": [
+        "38966"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "El Palo Dusal",
+      "postal_code": [
+        "38950"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "El Pastor",
+      "postal_code": [
+        "38956"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "El Pochote",
+      "postal_code": [
+        "38955"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "El Salteador",
+      "postal_code": [
+        "38958"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "El Sauz",
+      "postal_code": [
+        "38963"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "El Tigre",
+      "postal_code": [
+        "38956"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "El Timbinal",
+      "postal_code": [
+        "38958"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "El Velador",
+      "postal_code": [
+        "38957"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Espanita",
+      "postal_code": [
+        "38958"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Granja de Garcia",
+      "postal_code": [
+        "38956"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Guadalupana",
+      "postal_code": [
+        "38947"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Independencia",
+      "postal_code": [
+        "38944"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Jacales",
+      "postal_code": [
+        "38965"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Juan Lucas",
+      "postal_code": [
+        "38967"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "La Aldea",
+      "postal_code": [
+        "38946"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "La Angostura",
+      "postal_code": [
+        "38955"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "La Cabana de los Tepamez",
+      "postal_code": [
+        "38954"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "La Calera",
+      "postal_code": [
+        "38960"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "La Cruz del Nino",
+      "postal_code": [
+        "38964"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "La Faja",
+      "postal_code": [
+        "38950"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Laguna Prieta",
+      "postal_code": [
+        "38966"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "La Hacienda de la Flor",
+      "postal_code": [
+        "38955"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "La Mojonera",
+      "postal_code": [
+        "38954"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "La Pila",
+      "postal_code": [
+        "38958"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "La Punta (Montecillo y Punta)",
+      "postal_code": [
+        "38957"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "La Purisima",
+      "postal_code": [
+        "38950"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Las Crucitas",
+      "postal_code": [
+        "38958"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "38946"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Las Mesas",
+      "postal_code": [
+        "38964"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "La Soledad de Cuerunero",
+      "postal_code": [
+        "38956"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "38943"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Las Rosas",
+      "postal_code": [
+        "38954"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Las Rosas (La Mina)",
+      "postal_code": [
+        "38958"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "La Tareta",
+      "postal_code": [
+        "38943"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "La Tinaja del Coyote",
+      "postal_code": [
+        "38958"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "38947"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Loma de Zempoala",
+      "postal_code": [
+        "38955"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Los Alcantar",
+      "postal_code": [
+        "38963"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Los Cerna (La Yacata)",
+      "postal_code": [
+        "38967"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Los Tepetates",
+      "postal_code": [
+        "38955"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Malpais",
+      "postal_code": [
+        "38954"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Martin Checa",
+      "postal_code": [
+        "38954"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Merino",
+      "postal_code": [
+        "38963"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Mexico",
+      "postal_code": [
+        "38955"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Monte de los Juarez",
+      "postal_code": [
+        "38950"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "38944"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Ochomitas",
+      "postal_code": [
+        "38950"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Ocurio",
+      "postal_code": [
+        "38966"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Ojos de Agua de Cerano",
+      "postal_code": [
+        "38965"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Ojos de Agua de Cordoba",
+      "postal_code": [
+        "38956"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Orucuaro",
+      "postal_code": [
+        "38950"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Palo Alto",
+      "postal_code": [
+        "38956"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Parangarico",
+      "postal_code": [
+        "38950"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Paseos de San Juan",
+      "postal_code": [
+        "38945"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Porullo",
+      "postal_code": [
+        "38954"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Potrero Nuevo",
+      "postal_code": [
+        "38957"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Providencia de Calera",
+      "postal_code": [
+        "38963"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Providencia de Cuerunero",
+      "postal_code": [
+        "38956"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Proviste",
+      "postal_code": [
+        "38944"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Puerta de Cerano",
+      "postal_code": [
+        "38967"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Puerto del aguila",
+      "postal_code": [
+        "38966"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Puerto de Porullo",
+      "postal_code": [
+        "38954"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Puesto de Agua Fria (La Mojina)",
+      "postal_code": [
+        "38954"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Puquichapio",
+      "postal_code": [
+        "38957"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Rancho de Geras",
+      "postal_code": [
+        "38954"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Rancho Viejo de Pastores",
+      "postal_code": [
+        "38958"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Resplandor",
+      "postal_code": [
+        "38947"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "San Andres Calera",
+      "postal_code": [
+        "38963"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "San Andres Enguaro",
+      "postal_code": [
+        "38950"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "38965"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "San Aparicio",
+      "postal_code": [
+        "38958"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "San Cayetano",
+      "postal_code": [
+        "38954"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "San Felipe",
+      "postal_code": [
+        "38964"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "San Francisco de la Cruz",
+      "postal_code": [
+        "38950"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "San Gabriel",
+      "postal_code": [
+        "38956"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "San Gregorio",
+      "postal_code": [
+        "38954"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "San Isidro Calera",
+      "postal_code": [
+        "38963"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "San Jose de Gracia",
+      "postal_code": [
+        "38950"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "San Jose Otonguitiro",
+      "postal_code": [
+        "38963"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "San Juan",
+      "postal_code": [
+        "38945"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "San Miguel el Alto (San Miguelito)",
+      "postal_code": [
+        "38950"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "San Nicolas Cuerunero",
+      "postal_code": [
+        "38956"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "San Pablo Casacuaran",
+      "postal_code": [
+        "38953"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "38958"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "38947"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Santa Monica Ozumbilla",
+      "postal_code": [
+        "38967"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "38955"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Santiaguillo",
+      "postal_code": [
+        "38955"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "San Vicente Cienega",
+      "postal_code": [
+        "38957"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "San Vicente Joyuela",
+      "postal_code": [
+        "38956"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "San Vicente Sabino",
+      "postal_code": [
+        "38956"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "San Vicente Sabino Dos",
+      "postal_code": [
+        "38956"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "San Vicente Zapote",
+      "postal_code": [
+        "38956"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Tejocote de Calera",
+      "postal_code": [
+        "38963"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Tejocote de Pastores",
+      "postal_code": [
+        "38958"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Tepetates",
+      "postal_code": [
+        "38947"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "38950"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Tinaja de Pastores",
+      "postal_code": [
+        "38954"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Unidad Deportiva",
+      "postal_code": [
+        "38945"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Wenceslao Victoria Soto",
+      "postal_code": [
+        "38944"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Xoconoxtle",
+      "postal_code": [
+        "38956"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Yacatitas",
+      "postal_code": [
+        "38944"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Yuriria Centro",
+      "postal_code": [
+        "38940"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Zapotitos",
+      "postal_code": [
+        "38954"
+      ]
+    },
+    {
+      "city": "Yuriria",
+      "colonia": "Zepeda",
+      "postal_code": [
+        "38958"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5684 @@
+{
+  "data": [
+    {
+      "city": "Queretaro",
+      "colonia": "10 de Abril",
+      "postal_code": [
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "12 de Diciembre",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "15 de Mayo",
+      "postal_code": [
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "25 de Diciembre",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "2 de Abril",
+      "postal_code": [
+        "76069"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "5 de Febrero",
+      "postal_code": [
+        "76118",
+        "76135",
+        "76159"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "8 de Diciembre",
+      "postal_code": [
+        "76069"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Acequia Blanca",
+      "postal_code": [
+        "76226"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Alameda",
+      "postal_code": [
+        "76040"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Alameda Residencial",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "alamos 1a Seccion",
+      "postal_code": [
+        "76160"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "alamos 2a Seccion",
+      "postal_code": [
+        "76160"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "alamos 3a Seccion",
+      "postal_code": [
+        "76160"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "alamos del Lago",
+      "postal_code": [
+        "76140"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Alborada",
+      "postal_code": [
+        "76113"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Altavista Juriquilla",
+      "postal_code": [
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Altos del Cimatario",
+      "postal_code": [
+        "76085"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Altos del Marques",
+      "postal_code": [
+        "76146"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Altos de San Pablo",
+      "postal_code": [
+        "76121"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Altos Juriquilla",
+      "postal_code": [
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Altozano el Nuevo Queretaro",
+      "postal_code": [
+        "76237"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Amalia Solorzano",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Ampliacion Amalia Solorzano",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Ampliacion Patria Nueva",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Ampliacion Piano",
+      "postal_code": [
+        "76223"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Ampliacion Satelite",
+      "postal_code": [
+        "76110"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Ampolletas",
+      "postal_code": [
+        "76134"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Anahuac",
+      "postal_code": [
+        "76180"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Andalucia",
+      "postal_code": [
+        "76040"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Anexo a la Ecologia",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Antorchista",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Aragon",
+      "postal_code": [
+        "76040"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "76140",
+        "76220"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Arboledas del Parque",
+      "postal_code": [
+        "76140"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Arboledas del Rio",
+      "postal_code": [
+        "76027"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Arco de Piedra",
+      "postal_code": [
+        "76127"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Arquitos",
+      "postal_code": [
+        "76048"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Arte Mexicano",
+      "postal_code": [
+        "76085"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Asalias",
+      "postal_code": [
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Atenas",
+      "postal_code": [
+        "76100"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Azteca",
+      "postal_code": [
+        "76085",
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Balaustradas",
+      "postal_code": [
+        "76079"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Balcon Campestre",
+      "postal_code": [
+        "76159"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Balcones Coloniales",
+      "postal_code": [
+        "76140"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Balcones de Juriquilla",
+      "postal_code": [
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Balcones del Acueducto",
+      "postal_code": [
+        "76144"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Balcones de San Pablo",
+      "postal_code": [
+        "76125"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Belen",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "76087",
+        "76125"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "76116",
+        "76120",
+        "76220"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Bleu Casas Platina",
+      "postal_code": [
+        "76100"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Bolanos",
+      "postal_code": [
+        "76144",
+        "76146"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Bosques de Buenavista",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Bosques de Iturbide",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Bosques del Acueducto",
+      "postal_code": [
+        "76020"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Bosques de la Hacienda",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Bosques de las Lomas",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Bosques del Cimatario",
+      "postal_code": [
+        "76085"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Bosques del Cimatario 2a. Seccion",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Bosques del Sol",
+      "postal_code": [
+        "76113"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Bosques de Queretaro",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "76225"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "76069",
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Bugambilias Residencial",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Calesa",
+      "postal_code": [
+        "76020"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Calesa 2a Seccion",
+      "postal_code": [
+        "76024"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Caletto",
+      "postal_code": [
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Campestre Huertas la Joya",
+      "postal_code": [
+        "76235"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Campestre Italiana",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Campestre Juriquilla",
+      "postal_code": [
+        "76226"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Canada de la Monja",
+      "postal_code": [
+        "76217"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Carolina",
+      "postal_code": [
+        "76177"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Carretas",
+      "postal_code": [
+        "76050"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Carrillo",
+      "postal_code": [
+        "76139"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Casa Blanca",
+      "postal_code": [
+        "76030",
+        "76224"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "C.E.A.",
+      "postal_code": [
+        "76179"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Cedros Alcatraces",
+      "postal_code": [
+        "76140"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Cedros Tilipanes",
+      "postal_code": [
+        "76140"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Centenario",
+      "postal_code": [
+        "76117"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Centro",
+      "postal_code": [
+        "76000"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Centro Sur",
+      "postal_code": [
+        "76090"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Centro Universitario (U.A.Q.)",
+      "postal_code": [
+        "76017"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Cerrito Colorado",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Cerrito Colorado II",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Cerrito Colorado III",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Cerrito Colorado IV",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Cerrito Colorado V",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Cerrito Colorado VI",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Cerrito Colorado VII",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Cerro Colorado (El Colorado)",
+      "postal_code": [
+        "76224"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Cerro de la Cruz",
+      "postal_code": [
+        "76221"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Cerro Prieto",
+      "postal_code": [
+        "76227"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Charape de la Joya",
+      "postal_code": [
+        "76221"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Charape de los Pelones",
+      "postal_code": [
+        "76212"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Che Guevara (Axayacatl)",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Chula Vista I",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Chula Vista II",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Cimatario",
+      "postal_code": [
+        "76030"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Cinco Halcones",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Cipreses",
+      "postal_code": [
+        "76125"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Ciudad del Sol",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Ciudad del Sol Seccion Valle de Santiago",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Claustros de la Catedral",
+      "postal_code": [
+        "76093"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Claustros de la Corregidora 2",
+      "postal_code": [
+        "76093"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Claustros de la Corregidora I",
+      "postal_code": [
+        "76093"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Claustros de la Loma",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Claustros de las Misiones",
+      "postal_code": [
+        "76093"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Claustros del Campestre",
+      "postal_code": [
+        "76185"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Claustros del Marques",
+      "postal_code": [
+        "76093"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Claustros del Parque",
+      "postal_code": [
+        "76168"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Claustros del Sur",
+      "postal_code": [
+        "76093"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Claustros de Santiago",
+      "postal_code": [
+        "76093"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Club Campestre",
+      "postal_code": [
+        "76190"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Colibri",
+      "postal_code": [
+        "76170"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Colinas de Juriquilla",
+      "postal_code": [
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Colinas del Cimatario",
+      "postal_code": [
+        "76090"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Colinas del Parque",
+      "postal_code": [
+        "76140"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Colinas del Poniente",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Colinas del Sur",
+      "postal_code": [
+        "76085"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Colinas de Menchaca",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Colinas de Menchaca 2a Seccion",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Colinas de San Pablo",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Colinas de Santa Cruz 1a Seccion",
+      "postal_code": [
+        "76117"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Colinas de Santa Cruz 2a Seccion",
+      "postal_code": [
+        "76117"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Colinas de Santa Rosa",
+      "postal_code": [
+        "76220"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Comerciantes",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Comevi",
+      "postal_code": [
+        "76117"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Conjunto Terranova",
+      "postal_code": [
+        "76070"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Conjunto Victoria",
+      "postal_code": [
+        "76158"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Conquistadores",
+      "postal_code": [
+        "76121"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Constelacion",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Constituyentes",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Constituyentes de 1824",
+      "postal_code": [
+        "76156"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Constituyentes FOVISSSTE",
+      "postal_code": [
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Continental",
+      "postal_code": [
+        "76220"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Corea",
+      "postal_code": [
+        "76223"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Corregidora",
+      "postal_code": [
+        "76220"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Corregidora (Burocrata)",
+      "postal_code": [
+        "76070"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Cosmos (Satelite)",
+      "postal_code": [
+        "76110"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Cuadrilla Juriquilla",
+      "postal_code": [
+        "76226"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Cuesta Azul",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Cuesta Bonita",
+      "postal_code": [
+        "76063"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Cuitlahuac",
+      "postal_code": [
+        "76087",
+        "76127"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Cumbres del Lago",
+      "postal_code": [
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Cumbres del Mirador",
+      "postal_code": [
+        "76060"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Del Rio",
+      "postal_code": [
+        "76024"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Del Valle",
+      "postal_code": [
+        "76137",
+        "76190"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Demetrio Vallejo",
+      "postal_code": [
+        "76177"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Departamental Parques",
+      "postal_code": [
+        "76158"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Desarrollo Centro Norte",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Desarrollo Familiar",
+      "postal_code": [
+        "76117"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Desarrollo San angel",
+      "postal_code": [
+        "76125"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Desarrollo San Pablo",
+      "postal_code": [
+        "76125"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Desarrollo San Pablo I",
+      "postal_code": [
+        "76125"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Desarrollo San Pablo II",
+      "postal_code": [
+        "76125"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Diana Laura Rojas",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Diligencias",
+      "postal_code": [
+        "76020"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Dolce Terra",
+      "postal_code": [
+        "76100"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Don Manuel",
+      "postal_code": [
+        "76114"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Ecologico la Rica",
+      "postal_code": [
+        "76226"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Eduardo Loarca Castillo",
+      "postal_code": [
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Ejido Menchaca (Los Pinos)",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Arcangel",
+      "postal_code": [
+        "76113"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Arcangel (La Guayina)",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Arco",
+      "postal_code": [
+        "76134"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Bordo",
+      "postal_code": [
+        "76100"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Bosque",
+      "postal_code": [
+        "76069"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Campanario",
+      "postal_code": [
+        "76146"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "76030"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Castano",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Castano II",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "76160"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Chamizal",
+      "postal_code": [
+        "76137"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Cortijo",
+      "postal_code": [
+        "76020",
+        "76024"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Cortijo II",
+      "postal_code": [
+        "76024"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Destino",
+      "postal_code": [
+        "76100"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Fenix",
+      "postal_code": [
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Garambullo",
+      "postal_code": [
+        "76115"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Herrero",
+      "postal_code": [
+        "76224"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Higo",
+      "postal_code": [
+        "76138"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Huizachal de las Tetillas",
+      "postal_code": [
+        "76233"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Jacal",
+      "postal_code": [
+        "76180"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Laurel",
+      "postal_code": [
+        "76046"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Limonar",
+      "postal_code": [
+        "76069"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Madrono",
+      "postal_code": [
+        "76224"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Marques",
+      "postal_code": [
+        "76047"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Marques Queretano",
+      "postal_code": [
+        "76085"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "76134"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Nabo",
+      "postal_code": [
+        "76229"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Oasis",
+      "postal_code": [
+        "76024"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "76224"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Parque",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Patol",
+      "postal_code": [
+        "76227"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "76220"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Pedregal de Queretaro",
+      "postal_code": [
+        "76144"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Pie",
+      "postal_code": [
+        "76229"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "76158"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Prado",
+      "postal_code": [
+        "76030"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Progreso",
+      "postal_code": [
+        "76138"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Puertecito",
+      "postal_code": [
+        "76229"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Raspino",
+      "postal_code": [
+        "76212"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Retablo",
+      "postal_code": [
+        "76154"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Retiro",
+      "postal_code": [
+        "76070"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "76235"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Rincon de Ojo de Agua",
+      "postal_code": [
+        "76212"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Rocio",
+      "postal_code": [
+        "76114"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Rocio II",
+      "postal_code": [
+        "76114"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Romerillal",
+      "postal_code": [
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "76178"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Salitre",
+      "postal_code": [
+        "76127"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Sillar",
+      "postal_code": [
+        "76179"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Sol",
+      "postal_code": [
+        "76113"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Sol Residencial",
+      "postal_code": [
+        "76113"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Tepetate",
+      "postal_code": [
+        "76160"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Tepeyac",
+      "postal_code": [
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Tintero",
+      "postal_code": [
+        "76134",
+        "76138"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Tintero Dos (Las Margaritas)",
+      "postal_code": [
+        "76134"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Transito",
+      "postal_code": [
+        "76227"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "El Vergel",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "76220"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Enrique Burgos (La Rinconada)",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Ensueno",
+      "postal_code": [
+        "76178"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Epigmenio Gonzalez (El Oasis)",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Espana",
+      "postal_code": [
+        "76158"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Estancia de la Rochera",
+      "postal_code": [
+        "76224"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Estrella",
+      "postal_code": [
+        "76030"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Eucaliptos",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Eucaliptos I",
+      "postal_code": [
+        "76170"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Eucaliptos II",
+      "postal_code": [
+        "76170"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Eucaliptos III",
+      "postal_code": [
+        "76170"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Euripides",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Ex-Hacienda Santana",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Felipe angeles",
+      "postal_code": [
+        "76121",
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Felipe Carrillo Puerto",
+      "postal_code": [
+        "76138"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Fernando de Tapia",
+      "postal_code": [
+        "76117"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Ferrocarriles Seccion Rinconada Santa Anita",
+      "postal_code": [
+        "76137"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Fidel Velazquez Sanchez",
+      "postal_code": [
+        "76197"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "FOVISSSTE San Pablo I",
+      "postal_code": [
+        "76125"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "FOVISSSTE San Pablo II",
+      "postal_code": [
+        "76125"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Francisco Javier Mina",
+      "postal_code": [
+        "76117"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "76220"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Francisco Villa I",
+      "postal_code": [
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Francisco Villa II",
+      "postal_code": [
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Fraternidad de Santiago",
+      "postal_code": [
+        "76085"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Fray Junipero Serra",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Fresnos",
+      "postal_code": [
+        "76159"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Frida Kahlo",
+      "postal_code": [
+        "76177"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Fuentes Residencial",
+      "postal_code": [
+        "76137"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Fundadores",
+      "postal_code": [
+        "76117"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Galindas Residencial",
+      "postal_code": [
+        "76177"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Geminis",
+      "postal_code": [
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Generacion 2000",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Geo Plazas",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Geo Villas",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Gobernantes",
+      "postal_code": [
+        "76100"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Goyeneche",
+      "postal_code": [
+        "76026"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Grand Preserve",
+      "postal_code": [
+        "76226"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Guadalupe (La Lagrima)",
+      "postal_code": [
+        "76212"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Guadalupe Victoria (SAHOP)",
+      "postal_code": [
+        "76165"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Hacienda Galindo",
+      "postal_code": [
+        "76177"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Hacienda Grande",
+      "postal_code": [
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Hacienda Juriquilla Santa Fe",
+      "postal_code": [
+        "76100"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Hacienda Mompani",
+      "postal_code": [
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Hacienda San Miguel",
+      "postal_code": [
+        "76185"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Hacienda Santa Rosa",
+      "postal_code": [
+        "76223"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Hercules",
+      "postal_code": [
+        "76069"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "76057"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Huertas del Cimatario",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Ignacio Perez",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Independencia",
+      "postal_code": [
+        "76118",
+        "76147",
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Industria del Hierro",
+      "postal_code": [
+        "76168"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Industrial",
+      "postal_code": [
+        "76130"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Insurgentes",
+      "postal_code": [
+        "76117"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jacarandas",
+      "postal_code": [
+        "76168"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jardines de Alborada",
+      "postal_code": [
+        "76125"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jardines de Azucenas",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jardines de Hercules",
+      "postal_code": [
+        "76069"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jardines de Jurica",
+      "postal_code": [
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jardines de la Hacienda",
+      "postal_code": [
+        "76180"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jardines del Cimatario",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jardines del Sol",
+      "postal_code": [
+        "76117"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jardines del Valle",
+      "postal_code": [
+        "76137"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jardines de Queretaro",
+      "postal_code": [
+        "76020"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jardines de San Jose",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jardines de San Jose 2a. Seccion",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jardines de San Jose 3a. Seccion",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jardines de Santiago",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jardines de Villas de Santiago",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jofre",
+      "postal_code": [
+        "76215"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jofrito",
+      "postal_code": [
+        "76210"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Josefa Ortiz de Dominguez II",
+      "postal_code": [
+        "76110"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Josefa Ortiz de Dominguez III",
+      "postal_code": [
+        "76110"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Josefa Ortiz de Dominguez IV",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jose Maria Arteaga",
+      "postal_code": [
+        "76136"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jose Maria Bustamante",
+      "postal_code": [
+        "76125"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jurica",
+      "postal_code": [
+        "76100",
+        "76100",
+        "76100"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jurica Acueducto",
+      "postal_code": [
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jurica la Solana",
+      "postal_code": [
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jurica Misiones",
+      "postal_code": [
+        "76226"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jurica Pinar",
+      "postal_code": [
+        "76100"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Jurica Toliman",
+      "postal_code": [
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Juriquilla",
+      "postal_code": [
+        "76226"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Juriquilla Privada",
+      "postal_code": [
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Juriquilla Santa Fe",
+      "postal_code": [
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Karina",
+      "postal_code": [
+        "76024"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Alhambra",
+      "postal_code": [
+        "76074"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Aurora",
+      "postal_code": [
+        "76137"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Barreta",
+      "postal_code": [
+        "76221"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Canada Juriquilla",
+      "postal_code": [
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Cantera",
+      "postal_code": [
+        "76147",
+        "76212"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Capilla",
+      "postal_code": [
+        "76170"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Carambada",
+      "postal_code": [
+        "76177"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Carbonera",
+      "postal_code": [
+        "76221"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Castellana",
+      "postal_code": [
+        "76100"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Cima",
+      "postal_code": [
+        "76146",
+        "76159"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Condesa",
+      "postal_code": [
+        "76125"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Cordillera",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "76000",
+        "76020",
+        "76220"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Cuesta",
+      "postal_code": [
+        "76069"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Laderas de San Pedro",
+      "postal_code": [
+        "76117"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Era",
+      "postal_code": [
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Esmeralda",
+      "postal_code": [
+        "76117"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "76121"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Espiga",
+      "postal_code": [
+        "76146"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Estacada",
+      "postal_code": [
+        "76210"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Estacion",
+      "postal_code": [
+        "76069"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Estacion 2a. Seccion",
+      "postal_code": [
+        "76069"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Estacion F.F.C.C.",
+      "postal_code": [
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Estancia de Palo Dulce",
+      "postal_code": [
+        "76214"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Floresta",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Florida",
+      "postal_code": [
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Gotera",
+      "postal_code": [
+        "76210"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Granja",
+      "postal_code": [
+        "76180"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Higuera",
+      "postal_code": [
+        "76139"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Huerta",
+      "postal_code": [
+        "76114"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Joya",
+      "postal_code": [
+        "76180",
+        "76221"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Ladera",
+      "postal_code": [
+        "76147",
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Ladera (Menchaca III)",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "76067"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Loma",
+      "postal_code": [
+        "76116",
+        "76220"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Luna",
+      "postal_code": [
+        "76113"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Luz",
+      "postal_code": [
+        "76212"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Monja",
+      "postal_code": [
+        "76219"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Palma",
+      "postal_code": [
+        "76213"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Pastora",
+      "postal_code": [
+        "76025"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Pena",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Penita",
+      "postal_code": [
+        "76024"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Piedad",
+      "postal_code": [
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Popular",
+      "postal_code": [
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Puerta de Santiaguillo",
+      "postal_code": [
+        "76224"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Purisima",
+      "postal_code": [
+        "76146",
+        "76227"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Reja",
+      "postal_code": [
+        "76170"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Rueca",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Las aguilas",
+      "postal_code": [
+        "76238"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "76121"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Las Americas San Pablo",
+      "postal_code": [
+        "76121"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Sandia",
+      "postal_code": [
+        "76178"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Las Azucenas",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Las Brujas",
+      "postal_code": [
+        "76160"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Las Camelinas",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Las Campanas",
+      "postal_code": [
+        "76010",
+        "76100"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "76137",
+        "76220"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Las Fuentes",
+      "postal_code": [
+        "76030",
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Las Gemas",
+      "postal_code": [
+        "76168"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Las Hadas",
+      "postal_code": [
+        "76160"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Sierrita",
+      "postal_code": [
+        "76137"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Las Josefinas",
+      "postal_code": [
+        "76139"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Las Lajitas",
+      "postal_code": [
+        "76220"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Las Mariposas",
+      "postal_code": [
+        "76233"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Las Misiones",
+      "postal_code": [
+        "76030"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Solana",
+      "postal_code": [
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "76040"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Las Palomas",
+      "postal_code": [
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Las Paulonias Campestre",
+      "postal_code": [
+        "76233"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Las Penas",
+      "postal_code": [
+        "76158"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Las Penitas",
+      "postal_code": [
+        "76158"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Las Plazas",
+      "postal_code": [
+        "76140",
+        "76180"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Las Rosas",
+      "postal_code": [
+        "76164",
+        "76220"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Las Teresas",
+      "postal_code": [
+        "76138"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Tinaja de la Estancia",
+      "postal_code": [
+        "76228"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Latinoamericana",
+      "postal_code": [
+        "76125"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "76166"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Union",
+      "postal_code": [
+        "76085"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Versolilla",
+      "postal_code": [
+        "76213"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Virgen",
+      "postal_code": [
+        "76063"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "La Vista Residencial",
+      "postal_code": [
+        "76146"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lazaro Cardenas III",
+      "postal_code": [
+        "76085"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Leyes de Reforma",
+      "postal_code": [
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Libertad",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Libertadores",
+      "postal_code": [
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Libertadores de America",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lic. Alfredo Estrada Romero",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "76168",
+        "76220"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Linderos del Cimatario",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Llano de la Rochera",
+      "postal_code": [
+        "76224"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "76049",
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Loma Bonita 2a. Seccion",
+      "postal_code": [
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Loma del Chino",
+      "postal_code": [
+        "76218"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Loma Dorada",
+      "postal_code": [
+        "76060"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Loma IX",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Loma Juriquilla",
+      "postal_code": [
+        "76226"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "76070"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Loma Real",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lomas de Casa Blanca",
+      "postal_code": [
+        "76080"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lomas de Juriquilla",
+      "postal_code": [
+        "76226"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lomas del Campanario II",
+      "postal_code": [
+        "76146"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lomas del Campanario III",
+      "postal_code": [
+        "76146"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lomas del Carmen",
+      "postal_code": [
+        "76114"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lomas del Cimatario",
+      "postal_code": [
+        "76085"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lomas de Lindavista",
+      "postal_code": [
+        "76168"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lomas del Marques",
+      "postal_code": [
+        "76146"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lomas del Pedregal",
+      "postal_code": [
+        "76220"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lomas del Pedregal 2a. Seccion",
+      "postal_code": [
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lomas del Salitre",
+      "postal_code": [
+        "76127"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lomas del Valle",
+      "postal_code": [
+        "76085"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lomas de Menchaca",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lomas de Pasteur",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lomas de Queretaro",
+      "postal_code": [
+        "76190"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lomas de San angel",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lomas de San Isidro",
+      "postal_code": [
+        "76226"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lomas de San Jose",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lomas de San Pablo",
+      "postal_code": [
+        "76125"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lomas de San Pedrito",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lomas de San Pedrito (Seccion Portales)",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Lomas de Satelite",
+      "postal_code": [
+        "76110"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Alcanfores",
+      "postal_code": [
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Alcanfores Seccion Norte",
+      "postal_code": [
+        "76156"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "76220"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Arquitos",
+      "postal_code": [
+        "76220"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Arroyitos",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Castanos",
+      "postal_code": [
+        "76114"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Cedros",
+      "postal_code": [
+        "76165"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Ciruelos",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Claustros",
+      "postal_code": [
+        "76165"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Encinos",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Eucaliptos",
+      "postal_code": [
+        "76156"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Faroles",
+      "postal_code": [
+        "76158"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Framboyanes",
+      "postal_code": [
+        "76113"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Girasoles",
+      "postal_code": [
+        "76159"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Huertos",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Jimenez",
+      "postal_code": [
+        "76224"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "76139"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Molinos",
+      "postal_code": [
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Muertos",
+      "postal_code": [
+        "76227"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Padilla",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Pilares",
+      "postal_code": [
+        "76190"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Robles",
+      "postal_code": [
+        "76125"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Sabinos",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "76114"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Tabachines",
+      "postal_code": [
+        "76139"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Venados",
+      "postal_code": [
+        "76223"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Vinedos",
+      "postal_code": [
+        "76235"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Virreyes",
+      "postal_code": [
+        "76175"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Los Vitrales",
+      "postal_code": [
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "76118",
+        "76138"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "76180"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Mallorca",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Manantiales del Cimatario",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Mansiones del Valle",
+      "postal_code": [
+        "76185"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Manuel Jurado",
+      "postal_code": [
+        "76139"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Margaritas",
+      "postal_code": [
+        "76125",
+        "76165"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Mariano de las Casas",
+      "postal_code": [
+        "76037"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Mariano Escobedo",
+      "postal_code": [
+        "76000"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Mayoral",
+      "postal_code": [
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Mega Plaza",
+      "postal_code": [
+        "76168"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Menchaca I",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Menchaca II",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Menchaca III",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Mercurio",
+      "postal_code": [
+        "76040"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Mesita de Mompani",
+      "postal_code": [
+        "76229"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Milenio 3a. Seccion",
+      "postal_code": [
+        "76060"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Miradores del Marques",
+      "postal_code": [
+        "76146"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Mirador San Xavier",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Mision Bucareli Norte",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Mision Bucareli Sur",
+      "postal_code": [
+        "76125"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Mision Cimatario",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Mision de Carrillo",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Mision de Carrillo II",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Mision de Conca",
+      "postal_code": [
+        "76149"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Mision del Parque Residencial",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Mision Fundadores",
+      "postal_code": [
+        "76117"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Mision Riviera",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Mision San Jeronimo",
+      "postal_code": [
+        "76149"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Modelo",
+      "postal_code": [
+        "76177"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Moderna",
+      "postal_code": [
+        "76030"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Molinos de la Era",
+      "postal_code": [
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Mompani",
+      "postal_code": [
+        "76229"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Monarca",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Monte Blanco I",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Monte Blanco II",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Monte Blanco III",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Montecarlo",
+      "postal_code": [
+        "76160"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Montenegro",
+      "postal_code": [
+        "76220"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Monte Vesubio",
+      "postal_code": [
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Morelos",
+      "postal_code": [
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Movimiento Obrero",
+      "postal_code": [
+        "76121"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Mujeres Independientes",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Murano",
+      "postal_code": [
+        "76100"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Nacozari",
+      "postal_code": [
+        "76164"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "76010"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Nueva Creacion",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Nueva Esperanza",
+      "postal_code": [
+        "76121",
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Nuevo Carrillo",
+      "postal_code": [
+        "76134"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Nuevo Horizonte",
+      "postal_code": [
+        "76125",
+        "76238"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Nuevo Juriquilla",
+      "postal_code": [
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Nuevo Menchaca",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Nuevo Morelos",
+      "postal_code": [
+        "76069"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Nuevo Paraiso",
+      "postal_code": [
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Nuevo Refugio",
+      "postal_code": [
+        "76237"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Nuevo San Pedrito",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Oasis",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Obrera",
+      "postal_code": [
+        "76130"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Observatorio",
+      "postal_code": [
+        "76040"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "76211"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Orion",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Orquideas",
+      "postal_code": [
+        "76180"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Palmares",
+      "postal_code": [
+        "76127"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Palmas de San Jose",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Palo Alto",
+      "postal_code": [
+        "76213"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Palomar del Duque",
+      "postal_code": [
+        "76074"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Panamericano",
+      "postal_code": [
+        "76040"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Panoramico",
+      "postal_code": [
+        "76046"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Paraiso",
+      "postal_code": [
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Paraiso Diamante",
+      "postal_code": [
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Parque Industrial Jurica",
+      "postal_code": [
+        "76127"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Parque Industrial la Montana",
+      "postal_code": [
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Parque Industrial Poligono Empresarial",
+      "postal_code": [
+        "76220"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Parque Industrial Queretaro",
+      "postal_code": [
+        "76215"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Parque Queretaro 2000",
+      "postal_code": [
+        "76140"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Parques",
+      "postal_code": [
+        "76158"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Parque Santiago",
+      "postal_code": [
+        "76115"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Paseo del Piropo",
+      "postal_code": [
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Paseo San Junipero",
+      "postal_code": [
+        "76146"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Paseos de la Cuesta",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Paseos del Pedregal",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Paseos de San Miguel",
+      "postal_code": [
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Pathe",
+      "postal_code": [
+        "76020"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Patria Nueva",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Pedregal de Buenos Aires",
+      "postal_code": [
+        "76117"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Pedregal del Cimatario",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Pedregal de San Jose",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Pedregal de Vista Hermosa",
+      "postal_code": [
+        "76063"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Penuelas",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Pie de Gallo",
+      "postal_code": [
+        "76224"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Pintillo",
+      "postal_code": [
+        "76223"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Pinto",
+      "postal_code": [
+        "76223"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Plan Santa Maria",
+      "postal_code": [
+        "76113"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Plaza Boulevares",
+      "postal_code": [
+        "76169"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Plaza de las Americas",
+      "postal_code": [
+        "76059"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Plaza del Parque",
+      "postal_code": [
+        "76169"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Plaza Eugenia",
+      "postal_code": [
+        "76180"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Plaza Ikal",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Plazas del Sol 1a Seccion",
+      "postal_code": [
+        "76099"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Plazas del Sol 2a Seccion",
+      "postal_code": [
+        "76099"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Plazas del Sol 3a Seccion",
+      "postal_code": [
+        "76099"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Plutarco Elias Calles",
+      "postal_code": [
+        "76134"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Praderas del Sol",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Prados de la Capilla",
+      "postal_code": [
+        "76176"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Prados del Campestre",
+      "postal_code": [
+        "76199"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Prados del Cimatario",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Prados del Mirador",
+      "postal_code": [
+        "76070"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Prados de Loma Bonita",
+      "postal_code": [
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Prados del Rincon",
+      "postal_code": [
+        "76117"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Prados del Rincon 2a. Seccion",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Prados del Tecnologico",
+      "postal_code": [
+        "76158"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Prados de Miranda",
+      "postal_code": [
+        "76238"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Prados de Queretaro",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Presa de Becerra",
+      "postal_code": [
+        "76216"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Presidentes",
+      "postal_code": [
+        "76080"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Presita de San Antonio",
+      "postal_code": [
+        "76224"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Primavera",
+      "postal_code": [
+        "76164"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Privada Arboledas",
+      "postal_code": [
+        "76140"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Privada Bugambilias",
+      "postal_code": [
+        "76160"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Privada de los Portones",
+      "postal_code": [
+        "76100"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Privada la Laborcilla",
+      "postal_code": [
+        "76169"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Privalia Ambienta",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Provincia Santa Elena",
+      "postal_code": [
+        "76177"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Proyeccion 2000",
+      "postal_code": [
+        "76125"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Puerta de Belen",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Puerta del Cielo",
+      "postal_code": [
+        "76144"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Puerta del Sol",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Puerta del Sol II",
+      "postal_code": [
+        "76114"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Puerta Navarra",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Puertas de San Miguel",
+      "postal_code": [
+        "76229"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Puerta Verona",
+      "postal_code": [
+        "76235"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Puerto de Aguirre",
+      "postal_code": [
+        "76220"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Puesta del Sol",
+      "postal_code": [
+        "76121"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Punta Juriquilla",
+      "postal_code": [
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Punta San Carlos",
+      "postal_code": [
+        "76125"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Querena",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Queretaro",
+      "postal_code": [
+        "76159"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Quinta Alicia",
+      "postal_code": [
+        "76179"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Quinta Balaustradas",
+      "postal_code": [
+        "76079"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Quinta la Laborcilla",
+      "postal_code": [
+        "76168"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Quintas del Marques",
+      "postal_code": [
+        "76047"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Quintin Lozada",
+      "postal_code": [
+        "76227"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rancho Bellavista",
+      "postal_code": [
+        "76134"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rancho Largo",
+      "postal_code": [
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rancho Menchaca",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rancho Menchaca (Ex-Hacienda Menchaca)",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rancho San Antonio",
+      "postal_code": [
+        "76144"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rancho San Pedro",
+      "postal_code": [
+        "76113"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Raquel Trejo Ortiz",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Raquet Club",
+      "postal_code": [
+        "76127"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Real de Espana",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Real de Juriquilla",
+      "postal_code": [
+        "76226"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Real de Juriquilla Prados",
+      "postal_code": [
+        "76226"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Real de la Loma",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Real del Marques Residencial",
+      "postal_code": [
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Real del Parque",
+      "postal_code": [
+        "76158"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Real de San Pablo",
+      "postal_code": [
+        "76159"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Real Jurica",
+      "postal_code": [
+        "76159"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Reforma Agraria 1a Seccion",
+      "postal_code": [
+        "76086"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Reforma Agraria 2a Secc",
+      "postal_code": [
+        "76086"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Reforma Agraria 3a Secc",
+      "postal_code": [
+        "76086"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Reforma Agraria 4a Secc",
+      "postal_code": [
+        "76086"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Reforma Agraria 5a Secc",
+      "postal_code": [
+        "76086"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Reforma Agraria Radical",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Renacimiento",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Residencial angeles",
+      "postal_code": [
+        "76093"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Residencial Bosques",
+      "postal_code": [
+        "76168"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Residencial el Refugio",
+      "postal_code": [
+        "76146"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Residencial Frondoso",
+      "postal_code": [
+        "76177"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Residencial Gema",
+      "postal_code": [
+        "76177"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Residencial Italia",
+      "postal_code": [
+        "76179"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Residencial la Toscana",
+      "postal_code": [
+        "76177"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Residencial los angeles",
+      "postal_code": [
+        "76178"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Residencial Parque del alamo",
+      "postal_code": [
+        "76160"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Residencial Parque La Gloria",
+      "postal_code": [
+        "76177"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Residencial Villa Jardin",
+      "postal_code": [
+        "76177"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rinconada de las Fuentes",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rinconada del Cerrito",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rinconada de los Alamos",
+      "postal_code": [
+        "76160"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rinconada del Sol",
+      "postal_code": [
+        "76113"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rinconada de Morelos",
+      "postal_code": [
+        "76000"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rinconada Fray Juan",
+      "postal_code": [
+        "76036"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rinconada Jurica",
+      "postal_code": [
+        "76100"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rinconada la Capilla",
+      "postal_code": [
+        "76177"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rinconada las Joyas",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rinconada los Pirules",
+      "postal_code": [
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rinconada San Joaquin",
+      "postal_code": [
+        "76159"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rinconada San Jose",
+      "postal_code": [
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rinconada Santini",
+      "postal_code": [
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rinconada Zimapan",
+      "postal_code": [
+        "76138"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rincon del Cimatario",
+      "postal_code": [
+        "76085"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rincon del Lago",
+      "postal_code": [
+        "76226"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rincon de San Andres",
+      "postal_code": [
+        "76000"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rincon de San Antonio",
+      "postal_code": [
+        "76190"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rincones del Parque",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rivera y Tamayo",
+      "postal_code": [
+        "76125"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rocio Sanz",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Romy",
+      "postal_code": [
+        "76160"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Rosendo Salazar",
+      "postal_code": [
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Ruben Jaramillo",
+      "postal_code": [
+        "76117"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Samara Habitat",
+      "postal_code": [
+        "76060"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Andres",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San angel",
+      "postal_code": [
+        "76030",
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Antonio de la Punta",
+      "postal_code": [
+        "76135"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Antonio del Maurel",
+      "postal_code": [
+        "76137"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Antonio de Trojes",
+      "postal_code": [
+        "76215"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Diego",
+      "postal_code": [
+        "76139"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Felipe",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "76220"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Francisco de la Palma",
+      "postal_code": [
+        "76229"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Francisco Juriquilla",
+      "postal_code": [
+        "76230"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Francisquito",
+      "postal_code": [
+        "76058"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Gregorio",
+      "postal_code": [
+        "76156"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "76226"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Isidro Buenavista",
+      "postal_code": [
+        "76223"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Isidro el Alto",
+      "postal_code": [
+        "76228"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Isidro Viejo",
+      "postal_code": [
+        "76224"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Javier",
+      "postal_code": [
+        "76020"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Joaquin",
+      "postal_code": [
+        "76046"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Jose",
+      "postal_code": [
+        "76139"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Jose 2a Seccion",
+      "postal_code": [
+        "76137"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Jose Buenavista",
+      "postal_code": [
+        "76226"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Jose de los Perales",
+      "postal_code": [
+        "76069"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Jose el Alto",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Jose Inn",
+      "postal_code": [
+        "76000"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "76117"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Marcos I",
+      "postal_code": [
+        "76117"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Miguelito",
+      "postal_code": [
+        "76220"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "76125",
+        "76159"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Pablo III (INFONAVIT)",
+      "postal_code": [
+        "76121"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Pablo II (INFONAVIT)",
+      "postal_code": [
+        "76125"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Pablo I (INFONAVIT)",
+      "postal_code": [
+        "76125"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Pablo IV (INFONAVIT)",
+      "postal_code": [
+        "76121"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Pablo Tecnologico",
+      "postal_code": [
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Pedrito Ecologico",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Pedrito el Alto (El Obraje)",
+      "postal_code": [
+        "76237"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Pedrito los Arcos",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Pedrito Penuelas",
+      "postal_code": [
+        "76140"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Pedrito Penuelas I",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Pedrito Penuelas II",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Pedrito Penuelas III",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Pedrito Penuelas IV",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Pedro Martir",
+      "postal_code": [
+        "76117"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Roque",
+      "postal_code": [
+        "76150",
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "76134",
+        "76165"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Santa Catarina",
+      "postal_code": [
+        "76157",
+        "76223"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Santa Catarina (Asociacion de Colonos)",
+      "postal_code": [
+        "76223"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Santa Isabel",
+      "postal_code": [
+        "76113"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Santa Juanita Miranda",
+      "postal_code": [
+        "76238"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "76220"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Santa Maria de los Reyes",
+      "postal_code": [
+        "76235"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Santa Maria del Zapote",
+      "postal_code": [
+        "76229"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Santa Maria Magdalena",
+      "postal_code": [
+        "76137"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Santa Monica",
+      "postal_code": [
+        "76134"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Santa Monica 1a Seccion",
+      "postal_code": [
+        "76138"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Santa Monica 2a Secc",
+      "postal_code": [
+        "76138"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "76100"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Santa Rosa de Jauregui",
+      "postal_code": [
+        "76220",
+        "76233"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Santiago",
+      "postal_code": [
+        "76120",
+        "76179"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Santo Nino",
+      "postal_code": [
+        "76137"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Santo Nino de Praga",
+      "postal_code": [
+        "76229"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Satelite",
+      "postal_code": [
+        "76110"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Satelite Seccion Andadores",
+      "postal_code": [
+        "76110"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Satelite Seccion Condominios",
+      "postal_code": [
+        "76110"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Sauces",
+      "postal_code": [
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Seminario",
+      "postal_code": [
+        "76024"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Sendero",
+      "postal_code": [
+        "76114"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Sergio Villasenor",
+      "postal_code": [
+        "76125"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Sierra Colorada",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Solidaridad 90",
+      "postal_code": [
+        "76134"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Sonterra",
+      "postal_code": [
+        "76235"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Tecnologico",
+      "postal_code": [
+        "76158"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Tecnologico 2000",
+      "postal_code": [
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Tejas",
+      "postal_code": [
+        "76069"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Tenochtitlan",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Tenochtitlan II",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Teotihuacan",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Terrazas de San Pablo",
+      "postal_code": [
+        "76125"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Tlacote El Alto",
+      "postal_code": [
+        "76229"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Tlacote el Bajo",
+      "postal_code": [
+        "76229"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Tlanese",
+      "postal_code": [
+        "76121"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Tonatiu",
+      "postal_code": [
+        "76113"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Tonatiuh 2a. Seccion",
+      "postal_code": [
+        "76113"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Tonatiuh 3a Seccion",
+      "postal_code": [
+        "76113"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Tonatiuh 4a Seccion",
+      "postal_code": [
+        "76113"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Tres Cantos Residencial",
+      "postal_code": [
+        "76235"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Unidad Nacional",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Unidad Roma",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Universidad",
+      "postal_code": [
+        "76028"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Universo 2000",
+      "postal_code": [
+        "76085"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Valle Alameda",
+      "postal_code": [
+        "76040"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Valle de Juriquilla",
+      "postal_code": [
+        "76100"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Valle del Mezquital",
+      "postal_code": [
+        "76138"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Valle de San Pablo",
+      "postal_code": [
+        "76125"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Valle de San Pedrito Penuelas",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Valle de San Pedro",
+      "postal_code": [
+        "76113"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Valle de San Pedro 2a Seccion",
+      "postal_code": [
+        "76113"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Valle Dorado",
+      "postal_code": [
+        "76220"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Valle Garden",
+      "postal_code": [
+        "76100"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Valle Real de San angel",
+      "postal_code": [
+        "76137"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Valles de San Jose",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "76000"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Victoria Popular",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Victor Iturbe",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Villa las Arboledas",
+      "postal_code": [
+        "76178"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Villa los Arcos",
+      "postal_code": [
+        "76024"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Villas de Guadalupe",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Villas del Cimatario",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Villas del Meson",
+      "postal_code": [
+        "76226"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Villas del Oriente",
+      "postal_code": [
+        "76063"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Villas del Parque",
+      "postal_code": [
+        "76140"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Villas del Rincon",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Villas del Sol",
+      "postal_code": [
+        "76046"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Villas del Sur",
+      "postal_code": [
+        "76040"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Villas de San Antonio",
+      "postal_code": [
+        "76177"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Villas de San Jose",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Villas de San Miguel",
+      "postal_code": [
+        "76118"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Villas de Santa Monica",
+      "postal_code": [
+        "76138"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Villas de Santiago",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Villas Fontana",
+      "postal_code": [
+        "76148"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Villas Palmira",
+      "postal_code": [
+        "76146"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Villas Tecnologico",
+      "postal_code": [
+        "76150"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Villas Valle Alameda",
+      "postal_code": [
+        "76078"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Vista",
+      "postal_code": [
+        "76070"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Vista 2000",
+      "postal_code": [
+        "76140"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Vista Alegre",
+      "postal_code": [
+        "76074"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Vista Alegre 2a. Seccion",
+      "postal_code": [
+        "76074"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Vista Alegre 3a. Seccion",
+      "postal_code": [
+        "76074"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Vista Azul",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Vista Dorada",
+      "postal_code": [
+        "76060"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "76063"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Vistana",
+      "postal_code": [
+        "76147"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Vistas del Cimatario",
+      "postal_code": [
+        "76085"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Vistas del Valle",
+      "postal_code": [
+        "76116"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Vive",
+      "postal_code": [
+        "76100"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Viveros de Queretaro",
+      "postal_code": [
+        "76155"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Viveros Residencial",
+      "postal_code": [
+        "76140"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Zapata Vive",
+      "postal_code": [
+        "76087"
+      ]
+    },
+    {
+      "city": "Queretaro",
+      "colonia": "Zona Militar",
+      "postal_code": [
+        "76136"
+      ]
+    }
+  ]
+}

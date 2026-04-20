@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Temax",
+      "colonia": "Chenche de Las Torres",
+      "postal_code": [
+        "97515"
+      ]
+    },
+    {
+      "city": "Temax",
+      "colonia": "Chucmichen",
+      "postal_code": [
+        "97515"
+      ]
+    },
+    {
+      "city": "Temax",
+      "colonia": "San Antonio Camara",
+      "postal_code": [
+        "97513"
+      ]
+    },
+    {
+      "city": "Temax",
+      "colonia": "Santa Ursula",
+      "postal_code": [
+        "97516"
+      ]
+    },
+    {
+      "city": "Temax",
+      "colonia": "Temax",
+      "postal_code": [
+        "97510"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "city": "Zapotitlan de Vadillo",
+      "colonia": "Huitzometl (La Providencia)",
+      "postal_code": [
+        "49789"
+      ]
+    },
+    {
+      "city": "Zapotitlan de Vadillo",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "49783"
+      ]
+    },
+    {
+      "city": "Zapotitlan de Vadillo",
+      "colonia": "Loma de Perempitz",
+      "postal_code": [
+        "49775"
+      ]
+    },
+    {
+      "city": "Zapotitlan de Vadillo",
+      "colonia": "Mazatan",
+      "postal_code": [
+        "49784"
+      ]
+    },
+    {
+      "city": "Zapotitlan de Vadillo",
+      "colonia": "San Jose Del Carmen",
+      "postal_code": [
+        "49780"
+      ]
+    },
+    {
+      "city": "Zapotitlan de Vadillo",
+      "colonia": "Telcruz",
+      "postal_code": [
+        "49779"
+      ]
+    },
+    {
+      "city": "Zapotitlan de Vadillo",
+      "colonia": "Tetapan",
+      "postal_code": [
+        "49786"
+      ]
+    },
+    {
+      "city": "Zapotitlan de Vadillo",
+      "colonia": "Zapotitlan de Vadillo",
+      "postal_code": [
+        "49770"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,551 @@
+{
+  "data": [
+    {
+      "city": "Escuintla",
+      "colonia": "3 de Mayo (El Zapote)",
+      "postal_code": [
+        "30607"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "4 de Octubre",
+      "postal_code": [
+        "30604"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "8 de Agosto",
+      "postal_code": [
+        "30616"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Ampliacion Colombia",
+      "postal_code": [
+        "30616"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Ampliacion el Triunfo",
+      "postal_code": [
+        "30603"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Avicnia",
+      "postal_code": [
+        "30604"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Barrio Bolivia",
+      "postal_code": [
+        "30605"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Belisario Dominguez",
+      "postal_code": [
+        "30605"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Brisas del Soconusco",
+      "postal_code": [
+        "30603"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Buena Vista",
+      "postal_code": [
+        "30604"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Buena Vista II",
+      "postal_code": [
+        "30605"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Canutillo",
+      "postal_code": [
+        "30617"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "China",
+      "postal_code": [
+        "30600"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Cintalapa",
+      "postal_code": [
+        "30603"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Cristo Rey",
+      "postal_code": [
+        "30600"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Cuauhtemoc Chachalaca",
+      "postal_code": [
+        "30610"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "30607"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "30600"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "El Cimiento",
+      "postal_code": [
+        "30606"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "El Encuentro",
+      "postal_code": [
+        "30604",
+        "30604"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "El Horizonte",
+      "postal_code": [
+        "30607"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "El Jobal",
+      "postal_code": [
+        "30613"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "El Jordan",
+      "postal_code": [
+        "30610"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "El Manantial",
+      "postal_code": [
+        "30600"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "El Mango",
+      "postal_code": [
+        "30604"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "30604"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "El Triunfo",
+      "postal_code": [
+        "30604"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "El Vergel",
+      "postal_code": [
+        "30606"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Escuintla Centro",
+      "postal_code": [
+        "30600"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Flores Magon",
+      "postal_code": [
+        "30616"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "FONHAPO",
+      "postal_code": [
+        "30600"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Fraccion Banderas",
+      "postal_code": [
+        "30614"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "30615"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Grijalva",
+      "postal_code": [
+        "30616"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "30617"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Hoja Blanca",
+      "postal_code": [
+        "30613"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Jalapa",
+      "postal_code": [
+        "30605"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Jubileo 2000",
+      "postal_code": [
+        "30600"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "La Bendicion",
+      "postal_code": [
+        "30600"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "30605"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "La Independencia",
+      "postal_code": [
+        "30610"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "La Pampita",
+      "postal_code": [
+        "30617"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Las Nubes",
+      "postal_code": [
+        "30605"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Las Vegas",
+      "postal_code": [
+        "30613"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "La Vigüita",
+      "postal_code": [
+        "30607"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Llano Grande",
+      "postal_code": [
+        "30605"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Llano Grande Palestina",
+      "postal_code": [
+        "30615"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Malvinas",
+      "postal_code": [
+        "30607"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Manacal Llano Grande",
+      "postal_code": [
+        "30613"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Montahua",
+      "postal_code": [
+        "30614"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Nueva California",
+      "postal_code": [
+        "30603"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Nueva Francia",
+      "postal_code": [
+        "30604"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Nueva Morelia",
+      "postal_code": [
+        "30605"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Nueva Reforma",
+      "postal_code": [
+        "30605"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Nueva Sonora",
+      "postal_code": [
+        "30606"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Nuevo Llano Grande",
+      "postal_code": [
+        "30615"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Nuevo Milenio",
+      "postal_code": [
+        "30600"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Ojo de Agua I",
+      "postal_code": [
+        "30607"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Ojo de Agua II",
+      "postal_code": [
+        "30605"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Ovando Pinuela",
+      "postal_code": [
+        "30604"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Ovando Turquia",
+      "postal_code": [
+        "30603"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Palo Blanco",
+      "postal_code": [
+        "30617"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Paso del Norte",
+      "postal_code": [
+        "30606"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Rincon Veracruz",
+      "postal_code": [
+        "30615"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "San Antonio Miramar",
+      "postal_code": [
+        "30607"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "San Benito",
+      "postal_code": [
+        "30614"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "San Felipe Tizapa",
+      "postal_code": [
+        "30610"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "San Juan Panama",
+      "postal_code": [
+        "30605"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "San Lucas",
+      "postal_code": [
+        "30614"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "30600"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Santa Emilia",
+      "postal_code": [
+        "30607"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Santa Isabel",
+      "postal_code": [
+        "30613"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "30605"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "30600"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Union Jamaica",
+      "postal_code": [
+        "30610"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Vega de Juarez",
+      "postal_code": [
+        "30607"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Vida Mejor",
+      "postal_code": [
+        "30600"
+      ]
+    },
+    {
+      "city": "Escuintla",
+      "colonia": "Zacualpa II (El Vergel)",
+      "postal_code": [
+        "30616"
+      ]
+    }
+  ]
+}

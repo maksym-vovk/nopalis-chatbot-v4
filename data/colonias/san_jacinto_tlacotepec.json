@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Jacinto Tlacotepec",
+      "colonia": "El Venado",
+      "postal_code": [
+        "71277"
+      ]
+    },
+    {
+      "city": "San Jacinto Tlacotepec",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "71275"
+      ]
+    },
+    {
+      "city": "San Jacinto Tlacotepec",
+      "colonia": "San Jacinto Tlacotepec",
+      "postal_code": [
+        "71275"
+      ]
+    }
+  ]
+}

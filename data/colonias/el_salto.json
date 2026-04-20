@@ -1,0 +1,494 @@
+{
+  "data": [
+    {
+      "city": "El Salto",
+      "colonia": "alvarez del Castillo",
+      "postal_code": [
+        "45680"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Ampelio",
+      "postal_code": [
+        "45680"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Baja California",
+      "postal_code": [
+        "45693"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Balcones del Salto",
+      "postal_code": [
+        "45680"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "45694"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Campo Bello",
+      "postal_code": [
+        "45685"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Cardenas Del Rio",
+      "postal_code": [
+        "45690"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Cima Serena",
+      "postal_code": [
+        "45685"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Club de Golf Atlas",
+      "postal_code": [
+        "45693"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Colinas del Sol",
+      "postal_code": [
+        "45683"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Del Carmen",
+      "postal_code": [
+        "45693"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "El Diamante",
+      "postal_code": [
+        "45696"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "El Muey",
+      "postal_code": [
+        "45683"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "45680"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "El Sabino",
+      "postal_code": [
+        "45680"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "El Salto Centro",
+      "postal_code": [
+        "45680"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "El Seminario",
+      "postal_code": [
+        "45696"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "45696"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "El Verde",
+      "postal_code": [
+        "45694"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Ermita",
+      "postal_code": [
+        "45693"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Felipe Angeles",
+      "postal_code": [
+        "45696"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Galaxia Bonito Jalisco",
+      "postal_code": [
+        "45683"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Guadalupe Montenegro",
+      "postal_code": [
+        "45690"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Hacienda Vieja del Castillo (Castillo Viejo)",
+      "postal_code": [
+        "45686"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "INFONAVIT El Castillo",
+      "postal_code": [
+        "45685"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Insurgentes Sur",
+      "postal_code": [
+        "45690"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Jardines del Castillo",
+      "postal_code": [
+        "45685"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Jardines Del Verde",
+      "postal_code": [
+        "45694"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Jesus Maria",
+      "postal_code": [
+        "45680"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "La Alameda",
+      "postal_code": [
+        "45685"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "La Alcantarilla",
+      "postal_code": [
+        "45680"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "La Azucena",
+      "postal_code": [
+        "45680"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "La Esmeralda",
+      "postal_code": [
+        "45690"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "45696"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "La Guadalupana",
+      "postal_code": [
+        "45694"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "La Higuera",
+      "postal_code": [
+        "45696"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "La Huizachera",
+      "postal_code": [
+        "45690"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "La Loma",
+      "postal_code": [
+        "45694"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "La Mesa INFONAVIT",
+      "postal_code": [
+        "45680"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "La Muralla",
+      "postal_code": [
+        "45683"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "La Piedrera",
+      "postal_code": [
+        "45690"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "La Purisima",
+      "postal_code": [
+        "45694"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Las Lilas",
+      "postal_code": [
+        "45680"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Las Pintas",
+      "postal_code": [
+        "45690"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Las Pintitas Centro",
+      "postal_code": [
+        "45693"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "45694"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Loma del Verde",
+      "postal_code": [
+        "45694"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Loma de San Juan",
+      "postal_code": [
+        "45694"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Lomas del Aeropuerto",
+      "postal_code": [
+        "45693"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Los Gigantes",
+      "postal_code": [
+        "45692"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "45680"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Los Maestros",
+      "postal_code": [
+        "45694"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Mesa de los Laureles",
+      "postal_code": [
+        "45680"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Minerales",
+      "postal_code": [
+        "45694"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Nuevo Paraiso",
+      "postal_code": [
+        "45690"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Obrera",
+      "postal_code": [
+        "45680"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Pacifico",
+      "postal_code": [
+        "45690"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Palo Dulce",
+      "postal_code": [
+        "45680"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Parque Industrial El Salto",
+      "postal_code": [
+        "45685"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Parque Industrial Guadalajara",
+      "postal_code": [
+        "45690"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Parques del Castillo",
+      "postal_code": [
+        "45685"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Pintitas Poniente",
+      "postal_code": [
+        "45690"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Potrero Nuevo",
+      "postal_code": [
+        "45680"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Prados Del Salto",
+      "postal_code": [
+        "45696"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "San Jose del Castillo",
+      "postal_code": [
+        "45685"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "San Jose del Quince",
+      "postal_code": [
+        "45696"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "45694"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Santa Rosa del Valle",
+      "postal_code": [
+        "45690"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Villas de Guadalupe",
+      "postal_code": [
+        "45685"
+      ]
+    },
+    {
+      "city": "El Salto",
+      "colonia": "Vista California",
+      "postal_code": [
+        "45685"
+      ]
+    }
+  ]
+}

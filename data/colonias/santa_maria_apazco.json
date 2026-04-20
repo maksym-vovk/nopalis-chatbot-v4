@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Santa Maria Apazco",
+      "colonia": "Pericon",
+      "postal_code": [
+        "69621"
+      ]
+    },
+    {
+      "city": "Santa Maria Apazco",
+      "colonia": "Santa Maria Apazco",
+      "postal_code": [
+        "69620"
+      ]
+    },
+    {
+      "city": "Santa Maria Apazco",
+      "colonia": "Tierra Colorada",
+      "postal_code": [
+        "69620"
+      ]
+    }
+  ]
+}

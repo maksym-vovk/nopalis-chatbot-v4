@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "San Pedro el Alto",
+      "colonia": "Cerro de las Nubes",
+      "postal_code": [
+        "70967"
+      ]
+    },
+    {
+      "city": "San Pedro el Alto",
+      "colonia": "El Potrero Jazmin",
+      "postal_code": [
+        "70967"
+      ]
+    },
+    {
+      "city": "San Pedro el Alto",
+      "colonia": "Lagunilla",
+      "postal_code": [
+        "70967"
+      ]
+    },
+    {
+      "city": "San Pedro el Alto",
+      "colonia": "Loma Canela",
+      "postal_code": [
+        "70967"
+      ]
+    },
+    {
+      "city": "San Pedro el Alto",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "70966"
+      ]
+    },
+    {
+      "city": "San Pedro el Alto",
+      "colonia": "San Pedro el Alto",
+      "postal_code": [
+        "70966"
+      ]
+    }
+  ]
+}

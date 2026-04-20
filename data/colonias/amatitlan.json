@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Amatitlan",
+      "colonia": "Amatitlan",
+      "postal_code": [
+        "95450"
+      ]
+    },
+    {
+      "city": "Amatitlan",
+      "colonia": "Dos Bocas",
+      "postal_code": [
+        "95450"
+      ]
+    },
+    {
+      "city": "Amatitlan",
+      "colonia": "El Corte",
+      "postal_code": [
+        "95450"
+      ]
+    },
+    {
+      "city": "Amatitlan",
+      "colonia": "Rancho Nuevo (Los Cerros)",
+      "postal_code": [
+        "95456"
+      ]
+    },
+    {
+      "city": "Amatitlan",
+      "colonia": "San Jose Papaloapan",
+      "postal_code": [
+        "95454"
+      ]
+    }
+  ]
+}

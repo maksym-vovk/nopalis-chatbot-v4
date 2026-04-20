@@ -1,0 +1,2576 @@
+{
+  "data": [
+    {
+      "city": "Tamazula",
+      "colonia": "Acachuane",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Acatita Grande (Acatita)",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Agua Caliente",
+      "postal_code": [
+        "34575",
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Aguaje Grande",
+      "postal_code": [
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Amacuable",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Amaculi",
+      "postal_code": [
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Arroyo Grande de Matavacas",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Arroyo Verde (Los Toros)",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Bastantitas de Abajo",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Bastantitas de Arriba",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Boca de Arroyo del Zapote",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Boca del Arroyo",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Boca del Arroyo de San Fernando",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Cananea",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Cantarranas",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Carricitos",
+      "postal_code": [
+        "34570",
+        "34575",
+        "34587"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Casas Viejas",
+      "postal_code": [
+        "34575",
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Cerro Blanco",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Chacala",
+      "postal_code": [
+        "34587"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Chacoal",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Chapotillos",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Chinacatita",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Cienega de los Beltranes",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Coacoyole",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Coloma",
+      "postal_code": [
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Coluta",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Colutilla",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Corpus",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Cuesta Blanca",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Dolores",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Doloritas",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Dos de Abril",
+      "postal_code": [
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Aguaje",
+      "postal_code": [
+        "34584",
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Aguaje de la Tierra",
+      "postal_code": [
+        "34585"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Aguajito",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Alizal (La Mesa del Alizal)",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Alto de Dolores",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Alto de la Alameda",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Alto del Rodeo",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Arado",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Arrayanal",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Ayali",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Bajio",
+      "postal_code": [
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Barco",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Barro (Las Milpillas de Arriba)",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Bledal",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Cabuchal",
+      "postal_code": [
+        "34585"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Cajon",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Caporal",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Capulin de Abajo",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Capulin de Arriba",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Carricillo de los Nunez",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Carrizal de Coluta",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Carrizo de Amaculi",
+      "postal_code": [
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Carrizo de la Petaca",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Castillo",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Cedral",
+      "postal_code": [
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Chalaton",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Chicural",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Chirimoyo",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Chonteco",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Ciruelito",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Cucharo",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Durazno",
+      "postal_code": [
+        "34570",
+        "34570",
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Espiritu",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Frijolar",
+      "postal_code": [
+        "34584",
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Gachupin",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Galeron",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Gavilan",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Guamuchil",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Guamuchilar",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Guamuchilito",
+      "postal_code": [
+        "34587"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Guayabito",
+      "postal_code": [
+        "34584",
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Guayabo del Rodeo",
+      "postal_code": [
+        "34585"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Guzman",
+      "postal_code": [
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Igualamo",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Jagüital",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Leon",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Limon",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Llano",
+      "postal_code": [
+        "34570",
+        "34590",
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Llano de Palmillas",
+      "postal_code": [
+        "34585"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Llano Redondo",
+      "postal_code": [
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Melon",
+      "postal_code": [
+        "34575",
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Molino de la Ventana",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Muerto",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Naranjo",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Ojito",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Oso",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Otatal",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Palmarejo",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Palmito",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Pando Grande",
+      "postal_code": [
+        "34585"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Parian",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Perico",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Picacho",
+      "postal_code": [
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Pinal",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Platanar",
+      "postal_code": [
+        "34584",
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Poleyal de Abajo",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Poleyal de Arriba",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Portezuelo (El Limoncito)",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Potrerillo",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Potrerillo de Chacala",
+      "postal_code": [
+        "34587"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Potrero",
+      "postal_code": [
+        "34570",
+        "34590",
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Potrero de Guasimillas",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Potrero de la Ventana",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Pueblito",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Pueblito del Aguaje",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Pueblo Nuevo",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Puertecito",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Puerto de Felix",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Puerto de la Cebadilla",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Puerto de la Tableta",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Quemado",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "34570",
+        "34584",
+        "34585"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Ranchito de Dolores",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Ranchito de Piedras de Lumbre",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Ranchito (El Ranchito de Nunez)",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Realito de la Ventana",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Rebaje",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Recodo",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Remudadero",
+      "postal_code": [
+        "34585"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Reparo",
+      "postal_code": [
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Rodeo",
+      "postal_code": [
+        "34585"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Sabino",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Saltillo",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Salto",
+      "postal_code": [
+        "34583",
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Salto de las Cuevas de Abajo",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Salto de Tabahueto",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Sauce",
+      "postal_code": [
+        "34587"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Saucito",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Sobaco",
+      "postal_code": [
+        "34570",
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Subadero",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Tapale",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Taste",
+      "postal_code": [
+        "34585",
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Tastito",
+      "postal_code": [
+        "34585",
+        "34587"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Tastito de Sicairos",
+      "postal_code": [
+        "34585"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Tecomate",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Tigre",
+      "postal_code": [
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Toro",
+      "postal_code": [
+        "34585"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Tosiguay",
+      "postal_code": [
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Zalate",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "El Zapatero",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Escarbaderos",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Guadalupe de Urrea",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Guasimillas",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Huejotita",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Huizolixta",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Alameda",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Balanza",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Banqueta",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Belleza",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Boca del Arroyo",
+      "postal_code": [
+        "34584",
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Boquilla",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Borrega",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Calera",
+      "postal_code": [
+        "34585"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Campana",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Canada",
+      "postal_code": [
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Cebadilla",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "34570",
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Cienega de los Caballos",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Cienega del Tule",
+      "postal_code": [
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Cienega de Otates",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Cienega de Tosiguay",
+      "postal_code": [
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Cieneguita",
+      "postal_code": [
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "34570",
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Cruz de Ocote",
+      "postal_code": [
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Cueva del Gallo",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Cueva Santa",
+      "postal_code": [
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Dura",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Enramada",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Güichi",
+      "postal_code": [
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Haciendita",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Higuera Hueca",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Higuerita",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Higuerita (La Buena Vista)",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Huerta",
+      "postal_code": [
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Huerta de Coluta",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Iguana",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La India",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Joya",
+      "postal_code": [
+        "34570",
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Joyita",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Junta",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Laguna del Carrizo",
+      "postal_code": [
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Laguna (El Catrin)",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Lajita",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Mantecosa",
+      "postal_code": [
+        "34585"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Mesa",
+      "postal_code": [
+        "34570",
+        "34570",
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Mesa Ancha",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Mesa Colorada",
+      "postal_code": [
+        "34575",
+        "34585"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Mesa de Becerros (La Joya)",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Mesa de la Perra",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Mesa de las Milpas",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Mesa del Ocote (Mesa Ancha)",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Mesa del Oso",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Mesa del Rodeo",
+      "postal_code": [
+        "34587"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Mesa del Vaso",
+      "postal_code": [
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Mesa de Rafel",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Mesa Morena",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Mocha",
+      "postal_code": [
+        "34585"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Nueva Rosita",
+      "postal_code": [
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Paleta",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Palma",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Palma Cuata",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Palmita",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Pantera",
+      "postal_code": [
+        "34585"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Piedra Bola",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Reforma",
+      "postal_code": [
+        "34585"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Rinconada",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Rosa",
+      "postal_code": [
+        "34570",
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Rosita Nueva",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Apomas",
+      "postal_code": [
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Sauceda",
+      "postal_code": [
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Calabazas",
+      "postal_code": [
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Chicuritas",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Coloraditas",
+      "postal_code": [
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Cupias",
+      "postal_code": [
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Duras",
+      "postal_code": [
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Guasimas",
+      "postal_code": [
+        "34570",
+        "34585"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Haciendas",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Higueritas",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Sidra",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Sierrita",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Sierrita del Alto",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Joyas de Arriba",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Joyitas",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Juntas",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Juntas de Amaculi",
+      "postal_code": [
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Juntas de los Arroyos",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Juntas del Santo Nino",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Juntas de Tabahueto",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Juntitas",
+      "postal_code": [
+        "34575",
+        "34586",
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Lajitas",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Mesas",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Mesas de Chacala",
+      "postal_code": [
+        "34587"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Mesas de Coluta",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Mesitas",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Milpas [Aserradero]",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Milpas de Abajo",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Milpas de Arriba",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Milpas de Enmedio",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Moras",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "34570",
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "34575",
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Papas",
+      "postal_code": [
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Papas (Pinos Altos)",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Quebradas",
+      "postal_code": [
+        "34585"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Tahonas de San Fernando",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Tierritas",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Las Trancas",
+      "postal_code": [
+        "34583",
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Taunita",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Tijerita",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Trampa",
+      "postal_code": [
+        "34570",
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Vainilla",
+      "postal_code": [
+        "34575",
+        "34585"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "La Vinateria",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Lo de Silva",
+      "postal_code": [
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Aguacates",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Aguajitos",
+      "postal_code": [
+        "34570",
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Algodones",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Arbolitos",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Arrayanes",
+      "postal_code": [
+        "34583",
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Ayuches (Los Ayutes)",
+      "postal_code": [
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Barandales",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Braceros",
+      "postal_code": [
+        "34585"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Burros",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Carrizos",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Chapotes",
+      "postal_code": [
+        "34583",
+        "34587"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Copalitos",
+      "postal_code": [
+        "34585"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Coyotes",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Giotes",
+      "postal_code": [
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Guajolotes",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Limones",
+      "postal_code": [
+        "34575",
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Llanitos",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Llanos de Tabahueto",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Medios",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Ocotes",
+      "postal_code": [
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Oreganitos",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Otates",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Pantanos",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Pinos de Guasimillas",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Remedios",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Tacotes",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Tejabanes",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Tepeguajes",
+      "postal_code": [
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Tigres",
+      "postal_code": [
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Tomates",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Vasitos",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Los Velarde",
+      "postal_code": [
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Marroquin de Abajo",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Mautal",
+      "postal_code": [
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Mesa de la Tableta",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Mesa del Barro",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Mesa de los Becerros",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Mesa del Refugio (El Terrero)",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Monte Largo",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Nombre de Dios",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Otatillos",
+      "postal_code": [
+        "34584",
+        "34587"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Palmillas (Casas Grandes)",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Palo Dulce",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Palos Verdes",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Pena Blanca",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Pericos",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Pie de la Cuesta",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Piedras de Lumbre",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Pinos Altos",
+      "postal_code": [
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Pito Real",
+      "postal_code": [
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Potrerillo",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Pueblo Viejo",
+      "postal_code": [
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Quebrada de los Duran",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Quebrada de los Sanchez",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Quebrada Honda",
+      "postal_code": [
+        "34587"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Quebrada Honda de San Jorge",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Ranchito Nuevo",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Ranchito Quemado",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "34584",
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Rincon de los Macedo",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Sahuatenipa",
+      "postal_code": [
+        "34585"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "34575",
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "San Antonio de la Cueva",
+      "postal_code": [
+        "34586"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "San Cayetano",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "San Cayetano de Pericos",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "San Cesareo",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "San Fernando",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "San Ignacio",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "San Javier",
+      "postal_code": [
+        "34584",
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "San Jose de Chiqueritos",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "San Jose de la Bajada",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "San Jose del Rancho",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "San Jose de Tabahueto",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "San Juachin",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "San Juan de las Palmas",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "San Julian",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "San Luisito",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "San Roman",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Santa agueda",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Santa Barbara",
+      "postal_code": [
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Santa Catarina",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Santa Elena (La Monte)",
+      "postal_code": [
+        "34596"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Santa Fe de San Fernando",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Santa Maria de los Remedios",
+      "postal_code": [
+        "34590"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Sierrita del Cerro Solo",
+      "postal_code": [
+        "34575"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Tachichinque",
+      "postal_code": [
+        "34584"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Tacuitapa",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Tamazula de Victoria",
+      "postal_code": [
+        "34580"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Tapichahua",
+      "postal_code": [
+        "34587"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Todos Santos",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Topiba",
+      "postal_code": [
+        "34583"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Vallecillos",
+      "postal_code": [
+        "34570"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Vetillas",
+      "postal_code": [
+        "34595"
+      ]
+    },
+    {
+      "city": "Tamazula",
+      "colonia": "Zapotillo",
+      "postal_code": [
+        "34575"
+      ]
+    }
+  ]
+}

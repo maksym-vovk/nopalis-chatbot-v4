@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Martin Toxpalan",
+      "colonia": "Capultitla",
+      "postal_code": [
+        "68548"
+      ]
+    },
+    {
+      "city": "San Martin Toxpalan",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "68548"
+      ]
+    },
+    {
+      "city": "San Martin Toxpalan",
+      "colonia": "San Martin Toxpalan",
+      "postal_code": [
+        "68547"
+      ]
+    }
+  ]
+}

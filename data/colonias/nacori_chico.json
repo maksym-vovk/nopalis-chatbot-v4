@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Nacori Chico",
+      "colonia": "Buena Vista",
+      "postal_code": [
+        "84446"
+      ]
+    },
+    {
+      "city": "Nacori Chico",
+      "colonia": "El Sauz",
+      "postal_code": [
+        "84445"
+      ]
+    },
+    {
+      "city": "Nacori Chico",
+      "colonia": "La Cueva",
+      "postal_code": [
+        "84459"
+      ]
+    },
+    {
+      "city": "Nacori Chico",
+      "colonia": "La Mesa Tres Rios",
+      "postal_code": [
+        "84450"
+      ]
+    },
+    {
+      "city": "Nacori Chico",
+      "colonia": "Nacori Chico",
+      "postal_code": [
+        "84440"
+      ]
+    },
+    {
+      "city": "Nacori Chico",
+      "colonia": "Tecoriname",
+      "postal_code": [
+        "84447"
+      ]
+    }
+  ]
+}

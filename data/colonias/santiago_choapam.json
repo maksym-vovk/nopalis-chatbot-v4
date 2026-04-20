@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Santiago Choapam",
+      "colonia": "5 de Mayo",
+      "postal_code": [
+        "68900"
+      ]
+    },
+    {
+      "city": "Santiago Choapam",
+      "colonia": "La Ermita o Maninaltepec",
+      "postal_code": [
+        "68904"
+      ]
+    },
+    {
+      "city": "Santiago Choapam",
+      "colonia": "San Jacinto Yaveloxi",
+      "postal_code": [
+        "68903"
+      ]
+    },
+    {
+      "city": "Santiago Choapam",
+      "colonia": "Santiago Choapam",
+      "postal_code": [
+        "68900"
+      ]
+    },
+    {
+      "city": "Santiago Choapam",
+      "colonia": "Santo Domingo Latani",
+      "postal_code": [
+        "68901"
+      ]
+    }
+  ]
+}

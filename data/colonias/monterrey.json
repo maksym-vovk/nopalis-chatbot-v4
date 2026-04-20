@@ -1,0 +1,5602 @@
+{
+  "data": [
+    {
+      "city": "Monterrey",
+      "colonia": "10 de Junio",
+      "postal_code": [
+        "64268"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "10 de Marzo",
+      "postal_code": [
+        "64488"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "13 de Junio",
+      "postal_code": [
+        "64780"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "15 de Marzo",
+      "postal_code": [
+        "64160"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "15 de Mayo (Larralde)",
+      "postal_code": [
+        "64450"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "15 de Septiembre",
+      "postal_code": [
+        "64760"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "16 de Septiembre",
+      "postal_code": [
+        "64160"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "18 de Febrero",
+      "postal_code": [
+        "64234"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "18 de Marzo",
+      "postal_code": [
+        "64780"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "19 de Abril",
+      "postal_code": [
+        "64229"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "1 de Mayo (F-97)",
+      "postal_code": [
+        "64220"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "21 de Marzo 2 Sector",
+      "postal_code": [
+        "64240"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "23 de Marzo",
+      "postal_code": [
+        "64215"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "25 de Marzo (Sierra Ventana)",
+      "postal_code": [
+        "64783"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "2 de Octubre",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "3 de Febrero",
+      "postal_code": [
+        "64109"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "4 de Diciembre",
+      "postal_code": [
+        "64268"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "5 de Mayo",
+      "postal_code": [
+        "64186"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "5 de Mayo (F-93)",
+      "postal_code": [
+        "64225"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "7 de Noviembre (F-82)",
+      "postal_code": [
+        "64210"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Abelardo Zapata",
+      "postal_code": [
+        "64168"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Acero",
+      "postal_code": [
+        "64580"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Agricola",
+      "postal_code": [
+        "64590"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Agricola Acero",
+      "postal_code": [
+        "64590"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Aires del Vergel",
+      "postal_code": [
+        "64985"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "AKRA",
+      "postal_code": [
+        "64299"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "alamos Corregidora",
+      "postal_code": [
+        "64590"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Alfareros",
+      "postal_code": [
+        "64753"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Alfonso Reyes",
+      "postal_code": [
+        "64730"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Alfonso Reyes (P-38)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Almaguer",
+      "postal_code": [
+        "64568"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Almendros de Laderas",
+      "postal_code": [
+        "64985"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Altamira",
+      "postal_code": [
+        "64750"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Altamira (Manz 20)",
+      "postal_code": [
+        "64750"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Altavista",
+      "postal_code": [
+        "64840"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Altavista Invernadero",
+      "postal_code": [
+        "64770"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Altavista Sector Lomas",
+      "postal_code": [
+        "64770"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Altavista Sur",
+      "postal_code": [
+        "64740"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Alvaro Obregon",
+      "postal_code": [
+        "64150"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "America Numero Dos",
+      "postal_code": [
+        "64730"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Ampliacion los Nogales",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Ampliacion Nogales (P-87)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Ancira",
+      "postal_code": [
+        "64720"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Ancon del Huajuco",
+      "postal_code": [
+        "64820"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Aniceto Corpus",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Antara",
+      "postal_code": [
+        "64983"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Antigua",
+      "postal_code": [
+        "64765"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Antigua Hacienda Santa Anita",
+      "postal_code": [
+        "64990"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Antonio I Villarreal",
+      "postal_code": [
+        "64390"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Arboledas de Escobedo (P-44)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Arboledas de San Bernabe",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Arcos del Sol",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Arcos del Sol Elite",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Argentina",
+      "postal_code": [
+        "64550"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Arroyo Seco",
+      "postal_code": [
+        "64740"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Articulo 27 (F-96)",
+      "postal_code": [
+        "64210"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Arturo B de la Garza",
+      "postal_code": [
+        "64730"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Asarco",
+      "postal_code": [
+        "64550"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "aurea Residencial",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "avila Camacho",
+      "postal_code": [
+        "64265"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Balcones de Altavista",
+      "postal_code": [
+        "64770"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Balcones de Aztlan",
+      "postal_code": [
+        "64215"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Balcones de Colinas de San Jeronimo",
+      "postal_code": [
+        "64638"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Balcones de Galerias",
+      "postal_code": [
+        "64623"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Balcones de las Mitras",
+      "postal_code": [
+        "64117"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Balcones del Carmen",
+      "postal_code": [
+        "64710"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Balcones del Mirador",
+      "postal_code": [
+        "64790"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Balcones de Mederos",
+      "postal_code": [
+        "64979"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Balcones de San Bernabe",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Balcones de Satelite",
+      "postal_code": [
+        "64858"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Balcones de Valle Alto",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Barrio Acero",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Barrio Alameda",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Barrio Antiguo",
+      "postal_code": [
+        "64100"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Barrio Aztlan",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Barrio Chapultepec Norte",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Barrio Chapultepec Sur",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Barrio de la Industria",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Barrio del Parque",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Barrio del Prado",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Barrio Estrella Norte y Sur",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Barrio Margaritas",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Barrio Moderna",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Barrio Puerta del Sol",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Barrio San Carlos",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Barrio San Luis",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Barrio San Pedro",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Barrio Santa Isabel",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Barrio Topo Chico",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Belisario Dominguez",
+      "postal_code": [
+        "64266"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Bella Vista",
+      "postal_code": [
+        "64410"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "64420"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Benito Juarez (F-96)",
+      "postal_code": [
+        "64720"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Benito Juarez (Tiraderos de Basura)",
+      "postal_code": [
+        "64218"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Bernardo Reyes",
+      "postal_code": [
+        "64280"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Bioma Residencial",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Bortoni",
+      "postal_code": [
+        "64178"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Bosquencinos",
+      "postal_code": [
+        "64979"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Bosques de la Estanzuela",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Bosques de las Cumbres",
+      "postal_code": [
+        "64619"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Bosques de la Silla",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Bosques del Vergel",
+      "postal_code": [
+        "64987"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Bosques de Satelite",
+      "postal_code": [
+        "64970"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Bosques de Valle Alto",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Brisas de Valle Alto",
+      "postal_code": [
+        "64984"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Brisas Diamante",
+      "postal_code": [
+        "64780"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "64800",
+        "64800"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Burocratas del Estado",
+      "postal_code": [
+        "64380"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Burocratas Federales",
+      "postal_code": [
+        "64380"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Burocratas Municipales",
+      "postal_code": [
+        "64769"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Campestre Bugambilias",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Campestre el Barrio",
+      "postal_code": [
+        "64997"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Campestre los Cristales",
+      "postal_code": [
+        "64990"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Campestre Mederos",
+      "postal_code": [
+        "64970"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Campestre Sertoma",
+      "postal_code": [
+        "64990"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Canadas del Sur",
+      "postal_code": [
+        "64979"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Candido Diaz",
+      "postal_code": [
+        "64265"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cantabria Residencial",
+      "postal_code": [
+        "64985"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cantera",
+      "postal_code": [
+        "64638"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Canterel",
+      "postal_code": [
+        "64990"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Canterias Norte",
+      "postal_code": [
+        "64984"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cantu",
+      "postal_code": [
+        "64550"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Caracol",
+      "postal_code": [
+        "64810"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Carmen Serdan",
+      "postal_code": [
+        "64258"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Carolco",
+      "postal_code": [
+        "64996"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Catujanes",
+      "postal_code": [
+        "64987"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cementos",
+      "postal_code": [
+        "64520"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Central",
+      "postal_code": [
+        "64190"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Centrika Crisoles",
+      "postal_code": [
+        "64520"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Centrika del Lago",
+      "postal_code": [
+        "64520"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Centrika Victoria",
+      "postal_code": [
+        "64520"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Centrika Victoria Elite",
+      "postal_code": [
+        "64520"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Centro",
+      "postal_code": [
+        "64720"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cerezos Residencial",
+      "postal_code": [
+        "64985"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cerradas de Cumbres",
+      "postal_code": [
+        "64349"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cerradas del Poniente",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cerradas de Valle Alto Residencial",
+      "postal_code": [
+        "64984"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cerritos Modelo (F-76)",
+      "postal_code": [
+        "64159"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cerro de la Campana",
+      "postal_code": [
+        "64760"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cerro de la Silla",
+      "postal_code": [
+        "64810"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Chepevera",
+      "postal_code": [
+        "64030"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Churubusco",
+      "postal_code": [
+        "64590"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cima de la Montana",
+      "postal_code": [
+        "64349"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cima de las Cumbres",
+      "postal_code": [
+        "64366"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cima del Bosque",
+      "postal_code": [
+        "64346"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Ciudad Satelite",
+      "postal_code": [
+        "64960"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "CNOP",
+      "postal_code": [
+        "64245"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Colina de San Bernabe (F-25)",
+      "postal_code": [
+        "64107"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Colinas de las Cumbres",
+      "postal_code": [
+        "64619"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Colinas del Huajuco",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Colinas de Liverpool",
+      "postal_code": [
+        "64634"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Colinas del Sur",
+      "postal_code": [
+        "64968"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Colinas del Valle",
+      "postal_code": [
+        "64650"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Colinas de San Gerardo",
+      "postal_code": [
+        "64638"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Colinas de San Jeronimo",
+      "postal_code": [
+        "64630",
+        "64634"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Colinas de San Jeronimo Sector Lomas",
+      "postal_code": [
+        "64636"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Colinas de San Jeronimo Sector Panorama 2 Sector",
+      "postal_code": [
+        "64637"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Colinas de Valle Verde",
+      "postal_code": [
+        "64117"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Colinas Diamante",
+      "postal_code": [
+        "64635"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Colonial Cumbres",
+      "postal_code": [
+        "64349"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Colonial la Silla",
+      "postal_code": [
+        "64860"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Colonial San Francisco",
+      "postal_code": [
+        "64634"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Colonial San Jeronimo",
+      "postal_code": [
+        "64634"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Comercial Ampliacion Doctores",
+      "postal_code": [
+        "64710"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Comercial Lincoln Poniente",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Condocasa Mitras",
+      "postal_code": [
+        "64170"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Condocasas Cumbres",
+      "postal_code": [
+        "64366"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Condominios Constitucion",
+      "postal_code": [
+        "64019"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Conquistadores",
+      "postal_code": [
+        "64209"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Constituyentes del 57",
+      "postal_code": [
+        "64260"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Contry",
+      "postal_code": [
+        "64860"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Contry los Estanques",
+      "postal_code": [
+        "64860"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Contry los Naranjos",
+      "postal_code": [
+        "64858"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Contry los Nogales",
+      "postal_code": [
+        "64865"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Contry Lux",
+      "postal_code": [
+        "64845"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Contry San Juanito",
+      "postal_code": [
+        "64859"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Contry Sur",
+      "postal_code": [
+        "64969"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Contry Tesoro",
+      "postal_code": [
+        "64850"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cooperativa Cuauhtemoc",
+      "postal_code": [
+        "64650"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cortijo del Rio",
+      "postal_code": [
+        "64890"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cortijo del Rio Sector la Silla",
+      "postal_code": [
+        "64899"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cortijo del Rio Tercer y Cuarto Sector",
+      "postal_code": [
+        "64890"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Coyoacan",
+      "postal_code": [
+        "64510"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "CROC",
+      "postal_code": [
+        "64200"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbre Allegro",
+      "postal_code": [
+        "64345"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbre Alta",
+      "postal_code": [
+        "64116"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Antares",
+      "postal_code": [
+        "64349"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Callejuelas",
+      "postal_code": [
+        "64349"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Campanario",
+      "postal_code": [
+        "64360"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbrescondido",
+      "postal_code": [
+        "64366"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres del Sol",
+      "postal_code": [
+        "64349"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres del Valle",
+      "postal_code": [
+        "64650"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Elite",
+      "postal_code": [
+        "64349"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Elite Premier Privadas Alpes y Everest",
+      "postal_code": [
+        "64345"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Elite Premier Privada Santa Helena",
+      "postal_code": [
+        "64345"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Elite Sector la Hacienda",
+      "postal_code": [
+        "64340"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Elite Sector Villas",
+      "postal_code": [
+        "64340"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Gran Via",
+      "postal_code": [
+        "64349"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Jade",
+      "postal_code": [
+        "64346"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres las Palmas",
+      "postal_code": [
+        "64349"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Le Fontaine",
+      "postal_code": [
+        "64340"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Madeira",
+      "postal_code": [
+        "64349"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Madeira Frances",
+      "postal_code": [
+        "64349"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Mediterraneo",
+      "postal_code": [
+        "64619"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Oro Residencial",
+      "postal_code": [
+        "64347"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Oro Sector Regency",
+      "postal_code": [
+        "64347"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Paraiso",
+      "postal_code": [
+        "64619"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Platino",
+      "postal_code": [
+        "64346"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Platinum",
+      "postal_code": [
+        "64349"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Providencia",
+      "postal_code": [
+        "64346"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Quinta Real",
+      "postal_code": [
+        "64347"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Renacimiento",
+      "postal_code": [
+        "64346"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Rodeo",
+      "postal_code": [
+        "64346"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres San Agustin",
+      "postal_code": [
+        "64349"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres San angel",
+      "postal_code": [
+        "64346"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Santa Clara",
+      "postal_code": [
+        "64349"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Cumbres Sector la Esperanza",
+      "postal_code": [
+        "64367"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Del Carmen",
+      "postal_code": [
+        "64710"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Del Maestro",
+      "postal_code": [
+        "64180"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Del Norte",
+      "postal_code": [
+        "64500"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Del Paseo Residencial",
+      "postal_code": [
+        "64920"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Del Prado",
+      "postal_code": [
+        "64410"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Deportivo Obispado",
+      "postal_code": [
+        "64040"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Desarrollo las Torres 91",
+      "postal_code": [
+        "64760"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Desarrollo Urbano Reforma",
+      "postal_code": [
+        "64018"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Diego de Montemayor",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Dif (F-15)",
+      "postal_code": [
+        "64210"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Division del Norte",
+      "postal_code": [
+        "64268"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "ebanos",
+      "postal_code": [
+        "64983"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Eduardo A Elizondo",
+      "postal_code": [
+        "64940"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "El Barro",
+      "postal_code": [
+        "64997"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "El Eden",
+      "postal_code": [
+        "64996"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "El Encanto",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "El Encanto II",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "El Encino",
+      "postal_code": [
+        "64979",
+        "64987"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "El Fortin del Huajuco",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "El Maguey",
+      "postal_code": [
+        "64710"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "El Milagro",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "64990"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "El Pinito",
+      "postal_code": [
+        "64980"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "El Pirul",
+      "postal_code": [
+        "64860"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "El Porton de Valle Alto",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "64206"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "El Realito",
+      "postal_code": [
+        "64820"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "64983"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "El Sabino Cerrada Residencial",
+      "postal_code": [
+        "64984"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "El Uro",
+      "postal_code": [
+        "64986"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "El Uro Oriente",
+      "postal_code": [
+        "64985"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "El Vergel",
+      "postal_code": [
+        "64987"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Empleados SFEO",
+      "postal_code": [
+        "64909"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Encino Real",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Encinos del Vergel",
+      "postal_code": [
+        "64987"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Espacio Cumbres",
+      "postal_code": [
+        "64349"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Espana",
+      "postal_code": [
+        "64810"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Esperanza o Pena Elizondo",
+      "postal_code": [
+        "64160"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Estadio",
+      "postal_code": [
+        "64830"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Estanza",
+      "postal_code": [
+        "64890"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Estanzuela Nueva",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Estrella",
+      "postal_code": [
+        "64400"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Ex Hacienda el Ancon",
+      "postal_code": [
+        "64820"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Exseminario",
+      "postal_code": [
+        "64049"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Fabriles",
+      "postal_code": [
+        "64550"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Felipe angeles",
+      "postal_code": [
+        "64170"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Felipe Zambrano",
+      "postal_code": [
+        "64219"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Ferrocarrilera",
+      "postal_code": [
+        "64250"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Ferrocarrilero (Predio 21)",
+      "postal_code": [
+        "64440"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Fidel Velazquez (SNAT)",
+      "postal_code": [
+        "64119"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Fierro",
+      "postal_code": [
+        "64590"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Flor de Piedra",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Flores Magon 3 Sector",
+      "postal_code": [
+        "64250"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Fomerrey",
+      "postal_code": [
+        "64210"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Fomerrey Sector Poniente",
+      "postal_code": [
+        "64237"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Fontanares Churubusco Sur",
+      "postal_code": [
+        "64540"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Francisco Garcia Naranjo (INDECO)",
+      "postal_code": [
+        "64330"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Francisco Garcia Naranjo (PROVILEON)",
+      "postal_code": [
+        "64330"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Francisco Gonzalez Bocanegra",
+      "postal_code": [
+        "64240"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Francisco I Madero",
+      "postal_code": [
+        "64560"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "64228"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Fray Servando Teresa de Mier (F-6)",
+      "postal_code": [
+        "64233"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Garza Nieto",
+      "postal_code": [
+        "64420"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Genaro Rojas Vazquez",
+      "postal_code": [
+        "64148"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Gloria Mendiola (Tierra Propia)",
+      "postal_code": [
+        "64219"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Gonzalitos",
+      "postal_code": [
+        "64020"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Granadas",
+      "postal_code": [
+        "64985"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Granja Postal",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Gran Reserva Cumbres",
+      "postal_code": [
+        "64349"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Hacienda Codornices",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Hacienda los Encinos",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Hacienda Mitras",
+      "postal_code": [
+        "64340"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Hacienda San Francisco",
+      "postal_code": [
+        "64710"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Hacienda San Jeronimo",
+      "postal_code": [
+        "64637"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Hacienda Santa Clara",
+      "postal_code": [
+        "64346"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Haciendas de la Sierra",
+      "postal_code": [
+        "64750"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Heriberto Jara",
+      "postal_code": [
+        "64730"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Heroe de Nacozari",
+      "postal_code": [
+        "64260"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "64290"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Hogares Ferrocarrileros",
+      "postal_code": [
+        "64260"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Homero Lopez Ortiz",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Ignacio Altamirano",
+      "postal_code": [
+        "64984"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Ignacio Manuel Altamirano",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Independencia",
+      "postal_code": [
+        "64720",
+        "64720"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Industrial",
+      "postal_code": [
+        "64299",
+        "64440"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Industrial Abraham Lincoln",
+      "postal_code": [
+        "64310"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Industrial Benito Juarez",
+      "postal_code": [
+        "64517"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Industrial y Comercial",
+      "postal_code": [
+        "64836"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Industrias del Vidrio",
+      "postal_code": [
+        "64549"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "INFONAVIT Hogares Ferrocarrileros",
+      "postal_code": [
+        "64260"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Ingeniero Jose Maria Maldonado Tijerina",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Instituto Tecnologico de Estudios Superiores de Monterrey",
+      "postal_code": [
+        "64849"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Jardin",
+      "postal_code": [
+        "64050"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Jardin de las Mitras",
+      "postal_code": [
+        "64300"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Jardin de las Torres",
+      "postal_code": [
+        "64754"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Jardines de Altavista",
+      "postal_code": [
+        "64846"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Jardines de Churubusco",
+      "postal_code": [
+        "64550"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Jardines de la Alianza",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Jardines de la Estanzuela",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Jardines de la Moderna",
+      "postal_code": [
+        "64536"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Jardines de las Cumbres",
+      "postal_code": [
+        "64347"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Jardines del Cerro",
+      "postal_code": [
+        "64050"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Jardines del Contry",
+      "postal_code": [
+        "64860"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Jardines del Paseo",
+      "postal_code": [
+        "64900"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Jardines del Rey",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Jardines de San Jeronimo",
+      "postal_code": [
+        "64632"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Jardin Espanol",
+      "postal_code": [
+        "64820"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Jardines Roma",
+      "postal_code": [
+        "64740"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Jardin Modelo",
+      "postal_code": [
+        "64160"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Jeronimo Trevino (P-35)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Josefa Ortiz de Dominguez",
+      "postal_code": [
+        "64250"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Jose Maria Morelos",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Juana de Arco",
+      "postal_code": [
+        "64510"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Kennedy",
+      "postal_code": [
+        "64260"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Alhambra",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Alianza P-128",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Alianza Sector B",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Alianza Sector C",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Alianza Sector D (P-94)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Alianza Sector F (P-142)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Alianza Sector L (P-107)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Alianza Sector M (P-61)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Alianza Sector O (P-67)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Alianza Sector P (P-88)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Alianza Sector Q (P-90)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Alianza Sector R (P-8-9)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Alianza Sector S (P-28)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Alianza Sector T (P-24)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Alianza Sector V (P-68)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Alianza Trazo Barron (P- 93)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Alianza Trazo de A (P-28)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Alianza Trazo Mao (P- 46)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Alianza Trazo Marcelino (P-130)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Alianza Trazo Marco (P- 52)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Alianza Trazo Rosario (P- 90)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Amistad",
+      "postal_code": [
+        "64226"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Condesa",
+      "postal_code": [
+        "64880"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Laderas Abedul",
+      "postal_code": [
+        "64985"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Laderas Caranday",
+      "postal_code": [
+        "64985"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Laderas del Mirador (F-XXI)",
+      "postal_code": [
+        "64765"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Laderas del Topo Chico (F-23)",
+      "postal_code": [
+        "64206"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Ladrillera",
+      "postal_code": [
+        "64830"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "64650"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Escondida Centro Urbano",
+      "postal_code": [
+        "64367"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "64367"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Esperanza (Tierra Propia)",
+      "postal_code": [
+        "64237"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Estanzuela",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Estanzuela (F-45)",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Estanzuela Vieja",
+      "postal_code": [
+        "64984"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Finca",
+      "postal_code": [
+        "64000"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Florida",
+      "postal_code": [
+        "64810"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Lagos del Bosque",
+      "postal_code": [
+        "64890"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Lagos del Vergel",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Lagrima de los Ninos",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Joya Privada Residencial",
+      "postal_code": [
+        "64985"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Meseta",
+      "postal_code": [
+        "64264"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "L Andana Residencial",
+      "postal_code": [
+        "64986"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Pedrera",
+      "postal_code": [
+        "64730"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Perla",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Primavera",
+      "postal_code": [
+        "64830"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Realidad",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Republica",
+      "postal_code": [
+        "64900"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Rioja Privada Residencial",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Las Brisas",
+      "postal_code": [
+        "64780"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Las Brisas Sector la Punta",
+      "postal_code": [
+        "64780"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Las Callejas Residencial",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Las Canteras",
+      "postal_code": [
+        "64750"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Las Cumbres",
+      "postal_code": [
+        "64610"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Las Diligencias",
+      "postal_code": [
+        "64987"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Las Estaciones",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Las Estancias",
+      "postal_code": [
+        "64983"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "64530"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Las Jacarandas Privada Residencial",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Las Jaras",
+      "postal_code": [
+        "64990"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Las Lajas",
+      "postal_code": [
+        "64638"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "64990"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Las Pedreras",
+      "postal_code": [
+        "64235"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Las Plazas",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Las Privanzas Mallorca",
+      "postal_code": [
+        "64753"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Las Retamas",
+      "postal_code": [
+        "64740"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Las Riveras",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Las Torres",
+      "postal_code": [
+        "64103",
+        "64930"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Toscana",
+      "postal_code": [
+        "64983"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "La Vereda Privada Residencial",
+      "postal_code": [
+        "64634"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "64269"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Leones",
+      "postal_code": [
+        "64600"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Libertadores de America",
+      "postal_code": [
+        "64215"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Llave de Oro",
+      "postal_code": [
+        "64618"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "64250"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Loma Larga",
+      "postal_code": [
+        "64710",
+        "64715"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "64120"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Lomas",
+      "postal_code": [
+        "64030"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Lomas de Anahuac",
+      "postal_code": [
+        "64260"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Lomas de Cumbres",
+      "postal_code": [
+        "64116"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Lomas de La Unidad Modelo",
+      "postal_code": [
+        "64167"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Lomas del Hipico",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Lomas del Paseo",
+      "postal_code": [
+        "64925"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Lomas del Vergel",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Lomas de Montecristo",
+      "postal_code": [
+        "64909"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Lomas de San Francisco",
+      "postal_code": [
+        "64710"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Lomas de San Jeronimo",
+      "postal_code": [
+        "64634"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Lomas de San Martin",
+      "postal_code": [
+        "64220"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Lomas de Santa Cecilia",
+      "postal_code": [
+        "64158"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Lomas de Satelite",
+      "postal_code": [
+        "64969"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Lomas de Topo Chico",
+      "postal_code": [
+        "64205"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Lomas de Valle Alto",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Lomas de Villa Alegre",
+      "postal_code": [
+        "64130"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Lomas Mederos",
+      "postal_code": [
+        "64978"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Lomas Modelo",
+      "postal_code": [
+        "64140"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Lomas Modelo Norte",
+      "postal_code": [
+        "64159"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Lorenzo Garza (P-1)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Los Altos",
+      "postal_code": [
+        "64370"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Los angeles Bosque Residencial",
+      "postal_code": [
+        "64753"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Los Azulejos",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Los Cedros",
+      "postal_code": [
+        "64370"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Los Cristales",
+      "postal_code": [
+        "64985"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Los Cristales Campestre",
+      "postal_code": [
+        "64990"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Los Doctores",
+      "postal_code": [
+        "64710"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Los Dorados",
+      "postal_code": [
+        "64240"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "64540"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Los Magueyes",
+      "postal_code": [
+        "64715"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Los Milagros de Valle Alto",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Los Nogales III (P-102)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Los Remates",
+      "postal_code": [
+        "64878"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Los Rosales",
+      "postal_code": [
+        "64764"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Los Santos",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "LTH",
+      "postal_code": [
+        "64830"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Luis Echeverria (F-75)",
+      "postal_code": [
+        "64260"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Luis Echeverria Sur",
+      "postal_code": [
+        "64750"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Madero",
+      "postal_code": [
+        "64103",
+        "64248"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Madero Norte",
+      "postal_code": [
+        "64530"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Madre Selva",
+      "postal_code": [
+        "64110"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Maestranzas Villas de Providencia",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Manantiales del Diente",
+      "postal_code": [
+        "64980"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Maria Leija Briones",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Maria Luisa",
+      "postal_code": [
+        "64040"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Mariano Escobedo",
+      "postal_code": [
+        "64510"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Martin de Zavala (P-34)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Martinez",
+      "postal_code": [
+        "64550"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Martinez Dominguez A Union (La Campana)",
+      "postal_code": [
+        "64760"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Martires de San Cosme",
+      "postal_code": [
+        "64240"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Martires de Tlatelolco",
+      "postal_code": [
+        "64780"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Mas Palomas (Valle de Santiago)",
+      "postal_code": [
+        "64780"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Mederos",
+      "postal_code": [
+        "64950"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Mexico",
+      "postal_code": [
+        "64740"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Mirador",
+      "postal_code": [
+        "64070"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Mirador de las Mitras",
+      "postal_code": [
+        "64348"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Mirador Residencial",
+      "postal_code": [
+        "64910"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Mirasol",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Mirasol Sector 3 (San Felipe)",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Miravalle",
+      "postal_code": [
+        "64660"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Mision Canterias",
+      "postal_code": [
+        "64984"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Mision Cumbres 2 Sector",
+      "postal_code": [
+        "64347"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Mision de las Cumbres",
+      "postal_code": [
+        "64348"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Mision de San Jeronimo",
+      "postal_code": [
+        "64636"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Mision Lincoln",
+      "postal_code": [
+        "64110"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Mision San Bernabe",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Mision Silla",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Mitica Residencial",
+      "postal_code": [
+        "64997"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Mitra Dorada",
+      "postal_code": [
+        "64159"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Mitras Centro",
+      "postal_code": [
+        "64460"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Mitras Norte",
+      "postal_code": [
+        "64320"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Mitras Sur",
+      "postal_code": [
+        "64020"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Moctezuma",
+      "postal_code": [
+        "64240"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Modelo",
+      "postal_code": [
+        "64580"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Moderna",
+      "postal_code": [
+        "64530"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Montealban Residencial",
+      "postal_code": [
+        "64986"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Monteleon",
+      "postal_code": [
+        "64639"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Monterrey Centro",
+      "postal_code": [
+        "64000"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Monterrey Conjunto Habitacional",
+      "postal_code": [
+        "64260"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Morelos",
+      "postal_code": [
+        "64180"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Moretta",
+      "postal_code": [
+        "64997"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Municipal Ampliacion",
+      "postal_code": [
+        "64218"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Municipal (Popular Municipal)",
+      "postal_code": [
+        "64217"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Narciso Mendoza",
+      "postal_code": [
+        "64280"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Narvarte",
+      "postal_code": [
+        "64830"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Natura",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Nerea Residencial",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Nino Artillero",
+      "postal_code": [
+        "64280"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Nogales de la Sierra",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Nogales Topo Chico",
+      "postal_code": [
+        "64260"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Nueva Espana",
+      "postal_code": [
+        "64840"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Nueva Espanola",
+      "postal_code": [
+        "64820"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Nueva Galicia",
+      "postal_code": [
+        "64160"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Nueva Madero",
+      "postal_code": [
+        "64560"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Nueva Modelo (F-8)",
+      "postal_code": [
+        "64160"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Nueva Morelos",
+      "postal_code": [
+        "64180"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Nuevas Colonias",
+      "postal_code": [
+        "64710"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Nueva Topo Chico",
+      "postal_code": [
+        "64266"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Nuevo Centro de Monterrey",
+      "postal_code": [
+        "64018"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Nuevo Repueblo",
+      "postal_code": [
+        "64700"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Obispado",
+      "postal_code": [
+        "64060"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Obrera",
+      "postal_code": [
+        "64010"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Obrerista",
+      "postal_code": [
+        "64470"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Oscar Herrera Hosking",
+      "postal_code": [
+        "64229"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Pablo A de la Garza",
+      "postal_code": [
+        "64580"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Pablo Gonzalez",
+      "postal_code": [
+        "64250"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Palmares Residencial",
+      "postal_code": [
+        "64983"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Paraiso Residencial",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Parque Industrial Regiomontano",
+      "postal_code": [
+        "64540"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Paseo de Cumbres",
+      "postal_code": [
+        "64346"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Paseo de las Mitras",
+      "postal_code": [
+        "64118"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Paseo del Contry",
+      "postal_code": [
+        "64860"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Paseo del Vergel",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Paseo de San Bernabe",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Paseos del Marquez",
+      "postal_code": [
+        "64798"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Paso del aguila",
+      "postal_code": [
+        "64145"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Patronato Cruz Verde",
+      "postal_code": [
+        "64365"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Pedregal Cumbres",
+      "postal_code": [
+        "64344"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Pedregal de la Montana",
+      "postal_code": [
+        "64985"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Pedregal de la Silla",
+      "postal_code": [
+        "64898"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Pedregal de Valle Alto",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Pedro Lozano",
+      "postal_code": [
+        "64420"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Periodistas",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Periodistas de Mexico Primera Etapa",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Pio X",
+      "postal_code": [
+        "64710"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Plan de San Luis",
+      "postal_code": [
+        "64247"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Plaza Chapultepec",
+      "postal_code": [
+        "64820"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Plaza Insurgentes",
+      "postal_code": [
+        "64270"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Plaza Revolucion",
+      "postal_code": [
+        "64810"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Plaza Rincon de la Sierra Alta",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Plaza Rincon de la Virgen",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Plutarco Elias Calles",
+      "postal_code": [
+        "64108"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Popular",
+      "postal_code": [
+        "64217",
+        "64290"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Portal de Cumbres",
+      "postal_code": [
+        "64348"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Portal del Huajuco",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Portal del Valle",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Portal de Valle Alto",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Portales de San Bernabe",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Prados de la Silla",
+      "postal_code": [
+        "64898"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Prados de San Jeronimo",
+      "postal_code": [
+        "64634"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Prados San Bernabe",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Predio Estrella",
+      "postal_code": [
+        "64299"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Predio Zapata",
+      "postal_code": [
+        "64238"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Premier Lincoln",
+      "postal_code": [
+        "64310"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Primero de Junio",
+      "postal_code": [
+        "64268"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Privada Castana",
+      "postal_code": [
+        "64890"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Privada Cumbres",
+      "postal_code": [
+        "64180"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Privada del Vergel",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Privada Fundadores",
+      "postal_code": [
+        "64926"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Privada la Herradura",
+      "postal_code": [
+        "64987"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Privada los Encinos",
+      "postal_code": [
+        "64984"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Privada Pinos",
+      "postal_code": [
+        "64550"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Privada Residencial Villas del Uro",
+      "postal_code": [
+        "64986"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Privadas Cumbres Diamante",
+      "postal_code": [
+        "64346"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Privadas Cumbres Elite",
+      "postal_code": [
+        "64349"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Privadas de Cumbres",
+      "postal_code": [
+        "64340"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Privadas de la Fuente Residencial",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Privadas de la Silla",
+      "postal_code": [
+        "64890"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Privadas de Lincoln",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Privadas del Paseo",
+      "postal_code": [
+        "64925"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Privadas del Pedregal",
+      "postal_code": [
+        "64893"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Privadas del Rio",
+      "postal_code": [
+        "64898"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Privadas del Sur",
+      "postal_code": [
+        "64890"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Privada Valle Alto",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Privada Villa Alta Residencial",
+      "postal_code": [
+        "64978"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Privada Villa Real",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Privanzas Quinto Sector",
+      "postal_code": [
+        "64753"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Profesor Miguel Ramos Arizpe",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Progreso",
+      "postal_code": [
+        "64420"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "PROVILEON San Bernabe",
+      "postal_code": [
+        "64217"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Pueblo Quieto",
+      "postal_code": [
+        "64280"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Puerta de Hierro",
+      "postal_code": [
+        "64349"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Rafael Buelna",
+      "postal_code": [
+        "64240"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Rancho la Bola",
+      "postal_code": [
+        "64986"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Real de Cumbres",
+      "postal_code": [
+        "64346"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Real de San Bernabe",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Real de San Jeronimo",
+      "postal_code": [
+        "64634"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Real de Valle Alto",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Reforma",
+      "postal_code": [
+        "64550"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Regina",
+      "postal_code": [
+        "64290"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Renacimiento",
+      "postal_code": [
+        "64925"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Rene alvarez",
+      "postal_code": [
+        "64215"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Reserva Cumbres",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Residencial Abraham Lincoln",
+      "postal_code": [
+        "64310"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Residencial Amura",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Residencial Aztlan",
+      "postal_code": [
+        "64250"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Residencial Canterias",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Residencial Cumbres",
+      "postal_code": [
+        "64619"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Residencial Cumbres la Joya",
+      "postal_code": [
+        "64349"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Residencial de la Sierra",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Residencial Dinastia",
+      "postal_code": [
+        "64639"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Residencial Galerias",
+      "postal_code": [
+        "64649"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Residencial la Escondida",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Residencial la Espanola",
+      "postal_code": [
+        "64820"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Residencial la Florida",
+      "postal_code": [
+        "64810"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Residencial la Hacienda",
+      "postal_code": [
+        "64890"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Residencial la Lagrima",
+      "postal_code": [
+        "64984"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Residencial las Colinas",
+      "postal_code": [
+        "64639"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Residencial Mederos",
+      "postal_code": [
+        "64979"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Residencial Raul Rangel Frias",
+      "postal_code": [
+        "64165"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Residencial San Jeronimo II",
+      "postal_code": [
+        "64635"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Residencial Vidriera",
+      "postal_code": [
+        "64508"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Residencial Vistalta",
+      "postal_code": [
+        "64898"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Residencial y Club de Golf la Herradura",
+      "postal_code": [
+        "64890"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Rincon Colonial Mederos",
+      "postal_code": [
+        "64970"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Rincon de Altavista",
+      "postal_code": [
+        "64844"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Rincon de la Escondida",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Rincon de la Primavera",
+      "postal_code": [
+        "64834"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Rincon de las Colinas",
+      "postal_code": [
+        "64633"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Rincon de las Cumbres",
+      "postal_code": [
+        "64368"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Rincon de la Sierra",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Rincon de las Montanas",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Rincon del Contry",
+      "postal_code": [
+        "64860"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Rincon de los Ahuehuetes",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Rincon de los Encinos",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Rincon del Paseo Segundo Sector",
+      "postal_code": [
+        "64900"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Rincon del Valle",
+      "postal_code": [
+        "64660"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Rincon del Vergel",
+      "postal_code": [
+        "64983"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Rincon de San Bernabe",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Rincon de San Jemo",
+      "postal_code": [
+        "64637"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Rincon de San Jeronimo",
+      "postal_code": [
+        "64637"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Rincon de Santa Maria",
+      "postal_code": [
+        "64650"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Rincon de Valle Alto",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Rincon Santa Cecilia",
+      "postal_code": [
+        "64157"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Riveras del Rio",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Roma",
+      "postal_code": [
+        "64700"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Roma Privada",
+      "postal_code": [
+        "64740"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Roma Sur",
+      "postal_code": [
+        "64700"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Ruben Jaramillo",
+      "postal_code": [
+        "64489"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Ruiz Cortines",
+      "postal_code": [
+        "64760"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Salvador Allende",
+      "postal_code": [
+        "64235"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San angel",
+      "postal_code": [
+        "64878"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San angel (F-78)",
+      "postal_code": [
+        "64230"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Antonio (P-37)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Bernabe",
+      "postal_code": [
+        "64100"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Bernabe (F-105)",
+      "postal_code": [
+        "64109"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Bernabe (F-51)",
+      "postal_code": [
+        "64109"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Bernabe II (F-120)",
+      "postal_code": [
+        "64104"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Bernabe III",
+      "postal_code": [
+        "64104"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Bernabe IV (F-124)",
+      "postal_code": [
+        "64104"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Bernabe IX  (F-112)",
+      "postal_code": [
+        "64105"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Bernabe Topo Chico",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Bernabe VIII (F-125)",
+      "postal_code": [
+        "64217"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Bernabe X (F-113)",
+      "postal_code": [
+        "64105"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Bernabe XI (F-114)",
+      "postal_code": [
+        "64105"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Bernabe XII (F-115)",
+      "postal_code": [
+        "64105"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Bernabe XIII (F-116)",
+      "postal_code": [
+        "64106"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Bernabe XIV (F-109)",
+      "postal_code": [
+        "64106"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Bernabe XV (F-119)",
+      "postal_code": [
+        "64106"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Carlos Privada Residencial",
+      "postal_code": [
+        "64979"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San David I (P-33)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Francisco de Asis",
+      "postal_code": [
+        "64170"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Gabriel",
+      "postal_code": [
+        "64103",
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Isidro (P-108)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Jemo",
+      "postal_code": [
+        "64630"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Jemo Tercer Sector",
+      "postal_code": [
+        "64639"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Jeronimo",
+      "postal_code": [
+        "64640"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Jorge",
+      "postal_code": [
+        "64330"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Jose",
+      "postal_code": [
+        "64270"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Juan de Guadalupe",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Martin",
+      "postal_code": [
+        "64210"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Michelle",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "64984"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Santa Ana (P-63)",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "64150"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Santa Cruz (F- 10)",
+      "postal_code": [
+        "64160"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "64540"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Santa Fe Nor Poniente",
+      "postal_code": [
+        "64270"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Santa Isabel",
+      "postal_code": [
+        "64990"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "64983"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "64650"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Santa Sofia",
+      "postal_code": [
+        "64898"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Sarabia",
+      "postal_code": [
+        "64490"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Satelite Acueducto Septimo Sector",
+      "postal_code": [
+        "64979"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Satelite Acueducto Sexto Sector",
+      "postal_code": [
+        "64968"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Satelite Miradores",
+      "postal_code": [
+        "64968"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Sendero San Jeronimo",
+      "postal_code": [
+        "64659"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Sertoma",
+      "postal_code": [
+        "64718"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Sienna Residencial",
+      "postal_code": [
+        "64985"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Sierra Alta",
+      "postal_code": [
+        "64989",
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Sierra Escondida",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Sierra Ventana",
+      "postal_code": [
+        "64780"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Sierra Ventana (Revolucion Proletaria)",
+      "postal_code": [
+        "64788"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Simon Bolivar",
+      "postal_code": [
+        "64270"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Sonoma Residencial",
+      "postal_code": [
+        "64925"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Soria",
+      "postal_code": [
+        "64986"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Talleres",
+      "postal_code": [
+        "64480"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Tampico",
+      "postal_code": [
+        "64550"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Tanque de Guadalupe",
+      "postal_code": [
+        "64730"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Tecnologico",
+      "postal_code": [
+        "64700"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Terminal",
+      "postal_code": [
+        "64580"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Tierra Propia (F-35)",
+      "postal_code": [
+        "64209"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Tierra y Libertad Sector Centro",
+      "postal_code": [
+        "64246"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Tierra y Libertad Sector Heroico",
+      "postal_code": [
+        "64236"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Tierra y Libertad Sector Norte",
+      "postal_code": [
+        "64249"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Tierra y Libertad Sector Sur",
+      "postal_code": [
+        "64244"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Tijerina",
+      "postal_code": [
+        "64460"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Topo Chico",
+      "postal_code": [
+        "64260"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Torremolinos",
+      "postal_code": [
+        "64850"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Torres Brisas",
+      "postal_code": [
+        "64790"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Torres de Satelite",
+      "postal_code": [
+        "64950"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Torres Lincoln",
+      "postal_code": [
+        "64310"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Torres Pravia",
+      "postal_code": [
+        "64180"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Trevino",
+      "postal_code": [
+        "64570"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "UH.Lazaro Cardenas",
+      "postal_code": [
+        "64390"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Unidad Aldama",
+      "postal_code": [
+        "64040"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Unidad del Pueblo",
+      "postal_code": [
+        "64235"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Unidad la Estanzuela",
+      "postal_code": [
+        "64988"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Unidad Modelo",
+      "postal_code": [
+        "64140"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Unidad Reforma Urbana",
+      "postal_code": [
+        "64249"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Union Antorchista",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Union Benito Garza Cantu",
+      "postal_code": [
+        "64250"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Union Benito Juarez",
+      "postal_code": [
+        "64265"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Union Canoas angel Sur",
+      "postal_code": [
+        "64878"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Union Cuauhtemoc",
+      "postal_code": [
+        "64268"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Union de Fierreros",
+      "postal_code": [
+        "64165"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Union el Rinconcito",
+      "postal_code": [
+        "64760"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Union Francisco I Madero",
+      "postal_code": [
+        "64710"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Union Miguel Barrera",
+      "postal_code": [
+        "64720"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Urbi Villa Bonita",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Urbi Villa Colonial",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Urbi Villa del Cedro Primer Sector",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Urbi Villa del Cedro Segundo Sector",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Urbi Villa del Rey",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Urdiales",
+      "postal_code": [
+        "64430"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle Alto",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle de Bosquencinos",
+      "postal_code": [
+        "64979"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle de Cristal",
+      "postal_code": [
+        "64990"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle de la Esperanza",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle de las Brisas",
+      "postal_code": [
+        "64790"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle de las Cumbres Primer Sector",
+      "postal_code": [
+        "64347"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle de las Cumbres Segundo Sector",
+      "postal_code": [
+        "64347"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle de las Mitras",
+      "postal_code": [
+        "64300"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle del Huajuco",
+      "postal_code": [
+        "64820"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle del INFONAVIT",
+      "postal_code": [
+        "64350"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle del Marquez",
+      "postal_code": [
+        "64790"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle del Mirador",
+      "postal_code": [
+        "64750"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle de los Cedros",
+      "postal_code": [
+        "64369"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle del Topo Chico",
+      "postal_code": [
+        "64259"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle del Topo Chico Sexto Sector",
+      "postal_code": [
+        "64250"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle del Vergel",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle de San Jeronimo",
+      "postal_code": [
+        "64634"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle de San Martin (F-24)",
+      "postal_code": [
+        "64204"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle de Santa Lucia (Granja Sanitaria)",
+      "postal_code": [
+        "64140"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle Morelos",
+      "postal_code": [
+        "64180"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle Primavera",
+      "postal_code": [
+        "64833"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle Santa Cecilia",
+      "postal_code": [
+        "64157"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valles de San Bernabe I",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valles de San Bernabe III",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle Verde Primer Sector",
+      "postal_code": [
+        "64360"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle Verde Segundo Sector",
+      "postal_code": [
+        "64117"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valle Verde Tercer Sector",
+      "postal_code": [
+        "64339"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Valparaiso",
+      "postal_code": [
+        "64764"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Venustiano Carranza",
+      "postal_code": [
+        "64560"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Venustiano Carranza Sector la Alianza",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Vicente Suarez",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Victoria",
+      "postal_code": [
+        "64520"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Vidriera",
+      "postal_code": [
+        "64520"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villa Alegre",
+      "postal_code": [
+        "64130"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villa Cumbres",
+      "postal_code": [
+        "64116"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villa del Rio",
+      "postal_code": [
+        "64850"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villa Dorada",
+      "postal_code": [
+        "64360"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villa Florida",
+      "postal_code": [
+        "64810"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villa las Fuentes",
+      "postal_code": [
+        "64890"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villa los Pinos",
+      "postal_code": [
+        "64770"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villa Mitras",
+      "postal_code": [
+        "64170"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villa Murano",
+      "postal_code": [
+        "64985"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villa San angel Topo Chico",
+      "postal_code": [
+        "64227"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villa Santa Cecilia",
+      "postal_code": [
+        "64150"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villa Santa Isabel",
+      "postal_code": [
+        "64985"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villas de Canterias",
+      "postal_code": [
+        "64989"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villas de la Alianza",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villas de la Hacienda",
+      "postal_code": [
+        "64898"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villas de la Herradura",
+      "postal_code": [
+        "64984"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villas del Carmen",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villas de Linda Vista",
+      "postal_code": [
+        "64540"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villas de Lux",
+      "postal_code": [
+        "64860"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villas de San Agustin",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villas de San Bernabe",
+      "postal_code": [
+        "64102"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villas de San Jeronimo",
+      "postal_code": [
+        "64634",
+        "64637"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villas de San Sebastian",
+      "postal_code": [
+        "64103"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villas la Rioja",
+      "postal_code": [
+        "64984"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villas Moretta",
+      "postal_code": [
+        "64997"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villa Sol",
+      "postal_code": [
+        "64949"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Villa Toledo",
+      "postal_code": [
+        "64985"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "64620"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Vistancias",
+      "postal_code": [
+        "64984"
+      ]
+    },
+    {
+      "city": "Monterrey",
+      "colonia": "Zapata",
+      "postal_code": [
+        "64390"
+      ]
+    }
+  ]
+}

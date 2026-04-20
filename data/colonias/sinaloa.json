@@ -1,0 +1,732 @@
+{
+  "data": [
+    {
+      "city": "Sinaloa",
+      "colonia": "Agua Blanca",
+      "postal_code": [
+        "81906"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Agua Caliente de Cebada",
+      "postal_code": [
+        "81920"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Agua Escondida",
+      "postal_code": [
+        "81990"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Alfonso G Calderon Velarde",
+      "postal_code": [
+        "81985"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Alfredo V Bonfil",
+      "postal_code": [
+        "81980"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Alfredo V. Bonfil (Siete Ejidos)",
+      "postal_code": [
+        "81997"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Baburia",
+      "postal_code": [
+        "81900"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Bacubirito",
+      "postal_code": [
+        "81973"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Bacurato",
+      "postal_code": [
+        "81973"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Batamote",
+      "postal_code": [
+        "81988"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "81916"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Buchinari",
+      "postal_code": [
+        "81950"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "81906"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Cabrera de Limones",
+      "postal_code": [
+        "81904"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Capomas",
+      "postal_code": [
+        "81989"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Carrizalejo",
+      "postal_code": [
+        "81977"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Ceferino Paredes",
+      "postal_code": [
+        "81985"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Chacoapana",
+      "postal_code": [
+        "81973"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Choipa",
+      "postal_code": [
+        "81912"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Concentracion 5 de Febrero",
+      "postal_code": [
+        "81985"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Coronado",
+      "postal_code": [
+        "81977"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Cubiri de la Capilla",
+      "postal_code": [
+        "81900"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Cubiri de La Cuesta",
+      "postal_code": [
+        "81900"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Cubiri de La Loma",
+      "postal_code": [
+        "81900"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Cubiri de la Maquina",
+      "postal_code": [
+        "81900"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Cubiri de Portelas",
+      "postal_code": [
+        "81900"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Ejidal",
+      "postal_code": [
+        "81916"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "El Caiman (Margen Derecho)",
+      "postal_code": [
+        "81902"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "El Campito (campo Zamora)",
+      "postal_code": [
+        "81986"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "El Corral de Piedra",
+      "postal_code": [
+        "81975"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "El Coyote",
+      "postal_code": [
+        "81997"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "El Gatal de Ocoroni",
+      "postal_code": [
+        "81963"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "El Kalzetin",
+      "postal_code": [
+        "81912"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "El Mezquite",
+      "postal_code": [
+        "81990"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "El Palotal",
+      "postal_code": [
+        "81986"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "El Penon",
+      "postal_code": [
+        "81977"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "El Platanito",
+      "postal_code": [
+        "81940"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "El Pueblito (El Realito)",
+      "postal_code": [
+        "81903"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "El Ranchito de los Lopez",
+      "postal_code": [
+        "81970"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "El Rastro",
+      "postal_code": [
+        "81910"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "81977"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "El Terrero de Duran",
+      "postal_code": [
+        "81977"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "El Veranito",
+      "postal_code": [
+        "81947"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "81950"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Gabriel Leyva Velazquez",
+      "postal_code": [
+        "81985"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Genaro Estrada",
+      "postal_code": [
+        "81960"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Guadalupana",
+      "postal_code": [
+        "81912"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Hacienda de los Ceballos",
+      "postal_code": [
+        "81977"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "La Choya",
+      "postal_code": [
+        "81913"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "La Guamuchilera",
+      "postal_code": [
+        "81985"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "La Loma de Lugo",
+      "postal_code": [
+        "81904"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "La Playita de Casillas",
+      "postal_code": [
+        "81960"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "La Presita",
+      "postal_code": [
+        "81988"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Las Huacapas",
+      "postal_code": [
+        "81970"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Las Playas",
+      "postal_code": [
+        "81903"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Las Tatemas",
+      "postal_code": [
+        "81946"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Las Tinas",
+      "postal_code": [
+        "81977"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Las Viejas",
+      "postal_code": [
+        "81983"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "La Torre",
+      "postal_code": [
+        "81915"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "La Tranquilidad",
+      "postal_code": [
+        "81990"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Llano Grande",
+      "postal_code": [
+        "81991"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Llanos de Peraza",
+      "postal_code": [
+        "81976"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Lomas de San Felipe",
+      "postal_code": [
+        "81912"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Los Doctores",
+      "postal_code": [
+        "81912"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Los Melones",
+      "postal_code": [
+        "81903"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Los Mezquites",
+      "postal_code": [
+        "81950"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Los Quintero",
+      "postal_code": [
+        "81975"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Los Troncones",
+      "postal_code": [
+        "81971"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Mapiri",
+      "postal_code": [
+        "81970"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Maquipo",
+      "postal_code": [
+        "81903"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Maripa",
+      "postal_code": [
+        "81906"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Mazocari",
+      "postal_code": [
+        "81945"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Nacaveba",
+      "postal_code": [
+        "81991"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Naranjo Centro",
+      "postal_code": [
+        "81980"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Naranjo Segundo",
+      "postal_code": [
+        "81986"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Nuevo San Fermin",
+      "postal_code": [
+        "81983"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Ocurague",
+      "postal_code": [
+        "81933"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Opochi",
+      "postal_code": [
+        "81903"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Palmar de Sepulveda",
+      "postal_code": [
+        "81970"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Playa Segunda",
+      "postal_code": [
+        "81986"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Porohui",
+      "postal_code": [
+        "81907"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Portugues de Norzagaray",
+      "postal_code": [
+        "81946"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Ruiz Cortines 3",
+      "postal_code": [
+        "81985"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Ruiz Cortinez 1",
+      "postal_code": [
+        "81985"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "San Jeronimo",
+      "postal_code": [
+        "81916"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "San Joaquin",
+      "postal_code": [
+        "81990"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "San Jose de Alvarado (San Jose Nuevo)",
+      "postal_code": [
+        "81963"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "San Jose de Gracia",
+      "postal_code": [
+        "81976"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "San Jose del alamo",
+      "postal_code": [
+        "81970"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "San Jose de las Delicias",
+      "postal_code": [
+        "81977"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "San Jose de Los Hornos",
+      "postal_code": [
+        "81935"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "San Miguel de los Orrantia",
+      "postal_code": [
+        "81964"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "San Sebastian Lazaro Cardenas",
+      "postal_code": [
+        "81988"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Santa Magdalena",
+      "postal_code": [
+        "81920"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Santa Teresita",
+      "postal_code": [
+        "81985"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Santiago de Ocoroni",
+      "postal_code": [
+        "81960"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Sarabia",
+      "postal_code": [
+        "81950"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Seis de Enero",
+      "postal_code": [
+        "81990"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Sierrita de Los German",
+      "postal_code": [
+        "81930"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Sinaloa de Leyva Centro",
+      "postal_code": [
+        "81910"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Tabalopa",
+      "postal_code": [
+        "81990"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "81912"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Tobobampo",
+      "postal_code": [
+        "81985"
+      ]
+    },
+    {
+      "city": "Sinaloa",
+      "colonia": "Ventura de los Bojorquez",
+      "postal_code": [
+        "81977"
+      ]
+    }
+  ]
+}

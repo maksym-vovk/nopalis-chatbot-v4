@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "city": "San Juan Colorado",
+      "colonia": "Agua Fria",
+      "postal_code": [
+        "71724"
+      ]
+    },
+    {
+      "city": "San Juan Colorado",
+      "colonia": "Chico",
+      "postal_code": [
+        "71720"
+      ]
+    },
+    {
+      "city": "San Juan Colorado",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "71721"
+      ]
+    },
+    {
+      "city": "San Juan Colorado",
+      "colonia": "Gigante",
+      "postal_code": [
+        "71720"
+      ]
+    },
+    {
+      "city": "San Juan Colorado",
+      "colonia": "Nuevo Progreso",
+      "postal_code": [
+        "71720"
+      ]
+    },
+    {
+      "city": "San Juan Colorado",
+      "colonia": "Penas Negras",
+      "postal_code": [
+        "71722"
+      ]
+    },
+    {
+      "city": "San Juan Colorado",
+      "colonia": "San Juan Colorado",
+      "postal_code": [
+        "71720"
+      ]
+    },
+    {
+      "city": "San Juan Colorado",
+      "colonia": "San Pedro Siniyubi",
+      "postal_code": [
+        "71721"
+      ]
+    },
+    {
+      "city": "San Juan Colorado",
+      "colonia": "Santa Maria Nutio",
+      "postal_code": [
+        "71720"
+      ]
+    }
+  ]
+}

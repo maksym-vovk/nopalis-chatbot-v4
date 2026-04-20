@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Atzala",
+      "colonia": "Atzala",
+      "postal_code": [
+        "74590"
+      ]
+    },
+    {
+      "city": "Atzala",
+      "colonia": "La Asuncion",
+      "postal_code": [
+        "74590"
+      ]
+    },
+    {
+      "city": "Atzala",
+      "colonia": "Valle Primavera",
+      "postal_code": [
+        "74590"
+      ]
+    }
+  ]
+}

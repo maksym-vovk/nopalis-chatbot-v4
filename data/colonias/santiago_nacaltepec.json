@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Santiago Nacaltepec",
+      "colonia": "El Moral",
+      "postal_code": [
+        "68694"
+      ]
+    },
+    {
+      "city": "Santiago Nacaltepec",
+      "colonia": "La Union",
+      "postal_code": [
+        "68696"
+      ]
+    },
+    {
+      "city": "Santiago Nacaltepec",
+      "colonia": "San Francisco Cotahuixtla",
+      "postal_code": [
+        "68691"
+      ]
+    },
+    {
+      "city": "Santiago Nacaltepec",
+      "colonia": "San Jose Aragon",
+      "postal_code": [
+        "68696"
+      ]
+    },
+    {
+      "city": "Santiago Nacaltepec",
+      "colonia": "San Juan Tonaltepec",
+      "postal_code": [
+        "68695"
+      ]
+    },
+    {
+      "city": "Santiago Nacaltepec",
+      "colonia": "Santiago Nacaltepec",
+      "postal_code": [
+        "68692"
+      ]
+    }
+  ]
+}

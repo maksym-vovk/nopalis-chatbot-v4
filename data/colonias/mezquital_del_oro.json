@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Mezquital del Oro",
+      "colonia": "El Malacate",
+      "postal_code": [
+        "99865"
+      ]
+    },
+    {
+      "city": "Mezquital del Oro",
+      "colonia": "La Coronilla",
+      "postal_code": [
+        "99864"
+      ]
+    },
+    {
+      "city": "Mezquital del Oro",
+      "colonia": "Los Gallos",
+      "postal_code": [
+        "99867"
+      ]
+    },
+    {
+      "city": "Mezquital del Oro",
+      "colonia": "Mezquital del Oro",
+      "postal_code": [
+        "99860"
+      ]
+    }
+  ]
+}

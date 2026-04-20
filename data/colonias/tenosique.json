@@ -1,0 +1,896 @@
+{
+  "data": [
+    {
+      "city": "Tenosique",
+      "colonia": "Acatlipa",
+      "postal_code": [
+        "86926"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "86922"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Alvaro Obregon",
+      "postal_code": [
+        "86927"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Ampliacion Cocoyol",
+      "postal_code": [
+        "86902"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Arena de Hidalgo",
+      "postal_code": [
+        "86906",
+        "86906"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Belen",
+      "postal_code": [
+        "86902"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Bella Vista",
+      "postal_code": [
+        "86928"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "86902",
+        "86925"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Benito Juarez 1ra Seccion",
+      "postal_code": [
+        "86910"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Benito Juarez 2a Seccion",
+      "postal_code": [
+        "86910"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Boca Del Cerro",
+      "postal_code": [
+        "86906"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Brisas del Usumacinta",
+      "postal_code": [
+        "86904"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Canitzan",
+      "postal_code": [
+        "86905"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Canitzan 2a Seccion",
+      "postal_code": [
+        "86905"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Carlos Pellicer Camara",
+      "postal_code": [
+        "86928"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Centro Usumacinta",
+      "postal_code": [
+        "86906"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "CERESO",
+      "postal_code": [
+        "86904"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Certeza",
+      "postal_code": [
+        "86919"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Chaculji",
+      "postal_code": [
+        "86906"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Cocoyol",
+      "postal_code": [
+        "86902"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Corregidora Ortiz de Dominguez",
+      "postal_code": [
+        "86924"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Cortijo Nuevo 1a Seccion",
+      "postal_code": [
+        "86924"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Cortijo Nuevo 2a Seccion",
+      "postal_code": [
+        "86924"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Crisoforo China",
+      "postal_code": [
+        "86906"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Cuatro Hermanos",
+      "postal_code": [
+        "86911"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Dieciseis de Septiembre",
+      "postal_code": [
+        "86910"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Diez de Mayo",
+      "postal_code": [
+        "86910"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "El Bejucal",
+      "postal_code": [
+        "86927"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "El Chivo Negro",
+      "postal_code": [
+        "86902"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "El Copo",
+      "postal_code": [
+        "86905"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "El Faisan 1a Secc",
+      "postal_code": [
+        "86906"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "El Faisan 2da Seccion",
+      "postal_code": [
+        "86906"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "El Faisan 3ra Seccion (Chiniquija)",
+      "postal_code": [
+        "86906"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "El Ingenio Hermenegildo Galeana",
+      "postal_code": [
+        "86904"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "El Palmar",
+      "postal_code": [
+        "86916"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "86926"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "El Pensamiento",
+      "postal_code": [
+        "86911"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "El Recreo",
+      "postal_code": [
+        "86906"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "El Repasto",
+      "postal_code": [
+        "86927"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "El Roblar",
+      "postal_code": [
+        "86905"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "El Xotal 1ra Seccion",
+      "postal_code": [
+        "86920"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "El Xotal 2da Seccion",
+      "postal_code": [
+        "86920"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Emiliano Zapata 1ra Seccion",
+      "postal_code": [
+        "86922"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Emiliano Zapata 2da Seccion (El Carmen)",
+      "postal_code": [
+        "86918"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Esperanza Norte (El Veinte)",
+      "postal_code": [
+        "86911"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Estacion Nueva",
+      "postal_code": [
+        "86901"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Estampilla 2a Seccion",
+      "postal_code": [
+        "86907"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Estapilla",
+      "postal_code": [
+        "86905"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Francisco I. Madero Cortazar",
+      "postal_code": [
+        "86927"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Francisco I. Madero (Rio)",
+      "postal_code": [
+        "86924"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "86927"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Gregorio Mendez",
+      "postal_code": [
+        "86909"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Guadalupe Tepeyac",
+      "postal_code": [
+        "86904"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "86919"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Guayacan",
+      "postal_code": [
+        "86909"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Hermenegildo Galeana",
+      "postal_code": [
+        "86915"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Heroes de Nacozari",
+      "postal_code": [
+        "86904"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Ignacio Allende",
+      "postal_code": [
+        "86927"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "86910"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Independencia",
+      "postal_code": [
+        "86906"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Jardines del Usumacinta",
+      "postal_code": [
+        "86904"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Javier Rojo Gomez",
+      "postal_code": [
+        "86921"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Jose Maria Pino Suarez",
+      "postal_code": [
+        "86904"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Jose Maria Pino Suarez 1ra Seccion",
+      "postal_code": [
+        "86907"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Jose Maria Pino Suarez 2da. Seccion",
+      "postal_code": [
+        "86905"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "La Estancia",
+      "postal_code": [
+        "86927"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "La Isla",
+      "postal_code": [
+        "86906"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "La Palma",
+      "postal_code": [
+        "86912"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "La Planada",
+      "postal_code": [
+        "86918"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "La Raza",
+      "postal_code": [
+        "86904"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "La Trinchera",
+      "postal_code": [
+        "86902"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "La ultima Lucha",
+      "postal_code": [
+        "86920"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "86904"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Los Angelitos",
+      "postal_code": [
+        "86900"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Los Rieles de San Jose",
+      "postal_code": [
+        "86923"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Lucio Blanco",
+      "postal_code": [
+        "86906"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "86904"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Luis Echeverria alvarez 1ra Seccion",
+      "postal_code": [
+        "86921"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Luis Echeverria alvarez 2da Seccion",
+      "postal_code": [
+        "86921"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Luis Gomez Zeta",
+      "postal_code": [
+        "86901"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "86902"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Maria Luisa",
+      "postal_code": [
+        "86901"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "86927"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Municipal",
+      "postal_code": [
+        "86904"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "86924"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Nueva Esperanza",
+      "postal_code": [
+        "86926"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Nueva Jerusalen",
+      "postal_code": [
+        "86928"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Nuevo Mexico",
+      "postal_code": [
+        "86915"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Nuevo Progreso",
+      "postal_code": [
+        "86924"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Obrera",
+      "postal_code": [
+        "86902"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Plan de San Antonio",
+      "postal_code": [
+        "86907"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Pomona",
+      "postal_code": [
+        "86904"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Pomona 1ra Seccion",
+      "postal_code": [
+        "86906"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Pomona 2da Seccion",
+      "postal_code": [
+        "86906"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Pueblo Nuevo",
+      "postal_code": [
+        "86901"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Pueblo Unido",
+      "postal_code": [
+        "86904"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Punta de Montana",
+      "postal_code": [
+        "86916"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Rancho Grande",
+      "postal_code": [
+        "86922"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Redencion del Campesino",
+      "postal_code": [
+        "86923"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Reforma Agraria",
+      "postal_code": [
+        "86920"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Roberto Madrazo Pintado",
+      "postal_code": [
+        "86904"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "86906"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "86927"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "San Isidro Guasivan",
+      "postal_code": [
+        "86912"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "San Isidro las Pozas",
+      "postal_code": [
+        "86910"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "San Juan",
+      "postal_code": [
+        "86904"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "86923"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "San Miguelito",
+      "postal_code": [
+        "86902"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "San Roman",
+      "postal_code": [
+        "86901"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Santa Barbara",
+      "postal_code": [
+        "86902"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "86925"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "86915"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "86906"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "86923"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Santo Tomas",
+      "postal_code": [
+        "86924"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Siquiscab",
+      "postal_code": [
+        "86904"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Solidaridad",
+      "postal_code": [
+        "86900"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Suenos de Oro",
+      "postal_code": [
+        "86928"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Tata Lazaro",
+      "postal_code": [
+        "86910"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Tenosique 1a Secc (El Mool)",
+      "postal_code": [
+        "86907"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Tenosique 2000",
+      "postal_code": [
+        "86904"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Tenosique de Pino Suarez Centro",
+      "postal_code": [
+        "86900"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Unidad Habitacional Militar 38-A",
+      "postal_code": [
+        "86904"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Unidad y Gratitud",
+      "postal_code": [
+        "86904"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Usumacinta",
+      "postal_code": [
+        "86902",
+        "86907"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Veinte de Noviembre",
+      "postal_code": [
+        "86916"
+      ]
+    },
+    {
+      "city": "Tenosique",
+      "colonia": "Veteranos de La Revolucion",
+      "postal_code": [
+        "86923"
+      ]
+    }
+  ]
+}

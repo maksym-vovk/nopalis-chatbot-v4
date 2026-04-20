@@ -1,0 +1,2862 @@
+{
+  "data": [
+    {
+      "city": "Celaya",
+      "colonia": "10 de Abril",
+      "postal_code": [
+        "38018"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "15 de Mayo",
+      "postal_code": [
+        "38015"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "3 Guerras",
+      "postal_code": [
+        "38080"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Aeropuerto Celaya",
+      "postal_code": [
+        "38119"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Alameda",
+      "postal_code": [
+        "38050"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "alamos",
+      "postal_code": [
+        "38024"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "alamos Oriente",
+      "postal_code": [
+        "38024"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Alfredo Vazquez Bonfil",
+      "postal_code": [
+        "38010"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Alteza Residencial",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Americas del Bajio",
+      "postal_code": [
+        "38014"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Ampliacion Emiliano Zapata",
+      "postal_code": [
+        "38035"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Ancona",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Arboledas de Camargo",
+      "postal_code": [
+        "38010"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Arboledas del Campestre",
+      "postal_code": [
+        "38080"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Arboledas del Pedregal",
+      "postal_code": [
+        "38090"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Arboledas de San Rafael",
+      "postal_code": [
+        "38099"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Arcada Alameda",
+      "postal_code": [
+        "38057"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Arreguin de Abajo",
+      "postal_code": [
+        "38094"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Arroyo",
+      "postal_code": [
+        "38152"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "38030"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Bonanza",
+      "postal_code": [
+        "38090"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Bosques de Chapultepec",
+      "postal_code": [
+        "38060"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Bosques de la Alameda",
+      "postal_code": [
+        "38033"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Bosques del Sol",
+      "postal_code": [
+        "38097"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Brisas del Carmen",
+      "postal_code": [
+        "38035"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Brisas del Valle",
+      "postal_code": [
+        "38035"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "38020"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Calesa",
+      "postal_code": [
+        "38016"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Calquetzani",
+      "postal_code": [
+        "38096"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Camargo",
+      "postal_code": [
+        "38010"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Camino Real",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Campestre Celaya",
+      "postal_code": [
+        "38080"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Canal de Camargo",
+      "postal_code": [
+        "38010"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Canal de Labradores",
+      "postal_code": [
+        "38017"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Canoas (Congregacion de Canoas)",
+      "postal_code": [
+        "38156"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Capitales de Europa",
+      "postal_code": [
+        "38079"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Casco Viejo",
+      "postal_code": [
+        "38019"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "CEDEI",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Celaya Centro",
+      "postal_code": [
+        "38000"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Centro Residencial Celaya",
+      "postal_code": [
+        "38060"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Cerrada del Sol",
+      "postal_code": [
+        "38048"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Ciudadela",
+      "postal_code": [
+        "38017"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Ciudad Industrial",
+      "postal_code": [
+        "38010"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Claustros de Arboledas",
+      "postal_code": [
+        "38060"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Conjunto Habitacional Girasoles",
+      "postal_code": [
+        "38020"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Contituyentes",
+      "postal_code": [
+        "38090"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "38034"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Del Bosque",
+      "postal_code": [
+        "38028",
+        "38085"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Del Parque",
+      "postal_code": [
+        "38010"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Del Valle",
+      "postal_code": [
+        "38048"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Don Gu",
+      "postal_code": [
+        "38016"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Dos Plazas",
+      "postal_code": [
+        "38017"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Ejidal",
+      "postal_code": [
+        "38098"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Ejido de Silva (San Isidro)",
+      "postal_code": [
+        "38126"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "El alamo",
+      "postal_code": [
+        "38113"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "El Atrio",
+      "postal_code": [
+        "38013"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "El Becerro (Santos Degollado)",
+      "postal_code": [
+        "38117"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "El Campanario",
+      "postal_code": [
+        "38013"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "El Campanario Residencial",
+      "postal_code": [
+        "38013"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "El Cantar",
+      "postal_code": [
+        "38097"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "El Cuije",
+      "postal_code": [
+        "38143"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "El Diamante de la Virgen",
+      "postal_code": [
+        "38110"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "El Dorado",
+      "postal_code": [
+        "38079"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "El Haba",
+      "postal_code": [
+        "38028"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "El Junco Residencial",
+      "postal_code": [
+        "38020"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "El Molino",
+      "postal_code": [
+        "38079"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "El Olivar",
+      "postal_code": [
+        "38078"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "El Panamericano",
+      "postal_code": [
+        "38020"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "El Paraiso de los angeles",
+      "postal_code": [
+        "38017"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "El Puente",
+      "postal_code": [
+        "38116"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "El Puesto",
+      "postal_code": [
+        "38144"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "El Sauz (El Sauz de Villasenor)",
+      "postal_code": [
+        "38159"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "El Sillar",
+      "postal_code": [
+        "38033"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "El Vergel",
+      "postal_code": [
+        "38078"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "38057"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Emeteria Valencia",
+      "postal_code": [
+        "38070"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "38030"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Emiliano Zapata Sur",
+      "postal_code": [
+        "38033"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Enrique Colunga",
+      "postal_code": [
+        "38060"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Entorno Residencial",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Esmeralda",
+      "postal_code": [
+        "38065"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Estrada",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Excelaris",
+      "postal_code": [
+        "38033"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Ex-Hacienda de Trojes",
+      "postal_code": [
+        "38086"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Felipe angeles",
+      "postal_code": [
+        "38099"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Ferropuerto del Bajio",
+      "postal_code": [
+        "38159"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Floresta del Sur",
+      "postal_code": [
+        "38090"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "FOVISSSTE",
+      "postal_code": [
+        "38010"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Galaxias del Parque",
+      "postal_code": [
+        "38016"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Gasca",
+      "postal_code": [
+        "38125"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Geo Villas Los Sauces",
+      "postal_code": [
+        "38016"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Gobernadores",
+      "postal_code": [
+        "38035"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Granada",
+      "postal_code": [
+        "38046"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Gran Clase",
+      "postal_code": [
+        "38018"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Gran Hacienda",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "38017",
+        "38130"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Guanajuato",
+      "postal_code": [
+        "38010"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Hacienda del Bosque",
+      "postal_code": [
+        "38028"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Hacienda del Rincon",
+      "postal_code": [
+        "38155"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Hacienda del Sol",
+      "postal_code": [
+        "38013"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Hacienda Las Palmas",
+      "postal_code": [
+        "38057"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Haciendas Natura",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "38020"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Imperial",
+      "postal_code": [
+        "38028"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "IMSS",
+      "postal_code": [
+        "38060"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Independencia",
+      "postal_code": [
+        "38096"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Industrial El Vergel",
+      "postal_code": [
+        "38116"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Industriales",
+      "postal_code": [
+        "38010"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Jacarandas",
+      "postal_code": [
+        "38090"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Jardines de Celaya 1a Secc",
+      "postal_code": [
+        "38080"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Jardines de Celaya 2a Secc",
+      "postal_code": [
+        "38080"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Jardines de Celaya 3a Secc",
+      "postal_code": [
+        "38080"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Jardines del Centro",
+      "postal_code": [
+        "38068"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Jardines del Malecon",
+      "postal_code": [
+        "38085"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Jardines del Sur",
+      "postal_code": [
+        "38080"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Jauregui",
+      "postal_code": [
+        "38135"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Jofre",
+      "postal_code": [
+        "38144"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Jose Perez (Hoyos de Arena)",
+      "postal_code": [
+        "38110"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Jose Suarez Irigoyen",
+      "postal_code": [
+        "38090"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Juan Martin",
+      "postal_code": [
+        "38146"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Juan Pablo II",
+      "postal_code": [
+        "38037"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Karina",
+      "postal_code": [
+        "38057"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Kiara Residencial",
+      "postal_code": [
+        "38096"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "kinn Residencial",
+      "postal_code": [
+        "38035"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Arbolada Celaya",
+      "postal_code": [
+        "38017"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Aurora",
+      "postal_code": [
+        "38020",
+        "38079",
+        "38100"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Campina",
+      "postal_code": [
+        "38018"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Cantera",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Capilla",
+      "postal_code": [
+        "38013"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Concepcion",
+      "postal_code": [
+        "38123"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Concordia",
+      "postal_code": [
+        "38110"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Condesa",
+      "postal_code": [
+        "38083"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "38028",
+        "38144",
+        "38152"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "38010"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "38028"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Esperanza de Yustis (Los Martinez)",
+      "postal_code": [
+        "38110"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Favorita",
+      "postal_code": [
+        "38033"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Fundacion",
+      "postal_code": [
+        "38057"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Granja",
+      "postal_code": [
+        "38144"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Herradura",
+      "postal_code": [
+        "38036"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Joya",
+      "postal_code": [
+        "38040"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Laja",
+      "postal_code": [
+        "38136"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Luz",
+      "postal_code": [
+        "38143"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Machuca",
+      "postal_code": [
+        "38147"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Maquina",
+      "postal_code": [
+        "38144"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Mision",
+      "postal_code": [
+        "38015"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Palmita (La Palmita de San Gabriel)",
+      "postal_code": [
+        "38116"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Resurreccion",
+      "postal_code": [
+        "38155"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Rinconada de San Miguel",
+      "postal_code": [
+        "38035"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Las Alamedas",
+      "postal_code": [
+        "38057"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "38014",
+        "38079"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Las Arboledas",
+      "postal_code": [
+        "38060"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Las Arenas",
+      "postal_code": [
+        "38035"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Las Aves",
+      "postal_code": [
+        "38017"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Las Brisas",
+      "postal_code": [
+        "38010"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Las Carretas",
+      "postal_code": [
+        "38080"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Las Casas",
+      "postal_code": [
+        "38013"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Las Compuertas del Campestre",
+      "postal_code": [
+        "38088"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Las Delicias",
+      "postal_code": [
+        "38080"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "38090"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Las Fuentes",
+      "postal_code": [
+        "38040"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Las Huertas",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Las Insurgentes",
+      "postal_code": [
+        "38080"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "38090"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "38114"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Latinoamericana",
+      "postal_code": [
+        "38015"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Toscana Residencial",
+      "postal_code": [
+        "38097"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "38020",
+        "38134"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "La Trinidad (El Rifle)",
+      "postal_code": [
+        "38125"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "38017"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "38010"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Lombardia",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Lopez Portillo",
+      "postal_code": [
+        "38033"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Los Aguirre",
+      "postal_code": [
+        "38125"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "38040"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Los Capulines",
+      "postal_code": [
+        "38133"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Los Establos (Los Arenales)",
+      "postal_code": [
+        "38130"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Los Frailes",
+      "postal_code": [
+        "38090"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "38063"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Los Galvanes",
+      "postal_code": [
+        "38133"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Los Huesos",
+      "postal_code": [
+        "38157"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Los Impresionistas",
+      "postal_code": [
+        "38046"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Los Lagos",
+      "postal_code": [
+        "38060"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "38020"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Los Mancera",
+      "postal_code": [
+        "38144"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Los Mezquites",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "38013"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Los Olivos Residencial",
+      "postal_code": [
+        "38037"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "38028"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Los Pirules",
+      "postal_code": [
+        "38036",
+        "38050"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Los Portones",
+      "postal_code": [
+        "38057"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Los Santos",
+      "postal_code": [
+        "38035"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "38027"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Los Tres Puentes",
+      "postal_code": [
+        "38105"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Los Tules",
+      "postal_code": [
+        "38034"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Los Veintes",
+      "postal_code": [
+        "38050"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "38134"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Magno Residencial",
+      "postal_code": [
+        "38088"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Maquiladora de Uniformes",
+      "postal_code": [
+        "38140"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Mediterraneo",
+      "postal_code": [
+        "38057"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Mexico",
+      "postal_code": [
+        "38010"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Michinelas",
+      "postal_code": [
+        "38094"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Miguel Aleman",
+      "postal_code": [
+        "38068"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Mision de La Esperanza",
+      "postal_code": [
+        "38036"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Mision San Diego",
+      "postal_code": [
+        "38085"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Mision Santa Fe",
+      "postal_code": [
+        "38035"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Moctezuma",
+      "postal_code": [
+        "38035"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Monte Blanco",
+      "postal_code": [
+        "38099"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Monte Grande",
+      "postal_code": [
+        "38143"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Moradas de Silva",
+      "postal_code": [
+        "38037"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Nat Tha Hi",
+      "postal_code": [
+        "38035"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Nuevo Celaya",
+      "postal_code": [
+        "38027"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Nuevo Mexico",
+      "postal_code": [
+        "38159"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Nuevo Porvenir (El Pujido)",
+      "postal_code": [
+        "38158"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Nuevo Tecnologico",
+      "postal_code": [
+        "38010"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Obrero Mundial",
+      "postal_code": [
+        "38080"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Ojo Seco",
+      "postal_code": [
+        "38159"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Onzze Madera",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Palas Atenea",
+      "postal_code": [
+        "38000"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Palma Mallorca",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Palma Real",
+      "postal_code": [
+        "38080"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Parque Central",
+      "postal_code": [
+        "38050"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Parque Industrial Buena Opcion",
+      "postal_code": [
+        "38116"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Parque Industrial Celanese",
+      "postal_code": [
+        "38144"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Parque Tabachines",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Parque Verde",
+      "postal_code": [
+        "38035"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Partidas (San Juan de Partidas)",
+      "postal_code": [
+        "38144"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Paseo Floresta",
+      "postal_code": [
+        "38078"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Paseos del Campestre",
+      "postal_code": [
+        "38080"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Paseos Privanza",
+      "postal_code": [
+        "38037"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Patria Nueva",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Pedregal del Junco",
+      "postal_code": [
+        "38020"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Pedregal de San angel",
+      "postal_code": [
+        "38027"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Pedro Maria Anaya",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Plancarte",
+      "postal_code": [
+        "38120"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Plaza Alamedas",
+      "postal_code": [
+        "38057"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Porta Maggiore",
+      "postal_code": [
+        "38018"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Portones de la Hacienda",
+      "postal_code": [
+        "38063"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Porto Real",
+      "postal_code": [
+        "38037"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Praderas de La Hacienda",
+      "postal_code": [
+        "38019"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Praderas del Bosque",
+      "postal_code": [
+        "38033"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Praderas de Santa Julia",
+      "postal_code": [
+        "38018"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Praderas de Santa Lucia",
+      "postal_code": [
+        "38018"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Prados el Naranjal",
+      "postal_code": [
+        "38016"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Presa Blanca",
+      "postal_code": [
+        "38104"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Primera Fraccion de Crespo (El Molino)",
+      "postal_code": [
+        "38067"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Primera Fraccion de Crespo (El Tanque)",
+      "postal_code": [
+        "38060"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Privada Ciruelo",
+      "postal_code": [
+        "38020"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Privada del Pedregal",
+      "postal_code": [
+        "38016"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Privada el Sauz",
+      "postal_code": [
+        "38016"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Privada La Toscana",
+      "postal_code": [
+        "38097"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Progreso Solidaridad",
+      "postal_code": [
+        "38085"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Providencia",
+      "postal_code": [
+        "38020"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Puerta del Monte (Elguera)",
+      "postal_code": [
+        "38114"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Puerta Grande",
+      "postal_code": [
+        "38020"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Puerta Poniente",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Puertas del Sol",
+      "postal_code": [
+        "38037"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Puertas de Santa Maria",
+      "postal_code": [
+        "38010"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Puesta del Sol",
+      "postal_code": [
+        "38016"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Puntarena Residencial",
+      "postal_code": [
+        "38085"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Quinta Arboledas",
+      "postal_code": [
+        "38098"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Quinta Boulevard",
+      "postal_code": [
+        "38078"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Quinta Bugambilias",
+      "postal_code": [
+        "38060"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Quinta Los Arrayanes",
+      "postal_code": [
+        "38095"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Quinta Santa Maria",
+      "postal_code": [
+        "38010"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Quintas Campo Real",
+      "postal_code": [
+        "38019"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Rancho Pinto",
+      "postal_code": [
+        "38080"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Rancho Seco",
+      "postal_code": [
+        "38090"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Raquet Club Cross",
+      "postal_code": [
+        "38015"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Real de Arboledas",
+      "postal_code": [
+        "38060"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Real de Celaya",
+      "postal_code": [
+        "38010"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Real del Campestre",
+      "postal_code": [
+        "38080"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Recursos Hidraulicos",
+      "postal_code": [
+        "38030"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Reforma",
+      "postal_code": [
+        "38013",
+        "38090"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Renacimiento",
+      "postal_code": [
+        "38060"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Residencial Alameda",
+      "postal_code": [
+        "38057"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Residencial Arboledas",
+      "postal_code": [
+        "38060"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Residencial Campo Azul",
+      "postal_code": [
+        "38096"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Residencial Fontana",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Residencial Las Margaritas",
+      "postal_code": [
+        "38090"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Residencial Las Praderas",
+      "postal_code": [
+        "38016"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Residencial Las Quintas",
+      "postal_code": [
+        "38035"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Residencial Magnolia",
+      "postal_code": [
+        "38080"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Residencial Palmas",
+      "postal_code": [
+        "38057"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Residencial Paraiso",
+      "postal_code": [
+        "38020"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Residencial Puerta de Piedra",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Residencial San Pablo",
+      "postal_code": [
+        "38020"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Residencial Santiago",
+      "postal_code": [
+        "38020"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Residencial Tecnologico",
+      "postal_code": [
+        "38010"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Residencial Xochipilli",
+      "postal_code": [
+        "38020"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Residencias Hacienda de Muniz",
+      "postal_code": [
+        "38017"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Resurreccion",
+      "postal_code": [
+        "38079",
+        "38079"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "38096"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Rinconada del Bosque",
+      "postal_code": [
+        "38013"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Rinconada Laureles",
+      "postal_code": [
+        "38020"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Rinconada Los alamos",
+      "postal_code": [
+        "38024"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Rinconada San Jorge",
+      "postal_code": [
+        "38090"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Rinconadas Arboledas",
+      "postal_code": [
+        "38060"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Rincon de Cantarranas",
+      "postal_code": [
+        "38013"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Rincon de Tamayo Centro",
+      "postal_code": [
+        "38150"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Riveras del Campestre",
+      "postal_code": [
+        "38080"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Roque",
+      "postal_code": [
+        "38124"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Roque (ITA)",
+      "postal_code": [
+        "38124"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Rosalinda",
+      "postal_code": [
+        "38060"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Andres",
+      "postal_code": [
+        "38010"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "38010",
+        "38048"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Antonio Espinoza",
+      "postal_code": [
+        "38104"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Antonio Gallardo",
+      "postal_code": [
+        "38100"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Cayetano",
+      "postal_code": [
+        "38123"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Elias",
+      "postal_code": [
+        "38106"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "38097",
+        "38144",
+        "38150"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Gabriel",
+      "postal_code": [
+        "38013",
+        "38097"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Isidro Crespo",
+      "postal_code": [
+        "38116"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Isidro de Elguera",
+      "postal_code": [
+        "38110"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Isidro de la Concepcion",
+      "postal_code": [
+        "38104"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Isidro del Palmar",
+      "postal_code": [
+        "38158"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Isidro del Refugio (El Tajo)",
+      "postal_code": [
+        "38143"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Isidro de Trojes",
+      "postal_code": [
+        "38086"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Jose de Guanajuato",
+      "postal_code": [
+        "38114"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Jose de la Presa",
+      "postal_code": [
+        "38137"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Jose de Mendoza",
+      "postal_code": [
+        "38100"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Jose de Torres",
+      "postal_code": [
+        "38085"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Jose el Nuevo",
+      "postal_code": [
+        "38147"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Juan",
+      "postal_code": [
+        "38065",
+        "38153"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Juan de Dios",
+      "postal_code": [
+        "38070"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Juan de La Vega",
+      "postal_code": [
+        "38100"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Juanico",
+      "postal_code": [
+        "38020"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Juanico 1a Secc",
+      "postal_code": [
+        "38027"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Juanico 2a Secc",
+      "postal_code": [
+        "38027"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "38136",
+        "38145"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Luis Rey",
+      "postal_code": [
+        "38127"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "38154"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Martin de Camargo",
+      "postal_code": [
+        "38010"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "38068"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Miguel Octopan",
+      "postal_code": [
+        "38130"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Nicolas Esquiros",
+      "postal_code": [
+        "38105"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "38099"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "San Rafael de Yustis (Loretio)",
+      "postal_code": [
+        "38126"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Santa Anita",
+      "postal_code": [
+        "38020",
+        "38040",
+        "38144"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Santa Barbara",
+      "postal_code": [
+        "38090"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "38024",
+        "38096"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Santa Fe de los Naranjos",
+      "postal_code": [
+        "38013"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Santa Isabel",
+      "postal_code": [
+        "38090"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "38097"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "38010",
+        "38090"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Santa Maria del Refugio",
+      "postal_code": [
+        "38140"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "38035",
+        "38134"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Santa Rosa de Lima",
+      "postal_code": [
+        "38157"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "38080",
+        "38106"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Santiago de la Cruz",
+      "postal_code": [
+        "38096"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Santiaguito",
+      "postal_code": [
+        "38047"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Santo Cristo",
+      "postal_code": [
+        "38046"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Segunda de Estrada (San Pablo)",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Segunda Fraccion de Crespo (Alto del Parral)",
+      "postal_code": [
+        "38116"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Senda Real",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Suiza",
+      "postal_code": [
+        "38060"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Tahi",
+      "postal_code": [
+        "38017"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Tecnologico de Monterrey",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Teneria del Santuario",
+      "postal_code": [
+        "38120"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Teneria de Valdez",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Terra Residencial",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "38090"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Tierras Negras",
+      "postal_code": [
+        "38048"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Tierra y Libertad",
+      "postal_code": [
+        "38030"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Universidad de Guanajuato",
+      "postal_code": [
+        "38096"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Valle de La Primavera",
+      "postal_code": [
+        "38098"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Valle de los Naranjos III Seccion",
+      "postal_code": [
+        "38016"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Valle de los Naranjos II Seccion",
+      "postal_code": [
+        "38016"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Valle del Real",
+      "postal_code": [
+        "38024"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Valle Hermoso",
+      "postal_code": [
+        "38010"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Valle Naranjos",
+      "postal_code": [
+        "38013"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Valle Residencial los Girasoles",
+      "postal_code": [
+        "38020"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villa Arbolada",
+      "postal_code": [
+        "38016"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villa de Celaya",
+      "postal_code": [
+        "38080"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villa de los alamos",
+      "postal_code": [
+        "38024"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villa de Los Arcos",
+      "postal_code": [
+        "38096"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villa de los Reyes",
+      "postal_code": [
+        "38057"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villa Jardin",
+      "postal_code": [
+        "38035"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villa Natura",
+      "postal_code": [
+        "38115"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villas Casablanca",
+      "postal_code": [
+        "38024"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villas de Benavente",
+      "postal_code": [
+        "38034"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villas de Celaya Residencial",
+      "postal_code": [
+        "38078"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villas de Elguera",
+      "postal_code": [
+        "38114"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villas de La Esperanza",
+      "postal_code": [
+        "38028"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villas de La Hacienda",
+      "postal_code": [
+        "38015"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villas del Bajio",
+      "postal_code": [
+        "38016"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villas del Benavente II",
+      "postal_code": [
+        "38035"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villas del Palmar",
+      "postal_code": [
+        "38018"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villas del Paraiso",
+      "postal_code": [
+        "38040"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villas del Rocio",
+      "postal_code": [
+        "38070"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villas del Romeral",
+      "postal_code": [
+        "38095"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villas del Tenis",
+      "postal_code": [
+        "38080"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villas de Roque (La Ladrillera)",
+      "postal_code": [
+        "38126"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villas de Santa Rita",
+      "postal_code": [
+        "38114"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villas Quetzal",
+      "postal_code": [
+        "38078"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villas Reales",
+      "postal_code": [
+        "38034"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villas San angel",
+      "postal_code": [
+        "38040"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Villas Vicenza",
+      "postal_code": [
+        "38033"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Vinas de La Herradura",
+      "postal_code": [
+        "38036"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Virgen del Refugio",
+      "postal_code": [
+        "38013"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Yustis (San Jose de Yustis)",
+      "postal_code": [
+        "38110"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Zempoala",
+      "postal_code": [
+        "38050"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Zona de Oro",
+      "postal_code": [
+        "38020"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Zona de Oro del Bajio",
+      "postal_code": [
+        "38015"
+      ]
+    },
+    {
+      "city": "Celaya",
+      "colonia": "Zona Industrial Poniente",
+      "postal_code": [
+        "38024"
+      ]
+    }
+  ]
+}

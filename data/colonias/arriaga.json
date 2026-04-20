@@ -1,0 +1,417 @@
+{
+  "data": [
+    {
+      "city": "Arriaga",
+      "colonia": "1ro de Mayo",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "30458"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "5 de Mayo",
+      "postal_code": [
+        "30461"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Arriaga Centro",
+      "postal_code": [
+        "30450"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Azteca (La Punta)",
+      "postal_code": [
+        "30461"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Azucenas",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Barbasco",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Bella Vista",
+      "postal_code": [
+        "30454"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Bella Vista San Isidro",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Calera",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Canta Rana",
+      "postal_code": [
+        "30454"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Ejidal",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "El Amate",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "El Calvario",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "El Capricho",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "El Retiro",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "30462"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Fovissste",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "30454"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Guatemalita",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Hollywood",
+      "postal_code": [
+        "30454"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Infonavit San Isidro",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "La Gloria",
+      "postal_code": [
+        "30463"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "La Linea",
+      "postal_code": [
+        "30464"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Las Almendras",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "30454"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Las Cruces",
+      "postal_code": [
+        "30454"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Las Mercedes",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Las Tejerias",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Las Tejerias II",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "30455"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Los Pocitos",
+      "postal_code": [
+        "30454"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Los Remedios",
+      "postal_code": [
+        "30454"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Miguel Herrera",
+      "postal_code": [
+        "30454"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Milenio Santa Cecilia",
+      "postal_code": [
+        "30454"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Mirador",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Nicolas Bravo (El Hondo)",
+      "postal_code": [
+        "30457"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Nueva Esperanza",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Nueva Santa Rosa",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Nuevo Milenio",
+      "postal_code": [
+        "30454"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Oaxaquita",
+      "postal_code": [
+        "30464"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "PEMEX",
+      "postal_code": [
+        "30454"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Pichinga",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Playa Fina",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Punta Flor",
+      "postal_code": [
+        "30465"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "San Clemente",
+      "postal_code": [
+        "30454"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "San Jorge",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "San Martin",
+      "postal_code": [
+        "30454"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "30456"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "30454"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "30454"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Universitaria",
+      "postal_code": [
+        "30454"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Venustiano Carranza",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Villa del Mar",
+      "postal_code": [
+        "30465"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Vista Flor",
+      "postal_code": [
+        "30453"
+      ]
+    },
+    {
+      "city": "Arriaga",
+      "colonia": "Vivah 2000",
+      "postal_code": [
+        "30454"
+      ]
+    }
+  ]
+}

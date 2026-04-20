@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Chiautzingo",
+      "colonia": "San Agustin Atzompa",
+      "postal_code": [
+        "74155"
+      ]
+    },
+    {
+      "city": "Chiautzingo",
+      "colonia": "San Antonio Tlatenco",
+      "postal_code": [
+        "74150"
+      ]
+    },
+    {
+      "city": "Chiautzingo",
+      "colonia": "San Juan Tetla",
+      "postal_code": [
+        "74155"
+      ]
+    },
+    {
+      "city": "Chiautzingo",
+      "colonia": "San Lorenzo Chiautzingo",
+      "postal_code": [
+        "74150"
+      ]
+    },
+    {
+      "city": "Chiautzingo",
+      "colonia": "San Nicolas Zecalacoayan",
+      "postal_code": [
+        "74155"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "San Miguel Tlacotepec",
+      "colonia": "Guadalupe Nucate",
+      "postal_code": [
+        "69737"
+      ]
+    },
+    {
+      "city": "San Miguel Tlacotepec",
+      "colonia": "San Martin Sabinillo",
+      "postal_code": [
+        "69731"
+      ]
+    },
+    {
+      "city": "San Miguel Tlacotepec",
+      "colonia": "San Miguel Tlacotepec",
+      "postal_code": [
+        "69730"
+      ]
+    },
+    {
+      "city": "San Miguel Tlacotepec",
+      "colonia": "Santiago Nuxano",
+      "postal_code": [
+        "69735"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,762 @@
+{
+  "data": [
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Almoloya de Juarez Centro",
+      "postal_code": [
+        "50900"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Armando Bernal",
+      "postal_code": [
+        "50900"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Arroyo Zarco",
+      "postal_code": [
+        "50944"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Arroyo Zarco la Mesa",
+      "postal_code": [
+        "50944"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Atotonilco",
+      "postal_code": [
+        "50920"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Barrio de la Cabecera Primera Seccion",
+      "postal_code": [
+        "50904"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Barrio de la Cabecera Tercera Seccion",
+      "postal_code": [
+        "50904"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Barrio del Jacal de Yebucivi",
+      "postal_code": [
+        "50927"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Barrio la Union Ocoyotepec",
+      "postal_code": [
+        "50925"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Barrio los Lagartos Yebucivi",
+      "postal_code": [
+        "50926"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Barrio San Pedro Zona Norte",
+      "postal_code": [
+        "50903"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Barrio Santa Juana",
+      "postal_code": [
+        "50904"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "50943"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "50910"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Besana Ancha",
+      "postal_code": [
+        "50940"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Buenavista Yebucivi",
+      "postal_code": [
+        "50927"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Canada de Guadarrama",
+      "postal_code": [
+        "50940"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Casa Nueva (Casa Nueva Yebucivi)",
+      "postal_code": [
+        "50926"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Cereso Almoloya",
+      "postal_code": [
+        "50904"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Cerro San Mateo",
+      "postal_code": [
+        "50904"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Cieneguillas de Guadalupe",
+      "postal_code": [
+        "50933"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Cieneguillas de Manones",
+      "postal_code": [
+        "50924"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Colinas del Sol",
+      "postal_code": [
+        "50903"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Colinas de San Francisco",
+      "postal_code": [
+        "50943"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Conjunto Urbano Rancho San Juan",
+      "postal_code": [
+        "50920"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Del Carmen",
+      "postal_code": [
+        "50920"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Dilatada Sur (Dilatada)",
+      "postal_code": [
+        "50944"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Ecologico SUTEYM",
+      "postal_code": [
+        "50900"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Ejido de San Lorenzo Cuauhtenco",
+      "postal_code": [
+        "50903"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Ejido de Santa Juana Primera seccion",
+      "postal_code": [
+        "50920"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Ejido la Gavia (San Jose la Gavia)",
+      "postal_code": [
+        "50930"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Ejido San Antonio Ocoyotepec",
+      "postal_code": [
+        "50920"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Ejido San Diego",
+      "postal_code": [
+        "50934"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "El Estanco",
+      "postal_code": [
+        "50945",
+        "50945"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "El Plan",
+      "postal_code": [
+        "50907"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "El Plan de San Pedro",
+      "postal_code": [
+        "50900"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "El Plan Ocoyotepec",
+      "postal_code": [
+        "50927"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "El Santito (Barrio el Santito Yebucivi)",
+      "postal_code": [
+        "50926"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "El Tepetatal",
+      "postal_code": [
+        "50906"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "El Tulillo",
+      "postal_code": [
+        "50935"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Ex-Hacienda Boreje",
+      "postal_code": [
+        "50920"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Framboyanes",
+      "postal_code": [
+        "50904"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Geovillas el Nevado",
+      "postal_code": [
+        "50943"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Hacienda la Gavia",
+      "postal_code": [
+        "50930"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "La Cabecera",
+      "postal_code": [
+        "50904"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "La Galera (La Galera)",
+      "postal_code": [
+        "50935"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Laguna de Tabernillas (El Resbaloso)",
+      "postal_code": [
+        "50910"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "La Hortaliza",
+      "postal_code": [
+        "50934"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "La Lagunita Yebucivi",
+      "postal_code": [
+        "50927"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "La Lima",
+      "postal_code": [
+        "50944"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "La Navidad",
+      "postal_code": [
+        "50906"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "La Posta",
+      "postal_code": [
+        "50944"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "La Soledad Ocoyotepec",
+      "postal_code": [
+        "50927"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "50930"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Lazaro Cardenas (La Trampa)",
+      "postal_code": [
+        "50927"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Loma Blanca",
+      "postal_code": [
+        "50935"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Loma de Guadalupe",
+      "postal_code": [
+        "50943"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Loma de Juarez",
+      "postal_code": [
+        "50900"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Loma de la Tinaja",
+      "postal_code": [
+        "50933"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Loma del Jacal (Loma de las Mangas)",
+      "postal_code": [
+        "50910"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Loma del Rancho",
+      "postal_code": [
+        "50925"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Loma del Salitre",
+      "postal_code": [
+        "50925"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Loma de San Miguel",
+      "postal_code": [
+        "50946"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Mayorazgo de Leon (Estacion Rio Mexico)",
+      "postal_code": [
+        "50920"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Mextepec (Ex-Hacienda Mextepec)",
+      "postal_code": [
+        "50910"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Mina Mexico",
+      "postal_code": [
+        "50903"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Ocoyotepec (Ocoyotepec Centro)",
+      "postal_code": [
+        "50927"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Olaldea (Colonia Olaldea)",
+      "postal_code": [
+        "50946"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Palos Amarillos (Palos Amarillos Yebucivi)",
+      "postal_code": [
+        "50927"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Paredon Centro",
+      "postal_code": [
+        "50935"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Paredon Ejido",
+      "postal_code": [
+        "50934"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Paredon Ejido Norte",
+      "postal_code": [
+        "50934"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Poteje Norte",
+      "postal_code": [
+        "50946"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Poteje Sur",
+      "postal_code": [
+        "50946"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Rancho Carbajales",
+      "postal_code": [
+        "50940"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "50943"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Rincon del Alamo",
+      "postal_code": [
+        "50903"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Rio Frio (Rio Frio Yebucivi)",
+      "postal_code": [
+        "50926"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Rosa Morada",
+      "postal_code": [
+        "50946"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Salitre de Manones",
+      "postal_code": [
+        "50920"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "San Agustin Citlali",
+      "postal_code": [
+        "50920"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "San Agustin las Tablas",
+      "postal_code": [
+        "50924"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "San Agustin Poteje Centro",
+      "postal_code": [
+        "50946"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "San Antonio Atotonilco",
+      "postal_code": [
+        "50920"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "San Antonio Buenavista",
+      "postal_code": [
+        "50945"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "San Cristobal",
+      "postal_code": [
+        "50933"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "San Diego Buenavista (Ejido San Diego)",
+      "postal_code": [
+        "50934"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "San Diego (Cienega de San Diego)",
+      "postal_code": [
+        "50934"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "San Francisco Tlalcilalcalpan",
+      "postal_code": [
+        "50940"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "San Isidro (El Reservado)",
+      "postal_code": [
+        "50940"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "San Jose Amealco (Rancho el Capulin)",
+      "postal_code": [
+        "50903"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "San Lorenzo Cuauhtenco",
+      "postal_code": [
+        "50907"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "San Mateo Tlalchichilpan",
+      "postal_code": [
+        "50904"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "San Miguel Almoloyan",
+      "postal_code": [
+        "50906"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "50903"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "San Nicolas Amealco",
+      "postal_code": [
+        "50945"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "50900",
+        "50903"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "San Pedro de la Hortaliza (Ejido Almoloyan)",
+      "postal_code": [
+        "50907"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Santa Cruz de los Patos",
+      "postal_code": [
+        "50940"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Santa Juana Centro (La Palma)",
+      "postal_code": [
+        "50920"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Santa Juana Primera Seccion",
+      "postal_code": [
+        "50903"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Santa Juana Segunda Seccion",
+      "postal_code": [
+        "50920"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Santa Maria Nativitas",
+      "postal_code": [
+        "50906"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Santa Maria Nativitas (Ejido Tres Barrancas)",
+      "postal_code": [
+        "50946"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Santiaguito",
+      "postal_code": [
+        "50934"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Santiaguito Tlalcilalcalli",
+      "postal_code": [
+        "50904"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Tabernillas (Santa Catarina)",
+      "postal_code": [
+        "50910"
+      ]
+    },
+    {
+      "city": "Almoloya de Juarez",
+      "colonia": "Yebucivi Centro (Yebucivi)",
+      "postal_code": [
+        "50927"
+      ]
+    }
+  ]
+}

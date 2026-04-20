@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Tlacojalpan",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "95526"
+      ]
+    },
+    {
+      "city": "Tlacojalpan",
+      "colonia": "Alcalde Ambrosio",
+      "postal_code": [
+        "95530"
+      ]
+    },
+    {
+      "city": "Tlacojalpan",
+      "colonia": "Gertrudis Valles",
+      "postal_code": [
+        "95525"
+      ]
+    },
+    {
+      "city": "Tlacojalpan",
+      "colonia": "Playa Maria",
+      "postal_code": [
+        "95533"
+      ]
+    },
+    {
+      "city": "Tlacojalpan",
+      "colonia": "Tlacojalpan Centro",
+      "postal_code": [
+        "95520"
+      ]
+    }
+  ]
+}

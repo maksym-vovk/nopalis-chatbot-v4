@@ -1,0 +1,961 @@
+{
+  "data": [
+    {
+      "city": "Tlatlaya",
+      "colonia": "Agua Fria",
+      "postal_code": [
+        "51569"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Amacuatitla",
+      "postal_code": [
+        "51577"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Ancon de la Presa",
+      "postal_code": [
+        "51599"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Ancon de los Curieles",
+      "postal_code": [
+        "51584"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Azuchil",
+      "postal_code": [
+        "51560"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Barranca de las Flores",
+      "postal_code": [
+        "51572"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Barriales",
+      "postal_code": [
+        "51558"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "51557"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Cacahuananche",
+      "postal_code": [
+        "51566"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Cascalote",
+      "postal_code": [
+        "51587"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Cerro Blanco",
+      "postal_code": [
+        "51574"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Cerro de Aguacatepec",
+      "postal_code": [
+        "51578"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Cerro del Morado",
+      "postal_code": [
+        "51554"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Cerro de los Bautistas",
+      "postal_code": [
+        "51564"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Chachalacatenco",
+      "postal_code": [
+        "51572"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Charco del Lagarto",
+      "postal_code": [
+        "51575"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Cirian Grande",
+      "postal_code": [
+        "51587"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Coahuilotes",
+      "postal_code": [
+        "51566"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Coatepec",
+      "postal_code": [
+        "51553"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Corral de Piedra",
+      "postal_code": [
+        "51578"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Corral de Piedra Dos",
+      "postal_code": [
+        "51554"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Corral Parota",
+      "postal_code": [
+        "51559"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Cruz del Norte",
+      "postal_code": [
+        "51577"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Cuadrilla de Gutierrez",
+      "postal_code": [
+        "51556"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Cuadrilla de las Flores",
+      "postal_code": [
+        "51579"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Cuadrilla del Cirian (Cirian Grande)",
+      "postal_code": [
+        "51579"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Cuadrilla de los Sotero",
+      "postal_code": [
+        "51558"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Cuadrilla Nueva",
+      "postal_code": [
+        "51576",
+        "51584"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Dieciocho de Marzo",
+      "postal_code": [
+        "51553"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Alambique",
+      "postal_code": [
+        "51572"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "51554"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Ciruelo",
+      "postal_code": [
+        "51569"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Devanador",
+      "postal_code": [
+        "51565"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Gavilan",
+      "postal_code": [
+        "51577"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Guayabo",
+      "postal_code": [
+        "51587"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Guitarratel",
+      "postal_code": [
+        "51588"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Higo Prieto",
+      "postal_code": [
+        "51584"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Limo",
+      "postal_code": [
+        "51580"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Limon",
+      "postal_code": [
+        "51556"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Llano",
+      "postal_code": [
+        "51587"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Mango",
+      "postal_code": [
+        "51556",
+        "51578"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Manguito",
+      "postal_code": [
+        "51575"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Monton",
+      "postal_code": [
+        "51573"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Naranjito",
+      "postal_code": [
+        "51566",
+        "51569"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Naranjo",
+      "postal_code": [
+        "51598"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Naranjo Palmar Grande",
+      "postal_code": [
+        "51582"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Poroche",
+      "postal_code": [
+        "51564"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Potrero",
+      "postal_code": [
+        "51555"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Reparo",
+      "postal_code": [
+        "51569"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Revelado",
+      "postal_code": [
+        "51554"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Salitre Ojo de Agua",
+      "postal_code": [
+        "51584"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Salitrillo",
+      "postal_code": [
+        "51578"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Sauz",
+      "postal_code": [
+        "51588"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Suchual",
+      "postal_code": [
+        "51579"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Tamarindo",
+      "postal_code": [
+        "51573"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Temblor",
+      "postal_code": [
+        "51598"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Terroncillo",
+      "postal_code": [
+        "51553"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Tiquimil",
+      "postal_code": [
+        "51564"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Toroal",
+      "postal_code": [
+        "51573"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "51566"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "El Zopilote",
+      "postal_code": [
+        "51576"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Huixtitla",
+      "postal_code": [
+        "51587"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Juntas del Paso Topilar",
+      "postal_code": [
+        "51554"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Juntas del Rio Limon",
+      "postal_code": [
+        "51556"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Juntas de Santa Ana Zicatecoyan",
+      "postal_code": [
+        "51576"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "La Alcantarilla",
+      "postal_code": [
+        "51578"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "La Cofradia",
+      "postal_code": [
+        "51558",
+        "51579"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "La Cubata",
+      "postal_code": [
+        "51565"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "La Cueva",
+      "postal_code": [
+        "51553"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "La Guacamaya",
+      "postal_code": [
+        "51559"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "La Laguna Puerto de la Arena",
+      "postal_code": [
+        "51555"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "La Lagunilla",
+      "postal_code": [
+        "51568"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "La Parota",
+      "postal_code": [
+        "51573",
+        "51599"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Las Esmeraldas",
+      "postal_code": [
+        "51588"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Las Esmeraldas (Puerto del organo)",
+      "postal_code": [
+        "51588"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Las Juntas",
+      "postal_code": [
+        "51598"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Las Juntas de Azuchil",
+      "postal_code": [
+        "51564"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Las Juntas del Paso",
+      "postal_code": [
+        "51569"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "La Vibora",
+      "postal_code": [
+        "51569"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Limon Terrero",
+      "postal_code": [
+        "51560"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Loma Larga",
+      "postal_code": [
+        "51553"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Los Hornos",
+      "postal_code": [
+        "51574"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Los Limones",
+      "postal_code": [
+        "51569"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Los Miraveles",
+      "postal_code": [
+        "51553"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Los Ocotes",
+      "postal_code": [
+        "51557"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Macuatitla",
+      "postal_code": [
+        "51583"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Mayaltepec",
+      "postal_code": [
+        "51587"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Mazatitla",
+      "postal_code": [
+        "51559"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Moctezuma",
+      "postal_code": [
+        "51576"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Nuevo Copaltepec",
+      "postal_code": [
+        "51598"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Palmar Grande",
+      "postal_code": [
+        "51582"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Palma Torcida",
+      "postal_code": [
+        "51583"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Palos Altos",
+      "postal_code": [
+        "51598"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Palos Verdes",
+      "postal_code": [
+        "51586"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Paso de Jaquinicuil",
+      "postal_code": [
+        "51569"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Pena Blanca",
+      "postal_code": [
+        "51587"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Pena Colorada",
+      "postal_code": [
+        "51572"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Pena del Agua",
+      "postal_code": [
+        "51553"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Pena del organo",
+      "postal_code": [
+        "51575"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Pie del Cerro",
+      "postal_code": [
+        "51579"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Pie del Cerro San Vicente",
+      "postal_code": [
+        "51583"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Piedra Ancha",
+      "postal_code": [
+        "51553"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Pinzan Morado",
+      "postal_code": [
+        "51572"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Plan de la Cuadrilla",
+      "postal_code": [
+        "51555"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Plan del Alambique",
+      "postal_code": [
+        "51572"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Pueblo Nuevo",
+      "postal_code": [
+        "51558"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Puerto de la  Arena",
+      "postal_code": [
+        "51555"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Puerto de los Martinez",
+      "postal_code": [
+        "51588"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Puerto Frio",
+      "postal_code": [
+        "51553"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Puerto Minatitlan",
+      "postal_code": [
+        "51577"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Puerto Seco",
+      "postal_code": [
+        "51577"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Rancho Cua",
+      "postal_code": [
+        "51576"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Ranchos Nuevos",
+      "postal_code": [
+        "51566"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "51587"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Rincon del Aguacate",
+      "postal_code": [
+        "51578"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Rincon Grande",
+      "postal_code": [
+        "51590"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Rio Topilar",
+      "postal_code": [
+        "51574"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Salitre Grande",
+      "postal_code": [
+        "51578"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "San Antonio del Rosario",
+      "postal_code": [
+        "51598"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "San Felipe Tepehuastitlan",
+      "postal_code": [
+        "51579"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "San Francisco de Asis",
+      "postal_code": [
+        "51580"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "San Juan Corral",
+      "postal_code": [
+        "51573"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "San Juan Tetitlan",
+      "postal_code": [
+        "51557"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "San Lucas",
+      "postal_code": [
+        "51579"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "San Mateo",
+      "postal_code": [
+        "51556"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "San Pedro Limon",
+      "postal_code": [
+        "51585"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Santa Ana Zicatecoyan",
+      "postal_code": [
+        "51570"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "51559"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "51559"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Tecomatlan",
+      "postal_code": [
+        "51554"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Tejupilquito",
+      "postal_code": [
+        "51579"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Teopazul",
+      "postal_code": [
+        "51553"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "51570"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Tlacocuspan",
+      "postal_code": [
+        "51580"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Tlatlaya",
+      "postal_code": [
+        "51550"
+      ]
+    },
+    {
+      "city": "Tlatlaya",
+      "colonia": "Vuelta del Rio",
+      "postal_code": [
+        "51565"
+      ]
+    }
+  ]
+}

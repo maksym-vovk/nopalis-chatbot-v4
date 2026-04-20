@@ -1,0 +1,1643 @@
+{
+  "data": [
+    {
+      "city": "Chinipas",
+      "colonia": "Agua Caliente",
+      "postal_code": [
+        "33365",
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Agua Caliente de Gorogachi",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Agua del Venado",
+      "postal_code": [
+        "33363"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Agua Escondida",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Agua Salada",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Agueyvo",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Arroyo de la Yerba",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Arroyo Hondo",
+      "postal_code": [
+        "33363",
+        "33365",
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Babarocos",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Bacusico",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Bajuba",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Barahueco",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Basigochi",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Benjamin M. Chaparro (Santa Ana)",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Boca de Arroyo",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Boriegachi",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Camino Ancho",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Canelas",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Canelichi",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Carretas",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Casa Colorada",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Casa Colorada (Mesa Colorada)",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Casas Nuevas",
+      "postal_code": [
+        "33363"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Chaichaco",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Chapotillo",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Charco Prieto",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Charco Verde",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Chinajaque",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Chinipas de Almada",
+      "postal_code": [
+        "33360"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Cienega Amarilla",
+      "postal_code": [
+        "33363"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Cienega de Urias (La Cieneguita)",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Cituchi",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Cordon de Enmedio",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Cuajarico",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Cusasicuchi",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Desechos",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Aguaje",
+      "postal_code": [
+        "33366",
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Aguajito",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Arenoso",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Arroyo",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Caido",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Cajon",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Camuchin",
+      "postal_code": [
+        "33364",
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Corte",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Cusal",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Duraznito",
+      "postal_code": [
+        "33366",
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Duraznito (Rancho el Perro)",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Durazno (El Duraznito)",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Frijolar",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Geco",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Guamuchil",
+      "postal_code": [
+        "33365",
+        "33365",
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Intestado",
+      "postal_code": [
+        "33363"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Jeco",
+      "postal_code": [
+        "33363"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Jordan",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Lepero",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Limon",
+      "postal_code": [
+        "33364",
+        "33365",
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Limoncito",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Llano Colorado",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Majoy",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Manzanillal",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Muerto",
+      "postal_code": [
+        "33363",
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Naranjo",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Potrero",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Puerto Bajo",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Recodo",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "33363"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Reparo",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Retanque",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Salitre",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Saucillo",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Saucito",
+      "postal_code": [
+        "33363",
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Sauz",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Sauz Mocho",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Siviri",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Sombrerito",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Tabacal",
+      "postal_code": [
+        "33363"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Tarahumara",
+      "postal_code": [
+        "33363"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Tascate",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Tepehuaje",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Trigo de Russo (El Trigo)",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Triguito",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Vallecillo",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Zapote de Rascon",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "El Zapote (El Zapote de Chinipas)",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Encino Gordo",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Fumiagueda",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Gorogachi",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Gorojaqui",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Goromeibo",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Goruyvo",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Guacayvo",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Guacharare",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Guamuchilito",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Guasachi",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Guasaremo",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Guasisaco de Russo",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Guazizaco",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Guerra al Tirano (La Vinata)",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Güisiego",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Hacienda Vieja (La Hacienda)",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Huicochi",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Huicorichic (Huicorichi)",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Huisivo",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Ignacio Valenzuela Lagarda (Loreto)",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Jeco",
+      "postal_code": [
+        "33363"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Jinaburachi",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Joropachi",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Arenosa",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Calabaza",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Cana",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Canita",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Cieneguita (La Cieneguita de Ochoa)",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Cueva del Burro",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Cumbre",
+      "postal_code": [
+        "33363",
+        "33367",
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Finca",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Finca (La Higuera)",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Higuerita",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Jarillosa",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Joya",
+      "postal_code": [
+        "33363"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Justina",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Laja",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Laja (Las Lajas)",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Lobera",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Loma",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Mesa Bonita",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Mesa del Rosario",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Mision de Guadalupe",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Mojonera",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Nopalera",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Palma",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Reforma",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Las Borregas",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Las Chinacas",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Las Delicias",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Las Guasimas",
+      "postal_code": [
+        "33364",
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Las Palomas",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Las Tinajas",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Las Tunas",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Travesia",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Turbina (El Barrio)",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Vinata",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Vinateria",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Vinatita",
+      "postal_code": [
+        "33365",
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Vuelta Larga",
+      "postal_code": [
+        "33363"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "La Yerbabuena",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Loma la Joya",
+      "postal_code": [
+        "33363"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Los Alamillos",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Los Alamillos de Loreto",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Los Bajios",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Los Bancos",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Los Bitachis",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Los Conejos",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Los Coscomates",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Los Desfiladeros",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Los Gachupines",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Los Gavilanes",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Los Hornos",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Los Jovinos",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Los Llanitos",
+      "postal_code": [
+        "33364",
+        "33365",
+        "33366",
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Los Llanos",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Los Platanos",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Los Sonogoris",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Maclovia",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Mesa de Guasachi",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Mesa de Guazago",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Mesa de la Mula",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Mesa de Zamorano",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Mesa Pinosa",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Milpillas",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Mochagari",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Montenegro (San Antonio)",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Murichiqui",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Naranjitos",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Nopalera",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Ocoibo",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Orivo",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Palmarejo",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Palo Santo",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Pie de la Cuesta",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Pinos Altos",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Popuayvo",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Poriachi",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Rancho Quemado",
+      "postal_code": [
+        "33363",
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Salitrillo",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Salvio",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "33363"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "San Atanasio",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "San Jose Huisivo",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "San Juan de Dios",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "San Rafael de Orivo",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "San Raymundo",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "33363",
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "33363",
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "San Tiburcio",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Satevo",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Saucillo de Breach (El Saucillo)",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Saucillo de los Lugo",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Saucillo de Quinones",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Saucillo de Zamorano",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Secoyachi",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Sonogoris",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Tajirachi",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Taunas",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Tecorahui",
+      "postal_code": [
+        "33363"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Tejanapuchi",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Terrero Prieto",
+      "postal_code": [
+        "33366"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Terrero Tres",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Tisiripa",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Todos Santos",
+      "postal_code": [
+        "33365"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Uriscuchi",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Vuelta del Cerro",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Yecaroma",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Yerba Buena",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Yoricarichi",
+      "postal_code": [
+        "33364"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Zaguaripa",
+      "postal_code": [
+        "33367"
+      ]
+    },
+    {
+      "city": "Chinipas",
+      "colonia": "Zapote del Cura",
+      "postal_code": [
+        "33364"
+      ]
+    }
+  ]
+}

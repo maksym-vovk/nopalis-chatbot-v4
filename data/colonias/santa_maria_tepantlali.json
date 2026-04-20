@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Santa Maria Tepantlali",
+      "colonia": "Cerro Costoche",
+      "postal_code": [
+        "70287"
+      ]
+    },
+    {
+      "city": "Santa Maria Tepantlali",
+      "colonia": "Mosquito Blanco",
+      "postal_code": [
+        "70286"
+      ]
+    },
+    {
+      "city": "Santa Maria Tepantlali",
+      "colonia": "Santa Maria Tepantlali",
+      "postal_code": [
+        "70286"
+      ]
+    }
+  ]
+}

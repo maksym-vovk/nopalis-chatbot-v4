@@ -1,0 +1,1708 @@
+{
+  "data": [
+    {
+      "city": "San Pedro",
+      "colonia": "Agricola Aquiles Serdan Numero Dos",
+      "postal_code": [
+        "27948"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Agua Nueva",
+      "postal_code": [
+        "27845"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Alejandria",
+      "postal_code": [
+        "27956"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Alejo Gonzalez (Bilbao)",
+      "postal_code": [
+        "27944"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Algorta",
+      "postal_code": [
+        "27944"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Altamira",
+      "postal_code": [
+        "27812",
+        "27812"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Ampliacion Agua Nueva",
+      "postal_code": [
+        "27845"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Ampliacion el Fenix",
+      "postal_code": [
+        "27810"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Ampliacion Lazaro Cardenas",
+      "postal_code": [
+        "27839"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Anibal Flores Neira",
+      "postal_code": [
+        "27846"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Aquiles Serdan",
+      "postal_code": [
+        "27943"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Barrio de Guadalupe",
+      "postal_code": [
+        "27880"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Barrio Nuevo",
+      "postal_code": [
+        "27805"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Barrio Saltillo",
+      "postal_code": [
+        "27850"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Barrio San Luis",
+      "postal_code": [
+        "27804"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Beta Santa Monica [Sociedad de Produccion Rural]",
+      "postal_code": [
+        "27948"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Bolivar",
+      "postal_code": [
+        "27953"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "27954"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Burocratas Municipales",
+      "postal_code": [
+        "27810"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Candelaria",
+      "postal_code": [
+        "27954"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Carlos Salinas de Gortari (San Salvador)",
+      "postal_code": [
+        "27958"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Carolina del Norte",
+      "postal_code": [
+        "27953"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Carolinas",
+      "postal_code": [
+        "27953"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Cerrada San Fernando",
+      "postal_code": [
+        "27810"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Cerrada San Javier",
+      "postal_code": [
+        "27810"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Charco Verde",
+      "postal_code": [
+        "27953"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Cleto",
+      "postal_code": [
+        "27970"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Concordia (La Rosita)",
+      "postal_code": [
+        "27950"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Cuauhtemoc Cardenas (Medio Pulmon)",
+      "postal_code": [
+        "27945"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Del Valle",
+      "postal_code": [
+        "27848"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Diana Laura Rioja de Colosio",
+      "postal_code": [
+        "27845"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Diez de Mayo (El Chorizo)",
+      "postal_code": [
+        "27944"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Diez de Mayo (El Grupo)",
+      "postal_code": [
+        "27944"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Diez de Mayo (Las Casitas)",
+      "postal_code": [
+        "27944"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Diez de Mayo (Los Ramirez)",
+      "postal_code": [
+        "27944"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Dona Blanca",
+      "postal_code": [
+        "27954"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Don Jose (El Recuerdo)",
+      "postal_code": [
+        "27946"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Doroteo Arango",
+      "postal_code": [
+        "27950"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Ejido el Ancora",
+      "postal_code": [
+        "27840"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El Ancora",
+      "postal_code": [
+        "27810"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El ancora (La Independencia)",
+      "postal_code": [
+        "27960"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El Cairo",
+      "postal_code": [
+        "27960"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El Chamizal",
+      "postal_code": [
+        "27845"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El Chubasco",
+      "postal_code": [
+        "27948"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El Cosaco",
+      "postal_code": [
+        "27943"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El Cristo",
+      "postal_code": [
+        "27953"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El Destino de Abajo de San Isidro",
+      "postal_code": [
+        "27953"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El Estribo",
+      "postal_code": [
+        "27943"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El Fenix",
+      "postal_code": [
+        "27850"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El Gatuno",
+      "postal_code": [
+        "27948"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Eliseo Mendoza Berrueto",
+      "postal_code": [
+        "27811"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El Jacalon",
+      "postal_code": [
+        "27948"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El Mezquite",
+      "postal_code": [
+        "27975"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "27845"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El Nilo",
+      "postal_code": [
+        "27970"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El Pinto",
+      "postal_code": [
+        "27965"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El Porvenir de Abajo",
+      "postal_code": [
+        "27960"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El Porvenir (El Siete)",
+      "postal_code": [
+        "27958"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "27943"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El Rayo",
+      "postal_code": [
+        "27965"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El Retiro",
+      "postal_code": [
+        "27943"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El Retiro Viejo",
+      "postal_code": [
+        "27957"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El Triangulo",
+      "postal_code": [
+        "27850",
+        "27954"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El Triangulo (Vicente Vazquez Ontiveros)",
+      "postal_code": [
+        "27953"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "El Venado",
+      "postal_code": [
+        "27958"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "27880"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Emiliano Zapata (Albia)",
+      "postal_code": [
+        "27944"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Emiliano Zapata (Las Jaulas)",
+      "postal_code": [
+        "27948"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Estacion Santa Teresa",
+      "postal_code": [
+        "27948"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Estrellita del Norte (El Retiro Nuevo)",
+      "postal_code": [
+        "27958"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Estrellita del Norte (Santa Maria)",
+      "postal_code": [
+        "27958",
+        "27958"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Felix Ramirez (Gavilanes)",
+      "postal_code": [
+        "27946"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Flores Magon",
+      "postal_code": [
+        "27953"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Fraba [Lacteos]",
+      "postal_code": [
+        "27944"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Francisco I Madero",
+      "postal_code": [
+        "27870"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "27890"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Frontera",
+      "postal_code": [
+        "27970"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Gabino Vazquez (Begona)",
+      "postal_code": [
+        "27946"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Gatas Mochas",
+      "postal_code": [
+        "27958"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Grupo Numero Tres (Ejido Alejo Gonzalez)",
+      "postal_code": [
+        "27944"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Guadalupe Ramirez",
+      "postal_code": [
+        "27948"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Hector Chapa",
+      "postal_code": [
+        "27953"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "27955"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "INFONAVIT",
+      "postal_code": [
+        "27811"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Junta Civica Francisco I Madero",
+      "postal_code": [
+        "27823"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "La America",
+      "postal_code": [
+        "27813"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "La Asuncion (La Chona)",
+      "postal_code": [
+        "27946"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "La Candelaria",
+      "postal_code": [
+        "27974",
+        "27974"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "La Carolina (La Nueva Carolina)",
+      "postal_code": [
+        "27953"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "La Casa de la Noria",
+      "postal_code": [
+        "27958"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "La Ciudadela (El Eucalipto)",
+      "postal_code": [
+        "27958"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "La Encantada (Carlos Sifuentes Ugalde)",
+      "postal_code": [
+        "27970"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "27944"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "La Estrella y la Barca",
+      "postal_code": [
+        "27953"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "La Fe",
+      "postal_code": [
+        "27944",
+        "27945",
+        "27954"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Lagos de Moreno (Ampueros)",
+      "postal_code": [
+        "27946"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "La Lucecita (La Luz Nueva)",
+      "postal_code": [
+        "27970"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "La Luz",
+      "postal_code": [
+        "27970"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "La Luz (La Luz Vieja)",
+      "postal_code": [
+        "27970"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "La Noria de Progreso",
+      "postal_code": [
+        "27957"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "La Noria Numero Uno (Lazaro Cardenas)",
+      "postal_code": [
+        "27948"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "La Palma",
+      "postal_code": [
+        "27943",
+        "27945"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "La Pentalfa",
+      "postal_code": [
+        "27954"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "La Quinta",
+      "postal_code": [
+        "27847"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "La Rosita",
+      "postal_code": [
+        "27950"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "27890"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Las Carretas",
+      "postal_code": [
+        "27944"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Las Catarinas",
+      "postal_code": [
+        "27870"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Las Habas",
+      "postal_code": [
+        "27850"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "27850",
+        "27960",
+        "27960"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Las Mercedes [Agricola]",
+      "postal_code": [
+        "27955"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Las Misiones",
+      "postal_code": [
+        "27863"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "27810"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Las Pistolas",
+      "postal_code": [
+        "27960"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Las Rosas",
+      "postal_code": [
+        "27850"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Las Rosas Popular",
+      "postal_code": [
+        "27850"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "27820"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "La Victoria",
+      "postal_code": [
+        "27945"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "27830"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Lazaro Cardenas (Dolores)",
+      "postal_code": [
+        "27948"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Los Arenales (Felix Fernandez)",
+      "postal_code": [
+        "27957"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Los Nogales",
+      "postal_code": [
+        "27811"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Los Rebeldes",
+      "postal_code": [
+        "27957"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "27870"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Luchana",
+      "postal_code": [
+        "27940"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Luchana Dos",
+      "postal_code": [
+        "27944"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "27838"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Mala Noche y Arracadas",
+      "postal_code": [
+        "27976"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Manuel Samaniego Aguilar",
+      "postal_code": [
+        "27957"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Maravillas",
+      "postal_code": [
+        "27943"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Margarita del Norte",
+      "postal_code": [
+        "27966"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Marte",
+      "postal_code": [
+        "27943"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Maura Gomez",
+      "postal_code": [
+        "27813"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Mayran",
+      "postal_code": [
+        "27970"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Menfis",
+      "postal_code": [
+        "27970"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Miguel del Hoyo",
+      "postal_code": [
+        "27953"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "27860"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Mitla",
+      "postal_code": [
+        "27943"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Monterrey",
+      "postal_code": [
+        "27830"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Morelos y Pavon",
+      "postal_code": [
+        "27958"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Noria Algorta Numero 2",
+      "postal_code": [
+        "27944"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Noria Algorta Numero 3",
+      "postal_code": [
+        "27944"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Noria Doroteo Arango",
+      "postal_code": [
+        "27953"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Noria Sector Tres A (Ejido Luchana)",
+      "postal_code": [
+        "27948"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Nueva Candelaria",
+      "postal_code": [
+        "27954",
+        "27975"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Nueva Victoria",
+      "postal_code": [
+        "27967"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Nuevo Delicias",
+      "postal_code": [
+        "27965"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Nuevo Mundo",
+      "postal_code": [
+        "27945"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Nuevo San Juan Bautista",
+      "postal_code": [
+        "27955"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Nuevo San Pedro (La Puerta)",
+      "postal_code": [
+        "27975"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Obrera Benito Juarez",
+      "postal_code": [
+        "27860"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Panama",
+      "postal_code": [
+        "27954"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Parcela Uno de Aquiles Serdan",
+      "postal_code": [
+        "27948"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Parque Industrial San Pedro",
+      "postal_code": [
+        "27845"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Patrocinio",
+      "postal_code": [
+        "27960"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Pequena de Urquizo",
+      "postal_code": [
+        "27948"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Pequena Lote Cuatro Concordia",
+      "postal_code": [
+        "27943"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Pequena Propiedad Urquizo",
+      "postal_code": [
+        "27957"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Popular el Fenix",
+      "postal_code": [
+        "27810"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Popular San Isidro",
+      "postal_code": [
+        "27822"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Presa de Cleto",
+      "postal_code": [
+        "27970"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Presa de Guadalupe (Vida Nueva)",
+      "postal_code": [
+        "27948"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Primero de Mayo (Algorta)",
+      "postal_code": [
+        "27944"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Progreso",
+      "postal_code": [
+        "27957"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Proletaria Benito Juarez",
+      "postal_code": [
+        "27840"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Purisima de Rubio",
+      "postal_code": [
+        "27946"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Rafael Padilla Medina (El Olmo)",
+      "postal_code": [
+        "27953"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Ramos Arizpe",
+      "postal_code": [
+        "27838"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Raul Gamez Espinoza",
+      "postal_code": [
+        "27810"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Reynosa",
+      "postal_code": [
+        "27958"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "27943"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Rincon de Garcia (Rincon de Garcia Chacon)",
+      "postal_code": [
+        "27977"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "27954"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Alberto",
+      "postal_code": [
+        "27946"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Alberto la Herradura (Archandas)",
+      "postal_code": [
+        "27946"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Antonio de Gurza",
+      "postal_code": [
+        "27953"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Carlos de la Fe",
+      "postal_code": [
+        "27945"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Carlos (Las Margaritas)",
+      "postal_code": [
+        "27953"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Esteban de Abajo",
+      "postal_code": [
+        "27954"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Felipe (San Felipe de Purcell)",
+      "postal_code": [
+        "27955"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Francisco de Arriba",
+      "postal_code": [
+        "27957"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Francisco de Gurza (Santa Rosa)",
+      "postal_code": [
+        "27953"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Francisco de la Fe",
+      "postal_code": [
+        "27944"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Francisco del Valle",
+      "postal_code": [
+        "27966"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Ignacio",
+      "postal_code": [
+        "27946",
+        "27958"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Ignacio Dos",
+      "postal_code": [
+        "27957"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Ignacio [Establo]",
+      "postal_code": [
+        "27957"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "27953"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Isidro (El Jacalon)",
+      "postal_code": [
+        "27953"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "27957"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Luis de Gurza",
+      "postal_code": [
+        "27950"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "27955"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "27970"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "27970"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "27958",
+        "27958"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Patricio",
+      "postal_code": [
+        "27955"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Pedro Centro",
+      "postal_code": [
+        "27800"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Pedro (Jose Ruiz Velazquez)",
+      "postal_code": [
+        "27954"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Rafael de Abajo",
+      "postal_code": [
+        "27955"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Rafael de Arriba",
+      "postal_code": [
+        "27944"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Roque",
+      "postal_code": [
+        "27960"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Roque 2",
+      "postal_code": [
+        "27960"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "San Salvador (El Despepite)",
+      "postal_code": [
+        "27955"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Santa Alicia",
+      "postal_code": [
+        "27954"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "27945"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Santa Ana (Santa Ana de Arriba)",
+      "postal_code": [
+        "27945"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Santa Anita",
+      "postal_code": [
+        "27960"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Santa Anita Medio Lote (Gabriel Diaz Lopez)",
+      "postal_code": [
+        "27960"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Santa Anita Uno (El Jacalon)",
+      "postal_code": [
+        "27960"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Santa Brigida",
+      "postal_code": [
+        "27958"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "27954"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Santa Eulalia",
+      "postal_code": [
+        "27957"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "27960",
+        "27960"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Santa Monica",
+      "postal_code": [
+        "27948"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "27953",
+        "27970"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Santa Sofia (Sofia de Abajo)",
+      "postal_code": [
+        "27955"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Santiago",
+      "postal_code": [
+        "27956"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Santo Nino",
+      "postal_code": [
+        "27970"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Santo Tomas",
+      "postal_code": [
+        "27958",
+        "27958",
+        "27958"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Santo Tomas (Ernesto Melendez)",
+      "postal_code": [
+        "27958"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Sociedad Bellavista (Ejido Luchana)",
+      "postal_code": [
+        "27948"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Sofia de Arriba",
+      "postal_code": [
+        "27945"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Tacuba",
+      "postal_code": [
+        "27954"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Tacubaya",
+      "postal_code": [
+        "27954"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Tacubaya Uno (San Jose de los alamos)",
+      "postal_code": [
+        "27956"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Tebas",
+      "postal_code": [
+        "27970"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Tebas y Palmira",
+      "postal_code": [
+        "27970",
+        "27970"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Tres Estrellas",
+      "postal_code": [
+        "27945"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Urquizo",
+      "postal_code": [
+        "27950"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Valle del Norte",
+      "postal_code": [
+        "27812"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Valparaiso",
+      "postal_code": [
+        "27880"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Vega Larga",
+      "postal_code": [
+        "27945"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Veinte de Noviembre (Santa Lucia)",
+      "postal_code": [
+        "27944"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Vida Nueva (Las Palmas)",
+      "postal_code": [
+        "27948"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Vida Nueva Uno",
+      "postal_code": [
+        "27948"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Vigo (Bella Vista)",
+      "postal_code": [
+        "27946"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Villa Magisterial los Tulipanes",
+      "postal_code": [
+        "27848"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Villas del America",
+      "postal_code": [
+        "27813"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Villas del Desierto",
+      "postal_code": [
+        "27863"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Viviendas Populares",
+      "postal_code": [
+        "27804"
+      ]
+    },
+    {
+      "city": "San Pedro",
+      "colonia": "Zona Industrial",
+      "postal_code": [
+        "27863"
+      ]
+    }
+  ]
+}

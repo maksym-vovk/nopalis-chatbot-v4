@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "city": "San Agustin Chayuco",
+      "colonia": "Dos Caminos",
+      "postal_code": [
+        "71764"
+      ]
+    },
+    {
+      "city": "San Agustin Chayuco",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "71766"
+      ]
+    },
+    {
+      "city": "San Agustin Chayuco",
+      "colonia": "La Union",
+      "postal_code": [
+        "71764"
+      ]
+    },
+    {
+      "city": "San Agustin Chayuco",
+      "colonia": "La Union Chayuco",
+      "postal_code": [
+        "71764"
+      ]
+    },
+    {
+      "city": "San Agustin Chayuco",
+      "colonia": "San Agustin Chayuco",
+      "postal_code": [
+        "71764"
+      ]
+    },
+    {
+      "city": "San Agustin Chayuco",
+      "colonia": "San Cristobal",
+      "postal_code": [
+        "71765"
+      ]
+    },
+    {
+      "city": "San Agustin Chayuco",
+      "colonia": "San Felipe",
+      "postal_code": [
+        "71766"
+      ]
+    },
+    {
+      "city": "San Agustin Chayuco",
+      "colonia": "Yucutaco",
+      "postal_code": [
+        "71768"
+      ]
+    }
+  ]
+}

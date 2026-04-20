@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Santa Maria Nduayaco",
+      "colonia": "San Jose de Gracia",
+      "postal_code": [
+        "69582"
+      ]
+    },
+    {
+      "city": "Santa Maria Nduayaco",
+      "colonia": "Santa Maria Nduayaco",
+      "postal_code": [
+        "69580"
+      ]
+    },
+    {
+      "city": "Santa Maria Nduayaco",
+      "colonia": "Santo Domingo Ticu",
+      "postal_code": [
+        "69581"
+      ]
+    },
+    {
+      "city": "Santa Maria Nduayaco",
+      "colonia": "Union Paz y Progreso",
+      "postal_code": [
+        "69584"
+      ]
+    }
+  ]
+}

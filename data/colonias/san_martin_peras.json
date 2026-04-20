@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "city": "San Martin Peras",
+      "colonia": "Ahuajutla",
+      "postal_code": [
+        "69780"
+      ]
+    },
+    {
+      "city": "San Martin Peras",
+      "colonia": "Cerro Hidalgo",
+      "postal_code": [
+        "69786"
+      ]
+    },
+    {
+      "city": "San Martin Peras",
+      "colonia": "La Escopeta",
+      "postal_code": [
+        "69783"
+      ]
+    },
+    {
+      "city": "San Martin Peras",
+      "colonia": "San Juan del Rio",
+      "postal_code": [
+        "69780"
+      ]
+    },
+    {
+      "city": "San Martin Peras",
+      "colonia": "San Martin Peras",
+      "postal_code": [
+        "69780"
+      ]
+    },
+    {
+      "city": "San Martin Peras",
+      "colonia": "San Miguel Peras",
+      "postal_code": [
+        "69787"
+      ]
+    },
+    {
+      "city": "San Martin Peras",
+      "colonia": "Santiago Petlacala",
+      "postal_code": [
+        "69780"
+      ]
+    }
+  ]
+}

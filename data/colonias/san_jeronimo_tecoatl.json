@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Jeronimo Tecoatl",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "68551"
+      ]
+    },
+    {
+      "city": "San Jeronimo Tecoatl",
+      "colonia": "Plan de Guadalupe",
+      "postal_code": [
+        "68552"
+      ]
+    },
+    {
+      "city": "San Jeronimo Tecoatl",
+      "colonia": "San Jeronimo Tecoatl",
+      "postal_code": [
+        "68550"
+      ]
+    }
+  ]
+}

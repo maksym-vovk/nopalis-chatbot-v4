@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "city": "San Bartolo Coyotepec",
+      "colonia": "Ciudad Judicial",
+      "postal_code": [
+        "71295"
+      ]
+    },
+    {
+      "city": "San Bartolo Coyotepec",
+      "colonia": "Cuarta Seccion",
+      "postal_code": [
+        "71294"
+      ]
+    },
+    {
+      "city": "San Bartolo Coyotepec",
+      "colonia": "Reyes Mantecon",
+      "postal_code": [
+        "71295",
+        "71295"
+      ]
+    },
+    {
+      "city": "San Bartolo Coyotepec",
+      "colonia": "San Bartolo Coyotepec",
+      "postal_code": [
+        "71294"
+      ]
+    }
+  ]
+}

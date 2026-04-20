@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "San Pedro Sochiapam",
+      "colonia": "San Juan Zapotitlan",
+      "postal_code": [
+        "68665"
+      ]
+    },
+    {
+      "city": "San Pedro Sochiapam",
+      "colonia": "San Juan Zautla",
+      "postal_code": [
+        "68666"
+      ]
+    },
+    {
+      "city": "San Pedro Sochiapam",
+      "colonia": "San Pedro Sochiapam",
+      "postal_code": [
+        "68665"
+      ]
+    },
+    {
+      "city": "San Pedro Sochiapam",
+      "colonia": "Santiago Quetzalapa",
+      "postal_code": [
+        "68666"
+      ]
+    }
+  ]
+}

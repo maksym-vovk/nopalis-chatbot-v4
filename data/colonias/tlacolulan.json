@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Tlacolulan",
+      "colonia": "Cebollana",
+      "postal_code": [
+        "91350"
+      ]
+    },
+    {
+      "city": "Tlacolulan",
+      "colonia": "Etlantepec",
+      "postal_code": [
+        "91350"
+      ]
+    },
+    {
+      "city": "Tlacolulan",
+      "colonia": "Misantla El Viejo",
+      "postal_code": [
+        "91350"
+      ]
+    },
+    {
+      "city": "Tlacolulan",
+      "colonia": "Tlacolulan",
+      "postal_code": [
+        "91350"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Villa Gonzalez Ortega",
+      "colonia": "Bajio de San Nicolas",
+      "postal_code": [
+        "98850"
+      ]
+    },
+    {
+      "city": "Villa Gonzalez Ortega",
+      "colonia": "Estancia de Animas",
+      "postal_code": [
+        "98870"
+      ]
+    },
+    {
+      "city": "Villa Gonzalez Ortega",
+      "colonia": "Villa Gonzalez Ortega",
+      "postal_code": [
+        "98840"
+      ]
+    }
+  ]
+}

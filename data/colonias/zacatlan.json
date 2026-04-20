@@ -1,0 +1,685 @@
+{
+  "data": [
+    {
+      "city": "Zacatlan",
+      "colonia": "2 Caminos",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "5 de Febrero",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "7 de Enero",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Altica",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Atexca",
+      "postal_code": [
+        "73313"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Atotonilco",
+      "postal_code": [
+        "73318"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Atzingo (La Cumbre)",
+      "postal_code": [
+        "73313"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Ayehualulco",
+      "postal_code": [
+        "73315"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Ayotla",
+      "postal_code": [
+        "73313"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Camotepec",
+      "postal_code": [
+        "73319"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Central Camionera",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Cruz del Guardian",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Cruz de Pasion",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Cruztitla",
+      "postal_code": [
+        "73312"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Cuautilulco",
+      "postal_code": [
+        "73310",
+        "73314"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Damnificados",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Dos Cerritos",
+      "postal_code": [
+        "73314"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "El Aguacate",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "El Arco",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "El Brinco",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "El Calvario",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "El Fresno",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "El Moral",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "El Nogal",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Eloxochitlan",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "El Posito",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "El Progreso",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "El Rosal",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Gabino Barreda",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Hoja Ancha",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Huauchinancingo",
+      "postal_code": [
+        "73312"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Hueyapan",
+      "postal_code": [
+        "73312"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Jicolapa",
+      "postal_code": [
+        "73315"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Jilotzingo",
+      "postal_code": [
+        "73312"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "La Canada",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "La Cuesta",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "La Estrella",
+      "postal_code": [
+        "73310",
+        "73316"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "La Guadalupana",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "La Loma",
+      "postal_code": [
+        "73312"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "La Mesa",
+      "postal_code": [
+        "73312"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Las Huertas",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Las Lajas",
+      "postal_code": [
+        "73319"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Las Lajas Primera Seccion",
+      "postal_code": [
+        "73319"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Las Penas",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Lindavista Centro",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Lindavista Cuautilulco",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Lomas del Calvario",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Luis Cabrera",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Maquixtla",
+      "postal_code": [
+        "73316"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Matlahuacala",
+      "postal_code": [
+        "73313"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Metepec",
+      "postal_code": [
+        "73318"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Metepec Segunda Seccion",
+      "postal_code": [
+        "73313"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Metlaxixtla",
+      "postal_code": [
+        "73313"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Nanacamila",
+      "postal_code": [
+        "73318"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Otlatlan",
+      "postal_code": [
+        "73317"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Palos Caidos",
+      "postal_code": [
+        "73316"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Panteones",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Papaxtla",
+      "postal_code": [
+        "73312"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Paseos de Zacatlan",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Poxcuatzingo",
+      "postal_code": [
+        "73313"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Poxtla",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "San Bartolo",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "San Cristobal Xochimilpa",
+      "postal_code": [
+        "73312"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "San Joaquin Tomatlan (San Isidro Tomatlan)",
+      "postal_code": [
+        "73314"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "San Jose",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "San Jose Maquixtla",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "San Lorenzo Tepeixco",
+      "postal_code": [
+        "73312"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "San Miguel Tenango",
+      "postal_code": [
+        "73316"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "San Pedro Atmatla",
+      "postal_code": [
+        "73314"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Santa Ines Jilotzingo",
+      "postal_code": [
+        "73312"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Santa Julia",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Tepeixco",
+      "postal_code": [
+        "73312"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Tepetla",
+      "postal_code": [
+        "73312"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Tepoxcuautla",
+      "postal_code": [
+        "73316"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Tinixtioca",
+      "postal_code": [
+        "73312"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Tlachica",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Tlalixtlipa",
+      "postal_code": [
+        "73312"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Tlaltempa Buenavista",
+      "postal_code": [
+        "73312"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Tlatempa",
+      "postal_code": [
+        "73314"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Tomatlan",
+      "postal_code": [
+        "73314"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Tuliman (Potrero de Quetzalapa)",
+      "postal_code": [
+        "73314"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Unidad Deportiva",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Xiutepec",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Xonotla",
+      "postal_code": [
+        "73317"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Xoxonacatla",
+      "postal_code": [
+        "73312"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Yehuala",
+      "postal_code": [
+        "73317"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Zacatlan Centro",
+      "postal_code": [
+        "73310"
+      ]
+    },
+    {
+      "city": "Zacatlan",
+      "colonia": "Zoquitla",
+      "postal_code": [
+        "73317"
+      ]
+    }
+  ]
+}

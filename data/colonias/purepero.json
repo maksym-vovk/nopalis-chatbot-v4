@@ -1,0 +1,327 @@
+{
+  "data": [
+    {
+      "city": "Purepero",
+      "colonia": "Azteca",
+      "postal_code": [
+        "58762"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "Camelinas",
+      "postal_code": [
+        "58762"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "Chula Vista",
+      "postal_code": [
+        "58762"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "Del Tecuan",
+      "postal_code": [
+        "58762"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "Dos Estrellas de Jimenez",
+      "postal_code": [
+        "58770"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "El Cerrillo",
+      "postal_code": [
+        "58765"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "58763"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "El Costal",
+      "postal_code": [
+        "58765"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "El Espinal",
+      "postal_code": [
+        "58762",
+        "58767"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "El Llanito",
+      "postal_code": [
+        "58764"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "El Oasis",
+      "postal_code": [
+        "58764"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "El Panteon",
+      "postal_code": [
+        "58762"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "58765"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "El Pedregal (Llano de las Vigas)",
+      "postal_code": [
+        "58766"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "El Taray",
+      "postal_code": [
+        "58764"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "El Valle",
+      "postal_code": [
+        "58764"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "Juarez",
+      "postal_code": [
+        "58763"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "La Alberca",
+      "postal_code": [
+        "58774"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "La Estilla",
+      "postal_code": [
+        "58765"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "La Firmeza 1",
+      "postal_code": [
+        "58762"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "La Firmeza 2",
+      "postal_code": [
+        "58765"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "La Florida",
+      "postal_code": [
+        "58764"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "La Loma",
+      "postal_code": [
+        "58762"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "Las Esferas",
+      "postal_code": [
+        "58762"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "Las Lomas",
+      "postal_code": [
+        "58762"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "58763"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "Las Ranas",
+      "postal_code": [
+        "58763"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "La Tanda",
+      "postal_code": [
+        "58763"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "58764"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "Los Continentes",
+      "postal_code": [
+        "58764"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "Los Delfines",
+      "postal_code": [
+        "58762"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "Los Girasoles",
+      "postal_code": [
+        "58762"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "Los Rogers",
+      "postal_code": [
+        "58765"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "Los Tejocotes",
+      "postal_code": [
+        "58763"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "Mirabel",
+      "postal_code": [
+        "58764"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "Paraiso",
+      "postal_code": [
+        "58764"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "Piedras Altas",
+      "postal_code": [
+        "58763"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "Pies de Casa",
+      "postal_code": [
+        "58764"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "Purepero de Echaiz",
+      "postal_code": [
+        "58760"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "Real de Santa Fe",
+      "postal_code": [
+        "58764"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "Ross",
+      "postal_code": [
+        "58764"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "58764"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "San Juan",
+      "postal_code": [
+        "58763"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "Villa Mendoza",
+      "postal_code": [
+        "58770"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "Villa Ruiz",
+      "postal_code": [
+        "58763"
+      ]
+    },
+    {
+      "city": "Purepero",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "58764"
+      ]
+    }
+  ]
+}

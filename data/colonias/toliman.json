@@ -1,0 +1,705 @@
+{
+  "data": [
+    {
+      "city": "Toliman",
+      "colonia": "Adjuntillas",
+      "postal_code": [
+        "76623"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Bermejo",
+      "postal_code": [
+        "76627"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Bomintza",
+      "postal_code": [
+        "76618"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Campesina",
+      "postal_code": [
+        "76643"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Carrizalillo",
+      "postal_code": [
+        "76620"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Casa Blanca",
+      "postal_code": [
+        "76613"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Casas Viejas",
+      "postal_code": [
+        "76605"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Centro",
+      "postal_code": [
+        "76640"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Cipres",
+      "postal_code": [
+        "76610"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Corralitos",
+      "postal_code": [
+        "76616"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "De Garcia",
+      "postal_code": [
+        "76637"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Derramadero",
+      "postal_code": [
+        "76616"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Diezmero",
+      "postal_code": [
+        "76630"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Don Lucas",
+      "postal_code": [
+        "76630"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "El Cedazo",
+      "postal_code": [
+        "76647"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "76644"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "El Cerrito Parado",
+      "postal_code": [
+        "76633"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "El Chilar",
+      "postal_code": [
+        "76624"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "El Jabali",
+      "postal_code": [
+        "76626"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "El Madrono",
+      "postal_code": [
+        "76617"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "El Mezquite",
+      "postal_code": [
+        "76633"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "El Molino",
+      "postal_code": [
+        "76632"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "El Patol",
+      "postal_code": [
+        "76646"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "El Pueblito",
+      "postal_code": [
+        "76640"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "El Puertecito (Zapote de los Uribe)",
+      "postal_code": [
+        "76618"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "El Puerto del alamo",
+      "postal_code": [
+        "76624"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "76640"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "El Saucito",
+      "postal_code": [
+        "76617"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "El Shaminal",
+      "postal_code": [
+        "76613"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "El Tequesquite",
+      "postal_code": [
+        "76631"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "76646"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "El Tule",
+      "postal_code": [
+        "76610"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "76646"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Garcia",
+      "postal_code": [
+        "76627"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Granjeno",
+      "postal_code": [
+        "76632"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "76615"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Gudinos",
+      "postal_code": [
+        "76634"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Horno de Cal",
+      "postal_code": [
+        "76636"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "La Canada",
+      "postal_code": [
+        "76615"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "La Cebolleta",
+      "postal_code": [
+        "76630"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "La Concepcion",
+      "postal_code": [
+        "76634"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "La Cuchara",
+      "postal_code": [
+        "76633"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "La Estancia",
+      "postal_code": [
+        "76634"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Laguna de alvarez",
+      "postal_code": [
+        "76618"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "La Loma",
+      "postal_code": [
+        "76600",
+        "76636"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "La Matamba Dos",
+      "postal_code": [
+        "76626"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "La Matamba Uno",
+      "postal_code": [
+        "76626"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "La Pena",
+      "postal_code": [
+        "76630"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "La Presita",
+      "postal_code": [
+        "76610"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "La Puerta",
+      "postal_code": [
+        "76634"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "La Redonda",
+      "postal_code": [
+        "76628"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Las Crucitas",
+      "postal_code": [
+        "76624"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Las Cuatas",
+      "postal_code": [
+        "76624"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Las Moras",
+      "postal_code": [
+        "76626"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "La Vereda",
+      "postal_code": [
+        "76623"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "La Vibora",
+      "postal_code": [
+        "76613"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "La Villita",
+      "postal_code": [
+        "76643"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Linda Vista El Granjeno",
+      "postal_code": [
+        "76632"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Lindero",
+      "postal_code": [
+        "76637"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Loma de Casa Blanca",
+      "postal_code": [
+        "76618"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Lomas Bonitas",
+      "postal_code": [
+        "76643"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Longo",
+      "postal_code": [
+        "76632"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Los Gonzalez",
+      "postal_code": [
+        "76613"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Los Rincones (Casas Viejas)",
+      "postal_code": [
+        "76615"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Los Rincones (San Pedro de los Eucaliptos)",
+      "postal_code": [
+        "76614"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Los Roque",
+      "postal_code": [
+        "76644"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Maguey Manso",
+      "postal_code": [
+        "76617"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Manantial",
+      "postal_code": [
+        "76623"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Manantial Chalmita",
+      "postal_code": [
+        "76644"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Mesa de Chagoya",
+      "postal_code": [
+        "76618"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Mesa de Ramirez",
+      "postal_code": [
+        "76617"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Nogales",
+      "postal_code": [
+        "76634"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Nueva el Granjeno",
+      "postal_code": [
+        "76632"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Panales",
+      "postal_code": [
+        "76637"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Pena Blanca",
+      "postal_code": [
+        "76632"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Puerto Blanco",
+      "postal_code": [
+        "76618"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "76646"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "76615"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Ronquillo",
+      "postal_code": [
+        "76626"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Sabino de San Ambrosio",
+      "postal_code": [
+        "76633"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "San Antonio de la Cal",
+      "postal_code": [
+        "76649"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "76630"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "San Pablo Toliman",
+      "postal_code": [
+        "76643"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "San Pedro de los Eucaliptos",
+      "postal_code": [
+        "76605"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Tierra Volteada",
+      "postal_code": [
+        "76632"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Toliman",
+      "postal_code": [
+        "76600"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Tuna Manza",
+      "postal_code": [
+        "76623"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Zapote de los Uribe (El Zapote)",
+      "postal_code": [
+        "76627"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Copala",
+      "postal_code": [
+        "49760"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "49759"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "El Paso Real",
+      "postal_code": [
+        "49758"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "El Rodeo",
+      "postal_code": [
+        "49755"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Huisichi",
+      "postal_code": [
+        "49767"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Las Canoas",
+      "postal_code": [
+        "49764"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Puerta Del Petacal",
+      "postal_code": [
+        "49769"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "San Pedro Toxin",
+      "postal_code": [
+        "49757"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Santa Elena de la Cruz",
+      "postal_code": [
+        "49765"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Teutlan",
+      "postal_code": [
+        "49756"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Toliman",
+      "postal_code": [
+        "49750"
+      ]
+    },
+    {
+      "city": "Toliman",
+      "colonia": "Toxin",
+      "postal_code": [
+        "49754"
+      ]
+    }
+  ]
+}

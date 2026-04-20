@@ -1,0 +1,495 @@
+{
+  "data": [
+    {
+      "city": "Ayala",
+      "colonia": "10 de Abril",
+      "postal_code": [
+        "62715"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Abelardo L. Rodriguez",
+      "postal_code": [
+        "62725"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Ampliacion Cruz Verde",
+      "postal_code": [
+        "62704"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Ampliacion Tenextepango",
+      "postal_code": [
+        "62725"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Anenecuilco Centro",
+      "postal_code": [
+        "62710"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "62714"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "62700",
+        "62724"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Campo la Escopeta",
+      "postal_code": [
+        "62714"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Campo San Miguel",
+      "postal_code": [
+        "62713"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Chinameca",
+      "postal_code": [
+        "62723"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Citlalin",
+      "postal_code": [
+        "62715"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Ciudad Ayala",
+      "postal_code": [
+        "62700"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Constancio Farfan (La Pascuala)",
+      "postal_code": [
+        "62725"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Cruz Verde",
+      "postal_code": [
+        "62704"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Cuahuixtla",
+      "postal_code": [
+        "62714"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "El Chivatero",
+      "postal_code": [
+        "62717"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "El Decreto",
+      "postal_code": [
+        "62715"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "El Jagüey",
+      "postal_code": [
+        "62713"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "El Salitre",
+      "postal_code": [
+        "62724"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "El Sifon de la Cuera",
+      "postal_code": [
+        "62720"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "El Venadito",
+      "postal_code": [
+        "62715"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "El Vergel",
+      "postal_code": [
+        "62723"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "General Emiliano Zapata (El Chivatero)",
+      "postal_code": [
+        "62717"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Huacatlaco (Los Anonos)",
+      "postal_code": [
+        "62720"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Huertas de Cuautla",
+      "postal_code": [
+        "62715"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Huitzililla",
+      "postal_code": [
+        "62720"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Isla de Cuautla",
+      "postal_code": [
+        "62715"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Jaloxtoc",
+      "postal_code": [
+        "62720"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "La Cucaracha",
+      "postal_code": [
+        "62723"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "La Doncella",
+      "postal_code": [
+        "62714"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "La Joya",
+      "postal_code": [
+        "62714"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "La Joya Escondida",
+      "postal_code": [
+        "62713"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "La Libertad",
+      "postal_code": [
+        "62725"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Las Arboledas",
+      "postal_code": [
+        "62714"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "62713"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Las Joyas",
+      "postal_code": [
+        "62723"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Las Llaves",
+      "postal_code": [
+        "62715"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Las Lumbreras",
+      "postal_code": [
+        "62725"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Leopoldo Heredia",
+      "postal_code": [
+        "62725"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "62724"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Marcelino Ortega",
+      "postal_code": [
+        "62713"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Mariano Matamoros",
+      "postal_code": [
+        "62715"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Mirador",
+      "postal_code": [
+        "62714"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Moyotepec",
+      "postal_code": [
+        "62718"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "62714"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Nuevo Mexico ( Los Apaches )",
+      "postal_code": [
+        "62714"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "62720"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Olintepec",
+      "postal_code": [
+        "62713"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Palo Blanco",
+      "postal_code": [
+        "62723"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Paraiso Tlahuica",
+      "postal_code": [
+        "62715"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Parque Industrial Cuautla",
+      "postal_code": [
+        "62715"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Paseos de Ayala",
+      "postal_code": [
+        "62715"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Paseos de Ayala II",
+      "postal_code": [
+        "62715"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Prados del Sol",
+      "postal_code": [
+        "62715"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Puente Blanco",
+      "postal_code": [
+        "62700"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Rafael Merino",
+      "postal_code": [
+        "62725"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Rafael Merino (San Antonio)",
+      "postal_code": [
+        "62714"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Reforma",
+      "postal_code": [
+        "62714"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Residencial La Cantera",
+      "postal_code": [
+        "62714"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Residencial Los Sauces",
+      "postal_code": [
+        "62715"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Residencial Villa de los Arcos",
+      "postal_code": [
+        "62714"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "San Juan Ahuehueyo",
+      "postal_code": [
+        "62724"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "San Pedro Apatlaco",
+      "postal_code": [
+        "62714"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "San Vicente de Juarez (Las Piedras)",
+      "postal_code": [
+        "62724"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Segunda Ampliacion Moyotepec",
+      "postal_code": [
+        "62718"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Tecomalco",
+      "postal_code": [
+        "62723"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Tenextepango",
+      "postal_code": [
+        "62725"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Tlayecac",
+      "postal_code": [
+        "62715"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Valle de Morelos",
+      "postal_code": [
+        "62724"
+      ]
+    },
+    {
+      "city": "Ayala",
+      "colonia": "Zona Sur Anenecuilco",
+      "postal_code": [
+        "62713"
+      ]
+    }
+  ]
+}

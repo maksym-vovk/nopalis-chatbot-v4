@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Bolanos",
+      "colonia": "Agua Milpa de Abajo",
+      "postal_code": [
+        "46145"
+      ]
+    },
+    {
+      "city": "Bolanos",
+      "colonia": "Centro de Bolanos",
+      "postal_code": [
+        "46130"
+      ]
+    },
+    {
+      "city": "Bolanos",
+      "colonia": "El Tepec",
+      "postal_code": [
+        "46130"
+      ]
+    },
+    {
+      "city": "Bolanos",
+      "colonia": "Huilacatitlan (Huila)",
+      "postal_code": [
+        "46140"
+      ]
+    }
+  ]
+}

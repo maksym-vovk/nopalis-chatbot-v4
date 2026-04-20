@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Francisco Leon",
+      "colonia": "El Naranjo",
+      "postal_code": [
+        "29560"
+      ]
+    },
+    {
+      "city": "Francisco Leon",
+      "colonia": "La Candelaria",
+      "postal_code": [
+        "29564"
+      ]
+    },
+    {
+      "city": "Francisco Leon",
+      "colonia": "Rivera el Viejo Carmen",
+      "postal_code": [
+        "29560"
+      ]
+    },
+    {
+      "city": "Francisco Leon",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "29560"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Saric",
+      "colonia": "Cerro Prieto",
+      "postal_code": [
+        "83890"
+      ]
+    },
+    {
+      "city": "Saric",
+      "colonia": "Saric",
+      "postal_code": [
+        "83860"
+      ]
+    },
+    {
+      "city": "Saric",
+      "colonia": "Sasabe",
+      "postal_code": [
+        "83870"
+      ]
+    }
+  ]
+}

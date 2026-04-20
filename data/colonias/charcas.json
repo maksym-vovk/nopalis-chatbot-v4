@@ -1,0 +1,1536 @@
+{
+  "data": [
+    {
+      "city": "Charcas",
+      "colonia": "Abundio Moreno",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Alvaro Obregon (Estacion los Charcos)",
+      "postal_code": [
+        "78576"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Aquiles Serdan",
+      "postal_code": [
+        "78584"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Arroyo el Borrego",
+      "postal_code": [
+        "78587"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Aviacion",
+      "postal_code": [
+        "78593"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Calabacillas",
+      "postal_code": [
+        "78580"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Canada Verde",
+      "postal_code": [
+        "78570"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Canon de Lajas",
+      "postal_code": [
+        "78583"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Ceferino Sanchez Ontiveros",
+      "postal_code": [
+        "78570"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Cerrito de Piedras",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Cerro Blanco",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Cerro de Magdalenas",
+      "postal_code": [
+        "78587"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Cerro Gordo",
+      "postal_code": [
+        "78583"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Cerro Prieto",
+      "postal_code": [
+        "78576",
+        "78580"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Cerro San Agustin",
+      "postal_code": [
+        "78587"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Charcas Centro",
+      "postal_code": [
+        "78590"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Charco Prieto",
+      "postal_code": [
+        "78574"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Charco Verde",
+      "postal_code": [
+        "78580"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Chipinque",
+      "postal_code": [
+        "78595"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Chupaderos",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Clavellina",
+      "postal_code": [
+        "78583",
+        "78597"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Congregacion de Dolores (Las Quince Letras)",
+      "postal_code": [
+        "78573"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Coyotillillos",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Coyotillos",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Coyotillos San Pablo",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Cruz del Siglo",
+      "postal_code": [
+        "78594"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Efrain Gonzalez Galvan",
+      "postal_code": [
+        "78574"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Ejido Juarez",
+      "postal_code": [
+        "78573"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Ejido Juarez Dos",
+      "postal_code": [
+        "78570"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El aguila",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Astillero",
+      "postal_code": [
+        "78584"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Bajio",
+      "postal_code": [
+        "78578"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Caiman",
+      "postal_code": [
+        "78595"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Cedazo",
+      "postal_code": [
+        "78578"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Clerigo",
+      "postal_code": [
+        "78576"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Diamante",
+      "postal_code": [
+        "78587"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Entronque",
+      "postal_code": [
+        "78584"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Frailesco",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Grasero",
+      "postal_code": [
+        "78597"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Hospital",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Elidio Lazaro Esquivel",
+      "postal_code": [
+        "78583"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Lucero",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Macareno",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Malpaso",
+      "postal_code": [
+        "78583"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Membrillo",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Mezquite",
+      "postal_code": [
+        "78595"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Mineral",
+      "postal_code": [
+        "78597"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Minero",
+      "postal_code": [
+        "78597"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Mosco",
+      "postal_code": [
+        "78587"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Orito",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Elorza",
+      "postal_code": [
+        "78575"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Pame",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Perdido",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Rastrero (La Noria)",
+      "postal_code": [
+        "78576"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Rayo",
+      "postal_code": [
+        "78578"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Reventon",
+      "postal_code": [
+        "78574"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Rincon (Timoteo Perez)",
+      "postal_code": [
+        "78573"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "78586"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Saucito",
+      "postal_code": [
+        "78574",
+        "78583"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Sauz",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Soyate",
+      "postal_code": [
+        "78587"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Tanque (Ramon Vazquez)",
+      "postal_code": [
+        "78587"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Tepozan",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Terrero (Ejido Charcas)",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Tucanazo",
+      "postal_code": [
+        "78583"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Venadero",
+      "postal_code": [
+        "78587"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Venadito",
+      "postal_code": [
+        "78587"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "El Zacatonal",
+      "postal_code": [
+        "78580"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Emiliano Zapata (Las Canteras)",
+      "postal_code": [
+        "78570"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Estacion",
+      "postal_code": [
+        "78595"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Estacion Berrendo",
+      "postal_code": [
+        "78584"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Estacion Laguna Seca",
+      "postal_code": [
+        "78584"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Fabian Bernal",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Fatima",
+      "postal_code": [
+        "78575"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Fernando Lopez Bustos",
+      "postal_code": [
+        "78570"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Fraccion el Capulin",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Fraccion Palmas (Palmas)",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Francisco Bernal",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Francisco Bustos",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Francisco Gonzalez",
+      "postal_code": [
+        "78570"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "78584"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Garabatillo",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Genaro Bustos Ramirez",
+      "postal_code": [
+        "78580"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Gregorio Gonzalez Lopez",
+      "postal_code": [
+        "78574"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "78587"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Guadalupito",
+      "postal_code": [
+        "78575"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Gualupe",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Guapilillas",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Hermelinda Moreno Sanchez",
+      "postal_code": [
+        "78583"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Ignacio Aldama",
+      "postal_code": [
+        "78575"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "IMMSA",
+      "postal_code": [
+        "78597"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "IMMSA [Mina Tiro General]",
+      "postal_code": [
+        "78573"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "INFONAVIT",
+      "postal_code": [
+        "78597"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Isidro Cazares Rodriguez",
+      "postal_code": [
+        "78583"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Joaquin Cansino",
+      "postal_code": [
+        "78583"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Jorge Castaneda",
+      "postal_code": [
+        "78573"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Juan Bernal",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Juan Hernandez",
+      "postal_code": [
+        "78576"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Juan Ramirez",
+      "postal_code": [
+        "78586"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "La Barranca",
+      "postal_code": [
+        "78580",
+        "78587"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Laborcilla",
+      "postal_code": [
+        "78576"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Labor de la Cruz",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "La Clarinera (Antonio Aldape)",
+      "postal_code": [
+        "78570"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "La Cueva de la Nicha",
+      "postal_code": [
+        "78584"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "La Embargada",
+      "postal_code": [
+        "78575"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "78597"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "La Estancia",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Lajas",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "La Joyita (Los Corrales)",
+      "postal_code": [
+        "78570"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "La Laguna de los Caballos",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "La Lajilla",
+      "postal_code": [
+        "78587"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "La Leona",
+      "postal_code": [
+        "78587"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "La Luz",
+      "postal_code": [
+        "78597"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "La Medalla",
+      "postal_code": [
+        "78573"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "La Negrita",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "La Peregrina",
+      "postal_code": [
+        "78596"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "La Presa",
+      "postal_code": [
+        "78586"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "La Quinta (La Hacienda)",
+      "postal_code": [
+        "78583"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "La Sanchena",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Las animas",
+      "postal_code": [
+        "78574"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Las Atravesadas",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Las Isabeles",
+      "postal_code": [
+        "78570"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Las Minitas",
+      "postal_code": [
+        "78587"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Las Palomas",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Las Tinajitas",
+      "postal_code": [
+        "78573"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Las Vivianas",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "78575"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "La Vieja",
+      "postal_code": [
+        "78587"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "La Zapatilla",
+      "postal_code": [
+        "78573"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Lo de Acosta",
+      "postal_code": [
+        "78583"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Lo de Acosta (La Pulga)",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Loma del Mosco",
+      "postal_code": [
+        "78587"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Lomas de Santa Maria",
+      "postal_code": [
+        "78597"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Los Aguilares",
+      "postal_code": [
+        "78583"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Los Callejones",
+      "postal_code": [
+        "78576"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Los Corrales",
+      "postal_code": [
+        "78570"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Los Gavilanes",
+      "postal_code": [
+        "78573"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Los Jaboncillos",
+      "postal_code": [
+        "78573"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Los Lopez",
+      "postal_code": [
+        "78573"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Los San Pedros",
+      "postal_code": [
+        "78583"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "78595"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Majada de Chon",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Majada las Tordillas",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Majadita Blanca",
+      "postal_code": [
+        "78578"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Maria Felix Nerio Aguilar",
+      "postal_code": [
+        "78570"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Mesa del Julianito",
+      "postal_code": [
+        "78587"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Mesa Redonda",
+      "postal_code": [
+        "78586"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Mesa Verganza",
+      "postal_code": [
+        "78586"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Mesa Verganza (Chiquihuitillo)",
+      "postal_code": [
+        "78586"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "78584"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Morelos",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Nabor Moreno",
+      "postal_code": [
+        "78580"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Nopales Altos",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Noria de Guadalupito",
+      "postal_code": [
+        "78574"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Noria de Gutierrez (Jose Maria Morelos)",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Noria del Cerro Gordo",
+      "postal_code": [
+        "78583"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Noria Pinta",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Ojito Santa Cruz",
+      "postal_code": [
+        "78570"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Pame (El Llano)",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Paso del Mezquite (Cerro Blanco)",
+      "postal_code": [
+        "78580"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Paulino Cabrero (Los Ejidos)",
+      "postal_code": [
+        "78570"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Pedro Aguilar",
+      "postal_code": [
+        "78570"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Pocitos",
+      "postal_code": [
+        "78574"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Potrerillos",
+      "postal_code": [
+        "78596"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Potrero Lo de Acosta (Mala Noche)",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Presa de Santa Gertrudis",
+      "postal_code": [
+        "78587"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Prisciliano Rodriguez",
+      "postal_code": [
+        "78586"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Pro Ano",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Puerta la Verdolaga",
+      "postal_code": [
+        "78574"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Puerto del Lechuguillero",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Puerto de Ramos",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Purisima Concepcion",
+      "postal_code": [
+        "78587"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Rancho Alegre",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Rancho el Cano",
+      "postal_code": [
+        "78576"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Rancho el Rodeo",
+      "postal_code": [
+        "78576"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Rancho Guadalupe",
+      "postal_code": [
+        "78587"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Rancho los alamos",
+      "postal_code": [
+        "78575"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Rebombeo del Cerrito de Tunas",
+      "postal_code": [
+        "78570"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Ricardo Bernal",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Rincon Blanco",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Rincon Verde",
+      "postal_code": [
+        "78573"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Sacramento Arellano",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Salinillas",
+      "postal_code": [
+        "78583"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Salitrillos",
+      "postal_code": [
+        "78578"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "78578",
+        "78587"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "San Antonio de la Puente",
+      "postal_code": [
+        "78583"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "San Antonio de las Huertas",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "San Diego",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "San Elias",
+      "postal_code": [
+        "78583"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "San Felipe",
+      "postal_code": [
+        "78580"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "78575"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "San Francisco de Asis del Campo Real",
+      "postal_code": [
+        "78583"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "San Francisco de los alamos",
+      "postal_code": [
+        "78574"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "San Francisco de los Ejidos",
+      "postal_code": [
+        "78570"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "San Joaquin",
+      "postal_code": [
+        "78584"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "San Jose",
+      "postal_code": [
+        "78575",
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "San Jose de la Cruz",
+      "postal_code": [
+        "78583"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "San Juan del Tuzal",
+      "postal_code": [
+        "78578"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "San Julian Santa Maria",
+      "postal_code": [
+        "78576"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "San Martin",
+      "postal_code": [
+        "78578"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "San Onofre",
+      "postal_code": [
+        "78573"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Santa Ana de Zaragoza",
+      "postal_code": [
+        "78576"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "78580"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "78596"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Siglo XXI",
+      "postal_code": [
+        "78594"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Tanque de Don Santiago",
+      "postal_code": [
+        "78575"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Tanque de Santa Ana",
+      "postal_code": [
+        "78576"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Tanque San Bartolo",
+      "postal_code": [
+        "78585"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Tinajuelas",
+      "postal_code": [
+        "78580"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Tunalillo",
+      "postal_code": [
+        "78577"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Vicente Guerrero (Las Escobas)",
+      "postal_code": [
+        "78583"
+      ]
+    },
+    {
+      "city": "Charcas",
+      "colonia": "Vidal Moreno",
+      "postal_code": [
+        "78585"
+      ]
+    }
+  ]
+}

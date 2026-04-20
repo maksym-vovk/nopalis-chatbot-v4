@@ -1,0 +1,573 @@
+{
+  "data": [
+    {
+      "city": "alamo Temapache",
+      "colonia": "18 de Marzo",
+      "postal_code": [
+        "92736"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "25 de Abril",
+      "postal_code": [
+        "92733"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "28 de Noviembre",
+      "postal_code": [
+        "92733"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "92736",
+        "92736"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Agua Nacida",
+      "postal_code": [
+        "92730"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "alamo Centro",
+      "postal_code": [
+        "92730"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Alazan",
+      "postal_code": [
+        "92750"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "92735"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Aviacion",
+      "postal_code": [
+        "92736"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Azteca",
+      "postal_code": [
+        "92736"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "92736"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "92734"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Brasilar",
+      "postal_code": [
+        "92750"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Buenos Aires (San Isidro)",
+      "postal_code": [
+        "92760"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Burocrata",
+      "postal_code": [
+        "92733"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Cerro Dulce",
+      "postal_code": [
+        "92730"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Chapopote Nunez",
+      "postal_code": [
+        "92735"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Derechos Humanos",
+      "postal_code": [
+        "92733"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Doctores",
+      "postal_code": [
+        "92750"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Doctor Montes de Oca (San Isidro)",
+      "postal_code": [
+        "92763"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Educacion",
+      "postal_code": [
+        "92733"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Ejido 1",
+      "postal_code": [
+        "92750"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "El Mangar",
+      "postal_code": [
+        "92764"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "92736",
+        "92744"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Empleados Municipales",
+      "postal_code": [
+        "92733"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Estero del idolo",
+      "postal_code": [
+        "92730"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Fernando Lopez Arias",
+      "postal_code": [
+        "92734"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "92734"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Gabino Gonzalez",
+      "postal_code": [
+        "92733"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Guillermo Velez",
+      "postal_code": [
+        "92769"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Heroica Veracruz",
+      "postal_code": [
+        "92736"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Hidalgo Amajac",
+      "postal_code": [
+        "92730"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Horcones",
+      "postal_code": [
+        "92756"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "92754"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Industrial",
+      "postal_code": [
+        "92736"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Jacarandas",
+      "postal_code": [
+        "92735"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "La Camelia (Palo Blanco)",
+      "postal_code": [
+        "92755"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "La Concepcion",
+      "postal_code": [
+        "92730"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "92750"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "La Reforma",
+      "postal_code": [
+        "92730"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "92736"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "La Union",
+      "postal_code": [
+        "92730"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "92730"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Lic. Jose Lopez Portillo",
+      "postal_code": [
+        "92733"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Lomas de Vinazco",
+      "postal_code": [
+        "92755"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Lombardista",
+      "postal_code": [
+        "92735"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "92736"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "92733"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Morelos",
+      "postal_code": [
+        "92733"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Ninos Heroes de Chapultepec",
+      "postal_code": [
+        "92735"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Nuevo Jardin",
+      "postal_code": [
+        "92730"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Nuevo Paso Real",
+      "postal_code": [
+        "92760"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Obras Sociales",
+      "postal_code": [
+        "92750"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Ojital Ciruelo",
+      "postal_code": [
+        "92735"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Palo Blanco",
+      "postal_code": [
+        "92755"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Pantepec",
+      "postal_code": [
+        "92733"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Potrero del Llano",
+      "postal_code": [
+        "92750"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Pozo 50",
+      "postal_code": [
+        "92735"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Progreso",
+      "postal_code": [
+        "92733"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Pueblo Nuevo",
+      "postal_code": [
+        "92736"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Raudal Nuevo",
+      "postal_code": [
+        "92760"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Raya Obscura",
+      "postal_code": [
+        "92763"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Ribera",
+      "postal_code": [
+        "92736"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "92760"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "92733"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Solidaridad",
+      "postal_code": [
+        "92733"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Solis de Allende",
+      "postal_code": [
+        "92753"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Temapache",
+      "postal_code": [
+        "92769"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Tepetzintlilla",
+      "postal_code": [
+        "92750"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Tierra Amarilla",
+      "postal_code": [
+        "92754"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Tierra Blanca Booxter",
+      "postal_code": [
+        "92740"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Tincontlan",
+      "postal_code": [
+        "92730"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Tumbadero del aguila",
+      "postal_code": [
+        "92762"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Unidad Socialista",
+      "postal_code": [
+        "92736"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Unidad y Trabajo",
+      "postal_code": [
+        "92734"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "ursulo Galvan",
+      "postal_code": [
+        "92755"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Vegas de la Soledad y Soledad Dos",
+      "postal_code": [
+        "92747"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Villa Hermosa",
+      "postal_code": [
+        "92769"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Villas de San Clemente",
+      "postal_code": [
+        "92735"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "92737"
+      ]
+    },
+    {
+      "city": "alamo Temapache",
+      "colonia": "Zapotal Solis (San Jose Solis)",
+      "postal_code": [
+        "92752"
+      ]
+    }
+  ]
+}

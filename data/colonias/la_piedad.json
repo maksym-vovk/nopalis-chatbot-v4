@@ -1,0 +1,909 @@
+{
+  "data": [
+    {
+      "city": "La Piedad",
+      "colonia": "3 Estrellas",
+      "postal_code": [
+        "59340"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Acuitzio",
+      "postal_code": [
+        "59400"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Arroyo Delgado",
+      "postal_code": [
+        "59375"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Arroyo Hondo",
+      "postal_code": [
+        "59334",
+        "59335"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Banquetes",
+      "postal_code": [
+        "59350"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "59330"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Campestre",
+      "postal_code": [
+        "59350"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Carlos Salinas de Gortari",
+      "postal_code": [
+        "59374"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Centro",
+      "postal_code": [
+        "59300"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Centro Americano",
+      "postal_code": [
+        "59380"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Cerca Prieta",
+      "postal_code": [
+        "59334"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Ciudad del Sol",
+      "postal_code": [
+        "59310"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "CROC 1a Etapa",
+      "postal_code": [
+        "59374"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "CTM",
+      "postal_code": [
+        "59374"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Cujuarato",
+      "postal_code": [
+        "59400"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Delta",
+      "postal_code": [
+        "59392"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Don Vasco",
+      "postal_code": [
+        "59380"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Dr. Miguel Silva INFONAVIT",
+      "postal_code": [
+        "59349"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Ejidal",
+      "postal_code": [
+        "59380"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Ejido los Moreno",
+      "postal_code": [
+        "59386"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Ejido Potrerillos",
+      "postal_code": [
+        "59310"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "El Aguaje",
+      "postal_code": [
+        "59410"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "El Algodonal",
+      "postal_code": [
+        "59400"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "El Calabocito",
+      "postal_code": [
+        "59400"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "El Capricho (El Ranchito)",
+      "postal_code": [
+        "59420"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "El Casirpe",
+      "postal_code": [
+        "59376"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "El Caudillo (Chorrera de Silva)",
+      "postal_code": [
+        "59410"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "El Cuitzillo",
+      "postal_code": [
+        "59360"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "El Ensueno",
+      "postal_code": [
+        "59363"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "El Fuerte",
+      "postal_code": [
+        "59400"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "El Jagüey",
+      "postal_code": [
+        "59425"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "El Malecon INFONAVIT",
+      "postal_code": [
+        "59330"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "El Pandillo",
+      "postal_code": [
+        "59424"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "59424"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "El Pitallito",
+      "postal_code": [
+        "59350"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "El Salto",
+      "postal_code": [
+        "59410"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "El Santuario",
+      "postal_code": [
+        "59359"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "El Venado",
+      "postal_code": [
+        "59423"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "59400"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "El Zoro",
+      "postal_code": [
+        "59415"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Estacion Patti",
+      "postal_code": [
+        "59410"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "59374"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Guanajuatillo",
+      "postal_code": [
+        "59320"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Higuera de San Rafael (Las Higueras)",
+      "postal_code": [
+        "59410"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Industrial",
+      "postal_code": [
+        "59379"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Insurgentes",
+      "postal_code": [
+        "59375"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Jardines del Carmen (Pena)",
+      "postal_code": [
+        "59389"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Jardines del Cerro Grande",
+      "postal_code": [
+        "59379"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Jardines del Rosario",
+      "postal_code": [
+        "59363"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Jauja",
+      "postal_code": [
+        "59423"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "J. Jesus Romero Flores INFONAVIT",
+      "postal_code": [
+        "59319"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Jose Ma. Morelos",
+      "postal_code": [
+        "59330"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "La Campana",
+      "postal_code": [
+        "59400"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "La Escoba",
+      "postal_code": [
+        "59415"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "59319"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "La Esperanza (Colonia la Esperanza)",
+      "postal_code": [
+        "59424"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "La Europea",
+      "postal_code": [
+        "59393"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "La Higuerita",
+      "postal_code": [
+        "59410"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "La Piedad Cavadas FOVISSSTE",
+      "postal_code": [
+        "59335"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "59379",
+        "59420"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "La Purisima",
+      "postal_code": [
+        "59386"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "La R",
+      "postal_code": [
+        "59426"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Las Arboledas",
+      "postal_code": [
+        "59377"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Las Azucenas",
+      "postal_code": [
+        "59374"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Las Barranquillas",
+      "postal_code": [
+        "59426"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Las Camelinas",
+      "postal_code": [
+        "59374"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Las Camelinas (Benjamin Vega)",
+      "postal_code": [
+        "59426"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Las Canadas",
+      "postal_code": [
+        "59426"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Las Canoas del Salto",
+      "postal_code": [
+        "59400"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Las Carmelitas",
+      "postal_code": [
+        "59374"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Las Colonias",
+      "postal_code": [
+        "59384"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Las Colonias Prolongacion",
+      "postal_code": [
+        "59387"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Las Jacarandas",
+      "postal_code": [
+        "59375"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "59379"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Las Ocho Horas",
+      "postal_code": [
+        "59424"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "59374"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Las Torres",
+      "postal_code": [
+        "59380"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "La Torcaza",
+      "postal_code": [
+        "59414"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "59374"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Lienzo Charro",
+      "postal_code": [
+        "59386"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Lomas del Cerro Grande",
+      "postal_code": [
+        "59374"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Los Arias (San Nicolas)",
+      "postal_code": [
+        "59426"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Los Ayala",
+      "postal_code": [
+        "59400"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Los Guajes",
+      "postal_code": [
+        "59400"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "59310"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Los Lopez",
+      "postal_code": [
+        "59425"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Los Melgoza",
+      "postal_code": [
+        "59400"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Los Moreno",
+      "postal_code": [
+        "59390"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "59375"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Los Rodriguez",
+      "postal_code": [
+        "59425"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "59380"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "59374"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Magisterio",
+      "postal_code": [
+        "59330"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Manuel J. Clouthier (Las Casitas)",
+      "postal_code": [
+        "59425"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Melchor Ocampo",
+      "postal_code": [
+        "59375"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Melchor Ocampo (animas Gusgas)",
+      "postal_code": [
+        "59427"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Mexico",
+      "postal_code": [
+        "59340"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Nueva Banquetes",
+      "postal_code": [
+        "59350"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Nueva Esperanza",
+      "postal_code": [
+        "59379"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Nueva Guanajuatillo",
+      "postal_code": [
+        "59380"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Nueva Lazaro Cardenas",
+      "postal_code": [
+        "59310"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Nuevo Amanecer",
+      "postal_code": [
+        "59310"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Nuevo Cereso",
+      "postal_code": [
+        "59424"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Obrera",
+      "postal_code": [
+        "59370"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Ojo de Agua de Serrato",
+      "postal_code": [
+        "59400"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Palo Blanco del Salto",
+      "postal_code": [
+        "59410"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Paredones",
+      "postal_code": [
+        "59400"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Pedregal San Jose",
+      "postal_code": [
+        "59350"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Rafael Aguilar Talamante",
+      "postal_code": [
+        "59374"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Residencial Campestre",
+      "postal_code": [
+        "59379"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Rio Grande",
+      "postal_code": [
+        "59320"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Rivera del Sol",
+      "postal_code": [
+        "59335"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Rojas",
+      "postal_code": [
+        "59387"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Roma",
+      "postal_code": [
+        "59374"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "San Cristobal",
+      "postal_code": [
+        "59400"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "San Joaquin",
+      "postal_code": [
+        "59400"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "San Juan Del Fuerte",
+      "postal_code": [
+        "59400"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "59379"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "59330"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Santa Catarina",
+      "postal_code": [
+        "59425"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "59370"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Tanque de Pena",
+      "postal_code": [
+        "59400"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Taquiscuareo (La Finca)",
+      "postal_code": [
+        "59428"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Tecnologico",
+      "postal_code": [
+        "59373"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Ticuitaco (Tocuitaco)",
+      "postal_code": [
+        "59400"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Valle de Guadalupe",
+      "postal_code": [
+        "59374"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Vasco de Quiroga",
+      "postal_code": [
+        "59380"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Villas de las Lomas",
+      "postal_code": [
+        "59426"
+      ]
+    },
+    {
+      "city": "La Piedad",
+      "colonia": "Zaragoza",
+      "postal_code": [
+        "59400"
+      ]
+    }
+  ]
+}

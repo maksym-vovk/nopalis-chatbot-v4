@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "San Cristobal Amatlan",
+      "colonia": "San Agustin Mixtepec",
+      "postal_code": [
+        "70837"
+      ]
+    },
+    {
+      "city": "San Cristobal Amatlan",
+      "colonia": "San Andres Mixtepec",
+      "postal_code": [
+        "70836"
+      ]
+    },
+    {
+      "city": "San Cristobal Amatlan",
+      "colonia": "San Cristobal Amatlan",
+      "postal_code": [
+        "70835"
+      ]
+    },
+    {
+      "city": "San Cristobal Amatlan",
+      "colonia": "San Lorenzo Mixtepec",
+      "postal_code": [
+        "70836"
+      ]
+    }
+  ]
+}

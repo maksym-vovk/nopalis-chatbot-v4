@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Santiago Xanica",
+      "colonia": "San Antonio Ozolotepec",
+      "postal_code": [
+        "70893"
+      ]
+    },
+    {
+      "city": "Santiago Xanica",
+      "colonia": "San Felipe Lachillo",
+      "postal_code": [
+        "70890"
+      ]
+    },
+    {
+      "city": "Santiago Xanica",
+      "colonia": "Santa Maria Coixtepec",
+      "postal_code": [
+        "70890"
+      ]
+    },
+    {
+      "city": "Santiago Xanica",
+      "colonia": "Santiago Xanica",
+      "postal_code": [
+        "70890"
+      ]
+    }
+  ]
+}

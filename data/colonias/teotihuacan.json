@@ -1,0 +1,340 @@
+{
+  "data": [
+    {
+      "city": "Teotihuacan",
+      "colonia": "Acatitla",
+      "postal_code": [
+        "55803"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Ampliacion Cadena Maquixco",
+      "postal_code": [
+        "55843"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Ampliacion Ejidal Maquixco",
+      "postal_code": [
+        "55840"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Ampliacion Ejidal Tlajinga",
+      "postal_code": [
+        "55825"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Ampliacion San Francisco",
+      "postal_code": [
+        "55826"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Atlatongo",
+      "postal_code": [
+        "55838"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Colatitla",
+      "postal_code": [
+        "55803"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "De los Deportes",
+      "postal_code": [
+        "55830"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Del Valle",
+      "postal_code": [
+        "55830"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "El Cayahual",
+      "postal_code": [
+        "55843"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "55807"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "El Portal",
+      "postal_code": [
+        "55816"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "El Potrero",
+      "postal_code": [
+        "55833"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "El Potrero (Ejido Purificacion)",
+      "postal_code": [
+        "55838"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "El Tejocote",
+      "postal_code": [
+        "55803"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Hacienda Cadena",
+      "postal_code": [
+        "55844"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Huepalco",
+      "postal_code": [
+        "55803"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "La Ventilla",
+      "postal_code": [
+        "55833"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Loma del Cerro Colorado",
+      "postal_code": [
+        "55817"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Metepec (Estacion Metepec)",
+      "postal_code": [
+        "55824"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Nueva Evangelista",
+      "postal_code": [
+        "55806"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Nueva San Pedro",
+      "postal_code": [
+        "55803"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Nueva Santa Maria",
+      "postal_code": [
+        "55823"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Nueva Teotihuacan",
+      "postal_code": [
+        "55806"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Oxtoyahuatl (Barrio Purificacion)",
+      "postal_code": [
+        "55810"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Palomar Atlatongo",
+      "postal_code": [
+        "55845"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Palomar Maquixco",
+      "postal_code": [
+        "55845"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Purificacion",
+      "postal_code": [
+        "55804"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Puxtla",
+      "postal_code": [
+        "55805"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "San Agustin Actipac",
+      "postal_code": [
+        "55843"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "San Francisco Mazapa",
+      "postal_code": [
+        "55820"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "San Isidro del Progreso",
+      "postal_code": [
+        "55847"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "San Juan Evangelista",
+      "postal_code": [
+        "55816"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "San Juan Teotihuacan (El Cuartel)",
+      "postal_code": [
+        "55807"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "San Juan Teotihuacan Zona Arqueologica",
+      "postal_code": [
+        "55829"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "55837"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "San Lorenzo Tlalmimilolpan",
+      "postal_code": [
+        "55830"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "55836"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "San Sebastian Xolalpa",
+      "postal_code": [
+        "55824"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Santa Catarina",
+      "postal_code": [
+        "55835"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Santa Maria Coatlan",
+      "postal_code": [
+        "55835"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Santa Maria Cozotlan",
+      "postal_code": [
+        "55810"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Santa Maria Maquixco",
+      "postal_code": [
+        "55840"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Santiago Atlatongo",
+      "postal_code": [
+        "55834"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Santiago Zacualuca",
+      "postal_code": [
+        "55846"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Teotihuacan de Arista Centro",
+      "postal_code": [
+        "55800"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Tercera Seccion de Atlatongo (Cerro Ocuilan)",
+      "postal_code": [
+        "55846"
+      ]
+    },
+    {
+      "city": "Teotihuacan",
+      "colonia": "Villas de Teotihuacan",
+      "postal_code": [
+        "55807"
+      ]
+    }
+  ]
+}

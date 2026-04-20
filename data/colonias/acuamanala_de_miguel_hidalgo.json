@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Acuamanala de Miguel Hidalgo",
+      "colonia": "Acuamanala",
+      "postal_code": [
+        "90860"
+      ]
+    },
+    {
+      "city": "Acuamanala de Miguel Hidalgo",
+      "colonia": "Concepcion Chimalpa",
+      "postal_code": [
+        "90860"
+      ]
+    },
+    {
+      "city": "Acuamanala de Miguel Hidalgo",
+      "colonia": "Guadalupe Hidalgo",
+      "postal_code": [
+        "90861"
+      ]
+    },
+    {
+      "city": "Acuamanala de Miguel Hidalgo",
+      "colonia": "Olextla de Juarez",
+      "postal_code": [
+        "90864"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Lorenzo Albarradas",
+      "colonia": "San Bartolo",
+      "postal_code": [
+        "70478"
+      ]
+    },
+    {
+      "city": "San Lorenzo Albarradas",
+      "colonia": "San Lorenzo Albarradas",
+      "postal_code": [
+        "70477"
+      ]
+    },
+    {
+      "city": "San Lorenzo Albarradas",
+      "colonia": "Santa Ana del Rio",
+      "postal_code": [
+        "70479"
+      ]
+    }
+  ]
+}

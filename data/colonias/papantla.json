@@ -1,0 +1,1092 @@
+{
+  "data": [
+    {
+      "city": "Papantla",
+      "colonia": "10 de Abril",
+      "postal_code": [
+        "93429"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "25 de Enero",
+      "postal_code": [
+        "93425"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "93438"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Adolfo Ruiz Cortines",
+      "postal_code": [
+        "93520"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Agua Dulce",
+      "postal_code": [
+        "93535"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Allende",
+      "postal_code": [
+        "93538"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Anahuac",
+      "postal_code": [
+        "93419"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Antonio M Quirazco",
+      "postal_code": [
+        "93466"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Arroyo de la Laja",
+      "postal_code": [
+        "93533"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Arroyo del Arco",
+      "postal_code": [
+        "93535"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Arroyo Grande Boca de Lima 1",
+      "postal_code": [
+        "93534"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Arroyo Verde Numero Uno",
+      "postal_code": [
+        "93536"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Azahares del Naranjo",
+      "postal_code": [
+        "93468"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Barrio de San Juan",
+      "postal_code": [
+        "93449"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Belisario Dominguez",
+      "postal_code": [
+        "93548"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "93410"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Benito Juarez Campo Olimpia",
+      "postal_code": [
+        "93487"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Cardenales",
+      "postal_code": [
+        "93478"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Caristay",
+      "postal_code": [
+        "93524"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Carrizal",
+      "postal_code": [
+        "93520"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Cazuelas",
+      "postal_code": [
+        "93534"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Cedral",
+      "postal_code": [
+        "93540"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Cerro Blanco",
+      "postal_code": [
+        "93544"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Cerro de Dolores",
+      "postal_code": [
+        "93440"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Cerro de Jarana",
+      "postal_code": [
+        "93490"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Cerro de las Flores",
+      "postal_code": [
+        "93526"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Cerro Del Carbon",
+      "postal_code": [
+        "93537"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Cerro Grande Dos",
+      "postal_code": [
+        "93536"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Colonia las Americas",
+      "postal_code": [
+        "93537"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Corpus Christy",
+      "postal_code": [
+        "93489"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Cristobal Colon",
+      "postal_code": [
+        "93486"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "93428"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Cuyuxquihui",
+      "postal_code": [
+        "93538"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Doctores",
+      "postal_code": [
+        "93440"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Donato Marquez Azuara",
+      "postal_code": [
+        "93525"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "El Cabellal",
+      "postal_code": [
+        "93525"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "El Cedro",
+      "postal_code": [
+        "93534"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "El Chote",
+      "postal_code": [
+        "93534"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "El Eden",
+      "postal_code": [
+        "93540"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "El Escolin",
+      "postal_code": [
+        "93532"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "El Esfuerzo",
+      "postal_code": [
+        "93525"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "El Higo",
+      "postal_code": [
+        "93429"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "93429"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "El Pahual",
+      "postal_code": [
+        "93543"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "El Palmar Kilometro 40",
+      "postal_code": [
+        "93523"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "El Palmito (Kilometro 44)",
+      "postal_code": [
+        "93523"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "El Pital",
+      "postal_code": [
+        "93525"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "El Tajin",
+      "postal_code": [
+        "93479"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "El Volador",
+      "postal_code": [
+        "93532"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "93468",
+        "93536"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Fernando Gutierrez Barrios Sector 1",
+      "postal_code": [
+        "93420"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Fernando Gutierrez Barrios Sector 2",
+      "postal_code": [
+        "93420"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Finca la Colmena",
+      "postal_code": [
+        "93535"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "93536"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Francisco Sarabia",
+      "postal_code": [
+        "93533"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "93535"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "General Lazaro Cardenas",
+      "postal_code": [
+        "93535"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Gildardo Munoz",
+      "postal_code": [
+        "93533"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Gral. Candido Aguilar",
+      "postal_code": [
+        "93460"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "93484"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "93540"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "93470"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Independencia",
+      "postal_code": [
+        "93450"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Insurgentes Socialistas",
+      "postal_code": [
+        "93548"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Isla de Juan Rosas",
+      "postal_code": [
+        "93536"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Jardines",
+      "postal_code": [
+        "93477"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Joloapan",
+      "postal_code": [
+        "93548"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Jose Maria Morelos",
+      "postal_code": [
+        "93533"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Kilometro Cuarenta y Dos",
+      "postal_code": [
+        "93523"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "La Colmena (La Loma)",
+      "postal_code": [
+        "93535"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "La Concha",
+      "postal_code": [
+        "93534"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "La Florida",
+      "postal_code": [
+        "93413",
+        "93523"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "La Grandeza",
+      "postal_code": [
+        "93525"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "La Guasima",
+      "postal_code": [
+        "93534"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "La Isla",
+      "postal_code": [
+        "93538"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "93537"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "La Martinica",
+      "postal_code": [
+        "93540"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "La Reforma Paso del Correo",
+      "postal_code": [
+        "93538"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Las Arboledas",
+      "postal_code": [
+        "93523"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "La Valentina",
+      "postal_code": [
+        "93427"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "La Victoria Kilometro 47",
+      "postal_code": [
+        "93523"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Lazara Meldiu",
+      "postal_code": [
+        "93485"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "93440"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Lomas de Plata",
+      "postal_code": [
+        "93429"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Los Maestros",
+      "postal_code": [
+        "93467"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Los Mangos",
+      "postal_code": [
+        "93450"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Luis Echeverria",
+      "postal_code": [
+        "93533"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Manantiales",
+      "postal_code": [
+        "93420"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Margarita Maza de Juarez",
+      "postal_code": [
+        "93480"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Mesa Chica Nueva",
+      "postal_code": [
+        "93549"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "93430"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Mizantecatl",
+      "postal_code": [
+        "93535"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Morgadal",
+      "postal_code": [
+        "93537"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Nueva los Mangos",
+      "postal_code": [
+        "93426"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Obrera",
+      "postal_code": [
+        "93489"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Ocotillar",
+      "postal_code": [
+        "93540"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Ojital Nuevo",
+      "postal_code": [
+        "93532"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Ojital Viejo",
+      "postal_code": [
+        "93537"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Pajasco Limonar",
+      "postal_code": [
+        "93540"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Palmar",
+      "postal_code": [
+        "93534"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Papantla Centro",
+      "postal_code": [
+        "93400"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Paso de las Limas",
+      "postal_code": [
+        "93544"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Paso del Correo",
+      "postal_code": [
+        "93538"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Paso de Valencia",
+      "postal_code": [
+        "93542"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Pital Mozutla",
+      "postal_code": [
+        "93525"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Plan de Hidalgo",
+      "postal_code": [
+        "93533"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Plan de Limon",
+      "postal_code": [
+        "93538"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Plan de los Mangos",
+      "postal_code": [
+        "93525"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Plan del Palmar",
+      "postal_code": [
+        "93533"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Polutla",
+      "postal_code": [
+        "93534"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Porvenir Numero Uno",
+      "postal_code": [
+        "93537"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Poza Verde",
+      "postal_code": [
+        "93527"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Pozo 4",
+      "postal_code": [
+        "93458"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Primero de Mayo",
+      "postal_code": [
+        "93540"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Progreso",
+      "postal_code": [
+        "93460"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Pueblillo",
+      "postal_code": [
+        "93545"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Puente de Piedra",
+      "postal_code": [
+        "93526"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Puxtla",
+      "postal_code": [
+        "93540"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Rafael Hernandez Ochoa",
+      "postal_code": [
+        "93499"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Rafael La Concha Rosas",
+      "postal_code": [
+        "93536"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Rafael Murillo Vidal",
+      "postal_code": [
+        "93490"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Ramon Caracas Lara",
+      "postal_code": [
+        "93484"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Rancho Playa",
+      "postal_code": [
+        "93526"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Reforma Escolin",
+      "postal_code": [
+        "93532"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Remolino",
+      "postal_code": [
+        "93536"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Residencial Tajin",
+      "postal_code": [
+        "93523"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Riva Palacio",
+      "postal_code": [
+        "93536"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Rodolfo Curti",
+      "postal_code": [
+        "93536"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "San Antonio Ojital",
+      "postal_code": [
+        "93532"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "San Gotardo",
+      "postal_code": [
+        "93540"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "San Jose de las Lajas",
+      "postal_code": [
+        "93533"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "93535"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "93530"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Santa agueda",
+      "postal_code": [
+        "93525"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "93413",
+        "93523"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Sector Carril",
+      "postal_code": [
+        "93498"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Serafin Olarte",
+      "postal_code": [
+        "93537"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Sombrerete",
+      "postal_code": [
+        "93523"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Teniente Coronel Simon Tiburcio",
+      "postal_code": [
+        "93520"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Tenixtepec",
+      "postal_code": [
+        "93527"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Teresa Penafiel",
+      "postal_code": [
+        "93460"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Totomaxtle",
+      "postal_code": [
+        "93534"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Tres Cruces",
+      "postal_code": [
+        "93525"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Tres Flores",
+      "postal_code": [
+        "93525"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Unidad Deportiva",
+      "postal_code": [
+        "93418"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Unidad y Trabajo",
+      "postal_code": [
+        "93410"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Union y Progreso",
+      "postal_code": [
+        "93525"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Valentin Gomez Farias",
+      "postal_code": [
+        "93430"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Valsequillo",
+      "postal_code": [
+        "93549"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Venustiano Carranza",
+      "postal_code": [
+        "93534"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Vicente Herrera",
+      "postal_code": [
+        "93525"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Vista Hermosa de Juarez",
+      "postal_code": [
+        "93548"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Vista Hermosa de Madero",
+      "postal_code": [
+        "93533"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Xanath",
+      "postal_code": [
+        "93450"
+      ]
+    },
+    {
+      "city": "Papantla",
+      "colonia": "Xanath 2",
+      "postal_code": [
+        "93450"
+      ]
+    }
+  ]
+}

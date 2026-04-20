@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Santa Catarina Lachatao",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "68783"
+      ]
+    },
+    {
+      "city": "Santa Catarina Lachatao",
+      "colonia": "La Neveria",
+      "postal_code": [
+        "68783"
+      ]
+    },
+    {
+      "city": "Santa Catarina Lachatao",
+      "colonia": "Latuvi",
+      "postal_code": [
+        "68780"
+      ]
+    },
+    {
+      "city": "Santa Catarina Lachatao",
+      "colonia": "Santa Catarina Lachatao",
+      "postal_code": [
+        "68780"
+      ]
+    }
+  ]
+}

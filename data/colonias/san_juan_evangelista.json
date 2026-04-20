@@ -1,0 +1,432 @@
+{
+  "data": [
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Achotal",
+      "postal_code": [
+        "96140"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Aguacatillo",
+      "postal_code": [
+        "96134"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Ampliacion San Juan Evangelista",
+      "postal_code": [
+        "96123"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Bajo las Palmas",
+      "postal_code": [
+        "96136"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Bellaco",
+      "postal_code": [
+        "96146"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "96144"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Campo Nuevo",
+      "postal_code": [
+        "96140"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Caobal",
+      "postal_code": [
+        "96145"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Cartagena de Michapan",
+      "postal_code": [
+        "96130"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Cascajal Grande",
+      "postal_code": [
+        "96130"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Cascajalito",
+      "postal_code": [
+        "96130"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Chapopoapan",
+      "postal_code": [
+        "96130"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "96140"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Ejido Nicolas Bravo",
+      "postal_code": [
+        "96144"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "El Cautivo",
+      "postal_code": [
+        "96145"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "El Manantial",
+      "postal_code": [
+        "96143"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "96144"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "96147"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Emiliano Zapata (La Llorona)",
+      "postal_code": [
+        "96146"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Francisci J. Moreno",
+      "postal_code": [
+        "96145"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Francisco I. Madero (Plan de la Gloria)",
+      "postal_code": [
+        "96146",
+        "96147"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "96144"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "96144"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Hato Nuevo",
+      "postal_code": [
+        "96136"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Jalapilla",
+      "postal_code": [
+        "96135"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Jose Maria Pino Suarez",
+      "postal_code": [
+        "96145"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Juanita",
+      "postal_code": [
+        "96146"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "La Caudalosa",
+      "postal_code": [
+        "96140"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "La Cerquilla",
+      "postal_code": [
+        "96133"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "La Fortuna",
+      "postal_code": [
+        "96133"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "La Lima",
+      "postal_code": [
+        "96137"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Las Carolinas",
+      "postal_code": [
+        "96136"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "96145"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "La Union y Campo Nuevo",
+      "postal_code": [
+        "96143"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Lazaro Cardenas (El Saladero)",
+      "postal_code": [
+        "96140"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Lazaro Cardenas (La Gloria)",
+      "postal_code": [
+        "96144"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "96144"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "96145"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Mata de Cana",
+      "postal_code": [
+        "96143"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Michapan de Osorio",
+      "postal_code": [
+        "96132"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Miguel Aleman",
+      "postal_code": [
+        "96135"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Monte Verde",
+      "postal_code": [
+        "96145"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Nuevo Lazaro Cardenas",
+      "postal_code": [
+        "96147"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Nuevo Mexico (Agricola)",
+      "postal_code": [
+        "96143"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Nuevo Saltillo",
+      "postal_code": [
+        "96144"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Poblado los Arco Iris",
+      "postal_code": [
+        "96147"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Pozole",
+      "postal_code": [
+        "96147"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Quetzalapa (El Refugio)",
+      "postal_code": [
+        "96143"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "96130"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Reforma Agraria",
+      "postal_code": [
+        "96145"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "San Felipe de Jesus",
+      "postal_code": [
+        "96147"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "96135"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "San Juan Evangelista Centro",
+      "postal_code": [
+        "96120"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "San Luis",
+      "postal_code": [
+        "96137"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "San Pedro Tulapan",
+      "postal_code": [
+        "96147"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Tizamar",
+      "postal_code": [
+        "96140"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Villa Alta",
+      "postal_code": [
+        "96145"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Villa Guerrero",
+      "postal_code": [
+        "96145"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Villa Hermosa",
+      "postal_code": [
+        "96145"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "96132"
+      ]
+    },
+    {
+      "city": "San Juan Evangelista",
+      "colonia": "Zacatal",
+      "postal_code": [
+        "96137"
+      ]
+    }
+  ]
+}

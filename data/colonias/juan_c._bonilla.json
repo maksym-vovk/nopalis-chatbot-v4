@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Juan C. Bonilla",
+      "colonia": "Cuanala",
+      "postal_code": [
+        "72640"
+      ]
+    },
+    {
+      "city": "Juan C. Bonilla",
+      "colonia": "Jose Angeles",
+      "postal_code": [
+        "72668"
+      ]
+    },
+    {
+      "city": "Juan C. Bonilla",
+      "colonia": "San Gabriel Ometoxtla",
+      "postal_code": [
+        "72669"
+      ]
+    },
+    {
+      "city": "Juan C. Bonilla",
+      "colonia": "San Lucas Nextetelco",
+      "postal_code": [
+        "72665"
+      ]
+    },
+    {
+      "city": "Juan C. Bonilla",
+      "colonia": "Santa Maria Zacatepec",
+      "postal_code": [
+        "72660"
+      ]
+    }
+  ]
+}

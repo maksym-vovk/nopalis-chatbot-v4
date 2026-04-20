@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Francisco Chindua",
+      "colonia": "Guadalupe Chindua",
+      "postal_code": [
+        "69685"
+      ]
+    },
+    {
+      "city": "San Francisco Chindua",
+      "colonia": "Pueblo Nuevo",
+      "postal_code": [
+        "69685"
+      ]
+    },
+    {
+      "city": "San Francisco Chindua",
+      "colonia": "San Francisco Chindua",
+      "postal_code": [
+        "69685"
+      ]
+    }
+  ]
+}

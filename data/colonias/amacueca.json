@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Amacueca",
+      "colonia": "Amacueca",
+      "postal_code": [
+        "49370"
+      ]
+    },
+    {
+      "city": "Amacueca",
+      "colonia": "Cofradia del Rosario",
+      "postal_code": [
+        "49370"
+      ]
+    },
+    {
+      "city": "Amacueca",
+      "colonia": "Los Chavez",
+      "postal_code": [
+        "49375"
+      ]
+    },
+    {
+      "city": "Amacueca",
+      "colonia": "San Juanito",
+      "postal_code": [
+        "49388"
+      ]
+    },
+    {
+      "city": "Amacueca",
+      "colonia": "Tepec",
+      "postal_code": [
+        "49380"
+      ]
+    }
+  ]
+}

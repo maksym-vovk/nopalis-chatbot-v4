@@ -1,0 +1,551 @@
+{
+  "data": [
+    {
+      "city": "Calnali",
+      "colonia": "Acatempa",
+      "postal_code": [
+        "43248"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Acatlan",
+      "postal_code": [
+        "43244"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Agiladero",
+      "postal_code": [
+        "43238"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Agua Zarca",
+      "postal_code": [
+        "43233"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Ahuacatlan",
+      "postal_code": [
+        "43239"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Ahuamolos",
+      "postal_code": [
+        "43245"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Ahuimol",
+      "postal_code": [
+        "43233"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Amatepetl",
+      "postal_code": [
+        "43238"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Arroyo del Muerto (Piedras Blancas)",
+      "postal_code": [
+        "43236"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Atempa",
+      "postal_code": [
+        "43240"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Atezco",
+      "postal_code": [
+        "43239"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Ayacapa",
+      "postal_code": [
+        "43245"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Ayateca (Tlanepango)",
+      "postal_code": [
+        "43245"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Bismalotepec",
+      "postal_code": [
+        "43234"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "43248"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Calnali Centro",
+      "postal_code": [
+        "43230"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Camotla",
+      "postal_code": [
+        "43245"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Chalahuico",
+      "postal_code": [
+        "43245"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Chiatipan",
+      "postal_code": [
+        "43247"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Chicuapa",
+      "postal_code": [
+        "43238"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Cholingo",
+      "postal_code": [
+        "43248"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Coahuizas",
+      "postal_code": [
+        "43244"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Coamitla",
+      "postal_code": [
+        "43243"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Cohuamila",
+      "postal_code": [
+        "43239"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Coyula",
+      "postal_code": [
+        "43240"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Cruz Verde (Tempalahuaco)",
+      "postal_code": [
+        "43237"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Cuatlapalapa",
+      "postal_code": [
+        "43244"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Cuaxacal",
+      "postal_code": [
+        "43236"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Cuazala",
+      "postal_code": [
+        "43239"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Cuitlachamaco",
+      "postal_code": [
+        "43236"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Hualul",
+      "postal_code": [
+        "43245"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Hueytepec",
+      "postal_code": [
+        "43237"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Ixcatlan",
+      "postal_code": [
+        "43239"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "43238"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "La Cienega (Agua Zarca)",
+      "postal_code": [
+        "43238"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "43235"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "La Rivera",
+      "postal_code": [
+        "43234"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Metlatepetl",
+      "postal_code": [
+        "43236"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Michinteopan",
+      "postal_code": [
+        "43245"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Molhuasco",
+      "postal_code": [
+        "43239"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Nuevo",
+      "postal_code": [
+        "43233"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Nuevo Cuaptonapa",
+      "postal_code": [
+        "43236"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Octatitla",
+      "postal_code": [
+        "43245"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Palzoquitempa",
+      "postal_code": [
+        "43248"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Papatlatla",
+      "postal_code": [
+        "43240"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Pezmapa",
+      "postal_code": [
+        "43237"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Pezmatepetl",
+      "postal_code": [
+        "43245"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Pezmatlan",
+      "postal_code": [
+        "43245"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Piedras Blancas",
+      "postal_code": [
+        "43236"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "43243"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "San Andres (San Andres Chichayotla)",
+      "postal_code": [
+        "43230"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "San Antonio (Huehuenco)",
+      "postal_code": [
+        "43248"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "43236"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "San Juan",
+      "postal_code": [
+        "43234"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "San Lucas",
+      "postal_code": [
+        "43237"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Santa Lucia (Mesa de Santa Lucia)",
+      "postal_code": [
+        "43240"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Techichico",
+      "postal_code": [
+        "43245"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Tecomatla (Chintipan)",
+      "postal_code": [
+        "43239"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Tecpaco",
+      "postal_code": [
+        "43230"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Tecuapa",
+      "postal_code": [
+        "43245"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Tecueyaca",
+      "postal_code": [
+        "43231"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Temanaxteco",
+      "postal_code": [
+        "43243"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Temextla",
+      "postal_code": [
+        "43244"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Tetioco",
+      "postal_code": [
+        "43244"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Tetzintla",
+      "postal_code": [
+        "43248"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Texcaco (Sagrado Corazon de Jesus)",
+      "postal_code": [
+        "43236"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Tiocintepec",
+      "postal_code": [
+        "43239"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Tlala",
+      "postal_code": [
+        "43234"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Tlalica",
+      "postal_code": [
+        "43237",
+        "43239"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Tlatexco",
+      "postal_code": [
+        "43244"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Tochintlan",
+      "postal_code": [
+        "43244"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Tonalaco",
+      "postal_code": [
+        "43238"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Tostlamantla",
+      "postal_code": [
+        "43232"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Tula",
+      "postal_code": [
+        "43245"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Xacalco",
+      "postal_code": [
+        "43245"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Xaltipa",
+      "postal_code": [
+        "43245"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Xochimilco",
+      "postal_code": [
+        "43248"
+      ]
+    },
+    {
+      "city": "Calnali",
+      "colonia": "Xontla",
+      "postal_code": [
+        "43248"
+      ]
+    }
+  ]
+}

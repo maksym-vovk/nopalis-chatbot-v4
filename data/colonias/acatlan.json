@@ -1,0 +1,683 @@
+{
+  "data": [
+    {
+      "city": "Acatlan",
+      "colonia": "Acatlan",
+      "postal_code": [
+        "91420"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "28 de Mayo (Santa Rosa)",
+      "postal_code": [
+        "43543"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Acatlan Centro",
+      "postal_code": [
+        "43540"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Agustin Olvera",
+      "postal_code": [
+        "43553"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Alcholoya (El Salto de Alcholoya)",
+      "postal_code": [
+        "43547"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Alicia",
+      "postal_code": [
+        "43553"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Almoloya",
+      "postal_code": [
+        "43540"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Ampliacion Hueyotlipa",
+      "postal_code": [
+        "43545"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "43553"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Buena Vista",
+      "postal_code": [
+        "43546"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Cerro de Aguatepec",
+      "postal_code": [
+        "43558"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Chautenco",
+      "postal_code": [
+        "43553"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Echeverria",
+      "postal_code": [
+        "43558"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "43558"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "El Chilar (La Barranca)",
+      "postal_code": [
+        "43546"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "El Fortin",
+      "postal_code": [
+        "43545"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "El Huizache y la Paloma",
+      "postal_code": [
+        "43547"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "El Milagro San Simon",
+      "postal_code": [
+        "43547"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "43547"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "El Sabino (La Barranca)",
+      "postal_code": [
+        "43546"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "El Transformador",
+      "postal_code": [
+        "43544"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "El Veladero",
+      "postal_code": [
+        "43545"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "El Yolo",
+      "postal_code": [
+        "43545"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Encinillos",
+      "postal_code": [
+        "43544"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Ernesto Zedillo",
+      "postal_code": [
+        "43558"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "43543"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Hueyotlipa",
+      "postal_code": [
+        "43545"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "La Calera (Los Banos)",
+      "postal_code": [
+        "43546"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "La Chamusquina",
+      "postal_code": [
+        "43546"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Lagunicatlan",
+      "postal_code": [
+        "43554"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "La Luz",
+      "postal_code": [
+        "43546"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "La Palma",
+      "postal_code": [
+        "43546"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "La Penuela",
+      "postal_code": [
+        "43545"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "43543"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "La Union",
+      "postal_code": [
+        "43545"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Loma Chica",
+      "postal_code": [
+        "43554"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Loma Larga",
+      "postal_code": [
+        "43546"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Los Arcos",
+      "postal_code": [
+        "43558"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Los Migueles",
+      "postal_code": [
+        "43543"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Majadillas (La Venta)",
+      "postal_code": [
+        "43545"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Metepec Primero",
+      "postal_code": [
+        "43542"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Metepec Segundo",
+      "postal_code": [
+        "43542"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Mixquiapan",
+      "postal_code": [
+        "43559"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Piedra Larga",
+      "postal_code": [
+        "43546"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "San Antonio la Palma",
+      "postal_code": [
+        "43545"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "San Bartolo (El Llano)",
+      "postal_code": [
+        "43546"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "San Dionisio",
+      "postal_code": [
+        "43550"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "43546"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Totoapa el Grande",
+      "postal_code": [
+        "43558"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Totoapita Canutillo",
+      "postal_code": [
+        "43544"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Totoapita la Herradura",
+      "postal_code": [
+        "43544"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "43543"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Zupitlan (Los Pocitos)",
+      "postal_code": [
+        "43543"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "3 Cruces 1a Secc",
+      "postal_code": [
+        "74949"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "3 Cruces 2a Secc",
+      "postal_code": [
+        "74949"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Acatlan de Osorio Centro",
+      "postal_code": [
+        "74949"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Amate Redondo",
+      "postal_code": [
+        "74945"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Amatitlan de Azueta",
+      "postal_code": [
+        "74940"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "74949"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Colonia Allende",
+      "postal_code": [
+        "74947"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "De Guadalupe",
+      "postal_code": [
+        "74940"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Del Maestro",
+      "postal_code": [
+        "74949"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "El Cuajilote",
+      "postal_code": [
+        "74947"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "El Maguey",
+      "postal_code": [
+        "74944"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "El Tehuixtle",
+      "postal_code": [
+        "74943"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "FOVISSSTE",
+      "postal_code": [
+        "74949"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Garzones (Santa Gertrudis)",
+      "postal_code": [
+        "74943"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Hermenegildo Galeana",
+      "postal_code": [
+        "74944"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Ilamacingo",
+      "postal_code": [
+        "74945"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Independencia",
+      "postal_code": [
+        "74949"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Juan R. Rojas (Los Cocos)",
+      "postal_code": [
+        "74945"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "La Azuchilera",
+      "postal_code": [
+        "74947"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "La Huerta",
+      "postal_code": [
+        "74943"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "La Noria Chica",
+      "postal_code": [
+        "74946"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "La Palma",
+      "postal_code": [
+        "74949"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "74949"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Las Nieves",
+      "postal_code": [
+        "74947"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "74941"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Nuevos Horizontes",
+      "postal_code": [
+        "74946"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "74945"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "74949"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "San Bernardo",
+      "postal_code": [
+        "74946"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "San Cristobal",
+      "postal_code": [
+        "74942"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "San Francisco Rancho Nuevo",
+      "postal_code": [
+        "74943"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "San Gabriel",
+      "postal_code": [
+        "74949"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "San Jose",
+      "postal_code": [
+        "74949"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "San Juan",
+      "postal_code": [
+        "74949"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "San Luis",
+      "postal_code": [
+        "74949"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "74949"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "San Miguel San Bernardo",
+      "postal_code": [
+        "74946"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "74949"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "74949"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "74949"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "San Vicente Boqueron",
+      "postal_code": [
+        "74943"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Tecomate",
+      "postal_code": [
+        "74947"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Tetelcingo",
+      "postal_code": [
+        "74941"
+      ]
+    },
+    {
+      "city": "Acatlan",
+      "colonia": "Tianguistengo",
+      "postal_code": [
+        "74945"
+      ]
+    }
+  ]
+}

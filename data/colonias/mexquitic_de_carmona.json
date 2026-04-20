@@ -1,0 +1,859 @@
+{
+  "data": [
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Agua Prieta",
+      "postal_code": [
+        "78473"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Agua Senora",
+      "postal_code": [
+        "78465"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Barbecho",
+      "postal_code": [
+        "78476"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "78484"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "78467"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "78464"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Canada Grande",
+      "postal_code": [
+        "78463"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Canaditas",
+      "postal_code": [
+        "78474"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Canon de Ojo Zarco",
+      "postal_code": [
+        "78474"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Cenicera",
+      "postal_code": [
+        "78473"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Cerrito de Estanzuela",
+      "postal_code": [
+        "78465"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Cerrito de Jaral",
+      "postal_code": [
+        "78465"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Cerrito de Maravillas",
+      "postal_code": [
+        "78465"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Cerro Prieto",
+      "postal_code": [
+        "78475"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Colonia Alvaro Obregon",
+      "postal_code": [
+        "78474"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Colonia Emiliano Zapata (El Chamizal)",
+      "postal_code": [
+        "78460"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Colonia Guadalupes",
+      "postal_code": [
+        "78460"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Colonia Molino del Carmen",
+      "postal_code": [
+        "78467"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Colonia Orilla del Rio",
+      "postal_code": [
+        "78467"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Colonia Primero de Enero",
+      "postal_code": [
+        "78465"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Colonia Progreso",
+      "postal_code": [
+        "78463"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Comunidad Corte Primero",
+      "postal_code": [
+        "78466"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Comunidad de Corte Segundo",
+      "postal_code": [
+        "78466"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Contreras",
+      "postal_code": [
+        "78473"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Cruces y Carmona",
+      "postal_code": [
+        "78470"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Derramaderos",
+      "postal_code": [
+        "78466"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Ejido de Moras",
+      "postal_code": [
+        "78464"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Ejido los Rodriguez (Potrero el Chaparral)",
+      "postal_code": [
+        "78463"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Ejido Miguel Hidalgo",
+      "postal_code": [
+        "78475"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Ejido Milpillas",
+      "postal_code": [
+        "78473"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "El Arbolito",
+      "postal_code": [
+        "78473"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "El Bravo",
+      "postal_code": [
+        "78467"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "El Carrillo",
+      "postal_code": [
+        "78466"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "78467"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "78473"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "El Entronque",
+      "postal_code": [
+        "78473"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "El Jaralito",
+      "postal_code": [
+        "78470"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "El Llanito",
+      "postal_code": [
+        "78483"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "El Olmo",
+      "postal_code": [
+        "78474"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "El Palmar Primero",
+      "postal_code": [
+        "78466"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "El Rodeo",
+      "postal_code": [
+        "78465"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "El Tepozan",
+      "postal_code": [
+        "78464"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Estacion Justino",
+      "postal_code": [
+        "78467"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Estancita",
+      "postal_code": [
+        "78476"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Estanzuela",
+      "postal_code": [
+        "78465"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Forja Real",
+      "postal_code": [
+        "78470"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Fraccion Ojo de Pinto",
+      "postal_code": [
+        "78464"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Fraccion Salitrera",
+      "postal_code": [
+        "78474"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "78477"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Huizachillos",
+      "postal_code": [
+        "78463"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Iglesia del Desierto",
+      "postal_code": [
+        "78477"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Ignacio Allende",
+      "postal_code": [
+        "78476"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Jacalillos",
+      "postal_code": [
+        "78464"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Jarillas",
+      "postal_code": [
+        "78474"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Juan Manuel",
+      "postal_code": [
+        "78473"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "La Cabra",
+      "postal_code": [
+        "78464"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "La Campana",
+      "postal_code": [
+        "78470"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "La Colorada",
+      "postal_code": [
+        "78465"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "78470"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "La Cuenca",
+      "postal_code": [
+        "78463"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "La Cueva",
+      "postal_code": [
+        "78473"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Lagunillas",
+      "postal_code": [
+        "78467"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "La Jacoba",
+      "postal_code": [
+        "78460"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "La Loma",
+      "postal_code": [
+        "78470"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "La Loma de la Cruz",
+      "postal_code": [
+        "78475"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "La Matanza",
+      "postal_code": [
+        "78474"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "La Playa",
+      "postal_code": [
+        "78486"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "La Presita",
+      "postal_code": [
+        "78474"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Las Mangas Dos",
+      "postal_code": [
+        "78460"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Las Moras",
+      "postal_code": [
+        "78465"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "La Tapona",
+      "postal_code": [
+        "78476"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Lechuguillas",
+      "postal_code": [
+        "78464"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Loma Real",
+      "postal_code": [
+        "78470"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Lomas del Pedregal",
+      "postal_code": [
+        "78483"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Los Coronado",
+      "postal_code": [
+        "78465"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Los Hernandez",
+      "postal_code": [
+        "78465"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Los Jimenez",
+      "postal_code": [
+        "78473"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Los Lopez",
+      "postal_code": [
+        "78470"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Los Moreno",
+      "postal_code": [
+        "78465"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Los organos",
+      "postal_code": [
+        "78466"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Los Perez",
+      "postal_code": [
+        "78464"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Los Puertecitos",
+      "postal_code": [
+        "78474"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Los Retes",
+      "postal_code": [
+        "78465"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Los Rodriguez",
+      "postal_code": [
+        "78464"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Los Rojas",
+      "postal_code": [
+        "78464"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Los Uribe",
+      "postal_code": [
+        "78464"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Los Vanegas",
+      "postal_code": [
+        "78464"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Los Vazquez",
+      "postal_code": [
+        "78464"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Maravillas",
+      "postal_code": [
+        "78465"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Matancillas",
+      "postal_code": [
+        "78465"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Mexquitic de Carmona Centro",
+      "postal_code": [
+        "78480"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Milpillas",
+      "postal_code": [
+        "78470"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Monte Obscuro",
+      "postal_code": [
+        "78465"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Morelos",
+      "postal_code": [
+        "78475"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "78466"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Ojo Zarco de Arista",
+      "postal_code": [
+        "78474"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Paisanos",
+      "postal_code": [
+        "78470"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Palmar Segundo",
+      "postal_code": [
+        "78464"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Paso Blanco",
+      "postal_code": [
+        "78470"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Pollitos",
+      "postal_code": [
+        "78476"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Puerta de Tinajuela",
+      "postal_code": [
+        "78460"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Puerto de Providencia",
+      "postal_code": [
+        "78463"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Rancheria de Guadalupe",
+      "postal_code": [
+        "78473"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "78485"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Rincon del Porvenir",
+      "postal_code": [
+        "78467"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Rincon de San Jose",
+      "postal_code": [
+        "78473"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Rivera",
+      "postal_code": [
+        "78476"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Roman Hernandez Jacobo",
+      "postal_code": [
+        "78473"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Salitrillo",
+      "postal_code": [
+        "78464",
+        "78473"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "78474"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "San Francisco (Lomas de San Francisco)",
+      "postal_code": [
+        "78460"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "San Marcos (San Marcos Carmona)",
+      "postal_code": [
+        "78470"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "San Pedro Ojo Zarco",
+      "postal_code": [
+        "78463"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "San Salvador",
+      "postal_code": [
+        "78463"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Suspiro Picacho",
+      "postal_code": [
+        "78470"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Tanque Grande",
+      "postal_code": [
+        "78464"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Tanque Grande (Las Mesas)",
+      "postal_code": [
+        "78460"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Tanque la Pintada",
+      "postal_code": [
+        "78475"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Tanque las Tortugas",
+      "postal_code": [
+        "78460"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Temaxcalillo",
+      "postal_code": [
+        "78474"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Valle Umbroso",
+      "postal_code": [
+        "78460"
+      ]
+    },
+    {
+      "city": "Mexquitic de Carmona",
+      "colonia": "Venadito",
+      "postal_code": [
+        "78464"
+      ]
+    }
+  ]
+}

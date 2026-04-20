@@ -1,0 +1,951 @@
+{
+  "data": [
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Agua Zarca",
+      "postal_code": [
+        "61376"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Arroyo de las Vacas",
+      "postal_code": [
+        "61373"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Arroyo Verde",
+      "postal_code": [
+        "61373"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Bellavista del Rio",
+      "postal_code": [
+        "61370"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Boca de Leon",
+      "postal_code": [
+        "61397"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "61384",
+        "61398"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Caramecuaro",
+      "postal_code": [
+        "61374"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Ceibas de Trujillo",
+      "postal_code": [
+        "61377"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Charco el Ansia",
+      "postal_code": [
+        "61384"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Copandaro",
+      "postal_code": [
+        "61374"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Cuarangueo",
+      "postal_code": [
+        "61393"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Del Sol",
+      "postal_code": [
+        "61370"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Aguacate",
+      "postal_code": [
+        "61396"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Algodon",
+      "postal_code": [
+        "61395"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Anil",
+      "postal_code": [
+        "61377"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Caracol",
+      "postal_code": [
+        "61376"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Chilar",
+      "postal_code": [
+        "61376"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Cirian Grande",
+      "postal_code": [
+        "61384"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Entronque",
+      "postal_code": [
+        "61378"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Frijolar",
+      "postal_code": [
+        "61397"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Guanil",
+      "postal_code": [
+        "61396"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Guayabal (Paso del Guayabal)",
+      "postal_code": [
+        "61376"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Guayabito",
+      "postal_code": [
+        "61387"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Guayabito (Los Jazmincitos)",
+      "postal_code": [
+        "61398"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Guayabo",
+      "postal_code": [
+        "61395"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Guayabo de Chapin",
+      "postal_code": [
+        "61375"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Güinduri",
+      "postal_code": [
+        "61398"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Jabali",
+      "postal_code": [
+        "61399"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Limon de los Negros",
+      "postal_code": [
+        "61393"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Llano de Zapote Grande",
+      "postal_code": [
+        "61399"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Llano (San Miguel Canario)",
+      "postal_code": [
+        "61390"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Manguito",
+      "postal_code": [
+        "61394"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Naranjo (La Hoya)",
+      "postal_code": [
+        "61375"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Palmar",
+      "postal_code": [
+        "61395"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Pantano",
+      "postal_code": [
+        "61398"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Paso del Limon",
+      "postal_code": [
+        "61377"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Pinzan",
+      "postal_code": [
+        "61386"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Pinzan Morado",
+      "postal_code": [
+        "61373"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Plan",
+      "postal_code": [
+        "61376"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Puertecito (El Puertecito de las Lagunas)",
+      "postal_code": [
+        "61387"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Queretano",
+      "postal_code": [
+        "61394"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Respaldo",
+      "postal_code": [
+        "61393"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Rodeo",
+      "postal_code": [
+        "61386"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Tamarindo (La Curva)",
+      "postal_code": [
+        "61399"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Tecolote",
+      "postal_code": [
+        "61387"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Tejocote",
+      "postal_code": [
+        "61397"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "61376"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Timbe (El Timbre)",
+      "postal_code": [
+        "61373"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Ushiel",
+      "postal_code": [
+        "61374"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Zapien",
+      "postal_code": [
+        "61394"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Zapote Chico",
+      "postal_code": [
+        "61373"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Zapote de Angua",
+      "postal_code": [
+        "61375"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "El Zapote Grande",
+      "postal_code": [
+        "61399"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Flores Magon",
+      "postal_code": [
+        "61370"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Gallitos (Siete Carreras)",
+      "postal_code": [
+        "61394"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Guayabo Zancon",
+      "postal_code": [
+        "61387"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Huahuasco",
+      "postal_code": [
+        "61377"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Anonera",
+      "postal_code": [
+        "61377"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Arboleda",
+      "postal_code": [
+        "61370"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Bermeja",
+      "postal_code": [
+        "61384"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Calera",
+      "postal_code": [
+        "61373"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Carrerita",
+      "postal_code": [
+        "61395"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Ceibita",
+      "postal_code": [
+        "61387"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Crucita",
+      "postal_code": [
+        "61376"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "61370"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Despensa",
+      "postal_code": [
+        "61397"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Dibujada",
+      "postal_code": [
+        "61396"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Dispersa (El Nopalito)",
+      "postal_code": [
+        "61397"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "61387"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Escurana",
+      "postal_code": [
+        "61390"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Gobernadora",
+      "postal_code": [
+        "61397"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Jabonera",
+      "postal_code": [
+        "61387"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Joya",
+      "postal_code": [
+        "61397"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Maestranza",
+      "postal_code": [
+        "61396"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Minita",
+      "postal_code": [
+        "61394"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Orejana",
+      "postal_code": [
+        "61398"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Parota",
+      "postal_code": [
+        "61398"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Parrita",
+      "postal_code": [
+        "61394"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Pastoria",
+      "postal_code": [
+        "61394"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Saladera",
+      "postal_code": [
+        "61398"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Las Anonas",
+      "postal_code": [
+        "61393"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Las Ceibas",
+      "postal_code": [
+        "61397"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Las Ceibillas (Pueblo Viejo)",
+      "postal_code": [
+        "61376"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Las Juntas (Las Juntas del Naranjo)",
+      "postal_code": [
+        "61387"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "61397"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Las Paredes",
+      "postal_code": [
+        "61376"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Las Pinas",
+      "postal_code": [
+        "61377"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Las Soromutas",
+      "postal_code": [
+        "61397"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Las Tocuseras",
+      "postal_code": [
+        "61396"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Las Trojas",
+      "postal_code": [
+        "61396",
+        "61397"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Torrecilla",
+      "postal_code": [
+        "61394"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "La Yerbabuena",
+      "postal_code": [
+        "61399"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "61370"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Loma de las Yeguas",
+      "postal_code": [
+        "61395"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Loma Garcia",
+      "postal_code": [
+        "61395"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Los Carricitos",
+      "postal_code": [
+        "61376"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Los Corongoros",
+      "postal_code": [
+        "61376"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Los Cuachalalates",
+      "postal_code": [
+        "61373"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Los Cueros",
+      "postal_code": [
+        "61375"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Los Cuitases",
+      "postal_code": [
+        "61387"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Los Hornos",
+      "postal_code": [
+        "61393"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Los Hoyos",
+      "postal_code": [
+        "61394"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Los Huerfanos (La Esmeralda)",
+      "postal_code": [
+        "61396"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Los Jazmines",
+      "postal_code": [
+        "61396"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Los Lampazos",
+      "postal_code": [
+        "61373"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "61397"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Mojarras (San Carlos)",
+      "postal_code": [
+        "61399"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Monte Grande",
+      "postal_code": [
+        "61385"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Nuevo Albarran",
+      "postal_code": [
+        "61370"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Nuevo Copandaro",
+      "postal_code": [
+        "61374"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "61393"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Palmeros",
+      "postal_code": [
+        "61396"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Palmo Real",
+      "postal_code": [
+        "61396"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Palos Mochos (La Crucita)",
+      "postal_code": [
+        "61376"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Panguaro",
+      "postal_code": [
+        "61383"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Papatzindan de Romero (El Limon)",
+      "postal_code": [
+        "61378"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Paso Ancho",
+      "postal_code": [
+        "61373"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Piedra China",
+      "postal_code": [
+        "61386"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Pionias",
+      "postal_code": [
+        "61396"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Plan de Bautista",
+      "postal_code": [
+        "61397"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Plan del Salmeron",
+      "postal_code": [
+        "61395"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Puerto de las Canoas",
+      "postal_code": [
+        "61390"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Puerto del Changungo",
+      "postal_code": [
+        "61384"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Puerto Metates",
+      "postal_code": [
+        "61394"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Purungueo",
+      "postal_code": [
+        "61380"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "61370"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Riva Palacio (El Guajolote)",
+      "postal_code": [
+        "61374"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "61393"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "61376"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Talayote",
+      "postal_code": [
+        "61397"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Tiquicheo",
+      "postal_code": [
+        "61370"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Triguitos",
+      "postal_code": [
+        "61397"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Tzentzenguaro",
+      "postal_code": [
+        "61393"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Yostio",
+      "postal_code": [
+        "61398"
+      ]
+    },
+    {
+      "city": "Tiquicheo de Nicolas Romero",
+      "colonia": "Zirucuaro",
+      "postal_code": [
+        "61393"
+      ]
+    }
+  ]
+}

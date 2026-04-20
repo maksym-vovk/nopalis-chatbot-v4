@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Ucu",
+      "colonia": "San Juan",
+      "postal_code": [
+        "97357"
+      ]
+    },
+    {
+      "city": "Ucu",
+      "colonia": "Ucu",
+      "postal_code": [
+        "97357"
+      ]
+    },
+    {
+      "city": "Ucu",
+      "colonia": "Yaxche de Peon",
+      "postal_code": [
+        "97357"
+      ]
+    }
+  ]
+}

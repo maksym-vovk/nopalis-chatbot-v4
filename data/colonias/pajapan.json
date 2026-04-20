@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Pajapan",
+      "colonia": "Batajapan",
+      "postal_code": [
+        "95960"
+      ]
+    },
+    {
+      "city": "Pajapan",
+      "colonia": "Pajapan",
+      "postal_code": [
+        "95960"
+      ]
+    },
+    {
+      "city": "Pajapan",
+      "colonia": "San Juan Volador",
+      "postal_code": [
+        "95960"
+      ]
+    },
+    {
+      "city": "Pajapan",
+      "colonia": "San Miguel Temoloapan",
+      "postal_code": [
+        "95970"
+      ]
+    }
+  ]
+}

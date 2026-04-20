@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "city": "San Antonio la Isla",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "52280"
+      ]
+    },
+    {
+      "city": "San Antonio la Isla",
+      "colonia": "Ex Rancho San Dimas",
+      "postal_code": [
+        "52282"
+      ]
+    },
+    {
+      "city": "San Antonio la Isla",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "52290"
+      ]
+    },
+    {
+      "city": "San Antonio la Isla",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "52286"
+      ]
+    },
+    {
+      "city": "San Antonio la Isla",
+      "colonia": "San Antonio la Isla",
+      "postal_code": [
+        "52280"
+      ]
+    },
+    {
+      "city": "San Antonio la Isla",
+      "colonia": "San Lucas Tepemajalco",
+      "postal_code": [
+        "52280"
+      ]
+    },
+    {
+      "city": "San Antonio la Isla",
+      "colonia": "Villas del Sauce",
+      "postal_code": [
+        "52280"
+      ]
+    }
+  ]
+}

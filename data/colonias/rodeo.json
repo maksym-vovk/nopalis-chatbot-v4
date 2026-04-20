@@ -1,0 +1,445 @@
+{
+  "data": [
+    {
+      "city": "Rodeo",
+      "colonia": "2 de Agosto",
+      "postal_code": [
+        "35760"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Abasolo",
+      "postal_code": [
+        "35774"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Alamillo Galeana",
+      "postal_code": [
+        "35775"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Arroyo de Coneto",
+      "postal_code": [
+        "35784"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Baltazar",
+      "postal_code": [
+        "35783"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Barrio de Guadalupe",
+      "postal_code": [
+        "35764"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Bellavista (Los Fresnos)",
+      "postal_code": [
+        "35774"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "35786"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "C.B.T.A",
+      "postal_code": [
+        "35760"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Chonteco",
+      "postal_code": [
+        "35760"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Corral de Palos",
+      "postal_code": [
+        "35773"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Division del Norte (Las Playas)",
+      "postal_code": [
+        "35776"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "El Pajaro",
+      "postal_code": [
+        "35780"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "El Parian",
+      "postal_code": [
+        "35764"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "El Realito",
+      "postal_code": [
+        "35766"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "El Tronconal",
+      "postal_code": [
+        "35786"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "ETA",
+      "postal_code": [
+        "35760"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "ETA 2",
+      "postal_code": [
+        "35760"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Francisco Marquez",
+      "postal_code": [
+        "35763"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Francisco Zarco (Tatanton)",
+      "postal_code": [
+        "35780"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Gatas Mochas",
+      "postal_code": [
+        "35764"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Heroes de Mexico (La Angostura)",
+      "postal_code": [
+        "35763"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Hidalgo de San Antonio",
+      "postal_code": [
+        "35784"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Hierbabuena",
+      "postal_code": [
+        "35760"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Higueras",
+      "postal_code": [
+        "35784"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Huichapa",
+      "postal_code": [
+        "35780"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Industrial",
+      "postal_code": [
+        "35760"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Jesus Gonzalez Ortega",
+      "postal_code": [
+        "35775"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "La Agüita",
+      "postal_code": [
+        "35766"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Labor de Guadalupe",
+      "postal_code": [
+        "35775"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "La Cieneguita",
+      "postal_code": [
+        "35783"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "La Cuesta de Palmitos",
+      "postal_code": [
+        "35787"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "35765"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "35774"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "La Gotera",
+      "postal_code": [
+        "35765"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "La Pena",
+      "postal_code": [
+        "35764"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Las animas",
+      "postal_code": [
+        "35785"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "35775"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Leandro Valle",
+      "postal_code": [
+        "35787"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Linares del Rio",
+      "postal_code": [
+        "35784"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Los Amoles",
+      "postal_code": [
+        "35786"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Los angeles (Tierra Prieta)",
+      "postal_code": [
+        "35764"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Los Ladrillos",
+      "postal_code": [
+        "35770"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Los Tepetates",
+      "postal_code": [
+        "35766"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Ninos Heroes (San Rafael)",
+      "postal_code": [
+        "35770"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Nueva Italia",
+      "postal_code": [
+        "35760"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "35764"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Palmitos",
+      "postal_code": [
+        "35787"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Rodeo Centro",
+      "postal_code": [
+        "35760"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Rodrigo Medrano",
+      "postal_code": [
+        "35760"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Samaniego",
+      "postal_code": [
+        "35766"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "San Jose de la Rosa (Pelillos)",
+      "postal_code": [
+        "35763"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "35765"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "San Pedro y Anexos (El Salto)",
+      "postal_code": [
+        "35767"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "San Rafael de Amoles",
+      "postal_code": [
+        "35786"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "San Salvador de Horta",
+      "postal_code": [
+        "35770"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Santa Barbara",
+      "postal_code": [
+        "35770"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Santa Isabel del Resbalon",
+      "postal_code": [
+        "35780"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "35764"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Toledo",
+      "postal_code": [
+        "35787"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Union y Progreso (El Tejaban)",
+      "postal_code": [
+        "35764"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Valle Nacional (El Banco)",
+      "postal_code": [
+        "35780"
+      ]
+    },
+    {
+      "city": "Rodeo",
+      "colonia": "Yerbabuena",
+      "postal_code": [
+        "35766"
+      ]
+    }
+  ]
+}

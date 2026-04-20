@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Santa Gertrudis",
+      "colonia": "De la Esmeralda",
+      "postal_code": [
+        "71340"
+      ]
+    },
+    {
+      "city": "Santa Gertrudis",
+      "colonia": "Del Panteon",
+      "postal_code": [
+        "71340"
+      ]
+    },
+    {
+      "city": "Santa Gertrudis",
+      "colonia": "La Barda Paso de Piedras",
+      "postal_code": [
+        "71343"
+      ]
+    },
+    {
+      "city": "Santa Gertrudis",
+      "colonia": "La Noria",
+      "postal_code": [
+        "71340"
+      ]
+    },
+    {
+      "city": "Santa Gertrudis",
+      "colonia": "San Jose Guelatova de Diaz",
+      "postal_code": [
+        "71343"
+      ]
+    },
+    {
+      "city": "Santa Gertrudis",
+      "colonia": "Santa Gertrudis",
+      "postal_code": [
+        "71340"
+      ]
+    }
+  ]
+}

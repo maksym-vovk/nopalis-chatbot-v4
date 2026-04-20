@@ -1,0 +1,592 @@
+{
+  "data": [
+    {
+      "city": "Almoloya",
+      "colonia": "Alejandro Saldivar",
+      "postal_code": [
+        "43955"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Almoloya Centro",
+      "postal_code": [
+        "43940"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Alvaro Lopez Aviles",
+      "postal_code": [
+        "43946"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Antonio P. Ramirez",
+      "postal_code": [
+        "43943"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "43953"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Calvario",
+      "postal_code": [
+        "43943"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Coliuca",
+      "postal_code": [
+        "43947"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Cuatlaco",
+      "postal_code": [
+        "43947",
+        "43947"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Cuatro Vientos",
+      "postal_code": [
+        "43947"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Cuautlatilpan",
+      "postal_code": [
+        "43945"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Daniel Munoz",
+      "postal_code": [
+        "43955"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "De las Flores",
+      "postal_code": [
+        "43940"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Del Can",
+      "postal_code": [
+        "43943"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Del Cristo",
+      "postal_code": [
+        "43950"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "El Calvario",
+      "postal_code": [
+        "43953"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "El Capulin",
+      "postal_code": [
+        "43945",
+        "43949"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "43947"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "El Cuatezon",
+      "postal_code": [
+        "43948"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "El Cuervo",
+      "postal_code": [
+        "43946"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "El Durazno",
+      "postal_code": [
+        "43945",
+        "43953"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "El Lindero",
+      "postal_code": [
+        "43949"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "El Lloron",
+      "postal_code": [
+        "43945"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "El Mexicano",
+      "postal_code": [
+        "43947"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "43948"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "El Nido",
+      "postal_code": [
+        "43947"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "El Nopal",
+      "postal_code": [
+        "43945"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "El Pajaro",
+      "postal_code": [
+        "43948"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "El Portezuelo",
+      "postal_code": [
+        "43949"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "El Pozo",
+      "postal_code": [
+        "43946",
+        "43948"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "El Recuerdo",
+      "postal_code": [
+        "43945"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "El Sabinal",
+      "postal_code": [
+        "43946"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "El Tepozan (San Gabriel)",
+      "postal_code": [
+        "43949"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "El Venado (Tomas Castillo Cortes)",
+      "postal_code": [
+        "43945"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Estacion Tetlapayac",
+      "postal_code": [
+        "43955"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Golondrinas",
+      "postal_code": [
+        "43947"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Huacalillos",
+      "postal_code": [
+        "43947"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Huimiyucan",
+      "postal_code": [
+        "43947"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "La Coronilla",
+      "postal_code": [
+        "43946"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "La Fragua",
+      "postal_code": [
+        "43949"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "La Frontera",
+      "postal_code": [
+        "43945"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Laguna del Puerco",
+      "postal_code": [
+        "43947"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "La Loma",
+      "postal_code": [
+        "43949"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "La Loma Bonita",
+      "postal_code": [
+        "43953"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "La Mesa del Gallo",
+      "postal_code": [
+        "43948"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "La Misa",
+      "postal_code": [
+        "43949"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "La Ordena",
+      "postal_code": [
+        "43948"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "La Palma",
+      "postal_code": [
+        "43946"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "La Presa",
+      "postal_code": [
+        "43949"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "43947"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Las Maravillas",
+      "postal_code": [
+        "43947"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "43947",
+        "43956"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Las Palomas",
+      "postal_code": [
+        "43949"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Las Vigas",
+      "postal_code": [
+        "43941"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "La Venta",
+      "postal_code": [
+        "43949"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "La Violeta",
+      "postal_code": [
+        "43947"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Los Carrasco",
+      "postal_code": [
+        "43950"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Los Morales",
+      "postal_code": [
+        "43946"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Los Ojitos",
+      "postal_code": [
+        "43947"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Los organos",
+      "postal_code": [
+        "43946"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Los Rosales",
+      "postal_code": [
+        "43953"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Los Sosa",
+      "postal_code": [
+        "43945"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Martinez",
+      "postal_code": [
+        "43944"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Ocotepec",
+      "postal_code": [
+        "43940"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Ocotepec de Morelos",
+      "postal_code": [
+        "43945"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "43948",
+        "43948"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "San Antonio Alconedo",
+      "postal_code": [
+        "43953"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "43946"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "San Francisco Javier (La Fe)",
+      "postal_code": [
+        "43949"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "San Isidro Tetlapayac",
+      "postal_code": [
+        "43954"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "San Jose Coliuca",
+      "postal_code": [
+        "43947"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "San Juan Violeta",
+      "postal_code": [
+        "43947"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "San Lorenzo Xicotencatl",
+      "postal_code": [
+        "43954"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Santa Brigida",
+      "postal_code": [
+        "43946"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "43947"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Santa Ines",
+      "postal_code": [
+        "43948"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Santiago Tetlapayac",
+      "postal_code": [
+        "43950"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Techachales",
+      "postal_code": [
+        "43947"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Techin",
+      "postal_code": [
+        "43943"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Tepepatlaxco",
+      "postal_code": [
+        "43946"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Tepepatlaxco (El Llano)",
+      "postal_code": [
+        "43946"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Tepetlayuca",
+      "postal_code": [
+        "43954"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Tepozan",
+      "postal_code": [
+        "43944",
+        "43949"
+      ]
+    },
+    {
+      "city": "Almoloya",
+      "colonia": "Tlalpiza",
+      "postal_code": [
+        "43955"
+      ]
+    }
+  ]
+}

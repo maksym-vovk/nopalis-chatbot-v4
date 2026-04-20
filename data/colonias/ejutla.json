@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Ejutla",
+      "colonia": "Amacuautitlanejo",
+      "postal_code": [
+        "48685"
+      ]
+    },
+    {
+      "city": "Ejutla",
+      "colonia": "Ejutla",
+      "postal_code": [
+        "48680"
+      ]
+    },
+    {
+      "city": "Ejutla",
+      "colonia": "El Estanco",
+      "postal_code": [
+        "48686"
+      ]
+    },
+    {
+      "city": "Ejutla",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "48680"
+      ]
+    },
+    {
+      "city": "Ejutla",
+      "colonia": "La Labor",
+      "postal_code": [
+        "48670"
+      ]
+    },
+    {
+      "city": "Ejutla",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "48679"
+      ]
+    }
+  ]
+}

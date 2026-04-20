@@ -1,0 +1,734 @@
+{
+  "data": [
+    {
+      "city": "Valle Hermoso",
+      "colonia": "18 de Marzo (Brecha 120 entre Sur 96 y Sur 100)",
+      "postal_code": [
+        "87530"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Agricola Anahuac (Carr Est 53 entre Sur60ySur70)",
+      "postal_code": [
+        "87511"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Agricultores",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Alianza",
+      "postal_code": [
+        "87507"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Allende",
+      "postal_code": [
+        "87507"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Alvaro Obregon [Carr Est 53 de Sur93 a Sur96 Pte]",
+      "postal_code": [
+        "87530"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Ambrosio Ruiz",
+      "postal_code": [
+        "87505"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Anahuac",
+      "postal_code": [
+        "87510"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Aquiles Serdan",
+      "postal_code": [
+        "87520"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Arboledas del Valle",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Arco Iris",
+      "postal_code": [
+        "87507"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Aurora",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "87505"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Bernal Mares",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "87505"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Burocrata",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Club de Leones",
+      "postal_code": [
+        "87505"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Dalias",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Del Maestro",
+      "postal_code": [
+        "87505"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Del Valle",
+      "postal_code": [
+        "87507"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Diaz Ordaz",
+      "postal_code": [
+        "87507"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Doce de Octubre",
+      "postal_code": [
+        "87525"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Eduardo Chavez",
+      "postal_code": [
+        "87507"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "87503"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "87535"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "El Realito",
+      "postal_code": [
+        "87520"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "El Roble",
+      "postal_code": [
+        "87505"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Empalme",
+      "postal_code": [
+        "87511"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Ensenada",
+      "postal_code": [
+        "87513"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Escobedo",
+      "postal_code": [
+        "87507"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Esperanza del Sur",
+      "postal_code": [
+        "87505"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Flores Magon",
+      "postal_code": [
+        "87506"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "FOVISSSTE Eduardo Chavez",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Hacienda del Valle",
+      "postal_code": [
+        "87505"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Ignacio Manuel Altamirano",
+      "postal_code": [
+        "87512"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Independencia Norte",
+      "postal_code": [
+        "87507"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Independencia Sur",
+      "postal_code": [
+        "87507"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "INFONAVIT Diego Navarro",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "INFONAVIT las Yescas",
+      "postal_code": [
+        "87505"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "INFONAVIT Magueyes",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "INFONAVIT Pedregal",
+      "postal_code": [
+        "87503"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Jardin",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Jarita",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Jesus Castillo Marroquin",
+      "postal_code": [
+        "87507"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Jose Delgado",
+      "postal_code": [
+        "87512"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Jose Garcia Cardenas",
+      "postal_code": [
+        "87503"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Jose Silva Sanchez",
+      "postal_code": [
+        "87506"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Juan Jose Tamez Fuentes",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Juarez",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "La Florida",
+      "postal_code": [
+        "87514"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "La Luz",
+      "postal_code": [
+        "87506"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "87505"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Las Arboledas",
+      "postal_code": [
+        "87505"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Las Brisas",
+      "postal_code": [
+        "87503"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "87505"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Las Mitras",
+      "postal_code": [
+        "87503"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "87503",
+        "87510"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Liberacion del Campesino",
+      "postal_code": [
+        "87513"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "87505"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Lopez Mateos",
+      "postal_code": [
+        "87503"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Los Conejos",
+      "postal_code": [
+        "87507"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "87504",
+        "87505"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Lucio Monroy",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Madero",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Magisterio",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Magueyes",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Mexico",
+      "postal_code": [
+        "87503"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Moctezuma",
+      "postal_code": [
+        "87505"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Modelo",
+      "postal_code": [
+        "87507"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Moderna",
+      "postal_code": [
+        "87503"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "87507"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Nortenita",
+      "postal_code": [
+        "87503"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Nueva Victoria (Brecha 123 entre Sur 91 y Sur 94)",
+      "postal_code": [
+        "87524"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Obrera",
+      "postal_code": [
+        "87503"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Olimpica",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Palo Alto",
+      "postal_code": [
+        "87505"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Poblado Magueyes",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Popular",
+      "postal_code": [
+        "87503"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Popular Brisas del Valle",
+      "postal_code": [
+        "87505"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Primavera",
+      "postal_code": [
+        "87507"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Progreso",
+      "postal_code": [
+        "87505"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "San angel",
+      "postal_code": [
+        "87506"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "San Jose",
+      "postal_code": [
+        "87503"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "87506"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "San Luis",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "87505"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "SARH",
+      "postal_code": [
+        "87503"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Seccion 22",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Soberon",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Tamaulipas",
+      "postal_code": [
+        "87507"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Torres",
+      "postal_code": [
+        "87504"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Union",
+      "postal_code": [
+        "87507"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Valle Hermoso",
+      "postal_code": [
+        "87505"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Valle Hermoso Centro",
+      "postal_code": [
+        "87500"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "87507"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Villa Satelite",
+      "postal_code": [
+        "87507"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Villas de America",
+      "postal_code": [
+        "87507"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "87507"
+      ]
+    },
+    {
+      "city": "Valle Hermoso",
+      "colonia": "Zapata",
+      "postal_code": [
+        "87503"
+      ]
+    }
+  ]
+}

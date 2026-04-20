@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "city": "Burgos",
+      "colonia": "Burgos",
+      "postal_code": [
+        "88890"
+      ]
+    },
+    {
+      "city": "Burgos",
+      "colonia": "Candido Aguilar",
+      "postal_code": [
+        "88898"
+      ]
+    },
+    {
+      "city": "Burgos",
+      "colonia": "El Mulato",
+      "postal_code": [
+        "88896"
+      ]
+    },
+    {
+      "city": "Burgos",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "88895"
+      ]
+    },
+    {
+      "city": "Burgos",
+      "colonia": "Labores de la Paz (Los de Arriba)",
+      "postal_code": [
+        "88897"
+      ]
+    },
+    {
+      "city": "Burgos",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "88897"
+      ]
+    },
+    {
+      "city": "Burgos",
+      "colonia": "Lazaro Cardenas (Rancho Nuevo)",
+      "postal_code": [
+        "88894"
+      ]
+    }
+  ]
+}

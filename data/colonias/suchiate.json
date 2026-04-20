@@ -1,0 +1,638 @@
+{
+  "data": [
+    {
+      "city": "Suchiate",
+      "colonia": "15 de Septiembre",
+      "postal_code": [
+        "30846"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "30846"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "24 de Febrero",
+      "postal_code": [
+        "30840"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "26 de Julio",
+      "postal_code": [
+        "30840"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Barra de Cahoacan (El Chical)",
+      "postal_code": [
+        "30846"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "30846"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Brisas del Mar",
+      "postal_code": [
+        "30846",
+        "30846"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Brisas del Suchiate",
+      "postal_code": [
+        "30844"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Ciudad Hidalgo Centro",
+      "postal_code": [
+        "30840"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "30844"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Cuauhtemoc Cervantes",
+      "postal_code": [
+        "30846"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Doble H",
+      "postal_code": [
+        "30847"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Don Ramon",
+      "postal_code": [
+        "30847"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Don Rolando (Maroma)",
+      "postal_code": [
+        "30844"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Dorado Nuevo",
+      "postal_code": [
+        "30845"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Dorado Viejo Fraccion I",
+      "postal_code": [
+        "30843"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Dorado Viejo Fraccion II",
+      "postal_code": [
+        "30843"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "El Campito",
+      "postal_code": [
+        "30845"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "El Cascabel",
+      "postal_code": [
+        "30847"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "El Centauro",
+      "postal_code": [
+        "30847"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "El Chaneque",
+      "postal_code": [
+        "30844"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "El Gancho",
+      "postal_code": [
+        "30844"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "El Milagro",
+      "postal_code": [
+        "30847"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "30847"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "El Pelon",
+      "postal_code": [
+        "30847"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "El Roblar",
+      "postal_code": [
+        "30840"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "30840"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "El Rosario V",
+      "postal_code": [
+        "30847"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "El Sajio",
+      "postal_code": [
+        "30846"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "El Transito",
+      "postal_code": [
+        "30840"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "El Triunfo",
+      "postal_code": [
+        "30844"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "30840",
+        "30846"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "General Manuel avila Camacho",
+      "postal_code": [
+        "30847"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Genova",
+      "postal_code": [
+        "30847"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Gibraltar",
+      "postal_code": [
+        "30847"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Ignacio Lopez Rayon",
+      "postal_code": [
+        "30844"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Jesus",
+      "postal_code": [
+        "30844"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "La Arboleda",
+      "postal_code": [
+        "30840"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "30847"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "La Gloria",
+      "postal_code": [
+        "30845"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "La Herradura",
+      "postal_code": [
+        "30844"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "La Isla",
+      "postal_code": [
+        "30844"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "La Libertad",
+      "postal_code": [
+        "30844"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "La Libertad Dos",
+      "postal_code": [
+        "30846"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "La Pita",
+      "postal_code": [
+        "30843"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Las Flores 2",
+      "postal_code": [
+        "30847"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Las Fuentes",
+      "postal_code": [
+        "30847"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Las Josefinas",
+      "postal_code": [
+        "30844"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "La Trinidad (Cosalapa)",
+      "postal_code": [
+        "30846"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "La Union",
+      "postal_code": [
+        "30844"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "30846"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Los Fideles",
+      "postal_code": [
+        "30845"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Los Leones",
+      "postal_code": [
+        "30846"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Los Lopez",
+      "postal_code": [
+        "30846"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Lucio Cabanas",
+      "postal_code": [
+        "30846"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Mariana (El Chorizo)",
+      "postal_code": [
+        "30844"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Marlene (El Pichi)",
+      "postal_code": [
+        "30847"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Miguel Aleman",
+      "postal_code": [
+        "30844"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Nueva Independencia",
+      "postal_code": [
+        "30846"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Nuevo",
+      "postal_code": [
+        "30840"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Pino Suarez",
+      "postal_code": [
+        "30849"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Plan Aleman",
+      "postal_code": [
+        "30840"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Quince de Abril",
+      "postal_code": [
+        "30846"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "30843"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Sagrado Corazon de Jesus",
+      "postal_code": [
+        "30840"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "San angel (San Antonio)",
+      "postal_code": [
+        "30840"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "San Caralampio",
+      "postal_code": [
+        "30840"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "30847"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "30847"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "San Jorge",
+      "postal_code": [
+        "30844"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "San Jose",
+      "postal_code": [
+        "30840"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "San Jose Morelia",
+      "postal_code": [
+        "30844"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "San Juan",
+      "postal_code": [
+        "30840"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "San Julian",
+      "postal_code": [
+        "30847"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "San Martin de Porres",
+      "postal_code": [
+        "30847"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "30847"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "30844"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Santa Isabel",
+      "postal_code": [
+        "30844"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "30843"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Santa Yolanda",
+      "postal_code": [
+        "30847"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Santo Tomas",
+      "postal_code": [
+        "30847"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Simon Bolivar",
+      "postal_code": [
+        "30846"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Suchiate",
+      "postal_code": [
+        "30843"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Suchiate 90",
+      "postal_code": [
+        "30840"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Terranova",
+      "postal_code": [
+        "30847"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Tezoatlan",
+      "postal_code": [
+        "30847"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Tierra y Libertad",
+      "postal_code": [
+        "30844",
+        "30846"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Tres Hermanos",
+      "postal_code": [
+        "30846",
+        "30846"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Vida Mejor",
+      "postal_code": [
+        "30840"
+      ]
+    },
+    {
+      "city": "Suchiate",
+      "colonia": "Vista Alegre",
+      "postal_code": [
+        "30840"
+      ]
+    }
+  ]
+}

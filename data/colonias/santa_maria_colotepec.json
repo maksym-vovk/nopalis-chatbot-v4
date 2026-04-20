@@ -1,0 +1,615 @@
+{
+  "data": [
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Abajo",
+      "postal_code": [
+        "70937"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Aguaje de la Danta",
+      "postal_code": [
+        "70936"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Aguaje de Leon",
+      "postal_code": [
+        "70938"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Aguaje Ramirez",
+      "postal_code": [
+        "70938"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Arriba",
+      "postal_code": [
+        "70937"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Arroyo del Bajo",
+      "postal_code": [
+        "70938"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Arroyo del Zapote",
+      "postal_code": [
+        "70938"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Arroyo Tomatal",
+      "postal_code": [
+        "70937"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Barra de Navidad",
+      "postal_code": [
+        "70938"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Brisas de Zicatela",
+      "postal_code": [
+        "70934"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Cerro de la Olla",
+      "postal_code": [
+        "70936"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Cerro del Caballo",
+      "postal_code": [
+        "70935"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Charco Seco",
+      "postal_code": [
+        "70937"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Comunidad Ecologica Punta de Zicatela",
+      "postal_code": [
+        "70934"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Corozalito",
+      "postal_code": [
+        "70936"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "El Bajo",
+      "postal_code": [
+        "70935"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "El Banco",
+      "postal_code": [
+        "70938"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "El Camalote",
+      "postal_code": [
+        "70936"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "El Camaron",
+      "postal_code": [
+        "70938"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "El Columpio",
+      "postal_code": [
+        "70936"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "El Corozal",
+      "postal_code": [
+        "70936"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "El Espino",
+      "postal_code": [
+        "70936"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "El Malucano",
+      "postal_code": [
+        "70938"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "El Mameyal",
+      "postal_code": [
+        "70935"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "70934",
+        "70938"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "El Potrero",
+      "postal_code": [
+        "70935"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "El Rosedal",
+      "postal_code": [
+        "70937"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "El Rosedalito",
+      "postal_code": [
+        "70937"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "El Salitrero",
+      "postal_code": [
+        "70936"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "El Tecomate",
+      "postal_code": [
+        "70935"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "El Tomatal",
+      "postal_code": [
+        "70937"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "El Vitonchino",
+      "postal_code": [
+        "70938"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "70934"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Juan Diego",
+      "postal_code": [
+        "70937"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Junta de Corrientes",
+      "postal_code": [
+        "70937"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Junta del Potrero",
+      "postal_code": [
+        "70936"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "La Barra de Colotepec",
+      "postal_code": [
+        "70938"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "La Ceiba",
+      "postal_code": [
+        "70938"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "70935"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "La Guitarra",
+      "postal_code": [
+        "70936"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Laguna Encantada",
+      "postal_code": [
+        "70938"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Lagunilla",
+      "postal_code": [
+        "70935"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "La Nopalera",
+      "postal_code": [
+        "70938"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "La Nueva Esperanza",
+      "postal_code": [
+        "70935"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "La Obscurana",
+      "postal_code": [
+        "70935"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "La Quebradora (La Bomba)",
+      "postal_code": [
+        "70938"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Las Carretas",
+      "postal_code": [
+        "70936"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Las Garrochas",
+      "postal_code": [
+        "70938"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "La Toma",
+      "postal_code": [
+        "70936"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "70934"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Libertad",
+      "postal_code": [
+        "70934"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "70934"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "70938"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Lomas del Puerto",
+      "postal_code": [
+        "70934"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Los Figueroa",
+      "postal_code": [
+        "70935"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "70936"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Los Naranjos (Los Naranjos Uno)",
+      "postal_code": [
+        "70938"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "70937"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Los Sarmiento",
+      "postal_code": [
+        "70935"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Los Tamarindos",
+      "postal_code": [
+        "70934"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Los Vargas",
+      "postal_code": [
+        "70938"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Marinero",
+      "postal_code": [
+        "70934",
+        "70938"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Mata de Bule",
+      "postal_code": [
+        "70936"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Nuevo Amanecer",
+      "postal_code": [
+        "70938"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Palma Sola",
+      "postal_code": [
+        "70936"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Paso Lagarto",
+      "postal_code": [
+        "70935"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Paso Limon",
+      "postal_code": [
+        "70935"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Piedras Negras",
+      "postal_code": [
+        "70935"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Plataforma",
+      "postal_code": [
+        "70937"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Punta de Zicatela",
+      "postal_code": [
+        "70934"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Quebrantahueso",
+      "postal_code": [
+        "70938"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Rancho Dorado",
+      "postal_code": [
+        "70937"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Rio Valdeflores",
+      "postal_code": [
+        "70937"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "70934"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "San Jose el Palmar",
+      "postal_code": [
+        "70937"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "San Jose el Quequestle",
+      "postal_code": [
+        "70935"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Santa Elena (El Puertecito)",
+      "postal_code": [
+        "70937"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "70934"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "70934"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Santa Maria Colotepec",
+      "postal_code": [
+        "70937"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "70937"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Totolapam",
+      "postal_code": [
+        "70938"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Valdeflores",
+      "postal_code": [
+        "70937"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Valdeflores Segunda Seccion",
+      "postal_code": [
+        "70937"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Ventanilla",
+      "postal_code": [
+        "70938"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Zicatela",
+      "postal_code": [
+        "70934"
+      ]
+    },
+    {
+      "city": "Santa Maria Colotepec",
+      "colonia": "Zona Militar",
+      "postal_code": [
+        "70934"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,880 @@
+{
+  "data": [
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "10 de Abril",
+      "postal_code": [
+        "93393"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "12 de Octubre",
+      "postal_code": [
+        "93367"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "18 de Marzo",
+      "postal_code": [
+        "93294"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "27 de Septiembre",
+      "postal_code": [
+        "93320"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "5 de Febrero",
+      "postal_code": [
+        "93269"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "5 de Mayo Vieja",
+      "postal_code": [
+        "93350"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Agustin Lara",
+      "postal_code": [
+        "93270"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "A I M P",
+      "postal_code": [
+        "93380"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Ampliacion Yanga",
+      "postal_code": [
+        "93270"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Anahuac",
+      "postal_code": [
+        "93270"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "area Industrial PEMEX",
+      "postal_code": [
+        "93350"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Arroyo del Maiz",
+      "postal_code": [
+        "93230"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Arroyo del Maiz Uno",
+      "postal_code": [
+        "93230"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Aviacion Vieja",
+      "postal_code": [
+        "93370"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Azteca",
+      "postal_code": [
+        "93270"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Bella Vista",
+      "postal_code": [
+        "93220"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "93310"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "93380"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "93320"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Casa de Visitas",
+      "postal_code": [
+        "93386"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Cazones",
+      "postal_code": [
+        "93230"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Central de Abastos",
+      "postal_code": [
+        "93320"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Cerro del Meson",
+      "postal_code": [
+        "93228"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Chapultepec",
+      "postal_code": [
+        "93240"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Chulavista",
+      "postal_code": [
+        "93389"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Circulo Michoacano",
+      "postal_code": [
+        "93210"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Constituyentes",
+      "postal_code": [
+        "93270"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Del Policia",
+      "postal_code": [
+        "93393"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Division de Oriente",
+      "postal_code": [
+        "93350"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "El Mollejon",
+      "postal_code": [
+        "93230"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "El Vergel",
+      "postal_code": [
+        "93399"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "93280"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Escolin de Olarte",
+      "postal_code": [
+        "93393"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Fausto Davila Solis",
+      "postal_code": [
+        "93390"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Fernando Gutierrez Barrios",
+      "postal_code": [
+        "93393"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Flores Magon",
+      "postal_code": [
+        "93340"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Francisco I Madero",
+      "postal_code": [
+        "93260"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Francisco Sarabia",
+      "postal_code": [
+        "93276"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Fraternidad Antorchista",
+      "postal_code": [
+        "93210"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "93290"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Halliburton",
+      "postal_code": [
+        "93295"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Heriberto Jara Corona",
+      "postal_code": [
+        "93220"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Heriberto Kehoe Vicent",
+      "postal_code": [
+        "93279"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Herradura",
+      "postal_code": [
+        "93370"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Ignacio de La Llave",
+      "postal_code": [
+        "93327"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "93270"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Independencia",
+      "postal_code": [
+        "93300"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "INFONAVIT Poza de Cuero",
+      "postal_code": [
+        "93305"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Insurgentes",
+      "postal_code": [
+        "93280"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Jardines de Poza Rica",
+      "postal_code": [
+        "93369"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Jesus Reyes Heroles",
+      "postal_code": [
+        "93228"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "La Barita",
+      "postal_code": [
+        "93368"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "La Ceiba",
+      "postal_code": [
+        "93220"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "La Floresta",
+      "postal_code": [
+        "93320"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "La Ilusion",
+      "postal_code": [
+        "93384"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Laredo",
+      "postal_code": [
+        "93260"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "La Rueda",
+      "postal_code": [
+        "93306"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Las Animas",
+      "postal_code": [
+        "93294"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "93380"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Las Gaviotas",
+      "postal_code": [
+        "93305"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Las Granjas",
+      "postal_code": [
+        "93320"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Las Huastecas",
+      "postal_code": [
+        "93294"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "93230"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Las Valentinas",
+      "postal_code": [
+        "93270"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Las Vegas",
+      "postal_code": [
+        "93210"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "93300"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Libertad",
+      "postal_code": [
+        "93280"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Loma Alta",
+      "postal_code": [
+        "93388"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "93380"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Lomas Del Carmen",
+      "postal_code": [
+        "93210"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Lomas Residencial",
+      "postal_code": [
+        "93308"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Lomas Verdes",
+      "postal_code": [
+        "93399"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "93320"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Los Mangos",
+      "postal_code": [
+        "93228"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "93393"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "93220"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Magisterio",
+      "postal_code": [
+        "93320"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Manuel avila Camacho",
+      "postal_code": [
+        "93220"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Mecanicos de Piso",
+      "postal_code": [
+        "93210"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Medias Lomas",
+      "postal_code": [
+        "93387"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Mexico",
+      "postal_code": [
+        "93310"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "93260",
+        "93319"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Mirador",
+      "postal_code": [
+        "93228"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Morelos",
+      "postal_code": [
+        "93340"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Nacional",
+      "postal_code": [
+        "93220"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "93393"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Nueva Imagen",
+      "postal_code": [
+        "93369"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Nuevo Progreso",
+      "postal_code": [
+        "93220"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Nuevos Proyectos",
+      "postal_code": [
+        "93380"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Obras Sociales",
+      "postal_code": [
+        "93240"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Obrera",
+      "postal_code": [
+        "93260"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Oscar Torres Pancardo",
+      "postal_code": [
+        "93393"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Palma Sola",
+      "postal_code": [
+        "93320"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Parcela 14",
+      "postal_code": [
+        "93250"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Parcela 24",
+      "postal_code": [
+        "93270"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Parcela 44",
+      "postal_code": [
+        "93399"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Perlas Del Oriente",
+      "postal_code": [
+        "93213"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Petrolera",
+      "postal_code": [
+        "93290"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Petromex",
+      "postal_code": [
+        "93290"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Poza de Cuero",
+      "postal_code": [
+        "93220"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Prensa Nacional",
+      "postal_code": [
+        "93210"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Primavera",
+      "postal_code": [
+        "93308"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Rafael Hernandez Ochoa",
+      "postal_code": [
+        "93280"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Reforma",
+      "postal_code": [
+        "93210"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Residencial Bosques de Santa Elena",
+      "postal_code": [
+        "93240"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "93390"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Salvador Allende",
+      "postal_code": [
+        "93360"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "San Felipe",
+      "postal_code": [
+        "93228"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "San Roman",
+      "postal_code": [
+        "93248"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "93240"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Santa Emilia",
+      "postal_code": [
+        "93210"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "93236"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Santa Regina",
+      "postal_code": [
+        "93249"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Sector Popular",
+      "postal_code": [
+        "93228"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Tajin",
+      "postal_code": [
+        "93330"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Tamaulipas",
+      "postal_code": [
+        "93270"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Tecnicos y Profesionistas",
+      "postal_code": [
+        "93236"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Tepeyac",
+      "postal_code": [
+        "93250"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Tierra y Libertad",
+      "postal_code": [
+        "93210"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Veintisiete de Enero",
+      "postal_code": [
+        "93308"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Veracruz",
+      "postal_code": [
+        "93396"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Vicente Herrera",
+      "postal_code": [
+        "93393"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Villa de las Flores",
+      "postal_code": [
+        "93398"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "93340"
+      ]
+    },
+    {
+      "city": "Poza Rica de Hidalgo",
+      "colonia": "Yanga",
+      "postal_code": [
+        "93270"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Santa Elena",
+      "colonia": "Hotel Hacienda Uxmal",
+      "postal_code": [
+        "97899"
+      ]
+    },
+    {
+      "city": "Santa Elena",
+      "colonia": "Hotel Villas Arqueologicas",
+      "postal_code": [
+        "97899"
+      ]
+    },
+    {
+      "city": "Santa Elena",
+      "colonia": "Kabah",
+      "postal_code": [
+        "97894"
+      ]
+    },
+    {
+      "city": "Santa Elena",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "97893"
+      ]
+    },
+    {
+      "city": "Santa Elena",
+      "colonia": "San Simon",
+      "postal_code": [
+        "97895"
+      ]
+    },
+    {
+      "city": "Santa Elena",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "97890"
+      ]
+    }
+  ]
+}

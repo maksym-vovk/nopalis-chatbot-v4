@@ -1,0 +1,511 @@
+{
+  "data": [
+    {
+      "city": "Copainala",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "29636"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Agustin de Iturbide",
+      "postal_code": [
+        "29635"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Amatzipac",
+      "postal_code": [
+        "29630"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "angel Albino Corzo",
+      "postal_code": [
+        "29633"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Bajada del Toro",
+      "postal_code": [
+        "29626"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Bella Vista",
+      "postal_code": [
+        "29626"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "29633"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Campeche",
+      "postal_code": [
+        "29635"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Candelaria",
+      "postal_code": [
+        "29627"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Chilpancingo",
+      "postal_code": [
+        "29623"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Concepcion",
+      "postal_code": [
+        "29620",
+        "29625"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Copainala",
+      "postal_code": [
+        "29620"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Copano",
+      "postal_code": [
+        "29623"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Costa Alegre",
+      "postal_code": [
+        "29636"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Division del Norte",
+      "postal_code": [
+        "29626"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "El Aguacate",
+      "postal_code": [
+        "29624"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "El Baquetal",
+      "postal_code": [
+        "29626"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "El Cipres",
+      "postal_code": [
+        "29626"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "El Eden",
+      "postal_code": [
+        "29620"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "El Limon (El Aguacate)",
+      "postal_code": [
+        "29635"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "29627"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Francisco Sarabia",
+      "postal_code": [
+        "29633"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "General Sandino",
+      "postal_code": [
+        "29633"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Honduras",
+      "postal_code": [
+        "29626"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "29626"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Jose Maria Morelos y Pavon",
+      "postal_code": [
+        "29636"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Juan Sabines",
+      "postal_code": [
+        "29620"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Julian Grajales",
+      "postal_code": [
+        "29633"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "29635"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "La Guadalupana",
+      "postal_code": [
+        "29620"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "La Independencia",
+      "postal_code": [
+        "29630"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "La Nueva",
+      "postal_code": [
+        "29625"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "29636"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "29636"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "29636"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "29630"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Monte Sinai",
+      "postal_code": [
+        "29625"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Notzipac",
+      "postal_code": [
+        "29623"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Nuevo Progreso",
+      "postal_code": [
+        "29624"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Nuevo Vergel",
+      "postal_code": [
+        "29625"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Pacne Rivera",
+      "postal_code": [
+        "29633"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Palo Hueco",
+      "postal_code": [
+        "29627"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Plan del Jobo",
+      "postal_code": [
+        "29627"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "San angel",
+      "postal_code": [
+        "29623"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "San Fabian",
+      "postal_code": [
+        "29620"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "29620",
+        "29624"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "San Geronimo",
+      "postal_code": [
+        "29635"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "29634"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "San Isidro (San Antonio)",
+      "postal_code": [
+        "29635"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "San Jose el Lodo",
+      "postal_code": [
+        "29624"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "San Jose el Mojon",
+      "postal_code": [
+        "29625"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "San Jose Motejen",
+      "postal_code": [
+        "29625"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "San Jose (San Marcos)",
+      "postal_code": [
+        "29635"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "San Juan",
+      "postal_code": [
+        "29620"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "San Luis Poagtec",
+      "postal_code": [
+        "29633"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "29620",
+        "29623"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "San Miguel el Cocal",
+      "postal_code": [
+        "29625"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "29624"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "29620"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Santa Catarina",
+      "postal_code": [
+        "29634"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "29620"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "29634"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Santa Maria Buena Vista",
+      "postal_code": [
+        "29624"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "San Vicente (Ribera Hidalgo)",
+      "postal_code": [
+        "29630"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Siete Huesos",
+      "postal_code": [
+        "29620"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Sonisno",
+      "postal_code": [
+        "29627"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Tejeria Norte",
+      "postal_code": [
+        "29620"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Tejeria Sur",
+      "postal_code": [
+        "29620"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "29630"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Tres Picos",
+      "postal_code": [
+        "29625"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Trinidad",
+      "postal_code": [
+        "29620"
+      ]
+    },
+    {
+      "city": "Copainala",
+      "colonia": "Tunajen (San Rafael)",
+      "postal_code": [
+        "29633"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Aljojuca",
+      "colonia": "Aljojuca",
+      "postal_code": [
+        "75180"
+      ]
+    },
+    {
+      "city": "Aljojuca",
+      "colonia": "Jalapasco el Grande",
+      "postal_code": [
+        "75187"
+      ]
+    },
+    {
+      "city": "Aljojuca",
+      "colonia": "San Antonio Jalapasco",
+      "postal_code": [
+        "75187"
+      ]
+    },
+    {
+      "city": "Aljojuca",
+      "colonia": "San Antonio la Cuchilla",
+      "postal_code": [
+        "75186"
+      ]
+    },
+    {
+      "city": "Aljojuca",
+      "colonia": "San Miguel Tecuitlapa",
+      "postal_code": [
+        "75180"
+      ]
+    }
+  ]
+}

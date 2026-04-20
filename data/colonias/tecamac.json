@@ -1,0 +1,845 @@
+{
+  "data": [
+    {
+      "city": "Tecamac",
+      "colonia": "10 de Junio",
+      "postal_code": [
+        "55765"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "21 de Agosto",
+      "postal_code": [
+        "55765"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "5 de Mayo",
+      "postal_code": [
+        "55749"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Alcazar",
+      "postal_code": [
+        "55767"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Ampliacion 5 de Mayo",
+      "postal_code": [
+        "55749"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Ampliacion de la Concepcion",
+      "postal_code": [
+        "55778"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Ampliacion Ejido de Tecamac",
+      "postal_code": [
+        "55748"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Ampliacion la Palma (Zona Industrial)",
+      "postal_code": [
+        "55758"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Ampliacion Ozumbilla",
+      "postal_code": [
+        "55766"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Ampliacion San Jeronimo",
+      "postal_code": [
+        "55745"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Atlautenco",
+      "postal_code": [
+        "55760"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Azul",
+      "postal_code": [
+        "55749"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Bosques de los Heroes",
+      "postal_code": [
+        "55767"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "55755"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Conjunto urbano Real Verona",
+      "postal_code": [
+        "55767"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "55768"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Del Catillo",
+      "postal_code": [
+        "55749"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Ejidal",
+      "postal_code": [
+        "55757"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Ejido de Tecamac",
+      "postal_code": [
+        "55748"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "El Calvario",
+      "postal_code": [
+        "55740"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "El Calvario de Ozumbilla",
+      "postal_code": [
+        "55760"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "El Calvario de Reyes Acozac",
+      "postal_code": [
+        "55755"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Electricistas",
+      "postal_code": [
+        "55749"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "El Tanque",
+      "postal_code": [
+        "55750"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Esmeralda",
+      "postal_code": [
+        "55765"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Ex Hacienda San Miguel Tenopala",
+      "postal_code": [
+        "55746"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Galaxias el Llano",
+      "postal_code": [
+        "55740"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Granjas Valle de Guadalupe",
+      "postal_code": [
+        "55765"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Guadalupe de Reyes Acozac",
+      "postal_code": [
+        "55755"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Hacienda del Bosque",
+      "postal_code": [
+        "55743"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Hacienda Provenzal",
+      "postal_code": [
+        "55773"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Hueyotenco",
+      "postal_code": [
+        "55749"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Isidro Fabela",
+      "postal_code": [
+        "55743"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Ixotitla",
+      "postal_code": [
+        "55749"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Jardines de Tecamac",
+      "postal_code": [
+        "55749"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Jardines de Xonacahuacan",
+      "postal_code": [
+        "55745"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Jema",
+      "postal_code": [
+        "55748"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Jesus Romero Flores",
+      "postal_code": [
+        "55765"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "La Azteca",
+      "postal_code": [
+        "55768"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "La Campina",
+      "postal_code": [
+        "55755"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "La Canada",
+      "postal_code": [
+        "55765"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "La Michapa",
+      "postal_code": [
+        "55755"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "La Nopalera",
+      "postal_code": [
+        "55749"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "La Palma",
+      "postal_code": [
+        "55743"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "La Palma de Reyes",
+      "postal_code": [
+        "55755"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "55767"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Loma de San Jeronimo (Ampliacion Santo Domingo)",
+      "postal_code": [
+        "55754"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Lomas de Ozumbilla",
+      "postal_code": [
+        "55768"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Lomas de San Pedro Atzompa",
+      "postal_code": [
+        "55776"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Lomas de Tecamac",
+      "postal_code": [
+        "55765"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Los Arcos",
+      "postal_code": [
+        "55767"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Los Heroes Ozumbilla",
+      "postal_code": [
+        "55764"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Los Heroes San Pablo",
+      "postal_code": [
+        "55765"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Los Heroes Tecamac",
+      "postal_code": [
+        "55763"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Los Heroes Tecamac II",
+      "postal_code": [
+        "55764"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Los Olivos",
+      "postal_code": [
+        "55748",
+        "55748"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Los Reyes Acozac",
+      "postal_code": [
+        "55755"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "55760"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Margarito F. Ayala",
+      "postal_code": [
+        "55764"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Mexicanos Unidos",
+      "postal_code": [
+        "55760"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Mexico Independiente",
+      "postal_code": [
+        "55765"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Montecarlo",
+      "postal_code": [
+        "55749"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Norchuca",
+      "postal_code": [
+        "55769"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Nueva Santa Maria",
+      "postal_code": [
+        "55749"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Nueva Santa Maria (De San Pablo Tecalco)",
+      "postal_code": [
+        "55747"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Nueva Tlalnepantla",
+      "postal_code": [
+        "55765"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Nuevo Mexico",
+      "postal_code": [
+        "55745"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Nuevo Paraiso",
+      "postal_code": [
+        "55764"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "55770"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Paseos del Bosque",
+      "postal_code": [
+        "55767"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Paseos de Tecamac",
+      "postal_code": [
+        "55754"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Portal Ojo de Agua",
+      "postal_code": [
+        "55760"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Primero de Marzo",
+      "postal_code": [
+        "55748"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Progreso",
+      "postal_code": [
+        "55755"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Punta Palermo",
+      "postal_code": [
+        "55767"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Quinta Versalles",
+      "postal_code": [
+        "55767"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Rancho la Capilla",
+      "postal_code": [
+        "55746"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Rancho la Luz",
+      "postal_code": [
+        "55743"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Real Alcala",
+      "postal_code": [
+        "55767"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Real Carrara",
+      "postal_code": [
+        "55767"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Real Castell",
+      "postal_code": [
+        "55767"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Real del Cid",
+      "postal_code": [
+        "55767"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Real del Sol",
+      "postal_code": [
+        "55767"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Real Firenze",
+      "postal_code": [
+        "55767"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Real Granada",
+      "postal_code": [
+        "55743"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Real Granada IV",
+      "postal_code": [
+        "55745"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Real Toscana",
+      "postal_code": [
+        "55767"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Real Vizcaya",
+      "postal_code": [
+        "55767"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Rinconada San Pedro",
+      "postal_code": [
+        "55770"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "San Antonio (de San Francisco Cuautliquixca)",
+      "postal_code": [
+        "55768"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "San Antonio de San Pablo Tecalco",
+      "postal_code": [
+        "55747"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "San Francisco Cuautliquixca",
+      "postal_code": [
+        "55760"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "San Isidro Citlalcoatl",
+      "postal_code": [
+        "55747"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "San Jeronimo Xonacahuacan",
+      "postal_code": [
+        "55745"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "San Jose",
+      "postal_code": [
+        "55748"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "San Juan Pueblo Nuevo",
+      "postal_code": [
+        "55752"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "San Lucas Xolox",
+      "postal_code": [
+        "55757"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "San Martin Azcatepec",
+      "postal_code": [
+        "55748"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "San Mateo Tecalco",
+      "postal_code": [
+        "55748"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "55755"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "San Nicolas la Redonda",
+      "postal_code": [
+        "55743"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "San Pablo Tecalco",
+      "postal_code": [
+        "55747"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "San Pedro Atzompa",
+      "postal_code": [
+        "55770"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "San Pedro (El Terremoto)",
+      "postal_code": [
+        "55770"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "San Pedro Potzohuacan",
+      "postal_code": [
+        "55744"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "55767"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Santa Cruz Tecamac",
+      "postal_code": [
+        "55746"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Santa Maria Ajoloapan",
+      "postal_code": [
+        "55750"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Santa Maria Ozumbilla",
+      "postal_code": [
+        "55760"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Santo Domingo Ajoloapan",
+      "postal_code": [
+        "55754"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Sierra Hermosa",
+      "postal_code": [
+        "55749"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Soto y Gama",
+      "postal_code": [
+        "55765"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Tecamac de Felipe Villanueva Centro",
+      "postal_code": [
+        "55740"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Texcaltitla",
+      "postal_code": [
+        "55749"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Tezontla",
+      "postal_code": [
+        "55768"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Valle San Pedro Urbi Villa del Campo",
+      "postal_code": [
+        "55767"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Villa del Real",
+      "postal_code": [
+        "55749"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "55749"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Vista Hermosa (De Ozumbilla)",
+      "postal_code": [
+        "55768"
+      ]
+    },
+    {
+      "city": "Tecamac",
+      "colonia": "Vitalia",
+      "postal_code": [
+        "55763"
+      ]
+    }
+  ]
+}

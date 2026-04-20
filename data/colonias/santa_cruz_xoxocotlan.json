@@ -1,0 +1,966 @@
+{
+  "data": [
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "1a Ampliacion de Xoxo",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "21 de Marzo",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "2a Ampliacion de Xoxo",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "3 de Mayo",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "3 de Octubre",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "3 Ranchos",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Aguayo",
+      "postal_code": [
+        "71232",
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Agustin Melgar",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Ampliacion Ex-Hacienda Candiani",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Ampliacion Indeco",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Ampliacion Independencia",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Anahuac",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Antequera",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Arboledas Villas Zaachila",
+      "postal_code": [
+        "71230"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Ayuuc Mexi",
+      "postal_code": [
+        "71230"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Benemerito de las Americas",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Brasil",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Carrasco Altamirano",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Colinas de San Jose",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Damnificados",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Del Valle",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "El Chapulin",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Eliseo Jimenez Ruiz",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "El Manantial",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "EL Mirador",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "El Nogal",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "El Paragüito",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "El Paredon",
+      "postal_code": [
+        "71230"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "El Periodista",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "El Rosario Xoxocotlan",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "El Sol",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Esquipulas Xoxo",
+      "postal_code": [
+        "71230"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Ex- Garita de Xoxo",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Ex-Hacienda Candiani",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Framboyanes II",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "71230"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Granjas Aguayo",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Guamuches",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Independencia",
+      "postal_code": [
+        "71230"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Insurgentes",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Itabiani",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Jardines",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Jardines de la Cienega",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Jardines del Sur",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Jardines de Monte Alban",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Jardines Residencial",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Jerusalen",
+      "postal_code": [
+        "71235"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Juquilita",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "La Alianza",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "La Crucecita",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "La Floresta",
+      "postal_code": [
+        "71230"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "La Florida",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "La Horqueta",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "La Oaxaquena",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "La Paz",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Las aguilas",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Las Culturas",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Laureles",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Lazaro Cardenas del Rio",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Lomas de Buenos Aires",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Lomas de Monte Alban",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Lomas de Nazareno",
+      "postal_code": [
+        "71230"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Lomas de San Javier",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Lomas de Santa Cruz",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "71230",
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Los Cantaros",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Los Higos",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Los Pinos I",
+      "postal_code": [
+        "71230"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Los Pinos II",
+      "postal_code": [
+        "71230"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Los Puentes Cuaches",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Mineria",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Mi Ranchito",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Montebello",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Morelos",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Noche Buena",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Oaxaca (Xoxocotan)",
+      "postal_code": [
+        "71231"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Odilon",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Ojito de Agua",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Olimpica",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "onix",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Oriental",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Palestina",
+      "postal_code": [
+        "71230"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Panoramica",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Paraje el Mogote",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Paraje la Horqueta",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Paraje la Primavera",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Piramides",
+      "postal_code": [
+        "71230"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Progreso",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Real Antequera",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Real San Miguel",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Reforma Agraria",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Residencial Agaves",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Residencial del Bosque",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Riberas del Atoyac",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Rinconadas Villas Xoxo",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Rufino Tamayo",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "SAHOP",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "San Antonio Arrazola",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "San Francisco Javier",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Sangre de Cristo",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "San Ignacio",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "San Isidro Monjas",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "San Jesus Nazareno",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "San Jose Comunal",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "San Juan Bautista la Raya",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "San Miguel Arcangel",
+      "postal_code": [
+        "71230"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "San Pedro el Carrizal",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Santa Alicia",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Santa Clara",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Santa Cruz Xoxocotlan",
+      "postal_code": [
+        "71230"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "71233",
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Satelite",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Simbolos Patrios",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Sor Juana Ines de La Cruz",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Tenochtitlan",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Trabajadores del Instituto Tecnologico",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Union",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Villas Dalias",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Villas del Bosque",
+      "postal_code": [
+        "71230"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Villas Laureles",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Villas Los Angeles",
+      "postal_code": [
+        "71232"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Villas Xoxo",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Vista del Valle",
+      "postal_code": [
+        "71233"
+      ]
+    },
+    {
+      "city": "Santa Cruz Xoxocotlan",
+      "colonia": "Vista Real",
+      "postal_code": [
+        "71233"
+      ]
+    }
+  ]
+}

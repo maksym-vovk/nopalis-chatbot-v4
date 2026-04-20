@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Teotlalco",
+      "colonia": "Achichipico",
+      "postal_code": [
+        "74702"
+      ]
+    },
+    {
+      "city": "Teotlalco",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "74700"
+      ]
+    },
+    {
+      "city": "Teotlalco",
+      "colonia": "Teotlalco",
+      "postal_code": [
+        "74700"
+      ]
+    },
+    {
+      "city": "Teotlalco",
+      "colonia": "Tlaucingo",
+      "postal_code": [
+        "74708"
+      ]
+    },
+    {
+      "city": "Teotlalco",
+      "colonia": "Tlayehualco",
+      "postal_code": [
+        "74703"
+      ]
+    }
+  ]
+}

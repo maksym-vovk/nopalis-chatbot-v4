@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Santa Maria Ipalapa",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "71091"
+      ]
+    },
+    {
+      "city": "Santa Maria Ipalapa",
+      "colonia": "Santa Maria el Rincon",
+      "postal_code": [
+        "71094"
+      ]
+    },
+    {
+      "city": "Santa Maria Ipalapa",
+      "colonia": "Santa Maria Ipalapa",
+      "postal_code": [
+        "71091"
+      ]
+    },
+    {
+      "city": "Santa Maria Ipalapa",
+      "colonia": "Santiago el Limon",
+      "postal_code": [
+        "71096"
+      ]
+    },
+    {
+      "city": "Santa Maria Ipalapa",
+      "colonia": "Zocoteaca de Leon",
+      "postal_code": [
+        "71092"
+      ]
+    }
+  ]
+}

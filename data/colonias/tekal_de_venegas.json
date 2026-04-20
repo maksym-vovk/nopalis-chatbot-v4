@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Tekal de Venegas",
+      "colonia": "El Ancla",
+      "postal_code": [
+        "97536"
+      ]
+    },
+    {
+      "city": "Tekal de Venegas",
+      "colonia": "San Felipe",
+      "postal_code": [
+        "97536"
+      ]
+    },
+    {
+      "city": "Tekal de Venegas",
+      "colonia": "Tekal de Venegas",
+      "postal_code": [
+        "97535"
+      ]
+    },
+    {
+      "city": "Tekal de Venegas",
+      "colonia": "Tohoku",
+      "postal_code": [
+        "97536"
+      ]
+    }
+  ]
+}

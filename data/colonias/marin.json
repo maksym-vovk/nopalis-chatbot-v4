@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "city": "Marin",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "66708"
+      ]
+    },
+    {
+      "city": "Marin",
+      "colonia": "Marin",
+      "postal_code": [
+        "66700",
+        "66700"
+      ]
+    }
+  ]
+}

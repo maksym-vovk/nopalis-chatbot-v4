@@ -1,0 +1,790 @@
+{
+  "data": [
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Acapa (Santiago Acapa)",
+      "postal_code": [
+        "43180"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Agua del Capulin (El Capulin)",
+      "postal_code": [
+        "43183"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Agua del Cuervo",
+      "postal_code": [
+        "43183"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Agua del Ocote",
+      "postal_code": [
+        "43183"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Agua Fria",
+      "postal_code": [
+        "43179"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Agua Fria (La Laguna)",
+      "postal_code": [
+        "43179"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Agua Grande",
+      "postal_code": [
+        "43175"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Agua Tapada",
+      "postal_code": [
+        "43172"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Agua Zarca",
+      "postal_code": [
+        "43183"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Amajac (La Maroma)",
+      "postal_code": [
+        "43184"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Barranca del Cerro del aguila (Barranca Seca)",
+      "postal_code": [
+        "43183"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Boca de Leon",
+      "postal_code": [
+        "43177"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "43179"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Buena Vista",
+      "postal_code": [
+        "43175"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Calderones",
+      "postal_code": [
+        "43175"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Camarones",
+      "postal_code": [
+        "43188"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Cangui",
+      "postal_code": [
+        "43187"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Cerro Chato",
+      "postal_code": [
+        "43185"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Cerro del aguila",
+      "postal_code": [
+        "43185"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Cerro Grande",
+      "postal_code": [
+        "43175"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Chichicaxtla",
+      "postal_code": [
+        "43187"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Coyocala",
+      "postal_code": [
+        "43175"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Demani",
+      "postal_code": [
+        "43172"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Domini",
+      "postal_code": [
+        "43176"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "El Aguacate",
+      "postal_code": [
+        "43179"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "El Aviadero",
+      "postal_code": [
+        "43186"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "El Bexu",
+      "postal_code": [
+        "43172"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "El Borbollon",
+      "postal_code": [
+        "43174"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "El Bordo (Manzana Chata)",
+      "postal_code": [
+        "43172"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "El Conizal",
+      "postal_code": [
+        "43172"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "El Domini",
+      "postal_code": [
+        "43180"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "El Duraznito",
+      "postal_code": [
+        "43172"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "El Embocadero",
+      "postal_code": [
+        "43176"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "El Encinalito",
+      "postal_code": [
+        "43177"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "El Fresno",
+      "postal_code": [
+        "43186"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "El Garabato",
+      "postal_code": [
+        "43184"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "El Limoncito",
+      "postal_code": [
+        "43177"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "El Llano",
+      "postal_code": [
+        "43172"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "El Maguey",
+      "postal_code": [
+        "43175"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "El Nenfi",
+      "postal_code": [
+        "43186"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "El Oregano",
+      "postal_code": [
+        "43183"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "El Palmar",
+      "postal_code": [
+        "43188"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "El Palmillar",
+      "postal_code": [
+        "43185"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "El Roble",
+      "postal_code": [
+        "43187"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "El Somerial",
+      "postal_code": [
+        "43177"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "El Tejocote",
+      "postal_code": [
+        "43174"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "El Venado",
+      "postal_code": [
+        "43172"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "El Zancudo",
+      "postal_code": [
+        "43184"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "43176",
+        "43180"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Itztamichapa",
+      "postal_code": [
+        "43183"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Jilguero",
+      "postal_code": [
+        "43185"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "La Barranca",
+      "postal_code": [
+        "43186"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "La Barranca (El Somerial)",
+      "postal_code": [
+        "43172"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "La Ciruela",
+      "postal_code": [
+        "43177"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "La Concordia",
+      "postal_code": [
+        "43184"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "La Era",
+      "postal_code": [
+        "43183"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "43185"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "La Guayaba",
+      "postal_code": [
+        "43188"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "43184",
+        "43188"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "La Loma",
+      "postal_code": [
+        "43187"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "La Mesa",
+      "postal_code": [
+        "43176"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "La Nueva Era",
+      "postal_code": [
+        "43189"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "La Reforma",
+      "postal_code": [
+        "43170"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "La Rinconada",
+      "postal_code": [
+        "43184"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Las Canoas (El Somerial)",
+      "postal_code": [
+        "43177"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Las Canoas (Vado Hondo)",
+      "postal_code": [
+        "43172"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Las Manzanas",
+      "postal_code": [
+        "43187"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Las Manzanitas",
+      "postal_code": [
+        "43176"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "43176"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Las Pilas",
+      "postal_code": [
+        "43172"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "La Union",
+      "postal_code": [
+        "43174"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "La Ventana",
+      "postal_code": [
+        "43179"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "La Yesca",
+      "postal_code": [
+        "43183"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "43184"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "43174"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Los Frijolares",
+      "postal_code": [
+        "43176"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Los Tigres",
+      "postal_code": [
+        "43175"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Los Tigres (Antioco Morales Velazquez)",
+      "postal_code": [
+        "43175"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Majua",
+      "postal_code": [
+        "43175"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Manuel Cruz Barrera",
+      "postal_code": [
+        "43188"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Media Luna",
+      "postal_code": [
+        "43188"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Nemixi",
+      "postal_code": [
+        "43175"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Nuevo Monterrey",
+      "postal_code": [
+        "43189"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Nuevo Morelos",
+      "postal_code": [
+        "43186"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Nuevo Reynosa (Cinco Palos)",
+      "postal_code": [
+        "43189"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Nuevo Zacatlan (El Zacate)",
+      "postal_code": [
+        "43175"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Palo Perdido",
+      "postal_code": [
+        "43172"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Piedra Colorada",
+      "postal_code": [
+        "43183"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Piedra Parada",
+      "postal_code": [
+        "43184"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Profesor Raciel Salcedo Rangel (El Duraznito)",
+      "postal_code": [
+        "43176"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Puerto el Paichle",
+      "postal_code": [
+        "43175"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "San Andresito",
+      "postal_code": [
+        "43184"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "San Andres Miraflores",
+      "postal_code": [
+        "43184"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "43176"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "San Jeronimo",
+      "postal_code": [
+        "43175"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "43184"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Santiago",
+      "postal_code": [
+        "43172"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "43180"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Tenango",
+      "postal_code": [
+        "43184"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "43174"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Tlahuiltepa",
+      "postal_code": [
+        "43170"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Tlaxcantitla",
+      "postal_code": [
+        "43186"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Tolantongo",
+      "postal_code": [
+        "43188"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Tonchi",
+      "postal_code": [
+        "43185"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Viejo",
+      "postal_code": [
+        "43184"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Viejo (Rancho Nuevo)",
+      "postal_code": [
+        "43189"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Xilitla",
+      "postal_code": [
+        "43184"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Xilocoatitla",
+      "postal_code": [
+        "43189"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Xiopa",
+      "postal_code": [
+        "43187"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Xuchiatipa",
+      "postal_code": [
+        "43179"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Yerbabuena (El Puerto)",
+      "postal_code": [
+        "43184"
+      ]
+    },
+    {
+      "city": "Tlahuiltepa",
+      "colonia": "Zaragoza",
+      "postal_code": [
+        "43175"
+      ]
+    }
+  ]
+}

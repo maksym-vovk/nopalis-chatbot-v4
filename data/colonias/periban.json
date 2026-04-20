@@ -1,0 +1,546 @@
+{
+  "data": [
+    {
+      "city": "Periban",
+      "colonia": "Agua Fria",
+      "postal_code": [
+        "60442",
+        "60443"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "alamo",
+      "postal_code": [
+        "60440"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Camelinas",
+      "postal_code": [
+        "60440"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Camichines",
+      "postal_code": [
+        "60440"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Chuanito",
+      "postal_code": [
+        "60445"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Chulavista",
+      "postal_code": [
+        "60443"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Copetiro",
+      "postal_code": [
+        "60442"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Corona",
+      "postal_code": [
+        "60447"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Curistaran",
+      "postal_code": [
+        "60446"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Cutio",
+      "postal_code": [
+        "60445"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Cuzata (El Ucaz)",
+      "postal_code": [
+        "60445"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "El Atrancon",
+      "postal_code": [
+        "60445"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "El Batellero",
+      "postal_code": [
+        "60442"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "El Calvario",
+      "postal_code": [
+        "60440"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "El Capillo",
+      "postal_code": [
+        "60445"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "El Carrizalillo",
+      "postal_code": [
+        "60442"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "El Chirimoyo",
+      "postal_code": [
+        "60440"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "El Copal",
+      "postal_code": [
+        "60445"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "El Cuartel",
+      "postal_code": [
+        "60446"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "El Escobal",
+      "postal_code": [
+        "60440"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "El Girasol",
+      "postal_code": [
+        "60440"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "El Granado",
+      "postal_code": [
+        "60445"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "El Huizache",
+      "postal_code": [
+        "60442"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "El Molino",
+      "postal_code": [
+        "60440"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "El Moral",
+      "postal_code": [
+        "60440"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "El Ojo de Agua de Parastaco",
+      "postal_code": [
+        "60445"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "60443"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "60440"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "El Pinito",
+      "postal_code": [
+        "60443"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "El Pozo del Zopilote",
+      "postal_code": [
+        "60445"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Gildardo Magana (Los angeles)",
+      "postal_code": [
+        "60443"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "60440"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Huatarillo",
+      "postal_code": [
+        "60443"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Joya de la Ortiga",
+      "postal_code": [
+        "60440"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "La Chiripa",
+      "postal_code": [
+        "60443"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "La Cofradia",
+      "postal_code": [
+        "60443"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "La Fabrica",
+      "postal_code": [
+        "60445"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "La Higuerita",
+      "postal_code": [
+        "60446"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "La Joyita",
+      "postal_code": [
+        "60440"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "La Loma",
+      "postal_code": [
+        "60440",
+        "60445"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "La Loma II",
+      "postal_code": [
+        "60440"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "La Majada",
+      "postal_code": [
+        "60443"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "La Mesa",
+      "postal_code": [
+        "60443"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "La Noria",
+      "postal_code": [
+        "60440"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Las Taumas",
+      "postal_code": [
+        "60447"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Las Tinajas",
+      "postal_code": [
+        "60447"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Las Trojas",
+      "postal_code": [
+        "60445"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "La Yerbabuena",
+      "postal_code": [
+        "60443"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "La Y Griega",
+      "postal_code": [
+        "60440"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Llanos de Periban",
+      "postal_code": [
+        "60443"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Loma Verde",
+      "postal_code": [
+        "60440"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Los Cerritos",
+      "postal_code": [
+        "60440",
+        "60443"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Los Fresnitos",
+      "postal_code": [
+        "60440"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "60440"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Los Pastores",
+      "postal_code": [
+        "60443"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "60440"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Los Puentes Cuates",
+      "postal_code": [
+        "60443"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Magallon",
+      "postal_code": [
+        "60443"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "60440"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Palo Verde",
+      "postal_code": [
+        "60446"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Paramben",
+      "postal_code": [
+        "60445"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Parastaco",
+      "postal_code": [
+        "60445"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Paso de la Nieve",
+      "postal_code": [
+        "60445"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Periban de Ramos",
+      "postal_code": [
+        "60440"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Plan de Ayala",
+      "postal_code": [
+        "60447"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Quebraplato",
+      "postal_code": [
+        "60442"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Rio Chondo",
+      "postal_code": [
+        "60445"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "San Francisco Periban",
+      "postal_code": [
+        "60443"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "San Javier",
+      "postal_code": [
+        "60440"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "San Jose Apupataro",
+      "postal_code": [
+        "60446"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "San Jose la Coyotera",
+      "postal_code": [
+        "60445"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Tangancicato",
+      "postal_code": [
+        "60445"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Taramichango",
+      "postal_code": [
+        "60446"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Tengüeran",
+      "postal_code": [
+        "60442"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Tirinditas",
+      "postal_code": [
+        "60440"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Una de Gato",
+      "postal_code": [
+        "60445"
+      ]
+    },
+    {
+      "city": "Periban",
+      "colonia": "Vistas del Valle",
+      "postal_code": [
+        "60440"
+      ]
+    }
+  ]
+}

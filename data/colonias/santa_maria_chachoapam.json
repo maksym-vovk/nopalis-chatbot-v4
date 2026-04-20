@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Santa Maria Chachoapam",
+      "colonia": "San Agustin Montelobos",
+      "postal_code": [
+        "69633"
+      ]
+    },
+    {
+      "city": "Santa Maria Chachoapam",
+      "colonia": "San Antonio Perales",
+      "postal_code": [
+        "69632"
+      ]
+    },
+    {
+      "city": "Santa Maria Chachoapam",
+      "colonia": "Santa Maria Chachoapam",
+      "postal_code": [
+        "69630"
+      ]
+    }
+  ]
+}

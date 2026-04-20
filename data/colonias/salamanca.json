@@ -1,0 +1,2928 @@
+{
+  "data": [
+    {
+      "city": "Salamanca",
+      "colonia": "12 de Octubre",
+      "postal_code": [
+        "36748"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "18 de Marzo",
+      "postal_code": [
+        "36786"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "1910",
+      "postal_code": [
+        "36748"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "24 de Diciembre",
+      "postal_code": [
+        "36724"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Aguilares",
+      "postal_code": [
+        "36884"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "alamos",
+      "postal_code": [
+        "36750"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Albino Garcia",
+      "postal_code": [
+        "36714"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Alterra Residencial",
+      "postal_code": [
+        "36764"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Alvarado",
+      "postal_code": [
+        "36750"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ampliacion 18 de Marzo",
+      "postal_code": [
+        "36786"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ampliacion Bellavista",
+      "postal_code": [
+        "36730"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ampliacion El Cerrito",
+      "postal_code": [
+        "36775"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ampliacion El Rosario",
+      "postal_code": [
+        "36774"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ampliacion la Cal",
+      "postal_code": [
+        "36878"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ampliacion La Gloria",
+      "postal_code": [
+        "36773"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ampliacion La Gloria 2da. Seccion",
+      "postal_code": [
+        "36773"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ampliacion La Gloria Norte",
+      "postal_code": [
+        "36773"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ampliacion La Luz",
+      "postal_code": [
+        "36784"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ampliacion Las Fuentes",
+      "postal_code": [
+        "36775"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ampliacion Las Maravillas",
+      "postal_code": [
+        "36775"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ampliacion Las Margaritas",
+      "postal_code": [
+        "36774"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ampliacion Las Rosas",
+      "postal_code": [
+        "36775"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ampliacion la Tinaja Dos",
+      "postal_code": [
+        "36880"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ampliacion Los angeles de Arriba",
+      "postal_code": [
+        "36782"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ampliacion Obrera",
+      "postal_code": [
+        "36753"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ampliacion Perico de Razo",
+      "postal_code": [
+        "36888"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ampliacion Rinconada San Javier",
+      "postal_code": [
+        "36760"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ampliacion San Francisco",
+      "postal_code": [
+        "36774"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ampliacion San Jose",
+      "postal_code": [
+        "36775"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ampliacion San Vicente de Flores",
+      "postal_code": [
+        "36875"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ancon (La Hacienda de Ancon)",
+      "postal_code": [
+        "36864"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Arboledas Ciudad Bajio",
+      "postal_code": [
+        "36766"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Barlovento",
+      "postal_code": [
+        "36885"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Barron",
+      "postal_code": [
+        "36866"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "36730"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "36790"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Bordo de los Pirules (La Pirulada)",
+      "postal_code": [
+        "36887"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Bosques del Sur",
+      "postal_code": [
+        "36783"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "36875"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Buenavista de Valtierra",
+      "postal_code": [
+        "36878"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "36724"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Callejones y Granados",
+      "postal_code": [
+        "36880"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Campestre",
+      "postal_code": [
+        "36710"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Campo Sarabia",
+      "postal_code": [
+        "36888"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Canada de Ortega",
+      "postal_code": [
+        "36865"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Cardenas",
+      "postal_code": [
+        "36877"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Cerro Blanco",
+      "postal_code": [
+        "36878"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Cerro Blanco de Mancera",
+      "postal_code": [
+        "36874"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Cerro Gordo (San Rafael)",
+      "postal_code": [
+        "36860"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Cipreses",
+      "postal_code": [
+        "36723"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Colorines (Salamanca)",
+      "postal_code": [
+        "36760"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Comaleros",
+      "postal_code": [
+        "36886"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Complejo Industrial Salamanca",
+      "postal_code": [
+        "36875"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Constelacion",
+      "postal_code": [
+        "36793"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Constituyentes",
+      "postal_code": [
+        "36793"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Coto del Lago",
+      "postal_code": [
+        "36717"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Cruces",
+      "postal_code": [
+        "36857"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Crucitas",
+      "postal_code": [
+        "36875"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Cuarta de Crucitas",
+      "postal_code": [
+        "36875"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Cuarta Fraccion de la Pena Colorada",
+      "postal_code": [
+        "36880"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Cuatro de Altamira",
+      "postal_code": [
+        "36880"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Del Parque",
+      "postal_code": [
+        "36783"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Del Parque 2da. Seccion",
+      "postal_code": [
+        "36783"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Del Parque 3ra. Seccion",
+      "postal_code": [
+        "36783"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Del Parque 4ta. Seccion",
+      "postal_code": [
+        "36783"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Deportivo",
+      "postal_code": [
+        "36743"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Dona Rosa (El Chicote)",
+      "postal_code": [
+        "36873"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Efren Capiz Villegas",
+      "postal_code": [
+        "36784"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ejido San Juan de Razos",
+      "postal_code": [
+        "36874"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El aguila",
+      "postal_code": [
+        "36883"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Baul",
+      "postal_code": [
+        "36863"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Calabozo",
+      "postal_code": [
+        "36885"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Campanario",
+      "postal_code": [
+        "36765"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Caracol",
+      "postal_code": [
+        "36854"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "36863"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Carmen (La Correa)",
+      "postal_code": [
+        "36873"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Cascabel",
+      "postal_code": [
+        "36875"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Centenario",
+      "postal_code": [
+        "36877"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "36775"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Cipres",
+      "postal_code": [
+        "36885"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Circuito",
+      "postal_code": [
+        "36880"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Coecillo",
+      "postal_code": [
+        "36863"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Cuatro de Altamira",
+      "postal_code": [
+        "36886"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Derramadero del Carmen (El Garage)",
+      "postal_code": [
+        "36857"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Divisador",
+      "postal_code": [
+        "36754"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Dorado",
+      "postal_code": [
+        "36875"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Durazno",
+      "postal_code": [
+        "36748"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Eden",
+      "postal_code": [
+        "36793"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Eslabon",
+      "postal_code": [
+        "36865"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Estanco",
+      "postal_code": [
+        "36854"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Fuerte",
+      "postal_code": [
+        "36873",
+        "36877"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Gallo (Santa Maria del Carmen)",
+      "postal_code": [
+        "36857"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Guaricho",
+      "postal_code": [
+        "36855"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Jerico",
+      "postal_code": [
+        "36883"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Manantial",
+      "postal_code": [
+        "36790"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Molinito",
+      "postal_code": [
+        "36790"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Molinito II",
+      "postal_code": [
+        "36790"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Monte",
+      "postal_code": [
+        "36720",
+        "36885"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Nacimiento",
+      "postal_code": [
+        "36888"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Paraiso I Seccion",
+      "postal_code": [
+        "36783"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Perul",
+      "postal_code": [
+        "36764"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Pirul",
+      "postal_code": [
+        "36740",
+        "36875"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Pitahayo",
+      "postal_code": [
+        "36770",
+        "36854",
+        "36885"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Progreso",
+      "postal_code": [
+        "36790",
+        "36875"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Recuerdo de Ancon (Xoconoxtle de Arriba)",
+      "postal_code": [
+        "36863"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "36863"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Rocio",
+      "postal_code": [
+        "36783"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "36774"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Socorro",
+      "postal_code": [
+        "36884"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "36865"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Tropezon",
+      "postal_code": [
+        "36854"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "El Vergel",
+      "postal_code": [
+        "36722",
+        "36888"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Estacion de Lobos",
+      "postal_code": [
+        "36880"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Estancias II",
+      "postal_code": [
+        "36765"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ex-hacienda Dona Rosa",
+      "postal_code": [
+        "36873"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Familia Conejo Castro (El Tajo)",
+      "postal_code": [
+        "36875"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Felipe angeles",
+      "postal_code": [
+        "36748"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Flores Magon",
+      "postal_code": [
+        "36760"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Floresta",
+      "postal_code": [
+        "36783"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "FOVISSSTE",
+      "postal_code": [
+        "36793"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Fraccion de Jerico",
+      "postal_code": [
+        "36883"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Fraccion de la Compania (Granja Sandoval)",
+      "postal_code": [
+        "36857"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Fraccion la Virgen",
+      "postal_code": [
+        "36883"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Fraccion Maravillas",
+      "postal_code": [
+        "36883"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Fraccion San Gonzalo",
+      "postal_code": [
+        "36887"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Francisco Alegria",
+      "postal_code": [
+        "36880"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "36724"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Franco",
+      "postal_code": [
+        "36740"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Godoy",
+      "postal_code": [
+        "36883"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Granja Cuatro de Altamira",
+      "postal_code": [
+        "36880"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Granja Dona Rosa",
+      "postal_code": [
+        "36873"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Granja el Monte",
+      "postal_code": [
+        "36880"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Granja la Manga",
+      "postal_code": [
+        "36886"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Granja la Pena (Faustino Perez Garcia)",
+      "postal_code": [
+        "36880"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Granja los Negrete",
+      "postal_code": [
+        "36887"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Granja Maria Antonieta (Granja los Soto)",
+      "postal_code": [
+        "36874"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Granja Ofelia",
+      "postal_code": [
+        "36880"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Granja Robles",
+      "postal_code": [
+        "36864"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Granja Salmeron",
+      "postal_code": [
+        "36878"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Granja San Carlos",
+      "postal_code": [
+        "36850"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Granja San Jose",
+      "postal_code": [
+        "36883"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Granjas la Cal",
+      "postal_code": [
+        "36878"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Granja Susana",
+      "postal_code": [
+        "36885"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Granja Uruetaro",
+      "postal_code": [
+        "36886"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Granja Veronica",
+      "postal_code": [
+        "36873"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "36747",
+        "36863"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Guanajuato",
+      "postal_code": [
+        "36780"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Hacienda Vieja",
+      "postal_code": [
+        "36860"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Harinera",
+      "postal_code": [
+        "36883"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Humanista I",
+      "postal_code": [
+        "36784"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Humanista II",
+      "postal_code": [
+        "36720"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "INFONAVIT 3",
+      "postal_code": [
+        "36720"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "INFONAVIT I",
+      "postal_code": [
+        "36790"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Insurgentes",
+      "postal_code": [
+        "36760"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Jacarandas",
+      "postal_code": [
+        "36790"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Jardines de Guanajuato",
+      "postal_code": [
+        "36780"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Jardines de la Fortaleza",
+      "postal_code": [
+        "36759"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Jardines del Country",
+      "postal_code": [
+        "36764"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Jardines del Sol",
+      "postal_code": [
+        "36752"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Jardines de Nativitas",
+      "postal_code": [
+        "36770"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Jardines de San Pedro",
+      "postal_code": [
+        "36760"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Jardines de Tierra Fria",
+      "postal_code": [
+        "36888"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Jorge Arturo Aboytes Novoa",
+      "postal_code": [
+        "36873"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Joya de Cortes (Joya Grande)",
+      "postal_code": [
+        "36858"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Joyas del Sur",
+      "postal_code": [
+        "36790"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Alegria",
+      "postal_code": [
+        "36885"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Labor de Valtierra",
+      "postal_code": [
+        "36878"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Cal",
+      "postal_code": [
+        "36880"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Campana",
+      "postal_code": [
+        "36854"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Capilla",
+      "postal_code": [
+        "36874"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Carbonera",
+      "postal_code": [
+        "36858"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Charca",
+      "postal_code": [
+        "36875"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Compania",
+      "postal_code": [
+        "36857"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Concepcion",
+      "postal_code": [
+        "36873"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "36770"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "36783",
+        "36863",
+        "36875",
+        "36885",
+        "36888"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Galera",
+      "postal_code": [
+        "36887"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Gloria",
+      "postal_code": [
+        "36773",
+        "36864"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Haciendita de San Andres",
+      "postal_code": [
+        "36854"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Haciendita (La Talonera)",
+      "postal_code": [
+        "36850"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Herradura",
+      "postal_code": [
+        "36760",
+        "36885"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Jaulilla",
+      "postal_code": [
+        "36878"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Joyita de Villafana",
+      "postal_code": [
+        "36854"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Lagrima",
+      "postal_code": [
+        "36877"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Loma de Altamira",
+      "postal_code": [
+        "36886"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Lomita",
+      "postal_code": [
+        "36865"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Luz",
+      "postal_code": [
+        "36776"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Magdalena",
+      "postal_code": [
+        "36874"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Magdalena (Magdalena de Ortiz)",
+      "postal_code": [
+        "36874"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Manga",
+      "postal_code": [
+        "36885"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Media Luna",
+      "postal_code": [
+        "36854"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Noria",
+      "postal_code": [
+        "36864"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Ordena",
+      "postal_code": [
+        "36865"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Ordenita",
+      "postal_code": [
+        "36854"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Palma",
+      "postal_code": [
+        "36850",
+        "36858",
+        "36880"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Pena Colorada",
+      "postal_code": [
+        "36880"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Pequena de Cerro Gordo",
+      "postal_code": [
+        "36884"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Las Adjuntas",
+      "postal_code": [
+        "36886"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Salitrera",
+      "postal_code": [
+        "36854"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Salud",
+      "postal_code": [
+        "36867"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "36724"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Las Antenas",
+      "postal_code": [
+        "36878"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Las Arboledas",
+      "postal_code": [
+        "36764"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Las Dunas",
+      "postal_code": [
+        "36786"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Las Estancias",
+      "postal_code": [
+        "36765"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Las Fuentes",
+      "postal_code": [
+        "36775"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Las Glorias Residencial",
+      "postal_code": [
+        "36766"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Las Granjas",
+      "postal_code": [
+        "36732"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Las Liebres",
+      "postal_code": [
+        "36863"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Las Maravillas",
+      "postal_code": [
+        "36775"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "36774",
+        "36864"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Las Misiones",
+      "postal_code": [
+        "36784"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Soledad (La Turicata)",
+      "postal_code": [
+        "36863"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Soledad (San Antonio Abad)",
+      "postal_code": [
+        "36880"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "36760"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Las Palomas",
+      "postal_code": [
+        "36863"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Las Reynas",
+      "postal_code": [
+        "36720"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Las Rosas",
+      "postal_code": [
+        "36775"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Las Torres",
+      "postal_code": [
+        "36715"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "36880"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Virgen",
+      "postal_code": [
+        "36883"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "La Zandunga",
+      "postal_code": [
+        "36867"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "36723",
+        "36873"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Lerma",
+      "postal_code": [
+        "36704"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "36783"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Locos de Covarrubias",
+      "postal_code": [
+        "36857"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Locos de Domenzain (Los Loquitos)",
+      "postal_code": [
+        "36857"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Lo de Rayas",
+      "postal_code": [
+        "36855"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Loma Azul",
+      "postal_code": [
+        "36864"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Loma de Ancon",
+      "postal_code": [
+        "36864"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Loma de Flores",
+      "postal_code": [
+        "36856"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Loma de Granados",
+      "postal_code": [
+        "36875"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Loma Pelada",
+      "postal_code": [
+        "36870"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Lomas del Prado",
+      "postal_code": [
+        "36717"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Lomas del Prado 3er Seccion",
+      "postal_code": [
+        "36717"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Lomas del Prado II Seccion",
+      "postal_code": [
+        "36717"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "36785"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Los angeles de Arriba",
+      "postal_code": [
+        "36878"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Los Cenizos",
+      "postal_code": [
+        "36857"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Los Conejos (San Nicolas de Uruetaro)",
+      "postal_code": [
+        "36880"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "36750"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Los Hernandez",
+      "postal_code": [
+        "36857",
+        "36887"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Los Hernandez de San Gonzalo",
+      "postal_code": [
+        "36887"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "36790",
+        "36857"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Los Lobos",
+      "postal_code": [
+        "36880"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Los Miranda (El Xoconoxtle de Abajo)",
+      "postal_code": [
+        "36863"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Los organos",
+      "postal_code": [
+        "36858"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "36780"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Los Prietos (El Cajon)",
+      "postal_code": [
+        "36876"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Los Principes",
+      "postal_code": [
+        "36783"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Los Profesionistas",
+      "postal_code": [
+        "36744"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Los Rangeles",
+      "postal_code": [
+        "36749"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Los Razos de Ancon",
+      "postal_code": [
+        "36857"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "36765"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Los Sotos",
+      "postal_code": [
+        "36874"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Los Teranes",
+      "postal_code": [
+        "36887"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Los Vazquez",
+      "postal_code": [
+        "36886"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Los Virreyes",
+      "postal_code": [
+        "36783"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Los Zavala",
+      "postal_code": [
+        "36886"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "36773"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Majadas de Ancon",
+      "postal_code": [
+        "36866"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Maria Gomez",
+      "postal_code": [
+        "36865"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "36724"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Monte Tabor",
+      "postal_code": [
+        "36774"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Morelos",
+      "postal_code": [
+        "36740"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Morelos (El Chiquiador)",
+      "postal_code": [
+        "36888"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Nativitas",
+      "postal_code": [
+        "36770"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Nochebuena",
+      "postal_code": [
+        "36748"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Nova Aztlan",
+      "postal_code": [
+        "36720"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Nueva Loma de Flores",
+      "postal_code": [
+        "36856"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Nuevo Mexico",
+      "postal_code": [
+        "36773"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Obrera",
+      "postal_code": [
+        "36753"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Ojo de Agua (Santa Margarita de Ojo de Agua)",
+      "postal_code": [
+        "36886"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Olimpo",
+      "postal_code": [
+        "36793"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Oteros",
+      "postal_code": [
+        "36873"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Palo Alto",
+      "postal_code": [
+        "36874"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Palo Blanco",
+      "postal_code": [
+        "36787",
+        "36880"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Parque industrial Salamanca Siglo XXI",
+      "postal_code": [
+        "36778"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Paseos de San Juan",
+      "postal_code": [
+        "36770"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Pedregal de San Juan",
+      "postal_code": [
+        "36782"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "PEMEX",
+      "postal_code": [
+        "36730"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Perico de Cornejo",
+      "postal_code": [
+        "36887"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Perico de Razos",
+      "postal_code": [
+        "36888"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Petroleos Mexicanos Ing. Antonio M. Amor",
+      "postal_code": [
+        "36733"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Potrerillos",
+      "postal_code": [
+        "36858"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Praderas del Sol",
+      "postal_code": [
+        "36720"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Prados Verdes",
+      "postal_code": [
+        "36766"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Primavera",
+      "postal_code": [
+        "36720"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Primavera 2a Secc.",
+      "postal_code": [
+        "36720"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Progreso Industrial",
+      "postal_code": [
+        "36750"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Puente de Guadalupe",
+      "postal_code": [
+        "36888"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Puente del Gato",
+      "postal_code": [
+        "36888"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Puerta de Hierro",
+      "postal_code": [
+        "36720"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Puerto de Guadalupe",
+      "postal_code": [
+        "36878"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Puerto de Rojas",
+      "postal_code": [
+        "36878"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Puerto de Valle",
+      "postal_code": [
+        "36886"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Purisima de Oteros",
+      "postal_code": [
+        "36863"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Quintas Campestre",
+      "postal_code": [
+        "36724"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Rancho la Soledad",
+      "postal_code": [
+        "36888"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Rancho los Ramirez (Fraccion el Divisador)",
+      "postal_code": [
+        "36885"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "36863",
+        "36888"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Rancho San Gonzalo",
+      "postal_code": [
+        "36887"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Rancho San Miguel",
+      "postal_code": [
+        "36887"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Rancho Uluapan (Granja Lupitas)",
+      "postal_code": [
+        "36885"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Rancho Zapote de Negrete",
+      "postal_code": [
+        "36887"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Real Bugambilias",
+      "postal_code": [
+        "36720"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Real San Jacinto",
+      "postal_code": [
+        "36717"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Reforma",
+      "postal_code": [
+        "36773"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Regina",
+      "postal_code": [
+        "36723"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Renovacion",
+      "postal_code": [
+        "36790"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Residencial Arboledas",
+      "postal_code": [
+        "36766"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Residencial Faja de Oro",
+      "postal_code": [
+        "36748"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Residencial Galerias",
+      "postal_code": [
+        "36743"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Residencial San Miguel",
+      "postal_code": [
+        "36863"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Rinconada de La Paz",
+      "postal_code": [
+        "36783"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Rinconada del Parque",
+      "postal_code": [
+        "36780"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Rinconada El Belem",
+      "postal_code": [
+        "36765"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Rinconada San Javier",
+      "postal_code": [
+        "36760"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Rinconada San Pedro",
+      "postal_code": [
+        "36765"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Rinconada Tuxpan",
+      "postal_code": [
+        "36744"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Rincon Campestre",
+      "postal_code": [
+        "36744"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Rivera de Guadalupe",
+      "postal_code": [
+        "36886"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Salamanca Centro",
+      "postal_code": [
+        "36700"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "36880"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Antonio Abad",
+      "postal_code": [
+        "36783"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Antonio Bachachan",
+      "postal_code": [
+        "36863"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Antonio Capetillo",
+      "postal_code": [
+        "36863"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Bernardo",
+      "postal_code": [
+        "36887"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "36850",
+        "36875"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Cayetano",
+      "postal_code": [
+        "36853"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Felipe de Jesus",
+      "postal_code": [
+        "36867"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Francisco de Asis",
+      "postal_code": [
+        "36775"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Gonzalo",
+      "postal_code": [
+        "36740"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "36780"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Isidro de Cruces (La Hilacha)",
+      "postal_code": [
+        "36850"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Jacinto",
+      "postal_code": [
+        "36710",
+        "36710"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Javier",
+      "postal_code": [
+        "36765"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Joaquin",
+      "postal_code": [
+        "36880"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Jose",
+      "postal_code": [
+        "36775",
+        "36874",
+        "36885"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Jose de la Montana",
+      "postal_code": [
+        "36867"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Jose de las Adjuntas",
+      "postal_code": [
+        "36883"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Jose del Carmen",
+      "postal_code": [
+        "36887"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Jose de Loma de Granados",
+      "postal_code": [
+        "36873"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Jose de los Duros",
+      "postal_code": [
+        "36874"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Jose de Maranon",
+      "postal_code": [
+        "36856"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Jose de Mendoza",
+      "postal_code": [
+        "36853"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Jose de Uluapan",
+      "postal_code": [
+        "36777"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Jose Temascatio",
+      "postal_code": [
+        "36856"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Jose Tenita",
+      "postal_code": [
+        "36863"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Juan",
+      "postal_code": [
+        "36867"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Juan Chihuahua",
+      "postal_code": [
+        "36744"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Juan de Cruces",
+      "postal_code": [
+        "36857"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Juan de La Presa",
+      "postal_code": [
+        "36770"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Juan de Razos",
+      "postal_code": [
+        "36782"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Juan Diego de Cruces",
+      "postal_code": [
+        "36857"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Juan Temascatio",
+      "postal_code": [
+        "36853"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Lucas",
+      "postal_code": [
+        "36865"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Manuel de Valderrama",
+      "postal_code": [
+        "36874"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Martin",
+      "postal_code": [
+        "36888"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Miguelito",
+      "postal_code": [
+        "36774"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "36760"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Rafael de Uruetaro",
+      "postal_code": [
+        "36886"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Santa Catarina",
+      "postal_code": [
+        "36883"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Santa Catarina de Conejo",
+      "postal_code": [
+        "36883"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Santa Catarina de Frias",
+      "postal_code": [
+        "36883"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Santa Catarina de Pena",
+      "postal_code": [
+        "36883"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Santa Clara",
+      "postal_code": [
+        "36773"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Santa Elena de La Cruz",
+      "postal_code": [
+        "36790"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "36867"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Santiaguillo de Flores",
+      "postal_code": [
+        "36874"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Santiaguillo de Garcia",
+      "postal_code": [
+        "36874"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "36878"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "San Vicente de Flores",
+      "postal_code": [
+        "36875"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Sauz de Cruces",
+      "postal_code": [
+        "36857"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Segunda Ampliacion Perico de Cornejo",
+      "postal_code": [
+        "36887"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Segunda Fraccion la Compania (Jaime Sandoval)",
+      "postal_code": [
+        "36857"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Sociedad Cooperativa Agricola",
+      "postal_code": [
+        "36885"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Sonterra Residencial",
+      "postal_code": [
+        "36766"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Sotelo",
+      "postal_code": [
+        "36887"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Soto Innes I",
+      "postal_code": [
+        "36764"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Soto Innes II",
+      "postal_code": [
+        "36764"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Suburbana Sardinas",
+      "postal_code": [
+        "36726"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Tamaulipas",
+      "postal_code": [
+        "36759"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Tierra y Libertad",
+      "postal_code": [
+        "36787"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Tomasa Estevez",
+      "postal_code": [
+        "36748"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Union de Liebres (Las Conejas)",
+      "postal_code": [
+        "36873"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Uruetaro",
+      "postal_code": [
+        "36880"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Valencia de Cerro Gordo",
+      "postal_code": [
+        "36867"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Valle Dorado",
+      "postal_code": [
+        "36744"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Valle Hermoso",
+      "postal_code": [
+        "36787"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Valle Verde",
+      "postal_code": [
+        "36790"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Valtierra",
+      "postal_code": [
+        "36878"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Valtierrilla",
+      "postal_code": [
+        "36883"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Villa Bonita",
+      "postal_code": [
+        "36720"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Villa Diamante",
+      "postal_code": [
+        "36723"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Villa Ecueste",
+      "postal_code": [
+        "36710"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Villafana",
+      "postal_code": [
+        "36790"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Villa Florida",
+      "postal_code": [
+        "36790"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Villaluz Residencial",
+      "postal_code": [
+        "36720"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Villa Petrolera",
+      "postal_code": [
+        "36786"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Villarreal",
+      "postal_code": [
+        "36740"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Villa Salamanca 400",
+      "postal_code": [
+        "36778"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Villa San Pedro",
+      "postal_code": [
+        "36724"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Villas del Parque",
+      "postal_code": [
+        "36783"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Villas del Valle",
+      "postal_code": [
+        "36786"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Villas de San Roque",
+      "postal_code": [
+        "36740"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Villaverde",
+      "postal_code": [
+        "36884"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Villa Verde",
+      "postal_code": [
+        "36744"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Zacamixtle",
+      "postal_code": [
+        "36732"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Zapote de Covarrubias",
+      "postal_code": [
+        "36855"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Zapote de Negrete",
+      "postal_code": [
+        "36887"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Zapote de Palomas",
+      "postal_code": [
+        "36884"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Zapote de Vazquez (El Buche)",
+      "postal_code": [
+        "36885"
+      ]
+    },
+    {
+      "city": "Salamanca",
+      "colonia": "Zavala",
+      "postal_code": [
+        "36885"
+      ]
+    }
+  ]
+}

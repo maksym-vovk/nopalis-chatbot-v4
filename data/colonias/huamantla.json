@@ -1,0 +1,531 @@
+{
+  "data": [
+    {
+      "city": "Huamantla",
+      "colonia": "Acasillados San Martin Notario",
+      "postal_code": [
+        "90526"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Agricola San Martin Notario",
+      "postal_code": [
+        "90526"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Altamira Guadalupe",
+      "postal_code": [
+        "90534"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Ampliacion Felipe Carrillo Puerto",
+      "postal_code": [
+        "90515"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "90508"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "90514"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Chapultepec",
+      "postal_code": [
+        "90525"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Cuamanco",
+      "postal_code": [
+        "90503"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "90527"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "De Jesus",
+      "postal_code": [
+        "90502",
+        "90530"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "De la Cruz",
+      "postal_code": [
+        "90530"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Del Dulce Nombre",
+      "postal_code": [
+        "90502"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "De Torres",
+      "postal_code": [
+        "90514"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "El Calvario",
+      "postal_code": [
+        "90502"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "El Carmen Xalpatlahuaya",
+      "postal_code": [
+        "90513"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "El Cornejal",
+      "postal_code": [
+        "90503"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "El Encanto",
+      "postal_code": [
+        "90502"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "El Jagüey",
+      "postal_code": [
+        "90508"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "El Molino",
+      "postal_code": [
+        "90514"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "El Valle",
+      "postal_code": [
+        "90515"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "90506"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Francisco I. Madero la Mesa",
+      "postal_code": [
+        "90514"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Francisco I. Madero Tecoac",
+      "postal_code": [
+        "90514"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Francisco Villa Tecoac",
+      "postal_code": [
+        "90514"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "General Francisco Villa",
+      "postal_code": [
+        "90526"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Hermenegildo Galeana",
+      "postal_code": [
+        "90513"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Huamantla Centro",
+      "postal_code": [
+        "90500"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "90506",
+        "90510"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "INFONAVIT 15 de Agosto",
+      "postal_code": [
+        "90508"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Jardines de San Manuel",
+      "postal_code": [
+        "90505"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Jose Maria Morelos",
+      "postal_code": [
+        "90530"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Juarez",
+      "postal_code": [
+        "90508"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "La Canada",
+      "postal_code": [
+        "90508"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "90535"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "La Esmeralda",
+      "postal_code": [
+        "90508"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "La Estacion",
+      "postal_code": [
+        "90506"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "La Giralda",
+      "postal_code": [
+        "90508"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "La Lima",
+      "postal_code": [
+        "90514"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "La Palma",
+      "postal_code": [
+        "90508"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "La Preciosa",
+      "postal_code": [
+        "90505"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "La Santisima",
+      "postal_code": [
+        "90502"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "90520"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Lic. Mauro Angulo",
+      "postal_code": [
+        "90525"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Los Alamos",
+      "postal_code": [
+        "90515"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Los Pilares",
+      "postal_code": [
+        "90510"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Los Volcanes",
+      "postal_code": [
+        "90508"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Los Volcanes II",
+      "postal_code": [
+        "90508"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Mariano Matamoros",
+      "postal_code": [
+        "90534"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "NCP Jose Maria Morelos",
+      "postal_code": [
+        "90515"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "N.C.P. San Diego Xalpatlahuaya",
+      "postal_code": [
+        "90513"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "N.C.P. San Jose Teacalco",
+      "postal_code": [
+        "90525"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Nuevos Horizontes",
+      "postal_code": [
+        "90506"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "90505"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "90503"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "90507"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "San Francisco Notario",
+      "postal_code": [
+        "90520"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "San Francisco Tecoac",
+      "postal_code": [
+        "90520"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "San Francisco Yancuitlalpan",
+      "postal_code": [
+        "90505"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "San Francisquito",
+      "postal_code": [
+        "90507"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "San Jose",
+      "postal_code": [
+        "90505"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "San Jose Xicohtencatl",
+      "postal_code": [
+        "90515"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "San Juan",
+      "postal_code": [
+        "90503"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "San Lucas",
+      "postal_code": [
+        "90507"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "San Martin Notario",
+      "postal_code": [
+        "90526"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "90505"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "San Miguel Baez",
+      "postal_code": [
+        "90530"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "90508"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "90503"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Santa Anita",
+      "postal_code": [
+        "90508"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "90502"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Santa Maria Yancuitlalpan",
+      "postal_code": [
+        "90505"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Tierra y Libertad",
+      "postal_code": [
+        "90506"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Union y Progreso",
+      "postal_code": [
+        "90507"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Villa de las Flores",
+      "postal_code": [
+        "90503"
+      ]
+    },
+    {
+      "city": "Huamantla",
+      "colonia": "Viva",
+      "postal_code": [
+        "90506"
+      ]
+    }
+  ]
+}

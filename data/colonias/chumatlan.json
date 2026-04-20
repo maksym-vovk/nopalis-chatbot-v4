@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Chumatlan",
+      "colonia": "Chumatlan",
+      "postal_code": [
+        "93040"
+      ]
+    },
+    {
+      "city": "Chumatlan",
+      "colonia": "La Vega",
+      "postal_code": [
+        "93041"
+      ]
+    },
+    {
+      "city": "Chumatlan",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "93050"
+      ]
+    }
+  ]
+}

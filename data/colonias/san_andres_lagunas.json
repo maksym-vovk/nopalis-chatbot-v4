@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "city": "San Andres Lagunas",
+      "colonia": "Guadalupe Lagunas",
+      "postal_code": [
+        "69553"
+      ]
+    },
+    {
+      "city": "San Andres Lagunas",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "69552"
+      ]
+    },
+    {
+      "city": "San Andres Lagunas",
+      "colonia": "Primera Seccion",
+      "postal_code": [
+        "69550"
+      ]
+    },
+    {
+      "city": "San Andres Lagunas",
+      "colonia": "San Andres Lagunas Centro",
+      "postal_code": [
+        "69550"
+      ]
+    },
+    {
+      "city": "San Andres Lagunas",
+      "colonia": "San Isidro Lagunas",
+      "postal_code": [
+        "69555"
+      ]
+    },
+    {
+      "city": "San Andres Lagunas",
+      "colonia": "Segunda Seccion",
+      "postal_code": [
+        "69550"
+      ]
+    },
+    {
+      "city": "San Andres Lagunas",
+      "colonia": "Tercera Seccion",
+      "postal_code": [
+        "69550"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Ixil",
+      "colonia": "Concepcion",
+      "postal_code": [
+        "97343"
+      ]
+    },
+    {
+      "city": "Ixil",
+      "colonia": "Ixil",
+      "postal_code": [
+        "97343"
+      ]
+    },
+    {
+      "city": "Ixil",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "97343"
+      ]
+    }
+  ]
+}

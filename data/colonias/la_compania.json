@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "city": "La Compania",
+      "colonia": "Agua Blanca",
+      "postal_code": [
+        "71567"
+      ]
+    },
+    {
+      "city": "La Compania",
+      "colonia": "Agua del Espino",
+      "postal_code": [
+        "71567"
+      ]
+    },
+    {
+      "city": "La Compania",
+      "colonia": "El Vado",
+      "postal_code": [
+        "71568"
+      ]
+    },
+    {
+      "city": "La Compania",
+      "colonia": "La Compania",
+      "postal_code": [
+        "71567"
+      ]
+    },
+    {
+      "city": "La Compania",
+      "colonia": "La Labor",
+      "postal_code": [
+        "71569"
+      ]
+    },
+    {
+      "city": "La Compania",
+      "colonia": "La Y",
+      "postal_code": [
+        "71568"
+      ]
+    },
+    {
+      "city": "La Compania",
+      "colonia": "Rio de Ejutla",
+      "postal_code": [
+        "71569"
+      ]
+    }
+  ]
+}

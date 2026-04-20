@@ -1,0 +1,770 @@
+{
+  "data": [
+    {
+      "city": "Cedral",
+      "colonia": "Antigua Guayulera",
+      "postal_code": [
+        "78527"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Antorchista",
+      "postal_code": [
+        "78525"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Buenaventura",
+      "postal_code": [
+        "78530"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "78530"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Casa Blanca (Majada Ejido Zamarripa)",
+      "postal_code": [
+        "78535"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Casa Ejidal Santa Rita del Sotol",
+      "postal_code": [
+        "78534"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Cedral Centro",
+      "postal_code": [
+        "78520"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Cerro de Flores",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Del Bosque",
+      "postal_code": [
+        "78525"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Del Valle",
+      "postal_code": [
+        "78523"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Domingo Soto",
+      "postal_code": [
+        "78526"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Ejido Hidalgo",
+      "postal_code": [
+        "78533"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "El Blanco",
+      "postal_code": [
+        "78537"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "78537"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "El Consuelo",
+      "postal_code": [
+        "78530"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "El Cuarejo",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "El Dolar",
+      "postal_code": [
+        "78524"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "El Espiritu",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "El Llano del Pinto",
+      "postal_code": [
+        "78534"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "78534"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "El Pequeno",
+      "postal_code": [
+        "78537"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "El Saladito",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "El Saucito",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "El Sauz",
+      "postal_code": [
+        "78537"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "78525"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Entronque del Real",
+      "postal_code": [
+        "78537"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Escritores",
+      "postal_code": [
+        "78524"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Fraccionamiento Llanos de San Gabriel",
+      "postal_code": [
+        "78537"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Francisco Gloria",
+      "postal_code": [
+        "78530"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Francisco I Madero",
+      "postal_code": [
+        "78527"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Gallos Blancos",
+      "postal_code": [
+        "78533"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Hector avila",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Jesus Maria",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Josefa Ortiz de Dominguez",
+      "postal_code": [
+        "78525"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "La Boquilla",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "La Candelaria",
+      "postal_code": [
+        "78530",
+        "78535"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "La Concordia",
+      "postal_code": [
+        "78530"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "La Crucita",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "78537"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "La Estancia",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Lagunillas",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "La Joya",
+      "postal_code": [
+        "78535"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "La Joya de Elias",
+      "postal_code": [
+        "78534"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "La Joyita",
+      "postal_code": [
+        "78535"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "La Luz",
+      "postal_code": [
+        "78520"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "La Perla (Nogalar)",
+      "postal_code": [
+        "78537"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "La Pinta",
+      "postal_code": [
+        "78535"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "La Rinconada",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "La Union",
+      "postal_code": [
+        "78524"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "La Victoria",
+      "postal_code": [
+        "78527"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "78525"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Los Cedros",
+      "postal_code": [
+        "78525"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Los Orozco",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Mesa de los Molina",
+      "postal_code": [
+        "78534"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Noria de Dolores",
+      "postal_code": [
+        "78530"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Noria de San Pedro",
+      "postal_code": [
+        "78530"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Nueva Rosita",
+      "postal_code": [
+        "78530"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Palo Blanco",
+      "postal_code": [
+        "78534"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Perpetuo Socorro",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Presa Verde",
+      "postal_code": [
+        "78533"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Progresistas",
+      "postal_code": [
+        "78523"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Progreso",
+      "postal_code": [
+        "78527",
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Rancho el Cono del Progreso",
+      "postal_code": [
+        "78537"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Rancho la Joya",
+      "postal_code": [
+        "78530"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Rancho la Rinconada",
+      "postal_code": [
+        "78537"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Rancho las Vegas",
+      "postal_code": [
+        "78530"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Rancho Maricar",
+      "postal_code": [
+        "78530"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "78535"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Rancho Paso del Norte",
+      "postal_code": [
+        "78530"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Rancho San angel",
+      "postal_code": [
+        "78530"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Rancho San Benito",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Rancho San Francisco",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Rancho San Isidro",
+      "postal_code": [
+        "78530"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Rancho San Martin",
+      "postal_code": [
+        "78530"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Rancho Santa Martha",
+      "postal_code": [
+        "78530"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Rancho Santa Rosa",
+      "postal_code": [
+        "78530"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Rancho Santo Domingo",
+      "postal_code": [
+        "78537"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Rancho Vallarta",
+      "postal_code": [
+        "78537"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Refugio de las Monjas",
+      "postal_code": [
+        "78537"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Refugio de Saladito",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Salitrillos del Refugio",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Saltillito",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "78526"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "San Antonio de los Montoya",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "San Antonio del Sotol",
+      "postal_code": [
+        "78534"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "78530"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "San Ignacio del Carmen",
+      "postal_code": [
+        "78530"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "78530"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "San Jose de la Porra",
+      "postal_code": [
+        "78530"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "San Jose del Ramillete",
+      "postal_code": [
+        "78530"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "78535"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "San Mateo",
+      "postal_code": [
+        "78534"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "San Rafael de los Facundos",
+      "postal_code": [
+        "78536"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Santa Catarina",
+      "postal_code": [
+        "78535"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "78523",
+        "78530"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Santa Isabel",
+      "postal_code": [
+        "78530"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Santa Rita del Sotol",
+      "postal_code": [
+        "78535"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "78537"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Tanque Nuevo",
+      "postal_code": [
+        "78535"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Valle de las Flores",
+      "postal_code": [
+        "78520"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Valle Verde",
+      "postal_code": [
+        "78520"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Villa de los Sillares",
+      "postal_code": [
+        "78523"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Villa las Palmas",
+      "postal_code": [
+        "78525"
+      ]
+    },
+    {
+      "city": "Cedral",
+      "colonia": "Zamarripa",
+      "postal_code": [
+        "78535"
+      ]
+    }
+  ]
+}

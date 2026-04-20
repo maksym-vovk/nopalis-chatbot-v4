@@ -1,0 +1,1244 @@
+{
+  "data": [
+    {
+      "city": "Cuautlancingo",
+      "colonia": "15 de Septiembre",
+      "postal_code": [
+        "72710"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Alcatraces",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Alce Residencial",
+      "postal_code": [
+        "72706"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "angeles",
+      "postal_code": [
+        "72700",
+        "72712"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Ardenas Residencial",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Atzcapotzalco",
+      "postal_code": [
+        "72720"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Bello Horizonte",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Bosque Sanctorum",
+      "postal_code": [
+        "72733"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Caltiare",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Campestre Santa Patricia",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Cemanti",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Chautenco",
+      "postal_code": [
+        "72730"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Ciruelos",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Concordia",
+      "postal_code": [
+        "72703"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Conjunto los Olivos",
+      "postal_code": [
+        "72706"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Cortijo San Joaquin",
+      "postal_code": [
+        "72703"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Cuautlancingo",
+      "postal_code": [
+        "72703",
+        "72703",
+        "72705"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Cuautlancingo Corredor Empresarial",
+      "postal_code": [
+        "72710"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Desarrollo Atlatenco",
+      "postal_code": [
+        "72703"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Desarrollo Habitacional el Arcangel",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Diamante",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "72702"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "El Encuentro de la Guadalupana",
+      "postal_code": [
+        "72712"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "El Ensueno",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "El Palacio de Bello Horizonte",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "El Pinal",
+      "postal_code": [
+        "72713"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "El Sauzal Residencial",
+      "postal_code": [
+        "72700"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "72720"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Estrella del Mar",
+      "postal_code": [
+        "72702"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Eucaliptos",
+      "postal_code": [
+        "72705"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Finsa",
+      "postal_code": [
+        "72710"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Framboyanes",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Fuentes del Molino",
+      "postal_code": [
+        "72700"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Fuentes del Molino Seccion Arboledas",
+      "postal_code": [
+        "72700"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Fuerte de Guadalupe",
+      "postal_code": [
+        "72705"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Galaxia",
+      "postal_code": [
+        "72713"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Getzemani - El Nopalito",
+      "postal_code": [
+        "72723"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "72710"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Hacienda el Palmar",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Hacienda las Americas",
+      "postal_code": [
+        "72706"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Hacienda San Carlos",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Hacienda San Joaquin",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Hacienda Zavaleta",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Integra",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Ipanema",
+      "postal_code": [
+        "72707"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Jose Miguel",
+      "postal_code": [
+        "72700"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "72723"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "La Concordia",
+      "postal_code": [
+        "72706"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "La Fuente",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "La Herradura",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "La Joya",
+      "postal_code": [
+        "72700",
+        "72700"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "La Noria",
+      "postal_code": [
+        "72700"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Las Trojes Almecatla",
+      "postal_code": [
+        "72713"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Las Trojes II",
+      "postal_code": [
+        "72713"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "La Trinidad Bello Horizonte",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "72720"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Liquidambar",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Lomas de Cristo",
+      "postal_code": [
+        "72723"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Lomas de San Juan",
+      "postal_code": [
+        "72705"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Lomas de Zayavedra",
+      "postal_code": [
+        "72702"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Lomas San Agustin",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Lomas San Agustin II",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Lomas San Agustin III",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Lomas San Agustin IV",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "72706"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Los Cafetales",
+      "postal_code": [
+        "72712"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Los Cerezos",
+      "postal_code": [
+        "72706"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Los Encinos",
+      "postal_code": [
+        "72703"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Los Frailes",
+      "postal_code": [
+        "72700"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Los Ocotes",
+      "postal_code": [
+        "72710"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "72713",
+        "72713"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Lucero",
+      "postal_code": [
+        "72705"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Macopilli",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Malinali",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Mari Conchis",
+      "postal_code": [
+        "72705"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Mayorca",
+      "postal_code": [
+        "72707"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Mexico-Puebla",
+      "postal_code": [
+        "72700"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Misiones de San Francisco",
+      "postal_code": [
+        "72710"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Monte Carlo",
+      "postal_code": [
+        "72702"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Morillotla Zavaleta",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Muskoka Residencial",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Nueva Alemania",
+      "postal_code": [
+        "72713"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Nuevo Leon",
+      "postal_code": [
+        "72706",
+        "72706"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Olin",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Orma Forjadores",
+      "postal_code": [
+        "72705"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Palmas",
+      "postal_code": [
+        "72705"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Paseos de Camelinas",
+      "postal_code": [
+        "72730"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Proyecto 15",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Pylsa 30",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Quecholantla",
+      "postal_code": [
+        "72700"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Quinta Real",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Real del Bosque",
+      "postal_code": [
+        "72703",
+        "72710"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Real del Bosque II",
+      "postal_code": [
+        "72710"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Real de San Diego",
+      "postal_code": [
+        "72705"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Real de San Lorenzo",
+      "postal_code": [
+        "72710"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Residencial Anturios",
+      "postal_code": [
+        "72700"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Residencial Ave del Paraiso",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Residencial Los Colorines",
+      "postal_code": [
+        "72700"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Residencial Rothenburg",
+      "postal_code": [
+        "72710"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Residencial San Agustin",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Residencial San Pedro",
+      "postal_code": [
+        "72706"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Rincon de San Lorenzo",
+      "postal_code": [
+        "72710"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Sanctorum",
+      "postal_code": [
+        "72730"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "San Diego los Saucera",
+      "postal_code": [
+        "72705"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "San Diego los Sauces",
+      "postal_code": [
+        "72705"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "San Jacinto",
+      "postal_code": [
+        "72710"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "San Jorge",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "San Juan Cuautlancingo",
+      "postal_code": [
+        "72700"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "72713"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "San Lorenzo Almecatla",
+      "postal_code": [
+        "72710"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "San Luis",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "72700"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "San Miguel Apetlachica",
+      "postal_code": [
+        "72713"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "San Miguel Cuentla",
+      "postal_code": [
+        "72710"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Santa Cruz Cuautlancingo",
+      "postal_code": [
+        "72725"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "72702"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Secoya Residencial",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Terra Residencial",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Tribeca",
+      "postal_code": [
+        "72707"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Ventana del angel",
+      "postal_code": [
+        "72706"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Ventana Residencial",
+      "postal_code": [
+        "72706"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Verde",
+      "postal_code": [
+        "72705"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villa Cipres (Antes del Rey)",
+      "postal_code": [
+        "72705"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villa de Zavaleta I",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villa de Zavaleta II",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villa Olimpica",
+      "postal_code": [
+        "72724"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas Alcanfores",
+      "postal_code": [
+        "72702"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas Capri",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas Chautenco",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas Citlali",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas Dali",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas de Cuautlancingo",
+      "postal_code": [
+        "72706"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas de la Hacienda",
+      "postal_code": [
+        "72700"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas del Alto",
+      "postal_code": [
+        "72707"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas del Rincon",
+      "postal_code": [
+        "72705"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas de Morillotla",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas de San Facundo",
+      "postal_code": [
+        "72700"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas de San Facundo II",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas de San Juan",
+      "postal_code": [
+        "72705"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas de Santiago",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas de Santiago II",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas de Xalatla",
+      "postal_code": [
+        "72723"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas el Marques",
+      "postal_code": [
+        "72700"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas la Escondida",
+      "postal_code": [
+        "72700"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas Mediterraneo",
+      "postal_code": [
+        "72706"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas Miro",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas Palermo",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas Paraiso",
+      "postal_code": [
+        "72705"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas Quetzalcoatl",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas San Antonio",
+      "postal_code": [
+        "72703"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas San Carlos",
+      "postal_code": [
+        "72713",
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas San Francisco",
+      "postal_code": [
+        "72702"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas San Jacinto",
+      "postal_code": [
+        "72710"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas San Joaquin I",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas San Joaquin II",
+      "postal_code": [
+        "72704"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas San Jose",
+      "postal_code": [
+        "72703"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas San Jose II",
+      "postal_code": [
+        "72703"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas San Juan",
+      "postal_code": [
+        "72700"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas San Pedro",
+      "postal_code": [
+        "72703"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas Santa Monica",
+      "postal_code": [
+        "72706"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas Torres Bodet",
+      "postal_code": [
+        "72702"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas Uranga",
+      "postal_code": [
+        "72702"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Villas Xochitl",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Virreyes",
+      "postal_code": [
+        "72700"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Viva H 1998",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Viva II",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Viva III",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Viveros de Santorum",
+      "postal_code": [
+        "72713"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Xalatla",
+      "postal_code": [
+        "72700"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Xaltipa",
+      "postal_code": [
+        "72720"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Xel-hua",
+      "postal_code": [
+        "72735"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Zayolan",
+      "postal_code": [
+        "72706"
+      ]
+    },
+    {
+      "city": "Cuautlancingo",
+      "colonia": "Zayolan II",
+      "postal_code": [
+        "72706"
+      ]
+    }
+  ]
+}

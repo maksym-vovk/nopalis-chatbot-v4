@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Santa Maria Ecatepec",
+      "colonia": "La Reforma",
+      "postal_code": [
+        "70561"
+      ]
+    },
+    {
+      "city": "Santa Maria Ecatepec",
+      "colonia": "San Juan Acaltepec",
+      "postal_code": [
+        "70563"
+      ]
+    },
+    {
+      "city": "Santa Maria Ecatepec",
+      "colonia": "San Lorenzo Jilotepequillo",
+      "postal_code": [
+        "70565"
+      ]
+    },
+    {
+      "city": "Santa Maria Ecatepec",
+      "colonia": "Santa Maria Ecatepec",
+      "postal_code": [
+        "70565"
+      ]
+    },
+    {
+      "city": "Santa Maria Ecatepec",
+      "colonia": "Santa Maria Zapotitlan",
+      "postal_code": [
+        "70560"
+      ]
+    },
+    {
+      "city": "Santa Maria Ecatepec",
+      "colonia": "Santo Tomas Teipan",
+      "postal_code": [
+        "70569"
+      ]
+    }
+  ]
+}

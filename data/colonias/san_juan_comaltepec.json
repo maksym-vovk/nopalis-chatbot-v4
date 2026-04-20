@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "San Juan Comaltepec",
+      "colonia": "Hondura Lucero",
+      "postal_code": [
+        "68997"
+      ]
+    },
+    {
+      "city": "San Juan Comaltepec",
+      "colonia": "Lachixova",
+      "postal_code": [
+        "68997"
+      ]
+    },
+    {
+      "city": "San Juan Comaltepec",
+      "colonia": "San Isidro Tres Arroyos",
+      "postal_code": [
+        "68995"
+      ]
+    },
+    {
+      "city": "San Juan Comaltepec",
+      "colonia": "San Juan Comaltepec",
+      "postal_code": [
+        "68990"
+      ]
+    },
+    {
+      "city": "San Juan Comaltepec",
+      "colonia": "San Juan Lealao",
+      "postal_code": [
+        "68990"
+      ]
+    }
+  ]
+}

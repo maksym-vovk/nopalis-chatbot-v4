@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Homun",
+      "colonia": "Homun",
+      "postal_code": [
+        "97580"
+      ]
+    },
+    {
+      "city": "Homun",
+      "colonia": "Polaban",
+      "postal_code": [
+        "97583"
+      ]
+    },
+    {
+      "city": "Homun",
+      "colonia": "San Isidro Ochil",
+      "postal_code": [
+        "97586"
+      ]
+    },
+    {
+      "city": "Homun",
+      "colonia": "Viva",
+      "postal_code": [
+        "97580"
+      ]
+    },
+    {
+      "city": "Homun",
+      "colonia": "Yalahau",
+      "postal_code": [
+        "97585"
+      ]
+    }
+  ]
+}

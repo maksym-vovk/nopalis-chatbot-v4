@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "city": "Chavinda",
+      "colonia": "Chavinda",
+      "postal_code": [
+        "59580"
+      ]
+    },
+    {
+      "city": "Chavinda",
+      "colonia": "El Tepehuaje",
+      "postal_code": [
+        "59595"
+      ]
+    },
+    {
+      "city": "Chavinda",
+      "colonia": "La Cuestita",
+      "postal_code": [
+        "59593"
+      ]
+    },
+    {
+      "city": "Chavinda",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "59590"
+      ]
+    },
+    {
+      "city": "Chavinda",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "59594"
+      ]
+    },
+    {
+      "city": "Chavinda",
+      "colonia": "Magallanes",
+      "postal_code": [
+        "59593"
+      ]
+    },
+    {
+      "city": "Chavinda",
+      "colonia": "San Juan Palmira",
+      "postal_code": [
+        "59590"
+      ]
+    }
+  ]
+}

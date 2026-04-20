@@ -1,0 +1,781 @@
+{
+  "data": [
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Ampliacion el Rosario",
+      "postal_code": [
+        "54407"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Ampliacion Granjas de Guadalupe",
+      "postal_code": [
+        "54474"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Ampliacion Vista Hermosa",
+      "postal_code": [
+        "54414"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Aquiles Cordova Moran",
+      "postal_code": [
+        "54407"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Arcoiris",
+      "postal_code": [
+        "54467"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Azotlan Parte Alta",
+      "postal_code": [
+        "54417"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Azotlan Parte Baja",
+      "postal_code": [
+        "54417"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Barron",
+      "postal_code": [
+        "54402"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "54405"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Benito Juarez 1a. Seccion (Cabecera Municipal)",
+      "postal_code": [
+        "54400"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Benito Juarez Barron",
+      "postal_code": [
+        "54469"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Bosques de la Colmena",
+      "postal_code": [
+        "54476"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Bosques de San Nicolas",
+      "postal_code": [
+        "54449"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "54414"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Bulevares del Lago",
+      "postal_code": [
+        "54473"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Caja de Agua",
+      "postal_code": [
+        "54460"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Campestre Liberacion",
+      "postal_code": [
+        "54473"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Cantaros I",
+      "postal_code": [
+        "54466"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Cantaros II",
+      "postal_code": [
+        "54466"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Cantaros III",
+      "postal_code": [
+        "54416"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Cinco de Febrero",
+      "postal_code": [
+        "54413"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Ciudad Campestre",
+      "postal_code": [
+        "54435"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Clara Cordova Moran",
+      "postal_code": [
+        "54474"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Colonial del Lago",
+      "postal_code": [
+        "54476"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Cumbres",
+      "postal_code": [
+        "54416"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "De la Luz",
+      "postal_code": [
+        "54448"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "El Esclavo",
+      "postal_code": [
+        "54448"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "El Gavillero",
+      "postal_code": [
+        "54459"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "El Globo",
+      "postal_code": [
+        "54410"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "54448"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Elsa Cordova Moran",
+      "postal_code": [
+        "54467"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "El Tanque",
+      "postal_code": [
+        "54463"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "El Trafico",
+      "postal_code": [
+        "54435"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Francisco I. Madero 1a. Seccion",
+      "postal_code": [
+        "54467"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Francisco I. Madero Seccion 20",
+      "postal_code": [
+        "54467"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Francisco Sarabia 1a. Seccion",
+      "postal_code": [
+        "54473"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Francisco Sarabia 2a. Seccion",
+      "postal_code": [
+        "54473"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Fuentes de San Jose",
+      "postal_code": [
+        "54466"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Granjas de Guadalupe 1a. Seccion",
+      "postal_code": [
+        "54474"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "54539"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Guadalupe San Ildefonso",
+      "postal_code": [
+        "54413"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Hacienda Santo Tomas",
+      "postal_code": [
+        "54476"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "54434"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Himno Nacional",
+      "postal_code": [
+        "54435"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Ignacio Capetillo",
+      "postal_code": [
+        "54434"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "54457"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Independencia 1a. Seccion",
+      "postal_code": [
+        "54409"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Independencia 2a. Seccion",
+      "postal_code": [
+        "54409"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Jorge Jimenez Cantu",
+      "postal_code": [
+        "54408"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Joya del Tejocote",
+      "postal_code": [
+        "54460"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "La Colmena",
+      "postal_code": [
+        "54475"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "La Concepcion",
+      "postal_code": [
+        "54460"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "La Concepcion (El Escobal)",
+      "postal_code": [
+        "54464"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "La Estancia",
+      "postal_code": [
+        "54439"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Libertad 1a. Seccion",
+      "postal_code": [
+        "54407"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Libertad 2a Seccion",
+      "postal_code": [
+        "54407"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Llano Grande Atzacaputzaltongo",
+      "postal_code": [
+        "54435"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Llano Grande (Nuevo Ejido)",
+      "postal_code": [
+        "54463"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Loma de Chapultepec",
+      "postal_code": [
+        "54430"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Loma de Guadalupe (La Biznaga)",
+      "postal_code": [
+        "54449"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Loma de la Cruz 1a. Seccion",
+      "postal_code": [
+        "54475"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Loma del Rio",
+      "postal_code": [
+        "54463"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Loma de San Jose",
+      "postal_code": [
+        "54455"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Loma Larga",
+      "postal_code": [
+        "54459"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Lomas de Guadalupe",
+      "postal_code": [
+        "54417"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Lomas del Lago",
+      "postal_code": [
+        "54476"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Los Manantiales",
+      "postal_code": [
+        "54420"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Los Tubos",
+      "postal_code": [
+        "54460"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Mirador del Conde",
+      "postal_code": [
+        "54467"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Miranda",
+      "postal_code": [
+        "54430"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Morelos",
+      "postal_code": [
+        "54455"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Paseo de San Carlos",
+      "postal_code": [
+        "54466"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Progreso Industrial",
+      "postal_code": [
+        "54460"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Pueblo Nuevo",
+      "postal_code": [
+        "54448"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Pueblo Viejo",
+      "postal_code": [
+        "54476"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Puentecillas Cahuacan",
+      "postal_code": [
+        "54430"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Puerto Magu",
+      "postal_code": [
+        "54448"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Quinto Barrio (Ejido Cahuacan)",
+      "postal_code": [
+        "54430"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "54476"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Rinconada Lago de Guadalupe",
+      "postal_code": [
+        "54416"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "54466"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "San Francisco Magu",
+      "postal_code": [
+        "54440"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "San Ildefonso",
+      "postal_code": [
+        "54470"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "San Isidro La Paz 1a. Seccion",
+      "postal_code": [
+        "54477"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "San Isidro La Paz 2a. Seccion",
+      "postal_code": [
+        "54477"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "San Isidro La Paz 3a. Seccion",
+      "postal_code": [
+        "54477"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "San Jose",
+      "postal_code": [
+        "54440"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "San Jose el Vidrio",
+      "postal_code": [
+        "54449"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "San Jose los Barbechos (Los Barbechos)",
+      "postal_code": [
+        "54430"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "San Juan",
+      "postal_code": [
+        "54413"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "San Juan de las Tablas",
+      "postal_code": [
+        "54420"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "San Juan Tlihuaca",
+      "postal_code": [
+        "54466"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "54409"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "54449"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "San Miguel Hila",
+      "postal_code": [
+        "54424"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "San Pablo de la Cruz",
+      "postal_code": [
+        "54460"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Santa Anita",
+      "postal_code": [
+        "54434"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Santa Anita la Bolsa",
+      "postal_code": [
+        "54416"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Santa Maria Magdalena Cahuacan",
+      "postal_code": [
+        "54430"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Sitio 217",
+      "postal_code": [
+        "54476"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Torres Peregrina",
+      "postal_code": [
+        "54409"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Transfiguracion",
+      "postal_code": [
+        "54439"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Unidad Magisterial",
+      "postal_code": [
+        "54466"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Veintidos de Febrero",
+      "postal_code": [
+        "54435"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Vicente Guerrero 1a. Seccion",
+      "postal_code": [
+        "54425"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Vicente Guerrero 2a. Seccion",
+      "postal_code": [
+        "54425"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Vicente Guerrero Barron",
+      "postal_code": [
+        "54426"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Villas del Bosque",
+      "postal_code": [
+        "54460"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Vista Hermosa 1a. Seccion",
+      "postal_code": [
+        "54414"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Vista Hermosa 2a. Seccion",
+      "postal_code": [
+        "54414"
+      ]
+    },
+    {
+      "city": "Nicolas Romero",
+      "colonia": "Vista Verde",
+      "postal_code": [
+        "54474"
+      ]
+    }
+  ]
+}

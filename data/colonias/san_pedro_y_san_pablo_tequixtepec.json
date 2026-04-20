@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "city": "San Pedro y San Pablo Tequixtepec",
+      "colonia": "San Francisco Huapanapam",
+      "postal_code": [
+        "69032"
+      ]
+    },
+    {
+      "city": "San Pedro y San Pablo Tequixtepec",
+      "colonia": "San Juan Yolotepec",
+      "postal_code": [
+        "69031"
+      ]
+    },
+    {
+      "city": "San Pedro y San Pablo Tequixtepec",
+      "colonia": "San Miguel Ixtapam",
+      "postal_code": [
+        "69033"
+      ]
+    },
+    {
+      "city": "San Pedro y San Pablo Tequixtepec",
+      "colonia": "San Pedro y San Pablo Tequixtepec",
+      "postal_code": [
+        "69030"
+      ]
+    },
+    {
+      "city": "San Pedro y San Pablo Tequixtepec",
+      "colonia": "Santa Catalina Chinango",
+      "postal_code": [
+        "69034"
+      ]
+    },
+    {
+      "city": "San Pedro y San Pablo Tequixtepec",
+      "colonia": "Santa Maria Mixquitlahuaca",
+      "postal_code": [
+        "69038"
+      ]
+    },
+    {
+      "city": "San Pedro y San Pablo Tequixtepec",
+      "colonia": "Tequixtepec",
+      "postal_code": [
+        "69030"
+      ]
+    }
+  ]
+}

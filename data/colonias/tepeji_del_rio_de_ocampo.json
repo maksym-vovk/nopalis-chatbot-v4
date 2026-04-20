@@ -1,0 +1,515 @@
+{
+  "data": [
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Atengo",
+      "postal_code": [
+        "42855"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "42875"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Caltengo",
+      "postal_code": [
+        "42855"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Canada de Madero",
+      "postal_code": [
+        "42858"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Canoas",
+      "postal_code": [
+        "42865"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Cantera de Villagran",
+      "postal_code": [
+        "42890"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Caracol",
+      "postal_code": [
+        "42855"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Cerro Colorado",
+      "postal_code": [
+        "42890"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Dos Penas",
+      "postal_code": [
+        "42875"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "El Banco (El Banco Vega de Madero)",
+      "postal_code": [
+        "42865"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "El Capulin",
+      "postal_code": [
+        "42885"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "42854"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "42885"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "42852"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "El Eden",
+      "postal_code": [
+        "42854"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "El Lienzo",
+      "postal_code": [
+        "42863"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "El Manantial",
+      "postal_code": [
+        "42852"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "42854"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "42865"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Golondrinas",
+      "postal_code": [
+        "42895"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Hacienda Xajay",
+      "postal_code": [
+        "42895"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "INFONAVIT El Cerrito",
+      "postal_code": [
+        "42854"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "42890"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "La Estancia 1a. Seccion Santa Maria Magdalena",
+      "postal_code": [
+        "42865"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "La Flor",
+      "postal_code": [
+        "42860"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "La Loma",
+      "postal_code": [
+        "42894"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "La Loma 2a. Seccion",
+      "postal_code": [
+        "42893"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "La Placa",
+      "postal_code": [
+        "42883"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Las Colonias",
+      "postal_code": [
+        "42894"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Lomas de la Cantera",
+      "postal_code": [
+        "42853"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Lomas Tinajas",
+      "postal_code": [
+        "42854"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Los Tuneles",
+      "postal_code": [
+        "42876"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Lumbrera 18",
+      "postal_code": [
+        "42873"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Lumbrera 19 (Barranca del Muerto)",
+      "postal_code": [
+        "42874"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Lumbrera 20",
+      "postal_code": [
+        "42874"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Melchor Ocampo (El Salto)",
+      "postal_code": [
+        "42870"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Miraflores",
+      "postal_code": [
+        "42865"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Montecillo",
+      "postal_code": [
+        "42890"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Noxtongo",
+      "postal_code": [
+        "42855"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "42865"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Parque Industrial Tepeji",
+      "postal_code": [
+        "42884"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Paseos Tepeji",
+      "postal_code": [
+        "42854"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Praderas",
+      "postal_code": [
+        "42854"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Presa Escondida",
+      "postal_code": [
+        "42852"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Presa Escondida 2a. Seccion Hacienda la Nopalera",
+      "postal_code": [
+        "42875"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Rancho la Concha",
+      "postal_code": [
+        "42855"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Raramuri",
+      "postal_code": [
+        "42884"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "San Buenaventura",
+      "postal_code": [
+        "42890"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "42854"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "San Ignacio Nopala",
+      "postal_code": [
+        "42890"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "San Ildefonso",
+      "postal_code": [
+        "42860"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "San Jose Piedra Gorda",
+      "postal_code": [
+        "42894"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "San Juan Otlaxpa",
+      "postal_code": [
+        "42854"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "San Mateo",
+      "postal_code": [
+        "42853"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "San Mateo Buenavista",
+      "postal_code": [
+        "42890"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "San Mateo Segunda Seccion",
+      "postal_code": [
+        "42853"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Santa Ana Azcapotzaltongo",
+      "postal_code": [
+        "42860"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Santa Maria Magdalena",
+      "postal_code": [
+        "42860"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Santa Maria Quelites",
+      "postal_code": [
+        "42890"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Santiago Tlaltepoxco",
+      "postal_code": [
+        "42873"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Santiago Tlapanaloya",
+      "postal_code": [
+        "42880"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Santiago Tlautla",
+      "postal_code": [
+        "42860"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Taxhido",
+      "postal_code": [
+        "42854"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Tianguistengo",
+      "postal_code": [
+        "42852"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Tianguistengo (La Romera)",
+      "postal_code": [
+        "42852"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Tinajas",
+      "postal_code": [
+        "42854"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Tinajas Segunda Seccion",
+      "postal_code": [
+        "42885"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Tlaxinacalpan",
+      "postal_code": [
+        "42855"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Unidad Obrera Habitacional C.T.M.",
+      "postal_code": [
+        "42852"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Vega de Madero (El Panal)",
+      "postal_code": [
+        "42866"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "42852"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Xaisnal",
+      "postal_code": [
+        "42885"
+      ]
+    },
+    {
+      "city": "Tepeji del Rio de Ocampo",
+      "colonia": "Xalpa",
+      "postal_code": [
+        "42890"
+      ]
+    }
+  ]
+}

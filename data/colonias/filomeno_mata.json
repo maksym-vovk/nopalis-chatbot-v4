@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Filomeno Mata",
+      "colonia": "Eleodoro Davila",
+      "postal_code": [
+        "93100"
+      ]
+    },
+    {
+      "city": "Filomeno Mata",
+      "colonia": "Filomeno Mata Centro",
+      "postal_code": [
+        "93100"
+      ]
+    },
+    {
+      "city": "Filomeno Mata",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "93110"
+      ]
+    },
+    {
+      "city": "Filomeno Mata",
+      "colonia": "Los Vazquez",
+      "postal_code": [
+        "93100"
+      ]
+    }
+  ]
+}

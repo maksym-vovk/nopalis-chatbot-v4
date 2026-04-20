@@ -1,0 +1,1280 @@
+{
+  "data": [
+    {
+      "city": "Colima",
+      "colonia": "Acatitan",
+      "postal_code": [
+        "28645"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Andares del Jazmin",
+      "postal_code": [
+        "28047"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "28077"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Arboledas de La Hacienda",
+      "postal_code": [
+        "28078"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "28070"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Bosques del Sur",
+      "postal_code": [
+        "28089"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "28017"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Burocratas Municipales",
+      "postal_code": [
+        "28040"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Camino Real",
+      "postal_code": [
+        "28040",
+        "28047"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Cardona",
+      "postal_code": [
+        "28048"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Colima Centro",
+      "postal_code": [
+        "28000"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Colinas de Santa Barbara",
+      "postal_code": [
+        "28017"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Colinas de Santa Fe",
+      "postal_code": [
+        "28017"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Corralitos",
+      "postal_code": [
+        "28634"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "28048"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "De los Trabajadores",
+      "postal_code": [
+        "28067"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Del Periodista",
+      "postal_code": [
+        "28070"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Diamantes",
+      "postal_code": [
+        "28047"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Ejidal",
+      "postal_code": [
+        "28620"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "El Alpuyeque",
+      "postal_code": [
+        "28085"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "El Alpuyequito",
+      "postal_code": [
+        "28626"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "El Amarradero",
+      "postal_code": [
+        "28600"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "El Astillero de Abajo",
+      "postal_code": [
+        "28634"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "El Astillero de Arriba",
+      "postal_code": [
+        "28634"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "El Bordo",
+      "postal_code": [
+        "28630"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "El Chanal",
+      "postal_code": [
+        "28610"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "El Diezmo",
+      "postal_code": [
+        "28018"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "El Mirador de Colima",
+      "postal_code": [
+        "28047"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "El Moralete",
+      "postal_code": [
+        "28060"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "28048"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "28019"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "El Prado",
+      "postal_code": [
+        "28078"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "El Tecolote",
+      "postal_code": [
+        "28090"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "El Tivoli",
+      "postal_code": [
+        "28080"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "El Yaqui",
+      "postal_code": [
+        "28078"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Estapilla",
+      "postal_code": [
+        "28600"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Fatima",
+      "postal_code": [
+        "28050"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "FOVISSSTE",
+      "postal_code": [
+        "28044"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Francisco I Madero",
+      "postal_code": [
+        "28047"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "28063"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Girasoles",
+      "postal_code": [
+        "28018"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Gregorio Torres Quintero",
+      "postal_code": [
+        "28079"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Guadalajarita",
+      "postal_code": [
+        "28030"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Gustavo Vazquez Montes",
+      "postal_code": [
+        "28048"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Hacienda El Balcon",
+      "postal_code": [
+        "28075"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Hacienda Real",
+      "postal_code": [
+        "28018"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "28037"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Huertas del Sol",
+      "postal_code": [
+        "28035"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "28048"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "IKAL",
+      "postal_code": [
+        "28047"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "INDECO Albarrada",
+      "postal_code": [
+        "28078"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "INFONAVIT Camino Real",
+      "postal_code": [
+        "28043"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "INFONAVIT La Estancia",
+      "postal_code": [
+        "28040"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Insurgentes",
+      "postal_code": [
+        "28048"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Jardines de Guadalupe",
+      "postal_code": [
+        "28023"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Jardines de La Corregidora",
+      "postal_code": [
+        "28030"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Jardines de La Estancia",
+      "postal_code": [
+        "28047"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Jardines de La Hacienda",
+      "postal_code": [
+        "28017"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Jardines de las Fuentes",
+      "postal_code": [
+        "28078"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Jardines de las Lomas",
+      "postal_code": [
+        "28014"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Jardines del Sol",
+      "postal_code": [
+        "28048"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Jardines Residenciales",
+      "postal_code": [
+        "28030"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Jardines Vista Hermosa",
+      "postal_code": [
+        "28017"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "J. Jesus Rios",
+      "postal_code": [
+        "28620"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Josefa Ortiz de Dominguez",
+      "postal_code": [
+        "28047"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Jose Pimentel Llerenas",
+      "postal_code": [
+        "28077"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Juana de Asbaje",
+      "postal_code": [
+        "28085"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "La Albarrada",
+      "postal_code": [
+        "28078"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "La Armonia",
+      "postal_code": [
+        "28020"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "La Cantera",
+      "postal_code": [
+        "28018"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "La Capacha",
+      "postal_code": [
+        "28613"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "28085"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "La Estancia",
+      "postal_code": [
+        "28048"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "La Guadalupe",
+      "postal_code": [
+        "28048"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "La Higuerita",
+      "postal_code": [
+        "28655"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "La Loma de Ignacio Allende",
+      "postal_code": [
+        "28635"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "La Media Luna",
+      "postal_code": [
+        "28633"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "La Rivera",
+      "postal_code": [
+        "28078"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "28047"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Las Bugambilias",
+      "postal_code": [
+        "28090"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Las Fuentes",
+      "postal_code": [
+        "28078"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Las Golondrinas",
+      "postal_code": [
+        "28629"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Las Guasimas (Las Borregas)",
+      "postal_code": [
+        "28646"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Las Haciendas",
+      "postal_code": [
+        "28063"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "28017"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Las Pergolas",
+      "postal_code": [
+        "28018"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Las Viboras",
+      "postal_code": [
+        "28040"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "La Virgencita",
+      "postal_code": [
+        "28047"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "28047"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Leonardo B Gutierrez",
+      "postal_code": [
+        "28089"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Lo de Villa",
+      "postal_code": [
+        "28620"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Loma de Fatima",
+      "postal_code": [
+        "28627"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Loma de Juarez (El Mezquite)",
+      "postal_code": [
+        "28627"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Lomas de Circunvalacion",
+      "postal_code": [
+        "28010"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Lomas del Valle",
+      "postal_code": [
+        "28017"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Lomas de Santa Elena",
+      "postal_code": [
+        "28047"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Lomas Verdes",
+      "postal_code": [
+        "28017"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Lomas Vistahermosa",
+      "postal_code": [
+        "28016"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "28048"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Los Asmoles",
+      "postal_code": [
+        "28640"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Los Jazmines",
+      "postal_code": [
+        "28048"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Los Mezcales",
+      "postal_code": [
+        "28628"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Los Ortices",
+      "postal_code": [
+        "28647"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "28085"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Los Tepames",
+      "postal_code": [
+        "28600"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Los Viveros",
+      "postal_code": [
+        "28070"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Los Volcanes",
+      "postal_code": [
+        "28063"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "28047"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "28030"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Margaritas",
+      "postal_code": [
+        "28047"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Militar Lomas",
+      "postal_code": [
+        "28010"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Mirador de La Cumbre",
+      "postal_code": [
+        "28048"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Mirador de La Cumbre II",
+      "postal_code": [
+        "28048"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Mirador de La Cumbre III",
+      "postal_code": [
+        "28048"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Moctezuma",
+      "postal_code": [
+        "28048"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Morelos",
+      "postal_code": [
+        "28030"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "28025"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Nuevo",
+      "postal_code": [
+        "28640"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Nuevo Milenio",
+      "postal_code": [
+        "28048"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Nuevo Paraiso",
+      "postal_code": [
+        "28048"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Oriental",
+      "postal_code": [
+        "28046"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Paraiso",
+      "postal_code": [
+        "28048"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Parajes del Sur",
+      "postal_code": [
+        "28079"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Parque Industrial",
+      "postal_code": [
+        "28075"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Parque Royal",
+      "postal_code": [
+        "28017"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Paseo de la Cantera",
+      "postal_code": [
+        "28017"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Paseo de la Hacienda",
+      "postal_code": [
+        "28017"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Paso del Zarco",
+      "postal_code": [
+        "28635"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Patios de Ferrocarril",
+      "postal_code": [
+        "28070"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Piscila",
+      "postal_code": [
+        "28600"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Placetas Estadio",
+      "postal_code": [
+        "28050"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Popular",
+      "postal_code": [
+        "28070"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Privada San Francisco",
+      "postal_code": [
+        "28050"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Privada San Rafael",
+      "postal_code": [
+        "28017"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Puerta de anzar",
+      "postal_code": [
+        "28600"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Puerta del Camino Real",
+      "postal_code": [
+        "28019"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Puerta del Valle",
+      "postal_code": [
+        "28079"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Puerta Paraiso",
+      "postal_code": [
+        "28018"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Quinta El Tivoli",
+      "postal_code": [
+        "28089"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Real de Don Juan",
+      "postal_code": [
+        "28078"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Real la Floresta",
+      "postal_code": [
+        "28047"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Real Vista Hermosa",
+      "postal_code": [
+        "28018"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Real Vista Hermosa III",
+      "postal_code": [
+        "28018"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Residencial Esmeralda",
+      "postal_code": [
+        "28017"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Residencial Esmeralda Norte",
+      "postal_code": [
+        "28017"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Residencial Los Olivos",
+      "postal_code": [
+        "28017"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Residencial Prados del Sur",
+      "postal_code": [
+        "28078"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Residencial Puerta del Sol",
+      "postal_code": [
+        "28017"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Residencial Real Santa Barbara",
+      "postal_code": [
+        "28017"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Residencial San Pablo",
+      "postal_code": [
+        "28060"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Residencial Santa Barbara",
+      "postal_code": [
+        "28017"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Residencial Santa Maria",
+      "postal_code": [
+        "28018"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Residencial Valle Verde",
+      "postal_code": [
+        "28017"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Residencial Victoria",
+      "postal_code": [
+        "28017"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "28047"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Rinconada del Pereyra",
+      "postal_code": [
+        "28077"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Rinconada San Pablo",
+      "postal_code": [
+        "28063"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Rincon del Bosque",
+      "postal_code": [
+        "28050"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Rincon del Colibri",
+      "postal_code": [
+        "28017"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Rivera del Jazmin",
+      "postal_code": [
+        "28047"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "28063"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "San Jose Norte",
+      "postal_code": [
+        "28047"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "San Jose Sur",
+      "postal_code": [
+        "28048"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "28048"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Santa Amalia",
+      "postal_code": [
+        "28048"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "28047"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Santa Gertrudis",
+      "postal_code": [
+        "28017",
+        "28063"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Ticuizitan",
+      "postal_code": [
+        "28600"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Tinajas",
+      "postal_code": [
+        "28600"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Trapichillos",
+      "postal_code": [
+        "28634"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Unidad Antorchista",
+      "postal_code": [
+        "28047"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Valle Dorado",
+      "postal_code": [
+        "28018"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Valle Real",
+      "postal_code": [
+        "28078"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "28048"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Villa de los Pinos",
+      "postal_code": [
+        "28047"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Villa los Prados",
+      "postal_code": [
+        "28025"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Villanova",
+      "postal_code": [
+        "28017"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Villa San Sebastian",
+      "postal_code": [
+        "28045"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Villas Colinas",
+      "postal_code": [
+        "28017"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Villas del Bosque",
+      "postal_code": [
+        "28050"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Villas del Sur",
+      "postal_code": [
+        "28079"
+      ]
+    },
+    {
+      "city": "Colima",
+      "colonia": "Villas Primaveras",
+      "postal_code": [
+        "28050"
+      ]
+    }
+  ]
+}

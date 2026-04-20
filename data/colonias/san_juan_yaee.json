@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Juan Yaee",
+      "colonia": "San Juan Yaee",
+      "postal_code": [
+        "68810"
+      ]
+    },
+    {
+      "city": "San Juan Yaee",
+      "colonia": "Santa Maria Lachichina",
+      "postal_code": [
+        "68812"
+      ]
+    },
+    {
+      "city": "San Juan Yaee",
+      "colonia": "Santiago Yagallo",
+      "postal_code": [
+        "68811"
+      ]
+    }
+  ]
+}

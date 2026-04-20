@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "city": "San Julian",
+      "colonia": "23 de Mayo",
+      "postal_code": [
+        "47174"
+      ]
+    },
+    {
+      "city": "San Julian",
+      "colonia": "El Valle",
+      "postal_code": [
+        "47175"
+      ]
+    },
+    {
+      "city": "San Julian",
+      "colonia": "Las Moras",
+      "postal_code": [
+        "47172"
+      ]
+    },
+    {
+      "city": "San Julian",
+      "colonia": "Lomas Del Manantial",
+      "postal_code": [
+        "47174"
+      ]
+    },
+    {
+      "city": "San Julian",
+      "colonia": "San Julian Centro",
+      "postal_code": [
+        "47170"
+      ]
+    },
+    {
+      "city": "San Julian",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "47173"
+      ]
+    },
+    {
+      "city": "San Julian",
+      "colonia": "Veredas",
+      "postal_code": [
+        "47179"
+      ]
+    }
+  ]
+}

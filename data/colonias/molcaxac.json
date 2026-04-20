@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Molcaxac",
+      "colonia": "Molcaxac",
+      "postal_code": [
+        "75650"
+      ]
+    },
+    {
+      "city": "Molcaxac",
+      "colonia": "San Andres Mimiahuapan",
+      "postal_code": [
+        "75655"
+      ]
+    },
+    {
+      "city": "Molcaxac",
+      "colonia": "San Jose",
+      "postal_code": [
+        "75650"
+      ]
+    },
+    {
+      "city": "Molcaxac",
+      "colonia": "San Jose de Gracia",
+      "postal_code": [
+        "75659"
+      ]
+    },
+    {
+      "city": "Molcaxac",
+      "colonia": "San Luis Tehuizotla",
+      "postal_code": [
+        "75657"
+      ]
+    },
+    {
+      "city": "Molcaxac",
+      "colonia": "Santa Cruz Huitziltepec",
+      "postal_code": [
+        "75653"
+      ]
+    }
+  ]
+}

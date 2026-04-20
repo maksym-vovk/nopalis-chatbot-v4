@@ -1,0 +1,491 @@
+{
+  "data": [
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Agraria",
+      "postal_code": [
+        "71835"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Balbuena",
+      "postal_code": [
+        "71835"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "71800",
+        "71803",
+        "71834"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Buena Vista",
+      "postal_code": [
+        "71803"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Camalotillo",
+      "postal_code": [
+        "71804"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Cantarrana",
+      "postal_code": [
+        "71800"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Chacahua",
+      "postal_code": [
+        "71814"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Chacalapa",
+      "postal_code": [
+        "71807"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Charco Redondo",
+      "postal_code": [
+        "71800"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Costa Azul",
+      "postal_code": [
+        "71837"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "71835"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "De La Playa",
+      "postal_code": [
+        "71800"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "De La Rosalia",
+      "postal_code": [
+        "71800"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "De las Flores",
+      "postal_code": [
+        "71800"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Del Chivo",
+      "postal_code": [
+        "71800"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Duva - Yoo",
+      "postal_code": [
+        "71807"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "El Azufre",
+      "postal_code": [
+        "71814"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "El Cacalote",
+      "postal_code": [
+        "71838"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "El Corozal",
+      "postal_code": [
+        "71835"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "El Faisan",
+      "postal_code": [
+        "71804"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "El Gachupin",
+      "postal_code": [
+        "71806"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "71833"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "71803"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "71803"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "El Venado",
+      "postal_code": [
+        "71838"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "El Zanjon",
+      "postal_code": [
+        "71840"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "El Zapotalito",
+      "postal_code": [
+        "71817"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "71803",
+        "71836"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Grande",
+      "postal_code": [
+        "71800"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "71847"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "71835"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "La Cruz Grande",
+      "postal_code": [
+        "71800"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "La Guadalupana",
+      "postal_code": [
+        "71803"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "La Luz",
+      "postal_code": [
+        "71801"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "La Pastoria",
+      "postal_code": [
+        "71815"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "La Perla",
+      "postal_code": [
+        "71835"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "La Plata",
+      "postal_code": [
+        "71847"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "71834"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "71835"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Las Palmas (Arena Amarilla Kilometro 120)",
+      "postal_code": [
+        "71847"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "La Teja",
+      "postal_code": [
+        "71804"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "La Torre",
+      "postal_code": [
+        "71834"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "71836",
+        "71837"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Linda Vista",
+      "postal_code": [
+        "71803"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "71834"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Los Tamarindos",
+      "postal_code": [
+        "71803"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Penas Negras",
+      "postal_code": [
+        "71821"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Progreso",
+      "postal_code": [
+        "71803"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Rio Grande o Piedra Parada Centro",
+      "postal_code": [
+        "71830"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Roma",
+      "postal_code": [
+        "71830"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "San Francisco de Abajo",
+      "postal_code": [
+        "71805"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "San Francisco de Arriba",
+      "postal_code": [
+        "71804"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "San Isidro Llano Grande",
+      "postal_code": [
+        "71847"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "San Jose del Progreso",
+      "postal_code": [
+        "71803"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "San Jose Manialtepec",
+      "postal_code": [
+        "71831"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "San Marquitos",
+      "postal_code": [
+        "71803"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "San Martin Caballero",
+      "postal_code": [
+        "71838"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "71809"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Santa Ana Tututepec",
+      "postal_code": [
+        "71820"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Santa Cruz Tututepec",
+      "postal_code": [
+        "71800"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Santa Maria Acatepec",
+      "postal_code": [
+        "71826"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Santa Rosa de Lima Centro",
+      "postal_code": [
+        "71810"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Santiago Jocotepec",
+      "postal_code": [
+        "71826"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "San Vicente",
+      "postal_code": [
+        "71803"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Tepeyac",
+      "postal_code": [
+        "71830"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Valle Verde",
+      "postal_code": [
+        "71836"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "71835"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Villa de Tututepec de Melchor Ocampo",
+      "postal_code": [
+        "71800"
+      ]
+    },
+    {
+      "city": "Villa de Tututepec",
+      "colonia": "Villa las Flores",
+      "postal_code": [
+        "71837"
+      ]
+    }
+  ]
+}

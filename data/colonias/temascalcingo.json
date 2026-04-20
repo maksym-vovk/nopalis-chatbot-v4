@@ -1,0 +1,536 @@
+{
+  "data": [
+    {
+      "city": "Temascalcingo",
+      "colonia": "Ahuacatitlan Centro",
+      "postal_code": [
+        "50413"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Ahuacatitlan Cuarto y Quinto Cuartel",
+      "postal_code": [
+        "50413"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Andaro",
+      "postal_code": [
+        "50415"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Bachini",
+      "postal_code": [
+        "50420"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Barrio de Shelle",
+      "postal_code": [
+        "50414"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Barrio las Penas",
+      "postal_code": [
+        "50434"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Bombaro",
+      "postal_code": [
+        "50420"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Bonsho",
+      "postal_code": [
+        "50410"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Boqui",
+      "postal_code": [
+        "50420"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Boshesda",
+      "postal_code": [
+        "50420"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Calderas",
+      "postal_code": [
+        "50444"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Cerritos de Cardenas",
+      "postal_code": [
+        "50444"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Cuadrilla",
+      "postal_code": [
+        "50433"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Del Calvario",
+      "postal_code": [
+        "50400"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Del Socorro",
+      "postal_code": [
+        "50410"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "El Garay",
+      "postal_code": [
+        "50446"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "El Rodeo",
+      "postal_code": [
+        "50445"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "El Tejocote (La Loma)",
+      "postal_code": [
+        "50447"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Estacion Solis (Estacion Alberto Garduno)",
+      "postal_code": [
+        "50435"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Ex-hacienda de Solis",
+      "postal_code": [
+        "50443"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Guadalupe Ixtapa",
+      "postal_code": [
+        "50447"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Ixtapa",
+      "postal_code": [
+        "50447"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Juanacatlan",
+      "postal_code": [
+        "50430"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "La Corona",
+      "postal_code": [
+        "50415"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "La Estanzuela",
+      "postal_code": [
+        "50434"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "La Huerta",
+      "postal_code": [
+        "50433"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "La Loma de San Mateo",
+      "postal_code": [
+        "50414"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "La Magdalena",
+      "postal_code": [
+        "50410"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "La Magdalena Bosha",
+      "postal_code": [
+        "50413"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "La Magdalena Cruz Blanca",
+      "postal_code": [
+        "50410"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "La Mesa del Venado",
+      "postal_code": [
+        "50445"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Los Chamacueros",
+      "postal_code": [
+        "50434"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Los Pastores (Pastores Segundo Barrio)",
+      "postal_code": [
+        "50423"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "50443"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Maro",
+      "postal_code": [
+        "50410"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Mesa de Bani",
+      "postal_code": [
+        "50434"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Mesa de Bombaro",
+      "postal_code": [
+        "50420"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Mesa de los Garnica",
+      "postal_code": [
+        "50434"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Mesa de Santiago (La Mesa)",
+      "postal_code": [
+        "50434"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Mogote de la Campana",
+      "postal_code": [
+        "50444"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Pastores Primer Barrio",
+      "postal_code": [
+        "50423"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Pozo de las Palomas",
+      "postal_code": [
+        "50445"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Pueblo Nuevo Solis (La Estancia)",
+      "postal_code": [
+        "50440"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Puente",
+      "postal_code": [
+        "50415"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Puruahua",
+      "postal_code": [
+        "50410"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "San Antonio Solis",
+      "postal_code": [
+        "50446"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "San Francisco Solis",
+      "postal_code": [
+        "50433"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "San Francisco Tepeolulco",
+      "postal_code": [
+        "50424"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "San Francisco Tepeolulco Primer Barrio",
+      "postal_code": [
+        "50424"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "San Francisco Tepeolulco Segundo Barrio",
+      "postal_code": [
+        "50424"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "San Francisco Tepeolulco Tercer Barrio la Mesa",
+      "postal_code": [
+        "50424"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "San Jose Ixtapa",
+      "postal_code": [
+        "50447"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "San Jose los Reyes",
+      "postal_code": [
+        "50446"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "San Jose Solis",
+      "postal_code": [
+        "50443"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "San Juanico Centro",
+      "postal_code": [
+        "50425"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "San Juanico el Alto (San Juanico)",
+      "postal_code": [
+        "50425"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "San Mateo el Viejo",
+      "postal_code": [
+        "50414"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "San Miguel Solis",
+      "postal_code": [
+        "50443"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "San Nicolas Solis",
+      "postal_code": [
+        "50444"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "San Pedro de la Loma",
+      "postal_code": [
+        "50423"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "San Pedro el Alto",
+      "postal_code": [
+        "50414"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "San Pedro Potla Centro",
+      "postal_code": [
+        "50423"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "San Pedro Potla Primer Barrio Ejido",
+      "postal_code": [
+        "50423"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "San Pedro Potla Segundo Barrio",
+      "postal_code": [
+        "50423"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "San Pedro Potla Tercer Barrio",
+      "postal_code": [
+        "50423"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Santa Ana Yenshu Centro",
+      "postal_code": [
+        "50424"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Santa Ana Yenshu Ejido",
+      "postal_code": [
+        "50424"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Santa Ana Yenshu La Mesa",
+      "postal_code": [
+        "50424"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Santa Lucia (Ejido de San Mateo el Viejo)",
+      "postal_code": [
+        "50414"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Santa Maria Canchesda",
+      "postal_code": [
+        "50434"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Santa Maria Solis",
+      "postal_code": [
+        "50443"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Santa Rosa Solis",
+      "postal_code": [
+        "50444"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Santiago Coachochitlan",
+      "postal_code": [
+        "50420"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Santiago Coachochitlan Barrio del Rincon",
+      "postal_code": [
+        "50420"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "San Vicente Solis",
+      "postal_code": [
+        "50433"
+      ]
+    },
+    {
+      "city": "Temascalcingo",
+      "colonia": "Temascalcingo de Jose Maria Velasco",
+      "postal_code": [
+        "50400"
+      ]
+    }
+  ]
+}

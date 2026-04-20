@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Ixcamilpa de Guerrero",
+      "colonia": "Buenavista de Zapata",
+      "postal_code": [
+        "74770"
+      ]
+    },
+    {
+      "city": "Ixcamilpa de Guerrero",
+      "colonia": "El Organal",
+      "postal_code": [
+        "74777"
+      ]
+    },
+    {
+      "city": "Ixcamilpa de Guerrero",
+      "colonia": "Ixcamilpa",
+      "postal_code": [
+        "74770"
+      ]
+    },
+    {
+      "city": "Ixcamilpa de Guerrero",
+      "colonia": "San Miguel Ahuelitlalpan",
+      "postal_code": [
+        "74773"
+      ]
+    },
+    {
+      "city": "Ixcamilpa de Guerrero",
+      "colonia": "Totecamila",
+      "postal_code": [
+        "74770"
+      ]
+    }
+  ]
+}

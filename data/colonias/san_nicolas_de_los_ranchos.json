@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Nicolas de los Ranchos",
+      "colonia": "San Nicolas los Ranchos",
+      "postal_code": [
+        "74190"
+      ]
+    },
+    {
+      "city": "San Nicolas de los Ranchos",
+      "colonia": "San Pedro Yancuitlalpan",
+      "postal_code": [
+        "74190"
+      ]
+    },
+    {
+      "city": "San Nicolas de los Ranchos",
+      "colonia": "Santiago Xalitzintla",
+      "postal_code": [
+        "74190"
+      ]
+    }
+  ]
+}

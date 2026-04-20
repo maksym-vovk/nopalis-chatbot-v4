@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "San Francisco Tetlanohcan",
+      "colonia": "Dolores Aquiahuac",
+      "postal_code": [
+        "90845"
+      ]
+    },
+    {
+      "city": "San Francisco Tetlanohcan",
+      "colonia": "Jesus Xolalpan",
+      "postal_code": [
+        "90843"
+      ]
+    },
+    {
+      "city": "San Francisco Tetlanohcan",
+      "colonia": "Santa Cruz Matlacahuacan",
+      "postal_code": [
+        "90843"
+      ]
+    },
+    {
+      "city": "San Francisco Tetlanohcan",
+      "colonia": "Vivero Malintzi",
+      "postal_code": [
+        "90847"
+      ]
+    }
+  ]
+}

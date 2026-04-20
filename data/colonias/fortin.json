@@ -1,0 +1,587 @@
+{
+  "data": [
+    {
+      "city": "Fortin",
+      "colonia": "Adalberto Diaz Jacome",
+      "postal_code": [
+        "94472"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Alberto Rosales",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Ampliacion Rincon de San Marcial",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Bosques del Fortin",
+      "postal_code": [
+        "94475"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "94473"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Crucero Nacional",
+      "postal_code": [
+        "94472"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Dante Delgado",
+      "postal_code": [
+        "94473"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "El Bosque",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "94472"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "El Portal",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Fortin",
+      "postal_code": [
+        "94474"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Fortin de las Flores Centro",
+      "postal_code": [
+        "94470"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Fortin Viejo",
+      "postal_code": [
+        "94474"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "FOVISSSTE 2001",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Geovillas de las Flores",
+      "postal_code": [
+        "94472"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Hacienda San Marcial",
+      "postal_code": [
+        "94477"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Hermosa Provincia",
+      "postal_code": [
+        "94472"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "INDECO Shangri-La",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Jacarandas",
+      "postal_code": [
+        "94475"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Jardin",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "94466"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "La Herradura",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "La Llave",
+      "postal_code": [
+        "94472"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "La Salle 1ra. Seccion",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "La Salle 2da. Seccion",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Las Azaleas",
+      "postal_code": [
+        "94473"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "94477",
+        "94477"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Las Fuentes",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Las Gardenias",
+      "postal_code": [
+        "94475"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Linda Vista",
+      "postal_code": [
+        "94475"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Lomas de La Llave",
+      "postal_code": [
+        "94472"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Lomas de San Marcial",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Los Encinos",
+      "postal_code": [
+        "94473"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Los Lienzos",
+      "postal_code": [
+        "94477"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "94477"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Los Tabachines",
+      "postal_code": [
+        "94472"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Los Tulipanes",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Melesio Portillo",
+      "postal_code": [
+        "94475"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Miguel Aleman Velasco",
+      "postal_code": [
+        "94472"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Monte Blanco",
+      "postal_code": [
+        "94466"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Monte Salas",
+      "postal_code": [
+        "94467"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Puente Blanco",
+      "postal_code": [
+        "94466"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Raquet Club",
+      "postal_code": [
+        "94473"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Residencial Bambues",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Residencial Cortijo de San Antonio",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Residencial la Llave",
+      "postal_code": [
+        "94472"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Residencial Los angeles",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Ricardo Ballinas",
+      "postal_code": [
+        "94472"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Rincon de Linda Vista",
+      "postal_code": [
+        "94475"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Rincon de San Marcial",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Sama de Grado",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "San Basilio",
+      "postal_code": [
+        "94477"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "San Camilo",
+      "postal_code": [
+        "94477"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "San Jose",
+      "postal_code": [
+        "94475"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "San Marcial",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "94475"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "San Paulino",
+      "postal_code": [
+        "94477"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Santa Leticia",
+      "postal_code": [
+        "94472",
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Santa Lucia Potrerillo",
+      "postal_code": [
+        "94466"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Santa Martina",
+      "postal_code": [
+        "94477"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Silvestre Aguilar",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Terminal",
+      "postal_code": [
+        "94474"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Tlacotengo",
+      "postal_code": [
+        "94472"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Tres Rios",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Unidad Delfina",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Vicente Lombardo Toledano",
+      "postal_code": [
+        "94472"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Victoria",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Villa de las Flores",
+      "postal_code": [
+        "94477"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Villas de La Llave",
+      "postal_code": [
+        "94472"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Villas de las animas",
+      "postal_code": [
+        "94472"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Villas del Bosque",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Villa Union",
+      "postal_code": [
+        "94469"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Villitas",
+      "postal_code": [
+        "94473"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Yuliana I",
+      "postal_code": [
+        "94477"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Yuliana II",
+      "postal_code": [
+        "94476"
+      ]
+    },
+    {
+      "city": "Fortin",
+      "colonia": "Zacatal",
+      "postal_code": [
+        "94472"
+      ]
+    }
+  ]
+}

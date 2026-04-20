@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Francisco Ozolotepec",
+      "colonia": "San Francisco Ozolotepec",
+      "postal_code": [
+        "70887"
+      ]
+    },
+    {
+      "city": "San Francisco Ozolotepec",
+      "colonia": "San Jose Ozolotepec",
+      "postal_code": [
+        "70889"
+      ]
+    },
+    {
+      "city": "San Francisco Ozolotepec",
+      "colonia": "San Juan Guiavine",
+      "postal_code": [
+        "70888"
+      ]
+    }
+  ]
+}

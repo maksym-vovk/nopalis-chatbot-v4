@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Santiago Llano Grande",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "71660"
+      ]
+    },
+    {
+      "city": "Santiago Llano Grande",
+      "colonia": "San Francisco el Maguey",
+      "postal_code": [
+        "71660"
+      ]
+    },
+    {
+      "city": "Santiago Llano Grande",
+      "colonia": "Santiago Llano Grande",
+      "postal_code": [
+        "71660"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,699 @@
+{
+  "data": [
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Acamalota",
+      "postal_code": [
+        "73903"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Acocogta",
+      "postal_code": [
+        "73904"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Ahuatamimilol",
+      "postal_code": [
+        "73902"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Ajocotzingo",
+      "postal_code": [
+        "73906"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Almoloni",
+      "postal_code": [
+        "73906"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Analco",
+      "postal_code": [
+        "73900"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Atalpa",
+      "postal_code": [
+        "73900"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Atioyan",
+      "postal_code": [
+        "73906"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Buena Vista",
+      "postal_code": [
+        "73902",
+        "73905"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Calatepec",
+      "postal_code": [
+        "73905"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Chicuaco",
+      "postal_code": [
+        "73905"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Chililistipan",
+      "postal_code": [
+        "73905"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Chinampa",
+      "postal_code": [
+        "73906"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Coatectzin",
+      "postal_code": [
+        "73902"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Coatectzin Oriente",
+      "postal_code": [
+        "73902"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Contla",
+      "postal_code": [
+        "73900"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Cougtajapan",
+      "postal_code": [
+        "73905"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Cozolexco",
+      "postal_code": [
+        "73905"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Cuacualaxtla",
+      "postal_code": [
+        "73905"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Cuautlamingo",
+      "postal_code": [
+        "73907"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Dona Mary",
+      "postal_code": [
+        "73906"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "El Canal",
+      "postal_code": [
+        "73905"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "El Carmen Ilita",
+      "postal_code": [
+        "73904"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "73900"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "El Duraznillo",
+      "postal_code": [
+        "73909"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "El Llanito",
+      "postal_code": [
+        "73900"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "73906"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Eloxochitan",
+      "postal_code": [
+        "73903"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "El Pariso",
+      "postal_code": [
+        "73900"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "El Pozo",
+      "postal_code": [
+        "73902"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "El Progreso",
+      "postal_code": [
+        "73905"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Gomez Oriente",
+      "postal_code": [
+        "73906"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Gomez Poniente",
+      "postal_code": [
+        "73906"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Gomez Sur",
+      "postal_code": [
+        "73909"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Gomez Sur (Llano de Toluca)",
+      "postal_code": [
+        "73909"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "73900"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Huaxtla",
+      "postal_code": [
+        "73900"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Hueyacapan",
+      "postal_code": [
+        "73900"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Ilita",
+      "postal_code": [
+        "73904"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Independencia",
+      "postal_code": [
+        "73909"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Ixmatlaco",
+      "postal_code": [
+        "73909"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Jalacinguito",
+      "postal_code": [
+        "73906"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Jiliapa",
+      "postal_code": [
+        "73904"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Jilotepec",
+      "postal_code": [
+        "73902"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "La Cumbre",
+      "postal_code": [
+        "73905",
+        "73909"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "73906"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "La Palma (Maquinas)",
+      "postal_code": [
+        "73902"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "La Primavera",
+      "postal_code": [
+        "73902"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Las Mesas",
+      "postal_code": [
+        "73902"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "La Union",
+      "postal_code": [
+        "73904"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Loma de la Yerba",
+      "postal_code": [
+        "73909"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "73907"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Macuilquila",
+      "postal_code": [
+        "73905"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "73906"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Mazatepec",
+      "postal_code": [
+        "73905"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Mecayucan",
+      "postal_code": [
+        "73903"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Nectepetl (El Cerro)",
+      "postal_code": [
+        "73902"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Ocota",
+      "postal_code": [
+        "73904"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Ocotlan de Betancourt",
+      "postal_code": [
+        "73907"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Oyameles",
+      "postal_code": [
+        "73909"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Pablogco",
+      "postal_code": [
+        "73906"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Pezmatlan",
+      "postal_code": [
+        "73904"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Plan de Guadalupe",
+      "postal_code": [
+        "73907"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Portezuelo",
+      "postal_code": [
+        "73902"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Primero de Septiembre",
+      "postal_code": [
+        "73909"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Quezapa",
+      "postal_code": [
+        "73902"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Salvadorco",
+      "postal_code": [
+        "73907"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "San Agustin Chagchaltzin",
+      "postal_code": [
+        "73905"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "73909"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "San Jose",
+      "postal_code": [
+        "73900"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "San Jose Chagchaltzin",
+      "postal_code": [
+        "73903"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "San Jose del Retiro",
+      "postal_code": [
+        "73909"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "73900"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "73906"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Tamalayo",
+      "postal_code": [
+        "73905"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Tanhuixco del Carmen",
+      "postal_code": [
+        "73906"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Tatauzoquico",
+      "postal_code": [
+        "73906"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Tehuagco",
+      "postal_code": [
+        "73905"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Telpalcatipan",
+      "postal_code": [
+        "73902"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Tepantzol",
+      "postal_code": [
+        "73903"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Tepehican",
+      "postal_code": [
+        "73904"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Tepehican (Los Baez)",
+      "postal_code": [
+        "73905"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Tepeteno de Iturbide",
+      "postal_code": [
+        "73906"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Tepetzintla",
+      "postal_code": [
+        "73902"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Teziutanapa",
+      "postal_code": [
+        "73903"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Tlatlauquitepec",
+      "postal_code": [
+        "73900"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Tochimpa",
+      "postal_code": [
+        "73906"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Tunel Dos",
+      "postal_code": [
+        "73902"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Tzinacantepec",
+      "postal_code": [
+        "73906"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Tzincuilapan",
+      "postal_code": [
+        "73909"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Vicente Fox",
+      "postal_code": [
+        "73904"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Xacuinco",
+      "postal_code": [
+        "73906"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Xaltenango",
+      "postal_code": [
+        "73900"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Xalteta",
+      "postal_code": [
+        "73903"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Xomiaco",
+      "postal_code": [
+        "73903"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Xonocuautla",
+      "postal_code": [
+        "73906"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Yoloctzin",
+      "postal_code": [
+        "73902"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Zapotitan",
+      "postal_code": [
+        "73902"
+      ]
+    },
+    {
+      "city": "Tlatlauquitepec",
+      "colonia": "Zocuila",
+      "postal_code": [
+        "73904"
+      ]
+    }
+  ]
+}

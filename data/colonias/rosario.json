@@ -1,0 +1,970 @@
+{
+  "data": [
+    {
+      "city": "Rosario",
+      "colonia": "Agua Caliente de los Panales",
+      "postal_code": [
+        "82887"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Agua Fria",
+      "postal_code": [
+        "82860"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Agua Verde",
+      "postal_code": [
+        "82872"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Alfonso G. Calderon",
+      "postal_code": [
+        "82807"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Ampliacion Benito Juarez",
+      "postal_code": [
+        "82872"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Ampliacion Juan S. Millan",
+      "postal_code": [
+        "82807"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Anonal",
+      "postal_code": [
+        "82800"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Apoderado",
+      "postal_code": [
+        "82871"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Bonifacio Rojas",
+      "postal_code": [
+        "82807"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "82885"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Cacalotan",
+      "postal_code": [
+        "82830"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Cajon Verde",
+      "postal_code": [
+        "82876"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Chametla",
+      "postal_code": [
+        "82870"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Chele",
+      "postal_code": [
+        "82810"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Chilillos",
+      "postal_code": [
+        "82875"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Copales",
+      "postal_code": [
+        "82830"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Corral de Piedras",
+      "postal_code": [
+        "82885"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Cruz Pedregoza",
+      "postal_code": [
+        "82832"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Duranguito",
+      "postal_code": [
+        "82871"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "El Azafran",
+      "postal_code": [
+        "82860"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "El Chupadero",
+      "postal_code": [
+        "82871"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "El Ciruelo",
+      "postal_code": [
+        "82880"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "El Colomo",
+      "postal_code": [
+        "82860"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "El Infiernillo",
+      "postal_code": [
+        "82830"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "El Limoncito (El Riyito)",
+      "postal_code": [
+        "82876"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "El Matadero",
+      "postal_code": [
+        "82826"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "El Nuevo Tonala",
+      "postal_code": [
+        "82830"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "El Plan",
+      "postal_code": [
+        "82860"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "El Portezuelo",
+      "postal_code": [
+        "82833"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "El Potrero de Astengo",
+      "postal_code": [
+        "82871"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "El Pozole",
+      "postal_code": [
+        "82871"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "El Recodo",
+      "postal_code": [
+        "82830"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "El Rosario Centro",
+      "postal_code": [
+        "82800"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "El Tablon Numero Dos",
+      "postal_code": [
+        "82833"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "El Tamarindo",
+      "postal_code": [
+        "82830"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "El Tierral",
+      "postal_code": [
+        "82805"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "El Valamo",
+      "postal_code": [
+        "82874"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "El Zopilote",
+      "postal_code": [
+        "82827"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "82876"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Estacion Rosario",
+      "postal_code": [
+        "82835"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Francisco Quintero",
+      "postal_code": [
+        "82830"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Francisco Villa (Las Garzas)",
+      "postal_code": [
+        "82820"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Genaro Estrada",
+      "postal_code": [
+        "82803"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Gregorio Vazquez Moreno (San Joachin)",
+      "postal_code": [
+        "82823"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Guatimozitl",
+      "postal_code": [
+        "82875"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Hacienda el Tamarindo",
+      "postal_code": [
+        "82830"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "INFONAVIT Lola Beltran",
+      "postal_code": [
+        "82803"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "INFONAVIT Real de Minas",
+      "postal_code": [
+        "82807"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Juan S. Millan",
+      "postal_code": [
+        "82807"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "La Angarilla",
+      "postal_code": [
+        "82835"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "La Arrastrada",
+      "postal_code": [
+        "82887"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "82804"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "82810"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "La Guasima",
+      "postal_code": [
+        "82824"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Laguna de Beltranes",
+      "postal_code": [
+        "82832"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "La Joya",
+      "postal_code": [
+        "82805"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "La Loma",
+      "postal_code": [
+        "82871"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "La Rastra",
+      "postal_code": [
+        "82860"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "La Reforma",
+      "postal_code": [
+        "82871"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Las Habitas",
+      "postal_code": [
+        "82880"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Las Higueras",
+      "postal_code": [
+        "82833"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Las Juntas",
+      "postal_code": [
+        "82880"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Las Pinas",
+      "postal_code": [
+        "82810"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "La Tuna",
+      "postal_code": [
+        "82887"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "La Urraca",
+      "postal_code": [
+        "82875"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Loma Blanca",
+      "postal_code": [
+        "82875"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Loma del Zorrillo",
+      "postal_code": [
+        "82876"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Loma de Potrerillos",
+      "postal_code": [
+        "82839"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Loma Verde",
+      "postal_code": [
+        "82876"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Lopez Portillo",
+      "postal_code": [
+        "82802"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Los Alacranes",
+      "postal_code": [
+        "82875"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Los Guajolotes",
+      "postal_code": [
+        "82835"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Los Pozos",
+      "postal_code": [
+        "82820"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "82803"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Maloya",
+      "postal_code": [
+        "82885"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Maloyita",
+      "postal_code": [
+        "82880"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Marcelo Loya",
+      "postal_code": [
+        "82808"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Maria Luisa Lizarraga Saucedo",
+      "postal_code": [
+        "82807"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Matatan",
+      "postal_code": [
+        "82880"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Mecha Ardiendo",
+      "postal_code": [
+        "82804"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Minas del Tajo",
+      "postal_code": [
+        "82808"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Montealto",
+      "postal_code": [
+        "82871"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Nieblas",
+      "postal_code": [
+        "82832"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Ojitos",
+      "postal_code": [
+        "82835"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Ojo de Agua de Osuna",
+      "postal_code": [
+        "82839"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Otates",
+      "postal_code": [
+        "82839"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Pablo de Villavicencio",
+      "postal_code": [
+        "82805"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Palos Blancos",
+      "postal_code": [
+        "82810"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Panteon",
+      "postal_code": [
+        "82802"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Pedro Ibarra",
+      "postal_code": [
+        "82806"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Plomosas",
+      "postal_code": [
+        "82860"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Ponce",
+      "postal_code": [
+        "82874"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Potrerillos",
+      "postal_code": [
+        "82839"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Potreritos",
+      "postal_code": [
+        "82806"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Presidentes",
+      "postal_code": [
+        "82808"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Rincon de Higueras",
+      "postal_code": [
+        "82833"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Rosendo G. Castro INFONAVIT",
+      "postal_code": [
+        "82802"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Ruben Jaramillo",
+      "postal_code": [
+        "82804"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "San Marco Otatitan",
+      "postal_code": [
+        "82884"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "82850"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Tablon Numero Uno (Las Cruces Cuatas)",
+      "postal_code": [
+        "82833"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Tablon Viejo",
+      "postal_code": [
+        "82833"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Tazajal",
+      "postal_code": [
+        "82876"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Tebaira",
+      "postal_code": [
+        "82850"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Tecomatillo",
+      "postal_code": [
+        "82885"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Teodoro Beltran (La Hacienda)",
+      "postal_code": [
+        "82820"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Valle Nuevo",
+      "postal_code": [
+        "82808"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "82806"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Villas del Mineral",
+      "postal_code": [
+        "82809"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Alisoso",
+      "postal_code": [
+        "85714"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Cedros",
+      "postal_code": [
+        "85715"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "El Campito",
+      "postal_code": [
+        "85715"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "El Llano",
+      "postal_code": [
+        "85714"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "El Nogal (Curupaco)",
+      "postal_code": [
+        "85714"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "El Sauz",
+      "postal_code": [
+        "85716"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "La Dura (La Concentracion)",
+      "postal_code": [
+        "85710"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "La Estrella",
+      "postal_code": [
+        "85715"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Movas",
+      "postal_code": [
+        "85717"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Nuri",
+      "postal_code": [
+        "85717"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Paredones (El Saucito)",
+      "postal_code": [
+        "85714"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Rio Chico (Real de Ostimuri)",
+      "postal_code": [
+        "85710"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Rosario",
+      "postal_code": [
+        "85700"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Santa Ana de Padilla",
+      "postal_code": [
+        "85715"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Tacupeto",
+      "postal_code": [
+        "85710"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Tarahumaris",
+      "postal_code": [
+        "85717"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Vado Cuate",
+      "postal_code": [
+        "85710"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Agua Caliente",
+      "postal_code": [
+        "33537"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "33538"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Juan Mendoza",
+      "postal_code": [
+        "33538"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "La Huerta",
+      "postal_code": [
+        "33531"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Los Morales",
+      "postal_code": [
+        "33535"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "33537"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "San Ignacio",
+      "postal_code": [
+        "33538"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "San Javier",
+      "postal_code": [
+        "33535"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "San Nicolas del Canon",
+      "postal_code": [
+        "33536"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Santo Tomas de Ochoa (Los Melendez)",
+      "postal_code": [
+        "33537"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Valle del Rosario",
+      "postal_code": [
+        "33530"
+      ]
+    },
+    {
+      "city": "Rosario",
+      "colonia": "Valle de Olivos",
+      "postal_code": [
+        "33539"
+      ]
+    }
+  ]
+}

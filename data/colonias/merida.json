@@ -1,0 +1,4315 @@
+{
+  "data": [
+    {
+      "city": "Merida",
+      "colonia": "15 de Mayo",
+      "postal_code": [
+        "97229"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "5 Colonias",
+      "postal_code": [
+        "97280"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "aguilas Chuburna",
+      "postal_code": [
+        "97215"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "alamos del Sur",
+      "postal_code": [
+        "97285"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Alcala Martin",
+      "postal_code": [
+        "97050"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Algarrobos Desarrollo Residencial",
+      "postal_code": [
+        "97305"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Altabrisa",
+      "postal_code": [
+        "97130"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Altavista",
+      "postal_code": [
+        "97305"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Alura",
+      "postal_code": [
+        "97305"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Alvaro Torres",
+      "postal_code": [
+        "97256"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Amalia Solorzano",
+      "postal_code": [
+        "97175"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Amapola",
+      "postal_code": [
+        "97219"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Ampliacion del Norte (1a. Ampliacion)",
+      "postal_code": [
+        "97120"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Ampliacion Francisco de Montejo",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Ampliacion Granjas",
+      "postal_code": [
+        "97198"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Ampliacion Juan Pablo II",
+      "postal_code": [
+        "97246"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Ampliacion La Hacienda",
+      "postal_code": [
+        "97289"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Ampliacion las Brisas",
+      "postal_code": [
+        "97144"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Ampliacion Lindavista (Elefante Chico)",
+      "postal_code": [
+        "97219"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Ampliacion Plan de Ayala",
+      "postal_code": [
+        "97285"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Ampliacion Plan de Ayala (Villas del Sol)",
+      "postal_code": [
+        "97118"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Ampliacion Revolucion",
+      "postal_code": [
+        "97115"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Ampliacion Roma (Luis Echeverria)",
+      "postal_code": [
+        "97229"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Ampliacion Salvador Alvarado Sur",
+      "postal_code": [
+        "97196"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Ampliacion Tixcacal Opichen",
+      "postal_code": [
+        "97249"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Anexo Juan Pablo II",
+      "postal_code": [
+        "97246"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Angeles II",
+      "postal_code": [
+        "97246"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Antonia Jimenez Trava",
+      "postal_code": [
+        "97142"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Antonia Jimenez Trava II",
+      "postal_code": [
+        "97142"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Aquaparque",
+      "postal_code": [
+        "97195"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Arboleda",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Arboledas Chuburna",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Arcos del Sol",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Arekas",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Armando Avila Gurrutia",
+      "postal_code": [
+        "97230"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Atlantida",
+      "postal_code": [
+        "97220"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Aurea Residencial",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Azcorra",
+      "postal_code": [
+        "97177"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Balcones II",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "97285"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Benito Juarez Nte",
+      "postal_code": [
+        "97119"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Benito Juarez Ote",
+      "postal_code": [
+        "97178"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Bicentenario",
+      "postal_code": [
+        "97255"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Bogdan",
+      "postal_code": [
+        "97305"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Bojorquez",
+      "postal_code": [
+        "97230"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Bosques del Pedregal",
+      "postal_code": [
+        "97260"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Bosques del Poniente",
+      "postal_code": [
+        "97246"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Bosques de Mulsay",
+      "postal_code": [
+        "97246"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Bosques de Oriente",
+      "postal_code": [
+        "97167"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Boulevares",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Boulevares de Chuburna",
+      "postal_code": [
+        "97205"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Boulevares de Oriente",
+      "postal_code": [
+        "97143"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Brisas de Chuburna",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Brisas Del Bosque",
+      "postal_code": [
+        "97143"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Brisas del Poniente (Yucalpeten)",
+      "postal_code": [
+        "97238"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Brisas de San Jose",
+      "postal_code": [
+        "97298"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "97127"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "97205"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Cabo Norte",
+      "postal_code": [
+        "97305"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Callejones de Chuburna",
+      "postal_code": [
+        "97207"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Camara de La Construccion",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Campestre",
+      "postal_code": [
+        "97120"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Canto",
+      "postal_code": [
+        "97189"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Carrillo Ancona",
+      "postal_code": [
+        "97060"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Castilla Camara",
+      "postal_code": [
+        "97278"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Caucel",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Centenario Camara de Comercio Caucel",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Central de Abasto",
+      "postal_code": [
+        "97237"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Cerillera",
+      "postal_code": [
+        "97168"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Cerradas de la Herradura",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Chablekal",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Chalmuch",
+      "postal_code": [
+        "97312"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Cheuman",
+      "postal_code": [
+        "97303"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Chichen-itza",
+      "postal_code": [
+        "97170"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Chichi Suarez",
+      "postal_code": [
+        "97306"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Cholul",
+      "postal_code": [
+        "97305"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Chuburna de Hidalgo",
+      "postal_code": [
+        "97205"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Chuburna de Hidalgo (La Floresta)",
+      "postal_code": [
+        "97205"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Chuburna Inn",
+      "postal_code": [
+        "97205"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Chuminopolis",
+      "postal_code": [
+        "97158"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Cinturon Verde",
+      "postal_code": [
+        "97249"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Circuito Colonias",
+      "postal_code": [
+        "97260"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Ciudad Caucel",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Ciudad Caucel II",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Ciudad Industrial",
+      "postal_code": [
+        "97288"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Club de Golf La Ceiba",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Cocoteros",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Cocoyoles",
+      "postal_code": [
+        "97305"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Colonial Buenavista",
+      "postal_code": [
+        "97215"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Colonial Chuburna",
+      "postal_code": [
+        "97215"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Conjunto los Naranjos",
+      "postal_code": [
+        "97218"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Cordeleros de Chuburna",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Cortes Sarmiento",
+      "postal_code": [
+        "97168"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Cosgaya",
+      "postal_code": [
+        "97303"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Cupules",
+      "postal_code": [
+        "97089"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Del Bosque",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Del Carmen",
+      "postal_code": [
+        "97168"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Delio Moreno Canton",
+      "postal_code": [
+        "97268"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Del Norte",
+      "postal_code": [
+        "97120"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Del Parque",
+      "postal_code": [
+        "97160"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Del Sur",
+      "postal_code": [
+        "97287"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Diamante Paseos de Opichen",
+      "postal_code": [
+        "97249"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Diaz Ordaz",
+      "postal_code": [
+        "97130"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Dolores Otero",
+      "postal_code": [
+        "97270"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Dolores Patron",
+      "postal_code": [
+        "97070"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Dzibilchaltun",
+      "postal_code": [
+        "97305"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Dzidzilche",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Dzitya",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Dzoyaxche",
+      "postal_code": [
+        "97316"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Dzununcan",
+      "postal_code": [
+        "97315",
+        "97315"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "El Arco",
+      "postal_code": [
+        "97138"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "El Campanario",
+      "postal_code": [
+        "97205"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "El Cedral",
+      "postal_code": [
+        "97208"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "El Conquistador",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "El Cortijo I",
+      "postal_code": [
+        "97205"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "El Cortijo II",
+      "postal_code": [
+        "97205"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "97070"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "97226"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "El Prado",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "El Roble",
+      "postal_code": [
+        "97255"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "El Roble Agricola",
+      "postal_code": [
+        "97295"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "El Roble II",
+      "postal_code": [
+        "97255"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "El Rosal",
+      "postal_code": [
+        "97297"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "97206"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "El Triunfo",
+      "postal_code": [
+        "97305"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "El Vergel",
+      "postal_code": [
+        "97176"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Emiliano Zapata Nte",
+      "postal_code": [
+        "97129"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Emiliano Zapata Ote",
+      "postal_code": [
+        "97144"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Emiliano Zapata Sur",
+      "postal_code": [
+        "97297"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Emilio Portes Gil",
+      "postal_code": [
+        "97167"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Esperanza",
+      "postal_code": [
+        "97169"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Felipe Carrillo Puerto",
+      "postal_code": [
+        "97208"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Felipe Carrillo Puerto Nte",
+      "postal_code": [
+        "97136"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Fenix",
+      "postal_code": [
+        "97155"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Ferrocarrileros",
+      "postal_code": [
+        "97109"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Fidel Velazquez",
+      "postal_code": [
+        "97166"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Fidel Velazquez 2a Etapa",
+      "postal_code": [
+        "97166"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Fovissste",
+      "postal_code": [
+        "97217"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Francisco de Montejo",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Francisco de Montejo II",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Francisco de Montejo III",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Francisco de Montejo IV",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Francisco de Montejo V",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Francisco El Porvenir",
+      "postal_code": [
+        "97217"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Francisco I Madero",
+      "postal_code": [
+        "97240"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "97219"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Garcia Gineres",
+      "postal_code": [
+        "97070"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Girasoles de Opichen",
+      "postal_code": [
+        "97249"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Gonzalo Guerrero",
+      "postal_code": [
+        "97115",
+        "97119"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Graciano Ricalde",
+      "postal_code": [
+        "97256"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Gran Herradura",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Granja Fruticola Susula",
+      "postal_code": [
+        "97246"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Granjas Cholul",
+      "postal_code": [
+        "97305"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Gran Roble",
+      "postal_code": [
+        "97295"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Gran San Pedro Cholul",
+      "postal_code": [
+        "97305"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Gran Santa Fe",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Hacienda Caucel",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Hacienda Inn",
+      "postal_code": [
+        "97229"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Hacienda Mulsay",
+      "postal_code": [
+        "97246"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Hacienda Opichen",
+      "postal_code": [
+        "97249",
+        "97249"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Hacienda San Antonio",
+      "postal_code": [
+        "97229"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Haltunchen",
+      "postal_code": [
+        "97285"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Hogares Caucel",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Hunxectaman",
+      "postal_code": [
+        "97315"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Inalambrica",
+      "postal_code": [
+        "97069"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Industrial",
+      "postal_code": [
+        "97150"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Industrial Bridec",
+      "postal_code": [
+        "97256"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Itzaes",
+      "postal_code": [
+        "97000"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Itzimna",
+      "postal_code": [
+        "97100",
+        "97100"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Itzimna 108",
+      "postal_code": [
+        "97143"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Itzimna 2",
+      "postal_code": [
+        "97100"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Jacinto Canek",
+      "postal_code": [
+        "97227"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Jalapa",
+      "postal_code": [
+        "97305"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Jardines de Caucel",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Jardines de Chuburna",
+      "postal_code": [
+        "97209"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Jardines de Lindavista",
+      "postal_code": [
+        "97219"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Jardines del Noreste",
+      "postal_code": [
+        "97138"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Jardines Del Norte",
+      "postal_code": [
+        "97138"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Jardines del Norte de Prado Norte",
+      "postal_code": [
+        "97139"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Jardines del Sur",
+      "postal_code": [
+        "97285"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Jardines de Merida",
+      "postal_code": [
+        "97135"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Jardines de Miraflores",
+      "postal_code": [
+        "97168"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Jardines de Nueva Mulsay",
+      "postal_code": [
+        "97246"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Jardines de Nueva Mulsay II",
+      "postal_code": [
+        "97249"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Jardines de Nueva Mulsay III",
+      "postal_code": [
+        "97249"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Jardines de Pensiones",
+      "postal_code": [
+        "97219"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Jardines de Rejoyada",
+      "postal_code": [
+        "97307"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Jardines de San Sebastian",
+      "postal_code": [
+        "97000"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Jardines de Tahdzibichen",
+      "postal_code": [
+        "97315"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Jardines de Vista Alegre",
+      "postal_code": [
+        "97138"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Jardines de Vista Alegre II",
+      "postal_code": [
+        "97138"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Jardines de Yucalpeten",
+      "postal_code": [
+        "97238"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Jesus Carranza",
+      "postal_code": [
+        "97109"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Joaquin Ceballos Mimenza",
+      "postal_code": [
+        "97210"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Jose Maria Iturralde",
+      "postal_code": [
+        "97134"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Juan B Sosa",
+      "postal_code": [
+        "97205"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Juan Pablo II",
+      "postal_code": [
+        "97246"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Juan Pablo II Cardenales",
+      "postal_code": [
+        "97246"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Juan Pablo II Secc. Merida 2000",
+      "postal_code": [
+        "97246"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Kikteil",
+      "postal_code": [
+        "97303"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Komchen",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Komchen (Santuario)",
+      "postal_code": [
+        "97307"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Kukulcan",
+      "postal_code": [
+        "97198"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "La Castellana",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "La Ceiba",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "La Ciudadela",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "La Florida",
+      "postal_code": [
+        "97138"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "La Guadalupana",
+      "postal_code": [
+        "97290",
+        "97315"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "La Hacienda",
+      "postal_code": [
+        "97289"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "La Herradura II",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "La Herradura III",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "La Huerta",
+      "postal_code": [
+        "97080"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "La Perla Ciudad Caucel",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "La Quinta",
+      "postal_code": [
+        "97000"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "La Reja",
+      "postal_code": [
+        "97246"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "La Rejoyada",
+      "postal_code": [
+        "97307"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Las Arboledas",
+      "postal_code": [
+        "97108"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Las Brisas",
+      "postal_code": [
+        "97144"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Las Brisas Del Norte",
+      "postal_code": [
+        "97144"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Las Brisas Del Sur",
+      "postal_code": [
+        "97286"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Las Dalias",
+      "postal_code": [
+        "97206"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Las Dalias II y III",
+      "postal_code": [
+        "97206"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Las Fincas",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "97146"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Las Haciendas III",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Las Hadas",
+      "postal_code": [
+        "97205"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Las Margaritas de Cholul",
+      "postal_code": [
+        "97305"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Las Nubes",
+      "postal_code": [
+        "97285"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "97145"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Las Quintas (Chuburna)",
+      "postal_code": [
+        "97208"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Las Torres",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Las Torres I",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Las Torres II",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Las Vigas",
+      "postal_code": [
+        "97227"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "La Vaca Feliz",
+      "postal_code": [
+        "97220"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Lazaro Cardenas Ote",
+      "postal_code": [
+        "97157"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Leandro Valle",
+      "postal_code": [
+        "97143"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Libertad II",
+      "postal_code": [
+        "97256"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Libertad III",
+      "postal_code": [
+        "97256"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Limones",
+      "postal_code": [
+        "97219"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "97219",
+        "97284"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Lindavista II",
+      "postal_code": [
+        "97219"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Lol-Be",
+      "postal_code": [
+        "97256"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "97205"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Loma Bonita Xcumpich",
+      "postal_code": [
+        "97205"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Lomas Del Sur",
+      "postal_code": [
+        "97284"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Lopez Mateos",
+      "postal_code": [
+        "97140"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Lopez Portillo",
+      "postal_code": [
+        "97245"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "97138"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Los Almendros",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "97246"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Los Balcones",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Los Cocos",
+      "postal_code": [
+        "97000"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Los Faisanes de Tixcacal",
+      "postal_code": [
+        "97312"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Los Heroes",
+      "postal_code": [
+        "97306"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "97138"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "97003",
+        "97156"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Los Tamarindos",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Lotificacion las Brisas",
+      "postal_code": [
+        "97159"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Lotificacion San Damian",
+      "postal_code": [
+        "97218"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Lotificacion San Damiancito I",
+      "postal_code": [
+        "97219"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Lotificacion San Damiancito II",
+      "postal_code": [
+        "97219"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Lotificacion San Vicente Chuburna",
+      "postal_code": [
+        "97206"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Lotificacion Serapio Rendon 1",
+      "postal_code": [
+        "97285"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Lourdes",
+      "postal_code": [
+        "97098"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Lourdes Industrial",
+      "postal_code": [
+        "97155"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "97143"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Luis Echeverria Alvarez",
+      "postal_code": [
+        "97229"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Madrid",
+      "postal_code": [
+        "97000"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Magnolias",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Malaga",
+      "postal_code": [
+        "97208"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Manola",
+      "postal_code": [
+        "97107"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Manuel Avila Camacho",
+      "postal_code": [
+        "97159",
+        "97160"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Manuel Crescencio Rejon",
+      "postal_code": [
+        "97255"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Manzana 115",
+      "postal_code": [
+        "97267"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Maria Luisa",
+      "postal_code": [
+        "97199"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Maximo Ancona",
+      "postal_code": [
+        "97159"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Maya",
+      "postal_code": [
+        "97134"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Mayapan",
+      "postal_code": [
+        "97159"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Melchor Ocampo",
+      "postal_code": [
+        "97165"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Melchor Ocampo II",
+      "postal_code": [
+        "97165"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Meliton Salazar",
+      "postal_code": [
+        "97269"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Mercedes Barrera",
+      "postal_code": [
+        "97277"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Merida Centro",
+      "postal_code": [
+        "97000"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Merida (Elefante Grande)",
+      "postal_code": [
+        "97206"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Merida (Lic. Manuel Crescencio Rejon)",
+      "postal_code": [
+        "97295"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Metropolitana",
+      "postal_code": [
+        "97297"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Mexico",
+      "postal_code": [
+        "97125"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Mexico Norte",
+      "postal_code": [
+        "97128"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Mexico Oriente",
+      "postal_code": [
+        "97137"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Mexico Poniente",
+      "postal_code": [
+        "97246"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Miguel Aleman",
+      "postal_code": [
+        "97148"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "97220"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Militar",
+      "postal_code": [
+        "97196"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Miraflores",
+      "postal_code": [
+        "97179"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Miraflores II",
+      "postal_code": [
+        "97195"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Misnebalam",
+      "postal_code": [
+        "97308"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Misne II",
+      "postal_code": [
+        "97176"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Misne III",
+      "postal_code": [
+        "97173"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Missan II",
+      "postal_code": [
+        "97130"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Molas",
+      "postal_code": [
+        "97315"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Monte Alban",
+      "postal_code": [
+        "97114"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Montebello",
+      "postal_code": [
+        "97113"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Montecarlo",
+      "postal_code": [
+        "97130"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Montecristo",
+      "postal_code": [
+        "97133"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Montejo",
+      "postal_code": [
+        "97127"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Monterreal",
+      "postal_code": [
+        "97133"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Montes de Ame",
+      "postal_code": [
+        "97115"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Montevideo",
+      "postal_code": [
+        "97133"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Morelos",
+      "postal_code": [
+        "97190"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Morelos Issste Fovissste",
+      "postal_code": [
+        "97190"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Morelos Oriente",
+      "postal_code": [
+        "97174"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Mulsay",
+      "postal_code": [
+        "97246",
+        "97249"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Mulsay de La Magdalena",
+      "postal_code": [
+        "97246"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Mulsay Solidaridad",
+      "postal_code": [
+        "97246"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Noc Ac",
+      "postal_code": [
+        "97303"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Nora Quintana",
+      "postal_code": [
+        "97238"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Noria II",
+      "postal_code": [
+        "97145"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Nucleo Mulsay",
+      "postal_code": [
+        "97249"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Nucleo Sodzil",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Nueva Aleman",
+      "postal_code": [
+        "97146"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Nueva Chichen-itza",
+      "postal_code": [
+        "97170"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Nueva Hidalgo",
+      "postal_code": [
+        "97220"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Nueva Kukulkan",
+      "postal_code": [
+        "97195"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Nueva Mayapan",
+      "postal_code": [
+        "97157",
+        "97159"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Nueva Mulsay",
+      "postal_code": [
+        "97249"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Nueva Mulsay I",
+      "postal_code": [
+        "97249"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Nueva Obrera",
+      "postal_code": [
+        "97260"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Nueva Pacabtun",
+      "postal_code": [
+        "97159"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Nueva Reforma Agraria",
+      "postal_code": [
+        "97249"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Nueva Sambula",
+      "postal_code": [
+        "97250"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Nueva San Jose Tecoh",
+      "postal_code": [
+        "97290"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Nuevo San Jose Tecoh",
+      "postal_code": [
+        "97315"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Nuevo San Jose Tecoh III",
+      "postal_code": [
+        "97315"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Nuevo Yucatan",
+      "postal_code": [
+        "97147"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Obrera",
+      "postal_code": [
+        "97260"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Oncan",
+      "postal_code": [
+        "97310"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Pacabtun",
+      "postal_code": [
+        "97160"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Palmas del Sur",
+      "postal_code": [
+        "97285"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Palmequen",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Paraiso",
+      "postal_code": [
+        "97206"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Paraiso Maya",
+      "postal_code": [
+        "97134"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Parque Central",
+      "postal_code": [
+        "97305"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Parque Industrial Yucatan",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Parque Natura",
+      "postal_code": [
+        "97305"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Paseo de las Fuentes",
+      "postal_code": [
+        "97225"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Paseos de Chenku",
+      "postal_code": [
+        "97219"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Paseos de Opichen",
+      "postal_code": [
+        "97246"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Paseos de Pensiones",
+      "postal_code": [
+        "97219"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Pedregal de Lindavista",
+      "postal_code": [
+        "97219"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Pedregales de Ciudad Caucel",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Pedregales de Nueva Mulsay Etapa",
+      "postal_code": [
+        "97249"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Pedregales de Tanlum",
+      "postal_code": [
+        "97210"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Pensiones",
+      "postal_code": [
+        "97219"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Pensiones Norte",
+      "postal_code": [
+        "97217"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Petac",
+      "postal_code": [
+        "97315"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Pet-kanche",
+      "postal_code": [
+        "97145"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Piedra Antigua",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Pinos Norte II",
+      "postal_code": [
+        "97138"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Pino Suarez",
+      "postal_code": [
+        "97256"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Pinzon",
+      "postal_code": [
+        "97205"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Plan de Ayala",
+      "postal_code": [
+        "97118"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Plan de Ayala Sur",
+      "postal_code": [
+        "97285"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Plan de Ayala Sur III",
+      "postal_code": [
+        "97285"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Plantel Mexico",
+      "postal_code": [
+        "97249"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Platino",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Poligono 108",
+      "postal_code": [
+        "97143"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Prado Norte",
+      "postal_code": [
+        "97139"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada Arboledas",
+      "postal_code": [
+        "97205"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada Campestre Chuburna",
+      "postal_code": [
+        "97205"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada Chuburna de Hidalgo",
+      "postal_code": [
+        "97208"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada Chuburna de Hidalgo I",
+      "postal_code": [
+        "97205"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada Chuburna de Hidalgo (II)",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada Chuburna Plus",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada Cipreses",
+      "postal_code": [
+        "97206"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada Corozal",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada Del Autotransporte CTM",
+      "postal_code": [
+        "97160"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada Del Maestro",
+      "postal_code": [
+        "97000"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada Emilio Portes Gil",
+      "postal_code": [
+        "97167"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada Garcia Gineres C - 29",
+      "postal_code": [
+        "97000"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada las Flores",
+      "postal_code": [
+        "97205"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada Mediterraneo",
+      "postal_code": [
+        "97128"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada Miraflores",
+      "postal_code": [
+        "97179"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada Nuevo Mexico",
+      "postal_code": [
+        "97125"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada Palma Caribena",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada Pedregal II",
+      "postal_code": [
+        "97205"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada Pensiones",
+      "postal_code": [
+        "97219"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada San angel Chuburna",
+      "postal_code": [
+        "97206"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada San Antonio Cucul",
+      "postal_code": [
+        "97116"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada San Damian",
+      "postal_code": [
+        "97218"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada San Jorge (Chuburna)",
+      "postal_code": [
+        "97209"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada San Pedro",
+      "postal_code": [
+        "97225"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Privada Zuzil - Ha",
+      "postal_code": [
+        "97298"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Providencia",
+      "postal_code": [
+        "97312"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Puesta del Sol",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Punta Lago",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Quinta Santa Rosa",
+      "postal_code": [
+        "97279"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Quinta Valencia",
+      "postal_code": [
+        "97268"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Quinta Versalles",
+      "postal_code": [
+        "97219"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Real de Dzitya",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Real Montejo",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Real San Jose",
+      "postal_code": [
+        "97173"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Renacimiento I",
+      "postal_code": [
+        "97256"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Reparto Granjas",
+      "postal_code": [
+        "97198"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Altabrisa",
+      "postal_code": [
+        "97130"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Anturio",
+      "postal_code": [
+        "97305"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Atlantis",
+      "postal_code": [
+        "97208"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Bancarios",
+      "postal_code": [
+        "97138"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Camara de Comercio Norte",
+      "postal_code": [
+        "97133"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Campestre Viladiu",
+      "postal_code": [
+        "97305"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Casa Blanca",
+      "postal_code": [
+        "97238"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Club Norte Merida",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Colonia Mexico",
+      "postal_code": [
+        "97128"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Del Arco",
+      "postal_code": [
+        "97138"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial del Mayab",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial del Norte",
+      "postal_code": [
+        "97219"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Floresta",
+      "postal_code": [
+        "97306"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Galerias",
+      "postal_code": [
+        "97204"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Hacienda Real",
+      "postal_code": [
+        "97205"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial La Alborada",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial La Noria",
+      "postal_code": [
+        "97206"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Montejo Norte",
+      "postal_code": [
+        "97115"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Nicte",
+      "postal_code": [
+        "97256"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Palmerales de Altabrisa",
+      "postal_code": [
+        "97130"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Pensiones III",
+      "postal_code": [
+        "97217"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Pensiones III (1)",
+      "postal_code": [
+        "97217"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Pensiones III (II)",
+      "postal_code": [
+        "97217"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Pensiones IV",
+      "postal_code": [
+        "97217"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Pensiones I y II",
+      "postal_code": [
+        "97217"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Pensiones V",
+      "postal_code": [
+        "97217"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Pensiones VI",
+      "postal_code": [
+        "97217"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Pensiones VII",
+      "postal_code": [
+        "97219"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Piedrasul",
+      "postal_code": [
+        "97204"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Roma",
+      "postal_code": [
+        "97218"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial San Angelo",
+      "postal_code": [
+        "97115"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Sol Campestre",
+      "postal_code": [
+        "97114"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Turquesa",
+      "postal_code": [
+        "97206"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Valparaiso",
+      "postal_code": [
+        "97249"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Residencial Xcanatun",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "97204"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Revolucion (Cordemex)",
+      "postal_code": [
+        "97110"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Rinconada de Chuburna",
+      "postal_code": [
+        "97208"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Rinconada Itzmina",
+      "postal_code": [
+        "97100"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Rincon Colonial",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Roble Agricola III",
+      "postal_code": [
+        "97255"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Roma",
+      "postal_code": [
+        "97218"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Royal del Parque",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Sac-Nicte",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Salvador Alvarado Oriente",
+      "postal_code": [
+        "97166"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Salvador Alvarado Sur",
+      "postal_code": [
+        "97196"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Salvador Alvarado Sur II",
+      "postal_code": [
+        "97196"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Sambula",
+      "postal_code": [
+        "97250"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San angel",
+      "postal_code": [
+        "97205"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "97113"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Antonio Cinta",
+      "postal_code": [
+        "97139"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Antonio Cucul",
+      "postal_code": [
+        "97116"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Antonio Hool",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Antonio Kaua",
+      "postal_code": [
+        "97176",
+        "97195"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Antonio Kaua I",
+      "postal_code": [
+        "97195"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Antonio Kaua II",
+      "postal_code": [
+        "97195"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Antonio Residencial",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Antonio Tzacala",
+      "postal_code": [
+        "97315"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Antonio Xluch",
+      "postal_code": [
+        "97290"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Antonio Xluch II",
+      "postal_code": [
+        "97290"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Antonio Xluch III",
+      "postal_code": [
+        "97297"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "97130"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Carlos del Sur",
+      "postal_code": [
+        "97285"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Damian",
+      "postal_code": [
+        "97218"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Damiancito",
+      "postal_code": [
+        "97219"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Esteban",
+      "postal_code": [
+        "97149"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Francisco Chuburna",
+      "postal_code": [
+        "97206"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Francisco Chuburna II",
+      "postal_code": [
+        "97206"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Gabriel Tulipanes",
+      "postal_code": [
+        "97305"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Ignacio Tesip",
+      "postal_code": [
+        "97316"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "97218"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Jose",
+      "postal_code": [
+        "97189"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Jose Chuburna",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Jose I",
+      "postal_code": [
+        "97206"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Jose II",
+      "postal_code": [
+        "97206"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Jose Tecoh",
+      "postal_code": [
+        "97299"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Jose Tecoh Sur",
+      "postal_code": [
+        "97298"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Jose Tzal",
+      "postal_code": [
+        "97285",
+        "97315"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Jose Vergel",
+      "postal_code": [
+        "97173"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Juan Bautista",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Juan Grande",
+      "postal_code": [
+        "97145"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "97247"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Luis",
+      "postal_code": [
+        "97140"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Luis Cholul",
+      "postal_code": [
+        "97305"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Luis Chuburna",
+      "postal_code": [
+        "97205"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Luis Sur",
+      "postal_code": [
+        "97297"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "97295"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Marcos Nocoh",
+      "postal_code": [
+        "97296"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "97140"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "97147"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Nicolas Del Sur",
+      "postal_code": [
+        "97289"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Pablo Oriente",
+      "postal_code": [
+        "97176"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Pedro Chimay",
+      "postal_code": [
+        "97315"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Pedro Cholul",
+      "postal_code": [
+        "97138"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Pedro Uxmal",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Ramon Norte",
+      "postal_code": [
+        "97117"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Ramon Norte I",
+      "postal_code": [
+        "97117"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Ramon Sur",
+      "postal_code": [
+        "97117"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Remo",
+      "postal_code": [
+        "97130"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "97088"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "97295"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Santa Cruz Palomeque",
+      "postal_code": [
+        "97315"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Santa Gertrudis Copo",
+      "postal_code": [
+        "97305"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "97138"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Santa Maria Chi",
+      "postal_code": [
+        "97306"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Santa Maria de Guadalupe",
+      "postal_code": [
+        "97269"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Santa Maria Yaxche",
+      "postal_code": [
+        "97308"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "97280"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Santa Rita Cholul",
+      "postal_code": [
+        "97130"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "97279"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Vicente Chuburna",
+      "postal_code": [
+        "97206"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "San Vicente Oriente (La Isla)",
+      "postal_code": [
+        "97142"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Senorial",
+      "postal_code": [
+        "97059"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Serapio Rendon",
+      "postal_code": [
+        "97285"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Serapio Rendon II",
+      "postal_code": [
+        "97285"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Serapio Rendon III",
+      "postal_code": [
+        "97285"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Sian Kaan",
+      "postal_code": [
+        "97305"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Sierra Papacal",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Sitpach",
+      "postal_code": [
+        "97306"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Sodzil Norte",
+      "postal_code": [
+        "97115"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Solana Residencial",
+      "postal_code": [
+        "97312"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Sol Caucel",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Sol Caucel III",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Susula",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Tabachines",
+      "postal_code": [
+        "97205"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Tahdzibichen",
+      "postal_code": [
+        "97315"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Tamanche",
+      "postal_code": [
+        "97304"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Tanlum",
+      "postal_code": [
+        "97210"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Tecnologico",
+      "postal_code": [
+        "97120"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Temozon Norte",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Terranova",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Texan Camara",
+      "postal_code": [
+        "97315"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Tixcacal",
+      "postal_code": [
+        "97312"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Tixcacal Opichen",
+      "postal_code": [
+        "97249"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Tixcuytun",
+      "postal_code": [
+        "97305"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Torremolinos",
+      "postal_code": [
+        "97130"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Trava Quintero",
+      "postal_code": [
+        "97150"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Tulias de Chuburna",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Unidad Habitacional CTM",
+      "postal_code": [
+        "97142"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Unidad Habitacional Merida Issste",
+      "postal_code": [
+        "97219"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Universidad del Mayab",
+      "postal_code": [
+        "97308"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Vergel",
+      "postal_code": [
+        "97173"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Vergel 65",
+      "postal_code": [
+        "97176"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Vergel II",
+      "postal_code": [
+        "97173"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Vergel III",
+      "postal_code": [
+        "97173"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Vergel IV",
+      "postal_code": [
+        "97173"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Via Montejo",
+      "postal_code": [
+        "97204"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "97143"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Vicente Solis",
+      "postal_code": [
+        "97180"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villa Bonita",
+      "postal_code": [
+        "97285"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villa de la Obrera II",
+      "postal_code": [
+        "97260"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villa Fontana",
+      "postal_code": [
+        "97000"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villa Jardin",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villa Magna",
+      "postal_code": [
+        "97249"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villa Magna del Sur",
+      "postal_code": [
+        "97285"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villa Magna II",
+      "postal_code": [
+        "97249"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villa Moderna",
+      "postal_code": [
+        "97260"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villareal",
+      "postal_code": [
+        "97117"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villas Cholul",
+      "postal_code": [
+        "97305"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villas Chuburna IV",
+      "postal_code": [
+        "97206"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villas de Caucel",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villas de Chuburna",
+      "postal_code": [
+        "97207"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villas del Bosque Cholul",
+      "postal_code": [
+        "97305"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villas del Mayab",
+      "postal_code": [
+        "97260"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villas Del Prado",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villas del Rey",
+      "postal_code": [
+        "97119"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villas Del Sol",
+      "postal_code": [
+        "97118"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villas Del Sur",
+      "postal_code": [
+        "97285"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villas de Tixcacal",
+      "postal_code": [
+        "97246"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villas de Yucalpeten",
+      "postal_code": [
+        "97238"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villas La Hacienda",
+      "postal_code": [
+        "97119"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villas La Macarena",
+      "postal_code": [
+        "97174"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villas Merida",
+      "postal_code": [
+        "97256"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villas Palma Real",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villas Quetzal",
+      "postal_code": [
+        "97297"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Villa Zona Dorada",
+      "postal_code": [
+        "97229"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Vista Alegre",
+      "postal_code": [
+        "97130",
+        "97130"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Vista Alegre de Chuburna",
+      "postal_code": [
+        "97203"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Vista Alegre Lotificacion",
+      "postal_code": [
+        "97138"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Vista Alegre Norte",
+      "postal_code": [
+        "97130"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Viva Caucel",
+      "postal_code": [
+        "97314"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Wallis",
+      "postal_code": [
+        "97169"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Waspa",
+      "postal_code": [
+        "97099"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Xaman-Kab",
+      "postal_code": [
+        "97117"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Xaman-Tan",
+      "postal_code": [
+        "97113"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Xcanatun",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Xcom",
+      "postal_code": [
+        "97229"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Xcumpich",
+      "postal_code": [
+        "97204"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Xcunya",
+      "postal_code": [
+        "97304"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Xmatkuil",
+      "postal_code": [
+        "97315"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Xoclan",
+      "postal_code": [
+        "97246"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Xoclan Canto",
+      "postal_code": [
+        "97245"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Xoclan Carmelitas",
+      "postal_code": [
+        "97246"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Xoclan Santos",
+      "postal_code": [
+        "97245"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Xoclan Susula",
+      "postal_code": [
+        "97249"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Xoclan Xbech",
+      "postal_code": [
+        "97246"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Xotik",
+      "postal_code": [
+        "97302"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Yaxche",
+      "postal_code": [
+        "97206"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Yaxche Casares",
+      "postal_code": [
+        "97309"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Yaxnic",
+      "postal_code": [
+        "97316"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Yucalpeten",
+      "postal_code": [
+        "97238"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Yucalpeten Secc Florida",
+      "postal_code": [
+        "97239"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Yucatan",
+      "postal_code": [
+        "97050"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Yucatan Country Club",
+      "postal_code": [
+        "97308"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Zacilha",
+      "postal_code": [
+        "97298"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Zazil - Ha II",
+      "postal_code": [
+        "97298"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Zona Dorada",
+      "postal_code": [
+        "97220"
+      ]
+    },
+    {
+      "city": "Merida",
+      "colonia": "Zona Dorada II",
+      "postal_code": [
+        "97229"
+      ]
+    }
+  ]
+}

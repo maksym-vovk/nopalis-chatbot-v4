@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "San Juan Quiotepec",
+      "colonia": "Maninaltepec",
+      "postal_code": [
+        "68706"
+      ]
+    },
+    {
+      "city": "San Juan Quiotepec",
+      "colonia": "San Juan Quiotepec",
+      "postal_code": [
+        "68704"
+      ]
+    },
+    {
+      "city": "San Juan Quiotepec",
+      "colonia": "Santa Maria Nieves",
+      "postal_code": [
+        "68706"
+      ]
+    },
+    {
+      "city": "San Juan Quiotepec",
+      "colonia": "Santa Maria Totomoxtla",
+      "postal_code": [
+        "68706"
+      ]
+    }
+  ]
+}

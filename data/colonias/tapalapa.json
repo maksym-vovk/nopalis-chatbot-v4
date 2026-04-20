@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Tapalapa",
+      "colonia": "Magdalena",
+      "postal_code": [
+        "29670"
+      ]
+    },
+    {
+      "city": "Tapalapa",
+      "colonia": "Nueva Reforma",
+      "postal_code": [
+        "29670"
+      ]
+    },
+    {
+      "city": "Tapalapa",
+      "colonia": "San Juan",
+      "postal_code": [
+        "29670"
+      ]
+    },
+    {
+      "city": "Tapalapa",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "29670"
+      ]
+    },
+    {
+      "city": "Tapalapa",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "29670"
+      ]
+    },
+    {
+      "city": "Tapalapa",
+      "colonia": "Tapalapa",
+      "postal_code": [
+        "29670"
+      ]
+    }
+  ]
+}

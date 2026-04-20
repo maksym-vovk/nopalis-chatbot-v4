@@ -1,0 +1,530 @@
+{
+  "data": [
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "5 de Mayo",
+      "postal_code": [
+        "48904"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Agua Hedionda",
+      "postal_code": [
+        "48909"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Ahuacapan",
+      "postal_code": [
+        "48920"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "48904"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Autlan de Navarro Centro",
+      "postal_code": [
+        "48900"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Ayutita",
+      "postal_code": [
+        "48906"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Azucarera",
+      "postal_code": [
+        "48902"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Bancaria",
+      "postal_code": [
+        "48904"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Bellavista (El Castillo)",
+      "postal_code": [
+        "48910"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Brisas del Oeste",
+      "postal_code": [
+        "48904"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "48902"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Camichines",
+      "postal_code": [
+        "48903"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Cardenista",
+      "postal_code": [
+        "48904"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Castellon",
+      "postal_code": [
+        "48904"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Cerro Colorado",
+      "postal_code": [
+        "48903"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Chacaltepec",
+      "postal_code": [
+        "48914"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Chiquihuitlan",
+      "postal_code": [
+        "48905"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Colinas Del Sur",
+      "postal_code": [
+        "48903"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Colonos Alameda",
+      "postal_code": [
+        "48902"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Echeverria",
+      "postal_code": [
+        "48903"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Ejidal",
+      "postal_code": [
+        "48903"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "48904"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "El Chacalito",
+      "postal_code": [
+        "48915"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "El Chante",
+      "postal_code": [
+        "48918"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "El Corcovado",
+      "postal_code": [
+        "48914"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "El Jalocote",
+      "postal_code": [
+        "48908"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "El Mentidero",
+      "postal_code": [
+        "48917"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "48903"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "El Rodeo",
+      "postal_code": [
+        "48910"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "El Tecolote",
+      "postal_code": [
+        "48904"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Francisco Silva Romero",
+      "postal_code": [
+        "48904"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "48900"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Huizilacate",
+      "postal_code": [
+        "48904"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Iprovipe Coajinque",
+      "postal_code": [
+        "48903"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Iprovipe las Ceibas",
+      "postal_code": [
+        "48904"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Jaime Llamas",
+      "postal_code": [
+        "48904"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Jardines Autlan",
+      "postal_code": [
+        "48902"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Jardines Del Sol",
+      "postal_code": [
+        "48902"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "La Aldaba",
+      "postal_code": [
+        "48916"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "La Garita",
+      "postal_code": [
+        "48904"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "La Grana",
+      "postal_code": [
+        "48904"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Lagunillas",
+      "postal_code": [
+        "48910"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "La Herradura",
+      "postal_code": [
+        "48902"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "La Noria",
+      "postal_code": [
+        "48915"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "La Noria Infonavit",
+      "postal_code": [
+        "48902"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "La Paloma",
+      "postal_code": [
+        "48904"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "La Quebradilla",
+      "postal_code": [
+        "48904"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "La Rosa",
+      "postal_code": [
+        "48904"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "48902"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "La Sidrita",
+      "postal_code": [
+        "48918"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Las Lanzas",
+      "postal_code": [
+        "48904"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Las Montanas",
+      "postal_code": [
+        "48904"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Las Paredes",
+      "postal_code": [
+        "48916"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Las Parotitas",
+      "postal_code": [
+        "48902"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Loma Del Aire",
+      "postal_code": [
+        "48903"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Los Arquitos",
+      "postal_code": [
+        "48904",
+        "48904"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "48903"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "48902"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Mezquitan (San Francisco de Abajo)",
+      "postal_code": [
+        "48907"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Obrera",
+      "postal_code": [
+        "48904"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Paulino Navarro",
+      "postal_code": [
+        "48902"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Pintores",
+      "postal_code": [
+        "48904"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Primavera",
+      "postal_code": [
+        "48904"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Puerta de La Costa",
+      "postal_code": [
+        "48902"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Rinconada El Cangrejo",
+      "postal_code": [
+        "48902"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Rincon de Luisa",
+      "postal_code": [
+        "48919"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Rodriguez Alcaine",
+      "postal_code": [
+        "48902"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "San Francisco de Arriba",
+      "postal_code": [
+        "48907"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Suave Patria",
+      "postal_code": [
+        "48903"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Tecomatlan",
+      "postal_code": [
+        "48922"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Tecopatlan",
+      "postal_code": [
+        "48926"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Valle del Vergel",
+      "postal_code": [
+        "48903"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Valle La Grana",
+      "postal_code": [
+        "48903"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Villas de Autlan",
+      "postal_code": [
+        "48904"
+      ]
+    },
+    {
+      "city": "Autlan de Navarro",
+      "colonia": "Yerbabuena",
+      "postal_code": [
+        "48923"
+      ]
+    }
+  ]
+}

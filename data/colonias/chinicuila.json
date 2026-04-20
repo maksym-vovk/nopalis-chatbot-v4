@@ -1,0 +1,670 @@
+{
+  "data": [
+    {
+      "city": "Chinicuila",
+      "colonia": "Agua Blanca (Barranca del Tereso)",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Ahijadero del Pantano",
+      "postal_code": [
+        "60825"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Barranca del Agua",
+      "postal_code": [
+        "60825"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Barranca del Limoncito",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Barranca del Ocote",
+      "postal_code": [
+        "60826"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Barranca del organo",
+      "postal_code": [
+        "60826"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Barranca del Tigre",
+      "postal_code": [
+        "60828"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Barranca la Atravesada",
+      "postal_code": [
+        "60826"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Barranca Oscura",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Barranca Seca de Larios",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Chocohuiztal",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Coahuayula (La Silleta)",
+      "postal_code": [
+        "60825"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Crucero del Naranjillo",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Cuartoncitos",
+      "postal_code": [
+        "60828"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Aguaje",
+      "postal_code": [
+        "60825"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Ahijadero",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Chafre",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Chayacate",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Chico",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Churen",
+      "postal_code": [
+        "60825"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Derrumbadero",
+      "postal_code": [
+        "60828"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Garbanzo",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Guasimal",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Limon de Ramos",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Mono",
+      "postal_code": [
+        "60828"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Moro",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Naranjillo (Los Naranjos)",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Ocote",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Ocotito (Los Nogales)",
+      "postal_code": [
+        "60826"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Otate",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Parejo (El Encino)",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Pozo",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Ranchual",
+      "postal_code": [
+        "60825"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Rascaviejo",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Resumidero",
+      "postal_code": [
+        "60826"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Riego",
+      "postal_code": [
+        "60828"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Saucito",
+      "postal_code": [
+        "60826"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Sipimo",
+      "postal_code": [
+        "60828"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Tamarindo",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Tejon",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "El Volantin",
+      "postal_code": [
+        "60825"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Hihuitlan",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Huerta de Sanchez",
+      "postal_code": [
+        "60825"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Huitzontla",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "La Aguja (La Higuera)",
+      "postal_code": [
+        "60826"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "La Cardosantera",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "La Coyulera",
+      "postal_code": [
+        "60823",
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "60827"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "La Fabrica",
+      "postal_code": [
+        "60825"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Laguna de Calvillo",
+      "postal_code": [
+        "60825"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "La Higuera Panda",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "La Higuerita",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "La Laguna de Marmolejo",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "La Minita",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "La Nogalera",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "La Nuez (La Nuez del Caiman)",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "La Parota",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "La Roblerita",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Las Canoas",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Las Cebollas",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "La Sierra",
+      "postal_code": [
+        "60826"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "La Sierrita",
+      "postal_code": [
+        "60826"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Las Rosas Moradas (La Higuera)",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "La Tortuga",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "La Vainilla",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "La Villera",
+      "postal_code": [
+        "60825"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "La Yerbabuena",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Limoncitos",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Los Arroyos",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Los Guayabos",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Los Llanitos",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Los Magueyes",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Los Mojos",
+      "postal_code": [
+        "60828"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Los Ocotes",
+      "postal_code": [
+        "60828"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Los Parejos",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Los Salgado",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "60825"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Ojo de Agua (Agua Blanca)",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Paso de Arrieros (La Merced)",
+      "postal_code": [
+        "60822"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Piedras Blancas",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Platanarillo",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Potrerillos (Paso de Potrerillos)",
+      "postal_code": [
+        "60827"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Puerta Chiquita",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Puerto del Caiman (La Granadita)",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Rancho Nuevo (Barranca la Tierra)",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Salitre de Copala",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Salitre de Estopila",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Salsipuedes",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Soliman",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Tehuantepec",
+      "postal_code": [
+        "60821"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Tepame (Tepamillo)",
+      "postal_code": [
+        "60824"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Tierras Aradas",
+      "postal_code": [
+        "60823"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Villa Victoria",
+      "postal_code": [
+        "60820"
+      ]
+    },
+    {
+      "city": "Chinicuila",
+      "colonia": "Zapote de Fernandez",
+      "postal_code": [
+        "60827"
+      ]
+    }
+  ]
+}

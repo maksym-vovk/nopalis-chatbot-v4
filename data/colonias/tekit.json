@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Tekit",
+      "colonia": "Susula",
+      "postal_code": [
+        "97684"
+      ]
+    },
+    {
+      "city": "Tekit",
+      "colonia": "Tekit",
+      "postal_code": [
+        "97680"
+      ]
+    },
+    {
+      "city": "Tekit",
+      "colonia": "Yaxic",
+      "postal_code": [
+        "97686"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "San Baltazar Yatzachi el Bajo",
+      "colonia": "San Baltazar Yatzachi el Bajo",
+      "postal_code": [
+        "68860"
+      ]
+    },
+    {
+      "city": "San Baltazar Yatzachi el Bajo",
+      "colonia": "San Jeronimo Zoochina",
+      "postal_code": [
+        "68865"
+      ]
+    },
+    {
+      "city": "San Baltazar Yatzachi el Bajo",
+      "colonia": "Santa Maria Xochixtepec",
+      "postal_code": [
+        "68865"
+      ]
+    },
+    {
+      "city": "San Baltazar Yatzachi el Bajo",
+      "colonia": "Santa Maria Yohueche",
+      "postal_code": [
+        "68861"
+      ]
+    },
+    {
+      "city": "San Baltazar Yatzachi el Bajo",
+      "colonia": "Yatzachi el Alto",
+      "postal_code": [
+        "68865"
+      ]
+    }
+  ]
+}

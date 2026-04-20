@@ -1,0 +1,979 @@
+{
+  "data": [
+    {
+      "city": "Riva Palacio",
+      "colonia": "Agua Zarca",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Aldana de Abajo",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Aldana de Arriba",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Barrio de Felix de Abajo",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Beltranes",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Cincuenta",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Cincuenta y Cinco (La Cordovana)",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Cincuenta y Nueve",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Cincuenta y Nueve y Medio",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Cuarenta (Carrizalillo)",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Cuarenta y Cinco (Colonia Merced)",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Cuarenta y Cuatro",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Cuarenta y Dos",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Cuarenta y Dos B",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Cuarenta y Ocho",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Cuarenta y Seis",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Cuarenta y Tres",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Cuarenta y Uno",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Noventa",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Noventa y Dos",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Noventa y Nueve",
+      "postal_code": [
+        "31647"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Noventa y Tres",
+      "postal_code": [
+        "31647"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Noventa y Uno",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Ochenta",
+      "postal_code": [
+        "31647"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Ochenta y Cinco",
+      "postal_code": [
+        "31647"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Ochenta y Cuatro",
+      "postal_code": [
+        "31647"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Ochenta y Dos",
+      "postal_code": [
+        "31647"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Ochenta y Nueve",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Ochenta y Ocho",
+      "postal_code": [
+        "31647"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Ochenta y Seis",
+      "postal_code": [
+        "31647"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Ochenta y Siete",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Ochenta y Siete y Medio",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Ochenta y Tres",
+      "postal_code": [
+        "31647"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Ochenta y Uno",
+      "postal_code": [
+        "31647"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Sesenta",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Sesenta y Cinco",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Sesenta y Cinco y Medio",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Sesenta y Cuatro",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Sesenta y Cuatro B",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Sesenta y Dos",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Sesenta y Dos y Medio",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Sesenta y Nueve",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Sesenta y Ocho",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Sesenta y Seis",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Sesenta y Siete",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Sesenta y Siete y Medio",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Sesenta y Tres",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Sesenta y Uno",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Sesenta y Uno y Medio",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Setenta",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Setenta y Cuatro",
+      "postal_code": [
+        "31647"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Setenta y Dos",
+      "postal_code": [
+        "31647"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Setenta y Medio",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Setenta y Nueve",
+      "postal_code": [
+        "31647"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Setenta y Ocho",
+      "postal_code": [
+        "31647"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Setenta y Tres",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Setenta y Uno (Las Lajas)",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Treinta",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Treinta y Cinco (El Saucito)",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Treinta y Cinco y Medio",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Treinta y Dos",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Treinta y Ocho",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Treinta y Tres",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Treinta y Uno",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Campo Treita y Ocho y Medio",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Canada de Pinos",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Canon de San Miguel (Canon del Diablo)",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Cerro Colorado",
+      "postal_code": [
+        "31644"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Chavarria",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Cienega Grande",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Coscomate Nuevo",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Cueva de Tierra",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "El Alamillo",
+      "postal_code": [
+        "31643",
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "El Arquito",
+      "postal_code": [
+        "31644"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "El Capulin",
+      "postal_code": [
+        "31644"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "El Carmen (Pinos Prietos)",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "El Carrizalillo",
+      "postal_code": [
+        "31644"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "El Coscomate",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "El Encino",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "El Oso",
+      "postal_code": [
+        "31645",
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "El Penol",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "El Saucillo",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "El Tascatal",
+      "postal_code": [
+        "31644"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "El Zorrillo",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Granja los Minks",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Güerachi de Abajo",
+      "postal_code": [
+        "31644"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Jesus Maria de Loya (Ranchito de Loya)",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "La Corbata",
+      "postal_code": [
+        "31644"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "La Cueva Pinta",
+      "postal_code": [
+        "31644"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "La Despedida",
+      "postal_code": [
+        "31644"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "31647"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "La Estacada",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "La Luneta",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "La Madera",
+      "postal_code": [
+        "31647"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "La Mesa",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "La Nueva Paz",
+      "postal_code": [
+        "31647"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "La Paloma",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "La Parra",
+      "postal_code": [
+        "31644"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Las Cien",
+      "postal_code": [
+        "31647"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Las Gualdias",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Las Tinajitas",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Las Tunas",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Las Vigas",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Los Aviones",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Los Cojos",
+      "postal_code": [
+        "31644"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Los Hidalgos",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Los Hornitos",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "31646"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Los Ponos",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Los Robles",
+      "postal_code": [
+        "31644"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Los Tanques",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Lucas",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Macario",
+      "postal_code": [
+        "31644"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Marcial",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Nana Rosa",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Noria de Aldana",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Pino Cuate",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Pinos Prietos",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Rancheria",
+      "postal_code": [
+        "31644"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Rancho Chuma",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Rancho de Arriba",
+      "postal_code": [
+        "31644"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Rancho el Gringo",
+      "postal_code": [
+        "31644"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Sainapuchi (La Garita)",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "San Agustin de Pinones",
+      "postal_code": [
+        "31644"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "San Andres",
+      "postal_code": [
+        "31640"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "San Bernabe",
+      "postal_code": [
+        "31644"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Sandoval",
+      "postal_code": [
+        "31643"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "San Juan del Duro",
+      "postal_code": [
+        "31644"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "San Juan de Mendoza",
+      "postal_code": [
+        "31644"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "31644"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "San Vicente (Pinos Prietos)",
+      "postal_code": [
+        "31645"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Sierra Alta",
+      "postal_code": [
+        "31644"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Silos del Campo",
+      "postal_code": [
+        "31647"
+      ]
+    },
+    {
+      "city": "Riva Palacio",
+      "colonia": "Zubia",
+      "postal_code": [
+        "31643"
+      ]
+    }
+  ]
+}

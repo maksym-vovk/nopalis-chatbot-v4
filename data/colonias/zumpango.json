@@ -1,0 +1,530 @@
+{
+  "data": [
+    {
+      "city": "Zumpango",
+      "colonia": "Aguirre",
+      "postal_code": [
+        "55606"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Ampliacion Jardines de San Bartolo",
+      "postal_code": [
+        "55630"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Arbolada los Sauces",
+      "postal_code": [
+        "55635"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "55635"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "CTC de Zumpango (Santa Maria)",
+      "postal_code": [
+        "55605"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Del Bosque",
+      "postal_code": [
+        "55600"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "El Colorado",
+      "postal_code": [
+        "55620"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "El Nido",
+      "postal_code": [
+        "55614"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "55610"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "El Solar",
+      "postal_code": [
+        "55630"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Espana (Cuevas)",
+      "postal_code": [
+        "55610"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Ex Hacienda de Guadalupe",
+      "postal_code": [
+        "55630"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "FOVISSSTE",
+      "postal_code": [
+        "55607"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Hacienda los Encinos",
+      "postal_code": [
+        "55635"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Hombres Ilustres",
+      "postal_code": [
+        "55604"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Independencia",
+      "postal_code": [
+        "55600"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Jardines de la Laguna",
+      "postal_code": [
+        "55614"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Jardines del Lago",
+      "postal_code": [
+        "55607"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "La Esmeralda",
+      "postal_code": [
+        "55630"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "55620"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Las Plazas",
+      "postal_code": [
+        "55635"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "55614"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "55629"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Letigio",
+      "postal_code": [
+        "55635"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Loma Larga (Barrio de Loma Larga)",
+      "postal_code": [
+        "55613"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Los Alcanfores",
+      "postal_code": [
+        "55630"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Los Hornos",
+      "postal_code": [
+        "55635"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Los Rivero",
+      "postal_code": [
+        "55636"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Los Romeros",
+      "postal_code": [
+        "55614"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "55600"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Miltenco",
+      "postal_code": [
+        "55630"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Nuevo Paseos de San Juan",
+      "postal_code": [
+        "55607"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Olmos",
+      "postal_code": [
+        "55630"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Paseos de la Laguna",
+      "postal_code": [
+        "55600"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Paseos del Lago",
+      "postal_code": [
+        "55607"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Paseos del Lago II",
+      "postal_code": [
+        "55607"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Paseos de San Juan",
+      "postal_code": [
+        "55634"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Portales de San Juan",
+      "postal_code": [
+        "55604"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Primero de Mayo",
+      "postal_code": [
+        "55607"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Pueblo Nuevo de Morelos",
+      "postal_code": [
+        "55636"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Pueblo Nuevo de San Pedro",
+      "postal_code": [
+        "55606"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "San Antonio de las Arenas",
+      "postal_code": [
+        "55605"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "San Bartolo Cuautlalpan",
+      "postal_code": [
+        "55630"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "San Jose de la Loma",
+      "postal_code": [
+        "55620"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "San Juan",
+      "postal_code": [
+        "55600"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "San Juan de Guadalupe",
+      "postal_code": [
+        "55630"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "55604"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "San Lorenzo (Zitlaltepec)",
+      "postal_code": [
+        "55628"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "55606"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "San Marcos del Llano",
+      "postal_code": [
+        "55606"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "55600"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "San Miguel Bocanegra",
+      "postal_code": [
+        "55619"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "San Miguel (Camino a Bata)",
+      "postal_code": [
+        "55600"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "San Miguel (Camino a Valle Hermoso)",
+      "postal_code": [
+        "55604"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "San Miguel (Zitlaltepec)",
+      "postal_code": [
+        "55628"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "San Pedro de la Laguna",
+      "postal_code": [
+        "55609"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "San Pedro (Zitlaltepec)",
+      "postal_code": [
+        "55628"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "55600"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "55637"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "55630"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Santa Isabel",
+      "postal_code": [
+        "55635"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "55634"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Santa Lucia Base Aerea Militar",
+      "postal_code": [
+        "55640"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "55606",
+        "55614"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Santa Maria Cuevas",
+      "postal_code": [
+        "55610"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Santa Maria de Guadalupe",
+      "postal_code": [
+        "55628"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Santa Maria el Llano",
+      "postal_code": [
+        "55605"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Santa Maria (Zitlaltepec)",
+      "postal_code": [
+        "55628"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "55600"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Santiago 1a. Seccion",
+      "postal_code": [
+        "55600"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Santiago 2a. Seccion",
+      "postal_code": [
+        "55600"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Unidad Familiar C.T.C. de Jaltenco",
+      "postal_code": [
+        "55604"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Villas 2000",
+      "postal_code": [
+        "55607"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Villas de la Laguna",
+      "postal_code": [
+        "55614"
+      ]
+    },
+    {
+      "city": "Zumpango",
+      "colonia": "Villas de Zumpango",
+      "postal_code": [
+        "55614"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Sacalum",
+      "colonia": "Sacalum",
+      "postal_code": [
+        "97845"
+      ]
+    },
+    {
+      "city": "Sacalum",
+      "colonia": "San Antonio Sodzil",
+      "postal_code": [
+        "97847"
+      ]
+    },
+    {
+      "city": "Sacalum",
+      "colonia": "Yunku",
+      "postal_code": [
+        "97848"
+      ]
+    }
+  ]
+}

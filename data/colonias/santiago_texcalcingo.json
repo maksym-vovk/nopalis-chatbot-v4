@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Santiago Texcalcingo",
+      "colonia": "Atempa",
+      "postal_code": [
+        "68535"
+      ]
+    },
+    {
+      "city": "Santiago Texcalcingo",
+      "colonia": "Santiago Texcalcingo",
+      "postal_code": [
+        "68535"
+      ]
+    },
+    {
+      "city": "Santiago Texcalcingo",
+      "colonia": "Tamazulapam",
+      "postal_code": [
+        "68535"
+      ]
+    },
+    {
+      "city": "Santiago Texcalcingo",
+      "colonia": "Tepantitlan",
+      "postal_code": [
+        "68535"
+      ]
+    }
+  ]
+}

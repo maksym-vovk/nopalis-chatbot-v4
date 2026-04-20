@@ -1,0 +1,3245 @@
+{
+  "data": [
+    {
+      "city": "La Paz",
+      "colonia": "17 de Octubre",
+      "postal_code": [
+        "23077"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "1 de Mayo",
+      "postal_code": [
+        "23080"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "23052"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "28 de Octubre (Kilometro 6)",
+      "postal_code": [
+        "23080"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "3 de Mayo",
+      "postal_code": [
+        "23075"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "3 de Mayo II",
+      "postal_code": [
+        "23075"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "8 de Octubre 1a Seccion",
+      "postal_code": [
+        "23080"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "8 de Octubre 2a Seccion",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Adolfo Ruiz Cortines",
+      "postal_code": [
+        "23040"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Agricola Santa Lidia",
+      "postal_code": [
+        "23250"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Agroexportadora del Noroeste",
+      "postal_code": [
+        "23206"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Agua Amarga",
+      "postal_code": [
+        "23234"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Agua Blanca",
+      "postal_code": [
+        "23215"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Agua Clara",
+      "postal_code": [
+        "23088"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Agua de la Costa",
+      "postal_code": [
+        "23334"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Agua Escondida",
+      "postal_code": [
+        "23080"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Agustin Arriola",
+      "postal_code": [
+        "23075"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Agustin Olachea",
+      "postal_code": [
+        "23010"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Alfonso Sanchez Madariaga INFONAVIT",
+      "postal_code": [
+        "23018"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Alfredo V Bonfil",
+      "postal_code": [
+        "23203"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Altamira Residencial",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Altavela",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Altezza Residencial",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Alvaro Obregon",
+      "postal_code": [
+        "23248"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ampliacion Antonio Navarro Rubio",
+      "postal_code": [
+        "23026"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ampliacion Ayuntamiento",
+      "postal_code": [
+        "23088"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ampliacion Centenario",
+      "postal_code": [
+        "23205"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ampliacion de la Matanza",
+      "postal_code": [
+        "23302"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ampliacion El Progreso",
+      "postal_code": [
+        "23084"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ampliacion Jardines del Sur",
+      "postal_code": [
+        "23055"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ampliacion Lazaro Cardenas",
+      "postal_code": [
+        "23038"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ampliacion Marquez de Leon",
+      "postal_code": [
+        "23038"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "angel Cesar Mendoza Aramburo",
+      "postal_code": [
+        "23086"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Antares Residencial",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Antonio Navarro Rubio",
+      "postal_code": [
+        "23026"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Arbolares",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Arcoiris",
+      "postal_code": [
+        "23088"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Arcoiris II",
+      "postal_code": [
+        "23088"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Arcoiris III",
+      "postal_code": [
+        "23088"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Arcos del Sol",
+      "postal_code": [
+        "23090"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Arcos del Sol I",
+      "postal_code": [
+        "23090"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Atardeceres",
+      "postal_code": [
+        "23090"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ayuntamiento",
+      "postal_code": [
+        "23088"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Azaleas",
+      "postal_code": [
+        "23098"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Azul Marino",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Bahia de la Paz",
+      "postal_code": [
+        "23090"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Balandra",
+      "postal_code": [
+        "23075"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Balandra Puesta del Sol",
+      "postal_code": [
+        "23095"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ballenas",
+      "postal_code": [
+        "23094"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "BANOBRAS",
+      "postal_code": [
+        "23080"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Barrio El Manglito",
+      "postal_code": [
+        "23060"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Batallon de Infanteria de Marina No. 4",
+      "postal_code": [
+        "23090"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Bella California",
+      "postal_code": [
+        "23088"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Bella California III",
+      "postal_code": [
+        "23088"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Bella Vista",
+      "postal_code": [
+        "23050"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Bella Vista Plus",
+      "postal_code": [
+        "23050"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "23090"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Benito Juarez Oriente",
+      "postal_code": [
+        "23050"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Boca del alamo",
+      "postal_code": [
+        "23320"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Borrego Cimarron",
+      "postal_code": [
+        "23075"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Brisas de las Olas",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Brisas del Pacifico",
+      "postal_code": [
+        "23300"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "23289"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "23330"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "23090"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Burocratica las Garzas",
+      "postal_code": [
+        "23076"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Cacaros",
+      "postal_code": [
+        "23098"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Cactus Harinera",
+      "postal_code": [
+        "23090"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Calafia",
+      "postal_code": [
+        "23054",
+        "23088"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Calandrio",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "California",
+      "postal_code": [
+        "23060"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Campestre",
+      "postal_code": [
+        "23090"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Campestre el Cardon",
+      "postal_code": [
+        "23088"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Campestre el Mezquitito",
+      "postal_code": [
+        "23080"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Capullo",
+      "postal_code": [
+        "23090"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Casa Blanca",
+      "postal_code": [
+        "23090"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "CCC y Perla de La Paz",
+      "postal_code": [
+        "23098"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Centro",
+      "postal_code": [
+        "23300"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Chametla",
+      "postal_code": [
+        "23205"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Cihuatan (Costa Azul)",
+      "postal_code": [
+        "23054"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ciudad del Cielo",
+      "postal_code": [
+        "23010"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ciudad del Recreo",
+      "postal_code": [
+        "23097"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Civilizadores I",
+      "postal_code": [
+        "23076"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Civilizadores II",
+      "postal_code": [
+        "23076"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Clemente Guillen",
+      "postal_code": [
+        "23078"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Cola de la Ballena",
+      "postal_code": [
+        "23088"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Colina de La Cruz",
+      "postal_code": [
+        "23020"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Colina del Sol",
+      "postal_code": [
+        "23010"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Comitan",
+      "postal_code": [
+        "23205"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Coromuel",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Correcaminos",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Cruz de Piedra",
+      "postal_code": [
+        "23050"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Del Mar Residencial",
+      "postal_code": [
+        "23088"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Del Sol",
+      "postal_code": [
+        "23076"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Diana Laura",
+      "postal_code": [
+        "23084"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Domingo Carballo Felix",
+      "postal_code": [
+        "23079"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Agua de los Coyotes",
+      "postal_code": [
+        "23133"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Ancon",
+      "postal_code": [
+        "23243"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Batequito",
+      "postal_code": [
+        "23308"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Cachanilla",
+      "postal_code": [
+        "23252"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Calandrio",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Camino Real",
+      "postal_code": [
+        "23088"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Campanario",
+      "postal_code": [
+        "23050"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Canon",
+      "postal_code": [
+        "23303"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Cardonal",
+      "postal_code": [
+        "23354"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Cardoncito",
+      "postal_code": [
+        "23089"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Cardoncito II",
+      "postal_code": [
+        "23089"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "23050",
+        "23250"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Centenario",
+      "postal_code": [
+        "23205"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Conchalito",
+      "postal_code": [
+        "23090"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Coro",
+      "postal_code": [
+        "23333"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Corral Falso",
+      "postal_code": [
+        "23333"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Coyote",
+      "postal_code": [
+        "23300"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Dorado",
+      "postal_code": [
+        "23084"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Encino",
+      "postal_code": [
+        "23213"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Gordo",
+      "postal_code": [
+        "23234"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Maurel Residencial",
+      "postal_code": [
+        "23089"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Palmar",
+      "postal_code": [
+        "23363"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Palmar I",
+      "postal_code": [
+        "23089"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Palmar II",
+      "postal_code": [
+        "23084"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Palmarito",
+      "postal_code": [
+        "23395"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Palmarito II",
+      "postal_code": [
+        "23248"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Palmar IV",
+      "postal_code": [
+        "23089"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Palo Verde",
+      "postal_code": [
+        "23106"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Pescadero",
+      "postal_code": [
+        "23300",
+        "23354"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Pescador",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Pintado",
+      "postal_code": [
+        "23312"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Pozo",
+      "postal_code": [
+        "23248"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Progreso",
+      "postal_code": [
+        "23084",
+        "23084"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "23150"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Refugio Sur",
+      "postal_code": [
+        "23360"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Rio",
+      "postal_code": [
+        "23300"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Rosario 1",
+      "postal_code": [
+        "23217"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Sacrificio",
+      "postal_code": [
+        "23350"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Salado",
+      "postal_code": [
+        "23362"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Salto",
+      "postal_code": [
+        "23304"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Sargento",
+      "postal_code": [
+        "23232"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Triunfo",
+      "postal_code": [
+        "23210"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Valle Perdido",
+      "postal_code": [
+        "23311"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Vuelo del aguila",
+      "postal_code": [
+        "23300"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Zacatal",
+      "postal_code": [
+        "23088"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Embotelladores 83",
+      "postal_code": [
+        "23078"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "23070"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ensenada de Muertos",
+      "postal_code": [
+        "23236"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Esterito",
+      "postal_code": [
+        "23020"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Estrella",
+      "postal_code": [
+        "23099"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Flores Magon",
+      "postal_code": [
+        "23056"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "23030"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Fuerza Aerea",
+      "postal_code": [
+        "23080",
+        "23089"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Garzas Agricolas",
+      "postal_code": [
+        "23098"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "General Juan Dominguez Cota",
+      "postal_code": [
+        "23230"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "23030"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Guaycura",
+      "postal_code": [
+        "23096"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Guerrero",
+      "postal_code": [
+        "23020"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Hispania Residencial",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Inalambrica",
+      "postal_code": [
+        "23060"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Inalapa",
+      "postal_code": [
+        "23090"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Indeco",
+      "postal_code": [
+        "23070"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Independencia",
+      "postal_code": [
+        "23030",
+        "23099"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "INFONAVIT",
+      "postal_code": [
+        "23070"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "INVI Chametla",
+      "postal_code": [
+        "23089"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "INVI El Mezquitito",
+      "postal_code": [
+        "23084"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "ISSSTE",
+      "postal_code": [
+        "23040"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Jacinto Lopez",
+      "postal_code": [
+        "23037"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Jardines de la Paz",
+      "postal_code": [
+        "23070"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Jardines de La Paz",
+      "postal_code": [
+        "23090"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Jardines del Sur",
+      "postal_code": [
+        "23055"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Jerico",
+      "postal_code": [
+        "23089"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Jose Maria Morelos",
+      "postal_code": [
+        "23054"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Cahchora",
+      "postal_code": [
+        "23300"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Calera",
+      "postal_code": [
+        "23300"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Canada",
+      "postal_code": [
+        "23084"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Cieneguita",
+      "postal_code": [
+        "23154"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Cima Residencial",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ladrillera",
+      "postal_code": [
+        "23020"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "23039"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "23090",
+        "23300"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Esperanza 2",
+      "postal_code": [
+        "23090"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Esperanza 3",
+      "postal_code": [
+        "23090"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Estancia",
+      "postal_code": [
+        "23084"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Fortuna",
+      "postal_code": [
+        "23208"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Fuente",
+      "postal_code": [
+        "23088"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Laguna Azul",
+      "postal_code": [
+        "23038"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Lagunita",
+      "postal_code": [
+        "23208"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Linea",
+      "postal_code": [
+        "23354"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Matanza",
+      "postal_code": [
+        "23302"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Orcadita",
+      "postal_code": [
+        "23300"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Pasion C",
+      "postal_code": [
+        "23089"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Paz (Gral. Manuel Marquez de Leon)",
+      "postal_code": [
+        "23206"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Pitahaya",
+      "postal_code": [
+        "23089"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Poza",
+      "postal_code": [
+        "23300"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Rinconada",
+      "postal_code": [
+        "23040"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Las 3 Pachitas",
+      "postal_code": [
+        "23216"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Las animas",
+      "postal_code": [
+        "23140"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Las Arboledas",
+      "postal_code": [
+        "23099"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Las Californias",
+      "postal_code": [
+        "23084"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "23094",
+        "23300"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Las Garzas",
+      "postal_code": [
+        "23079"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Las Garzas INFONAVIT",
+      "postal_code": [
+        "23098"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Las Golondrinas",
+      "postal_code": [
+        "23100"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Las Grullas",
+      "postal_code": [
+        "23070"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Sirena",
+      "postal_code": [
+        "23095"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Las Islas",
+      "postal_code": [
+        "23076"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "23098"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "23070",
+        "23084"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Las Pocitas",
+      "postal_code": [
+        "23150"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Las Quintas",
+      "postal_code": [
+        "23094",
+        "23300"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Las Tinas",
+      "postal_code": [
+        "23354"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Las Tunas",
+      "postal_code": [
+        "23076",
+        "23300"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Las Vinoramas",
+      "postal_code": [
+        "23209"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Trinchera",
+      "postal_code": [
+        "23248"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "23250"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Ventana",
+      "postal_code": [
+        "23232"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Vinateria",
+      "postal_code": [
+        "23303"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "23034"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Leonardo Rodriguez",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Libertad",
+      "postal_code": [
+        "23078"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Lienzo Charro",
+      "postal_code": [
+        "23030"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "23030"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Loma Obrera",
+      "postal_code": [
+        "23038"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Lomas de Catavina",
+      "postal_code": [
+        "23060"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Lomas del Cardon",
+      "postal_code": [
+        "23088"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Lomas de Palmira",
+      "postal_code": [
+        "23010"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Los Algodones",
+      "postal_code": [
+        "23249",
+        "23354"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Los angeles Residencial",
+      "postal_code": [
+        "23078"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Los Barriles",
+      "postal_code": [
+        "23330"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Los Bledales",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Los Bledales (La Ceibita)",
+      "postal_code": [
+        "23080"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Los Cactus",
+      "postal_code": [
+        "23076"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Los Cantaros",
+      "postal_code": [
+        "23094"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Los Cardones",
+      "postal_code": [
+        "23089"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Los Cerritos",
+      "postal_code": [
+        "23361"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Los Divisaderos",
+      "postal_code": [
+        "23248"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Los Girasoles",
+      "postal_code": [
+        "23090"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Los Olivos",
+      "postal_code": [
+        "23040"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Los Paredones",
+      "postal_code": [
+        "23038"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Los Peces",
+      "postal_code": [
+        "23094"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Los Pericues",
+      "postal_code": [
+        "23097"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "23089"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Los Tabachines",
+      "postal_code": [
+        "23084"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Los Tamales",
+      "postal_code": [
+        "23244"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "23030"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Manuel Rivera Anaya",
+      "postal_code": [
+        "23020"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Mar de Cortez",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Maria Conchita",
+      "postal_code": [
+        "23098"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Marina Sol",
+      "postal_code": [
+        "23090"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Marquez de Leon",
+      "postal_code": [
+        "23038"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Meliton Albanez Dominguez",
+      "postal_code": [
+        "23258"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Mezquitito",
+      "postal_code": [
+        "23080"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Miguel Canseco",
+      "postal_code": [
+        "23075"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Mineros (Perla ROFOMEX)",
+      "postal_code": [
+        "23097"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Miramar",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Misioneros",
+      "postal_code": [
+        "23097"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Misiones",
+      "postal_code": [
+        "23083"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Misiones de Loreto",
+      "postal_code": [
+        "23050"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Misiones II",
+      "postal_code": [
+        "23083"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Molino Harinero",
+      "postal_code": [
+        "23075"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Molino Harinero II",
+      "postal_code": [
+        "23075"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Nueva Puesta del Sol",
+      "postal_code": [
+        "23095"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Oficina Federal de Hacienda",
+      "postal_code": [
+        "23009"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Olas Altas",
+      "postal_code": [
+        "23089"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Oro Blanco",
+      "postal_code": [
+        "23070"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Palacio de Gobierno del Estado de Baja California Sur",
+      "postal_code": [
+        "23007"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Paraiso del Mar",
+      "postal_code": [
+        "23205"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Paraiso del Sol",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Parque Industrial",
+      "postal_code": [
+        "23089"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Paseos del Cortes",
+      "postal_code": [
+        "23017"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Paseos del Sol",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Pedregal de la Paz",
+      "postal_code": [
+        "23019"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Pedregal del Cortes",
+      "postal_code": [
+        "23018"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Peninsula Sur",
+      "postal_code": [
+        "23084"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Perla",
+      "postal_code": [
+        "23040"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Perla del Golfo",
+      "postal_code": [
+        "23088"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Pescadores",
+      "postal_code": [
+        "23070"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Petrolera",
+      "postal_code": [
+        "23040"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Plan Hidraulico",
+      "postal_code": [
+        "23097"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Playa de Santa Rita",
+      "postal_code": [
+        "23096"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Plutarco Elias Calles",
+      "postal_code": [
+        "23390"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Policentro Palmira",
+      "postal_code": [
+        "23019"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Popular Garza V",
+      "postal_code": [
+        "23076"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Popular Indeco",
+      "postal_code": [
+        "23056"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Primero de Mayo",
+      "postal_code": [
+        "23060"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Privada Las Garzas",
+      "postal_code": [
+        "23075"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Privadas del Sol",
+      "postal_code": [
+        "23090"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Pueblo Nuevo",
+      "postal_code": [
+        "23060",
+        "23097",
+        "23300"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Puerta Azul",
+      "postal_code": [
+        "23205"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Puerta Real Residencial",
+      "postal_code": [
+        "23084"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Puerto de Pichilingue",
+      "postal_code": [
+        "23208"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Puesta del Sol",
+      "postal_code": [
+        "23090",
+        "23300"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Punta Lobos",
+      "postal_code": [
+        "23362"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Punta Pescadero",
+      "postal_code": [
+        "23354"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Punta Prieta",
+      "postal_code": [
+        "23019"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Quinta Esmeralda",
+      "postal_code": [
+        "23060"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Quintas San Patricio",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Real del Sol",
+      "postal_code": [
+        "23088"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Reforma",
+      "postal_code": [
+        "23018",
+        "23076"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Residencial Balandra",
+      "postal_code": [
+        "23078"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Residencial las Garzas",
+      "postal_code": [
+        "23070"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Residencial Loreto",
+      "postal_code": [
+        "23099"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Residencial Marina Sur",
+      "postal_code": [
+        "23097"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Residencial Santa Rita",
+      "postal_code": [
+        "23076"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "23075"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Revolucion II",
+      "postal_code": [
+        "23075"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Rinconada el Cardonal",
+      "postal_code": [
+        "23080"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Rinconada las Californias",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Rincon de Leon",
+      "postal_code": [
+        "23329"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Rio Blanco",
+      "postal_code": [
+        "23079"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Roma",
+      "postal_code": [
+        "23050"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Rosarito",
+      "postal_code": [
+        "23208"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Rosaura Zapata",
+      "postal_code": [
+        "23050"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "23076"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San angel",
+      "postal_code": [
+        "23234"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "23210"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Antonio de la Cruz",
+      "postal_code": [
+        "23200"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Antonio El Zacatal",
+      "postal_code": [
+        "23090"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Bartolo",
+      "postal_code": [
+        "23100"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Bartolo Sur",
+      "postal_code": [
+        "23328"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "23361"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Carlos III",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Evaristo",
+      "postal_code": [
+        "23143"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Fermin (La Cuesta)",
+      "postal_code": [
+        "23232"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Fernando",
+      "postal_code": [
+        "23083"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Hilario",
+      "postal_code": [
+        "23170"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Ignacio",
+      "postal_code": [
+        "23300"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Isidro Coto Residencial",
+      "postal_code": [
+        "23083"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Jacinto",
+      "postal_code": [
+        "23364"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Jose",
+      "postal_code": [
+        "23089",
+        "23090"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Juan",
+      "postal_code": [
+        "23300"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Juan de los Planes",
+      "postal_code": [
+        "23230"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Marino",
+      "postal_code": [
+        "23090"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Martin",
+      "postal_code": [
+        "23252",
+        "23362"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Miguel II",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "23060"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Pablo Guelatao",
+      "postal_code": [
+        "23030"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "23240"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Pedro de La Soledad",
+      "postal_code": [
+        "23365"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Pedro Mexico",
+      "postal_code": [
+        "23234"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Simon",
+      "postal_code": [
+        "23317"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "23080",
+        "23099"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Santa Martha",
+      "postal_code": [
+        "23257",
+        "23322"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Santa Monica",
+      "postal_code": [
+        "23075"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "23130",
+        "23249"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "23280"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Vicente",
+      "postal_code": [
+        "23300"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Sector Inalapa",
+      "postal_code": [
+        "23098"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Sector La Selva Fidepaz",
+      "postal_code": [
+        "23094"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Sector Santa Rita",
+      "postal_code": [
+        "23095"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Sendero las Flores",
+      "postal_code": [
+        "23070"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Solidaridad",
+      "postal_code": [
+        "23090"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Solidaridad Mezquitito",
+      "postal_code": [
+        "23083"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Su Casa",
+      "postal_code": [
+        "23060"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Sudcalifornia",
+      "postal_code": [
+        "23080"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Tecnologico",
+      "postal_code": [
+        "23050"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Terranova",
+      "postal_code": [
+        "23084"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Tulipanes",
+      "postal_code": [
+        "23090"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Unidad Donceles 28",
+      "postal_code": [
+        "23078"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Universidad Autonoma de Baja California Sur",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Universitario",
+      "postal_code": [
+        "23080"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Valle de las Vinoramas",
+      "postal_code": [
+        "23038"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Valle del Mezquite",
+      "postal_code": [
+        "23084"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Valle Dorado",
+      "postal_code": [
+        "23089"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Villa Santa Maria",
+      "postal_code": [
+        "23076"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Villas de California",
+      "postal_code": [
+        "23089"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Villas de Guadalupe",
+      "postal_code": [
+        "23038"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Villas de La Paz",
+      "postal_code": [
+        "23089"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Villas del Cortes",
+      "postal_code": [
+        "23089"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Villas del Encanto",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Villas del Mar",
+      "postal_code": [
+        "23097"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Villas de San Lorenzo",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Virreyes",
+      "postal_code": [
+        "23085"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Vista Dorada",
+      "postal_code": [
+        "23084"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "23038"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Vista Real",
+      "postal_code": [
+        "23088"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "VIVAH El Progreso",
+      "postal_code": [
+        "23084"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Zona Antiguo Aeropuerto",
+      "postal_code": [
+        "23089"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Zona Central",
+      "postal_code": [
+        "23000"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Zona Industrial",
+      "postal_code": [
+        "23050"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Zona Militar",
+      "postal_code": [
+        "23029"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "20 de Mayo",
+      "postal_code": [
+        "56516"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "2 de Marzo",
+      "postal_code": [
+        "56505"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "56528"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ahuaxtla",
+      "postal_code": [
+        "56528"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Alamedas",
+      "postal_code": [
+        "56526"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ampliacion Arenal",
+      "postal_code": [
+        "56527"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ampliacion Dr. Jorge Jimenez Cantu",
+      "postal_code": [
+        "56513"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ampliacion Los Reyes",
+      "postal_code": [
+        "56400"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ampliacion Magdalena",
+      "postal_code": [
+        "56514"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ampliacion Mariel",
+      "postal_code": [
+        "56516"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ampliacion San Sebastian",
+      "postal_code": [
+        "56520"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ampliacion Tecamachalco",
+      "postal_code": [
+        "56500"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Anahuac",
+      "postal_code": [
+        "56527"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ancon de los Reyes",
+      "postal_code": [
+        "56410"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Arenal",
+      "postal_code": [
+        "56527"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Bosques de la Magdalena",
+      "postal_code": [
+        "56508"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Bosques de la Magdalena (U.P.R.E.Z.)",
+      "postal_code": [
+        "56514"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "C.E.A.S.",
+      "postal_code": [
+        "56524"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Coaxusco",
+      "postal_code": [
+        "56440"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Conjunto la Paz",
+      "postal_code": [
+        "56509"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Cuchilla de la Ancon",
+      "postal_code": [
+        "56524"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Dr. Jorge Jimenez Cantu",
+      "postal_code": [
+        "56515"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Pino",
+      "postal_code": [
+        "56507"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "El Salado",
+      "postal_code": [
+        "56524"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "56490"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ex Hacienda San Isidro",
+      "postal_code": [
+        "56516"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ferrocarril",
+      "postal_code": [
+        "56509"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Floresta",
+      "postal_code": [
+        "56420"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Jalpa",
+      "postal_code": [
+        "56509"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Jardin de Los Reyes",
+      "postal_code": [
+        "56400"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Cerca",
+      "postal_code": [
+        "56529"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Joyita",
+      "postal_code": [
+        "56508"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "La Magdalena Atlicpac",
+      "postal_code": [
+        "56525"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Las Cruces",
+      "postal_code": [
+        "56509"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Las Rosas",
+      "postal_code": [
+        "56514"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Las Torres III",
+      "postal_code": [
+        "56490"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Libertad",
+      "postal_code": [
+        "56516"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Loma Encantada",
+      "postal_code": [
+        "56495"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Lomas de Altavista",
+      "postal_code": [
+        "56514"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Lomas de San Isidro 1ra Seccion",
+      "postal_code": [
+        "56516"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Lomas de San Isidro 2da Seccion",
+      "postal_code": [
+        "56516"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Lomas de San Isidro 3ra Seccion",
+      "postal_code": [
+        "56516"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Lomas de San Isidro El Pino",
+      "postal_code": [
+        "56516"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Lomas de San Sebastian",
+      "postal_code": [
+        "56512"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Los Pirules (El Potrero)",
+      "postal_code": [
+        "56512"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Los Reyes Acaquilpan Centro",
+      "postal_code": [
+        "56400"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Magdalena de Los Reyes",
+      "postal_code": [
+        "56440"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "56525"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Mariel",
+      "postal_code": [
+        "56516"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Parcelas",
+      "postal_code": [
+        "56509"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Paso de Minas",
+      "postal_code": [
+        "56514"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Presidentes",
+      "postal_code": [
+        "56520"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Primavera",
+      "postal_code": [
+        "56516"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Profesor Carlos Hank Gonzalez",
+      "postal_code": [
+        "56510"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "56524"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Rincon de Los Reyes",
+      "postal_code": [
+        "56410"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Rios de San Isidro",
+      "postal_code": [
+        "56516"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Salitreria",
+      "postal_code": [
+        "56520"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "56516"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Isidro (Casas Verdes)",
+      "postal_code": [
+        "56516"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Jose las Palmas",
+      "postal_code": [
+        "56512"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Salvador Tecamachalco",
+      "postal_code": [
+        "56500"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "San Sebastian Chimalpa",
+      "postal_code": [
+        "56520"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Techachaltitla",
+      "postal_code": [
+        "56514"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Tecomatlan",
+      "postal_code": [
+        "56516"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Tecontlapexco",
+      "postal_code": [
+        "56514"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Tepapatlalco",
+      "postal_code": [
+        "56512"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Tepozanes",
+      "postal_code": [
+        "56428"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Tlazala",
+      "postal_code": [
+        "56529"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Unidad Acaquilpan",
+      "postal_code": [
+        "56510"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Unidad Anahuac Tepetates",
+      "postal_code": [
+        "56528"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Unidad Floresta",
+      "postal_code": [
+        "56429"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Valle de los Pinos",
+      "postal_code": [
+        "56420"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Valle de los Reyes",
+      "postal_code": [
+        "56430"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Villas de la Paz",
+      "postal_code": [
+        "56509"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Villas del Sol",
+      "postal_code": [
+        "56495"
+      ]
+    },
+    {
+      "city": "La Paz",
+      "colonia": "Villas de San Isidro",
+      "postal_code": [
+        "56516"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Jose Independencia",
+      "colonia": "Cerro Chapultepec",
+      "postal_code": [
+        "68407"
+      ]
+    },
+    {
+      "city": "San Jose Independencia",
+      "colonia": "Cerro Clarin",
+      "postal_code": [
+        "68407"
+      ]
+    },
+    {
+      "city": "San Jose Independencia",
+      "colonia": "San Jose Independencia",
+      "postal_code": [
+        "68407"
+      ]
+    }
+  ]
+}

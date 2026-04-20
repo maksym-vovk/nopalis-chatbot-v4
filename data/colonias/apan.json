@@ -1,0 +1,691 @@
+{
+  "data": [
+    {
+      "city": "Apan",
+      "colonia": "Acopinalco",
+      "postal_code": [
+        "43920"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Alcantarillas",
+      "postal_code": [
+        "43916"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Ampliacion la Conchita",
+      "postal_code": [
+        "43905"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Ampliacion Loma Bonita",
+      "postal_code": [
+        "43906"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Ampliacion San Miguel del Arco",
+      "postal_code": [
+        "43904"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Azteca",
+      "postal_code": [
+        "43904"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "43904"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Buena Vista",
+      "postal_code": [
+        "43917"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Calvario",
+      "postal_code": [
+        "43909"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Celedonio Marquez Sanchez",
+      "postal_code": [
+        "43915"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Centro",
+      "postal_code": [
+        "43900"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Cerro del Conejo",
+      "postal_code": [
+        "43919"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Chimalpa Tlalayote",
+      "postal_code": [
+        "43920"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Cocinillas",
+      "postal_code": [
+        "43918"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "El Alcanfor",
+      "postal_code": [
+        "43915"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "El Balconcillo (La Palma)",
+      "postal_code": [
+        "43918"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "El Capulin (La Mesa)",
+      "postal_code": [
+        "43915"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "43905"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "43922"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "El Ciervo",
+      "postal_code": [
+        "43906"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "El Colorado",
+      "postal_code": [
+        "43918"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "El Coyote (El Chupadero)",
+      "postal_code": [
+        "43918"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "El Jazmin",
+      "postal_code": [
+        "43917"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "El Llano",
+      "postal_code": [
+        "43920"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "43915"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "El Tecorral",
+      "postal_code": [
+        "43917"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "El Tejocote",
+      "postal_code": [
+        "43924"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "El Tejon",
+      "postal_code": [
+        "43916"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "El Tezoyo",
+      "postal_code": [
+        "43919"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "El Tigre",
+      "postal_code": [
+        "43919"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Ex-hacienda Espejel",
+      "postal_code": [
+        "43917"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Ex-hacienda Ocotepec",
+      "postal_code": [
+        "43924"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Ex-hacienda San Juan Ixtilmaco",
+      "postal_code": [
+        "43923"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Ex-hacienda Santa Cruz",
+      "postal_code": [
+        "43915"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "43918"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Hacienda San Miguel de las Tunas",
+      "postal_code": [
+        "43915"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Independencia",
+      "postal_code": [
+        "43909"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Jagüeyes Cuates",
+      "postal_code": [
+        "43917"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Josefa Ortiz de Dominguez",
+      "postal_code": [
+        "43903"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "La Conchita",
+      "postal_code": [
+        "43905"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "La Curva",
+      "postal_code": [
+        "43917"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "La Era de Ocotepec",
+      "postal_code": [
+        "43924"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "La Ermita",
+      "postal_code": [
+        "43916"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "La Hidalguense",
+      "postal_code": [
+        "43917"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "La Josefina",
+      "postal_code": [
+        "43907"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "La Joya",
+      "postal_code": [
+        "43915"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "La Joyita",
+      "postal_code": [
+        "43909"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "43920"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "La Lagunilla",
+      "postal_code": [
+        "43917"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "La Leona",
+      "postal_code": [
+        "43917"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Las Haciendas",
+      "postal_code": [
+        "43909"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "43917"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Las Penitas",
+      "postal_code": [
+        "43917"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Las Ventas",
+      "postal_code": [
+        "43920"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "La Virgencita",
+      "postal_code": [
+        "43915"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "43921"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Lealtad",
+      "postal_code": [
+        "43909"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Lindero de Ocotepec",
+      "postal_code": [
+        "43924"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "43906"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Lomas de Chulco",
+      "postal_code": [
+        "43906"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Lomas del Pedregal",
+      "postal_code": [
+        "43917"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Lomas del Tepeyac",
+      "postal_code": [
+        "43920"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Los Barrera",
+      "postal_code": [
+        "43915"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Los Capulines",
+      "postal_code": [
+        "43908"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Los Encinos",
+      "postal_code": [
+        "43922"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Los Montalvo",
+      "postal_code": [
+        "43915"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Los Morales (El Jagüey)",
+      "postal_code": [
+        "43915"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Los Ojitos",
+      "postal_code": [
+        "43919"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "43917"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Los Voladores",
+      "postal_code": [
+        "43920"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Magisterial Luis Donaldo Colosio",
+      "postal_code": [
+        "43907"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Malayerba",
+      "postal_code": [
+        "43923"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Marcelino Guzman Gonzalez",
+      "postal_code": [
+        "43916"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "43907"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "43915"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "43917"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "San Diego Tlalayote",
+      "postal_code": [
+        "43915"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "San Diego Tlazala Aviles (Los Quintos)",
+      "postal_code": [
+        "43915"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "San Francisco Maranon (La Virgencita)",
+      "postal_code": [
+        "43900"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "San Isidro (Rosendo Luna Orozco)",
+      "postal_code": [
+        "43922"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "San Javier",
+      "postal_code": [
+        "43909"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "San Joaquin",
+      "postal_code": [
+        "43920"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "San Jose el Mirador",
+      "postal_code": [
+        "43920"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "San Jose Jiquilpan",
+      "postal_code": [
+        "43923"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "San Juan Ixtilmaco",
+      "postal_code": [
+        "43921"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "San Lucas",
+      "postal_code": [
+        "43915"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "San Miguel del Arco",
+      "postal_code": [
+        "43904"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "San Miguel de las Tunas",
+      "postal_code": [
+        "43915"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "43902"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "43909",
+        "43918"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "43917"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "43915"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "43918"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Teteyo",
+      "postal_code": [
+        "43916"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Unidad Deportiva",
+      "postal_code": [
+        "43909"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "43905"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Zacatepec",
+      "postal_code": [
+        "43923"
+      ]
+    },
+    {
+      "city": "Apan",
+      "colonia": "Zotoluca (Veloz)",
+      "postal_code": [
+        "43922"
+      ]
+    }
+  ]
+}

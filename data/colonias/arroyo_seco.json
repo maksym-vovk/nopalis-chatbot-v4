@@ -1,0 +1,547 @@
+{
+  "data": [
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Agua Fria de los Fresnos",
+      "postal_code": [
+        "76413"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Alpujarras",
+      "postal_code": [
+        "76420"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Arroyo Seco",
+      "postal_code": [
+        "76400"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Ayutla",
+      "postal_code": [
+        "76434"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Casas Viejas",
+      "postal_code": [
+        "76414"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Cerro Blanco",
+      "postal_code": [
+        "76426"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Conca",
+      "postal_code": [
+        "76410"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "El Aguacate",
+      "postal_code": [
+        "76410"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "El Barrito",
+      "postal_code": [
+        "76417"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "El Bosque",
+      "postal_code": [
+        "76414"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "El Ceronal (La Loma)",
+      "postal_code": [
+        "76410"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "El Coyote",
+      "postal_code": [
+        "76414"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "El Crucero del Sabinito",
+      "postal_code": [
+        "76410"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "El Durazno",
+      "postal_code": [
+        "76427"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "El Jardin",
+      "postal_code": [
+        "76425"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "El Nogal",
+      "postal_code": [
+        "76434"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "El Pino",
+      "postal_code": [
+        "76425"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "El Pitahayo",
+      "postal_code": [
+        "76410"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "El Pocito",
+      "postal_code": [
+        "76425"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "El Quirino",
+      "postal_code": [
+        "76417"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "76421"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "El Rejalgar",
+      "postal_code": [
+        "76410",
+        "76440"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "El Riachuelo",
+      "postal_code": [
+        "76421"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "El Sabinito",
+      "postal_code": [
+        "76413"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "El Sabino",
+      "postal_code": [
+        "76440"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "El Salitrillo",
+      "postal_code": [
+        "76414"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "El Temporalito",
+      "postal_code": [
+        "76410"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "El Tepozan",
+      "postal_code": [
+        "76420"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "El Trapiche",
+      "postal_code": [
+        "76440"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Jesus Maria",
+      "postal_code": [
+        "76411"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "La Cantera",
+      "postal_code": [
+        "76421"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "La Ceja",
+      "postal_code": [
+        "76421"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "76420"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "La Escondida de Guadalupe",
+      "postal_code": [
+        "76402"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "La Escondida de Hidalgo",
+      "postal_code": [
+        "76425"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "La Estancia",
+      "postal_code": [
+        "76434"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "La Florida",
+      "postal_code": [
+        "76420"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Laguna de la Cruz",
+      "postal_code": [
+        "76414"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "La Huastequita",
+      "postal_code": [
+        "76410",
+        "76426"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "La Laguna de Caballos (El Sabino)",
+      "postal_code": [
+        "76440"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "La Lagunita",
+      "postal_code": [
+        "76425"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "La Loma",
+      "postal_code": [
+        "76400",
+        "76420"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "La Maroma",
+      "postal_code": [
+        "76410"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "La Mohonera",
+      "postal_code": [
+        "76417"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "La Mora",
+      "postal_code": [
+        "76421"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "La Pechuga",
+      "postal_code": [
+        "76410"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Las Adjuntas",
+      "postal_code": [
+        "76420",
+        "76434"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Las Colmenas",
+      "postal_code": [
+        "76410"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Las Trancas",
+      "postal_code": [
+        "76414"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "76425"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Los Canelos",
+      "postal_code": [
+        "76410"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Los Capulines",
+      "postal_code": [
+        "76410"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Los Cuicillos",
+      "postal_code": [
+        "76426"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Los Guillenes",
+      "postal_code": [
+        "76420"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Los Puentes",
+      "postal_code": [
+        "76410"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Mesa del Coco",
+      "postal_code": [
+        "76421"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Mesa de los Uribe",
+      "postal_code": [
+        "76411"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Mesa del Platanito",
+      "postal_code": [
+        "76410"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Mesa de Palo Blanco",
+      "postal_code": [
+        "76410"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Mesas de Agua Fria",
+      "postal_code": [
+        "76411"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Milpas Viejas",
+      "postal_code": [
+        "76414"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Panales",
+      "postal_code": [
+        "76434"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Puerto Ayutla",
+      "postal_code": [
+        "76434"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Purisima de Arista",
+      "postal_code": [
+        "76440"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Rio del Carrizal",
+      "postal_code": [
+        "76421"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "San Felipe",
+      "postal_code": [
+        "76410"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Sanguijuela",
+      "postal_code": [
+        "76401"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "76410"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "San Jose de las Flores",
+      "postal_code": [
+        "76414"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "San Jose del Tepame",
+      "postal_code": [
+        "76424"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "San Juan Buenaventura",
+      "postal_code": [
+        "76417"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Santa Maria de los Cocos",
+      "postal_code": [
+        "76436"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Tanque Viejo",
+      "postal_code": [
+        "76411"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Tierras Prietas",
+      "postal_code": [
+        "76413"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Tuna Manza",
+      "postal_code": [
+        "76426"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Vegas Cuatas",
+      "postal_code": [
+        "76421"
+      ]
+    },
+    {
+      "city": "Arroyo Seco",
+      "colonia": "Villa Riviera",
+      "postal_code": [
+        "76410"
+      ]
+    }
+  ]
+}

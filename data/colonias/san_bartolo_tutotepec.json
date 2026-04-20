@@ -1,0 +1,909 @@
+{
+  "data": [
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Agua Escondida",
+      "postal_code": [
+        "43449"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Agua Grande",
+      "postal_code": [
+        "43453"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Agua Hedionda",
+      "postal_code": [
+        "43453"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Agua Linda (La Fabrica)",
+      "postal_code": [
+        "43452"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Anaya",
+      "postal_code": [
+        "43445"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Arroyo Seco",
+      "postal_code": [
+        "43451"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Buena Vista",
+      "postal_code": [
+        "43442"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Calintla",
+      "postal_code": [
+        "43442"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Camarones",
+      "postal_code": [
+        "43446"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Cerro de Buena Vista",
+      "postal_code": [
+        "43452"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Cerro Macho",
+      "postal_code": [
+        "43444"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Cerro Negro",
+      "postal_code": [
+        "43446"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Cerro Pelon",
+      "postal_code": [
+        "43459"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Cerro Verde",
+      "postal_code": [
+        "43445"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Chicamole",
+      "postal_code": [
+        "43444"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Cueva Ahumada",
+      "postal_code": [
+        "43448"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Del Canjoy",
+      "postal_code": [
+        "43455"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Diez Cerros",
+      "postal_code": [
+        "43446"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Arco",
+      "postal_code": [
+        "43459"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Banco",
+      "postal_code": [
+        "43448"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Caliche",
+      "postal_code": [
+        "43455"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Candeje",
+      "postal_code": [
+        "43443"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Canjoy (Casas Quemadas)",
+      "postal_code": [
+        "43455"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Cojolite",
+      "postal_code": [
+        "43453"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Copal",
+      "postal_code": [
+        "43451"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Coyul",
+      "postal_code": [
+        "43449"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Denxe",
+      "postal_code": [
+        "43446"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Donimo",
+      "postal_code": [
+        "43444"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Encinal",
+      "postal_code": [
+        "43443"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Fresno",
+      "postal_code": [
+        "43446"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Hongo",
+      "postal_code": [
+        "43444",
+        "43450"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Jicote",
+      "postal_code": [
+        "43445"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Jovion",
+      "postal_code": [
+        "43444"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Lindero Chico",
+      "postal_code": [
+        "43443"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Lindero de San Mateo",
+      "postal_code": [
+        "43446"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Mahuaquite",
+      "postal_code": [
+        "43447"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Mavodo",
+      "postal_code": [
+        "43443"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "43447"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Motho",
+      "postal_code": [
+        "43449"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Mundho",
+      "postal_code": [
+        "43444"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Nandho",
+      "postal_code": [
+        "43444"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Nanjo",
+      "postal_code": [
+        "43455"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Naranjal",
+      "postal_code": [
+        "43449"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Nenjo",
+      "postal_code": [
+        "43454"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El nundo",
+      "postal_code": [
+        "43447"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Oratorio",
+      "postal_code": [
+        "43453"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Paraiso de Tierra Fuerte",
+      "postal_code": [
+        "43445"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "43443"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Pinal",
+      "postal_code": [
+        "43453"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Popotillo Chico",
+      "postal_code": [
+        "43456"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Popotillo Grande",
+      "postal_code": [
+        "43456"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Progreso",
+      "postal_code": [
+        "43444"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "43444"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Seis",
+      "postal_code": [
+        "43449"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Templado",
+      "postal_code": [
+        "43452"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Tigrillo",
+      "postal_code": [
+        "43448"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Tomate",
+      "postal_code": [
+        "43450"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Veinte",
+      "postal_code": [
+        "43453"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Xuchitl",
+      "postal_code": [
+        "43454"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Zenthe",
+      "postal_code": [
+        "43453"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "El Zopilote",
+      "postal_code": [
+        "43442"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Huasquilla",
+      "postal_code": [
+        "43444"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Industrial",
+      "postal_code": [
+        "43440"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Juntas del Rio",
+      "postal_code": [
+        "43447"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "La Barranca (El Infiernillo)",
+      "postal_code": [
+        "43453"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "La Campana",
+      "postal_code": [
+        "43443"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "La Cerca",
+      "postal_code": [
+        "43445"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "La Cueva",
+      "postal_code": [
+        "43453"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "La Cumbre de la Campana",
+      "postal_code": [
+        "43440"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "La Cumbre de Muridores",
+      "postal_code": [
+        "43448"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "La Esmeralda",
+      "postal_code": [
+        "43440"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "La Flor de Santiago (La Flor)",
+      "postal_code": [
+        "43444"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "La Florida (La Canoa)",
+      "postal_code": [
+        "43455"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "La Huahua",
+      "postal_code": [
+        "43443"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "La Joya",
+      "postal_code": [
+        "43453"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "43440"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "La Loma de Cerro Verde",
+      "postal_code": [
+        "43445"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "La Loma de San Andres",
+      "postal_code": [
+        "43455"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "La Magdalena",
+      "postal_code": [
+        "43440"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "La Mesa",
+      "postal_code": [
+        "43444"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "La Pagua",
+      "postal_code": [
+        "43449"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "La Sabana",
+      "postal_code": [
+        "43450"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "La Segunda Rancheria",
+      "postal_code": [
+        "43446"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Las Juntas",
+      "postal_code": [
+        "43442"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "La Venta",
+      "postal_code": [
+        "43447"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "La Ventilla",
+      "postal_code": [
+        "43444"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "La Vereda",
+      "postal_code": [
+        "43459"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Llano Grande",
+      "postal_code": [
+        "43445"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Llano Seco",
+      "postal_code": [
+        "43450"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Loma Larga",
+      "postal_code": [
+        "43447"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "43449"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Los Manantiales",
+      "postal_code": [
+        "43443"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Los Planes",
+      "postal_code": [
+        "43447"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "43440"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Media Cuesta",
+      "postal_code": [
+        "43443"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Medio Monte",
+      "postal_code": [
+        "43444"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Milpa Larga",
+      "postal_code": [
+        "43455"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Monte Grande",
+      "postal_code": [
+        "43447"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Nuevo",
+      "postal_code": [
+        "43451"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Palo Gordo",
+      "postal_code": [
+        "43451"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Pie del Cerro",
+      "postal_code": [
+        "43443",
+        "43449"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Piedra Ancha",
+      "postal_code": [
+        "43443"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Piedra Blanca",
+      "postal_code": [
+        "43444"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Piedra Larga",
+      "postal_code": [
+        "43453"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Piedras Negras",
+      "postal_code": [
+        "43446"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Poza Larga",
+      "postal_code": [
+        "43446"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Pueblo Nuevo",
+      "postal_code": [
+        "43444"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Rincon de Cerro Macho",
+      "postal_code": [
+        "43448"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Rio Chiquito",
+      "postal_code": [
+        "43443"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Salto del Agua",
+      "postal_code": [
+        "43448"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "San Andres",
+      "postal_code": [
+        "43455"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "43450"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "San Bartolo Tutotepec",
+      "postal_code": [
+        "43440"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "San Gabriel",
+      "postal_code": [
+        "43446"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "43450"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "San Jeronimo",
+      "postal_code": [
+        "43445"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "San Juan de las Flores",
+      "postal_code": [
+        "43449"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "San Mateo",
+      "postal_code": [
+        "43446"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "43443"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "43450"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "43449"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Santiago",
+      "postal_code": [
+        "43443"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Santiaguito",
+      "postal_code": [
+        "43446"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Tenantitlan",
+      "postal_code": [
+        "43444"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Tierra Fuerte",
+      "postal_code": [
+        "43447"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Totoapan",
+      "postal_code": [
+        "43440"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Tutotepec",
+      "postal_code": [
+        "43447"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Valle Verde",
+      "postal_code": [
+        "43440"
+      ]
+    },
+    {
+      "city": "San Bartolo Tutotepec",
+      "colonia": "Xuchitlan",
+      "postal_code": [
+        "43447"
+      ]
+    }
+  ]
+}

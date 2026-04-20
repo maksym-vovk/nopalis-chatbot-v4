@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Atizapan",
+      "colonia": "El Tepiololco",
+      "postal_code": [
+        "52505"
+      ]
+    },
+    {
+      "city": "Atizapan",
+      "colonia": "La Remolacha",
+      "postal_code": [
+        "52506"
+      ]
+    },
+    {
+      "city": "Atizapan",
+      "colonia": "Libertad",
+      "postal_code": [
+        "52500"
+      ]
+    },
+    {
+      "city": "Atizapan",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "52503"
+      ]
+    },
+    {
+      "city": "Atizapan",
+      "colonia": "Santa Cruz Atizapan",
+      "postal_code": [
+        "52500"
+      ]
+    },
+    {
+      "city": "Atizapan",
+      "colonia": "Tepozoco",
+      "postal_code": [
+        "52504"
+      ]
+    }
+  ]
+}

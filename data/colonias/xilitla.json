@@ -1,0 +1,996 @@
+{
+  "data": [
+    {
+      "city": "Xilitla",
+      "colonia": "Agua de Cuayo",
+      "postal_code": [
+        "79928"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Agua de la Pena",
+      "postal_code": [
+        "79923"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Agua Fierro",
+      "postal_code": [
+        "79915"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Agua Fria",
+      "postal_code": [
+        "79907"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Agua Puerca",
+      "postal_code": [
+        "79905"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Ahuacatlan de Jesus",
+      "postal_code": [
+        "79920"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Ahuehueyo",
+      "postal_code": [
+        "79900"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Amayo de Zaragoza (Puerto de Amayo)",
+      "postal_code": [
+        "79920"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Apetzco",
+      "postal_code": [
+        "79927"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Arroyo Seco",
+      "postal_code": [
+        "79904"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Barrio San Pedro",
+      "postal_code": [
+        "79915"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "79905",
+        "79915",
+        "79923"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Cafetales",
+      "postal_code": [
+        "79906"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Cerro Quebrado",
+      "postal_code": [
+        "79927"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Chichimixtitla",
+      "postal_code": [
+        "79917"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Cruztitla",
+      "postal_code": [
+        "79903"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Cuahuatl",
+      "postal_code": [
+        "79901"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Cuartillo Nuevo",
+      "postal_code": [
+        "79905"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Cuartillo Viejo",
+      "postal_code": [
+        "79906"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Del Ajuate",
+      "postal_code": [
+        "79907"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Ejido Pena Blanca Limontitla",
+      "postal_code": [
+        "79916"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "El Balcon",
+      "postal_code": [
+        "79923"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "El Barrio",
+      "postal_code": [
+        "79924"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "El Canon",
+      "postal_code": [
+        "79913"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "79904"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "El Granado",
+      "postal_code": [
+        "79915"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "El Jobo",
+      "postal_code": [
+        "79901",
+        "79901"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "El Lagarto",
+      "postal_code": [
+        "79907"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "79907",
+        "79923"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "El Nacimiento",
+      "postal_code": [
+        "79915"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "El Naranjal Dos",
+      "postal_code": [
+        "79905"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "El Naranjal (La Ceiba)",
+      "postal_code": [
+        "79900"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "El Pino",
+      "postal_code": [
+        "79915"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "El Potrero",
+      "postal_code": [
+        "79907"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "El Puerto de Potrerillos",
+      "postal_code": [
+        "79920"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "El Reten",
+      "postal_code": [
+        "79924"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "79928"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "El Rincon de Zacatipa",
+      "postal_code": [
+        "79924"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "El Sabino",
+      "postal_code": [
+        "79907"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "El Tunel",
+      "postal_code": [
+        "79927"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "El Zancudo",
+      "postal_code": [
+        "79920"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Encinal Uno",
+      "postal_code": [
+        "79907"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "79900"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Huachichila (Barrio los Pocitos)",
+      "postal_code": [
+        "79903"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Ixtacamel Buenos Aires",
+      "postal_code": [
+        "79917"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Iztacapa",
+      "postal_code": [
+        "79904"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Jardin",
+      "postal_code": [
+        "79900"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Joya del Durazno",
+      "postal_code": [
+        "79924"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "La Ceiba",
+      "postal_code": [
+        "79923"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "La Chaca",
+      "postal_code": [
+        "79904"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "La Conchita",
+      "postal_code": [
+        "79903"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "La Cueva",
+      "postal_code": [
+        "79915"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "La Escalera",
+      "postal_code": [
+        "79917"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "La Escuela",
+      "postal_code": [
+        "79907"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "79907"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "La Gloria",
+      "postal_code": [
+        "79920"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "La Herradura",
+      "postal_code": [
+        "79917"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "La Joya",
+      "postal_code": [
+        "79910"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "La Joya de Tlaletla",
+      "postal_code": [
+        "79900"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "79915"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "La Loma",
+      "postal_code": [
+        "79904",
+        "79907"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "La Mojonera",
+      "postal_code": [
+        "79928"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "La Mora",
+      "postal_code": [
+        "79920"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "La Pagua",
+      "postal_code": [
+        "79900"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "La Palizada",
+      "postal_code": [
+        "79923"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "La Palma",
+      "postal_code": [
+        "79915"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "La Puerta de la Esperanza",
+      "postal_code": [
+        "79905"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Las Crucitas",
+      "postal_code": [
+        "79917"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "La Silleta",
+      "postal_code": [
+        "79923"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "79908"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Las Tiendas",
+      "postal_code": [
+        "79913"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "La Targea",
+      "postal_code": [
+        "79907"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "79901",
+        "79928"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "79927"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "La Victoria",
+      "postal_code": [
+        "79920"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Los Otates",
+      "postal_code": [
+        "79905"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Los Pocitos",
+      "postal_code": [
+        "79903"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Manteco",
+      "postal_code": [
+        "79907",
+        "79916"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Manteyo",
+      "postal_code": [
+        "79905"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Miramar Viejo",
+      "postal_code": [
+        "79920"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Moloxco",
+      "postal_code": [
+        "79903"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Nuevo",
+      "postal_code": [
+        "79907",
+        "79923"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Nuevo Miramar",
+      "postal_code": [
+        "79927"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Ollita del Pino",
+      "postal_code": [
+        "79924"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Otlaxhuayo",
+      "postal_code": [
+        "79908"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Paguayo",
+      "postal_code": [
+        "79907"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Papatlal",
+      "postal_code": [
+        "79907"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Pemoxco",
+      "postal_code": [
+        "79904"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Pena Blanca",
+      "postal_code": [
+        "79916"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Petatillo",
+      "postal_code": [
+        "79908",
+        "79923"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Pilahuehueyo",
+      "postal_code": [
+        "79905"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Pilateno",
+      "postal_code": [
+        "79907"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Pitzoatl",
+      "postal_code": [
+        "79917"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Plan de Juarez",
+      "postal_code": [
+        "79907"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Potrerillos",
+      "postal_code": [
+        "79920"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Poxtla (La Empresa)",
+      "postal_code": [
+        "79900"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Puerto de Belen",
+      "postal_code": [
+        "79903"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Puerto de la Victoria",
+      "postal_code": [
+        "79920"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Puerto del Durazno",
+      "postal_code": [
+        "79920"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Puerto Encinal",
+      "postal_code": [
+        "79906"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Puerto Tlaletla",
+      "postal_code": [
+        "79907"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Puerto Tres Cruces (San Antonio Xalcuayo Uno)",
+      "postal_code": [
+        "79927"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Quirambaro",
+      "postal_code": [
+        "79915"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "79906",
+        "79907",
+        "79928"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Rincon la Joya",
+      "postal_code": [
+        "79907"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "79910"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "San Antonio Huitzquilico (Barrio Centro)",
+      "postal_code": [
+        "79920"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "San Antonio Xalcuayo Dos",
+      "postal_code": [
+        "79907"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "San Jose",
+      "postal_code": [
+        "79915"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "San Pedro Huitzquilico",
+      "postal_code": [
+        "79915"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "79917"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Santa Anita",
+      "postal_code": [
+        "79923"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Sierra Chiquita",
+      "postal_code": [
+        "79920"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Sierra Mojada",
+      "postal_code": [
+        "79920"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Soledad de Zaragoza",
+      "postal_code": [
+        "79920"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Suchiayo",
+      "postal_code": [
+        "79910"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Tecaya Uno",
+      "postal_code": [
+        "79901"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Temascales",
+      "postal_code": [
+        "79906"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Tenepanco",
+      "postal_code": [
+        "79906"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Tepetzintla",
+      "postal_code": [
+        "79905"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Tierra Blanca Ejido",
+      "postal_code": [
+        "79907"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Tierra Blanca Fraccion",
+      "postal_code": [
+        "79907"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Tierra y Libertad",
+      "postal_code": [
+        "79900"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Tlacuapa Primera Seccion",
+      "postal_code": [
+        "79917"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Tlacuapa (Temascal)",
+      "postal_code": [
+        "79917"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Tlahuilapa",
+      "postal_code": [
+        "79917"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Tlamaya",
+      "postal_code": [
+        "79910"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Tlamimil",
+      "postal_code": [
+        "79922"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Tlapexmecayo",
+      "postal_code": [
+        "79917"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Tres Pozos",
+      "postal_code": [
+        "79923"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Uhaxuco",
+      "postal_code": [
+        "79907"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Uhaxuquito",
+      "postal_code": [
+        "79907"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Uxtuapan",
+      "postal_code": [
+        "79907"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Xaltipa",
+      "postal_code": [
+        "79906"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Xilitla",
+      "postal_code": [
+        "79900"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Xilitlilla",
+      "postal_code": [
+        "79920",
+        "79924"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Xiloxochico (El Chico)",
+      "postal_code": [
+        "79900"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Xocoyo",
+      "postal_code": [
+        "79906"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Zacatipa",
+      "postal_code": [
+        "79924"
+      ]
+    },
+    {
+      "city": "Xilitla",
+      "colonia": "Zapuyo",
+      "postal_code": [
+        "79905"
+      ]
+    }
+  ]
+}

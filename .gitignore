@@ -1,0 +1,12 @@
+.idea/
+*.zip
+*.md
+*.txt
+.DS_Store
+
+critical.css
+generate-critical.js
+index-critical.html
+node_modules
+package-lock.json
+package.json

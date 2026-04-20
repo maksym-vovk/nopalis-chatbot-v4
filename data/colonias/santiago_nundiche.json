@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Santiago Nundiche",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "69826"
+      ]
+    },
+    {
+      "city": "Santiago Nundiche",
+      "colonia": "Ignacio Allende",
+      "postal_code": [
+        "69824"
+      ]
+    },
+    {
+      "city": "Santiago Nundiche",
+      "colonia": "Morelos",
+      "postal_code": [
+        "69825"
+      ]
+    },
+    {
+      "city": "Santiago Nundiche",
+      "colonia": "Santiago Nundiche",
+      "postal_code": [
+        "69824"
+      ]
+    }
+  ]
+}

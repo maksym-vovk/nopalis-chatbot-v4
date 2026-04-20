@@ -1,0 +1,603 @@
+{
+  "data": [
+    {
+      "city": "Nocupetaro",
+      "colonia": "Agua Agria",
+      "postal_code": [
+        "61918"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Agua Santa",
+      "postal_code": [
+        "61915"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Aparandan (Mesa de Aparandan)",
+      "postal_code": [
+        "61917"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Barrio Alto",
+      "postal_code": [
+        "61900"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Ceiba Prieta",
+      "postal_code": [
+        "61907"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Cuimbo (Coimbo)",
+      "postal_code": [
+        "61903"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Cuirindalito",
+      "postal_code": [
+        "61900"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Cuispio",
+      "postal_code": [
+        "61918"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Atravesano",
+      "postal_code": [
+        "61915"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Cacao",
+      "postal_code": [
+        "61907"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Calabozo",
+      "postal_code": [
+        "61918"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Cirian",
+      "postal_code": [
+        "61914"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Copalito (Piedra de Alacranes)",
+      "postal_code": [
+        "61915"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Coyol",
+      "postal_code": [
+        "61905",
+        "61918"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Coyolito",
+      "postal_code": [
+        "61905",
+        "61909"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Limon",
+      "postal_code": [
+        "61918"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Manguito",
+      "postal_code": [
+        "61910"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "61900"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Ojo de Agua de Cuispio",
+      "postal_code": [
+        "61918"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Palmar",
+      "postal_code": [
+        "61904"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Palmito",
+      "postal_code": [
+        "61913"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Palo Blanco",
+      "postal_code": [
+        "61907"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Paso del Pinzan",
+      "postal_code": [
+        "61903"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Platanal (Hacienda del Platanal)",
+      "postal_code": [
+        "61909"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "61900"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Potrero",
+      "postal_code": [
+        "61907"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Quino",
+      "postal_code": [
+        "61914"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Rincon Romero de las Palmas",
+      "postal_code": [
+        "61918"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Rodeo",
+      "postal_code": [
+        "61917"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Salitrillo",
+      "postal_code": [
+        "61914"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Sauz",
+      "postal_code": [
+        "61916"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "61917"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "El Zapotito",
+      "postal_code": [
+        "61916"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Guadalupe (Hacienda de Guadalupe)",
+      "postal_code": [
+        "61918"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Guaginiquil (Guajiniquil)",
+      "postal_code": [
+        "61918"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "La Angostura (Puerto Hondo)",
+      "postal_code": [
+        "61915"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "La Cadena",
+      "postal_code": [
+        "61913"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "La Calera",
+      "postal_code": [
+        "61913"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "La Chalana",
+      "postal_code": [
+        "61909"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "La Chorreada (La Pena Chorreada)",
+      "postal_code": [
+        "61904"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "61917"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "61905"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "La Estancia Chica (La Estancia de Mamey)",
+      "postal_code": [
+        "61909"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "La Estancia Grande",
+      "postal_code": [
+        "61911"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "61900"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "La Limoncilla",
+      "postal_code": [
+        "61917"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "La Loma Blanca",
+      "postal_code": [
+        "61917"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "La Loma del Copal",
+      "postal_code": [
+        "61917"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "La Mocha",
+      "postal_code": [
+        "61914"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "La Sanguijuela",
+      "postal_code": [
+        "61917"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Las Calabazas",
+      "postal_code": [
+        "61915"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Las Cocinas",
+      "postal_code": [
+        "61913"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "61900"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Las Huertas",
+      "postal_code": [
+        "61907"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Las Juntas",
+      "postal_code": [
+        "61918"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "61916"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Las Palmeras",
+      "postal_code": [
+        "61900"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Las Paredes",
+      "postal_code": [
+        "61917"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Las Parotas",
+      "postal_code": [
+        "61908"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Las Pilas",
+      "postal_code": [
+        "61913"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Las Saibas",
+      "postal_code": [
+        "61917"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Las Sidras",
+      "postal_code": [
+        "61907"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Las Trojes",
+      "postal_code": [
+        "61917"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Loma Blanca",
+      "postal_code": [
+        "61918"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Loma los Pelillos",
+      "postal_code": [
+        "61917"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Los Brasiles (Puerto los Brasiles)",
+      "postal_code": [
+        "61913"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Los Cuirindales",
+      "postal_code": [
+        "61900",
+        "61904"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Los Pinoncillos",
+      "postal_code": [
+        "61917"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Los Planes",
+      "postal_code": [
+        "61909",
+        "61917"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Los Variles",
+      "postal_code": [
+        "61915"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Mariana",
+      "postal_code": [
+        "61916"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Melchor Ocampo (San Antonio de las Huertas)",
+      "postal_code": [
+        "61910"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Nocupetaro de Morelos",
+      "postal_code": [
+        "61900"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Ojo de Agua del Cobre",
+      "postal_code": [
+        "61904"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Puerto el Mirador",
+      "postal_code": [
+        "61917"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Rincon de San Isidro",
+      "postal_code": [
+        "61916"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "San Juan",
+      "postal_code": [
+        "61907"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "San Juan de la Concepcion",
+      "postal_code": [
+        "61908"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "61904"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Santa Barbara (El Reparo)",
+      "postal_code": [
+        "61917"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Santa Ines (La Escondida)",
+      "postal_code": [
+        "61913"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "61913"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Tumbiriche",
+      "postal_code": [
+        "61917"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Upacuaro",
+      "postal_code": [
+        "61910"
+      ]
+    },
+    {
+      "city": "Nocupetaro",
+      "colonia": "Vista Bella",
+      "postal_code": [
+        "61909"
+      ]
+    }
+  ]
+}

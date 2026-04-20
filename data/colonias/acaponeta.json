@@ -1,0 +1,606 @@
+{
+  "data": [
+    {
+      "city": "Acaponeta",
+      "colonia": "Acaponeta Centro",
+      "postal_code": [
+        "63430"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Amado Nervo",
+      "postal_code": [
+        "63425"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Antonio Chumacero",
+      "postal_code": [
+        "63434"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Arroyo de San Francisco",
+      "postal_code": [
+        "63425"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Buenavista (Las Paredes)",
+      "postal_code": [
+        "63421"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Canones",
+      "postal_code": [
+        "63409"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Casas Coloradas",
+      "postal_code": [
+        "63420"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Cerro Bola",
+      "postal_code": [
+        "63412"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Chalpa",
+      "postal_code": [
+        "63415"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Del Carmen",
+      "postal_code": [
+        "63436"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "El Aguaje",
+      "postal_code": [
+        "63410"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "El Alacran",
+      "postal_code": [
+        "63421"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "El Camichin",
+      "postal_code": [
+        "63434"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "63409"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "El Carrizo",
+      "postal_code": [
+        "63406"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "El Centenario",
+      "postal_code": [
+        "63413"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "El Duraznito",
+      "postal_code": [
+        "63407"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "El Guayabo",
+      "postal_code": [
+        "63412"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "El Lloron",
+      "postal_code": [
+        "63425"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "El Molino",
+      "postal_code": [
+        "63435"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "El Naranjo",
+      "postal_code": [
+        "63403"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "El Oro",
+      "postal_code": [
+        "63408"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "El Recodo",
+      "postal_code": [
+        "63413"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "El Resbalon",
+      "postal_code": [
+        "63429"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "El Tacote",
+      "postal_code": [
+        "63412"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "El Tejon (El Canton)",
+      "postal_code": [
+        "63416"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "El Tigre",
+      "postal_code": [
+        "63410"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "El Vigal",
+      "postal_code": [
+        "63403"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "63424"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Estacion Crucero de Acaponeta",
+      "postal_code": [
+        "63414"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Estadio",
+      "postal_code": [
+        "63436"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Hacienda de Mariquitas",
+      "postal_code": [
+        "63413"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Hacienda Vieja",
+      "postal_code": [
+        "63413"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Hojas Anchas",
+      "postal_code": [
+        "63414"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Independencia",
+      "postal_code": [
+        "63435"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "INFONAVIT",
+      "postal_code": [
+        "63434"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "INVINAY Porfirio Vazquez Cosio",
+      "postal_code": [
+        "63435"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Jardin",
+      "postal_code": [
+        "63434"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Juan Escutia",
+      "postal_code": [
+        "63437"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "La Bayona",
+      "postal_code": [
+        "63410"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "La Capilla",
+      "postal_code": [
+        "63436"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "La Cortez (El Zapote)",
+      "postal_code": [
+        "63420"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "La Guacamaya",
+      "postal_code": [
+        "63409"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "La Guasima",
+      "postal_code": [
+        "63425"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "La Haciendilla",
+      "postal_code": [
+        "63412"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "La Higuerita Nueva (El Carrizo)",
+      "postal_code": [
+        "63410"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "La Higuerita Vieja",
+      "postal_code": [
+        "63421"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "La Lagunita",
+      "postal_code": [
+        "63403"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "La Morita (Anamorita)",
+      "postal_code": [
+        "63403"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "La Palma",
+      "postal_code": [
+        "63413"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "La Paloma Nueva Reforma",
+      "postal_code": [
+        "63427"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "La Paloma Primera",
+      "postal_code": [
+        "63427"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Las Bugambilias",
+      "postal_code": [
+        "63421"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Las Casitas",
+      "postal_code": [
+        "63413"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Las Colonias",
+      "postal_code": [
+        "63436"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Las Higueras",
+      "postal_code": [
+        "63403"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Las Mesitas",
+      "postal_code": [
+        "63403"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Las Mojoneras",
+      "postal_code": [
+        "63437"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Las Palmitas",
+      "postal_code": [
+        "63414"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "63437"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Llano de la Cruz",
+      "postal_code": [
+        "63420"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Llano de Mariquitas",
+      "postal_code": [
+        "63413"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Loma Atravesada",
+      "postal_code": [
+        "63437"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Los Morillo",
+      "postal_code": [
+        "63406"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Los Sandovales",
+      "postal_code": [
+        "63421"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Mazatlancito",
+      "postal_code": [
+        "63436"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Mesa de la Laguna",
+      "postal_code": [
+        "63407"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Mesa de Pedro Pablo",
+      "postal_code": [
+        "63426"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Mesa las Arpas",
+      "postal_code": [
+        "63404"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Nueva Galaxia",
+      "postal_code": [
+        "63435"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Ochenta y Seis Batallon",
+      "postal_code": [
+        "63413"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Piedra Ancha",
+      "postal_code": [
+        "63420"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "San Blasito",
+      "postal_code": [
+        "63424"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "San Diego de Alcala",
+      "postal_code": [
+        "63408"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "San Dieguito de Abajo",
+      "postal_code": [
+        "63405"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "San Dieguito de Arriba",
+      "postal_code": [
+        "63405"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "San Jose de Gracia",
+      "postal_code": [
+        "63400"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "San Jose de Motaje",
+      "postal_code": [
+        "63429"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "63427"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "San Pedro de Honor",
+      "postal_code": [
+        "63426"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "63407"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Saycota",
+      "postal_code": [
+        "63423"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Sayulilla",
+      "postal_code": [
+        "63420"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Valle de la Urraca (El Cabildo)",
+      "postal_code": [
+        "63415"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Vicente Lombardo Toledano",
+      "postal_code": [
+        "63435"
+      ]
+    },
+    {
+      "city": "Acaponeta",
+      "colonia": "Zavala",
+      "postal_code": [
+        "63429"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Tepache",
+      "colonia": "Casa Grande",
+      "postal_code": [
+        "84754"
+      ]
+    },
+    {
+      "city": "Tepache",
+      "colonia": "Lampazos",
+      "postal_code": [
+        "84760"
+      ]
+    },
+    {
+      "city": "Tepache",
+      "colonia": "Tepache",
+      "postal_code": [
+        "84750"
+      ]
+    }
+  ]
+}

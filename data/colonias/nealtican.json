@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Nealtican",
+      "colonia": "Guadalupe Hidalgo",
+      "postal_code": [
+        "74305"
+      ]
+    },
+    {
+      "city": "Nealtican",
+      "colonia": "Nealtican",
+      "postal_code": [
+        "74300"
+      ]
+    },
+    {
+      "city": "Nealtican",
+      "colonia": "San Buenaventura Nealtican",
+      "postal_code": [
+        "74300"
+      ]
+    },
+    {
+      "city": "Nealtican",
+      "colonia": "Xaltepec",
+      "postal_code": [
+        "74300"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "data": [
+    {
+      "city": "Lopez",
+      "colonia": "Agua de Pinole",
+      "postal_code": [
+        "33956"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Agua Escondida",
+      "postal_code": [
+        "33954"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Agua Nueva",
+      "postal_code": [
+        "33954"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Agua Viva",
+      "postal_code": [
+        "33946"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Ana Margarita",
+      "postal_code": [
+        "33944"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Atotonilco (San Quintin)",
+      "postal_code": [
+        "33944"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Blanco",
+      "postal_code": [
+        "33946"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Consuelo (Santa Martha)",
+      "postal_code": [
+        "33946"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Corea",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Corrales",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Cuevas el Toro",
+      "postal_code": [
+        "33956"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "El Ancon",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "El Berrendo",
+      "postal_code": [
+        "33956"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "El Cairo",
+      "postal_code": [
+        "33945"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "El Consuelo",
+      "postal_code": [
+        "33957"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "El Durazno",
+      "postal_code": [
+        "33947"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "El Granjel",
+      "postal_code": [
+        "33944"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "El Malpais Dos",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "El Malpais Uno",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "El Manantial",
+      "postal_code": [
+        "33944"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "El Milagro",
+      "postal_code": [
+        "33943",
+        "33943",
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "El Mimbre",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "El Noqueno",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "El Pajarito (Los Laureles)",
+      "postal_code": [
+        "33955"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "El Pajaro (El Vergel)",
+      "postal_code": [
+        "33955"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "El Perote",
+      "postal_code": [
+        "33944"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "El Piloto",
+      "postal_code": [
+        "33946"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "El Pino",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "33945"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "El Potrero",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "El Sinai",
+      "postal_code": [
+        "33943"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "El Torreon",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "El ultimo Esfuerzo",
+      "postal_code": [
+        "33947"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "El Vergel",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Flores",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "33943"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Granja la Joya",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Huerta Dos Reyes",
+      "postal_code": [
+        "33946"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Jalapa",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "33954"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "33944"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "La Joya",
+      "postal_code": [
+        "33944"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "La Mota",
+      "postal_code": [
+        "33944"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "La Posta",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Las Beatrices",
+      "postal_code": [
+        "33946"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "33944"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Las Norias",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Las Viboras",
+      "postal_code": [
+        "33944"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Las Virginias",
+      "postal_code": [
+        "33944"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "33954"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "La Vina",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Los Alamitos",
+      "postal_code": [
+        "33945"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Los Compadres",
+      "postal_code": [
+        "33944"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Los Cuates",
+      "postal_code": [
+        "33944"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Los Gavilanes",
+      "postal_code": [
+        "33955"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Los Girasoles",
+      "postal_code": [
+        "33954"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Los Juanes",
+      "postal_code": [
+        "33946"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Los Ponce",
+      "postal_code": [
+        "33953"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "33946"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Los Saucos",
+      "postal_code": [
+        "33943"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Los Veranos",
+      "postal_code": [
+        "33943"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Molina Enriquez",
+      "postal_code": [
+        "33943"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Morteros",
+      "postal_code": [
+        "33956"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Octavio Lopez Centro",
+      "postal_code": [
+        "33940"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Palmolayo",
+      "postal_code": [
+        "33944"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Palomas",
+      "postal_code": [
+        "33944"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Paso del Macho",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Penoles",
+      "postal_code": [
+        "33953"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Pina",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Presidentes",
+      "postal_code": [
+        "33940"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Preson de Gertrudis",
+      "postal_code": [
+        "33956"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Providencia",
+      "postal_code": [
+        "33955"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Rancho el alamo",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Rancho Ibarra",
+      "postal_code": [
+        "33944"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Rancho los Pelones (El Solo)",
+      "postal_code": [
+        "33946"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Salaices",
+      "postal_code": [
+        "33943"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "33946",
+        "33953"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "San Jose",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "San Jose del Fresno",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "San Jose las Adargas",
+      "postal_code": [
+        "33956"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "San Julian",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "33944"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "San Martin",
+      "postal_code": [
+        "33946"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "San Martin (Los Valles)",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Santa Ana de Abajo",
+      "postal_code": [
+        "33943"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Santa Elena de la Cruz",
+      "postal_code": [
+        "33954"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Santa Isabel",
+      "postal_code": [
+        "33950"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "33944"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Santa Paola",
+      "postal_code": [
+        "33944"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "33944"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Santo Domingo (Las Coyoteras)",
+      "postal_code": [
+        "33946"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Tres Hermanos",
+      "postal_code": [
+        "33943",
+        "33944"
+      ]
+    },
+    {
+      "city": "Lopez",
+      "colonia": "Troya",
+      "postal_code": [
+        "33945"
+      ]
+    }
+  ]
+}

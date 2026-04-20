@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Reforma de Pineda",
+      "colonia": "Esperanza",
+      "postal_code": [
+        "70170"
+      ]
+    },
+    {
+      "city": "Reforma de Pineda",
+      "colonia": "Primera Seccion",
+      "postal_code": [
+        "70170"
+      ]
+    },
+    {
+      "city": "Reforma de Pineda",
+      "colonia": "Reforma de Pineda",
+      "postal_code": [
+        "70170"
+      ]
+    },
+    {
+      "city": "Reforma de Pineda",
+      "colonia": "Tercera Seccion",
+      "postal_code": [
+        "70170"
+      ]
+    }
+  ]
+}

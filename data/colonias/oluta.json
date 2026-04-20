@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "city": "Oluta",
+      "colonia": "Correa",
+      "postal_code": [
+        "96169"
+      ]
+    },
+    {
+      "city": "Oluta",
+      "colonia": "El Campero",
+      "postal_code": [
+        "96166"
+      ]
+    },
+    {
+      "city": "Oluta",
+      "colonia": "Los Amigos [Granja Avicola]",
+      "postal_code": [
+        "96166"
+      ]
+    },
+    {
+      "city": "Oluta",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "96164"
+      ]
+    },
+    {
+      "city": "Oluta",
+      "colonia": "Ojapa",
+      "postal_code": [
+        "96165"
+      ]
+    },
+    {
+      "city": "Oluta",
+      "colonia": "Olmeca",
+      "postal_code": [
+        "96160"
+      ]
+    },
+    {
+      "city": "Oluta",
+      "colonia": "Oluta",
+      "postal_code": [
+        "96160"
+      ]
+    },
+    {
+      "city": "Oluta",
+      "colonia": "San Judas Tadeo",
+      "postal_code": [
+        "96166"
+      ]
+    },
+    {
+      "city": "Oluta",
+      "colonia": "Tenejapa",
+      "postal_code": [
+        "96160"
+      ]
+    }
+  ]
+}

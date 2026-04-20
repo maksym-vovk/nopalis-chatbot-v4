@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Natividad",
+      "colonia": "Agua Blanca",
+      "postal_code": [
+        "68700"
+      ]
+    },
+    {
+      "city": "Natividad",
+      "colonia": "El Colorado",
+      "postal_code": [
+        "68700"
+      ]
+    },
+    {
+      "city": "Natividad",
+      "colonia": "Natividad",
+      "postal_code": [
+        "68700"
+      ]
+    },
+    {
+      "city": "Natividad",
+      "colonia": "San Vicente",
+      "postal_code": [
+        "68700"
+      ]
+    },
+    {
+      "city": "Natividad",
+      "colonia": "Unidad Deportiva",
+      "postal_code": [
+        "68700"
+      ]
+    }
+  ]
+}

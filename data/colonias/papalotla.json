@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Papalotla",
+      "colonia": "Belem",
+      "postal_code": [
+        "56053"
+      ]
+    },
+    {
+      "city": "Papalotla",
+      "colonia": "Chimalpa",
+      "postal_code": [
+        "56054"
+      ]
+    },
+    {
+      "city": "Papalotla",
+      "colonia": "Coxotla",
+      "postal_code": [
+        "56055"
+      ]
+    },
+    {
+      "city": "Papalotla",
+      "colonia": "Ixayoc",
+      "postal_code": [
+        "56057"
+      ]
+    },
+    {
+      "city": "Papalotla",
+      "colonia": "Mazatla",
+      "postal_code": [
+        "56056"
+      ]
+    },
+    {
+      "city": "Papalotla",
+      "colonia": "Papalotla",
+      "postal_code": [
+        "56050"
+      ]
+    }
+  ]
+}

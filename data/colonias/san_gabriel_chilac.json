@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Gabriel Chilac",
+      "colonia": "San Gabriel Chilac",
+      "postal_code": [
+        "75880"
+      ]
+    },
+    {
+      "city": "San Gabriel Chilac",
+      "colonia": "San Gabriel Vista Hermosa",
+      "postal_code": [
+        "75886"
+      ]
+    },
+    {
+      "city": "San Gabriel Chilac",
+      "colonia": "San Juan Atzingo",
+      "postal_code": [
+        "75885"
+      ]
+    }
+  ]
+}

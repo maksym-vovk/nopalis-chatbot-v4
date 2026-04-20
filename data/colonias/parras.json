@@ -1,0 +1,998 @@
+{
+  "data": [
+    {
+      "city": "Parras",
+      "colonia": "Abrevadero",
+      "postal_code": [
+        "27994"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Agua de los Padres",
+      "postal_code": [
+        "27984"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Antigua Guayulera",
+      "postal_code": [
+        "27988"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Bajio del Calabacillal",
+      "postal_code": [
+        "27996"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Barrio de La Loma",
+      "postal_code": [
+        "27986"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Barrio de La Tequila",
+      "postal_code": [
+        "27986"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Barrio del Perico",
+      "postal_code": [
+        "27989"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Barrio del Sombreretillo",
+      "postal_code": [
+        "27983"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Barrio Macuyu",
+      "postal_code": [
+        "27986"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Barrio Santo Nino",
+      "postal_code": [
+        "27983"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Barrio Tacubaya",
+      "postal_code": [
+        "27983"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Boquillas del Refugio",
+      "postal_code": [
+        "27993"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Burocratas",
+      "postal_code": [
+        "27988"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Cadillal",
+      "postal_code": [
+        "27993"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Cerro Colorado",
+      "postal_code": [
+        "27993"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Cienega del Carmen",
+      "postal_code": [
+        "27996"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "CIPSA",
+      "postal_code": [
+        "27985"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Ciudadela",
+      "postal_code": [
+        "27985"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Cruz Verde",
+      "postal_code": [
+        "27996"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Cuatro de Marzo",
+      "postal_code": [
+        "27993"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Cuatro Hermanos (El Sol)",
+      "postal_code": [
+        "27993"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Del Marquez",
+      "postal_code": [
+        "27987"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Del Refugio",
+      "postal_code": [
+        "27989"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Del Santuario",
+      "postal_code": [
+        "27986"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "El Amparo (La Pena)",
+      "postal_code": [
+        "27997"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "El Capulin",
+      "postal_code": [
+        "27995"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "27996"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "El Cinco (Cinco de Mayo)",
+      "postal_code": [
+        "27994"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "El Durazno",
+      "postal_code": [
+        "27994"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Eliseo Mendoza Berrueto",
+      "postal_code": [
+        "27986"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "El Mesteno",
+      "postal_code": [
+        "27996"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "El Mimbre",
+      "postal_code": [
+        "27990"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "27984"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "27994"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "El Porvenir de Abajo",
+      "postal_code": [
+        "27996"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "El Progreso (San Isidro del Progreso)",
+      "postal_code": [
+        "27990"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "El Refugio (La Quiroga)",
+      "postal_code": [
+        "27990"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "El Sacramento (Sacramento de la Jarosa)",
+      "postal_code": [
+        "27990"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "El Saucillo",
+      "postal_code": [
+        "27996"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "El Siete de Enero (El Mezquite)",
+      "postal_code": [
+        "27992"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "El Sol",
+      "postal_code": [
+        "27990"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "El Vergel",
+      "postal_code": [
+        "27989"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "27989"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Esmeralda",
+      "postal_code": [
+        "27985"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Estrella",
+      "postal_code": [
+        "27980"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Federico Cardenas",
+      "postal_code": [
+        "27987"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Ganivete",
+      "postal_code": [
+        "27996"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Garambullo",
+      "postal_code": [
+        "27991"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Grande",
+      "postal_code": [
+        "27990"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Guillermo Urbina",
+      "postal_code": [
+        "27989"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Hacienda del Rosario",
+      "postal_code": [
+        "27988"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Hacienda los Vinedos",
+      "postal_code": [
+        "27985"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Hacienda San Lorenzo (Casa Madero)",
+      "postal_code": [
+        "27993"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Huariche",
+      "postal_code": [
+        "27994"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Independencia",
+      "postal_code": [
+        "27987"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "INFONAVIT Nogalera",
+      "postal_code": [
+        "27987"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Jalapa",
+      "postal_code": [
+        "27991"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Jardines del Marquez",
+      "postal_code": [
+        "27988"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Jazminal",
+      "postal_code": [
+        "27994"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Jose G Madero",
+      "postal_code": [
+        "27989"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "La Candelaria",
+      "postal_code": [
+        "27990"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "La Candelaria de los Yeguales",
+      "postal_code": [
+        "27992"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "La Constancia",
+      "postal_code": [
+        "27992"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "La Ermita de Guadalupe",
+      "postal_code": [
+        "27986"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "La Luz",
+      "postal_code": [
+        "27990"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "La Morita",
+      "postal_code": [
+        "27991"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "La Paloma",
+      "postal_code": [
+        "27996"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "La Presa",
+      "postal_code": [
+        "27994"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "La Requena (La Requena de Fatima)",
+      "postal_code": [
+        "27990"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Las Abras",
+      "postal_code": [
+        "27992"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Las animas",
+      "postal_code": [
+        "27991"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Las Gordas (Las Conchas)",
+      "postal_code": [
+        "27990"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Las Palmeras",
+      "postal_code": [
+        "27989"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Las Tres Lomas",
+      "postal_code": [
+        "27986"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "La Vega",
+      "postal_code": [
+        "27996"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "27983"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Loma Bonita (La Vega)",
+      "postal_code": [
+        "27996"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "27987"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Los Arcos",
+      "postal_code": [
+        "27988"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Los Barrios",
+      "postal_code": [
+        "27989"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Los Castro",
+      "postal_code": [
+        "27994"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Los Hoyos (El Potrero)",
+      "postal_code": [
+        "27994"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Luz Rodriguez de las Fuentes",
+      "postal_code": [
+        "27989"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Madero [Estacion]",
+      "postal_code": [
+        "27990"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Marquez de Aguayo",
+      "postal_code": [
+        "27980"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Menchaca (Tanque de Menchaca)",
+      "postal_code": [
+        "27995"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Miramar",
+      "postal_code": [
+        "27985"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Nogalar",
+      "postal_code": [
+        "27987"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Notillas",
+      "postal_code": [
+        "27991"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Nuevo Sabanilla (Sabanilla)",
+      "postal_code": [
+        "27992"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Nuevo Sol",
+      "postal_code": [
+        "27985"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "27984"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Paila",
+      "postal_code": [
+        "27996"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Palo Alto (El Carrizal)",
+      "postal_code": [
+        "27996"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Parras",
+      "postal_code": [
+        "27987"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Parras 85 (Y Griega)",
+      "postal_code": [
+        "27980"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Parras de la Fuente Centro",
+      "postal_code": [
+        "27980"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Piedra Blanca",
+      "postal_code": [
+        "27996"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Pomona II",
+      "postal_code": [
+        "27990"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Presa de San Antonio",
+      "postal_code": [
+        "27996"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "PRI 92",
+      "postal_code": [
+        "27984"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Profesor Humberto Moreira Valdez",
+      "postal_code": [
+        "27989"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Providencia (Maravillas Uno)",
+      "postal_code": [
+        "27990"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Quintas del Valle",
+      "postal_code": [
+        "27987"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Rincon del Montero",
+      "postal_code": [
+        "27989"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Rincon del Refugio",
+      "postal_code": [
+        "27983"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Rogelio Montemayor",
+      "postal_code": [
+        "27987"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Sabanilla Dos (Sabanilla del Tapon)",
+      "postal_code": [
+        "27992"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Saltillo 400",
+      "postal_code": [
+        "27984"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "27986"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "27996"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "San Francisco del Barrial",
+      "postal_code": [
+        "27995"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "San Francisco del Progreso",
+      "postal_code": [
+        "27993"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "27993"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "San Jose de la Union",
+      "postal_code": [
+        "27991"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "San Jose de Mahoma",
+      "postal_code": [
+        "27990"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "San Jose de Patagalana",
+      "postal_code": [
+        "27994"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "27993"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "27994"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "San Miguel el Alto",
+      "postal_code": [
+        "27994"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "San Rafael de la Hedionda",
+      "postal_code": [
+        "27993"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "San Rafael de los Milagros",
+      "postal_code": [
+        "27993"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "San Rafael de los Yeguales",
+      "postal_code": [
+        "27992"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Santa Cecilia (La Cecilia)",
+      "postal_code": [
+        "27996"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Santa Isabel y Santa Rita",
+      "postal_code": [
+        "27993"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Santa Isabel y Santa Rita Dos",
+      "postal_code": [
+        "27993"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "27986"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Santa Maria de las Esperanzas",
+      "postal_code": [
+        "27996"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Santa Maria (Santa Maria Numero Tres)",
+      "postal_code": [
+        "27990"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Seguin",
+      "postal_code": [
+        "27996"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Seis de Enero",
+      "postal_code": [
+        "27994"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Sol Azteca",
+      "postal_code": [
+        "27984"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Sombreretillo",
+      "postal_code": [
+        "27994"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Talia",
+      "postal_code": [
+        "27990"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Tanque Nuevo",
+      "postal_code": [
+        "27992"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Tizoc",
+      "postal_code": [
+        "27996"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Trincheras",
+      "postal_code": [
+        "27996"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Valle de Parras",
+      "postal_code": [
+        "27989"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Veinte de Noviembre (Veinte de Noviembre Nuevo)",
+      "postal_code": [
+        "27996"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Veintiocho de Agosto",
+      "postal_code": [
+        "27990"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Vidriera",
+      "postal_code": [
+        "27987"
+      ]
+    },
+    {
+      "city": "Parras",
+      "colonia": "Vinedos del Marquez",
+      "postal_code": [
+        "27985"
+      ]
+    }
+  ]
+}

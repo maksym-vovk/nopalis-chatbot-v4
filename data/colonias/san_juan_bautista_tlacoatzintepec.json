@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "San Juan Bautista Tlacoatzintepec",
+      "colonia": "Arroyo Platanal",
+      "postal_code": [
+        "68652"
+      ]
+    },
+    {
+      "city": "San Juan Bautista Tlacoatzintepec",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "68652"
+      ]
+    },
+    {
+      "city": "San Juan Bautista Tlacoatzintepec",
+      "colonia": "San Esteban Teltitlan",
+      "postal_code": [
+        "68651"
+      ]
+    },
+    {
+      "city": "San Juan Bautista Tlacoatzintepec",
+      "colonia": "San Juan Bautista Tlacoatzintepec",
+      "postal_code": [
+        "68650"
+      ]
+    },
+    {
+      "city": "San Juan Bautista Tlacoatzintepec",
+      "colonia": "San Pedro la Alianza",
+      "postal_code": [
+        "68652"
+      ]
+    }
+  ]
+}

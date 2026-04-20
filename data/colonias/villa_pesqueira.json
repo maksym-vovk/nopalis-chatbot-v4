@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Villa Pesqueira",
+      "colonia": "Adivino",
+      "postal_code": [
+        "84790"
+      ]
+    },
+    {
+      "city": "Villa Pesqueira",
+      "colonia": "Nacori Grande",
+      "postal_code": [
+        "84775"
+      ]
+    },
+    {
+      "city": "Villa Pesqueira",
+      "colonia": "Villa Pesqueira (Matape)",
+      "postal_code": [
+        "84770"
+      ]
+    }
+  ]
+}

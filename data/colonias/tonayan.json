@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Tonayan",
+      "colonia": "Monte Real",
+      "postal_code": [
+        "91360"
+      ]
+    },
+    {
+      "city": "Tonayan",
+      "colonia": "Puentezuelos",
+      "postal_code": [
+        "91360"
+      ]
+    },
+    {
+      "city": "Tonayan",
+      "colonia": "Tonayan",
+      "postal_code": [
+        "91360"
+      ]
+    },
+    {
+      "city": "Tonayan",
+      "colonia": "Zacatal",
+      "postal_code": [
+        "91360"
+      ]
+    }
+  ]
+}

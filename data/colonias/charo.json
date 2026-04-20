@@ -1,0 +1,530 @@
+{
+  "data": [
+    {
+      "city": "Charo",
+      "colonia": "Agua Fria",
+      "postal_code": [
+        "61327"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Ailes Dos",
+      "postal_code": [
+        "61323"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Arumbaro",
+      "postal_code": [
+        "61321"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Barranca del Agua",
+      "postal_code": [
+        "61328"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Caracuatas",
+      "postal_code": [
+        "61322"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "CERESO Lic. David Franco Rodriguez (Mil Cumbres)",
+      "postal_code": [
+        "61312"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Charo",
+      "postal_code": [
+        "61300"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Crucero de Irapeo (Kilometro Dieciseis)",
+      "postal_code": [
+        "61314"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "El alamo",
+      "postal_code": [
+        "61323"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "61323"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "El Bosque",
+      "postal_code": [
+        "61323"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "El Cafe",
+      "postal_code": [
+        "61327"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "El Cuartel",
+      "postal_code": [
+        "61328"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "El Cuervo",
+      "postal_code": [
+        "61304"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "El Durazno",
+      "postal_code": [
+        "61320"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "El Epazote",
+      "postal_code": [
+        "61328"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "El Guayabo",
+      "postal_code": [
+        "61320"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "El Limoncito",
+      "postal_code": [
+        "61321"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "El Llano",
+      "postal_code": [
+        "61312"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "El Mastranto",
+      "postal_code": [
+        "61320"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "El Palmar",
+      "postal_code": [
+        "61322"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "61304"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "El Temazcal",
+      "postal_code": [
+        "61323"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "El Vado",
+      "postal_code": [
+        "61304"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "El Vaquerito",
+      "postal_code": [
+        "61324"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "El Violin",
+      "postal_code": [
+        "61328"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "El Zapote (El Zapotito)",
+      "postal_code": [
+        "61304"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Entrada a las Mesas (El Zapote)",
+      "postal_code": [
+        "61312"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "61310"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Girasoles de Charo",
+      "postal_code": [
+        "61312"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Irapeo",
+      "postal_code": [
+        "61310"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Jaripeo",
+      "postal_code": [
+        "61312"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Kilometro Veintitres",
+      "postal_code": [
+        "61324"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "La Casa del Encanto",
+      "postal_code": [
+        "61305"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "61306"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "La Escalera",
+      "postal_code": [
+        "61321"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "La Galera (La Resinera)",
+      "postal_code": [
+        "61324"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "La Goleta",
+      "postal_code": [
+        "61303"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "La Loma",
+      "postal_code": [
+        "61328"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "La Mora",
+      "postal_code": [
+        "61304",
+        "61320"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "La Polvilla",
+      "postal_code": [
+        "61323"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Las aguilas",
+      "postal_code": [
+        "61323"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Las Canoas",
+      "postal_code": [
+        "61311"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Las Canteras",
+      "postal_code": [
+        "61312"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Las Encinillas",
+      "postal_code": [
+        "61306"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Las Majadas",
+      "postal_code": [
+        "61322"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Las Mesas",
+      "postal_code": [
+        "61313"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Las Trojes",
+      "postal_code": [
+        "61323"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "La Torre",
+      "postal_code": [
+        "61327"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Lavadero de Zanahoria",
+      "postal_code": [
+        "61307"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "La Yerbabuena",
+      "postal_code": [
+        "61323"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Los Cantiles",
+      "postal_code": [
+        "61323"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Los Cimientos",
+      "postal_code": [
+        "61328"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Los Fresnos (Santa Marillal)",
+      "postal_code": [
+        "61327"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Los Girasoles",
+      "postal_code": [
+        "61312"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Los Llanos",
+      "postal_code": [
+        "61320"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Los Llanos (El Banco)",
+      "postal_code": [
+        "61320"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Los Triguillos",
+      "postal_code": [
+        "61323"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Nuevo Coronillas",
+      "postal_code": [
+        "61305"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "61327"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Pena Blanca",
+      "postal_code": [
+        "61326"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Pena Cargada",
+      "postal_code": [
+        "61325"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Pie de la Mesa",
+      "postal_code": [
+        "61320"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Pino Real",
+      "postal_code": [
+        "61314"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Platanito",
+      "postal_code": [
+        "61328"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Pontezuelas",
+      "postal_code": [
+        "61324"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Puente Irapeo",
+      "postal_code": [
+        "61314"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Puerto Pascual Ortiz Rubio",
+      "postal_code": [
+        "61327"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Rosas de Guadalupe (Kilometro Catorce)",
+      "postal_code": [
+        "61312"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "San Antonio Corrales",
+      "postal_code": [
+        "61305"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "San Felipe",
+      "postal_code": [
+        "61326"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Una de Gato",
+      "postal_code": [
+        "61324"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Union Progreso",
+      "postal_code": [
+        "61314"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Villas del Fresno",
+      "postal_code": [
+        "61312"
+      ]
+    },
+    {
+      "city": "Charo",
+      "colonia": "Zurumbeneo",
+      "postal_code": [
+        "61311"
+      ]
+    }
+  ]
+}

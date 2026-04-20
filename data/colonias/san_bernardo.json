@@ -1,0 +1,522 @@
+{
+  "data": [
+    {
+      "city": "San Bernardo",
+      "colonia": "Agua Escondida",
+      "postal_code": [
+        "35466"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Amador",
+      "postal_code": [
+        "35454"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Amador Chiquito",
+      "postal_code": [
+        "35474"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Arroyo Seco",
+      "postal_code": [
+        "35483"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Barajas",
+      "postal_code": [
+        "35455"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Boca de alamos",
+      "postal_code": [
+        "35497"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Boquilla de Sardinas",
+      "postal_code": [
+        "35484"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Casco del Salto",
+      "postal_code": [
+        "35465"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Castaneda",
+      "postal_code": [
+        "35473"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Chapultepec",
+      "postal_code": [
+        "35470"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Charco Azul",
+      "postal_code": [
+        "35465"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Cinco de Julio",
+      "postal_code": [
+        "35483"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Cuba",
+      "postal_code": [
+        "35450"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Division del Norte (Los Lobos)",
+      "postal_code": [
+        "35460"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "El Aguaje",
+      "postal_code": [
+        "35450"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "El Alamillo",
+      "postal_code": [
+        "35463"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "El Alferez",
+      "postal_code": [
+        "35493"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "El Ancon Chiquito",
+      "postal_code": [
+        "35497"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "El Colorado",
+      "postal_code": [
+        "35496"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "El Conejo",
+      "postal_code": [
+        "35450"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "El Cuarenta",
+      "postal_code": [
+        "35484"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "El Durazno",
+      "postal_code": [
+        "35496"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "El Gatunal",
+      "postal_code": [
+        "35466"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "El Papalote",
+      "postal_code": [
+        "35470"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "35474"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "35483"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "El Sauz",
+      "postal_code": [
+        "35465"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "El Silvestre",
+      "postal_code": [
+        "35464"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "El Tabullo",
+      "postal_code": [
+        "35484"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "El Tarais",
+      "postal_code": [
+        "35466"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "El Tintero",
+      "postal_code": [
+        "35485"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "El Verano",
+      "postal_code": [
+        "35454"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Jacales",
+      "postal_code": [
+        "35463"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Jesus Maria",
+      "postal_code": [
+        "35466"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Jose Guadalupe Paez (El Pajaro)",
+      "postal_code": [
+        "35480"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "La Caseta",
+      "postal_code": [
+        "35473"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "35477"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "La Granja",
+      "postal_code": [
+        "35493"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "La Hacienda del Carmen",
+      "postal_code": [
+        "35467"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "La Manga",
+      "postal_code": [
+        "35454"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "La Parrita",
+      "postal_code": [
+        "35474"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "La Purisima",
+      "postal_code": [
+        "35480"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "La Rodada",
+      "postal_code": [
+        "35454"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Las Huertas",
+      "postal_code": [
+        "35470"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "La Torrena",
+      "postal_code": [
+        "35470"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "La Tortuga",
+      "postal_code": [
+        "35465"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Los Diamantes (Gallinas)",
+      "postal_code": [
+        "35465"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Los Nogales",
+      "postal_code": [
+        "35474"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Matalotes",
+      "postal_code": [
+        "35450"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Munoz",
+      "postal_code": [
+        "35453"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "35475"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Penjamo",
+      "postal_code": [
+        "35450"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Promontorio",
+      "postal_code": [
+        "35467"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Providencia",
+      "postal_code": [
+        "35474"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Pueblo Nuevo (Talayotes)",
+      "postal_code": [
+        "35454"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Rancho de Sosa",
+      "postal_code": [
+        "35455"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Rancho Moreno",
+      "postal_code": [
+        "35474"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Rancho Nuevo (El Chicharronal)",
+      "postal_code": [
+        "35483"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Ricardo Flores Magon (La Quesera)",
+      "postal_code": [
+        "35473"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "San Bernardo",
+      "postal_code": [
+        "35490"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "San Jose del Salto",
+      "postal_code": [
+        "35470"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "San Jose del Tule",
+      "postal_code": [
+        "35470"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "San Jose de Sextin",
+      "postal_code": [
+        "35473"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "San Juan de Heredia (J. Guadalupe Rodriguez)",
+      "postal_code": [
+        "35465"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "San Juan de Minas",
+      "postal_code": [
+        "35464"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "San Simon",
+      "postal_code": [
+        "35465"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Sardinas",
+      "postal_code": [
+        "35484"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Sebastopol",
+      "postal_code": [
+        "35470"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Sombreretillo",
+      "postal_code": [
+        "35497"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Sosa",
+      "postal_code": [
+        "35463"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Sosa de Abajo",
+      "postal_code": [
+        "35455"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Tres Perlas",
+      "postal_code": [
+        "35493"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Valverdena",
+      "postal_code": [
+        "35475"
+      ]
+    },
+    {
+      "city": "San Bernardo",
+      "colonia": "Veinte de Abril (Las Delicias)",
+      "postal_code": [
+        "35475"
+      ]
+    }
+  ]
+}

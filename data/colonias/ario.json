@@ -1,0 +1,916 @@
+{
+  "data": [
+    {
+      "city": "Ario",
+      "colonia": "7 de Marzo",
+      "postal_code": [
+        "61830"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "61830"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "africa",
+      "postal_code": [
+        "61844"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Agua Zarca del Sur",
+      "postal_code": [
+        "61848"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Agua Zarca de Oriente (El Cazo)",
+      "postal_code": [
+        "61834"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Araparicuaro",
+      "postal_code": [
+        "61835"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Ario de Rosales",
+      "postal_code": [
+        "61830"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "61837"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Buena Vista del Sur",
+      "postal_code": [
+        "61845"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Buensuceso",
+      "postal_code": [
+        "61833"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Canoas",
+      "postal_code": [
+        "61833"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Chuen",
+      "postal_code": [
+        "61833"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Citlalmina",
+      "postal_code": [
+        "61830"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Corral de Tierra",
+      "postal_code": [
+        "61845"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Cruz de Argote",
+      "postal_code": [
+        "61830"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Cuarayo",
+      "postal_code": [
+        "61845"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "61830"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Cuna del Poder",
+      "postal_code": [
+        "61830"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Doctor Miguel Silva Macias",
+      "postal_code": [
+        "61840"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Ejidal Tunuacuaro",
+      "postal_code": [
+        "61830"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Agostadero",
+      "postal_code": [
+        "61849"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Arenal",
+      "postal_code": [
+        "61838"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Calabozo",
+      "postal_code": [
+        "61837"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Cangrejo",
+      "postal_code": [
+        "61845"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Caracol",
+      "postal_code": [
+        "61839"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Carrizalillo de Urapa",
+      "postal_code": [
+        "61846"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Chupadero",
+      "postal_code": [
+        "61836"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Cipres",
+      "postal_code": [
+        "61849"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Colorin",
+      "postal_code": [
+        "61835"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Durazno",
+      "postal_code": [
+        "61846"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Embarcadero (El Chaparral)",
+      "postal_code": [
+        "61848"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Guayabo Colorado",
+      "postal_code": [
+        "61844"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Limon del Tejamanil",
+      "postal_code": [
+        "61845"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "61835"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Moral",
+      "postal_code": [
+        "61837",
+        "61846"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Mortero",
+      "postal_code": [
+        "61845"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Ortigalito",
+      "postal_code": [
+        "61844"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Otatal",
+      "postal_code": [
+        "61844"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Pinalito",
+      "postal_code": [
+        "61833"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Potrero de Pablo Cuin (Altito de Pablo Cuin)",
+      "postal_code": [
+        "61837"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Puente Alto",
+      "postal_code": [
+        "61848"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Puerto de Urapa",
+      "postal_code": [
+        "61846"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Salto de Urapa",
+      "postal_code": [
+        "61847"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Saucito (Potrero de los Bueyes)",
+      "postal_code": [
+        "61844"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Tejamanil",
+      "postal_code": [
+        "61845"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Tepamal",
+      "postal_code": [
+        "61836"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Timbinal",
+      "postal_code": [
+        "61833"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "El Valle (Valle Nuevo)",
+      "postal_code": [
+        "61840"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Fresnos",
+      "postal_code": [
+        "61830"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "H. Ayuntamiento",
+      "postal_code": [
+        "61830"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Jardines de Santa Maria",
+      "postal_code": [
+        "61830"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Justicia y Libertad Democratica",
+      "postal_code": [
+        "61830"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "La Barra (La Barra Grande)",
+      "postal_code": [
+        "61834"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "La Barrita (La Barra Chica)",
+      "postal_code": [
+        "61849"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "La Bodega (Las Mesas)",
+      "postal_code": [
+        "61833"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "La Campana",
+      "postal_code": [
+        "61847"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "La Cantera",
+      "postal_code": [
+        "61838"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "La Cebadilla (La Hacienda)",
+      "postal_code": [
+        "61848"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "La Chachalaca",
+      "postal_code": [
+        "61849"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "La Chuparrosa",
+      "postal_code": [
+        "61847"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "La Compania",
+      "postal_code": [
+        "61835"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "La Entrada de Puente Alto",
+      "postal_code": [
+        "61848"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "61836"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "La Fabrica",
+      "postal_code": [
+        "61835"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "La Finca (El Ojo de Agua)",
+      "postal_code": [
+        "61837"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "La Golondrina",
+      "postal_code": [
+        "61848"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "La Hacienda Quemada",
+      "postal_code": [
+        "61837"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "La Jabonera (La Encinera)",
+      "postal_code": [
+        "61846"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "La Joyita",
+      "postal_code": [
+        "61845"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "La Ortiga",
+      "postal_code": [
+        "61835"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "La Parota",
+      "postal_code": [
+        "61844"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "La Pena del Tecolote",
+      "postal_code": [
+        "61845"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "La Pequena",
+      "postal_code": [
+        "61833"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "La Playa de Guadalupe",
+      "postal_code": [
+        "61845"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "La Sandia",
+      "postal_code": [
+        "61838"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Las Canalejas",
+      "postal_code": [
+        "61845"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Las Caramicuas",
+      "postal_code": [
+        "61846"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Las Cruces",
+      "postal_code": [
+        "61838"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Las Escobillas",
+      "postal_code": [
+        "61847"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Las Limas",
+      "postal_code": [
+        "61840"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Las Maravillas",
+      "postal_code": [
+        "61835"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Las Pajas",
+      "postal_code": [
+        "61835"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Las Puentes",
+      "postal_code": [
+        "61846"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Las Vigas",
+      "postal_code": [
+        "61833"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "61830"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Llano Grande (La Bellota)",
+      "postal_code": [
+        "61848"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "61830"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Lomas del Castillo",
+      "postal_code": [
+        "61830"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "61830"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Los Morales",
+      "postal_code": [
+        "61838"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Los Negros",
+      "postal_code": [
+        "61848"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Los Pareos",
+      "postal_code": [
+        "61835"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Los Tumines (Poblado de los Ates)",
+      "postal_code": [
+        "61840"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "61830"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Mano de Ayuda",
+      "postal_code": [
+        "61845"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Manzanillo Chico",
+      "postal_code": [
+        "61837"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Manzanillo Grande",
+      "postal_code": [
+        "61837"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Mesa del Manzanillo",
+      "postal_code": [
+        "61836"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Morelos",
+      "postal_code": [
+        "61830"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Nuevo Centro de Poblacion Ejidal Lazaro Cardenas",
+      "postal_code": [
+        "61839"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Nuevo de Chuen",
+      "postal_code": [
+        "61833"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Obrera (Popular)",
+      "postal_code": [
+        "61830"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Ojo Zarco",
+      "postal_code": [
+        "61835"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Pablo Cuin",
+      "postal_code": [
+        "61837"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Palma Cuata",
+      "postal_code": [
+        "61844"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Palma de Altamira (Palma de Juarez)",
+      "postal_code": [
+        "61837"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Paso Real",
+      "postal_code": [
+        "61848"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Pedrisco",
+      "postal_code": [
+        "61845"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Plan de las Viboras",
+      "postal_code": [
+        "61848"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Planillas",
+      "postal_code": [
+        "61833"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Potrerillos de Chuen",
+      "postal_code": [
+        "61833"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Puentecillas",
+      "postal_code": [
+        "61838"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Puerta del Durazno",
+      "postal_code": [
+        "61847"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Ramirez",
+      "postal_code": [
+        "61830"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Rancho Nuevo (Colimilla)",
+      "postal_code": [
+        "61845"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Rincon de la Yerbabuena (Rincon del Burro)",
+      "postal_code": [
+        "61846"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "San Cayetano",
+      "postal_code": [
+        "61835"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "San Jose de Chuen",
+      "postal_code": [
+        "61839"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "San Jose de las Canas",
+      "postal_code": [
+        "61845"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "61838"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Tahuenambo (Tabuenambo)",
+      "postal_code": [
+        "61845"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Tipitarillo",
+      "postal_code": [
+        "61839"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Tirindiritzio (Tirindiricho)",
+      "postal_code": [
+        "61835"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Tres Palos",
+      "postal_code": [
+        "61833",
+        "61844"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Tunacuaro",
+      "postal_code": [
+        "61837"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Une Aeropuerto",
+      "postal_code": [
+        "61830"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Urapa",
+      "postal_code": [
+        "61847"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Veronica Lopez",
+      "postal_code": [
+        "61830"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Victor Rosales",
+      "postal_code": [
+        "61830"
+      ]
+    },
+    {
+      "city": "Ario",
+      "colonia": "Zatzio (Tzatzio)",
+      "postal_code": [
+        "61836"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,551 @@
+{
+  "data": [
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Agua Limpia",
+      "postal_code": [
+        "43324"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Apipilhuasco",
+      "postal_code": [
+        "43308"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Atotonilco el Grande Centro",
+      "postal_code": [
+        "43300"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Cabrera",
+      "postal_code": [
+        "43311"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Central Campesina Independiente",
+      "postal_code": [
+        "43305"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Cerro Blanco",
+      "postal_code": [
+        "43307"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Cerro Colorado",
+      "postal_code": [
+        "43310"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Chichipilco",
+      "postal_code": [
+        "43306"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Cieneguillas",
+      "postal_code": [
+        "43308"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Coyula",
+      "postal_code": [
+        "43310"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Cumbre de Potrero de los Reyes",
+      "postal_code": [
+        "43326"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Cumbre de Santa Catarina",
+      "postal_code": [
+        "43328"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Del Salto",
+      "postal_code": [
+        "43309"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Donana",
+      "postal_code": [
+        "43311"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "El Aguacate",
+      "postal_code": [
+        "43320"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "El Atoron",
+      "postal_code": [
+        "43320"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "El Calvario",
+      "postal_code": [
+        "43306"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "El Contadero",
+      "postal_code": [
+        "43320"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "El Naranjo",
+      "postal_code": [
+        "43323"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "El Novillero",
+      "postal_code": [
+        "43313"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "El Ocote (Ocote Potrero de Reyes)",
+      "postal_code": [
+        "43326"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "El Pedregal de San Juan",
+      "postal_code": [
+        "43327"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "El Sabino",
+      "postal_code": [
+        "43311",
+        "43320"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "El Tinacal",
+      "postal_code": [
+        "43304"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "El Troje",
+      "postal_code": [
+        "43327"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "El Xithe (Santa Rita el Xithe)",
+      "postal_code": [
+        "43329"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "El Zoquital",
+      "postal_code": [
+        "43310"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "La Bodega",
+      "postal_code": [
+        "43305"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "La Cruz (Barrio de la Cruz)",
+      "postal_code": [
+        "43301"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "La Cumbre de San Lucas",
+      "postal_code": [
+        "43320"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "La Estancia",
+      "postal_code": [
+        "43309"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "La Estancia (Aguacatitlan)",
+      "postal_code": [
+        "43309"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "La Galera",
+      "postal_code": [
+        "43304"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "La Loma del Zapote",
+      "postal_code": [
+        "43326"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "La Nogalera",
+      "postal_code": [
+        "43320"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "La Palma",
+      "postal_code": [
+        "43304"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "La Puebla",
+      "postal_code": [
+        "43300"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Las Baranquitas",
+      "postal_code": [
+        "43305"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "43305"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Las Hortalizas",
+      "postal_code": [
+        "43304"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Las Manzanas",
+      "postal_code": [
+        "43305"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Los Banos de Santa Maria Amajac",
+      "postal_code": [
+        "43307"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Los Nogales",
+      "postal_code": [
+        "43306"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "43308"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Los Sabinos",
+      "postal_code": [
+        "43320"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Los Tepetates",
+      "postal_code": [
+        "43307"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Mesa de San Lucas",
+      "postal_code": [
+        "43320"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Metlapa",
+      "postal_code": [
+        "43313"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Montecillos",
+      "postal_code": [
+        "43302"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Padre Nuestro San Bartolo",
+      "postal_code": [
+        "43326"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Paraje de los Sauces",
+      "postal_code": [
+        "43329"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Paredones",
+      "postal_code": [
+        "43329"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Paso de Amajac",
+      "postal_code": [
+        "43307"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Pedregal de San Nicolas",
+      "postal_code": [
+        "43311"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Potrero de los Reyes",
+      "postal_code": [
+        "43326"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Pueblo Nuevo",
+      "postal_code": [
+        "43327"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Ramal de San Nicolas",
+      "postal_code": [
+        "43311"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Rincon de Xathe",
+      "postal_code": [
+        "43311"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Sanctorum",
+      "postal_code": [
+        "43310"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "San Felipe y Anexas",
+      "postal_code": [
+        "43329"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "San Jose Zoquital",
+      "postal_code": [
+        "43320"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "San Lucas Allende",
+      "postal_code": [
+        "43323"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "San Martin",
+      "postal_code": [
+        "43320"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "43301"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "San Nicolas Xathe",
+      "postal_code": [
+        "43310"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "San Pedro Vaquerias",
+      "postal_code": [
+        "43329"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "43306"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "43309"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Santa Ana Norte",
+      "postal_code": [
+        "43320"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Santa Catarina",
+      "postal_code": [
+        "43328"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Santa Cruz de Montecillos",
+      "postal_code": [
+        "43326"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Santa Maria Amajac",
+      "postal_code": [
+        "43310"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Santiaguito",
+      "postal_code": [
+        "43321"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Sauz Xathe",
+      "postal_code": [
+        "43311"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Sauz y Sabino",
+      "postal_code": [
+        "43311"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Tezahuapa",
+      "postal_code": [
+        "43324"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Tiltepec",
+      "postal_code": [
+        "43320"
+      ]
+    },
+    {
+      "city": "Atotonilco el Grande",
+      "colonia": "Una de Gato",
+      "postal_code": [
+        "43326"
+      ]
+    }
+  ]
+}

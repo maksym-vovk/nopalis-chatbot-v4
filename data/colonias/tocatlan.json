@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Tocatlan",
+      "colonia": "Acocotla",
+      "postal_code": [
+        "90484"
+      ]
+    },
+    {
+      "city": "Tocatlan",
+      "colonia": "San Jose",
+      "postal_code": [
+        "90480"
+      ]
+    },
+    {
+      "city": "Tocatlan",
+      "colonia": "Santa Maria Tocatlan",
+      "postal_code": [
+        "90480"
+      ]
+    },
+    {
+      "city": "Tocatlan",
+      "colonia": "Venustiano Carranza",
+      "postal_code": [
+        "90482"
+      ]
+    }
+  ]
+}

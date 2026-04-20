@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "San Pedro Ixcatlan",
+      "colonia": "Cerro Camaron",
+      "postal_code": [
+        "68452"
+      ]
+    },
+    {
+      "city": "San Pedro Ixcatlan",
+      "colonia": "Cerro Quemado",
+      "postal_code": [
+        "68452"
+      ]
+    },
+    {
+      "city": "San Pedro Ixcatlan",
+      "colonia": "El Progreso",
+      "postal_code": [
+        "68451"
+      ]
+    },
+    {
+      "city": "San Pedro Ixcatlan",
+      "colonia": "San Felipe Tilpan",
+      "postal_code": [
+        "68451"
+      ]
+    },
+    {
+      "city": "San Pedro Ixcatlan",
+      "colonia": "San Pedro Ixcatlan",
+      "postal_code": [
+        "68450"
+      ]
+    }
+  ]
+}

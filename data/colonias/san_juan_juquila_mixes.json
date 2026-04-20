@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "San Juan Juquila Mixes",
+      "colonia": "Asuncion Acatlan",
+      "postal_code": [
+        "70523"
+      ]
+    },
+    {
+      "city": "San Juan Juquila Mixes",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "70520"
+      ]
+    },
+    {
+      "city": "San Juan Juquila Mixes",
+      "colonia": "San Juan Juquila Mixes",
+      "postal_code": [
+        "70520"
+      ]
+    },
+    {
+      "city": "San Juan Juquila Mixes",
+      "colonia": "Santo Domingo Narro",
+      "postal_code": [
+        "70529"
+      ]
+    }
+  ]
+}

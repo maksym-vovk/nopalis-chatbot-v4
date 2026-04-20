@@ -1,0 +1,657 @@
+{
+  "data": [
+    {
+      "city": "Atoyac",
+      "colonia": "5 de Mayo",
+      "postal_code": [
+        "94965"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Agricola Tlacorancho",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Alta Luz",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Arroyo Hondo",
+      "postal_code": [
+        "94967"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Atoyac Centro",
+      "postal_code": [
+        "94960"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Boca del Monte",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "94966",
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Caballo Blanco",
+      "postal_code": [
+        "94967"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Cafetal Colon",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Canada Azul",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Canaletas",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Chamizal",
+      "postal_code": [
+        "94964"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Chapultepec",
+      "postal_code": [
+        "94965"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Chiquihuite",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Conzatti",
+      "postal_code": [
+        "94960"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Corral de Piedra",
+      "postal_code": [
+        "94967"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Cortina",
+      "postal_code": [
+        "94965"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Cruz Verde",
+      "postal_code": [
+        "94965"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Ejido Tlacorancho",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "El Aguaje",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "El aguila",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "El Albion",
+      "postal_code": [
+        "94967"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "El Cedro",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "El Faro",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "94966"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "94967"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Garibaldi",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Gral. Miguel Aleman Centro",
+      "postal_code": [
+        "94964"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "94966",
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Guamuchil",
+      "postal_code": [
+        "94964"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "94964"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Jose Maria Martinez Rodriguez",
+      "postal_code": [
+        "94964"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "La Aurora",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "La Charca",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "La Cuchilla",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "La Edna",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "94967"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "La Germania",
+      "postal_code": [
+        "94967"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "La Lagunilla",
+      "postal_code": [
+        "94960"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "La Loma",
+      "postal_code": [
+        "94965"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "La Palma",
+      "postal_code": [
+        "94967"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "La Palma (Las Carolinas)",
+      "postal_code": [
+        "94967"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "La Palma (Rancho Vivian)",
+      "postal_code": [
+        "94967"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "La Parra",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "La Perla",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "La Purisima",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "La Reforma",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "La Union",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Los Leones",
+      "postal_code": [
+        "94967"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Los Perez",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "94964"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Manzanillo",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Mata Larga (San Sebastian Mata Larga)",
+      "postal_code": [
+        "94967"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Mercado Viejo",
+      "postal_code": [
+        "94964"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Miraflores",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Nogales",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Nuevo Miraflores",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Obrera",
+      "postal_code": [
+        "94965"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Pazimaro (Santa Brigida)",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Pena Blanca",
+      "postal_code": [
+        "94967"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Portezuelos",
+      "postal_code": [
+        "94967"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Pozo Colorado",
+      "postal_code": [
+        "94964"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Progreso",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Rancho Brenis",
+      "postal_code": [
+        "94967"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Rancho Fermin",
+      "postal_code": [
+        "94967"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Rancho Frio",
+      "postal_code": [
+        "94966"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Rancho Maria",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "San Antonio (Canaletas)",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "San Jose Buenos Aires",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "San Ricardo",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Santa Anita",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Seccion 23",
+      "postal_code": [
+        "94964"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Sixto Gonzalez",
+      "postal_code": [
+        "94965"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Tenextel",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Transbordo",
+      "postal_code": [
+        "94966"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Union y Progreso",
+      "postal_code": [
+        "94964"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Vara Negra",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Zapotecas",
+      "postal_code": [
+        "94968"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Atoyac",
+      "postal_code": [
+        "49200"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Cuyacapan",
+      "postal_code": [
+        "49225"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "El Destacamento",
+      "postal_code": [
+        "49223"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "49228"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Poncitlan",
+      "postal_code": [
+        "49200"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "San Juan",
+      "postal_code": [
+        "49229"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Techague",
+      "postal_code": [
+        "49224"
+      ]
+    },
+    {
+      "city": "Atoyac",
+      "colonia": "Union de Guadalupe",
+      "postal_code": [
+        "49220"
+      ]
+    }
+  ]
+}

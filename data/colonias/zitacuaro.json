@@ -1,0 +1,1453 @@
+{
+  "data": [
+    {
+      "city": "Zitacuaro",
+      "colonia": "19 de Abril",
+      "postal_code": [
+        "61514"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "1 de Mayo",
+      "postal_code": [
+        "61509"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "6 de Junio",
+      "postal_code": [
+        "61517"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "61525"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Agua Bendita (El Pocito)",
+      "postal_code": [
+        "61529"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Agua Blanca (La Palma)",
+      "postal_code": [
+        "61529"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Aguacatera del Monte",
+      "postal_code": [
+        "61539"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Agua de la Rosa",
+      "postal_code": [
+        "61525"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Agua Nueva",
+      "postal_code": [
+        "61528"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Aputzio de Juarez (Santa Maria)",
+      "postal_code": [
+        "61533"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Armadillos (Tercera Manzana de Timbineo)",
+      "postal_code": [
+        "61537"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Barandillas",
+      "postal_code": [
+        "61502"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Barranca Seca",
+      "postal_code": [
+        "61530"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "61517"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Boca de la Canada",
+      "postal_code": [
+        "61525"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Camembaro",
+      "postal_code": [
+        "61527"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Canoas",
+      "postal_code": [
+        "61530"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Carabanchel",
+      "postal_code": [
+        "61519"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Carpinteros",
+      "postal_code": [
+        "61529"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Cerrito de los Magueyes",
+      "postal_code": [
+        "61527"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Cerro Ancho (Segunda Manzana de Nicolas Romero)",
+      "postal_code": [
+        "61530"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Chimusda (Cuarta Manzana de Donaciano Ojeda)",
+      "postal_code": [
+        "61526"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Coatepec de Morelos",
+      "postal_code": [
+        "61510",
+        "61512"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Crescencio Morales (San Mateo)",
+      "postal_code": [
+        "61520"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "61506"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Curungueo las Palmas",
+      "postal_code": [
+        "61510"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Damaso Cardenas",
+      "postal_code": [
+        "61516"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Donaciano Ojeda (San Francisco)",
+      "postal_code": [
+        "61529"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Dos Rios (Barbechos)",
+      "postal_code": [
+        "61536"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Educacion",
+      "postal_code": [
+        "61519"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Aguacate",
+      "postal_code": [
+        "61502",
+        "61535"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El alamo",
+      "postal_code": [
+        "61536"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Asoleadero",
+      "postal_code": [
+        "61537"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Banco",
+      "postal_code": [
+        "61539"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Bordo",
+      "postal_code": [
+        "61528"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Callejon",
+      "postal_code": [
+        "61529"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Calvario",
+      "postal_code": [
+        "61515"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Campamento (Sexta Manzana de Nicolas Romero)",
+      "postal_code": [
+        "61534"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Capulin",
+      "postal_code": [
+        "61525"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Capulin (Tercera Manzana de Crescencio Morales)",
+      "postal_code": [
+        "61525"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "61506"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Derrumbadero",
+      "postal_code": [
+        "61529"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Escobal (Tercera Manzana de San Miguel)",
+      "postal_code": [
+        "61539"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Espinal (Los Espinales)",
+      "postal_code": [
+        "61525"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Gigante",
+      "postal_code": [
+        "61539"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Granjeno",
+      "postal_code": [
+        "61527"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Hortelano (Puerto de Santa Maria)",
+      "postal_code": [
+        "61527"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Kilometro (Llano de San Felipe)",
+      "postal_code": [
+        "61529"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Lindero (Segunda Manzana de Crescencio Morales)",
+      "postal_code": [
+        "61525"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Llano de Curungueo",
+      "postal_code": [
+        "61527"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Maguey",
+      "postal_code": [
+        "61526"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Moral",
+      "postal_code": [
+        "61514"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Naranjo",
+      "postal_code": [
+        "61539"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Ojo de Agua",
+      "postal_code": [
+        "61539"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "61503"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "61535"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Plan",
+      "postal_code": [
+        "61507"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Polvorin",
+      "postal_code": [
+        "61525"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Puerto de Valle Verde",
+      "postal_code": [
+        "61527"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Puerto (Tercera Manzana)",
+      "postal_code": [
+        "61537"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Rincon de San Felipe (Tercera Manz. San Felipe)",
+      "postal_code": [
+        "61529"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Rincon de Vechi",
+      "postal_code": [
+        "61529"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Santisimo (Quinta Manzana de Crescencio Morales",
+      "postal_code": [
+        "61525"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Sauz (Tercera Manzana)",
+      "postal_code": [
+        "61537"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Sombrerete (Tercera Manzana de Curungueo)",
+      "postal_code": [
+        "61526"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Tigre (Segunda Manzana de Crescencio Morales)",
+      "postal_code": [
+        "61525"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Tigrito (Segunda Manzana de Crescencio Morales)",
+      "postal_code": [
+        "61525"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "El Tiradero (El Tianguis)",
+      "postal_code": [
+        "61527"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Emiliano Zapata (San Juan Zitacuaro)",
+      "postal_code": [
+        "61534"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Flor de Liz",
+      "postal_code": [
+        "61509"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Francisco Serrato (San Bartolo)",
+      "postal_code": [
+        "61524"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Fuentes de La Estacion FOVISSSTE",
+      "postal_code": [
+        "61509"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Heroes Ferrocarrileros",
+      "postal_code": [
+        "61508"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Ignacio Lopez Rayon (Coyota Primera Manzana)",
+      "postal_code": [
+        "61537"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "61516"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Independencia",
+      "postal_code": [
+        "61512"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "INFONAVIT",
+      "postal_code": [
+        "61516"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "INFONAVIT Circuito Revolucion",
+      "postal_code": [
+        "61516"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "INFONAVIT Jacarandas",
+      "postal_code": [
+        "61512"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Jose Maria Morelos",
+      "postal_code": [
+        "61518"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Kilometro Once",
+      "postal_code": [
+        "61535"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Angostura (La Vuelta)",
+      "postal_code": [
+        "61539"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Barranca (Quinta Manzana Crescencio Morales)",
+      "postal_code": [
+        "61525"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Calera",
+      "postal_code": [
+        "61539"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Capilla (Tercera Manzana de Francisco Serrato)",
+      "postal_code": [
+        "61524"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Carne Hedionda",
+      "postal_code": [
+        "61529"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Colonia de Aputzio",
+      "postal_code": [
+        "61533"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Comunidad",
+      "postal_code": [
+        "61536"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Cortina",
+      "postal_code": [
+        "61537"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Cuesta",
+      "postal_code": [
+        "61512"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Cumbre (Quinta Manzana de Crescencio Morales)",
+      "postal_code": [
+        "61525"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Dieta (Segunda Manzana de Crescencio Morales)",
+      "postal_code": [
+        "61525"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Encarnacion",
+      "postal_code": [
+        "61539"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Estacion",
+      "postal_code": [
+        "61508"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Fundicion (Quinta Manzana)",
+      "postal_code": [
+        "61526"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Garita",
+      "postal_code": [
+        "61512"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Garita de Coatepec",
+      "postal_code": [
+        "61538"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Gironda (Hacienda la Gironda)",
+      "postal_code": [
+        "61526"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Guasima (Septima Manzana de San Miguel)",
+      "postal_code": [
+        "61539"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Joya de Manzanillo (Segunda Manzana)",
+      "postal_code": [
+        "61534"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Loma (Tercera Manzana de San Miguel)",
+      "postal_code": [
+        "61539"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Lomita",
+      "postal_code": [
+        "61534"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Mangana Infonavit",
+      "postal_code": [
+        "61511"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Mesa",
+      "postal_code": [
+        "61528"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Mesa Chiquita (La Mesita Chiquita)",
+      "postal_code": [
+        "61536"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Mesa de Abajo",
+      "postal_code": [
+        "61537"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Mesa del Rincon de Curungueo",
+      "postal_code": [
+        "61529"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Mesa (La Mesa de Cedano)",
+      "postal_code": [
+        "61526"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Miel (Primera Manzana de San Felipe)",
+      "postal_code": [
+        "61529"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Mojonera",
+      "postal_code": [
+        "61530"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Palma",
+      "postal_code": [
+        "61505",
+        "61539"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Palma de Cedano",
+      "postal_code": [
+        "61508"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Pera (La Mora el Aguacate)",
+      "postal_code": [
+        "61533"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Presa (Segunda Manzana Barrio de Santa Cruz)",
+      "postal_code": [
+        "61528"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Resistol (Segunda Manzana de San Felipe)",
+      "postal_code": [
+        "61529"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Las Lomas",
+      "postal_code": [
+        "61509"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Las Lomas de Aputzio (Las Lomas)",
+      "postal_code": [
+        "61536"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Las Majadas (Rancho de Guadalupe)",
+      "postal_code": [
+        "61537"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Soledad (Cuarta Manzana de Francisco Serrato)",
+      "postal_code": [
+        "61525"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "61517",
+        "61517"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Las Peras",
+      "postal_code": [
+        "61539"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Las Pilas",
+      "postal_code": [
+        "61528",
+        "61536"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Las Pilitas",
+      "postal_code": [
+        "61537"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Las Rosas",
+      "postal_code": [
+        "61514"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Las Tilias (La Haciendita)",
+      "postal_code": [
+        "61533"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Viguita (Cuarta Manzana de Crescencio Morales)",
+      "postal_code": [
+        "61525"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Y Griega",
+      "postal_code": [
+        "61539"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "61516"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "La Ziranda (El Fresno)",
+      "postal_code": [
+        "61529"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Lechuguillas",
+      "postal_code": [
+        "61539"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Linda Vista (El Bosque)",
+      "postal_code": [
+        "61539"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Loma de Aparicio",
+      "postal_code": [
+        "61520"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Loma Larga",
+      "postal_code": [
+        "61527"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "61505"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Lomas de La Carolina",
+      "postal_code": [
+        "61514"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Lomas de Oriente",
+      "postal_code": [
+        "61509"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Los Ailes",
+      "postal_code": [
+        "61514"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Los Escobales (Quinta Manz. de Crescencio Morales)",
+      "postal_code": [
+        "61525"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "61516"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Los Lampazos (Tercera Manzana)",
+      "postal_code": [
+        "61537"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Los Mejia",
+      "postal_code": [
+        "61537"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Los Polvillos (El Crucero)",
+      "postal_code": [
+        "61527"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Los Reyes (Quinta Manzana)",
+      "postal_code": [
+        "61537"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Los Romerillos (Tercera Manzana)",
+      "postal_code": [
+        "61537"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Los Zapotes (Puerto los Zapotes)",
+      "postal_code": [
+        "61536"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Macho de Agua (Quinta Manz. de Crescencio Morales)",
+      "postal_code": [
+        "61525"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Macutzio",
+      "postal_code": [
+        "61529"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Manantiales de La Carolina",
+      "postal_code": [
+        "61514"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Manga de Clavo",
+      "postal_code": [
+        "61519"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Manzanillos (Primera Manzana)",
+      "postal_code": [
+        "61534"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Mariano Matamoros",
+      "postal_code": [
+        "61506"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Melchor Ocampo",
+      "postal_code": [
+        "61506",
+        "61510"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Mesa de Dos Rios (La Mesa Octava Manzana)",
+      "postal_code": [
+        "61536"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Mesa de Loma Larga (Loma Bonita)",
+      "postal_code": [
+        "61527"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Mesa de los Alzati (Mesa de San Felipe)",
+      "postal_code": [
+        "61529"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Mesas de Enandio (Cuarta Manzana)",
+      "postal_code": [
+        "61537"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Mexico 68",
+      "postal_code": [
+        "61519"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "61518"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Mirador de Oriente",
+      "postal_code": [
+        "61509"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Mirador El Fresno",
+      "postal_code": [
+        "61516"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Mirador El Fresno 2a. Etapa",
+      "postal_code": [
+        "61516"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Mirador San Juan",
+      "postal_code": [
+        "61510"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Moctezuma",
+      "postal_code": [
+        "61505"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Mora del Canonazo",
+      "postal_code": [
+        "61508"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Morelos",
+      "postal_code": [
+        "61512"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Morelos 1ra Etapa",
+      "postal_code": [
+        "61512"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Nuevo Amanecer",
+      "postal_code": [
+        "61510"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Ocurio",
+      "postal_code": [
+        "61528"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Ojo de Agua de San Felipe (Primera Manzana)",
+      "postal_code": [
+        "61529"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Ojo de Agua (Tercera Manzana de Zirahuato)",
+      "postal_code": [
+        "61528"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Paraiso de Cristal",
+      "postal_code": [
+        "61512"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Parque Industrial Zitacuaro",
+      "postal_code": [
+        "61525"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Poetas",
+      "postal_code": [
+        "61507"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Primera Manzana",
+      "postal_code": [
+        "61530"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Puentecillas (Tercera Manzana de Donaciano Ojeda)",
+      "postal_code": [
+        "61529"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Puentecillas (Tercera Manzana de Zirahuato)",
+      "postal_code": [
+        "61528"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Puentezuelas (Tercera Manzana de Curungueo)",
+      "postal_code": [
+        "61529"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Puerto Azul (Quinta Manzana de San Felipe)",
+      "postal_code": [
+        "61527"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Puerto del Aire",
+      "postal_code": [
+        "61539"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Puerto de San Felipe (El Trebol)",
+      "postal_code": [
+        "61527"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Quintas de La Carolina",
+      "postal_code": [
+        "61514"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Rincon de Curungueo (Segunada Manz. de Curungueo)",
+      "postal_code": [
+        "61526"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Rincon del Ahorcado",
+      "postal_code": [
+        "61535"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Rincon de Nicolas Romero (Cedros Tercera Manzana)",
+      "postal_code": [
+        "61530"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Rio de Guadalupe (Cuarta Manz. Crescencio Morales)",
+      "postal_code": [
+        "61525"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Rosa Santa",
+      "postal_code": [
+        "61535"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Rosas de Zicata",
+      "postal_code": [
+        "61536"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "San Alejandro",
+      "postal_code": [
+        "61529"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "San Felipe los Alzati (Colonia Nueva)",
+      "postal_code": [
+        "61529"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "San Francisco Curungueo",
+      "postal_code": [
+        "61526"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "San Miguel Chichimequillas de Escobedo",
+      "postal_code": [
+        "61512"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Santa Rita (Segunda Manzana de Curungueo)",
+      "postal_code": [
+        "61526"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Seis Palos (Quinta Manzana de San Miguel)",
+      "postal_code": [
+        "61539"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Silva de Abajo",
+      "postal_code": [
+        "61535"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Silva de Arriba (El Chorrito)",
+      "postal_code": [
+        "61535"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Tercera Manzana de Manzanillos (El Rancho)",
+      "postal_code": [
+        "61525"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Timbineo los Contreras",
+      "postal_code": [
+        "61537"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Toma de Agua",
+      "postal_code": [
+        "61534"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Valle Verde",
+      "postal_code": [
+        "61527"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Vasco de Quiroga FOVISSSTE",
+      "postal_code": [
+        "61510"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Villa Bonita",
+      "postal_code": [
+        "61512"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Villa Monarca",
+      "postal_code": [
+        "61509"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Villa Reforma",
+      "postal_code": [
+        "61508"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "61508",
+        "61509"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Zirahuato de los Bernal",
+      "postal_code": [
+        "61528"
+      ]
+    },
+    {
+      "city": "Zitacuaro",
+      "colonia": "Zitacuaro Centro",
+      "postal_code": [
+        "61500"
+      ]
+    }
+  ]
+}

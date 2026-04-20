@@ -1,0 +1,707 @@
+{
+  "data": [
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Aragon",
+      "postal_code": [
+        "42494"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Batha y Barrios",
+      "postal_code": [
+        "42486"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "42473",
+        "42490"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Canutillo",
+      "postal_code": [
+        "42485"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Cuaxithi",
+      "postal_code": [
+        "42480"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Danu",
+      "postal_code": [
+        "42480"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Deca Buena Vista",
+      "postal_code": [
+        "42473"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Dentho",
+      "postal_code": [
+        "42481"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Devego",
+      "postal_code": [
+        "42473"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Dingüichi",
+      "postal_code": [
+        "42475"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "El aguila",
+      "postal_code": [
+        "42485"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "El Borbollon",
+      "postal_code": [
+        "42480"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "El Campamento",
+      "postal_code": [
+        "42492"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "El Capulin Danu",
+      "postal_code": [
+        "42480"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "El Capulin de Aragon",
+      "postal_code": [
+        "42493"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "El Cedazo",
+      "postal_code": [
+        "42474"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "El Charcon",
+      "postal_code": [
+        "42480"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "El Deca",
+      "postal_code": [
+        "42481"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "El Desierto",
+      "postal_code": [
+        "42480"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "El Destello",
+      "postal_code": [
+        "42475"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "El Fresnillo",
+      "postal_code": [
+        "42495"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "El Fresno (Casas Viejas)",
+      "postal_code": [
+        "42488",
+        "42488"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "El Jagüey",
+      "postal_code": [
+        "42495"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "El Jazmin (El Potrero)",
+      "postal_code": [
+        "42486"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "El Llano",
+      "postal_code": [
+        "42494"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "El Manantial",
+      "postal_code": [
+        "42473"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "El Mangui",
+      "postal_code": [
+        "42495"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "42488"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "El Mogote",
+      "postal_code": [
+        "42491"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "El Paye",
+      "postal_code": [
+        "42485"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "El Pedregoso",
+      "postal_code": [
+        "42475"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "El Sauz",
+      "postal_code": [
+        "42495"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "El Tejocote",
+      "postal_code": [
+        "42473"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "El Zendho",
+      "postal_code": [
+        "42486"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Escandon",
+      "postal_code": [
+        "42490"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Humini",
+      "postal_code": [
+        "42474"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "La Canada",
+      "postal_code": [
+        "42485",
+        "42492"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "La Cuchilla",
+      "postal_code": [
+        "42481"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "42488"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "La Estacion",
+      "postal_code": [
+        "42488"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "La Fuente (Jagüey Blanco)",
+      "postal_code": [
+        "42494"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "La Herradura (Colonia Campesina)",
+      "postal_code": [
+        "42475"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "La Huerta",
+      "postal_code": [
+        "42473"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "La Laja",
+      "postal_code": [
+        "42494"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "La Lechuga",
+      "postal_code": [
+        "42494"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "La Lena",
+      "postal_code": [
+        "42490"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "La Luz",
+      "postal_code": [
+        "42488"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "La Martinica",
+      "postal_code": [
+        "42475"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "La Matanza",
+      "postal_code": [
+        "42494"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "La Palma",
+      "postal_code": [
+        "42492"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "La Pila del Leon",
+      "postal_code": [
+        "42490"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "La Posta",
+      "postal_code": [
+        "42475"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "La Presa",
+      "postal_code": [
+        "42474"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "La Presa Danu",
+      "postal_code": [
+        "42473"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "La Primavera",
+      "postal_code": [
+        "42494"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "La Reserva",
+      "postal_code": [
+        "42485"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "La Salita",
+      "postal_code": [
+        "42481"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Las Campanas",
+      "postal_code": [
+        "42474"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Las Cruces",
+      "postal_code": [
+        "42488"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "La Siempreviva",
+      "postal_code": [
+        "42495"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Las Manzanas",
+      "postal_code": [
+        "42494"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Las Vegas",
+      "postal_code": [
+        "42492"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Loma Colorada",
+      "postal_code": [
+        "42486"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Loma del Progreso",
+      "postal_code": [
+        "42495"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Loma del Toro",
+      "postal_code": [
+        "42494"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Los Caballos",
+      "postal_code": [
+        "42493"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Los Cerritos",
+      "postal_code": [
+        "42495"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Los Corrales",
+      "postal_code": [
+        "42475"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Los Nidos",
+      "postal_code": [
+        "42485"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Los Pozos (La Presa Vieja)",
+      "postal_code": [
+        "42493"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Los Tepetates",
+      "postal_code": [
+        "42490"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Maravillas",
+      "postal_code": [
+        "42490"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Nopala Centro",
+      "postal_code": [
+        "42470"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "42485"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Ojuelos",
+      "postal_code": [
+        "42480"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Pachuquilla",
+      "postal_code": [
+        "42480"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Palo Verde",
+      "postal_code": [
+        "42495"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Pedregales Borbollon",
+      "postal_code": [
+        "42480"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Pedregales Danu",
+      "postal_code": [
+        "42480"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Penafiel",
+      "postal_code": [
+        "42493"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Puerta Blanca",
+      "postal_code": [
+        "42485"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Puerto Danu",
+      "postal_code": [
+        "42473"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "42488"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "42488"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "San Ignacio",
+      "postal_code": [
+        "42485"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "42475"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "San Juanita (Casas Viejas)",
+      "postal_code": [
+        "42488"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "San Lorenzo Amarillo",
+      "postal_code": [
+        "42485"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "San Lorenzo el Chico",
+      "postal_code": [
+        "42488"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "San Sebastian de Juarez",
+      "postal_code": [
+        "42491"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "San Sebastian Tenochtitlan",
+      "postal_code": [
+        "42486"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Santa Catalina",
+      "postal_code": [
+        "42488"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "42490"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "42495"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "42490"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Santa Rosa el Marquez",
+      "postal_code": [
+        "42490"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Taxtejhe",
+      "postal_code": [
+        "42473"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Tequexhido",
+      "postal_code": [
+        "42475"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Tierra Blanca",
+      "postal_code": [
+        "42492"
+      ]
+    },
+    {
+      "city": "Nopala de Villagran",
+      "colonia": "Venta Hermosa",
+      "postal_code": [
+        "42494"
+      ]
+    }
+  ]
+}

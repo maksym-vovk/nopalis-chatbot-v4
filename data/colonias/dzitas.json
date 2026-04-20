@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Dzitas",
+      "colonia": "Dzitas",
+      "postal_code": [
+        "97660"
+      ]
+    },
+    {
+      "city": "Dzitas",
+      "colonia": "Xocempich",
+      "postal_code": [
+        "97666"
+      ]
+    },
+    {
+      "city": "Dzitas",
+      "colonia": "Yaxche",
+      "postal_code": [
+        "97666"
+      ]
+    }
+  ]
+}

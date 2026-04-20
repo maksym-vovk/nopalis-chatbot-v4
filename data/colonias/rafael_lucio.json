@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Rafael Lucio",
+      "colonia": "El Barrial",
+      "postal_code": [
+        "91315"
+      ]
+    },
+    {
+      "city": "Rafael Lucio",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "91315"
+      ]
+    },
+    {
+      "city": "Rafael Lucio",
+      "colonia": "Piletas",
+      "postal_code": [
+        "91315"
+      ]
+    },
+    {
+      "city": "Rafael Lucio",
+      "colonia": "Rafael Lucio",
+      "postal_code": [
+        "91315"
+      ]
+    }
+  ]
+}

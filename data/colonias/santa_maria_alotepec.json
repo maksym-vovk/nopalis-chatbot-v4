@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Santa Maria Alotepec",
+      "colonia": "San Isidro Huayapam",
+      "postal_code": [
+        "70270"
+      ]
+    },
+    {
+      "city": "Santa Maria Alotepec",
+      "colonia": "San Pedro Ayacaxtepec",
+      "postal_code": [
+        "70271"
+      ]
+    },
+    {
+      "city": "Santa Maria Alotepec",
+      "colonia": "Santa Maria Alotepec",
+      "postal_code": [
+        "70270"
+      ]
+    }
+  ]
+}

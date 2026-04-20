@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "city": "Atengo",
+      "colonia": "Agostadero",
+      "postal_code": [
+        "48185"
+      ]
+    },
+    {
+      "city": "Atengo",
+      "colonia": "Atengo",
+      "postal_code": [
+        "48190"
+      ]
+    },
+    {
+      "city": "Atengo",
+      "colonia": "Cofradia de Lepe",
+      "postal_code": [
+        "48193"
+      ]
+    },
+    {
+      "city": "Atengo",
+      "colonia": "El Macuchi (La Trinidad)",
+      "postal_code": [
+        "48166"
+      ]
+    },
+    {
+      "city": "Atengo",
+      "colonia": "El Salitre",
+      "postal_code": [
+        "48185"
+      ]
+    },
+    {
+      "city": "Atengo",
+      "colonia": "Huaxtla",
+      "postal_code": [
+        "48199"
+      ]
+    },
+    {
+      "city": "Atengo",
+      "colonia": "San Pedro la Chale",
+      "postal_code": [
+        "48170"
+      ]
+    },
+    {
+      "city": "Atengo",
+      "colonia": "Soyatlan Del Oro",
+      "postal_code": [
+        "48180"
+      ]
+    },
+    {
+      "city": "Atengo",
+      "colonia": "Tacota",
+      "postal_code": [
+        "48165"
+      ]
+    },
+    {
+      "city": "Atengo",
+      "colonia": "Trigo de Altenas",
+      "postal_code": [
+        "48160"
+      ]
+    },
+    {
+      "city": "Atengo",
+      "colonia": "Yerbabuena",
+      "postal_code": [
+        "48175"
+      ]
+    }
+  ]
+}

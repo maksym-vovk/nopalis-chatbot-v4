@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "San Sebastian Coatlan",
+      "colonia": "El Gavilan",
+      "postal_code": [
+        "70852"
+      ]
+    },
+    {
+      "city": "San Sebastian Coatlan",
+      "colonia": "Porvenir de Ballesteros",
+      "postal_code": [
+        "70851"
+      ]
+    },
+    {
+      "city": "San Sebastian Coatlan",
+      "colonia": "San Jose Cieneguilla",
+      "postal_code": [
+        "70854"
+      ]
+    },
+    {
+      "city": "San Sebastian Coatlan",
+      "colonia": "San Sebastian Coatlan",
+      "postal_code": [
+        "70850"
+      ]
+    }
+  ]
+}

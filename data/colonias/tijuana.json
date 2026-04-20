@@ -1,0 +1,6333 @@
+{
+  "data": [
+    {
+      "city": "Tijuana",
+      "colonia": "10 de Mayo",
+      "postal_code": [
+        "22476"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "18 de Marzo",
+      "postal_code": [
+        "22120"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "22100"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "28 Batallon de Infanteria",
+      "postal_code": [
+        "22636"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "3 de Octubre",
+      "postal_code": [
+        "22126"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "5 y 8 Hectareas",
+      "postal_code": [
+        "22610"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Aeropuerto",
+      "postal_code": [
+        "22404"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Agraristas",
+      "postal_code": [
+        "22224"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Agua Caliente",
+      "postal_code": [
+        "22024"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Agua Caliente Seccion Pinos",
+      "postal_code": [
+        "22014"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Aguaje de La Tuna 1a Seccion",
+      "postal_code": [
+        "22640"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Aguaje de La Tuna 2a Seccion",
+      "postal_code": [
+        "22640"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Alamar",
+      "postal_code": [
+        "22465"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Alamar II",
+      "postal_code": [
+        "22470"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Alba Roja",
+      "postal_code": [
+        "22226"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Albatros",
+      "postal_code": [
+        "22515"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Alberto Bustamante",
+      "postal_code": [
+        "22510"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Alcala",
+      "postal_code": [
+        "22106"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Alcatraces",
+      "postal_code": [
+        "22654"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Aleman",
+      "postal_code": [
+        "22050"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Alfa Panamericano",
+      "postal_code": [
+        "22647"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Alfonso Ballesteros",
+      "postal_code": [
+        "22635"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Alfonso Corona del Rosal",
+      "postal_code": [
+        "22104"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Alfonso Garzon",
+      "postal_code": [
+        "22410"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Alfredo Ames",
+      "postal_code": [
+        "22654"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Alicia Carrillo",
+      "postal_code": [
+        "22106"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Altabrisa",
+      "postal_code": [
+        "22420"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Altamira",
+      "postal_code": [
+        "22054"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Altamira Sur",
+      "postal_code": [
+        "22055"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Altiplano",
+      "postal_code": [
+        "22204"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Altiplano 5a Seccion",
+      "postal_code": [
+        "22204"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "America",
+      "postal_code": [
+        "22044"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Amparo Sanchez",
+      "postal_code": [
+        "22183"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ampliacion Ejido Lazaro Cardenas",
+      "postal_code": [
+        "22654"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ampliacion Gabriel Rodriguez",
+      "postal_code": [
+        "22207"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ampliacion Guaycura",
+      "postal_code": [
+        "22214"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ampliacion Las Americas",
+      "postal_code": [
+        "22215"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ampliacion Loma Bonita",
+      "postal_code": [
+        "22200"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ampliacion Lomas de Tlatelolco",
+      "postal_code": [
+        "22254"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ampliacion Lomas Taurinas",
+      "postal_code": [
+        "22420"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ampliacion Reforma",
+      "postal_code": [
+        "22180"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ampliacion Salvatierra",
+      "postal_code": [
+        "22607"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ampliacion Sanchez Taboada",
+      "postal_code": [
+        "22185"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ampliacion Tejamen",
+      "postal_code": [
+        "22635"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Anahuac",
+      "postal_code": [
+        "22105"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Anexa 20 de Noviembre",
+      "postal_code": [
+        "22100"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Anexa Buena Vista",
+      "postal_code": [
+        "22414"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Anexa Del Rio",
+      "postal_code": [
+        "22416"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Anexa Divina Providencia",
+      "postal_code": [
+        "22525"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Anexa Durango",
+      "postal_code": [
+        "22117"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Anexa Herrera",
+      "postal_code": [
+        "22614"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Anexa Internacional",
+      "postal_code": [
+        "22640"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Anexa Loma Dorada",
+      "postal_code": [
+        "22127"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Anexa Magisterial",
+      "postal_code": [
+        "22470"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Anexa Miramar",
+      "postal_code": [
+        "22526"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Anexa Ninos Heroes",
+      "postal_code": [
+        "22600"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Anexa Porvenir",
+      "postal_code": [
+        "22225"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Anexa Postal",
+      "postal_code": [
+        "22405"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Anexa Pro Hogar",
+      "postal_code": [
+        "22637"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Anexa Roma",
+      "postal_code": [
+        "22614"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Anexa Ruiz Cortines",
+      "postal_code": [
+        "22406"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Anexa Sanchez Taboada",
+      "postal_code": [
+        "22186"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Anexa Santa Fe",
+      "postal_code": [
+        "22117"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Anexa Simon Bolivar",
+      "postal_code": [
+        "22635"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Anexa Veracruz",
+      "postal_code": [
+        "22117"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Anexo los Laureles",
+      "postal_code": [
+        "22520"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Angelica",
+      "postal_code": [
+        "22106"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Antorcha Campesina",
+      "postal_code": [
+        "22555"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Antorcha II",
+      "postal_code": [
+        "22557"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "22120"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Arboledas de La Mesa",
+      "postal_code": [
+        "22120"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Arenales B",
+      "postal_code": [
+        "22460"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Artesanal",
+      "postal_code": [
+        "22600"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Aviacion",
+      "postal_code": [
+        "22014"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Azcona",
+      "postal_code": [
+        "22055"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Azteca",
+      "postal_code": [
+        "22224"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Baja California",
+      "postal_code": [
+        "22127"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Baja Malibu",
+      "postal_code": [
+        "22560"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Baja Malibu (Seccion Lomas)",
+      "postal_code": [
+        "22566"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Baja Malibu (Seccion Playas)",
+      "postal_code": [
+        "22560"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Baja Maq. El aguila",
+      "postal_code": [
+        "22215"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Balcon Las Huertas",
+      "postal_code": [
+        "22116"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Banus Residencial",
+      "postal_code": [
+        "22644"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Bellas Artes",
+      "postal_code": [
+        "22435"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Benton",
+      "postal_code": [
+        "22115"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Bonaterra",
+      "postal_code": [
+        "22647"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Bonilla",
+      "postal_code": [
+        "22654"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Bosque de las Araucarias",
+      "postal_code": [
+        "22425"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Bosques de La Presa",
+      "postal_code": [
+        "22125"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Brisa Marina",
+      "postal_code": [
+        "22607"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Brisas del Mar",
+      "postal_code": [
+        "22566"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Buenaventura",
+      "postal_code": [
+        "22110"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Buena Vista",
+      "postal_code": [
+        "22415"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Buenos Aires Norte",
+      "postal_code": [
+        "22200"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Buenos Aires Sur",
+      "postal_code": [
+        "22207"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Bugambilias (Jacarandas)",
+      "postal_code": [
+        "22216"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Burocrata Hipodromo",
+      "postal_code": [
+        "22030"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Burocrata Ruiz Cortines",
+      "postal_code": [
+        "22406"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Calete",
+      "postal_code": [
+        "22044"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Camichin",
+      "postal_code": [
+        "22106"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Camino Real",
+      "postal_code": [
+        "22195"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Camino Verde (Canada Verde)",
+      "postal_code": [
+        "22190"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Camino Viejo",
+      "postal_code": [
+        "22123"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Campestre La Gloria",
+      "postal_code": [
+        "22645"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Campestre Murua",
+      "postal_code": [
+        "22455"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Campo de Golf",
+      "postal_code": [
+        "22020"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Campo Koa",
+      "postal_code": [
+        "22566"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Campos",
+      "postal_code": [
+        "22127"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Canadas del Florido",
+      "postal_code": [
+        "22245"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Canadas del Florido 2a. Seccion",
+      "postal_code": [
+        "22245"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Canon Azteca",
+      "postal_code": [
+        "22523"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Canon Centenario",
+      "postal_code": [
+        "22183"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Canon de La Pedrera",
+      "postal_code": [
+        "22035"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Canon de La Pedrera Este",
+      "postal_code": [
+        "22035"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Canon de La Raza",
+      "postal_code": [
+        "22224"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Canon de las Carretas",
+      "postal_code": [
+        "22605"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Canon de las Palmeras",
+      "postal_code": [
+        "22535"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Canon de las Rosas",
+      "postal_code": [
+        "22523"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Canon del Matadero",
+      "postal_code": [
+        "22523"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Canon del Matadero Este",
+      "postal_code": [
+        "22520"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Canon del Matadero Norte",
+      "postal_code": [
+        "22537"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Canon del Padre",
+      "postal_code": [
+        "22203"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Canon del Sainz",
+      "postal_code": [
+        "22170"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Canon el Salado",
+      "postal_code": [
+        "22116"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Canon Miramar",
+      "postal_code": [
+        "22523"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Canon Oasis",
+      "postal_code": [
+        "22034"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Canon Palmas",
+      "postal_code": [
+        "22126"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Canon Primavera",
+      "postal_code": [
+        "22035"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Canon Rosales",
+      "postal_code": [
+        "22526"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Canon Rubi",
+      "postal_code": [
+        "22600"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Canon Tampico",
+      "postal_code": [
+        "22520"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Capistrano INFONAVIT",
+      "postal_code": [
+        "22223"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Carmen Castillo",
+      "postal_code": [
+        "22186"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Castillo",
+      "postal_code": [
+        "22050"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Castro",
+      "postal_code": [
+        "22115"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Castro Green",
+      "postal_code": [
+        "22127"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Cecena",
+      "postal_code": [
+        "22105"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Centro Comercial Otay",
+      "postal_code": [
+        "22425"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Centro Urbano 70-76",
+      "postal_code": [
+        "22410"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Cerro Colorado",
+      "postal_code": [
+        "22223"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Cerro Colorado 2a Seccion (Lomas del Colorado)",
+      "postal_code": [
+        "22223"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Cerro Colorado 3a Seccion",
+      "postal_code": [
+        "22223"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Cerro Colorado I",
+      "postal_code": [
+        "22223"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Cerro II",
+      "postal_code": [
+        "22223"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Chamizal",
+      "postal_code": [
+        "22415"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Chapultepec",
+      "postal_code": [
+        "22020"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Chapultepec 10a Seccion",
+      "postal_code": [
+        "22020"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Chapultepec 8a Seccion",
+      "postal_code": [
+        "22020"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Chapultepec 9a Seccion",
+      "postal_code": [
+        "22020"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Chapultepec Alamar",
+      "postal_code": [
+        "22110"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Chapultepec California",
+      "postal_code": [
+        "22117"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Chapultepec Este",
+      "postal_code": [
+        "22020"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Chihuahua",
+      "postal_code": [
+        "22620"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Chihuahua La Mesa",
+      "postal_code": [
+        "22114"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Chilpancingo",
+      "postal_code": [
+        "22440"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Chula Vista",
+      "postal_code": [
+        "22045"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ciudad Industrial",
+      "postal_code": [
+        "22444"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ciudad Jardin",
+      "postal_code": [
+        "22610"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Colas del Matamoros",
+      "postal_code": [
+        "22204"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Colegio Ibero Tijuana",
+      "postal_code": [
+        "22510"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Colima",
+      "postal_code": [
+        "22185"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Colina del Mediterraneo",
+      "postal_code": [
+        "22530"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Colinas de Agua Caliente",
+      "postal_code": [
+        "22030"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Colinas de California",
+      "postal_code": [
+        "22647"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Colinas de Chapultepec",
+      "postal_code": [
+        "22025"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Colinas de Cortes",
+      "postal_code": [
+        "22186"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Colinas de La Cantera",
+      "postal_code": [
+        "22185"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Colinas de La Cruz",
+      "postal_code": [
+        "22127"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Colinas del Alamar (Torres del Lago)",
+      "postal_code": [
+        "22210"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Colinas de La Mesa",
+      "postal_code": [
+        "22126"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Colinas de la Presa",
+      "postal_code": [
+        "22125"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Colinas de la Presa Seccion Montebello",
+      "postal_code": [
+        "22125"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Colinas del Florido",
+      "postal_code": [
+        "22254"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Colinas del Rey",
+      "postal_code": [
+        "22634"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Colinas del Sol",
+      "postal_code": [
+        "22660"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Colinas de San angel",
+      "postal_code": [
+        "22195"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Colinas San Rafael",
+      "postal_code": [
+        "22170"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Condesa",
+      "postal_code": [
+        "22640"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Condominios Villas California",
+      "postal_code": [
+        "22645"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Conjunto Residencial Catavina",
+      "postal_code": [
+        "22025"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Constitucion del 17",
+      "postal_code": [
+        "22120"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Contreras",
+      "postal_code": [
+        "22106"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Contreras Oeste",
+      "postal_code": [
+        "22106"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Coral Beach",
+      "postal_code": [
+        "22505"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Corona del Mar",
+      "postal_code": [
+        "22544"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Corona Encantada",
+      "postal_code": [
+        "22525"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Cortez",
+      "postal_code": [
+        "22106"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Costa Coronado Residencial",
+      "postal_code": [
+        "22516"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Costa Dorada",
+      "postal_code": [
+        "22667"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "22010",
+        "22190"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Cubillas",
+      "postal_code": [
+        "22045"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Cubillas Sur",
+      "postal_code": [
+        "22045"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Cuesta Blanca",
+      "postal_code": [
+        "22650"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Cumbres de Juarez",
+      "postal_code": [
+        "22046"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Cumbres del Pacifico (Terrazas del Pacifico)",
+      "postal_code": [
+        "22644"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Cumbres del Rubi",
+      "postal_code": [
+        "22635"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Cumbres del Sol",
+      "postal_code": [
+        "22630",
+        "22665"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Davila",
+      "postal_code": [
+        "22044"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Defensores de Baja California",
+      "postal_code": [
+        "22416"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Delicias",
+      "postal_code": [
+        "22457"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "De los Maestros",
+      "postal_code": [
+        "22640"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Del Rio",
+      "postal_code": [
+        "22416"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Dimenstein",
+      "postal_code": [
+        "22105"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Divina Providencia",
+      "postal_code": [
+        "22525"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Division del Norte",
+      "postal_code": [
+        "22120",
+        "22183"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Division los Altos",
+      "postal_code": [
+        "22536"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Duran",
+      "postal_code": [
+        "22185"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Durango",
+      "postal_code": [
+        "22117"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ecologista",
+      "postal_code": [
+        "22525"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ejido Chilpancingo",
+      "postal_code": [
+        "22440",
+        "22446"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ejido Francisco Villa",
+      "postal_code": [
+        "22236"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ejido Francisco Villa 2a Seccion",
+      "postal_code": [
+        "22236"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ejido Francisco Villa Sur",
+      "postal_code": [
+        "22234"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ejido Lazaro Cardenas",
+      "postal_code": [
+        "22654"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ejido Matamoros",
+      "postal_code": [
+        "22204"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El aguila",
+      "postal_code": [
+        "22215"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Bosque",
+      "postal_code": [
+        "22034"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "22605"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Chicote",
+      "postal_code": [
+        "22654"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Cortez",
+      "postal_code": [
+        "22600"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Electricistas",
+      "postal_code": [
+        "22106",
+        "22106"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Encinal",
+      "postal_code": [
+        "22204"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Florido 1a. Seccion",
+      "postal_code": [
+        "22237"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Florido 2a. Seccion",
+      "postal_code": [
+        "22237"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Florido I",
+      "postal_code": [
+        "22244"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Florido II",
+      "postal_code": [
+        "22244"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Florido III",
+      "postal_code": [
+        "22237"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Florido IV",
+      "postal_code": [
+        "22245"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Florido Seccion Colinas",
+      "postal_code": [
+        "22254"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Gandul",
+      "postal_code": [
+        "22254"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Jibarito",
+      "postal_code": [
+        "22606"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Lago",
+      "postal_code": [
+        "22210"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Laurel I",
+      "postal_code": [
+        "22253"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Laurel II",
+      "postal_code": [
+        "22253"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "22204",
+        "22520"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Mirador (La Mesa)",
+      "postal_code": [
+        "22195"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Monte",
+      "postal_code": [
+        "22555"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Nino",
+      "postal_code": [
+        "22330"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Olivar",
+      "postal_code": [
+        "22123"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Palmar",
+      "postal_code": [
+        "22635"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "22106"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Pedregal",
+      "postal_code": [
+        "22104"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Pedregal Oeste",
+      "postal_code": [
+        "22104"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Penon",
+      "postal_code": [
+        "22204"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Pipila",
+      "postal_code": [
+        "22206"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "22224"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Prado",
+      "postal_code": [
+        "22105"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Prado Este",
+      "postal_code": [
+        "22105"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Progreso",
+      "postal_code": [
+        "22615"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "22126"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Realito",
+      "postal_code": [
+        "22250"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "22253"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "22635"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Roble Tres R",
+      "postal_code": [
+        "22255"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Rubi",
+      "postal_code": [
+        "22626"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Seminario",
+      "postal_code": [
+        "22225"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Tecolote",
+      "postal_code": [
+        "22644"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Triunfo",
+      "postal_code": [
+        "22185"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "El Valle",
+      "postal_code": [
+        "22116"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "22170"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Emperadores",
+      "postal_code": [
+        "22117"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Empleado Postal",
+      "postal_code": [
+        "22416"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Empleados Federales",
+      "postal_code": [
+        "22010"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Escolar Agua Caliente",
+      "postal_code": [
+        "22014"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Estadio Potros",
+      "postal_code": [
+        "22223"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Estrella",
+      "postal_code": [
+        "22660"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Estrella del Pacifico",
+      "postal_code": [
+        "22667"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ex Ejido Tampico",
+      "postal_code": [
+        "22426"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Fausto Gonzalez",
+      "postal_code": [
+        "22605"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Felipa Velazquez",
+      "postal_code": [
+        "22190"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Fernandez",
+      "postal_code": [
+        "22464"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Fideicomiso el Florido",
+      "postal_code": [
+        "22245"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Fidel Velazquez",
+      "postal_code": [
+        "22224"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "FIDUZET",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Flores Magon",
+      "postal_code": [
+        "22606"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Florido Viejo",
+      "postal_code": [
+        "22254"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Fortin de las Flores",
+      "postal_code": [
+        "22114"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Fortin de las Flores Oeste",
+      "postal_code": [
+        "22114"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "FOVISSSTE",
+      "postal_code": [
+        "22457"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "FOVISSSTE II",
+      "postal_code": [
+        "22450"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "FOVISSSTE Los Volcanes",
+      "postal_code": [
+        "22105"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "FOVISSSTE V",
+      "postal_code": [
+        "22450"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "22615"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Francisco Zarco",
+      "postal_code": [
+        "22660"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Fuentes del Sol",
+      "postal_code": [
+        "22665"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Fundadores",
+      "postal_code": [
+        "22046"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Gabilondo",
+      "postal_code": [
+        "22044"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Garcia",
+      "postal_code": [
+        "22123"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Garita Internacional",
+      "postal_code": [
+        "22430"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Garita Otay",
+      "postal_code": [
+        "22430"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Gas y Anexas",
+      "postal_code": [
+        "22115"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Genaro Vazquez",
+      "postal_code": [
+        "22644"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Genaro Vazquez Seccion Tres",
+      "postal_code": [
+        "22644"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Generacion 2000",
+      "postal_code": [
+        "22160"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Geronimo Meza",
+      "postal_code": [
+        "22106"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Geronimo Meza Este",
+      "postal_code": [
+        "22106"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Gertrudis Green",
+      "postal_code": [
+        "22106"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Granja Puesta del Sol",
+      "postal_code": [
+        "22607"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Granjas Buenos Aires Seccion La Palma",
+      "postal_code": [
+        "22160"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Granjas Division del Norte",
+      "postal_code": [
+        "22474"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Granjas el Tecolote",
+      "postal_code": [
+        "22644"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Granjas Familiares de Matamoros",
+      "postal_code": [
+        "22203"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Granjas Familiares La Esperanza",
+      "postal_code": [
+        "22557"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Granjas Familiares Unidas",
+      "postal_code": [
+        "22476"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Granjas Princesas del Sol",
+      "postal_code": [
+        "22254"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Gran Tenochtitlan",
+      "postal_code": [
+        "22523"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Guadalajara",
+      "postal_code": [
+        "22046"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Guadalajara (La Mesa)",
+      "postal_code": [
+        "22115"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "22426"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Guanajuato",
+      "postal_code": [
+        "22117"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Guaycura",
+      "postal_code": [
+        "22216"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Guerrero",
+      "postal_code": [
+        "22055"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Guillen",
+      "postal_code": [
+        "22106"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Gutierrez Ovalle",
+      "postal_code": [
+        "22636"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Habitat Piedras Blancas",
+      "postal_code": [
+        "22250"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Hacienda Acueducto",
+      "postal_code": [
+        "22116"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Hacienda Agua Caliente",
+      "postal_code": [
+        "22030"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Hacienda Casa Grande",
+      "postal_code": [
+        "22244"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Hacienda del Mar",
+      "postal_code": [
+        "22566"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Hacienda del Pacifico",
+      "postal_code": [
+        "22643"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Hacienda el Colorado",
+      "postal_code": [
+        "22220"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Hacienda Las Delicias",
+      "postal_code": [
+        "22163"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Hacienda las Delicias III",
+      "postal_code": [
+        "22165"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Hacienda las Flores",
+      "postal_code": [
+        "22663"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Hacienda las Fuentes",
+      "postal_code": [
+        "22245"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Hacienda las Palomas",
+      "postal_code": [
+        "22030"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Hacienda Linda Vista",
+      "postal_code": [
+        "22536"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Hacienda los Laureles",
+      "postal_code": [
+        "22170"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Hacienda los Venados",
+      "postal_code": [
+        "22163"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Hacienda San Martin",
+      "postal_code": [
+        "22654"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Hacienda Santa Maria",
+      "postal_code": [
+        "22245"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Heroes de Independencia",
+      "postal_code": [
+        "22206"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Herradura",
+      "postal_code": [
+        "22034"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Herradura Sur",
+      "postal_code": [
+        "22035"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Herrera",
+      "postal_code": [
+        "22534"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "22056",
+        "22465"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Hipodromo",
+      "postal_code": [
+        "22020"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Hipodromo Agua Caliente",
+      "postal_code": [
+        "22024"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Hipodromo Dos",
+      "postal_code": [
+        "22195"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Horoscopo",
+      "postal_code": [
+        "22230"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Huertas 1a. Seccion",
+      "postal_code": [
+        "22116"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Huertas 2a. Seccion",
+      "postal_code": [
+        "22116"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "I Ayuntamiento",
+      "postal_code": [
+        "22614"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ignacio Ramirez",
+      "postal_code": [
+        "22635"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "22427"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "IMAQ Tijuana",
+      "postal_code": [
+        "22225"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "INDECO Universidad",
+      "postal_code": [
+        "22427"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Independencia",
+      "postal_code": [
+        "22055"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Industrial Morelos",
+      "postal_code": [
+        "22647"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Industrial Pacifico I",
+      "postal_code": [
+        "22643"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Industrial Pacifico II",
+      "postal_code": [
+        "22644"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Industrial Pacifico III",
+      "postal_code": [
+        "22643"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "INFONAVIT Cachanillas",
+      "postal_code": [
+        "22180"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "INFONAVIT La Mesa",
+      "postal_code": [
+        "22114"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "INFONAVIT Latinos",
+      "postal_code": [
+        "22180"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "INFONAVIT Loma II",
+      "postal_code": [
+        "22450"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "INFONAVIT Lomas del Porvenir",
+      "postal_code": [
+        "22535"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "INFONAVIT Lomas Verdes",
+      "postal_code": [
+        "22127"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "INFONAVIT Patrimonio",
+      "postal_code": [
+        "22465"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Insurgentes",
+      "postal_code": [
+        "22224",
+        "22225",
+        "22420",
+        "22476"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Internacional",
+      "postal_code": [
+        "22640"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Internacional Tijuana",
+      "postal_code": [
+        "22424"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Isla Coronado",
+      "postal_code": [
+        "22665"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Isla Mujeres",
+      "postal_code": [
+        "22666"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Jalisco",
+      "postal_code": [
+        "22116"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Jardin de las Bugambilias",
+      "postal_code": [
+        "22116"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Jardin Dorado",
+      "postal_code": [
+        "22200"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Jardines de Agua Caliente",
+      "postal_code": [
+        "22194"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Jardines de Chapultepec",
+      "postal_code": [
+        "22025"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Jardines de Chapultepec S-E",
+      "postal_code": [
+        "22034"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Jardines de La Gloria",
+      "postal_code": [
+        "22645"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Jardines de La Mesa",
+      "postal_code": [
+        "22126"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Jardines de La Mision",
+      "postal_code": [
+        "22647"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Jardines de Las Arboledas",
+      "postal_code": [
+        "22123"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Jardines de las Cruces",
+      "postal_code": [
+        "22636"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Jardines del Lago",
+      "postal_code": [
+        "22217"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Jardines del Rubi",
+      "postal_code": [
+        "22637"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Jardines de San Carlos",
+      "postal_code": [
+        "22106"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Javier Rojo Gomez",
+      "postal_code": [
+        "22333"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Jose Lopez Portillo",
+      "postal_code": [
+        "22223"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Jose Sandoval",
+      "postal_code": [
+        "22105"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Juarez",
+      "postal_code": [
+        "22040"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Kennedy",
+      "postal_code": [
+        "22414"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Kino",
+      "postal_code": [
+        "22223"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Kino II",
+      "postal_code": [
+        "22223"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Campina",
+      "postal_code": [
+        "22225"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "22120"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Cienega Poniente",
+      "postal_code": [
+        "22114"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Cienega Sur",
+      "postal_code": [
+        "22120"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Cuestecita",
+      "postal_code": [
+        "22664"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Cueva",
+      "postal_code": [
+        "22607"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Cuspide",
+      "postal_code": [
+        "22517"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Laderas del Mar",
+      "postal_code": [
+        "22517"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Laderas de Monterrey",
+      "postal_code": [
+        "22046"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Laderas de Otay",
+      "postal_code": [
+        "22427"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "22106",
+        "22666"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Esmeralda",
+      "postal_code": [
+        "22117"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "22186",
+        "22635"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Fuente del Valle",
+      "postal_code": [
+        "22330"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Gloria",
+      "postal_code": [
+        "22645"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lago Sur",
+      "postal_code": [
+        "22217"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lagunitas",
+      "postal_code": [
+        "22646"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lagunitas 3a Seccion",
+      "postal_code": [
+        "22646"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Ilusion",
+      "postal_code": [
+        "22163"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Isla",
+      "postal_code": [
+        "22537"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Jolla",
+      "postal_code": [
+        "22525",
+        "22645"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Joya",
+      "postal_code": [
+        "22115"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Joya Este",
+      "postal_code": [
+        "22115"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Mesa",
+      "postal_code": [
+        "22105"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Mesa Sur",
+      "postal_code": [
+        "22105"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Morita",
+      "postal_code": [
+        "22245"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Morita 2a Seccion",
+      "postal_code": [
+        "22245"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Muralla",
+      "postal_code": [
+        "22253"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Pechuga",
+      "postal_code": [
+        "22425"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Perla Bahia",
+      "postal_code": [
+        "22505"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Perla Residencial",
+      "postal_code": [
+        "22505"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Remosa",
+      "postal_code": [
+        "22030"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Rioja Residencial",
+      "postal_code": [
+        "22643"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Las 2 Palmas",
+      "postal_code": [
+        "22650"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Las Abejas",
+      "postal_code": [
+        "22245"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "22215"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Las Brisas",
+      "postal_code": [
+        "22115"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Las Brisas Norte",
+      "postal_code": [
+        "22115"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Las Californias",
+      "postal_code": [
+        "22404"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Las Colonias",
+      "postal_code": [
+        "22245"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Las Cumbres",
+      "postal_code": [
+        "22545"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "22643"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Las Fuentes",
+      "postal_code": [
+        "22117"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Las Huertas 3a Seccion",
+      "postal_code": [
+        "22115"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Las Huertas 4a Seccion",
+      "postal_code": [
+        "22117"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Las Huertas 5a Seccion",
+      "postal_code": [
+        "22127"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Sierra",
+      "postal_code": [
+        "22634"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Las Lilas",
+      "postal_code": [
+        "22105"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Las Misiones",
+      "postal_code": [
+        "22215"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "22106"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Las Palmeras",
+      "postal_code": [
+        "22535"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Las Plazas",
+      "postal_code": [
+        "22640"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Las Praderas",
+      "postal_code": [
+        "22223"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Las Torres",
+      "postal_code": [
+        "22470"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Las Torres de Matamoros",
+      "postal_code": [
+        "22206"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Las Vegas",
+      "postal_code": [
+        "22115"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Las Villas Santa Fe",
+      "postal_code": [
+        "22666"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Las Villas Tijuana",
+      "postal_code": [
+        "22667"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "La Villa",
+      "postal_code": [
+        "22117"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "22510"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lazaro Cardenas 3ra Mesa",
+      "postal_code": [
+        "22510"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Leandro Valle",
+      "postal_code": [
+        "22643"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Leonardo Rodriguez Alcaine",
+      "postal_code": [
+        "22505",
+        "22664"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Leos Montoya",
+      "postal_code": [
+        "22106"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ley del Servicio Civil",
+      "postal_code": [
+        "22665"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Liberal Lomas del Rubi",
+      "postal_code": [
+        "22634"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Libertad",
+      "postal_code": [
+        "22400"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Libramiento (Zona AO)",
+      "postal_code": [
+        "22225"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Linda Vista",
+      "postal_code": [
+        "22054"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Llamas Amaya",
+      "postal_code": [
+        "22636"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Loma Blanca",
+      "postal_code": [
+        "22650"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "22200"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Loma Bonita (NA)",
+      "postal_code": [
+        "22605"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Loma Bonita Norte",
+      "postal_code": [
+        "22604"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Loma Dorada",
+      "postal_code": [
+        "22214"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Loma Dorada Campos",
+      "postal_code": [
+        "22127"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas Conjunto Residencial",
+      "postal_code": [
+        "22116"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas de Agua Caliente",
+      "postal_code": [
+        "22024"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas de Agua Caliente 1a Seccion",
+      "postal_code": [
+        "22025"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas de Agua Caliente 5a Seccion",
+      "postal_code": [
+        "22034"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas de Agua Caliente 6a Seccion (Lomas Altas)",
+      "postal_code": [
+        "22034"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas de La Amistad",
+      "postal_code": [
+        "22180"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas de La Presa",
+      "postal_code": [
+        "22125"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas del Mar",
+      "postal_code": [
+        "22564"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas del Mirador",
+      "postal_code": [
+        "22520"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas del Pacifico",
+      "postal_code": [
+        "22614"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas del Pedregal",
+      "postal_code": [
+        "22254"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas del Real",
+      "postal_code": [
+        "22666"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas del Refugio",
+      "postal_code": [
+        "22253"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas del Rio",
+      "postal_code": [
+        "22635"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas del Valle",
+      "postal_code": [
+        "22330"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas de Matamoros",
+      "postal_code": [
+        "22206"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas de San Antonio",
+      "postal_code": [
+        "22665"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas de San Martin",
+      "postal_code": [
+        "22643"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas de San Pedro",
+      "postal_code": [
+        "22263"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas de Tlatelolco",
+      "postal_code": [
+        "22254"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas Doctores (Chapultepec Doctores)",
+      "postal_code": [
+        "22045"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas Encantadas",
+      "postal_code": [
+        "22660"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas Hipodromo",
+      "postal_code": [
+        "22030"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas Las Huertas",
+      "postal_code": [
+        "22117"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas Mision",
+      "postal_code": [
+        "22530"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas Santa Fe",
+      "postal_code": [
+        "22564"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas Taurinas",
+      "postal_code": [
+        "22410"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas Terrabella",
+      "postal_code": [
+        "22203"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas Tijuana",
+      "postal_code": [
+        "22535"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas Villas",
+      "postal_code": [
+        "22635"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lomas Virreyes",
+      "postal_code": [
+        "22244"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lopez",
+      "postal_code": [
+        "22105"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lopez Leyva",
+      "postal_code": [
+        "22416"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lopez Lucio",
+      "postal_code": [
+        "22106"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lopez Mateos",
+      "postal_code": [
+        "22030"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Lopez Oeste",
+      "postal_code": [
+        "22105"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "22110"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Los Altos (Ruiz Valencia)",
+      "postal_code": [
+        "22536"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "22105"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Los arboles",
+      "postal_code": [
+        "22117"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Los Arenales A",
+      "postal_code": [
+        "22464"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Los Delfines",
+      "postal_code": [
+        "22566"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Los Espanoles",
+      "postal_code": [
+        "22104"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Los Girasoles",
+      "postal_code": [
+        "22255"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "22520"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Los Lobos",
+      "postal_code": [
+        "22207"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Los Naranjos",
+      "postal_code": [
+        "22125"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Los Olivos",
+      "postal_code": [
+        "22115",
+        "22194",
+        "22250"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Los Olivos Norte",
+      "postal_code": [
+        "22195"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Los Pinos (Limon)",
+      "postal_code": [
+        "22120"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Los Pirules",
+      "postal_code": [
+        "22110"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "22125"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Los Santos",
+      "postal_code": [
+        "22104"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Los Saucillos",
+      "postal_code": [
+        "22225"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Los Valles",
+      "postal_code": [
+        "22164"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Los Venados",
+      "postal_code": [
+        "22123"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Los Venados Oeste",
+      "postal_code": [
+        "22123"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Luis Echeverria",
+      "postal_code": [
+        "22640"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Luna Park",
+      "postal_code": [
+        "22127"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Luz Juarez",
+      "postal_code": [
+        "22106"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Maclovio Rojas",
+      "postal_code": [
+        "22254"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Madero (Cacho)",
+      "postal_code": [
+        "22040"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Madero Sur",
+      "postal_code": [
+        "22046"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Maestros Universitarios",
+      "postal_code": [
+        "22457"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Magana",
+      "postal_code": [
+        "22106"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "22470"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Manuel Paredes 3a Seccion",
+      "postal_code": [
+        "22610"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Manuel Paredes I",
+      "postal_code": [
+        "22620"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Manuel Paredes II",
+      "postal_code": [
+        "22610"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Manuel Rivera Anaya",
+      "postal_code": [
+        "22450"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Mar de Cortez",
+      "postal_code": [
+        "22505"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Margarita Residencial",
+      "postal_code": [
+        "22335"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Maria Medina",
+      "postal_code": [
+        "22183"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Mariano Matamoros (Centro)",
+      "postal_code": [
+        "22234"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Mariano Matamoros (Norte)",
+      "postal_code": [
+        "22206"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Mariano Matamoros (Sur)",
+      "postal_code": [
+        "22234"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Marron",
+      "postal_code": [
+        "22015"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Martinez",
+      "postal_code": [
+        "22127"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Mar Vista",
+      "postal_code": [
+        "22510",
+        "22520"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Maurilio Magallon",
+      "postal_code": [
+        "22116"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Melchor Ocampo",
+      "postal_code": [
+        "22456"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Mesa de Otay",
+      "postal_code": [
+        "22430"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Meseta del Chema",
+      "postal_code": [
+        "22225"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Mesetas del Guaycura",
+      "postal_code": [
+        "22214"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Mexico",
+      "postal_code": [
+        "22056"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Mexico Lindo",
+      "postal_code": [
+        "22126"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Michoacan",
+      "postal_code": [
+        "22524"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Milenio 2000",
+      "postal_code": [
+        "22515"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Militar",
+      "postal_code": [
+        "22636"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Mineral de Santa Fe",
+      "postal_code": [
+        "22416"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Mi Patrimonio",
+      "postal_code": [
+        "22643"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Mirador Capistrano",
+      "postal_code": [
+        "22223"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Miramar",
+      "postal_code": [
+        "22526"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Mision de las Americas",
+      "postal_code": [
+        "22215"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Mision de las Californias",
+      "postal_code": [
+        "22207"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Mision del Sol",
+      "postal_code": [
+        "22530"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Misiones del Pedregal",
+      "postal_code": [
+        "22426"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Modesto Ponce",
+      "postal_code": [
+        "22607"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Monarca",
+      "postal_code": [
+        "22645"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Monte Bello",
+      "postal_code": [
+        "22195"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Montecarlo",
+      "postal_code": [
+        "22203"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Monte Real",
+      "postal_code": [
+        "22224"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Monterrey",
+      "postal_code": [
+        "22046"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Monte San Antonio",
+      "postal_code": [
+        "22616"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Montes Olimpicos",
+      "postal_code": [
+        "22600"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Morelos",
+      "postal_code": [
+        "22056"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Moreno",
+      "postal_code": [
+        "22105"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Moreno 2da. Seccion",
+      "postal_code": [
+        "22115"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Murua Oriente",
+      "postal_code": [
+        "22465"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Murua Poniente",
+      "postal_code": [
+        "22456"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Natura Seccion Amanecer",
+      "postal_code": [
+        "22165"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Natura Seccion Arboledas",
+      "postal_code": [
+        "22165"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Natura Seccion Bosques",
+      "postal_code": [
+        "22165"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Natura Seccion Vistas del Sol",
+      "postal_code": [
+        "22165"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Neidhart",
+      "postal_code": [
+        "22020"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Nido de las aguilas",
+      "postal_code": [
+        "22473"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Nino Artillero",
+      "postal_code": [
+        "22185"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "22620"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ninos Heroes Este",
+      "postal_code": [
+        "22120"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ninos Heroes (La Mesa)",
+      "postal_code": [
+        "22120"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Nordika",
+      "postal_code": [
+        "22644"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Nueva Aurora",
+      "postal_code": [
+        "22604"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Nueva Aurora Sur",
+      "postal_code": [
+        "22604"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Nueva Era",
+      "postal_code": [
+        "22636"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Nueva Esperanza (La Cuesta)",
+      "postal_code": [
+        "22640"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Nueva Tijuana",
+      "postal_code": [
+        "22435"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Nuevo Milenio",
+      "postal_code": [
+        "22604"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Nuevo Progreso",
+      "postal_code": [
+        "22255"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Oaxaca (angel Fernandez)",
+      "postal_code": [
+        "22620"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Obrera 1a Seccion",
+      "postal_code": [
+        "22625"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Obrera 2a Seccion",
+      "postal_code": [
+        "22624"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Obrera 3a Seccion",
+      "postal_code": [
+        "22624"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ojo de Agua",
+      "postal_code": [
+        "22254"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ojo de Agua (El Florido)",
+      "postal_code": [
+        "22254"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Orizaba",
+      "postal_code": [
+        "22127"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Otay Campestre",
+      "postal_code": [
+        "22450"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Otay Colonial",
+      "postal_code": [
+        "22436"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Otay Constituyentes",
+      "postal_code": [
+        "22457"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Otay Diamantes",
+      "postal_code": [
+        "22436"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Otay Galerias",
+      "postal_code": [
+        "22436"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Otay Insurgentes",
+      "postal_code": [
+        "22420"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Otay Jardin",
+      "postal_code": [
+        "22427"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Otay Jardin II",
+      "postal_code": [
+        "22427"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Otay Universidad",
+      "postal_code": [
+        "22427"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Otay Vista",
+      "postal_code": [
+        "22450"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Pacifico Campestre",
+      "postal_code": [
+        "22565"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Palma Real",
+      "postal_code": [
+        "22164"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Panamericano",
+      "postal_code": [
+        "22647"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Paraiso del Rio",
+      "postal_code": [
+        "22226"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Parajes del Valle",
+      "postal_code": [
+        "22334"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Parque Industrial El Florido Seccion La Encantada",
+      "postal_code": [
+        "22250"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Parque Industrial La Mesa",
+      "postal_code": [
+        "22180"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Parque Industrial Misiones de las Californias",
+      "postal_code": [
+        "22425"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Parque Industrial Pacifico IV",
+      "postal_code": [
+        "22644"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Partido del Trabajo",
+      "postal_code": [
+        "22254"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Paseo Santa Maria",
+      "postal_code": [
+        "22245"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Paseos de Guaycura",
+      "postal_code": [
+        "22215"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Paseos del Florido",
+      "postal_code": [
+        "22245"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Paseos del Pacifico",
+      "postal_code": [
+        "22643"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Paseos del Vergel",
+      "postal_code": [
+        "22253"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Patria Nueva",
+      "postal_code": [
+        "22214"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Patrimonial Benito Juarez",
+      "postal_code": [
+        "22614"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Patrimonio Alamar",
+      "postal_code": [
+        "22465"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Patrimonio Familiar",
+      "postal_code": [
+        "22636"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Pedregal del Matamoros",
+      "postal_code": [
+        "22203"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Pedregal de Santa Julia",
+      "postal_code": [
+        "22604"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Pegaso I",
+      "postal_code": [
+        "22474"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Pegaso II",
+      "postal_code": [
+        "22474"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Perimetral Norte",
+      "postal_code": [
+        "22434"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Pinos del Agüero",
+      "postal_code": [
+        "22116"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Pinos de Narez",
+      "postal_code": [
+        "22127"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Plan de Barranquitas",
+      "postal_code": [
+        "22015"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Plan de Iguala",
+      "postal_code": [
+        "22116"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Planetario",
+      "postal_code": [
+        "22034"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Planicie",
+      "postal_code": [
+        "22204"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Playa Blanca",
+      "postal_code": [
+        "22560"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Playa Diamante",
+      "postal_code": [
+        "22504"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Playas de Tijuana Seccion Costa",
+      "postal_code": [
+        "22504"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Playas de Tijuana Seccion Costa Azul",
+      "postal_code": [
+        "22506"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Playas de Tijuana Seccion Costa de Oro",
+      "postal_code": [
+        "22506"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Playas de Tijuana Seccion Costa Hermosa",
+      "postal_code": [
+        "22506"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Playas de Tijuana Seccion el Dorado",
+      "postal_code": [
+        "22505"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Playas de Tijuana Seccion Jardines",
+      "postal_code": [
+        "22500"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Playas de Tijuana Seccion Jardines del Sol",
+      "postal_code": [
+        "22505"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Playas de Tijuana Seccion La Riviera",
+      "postal_code": [
+        "22505"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Playas de Tijuana Seccion Monumental",
+      "postal_code": [
+        "22504"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Playas de Tijuana Seccion Playas Coronado",
+      "postal_code": [
+        "22504"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Playas de Tijuana Seccion Terrazas",
+      "postal_code": [
+        "22504"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Playas de Tijuana Seccion Triangulo de Oro",
+      "postal_code": [
+        "22506"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Plaza Espana",
+      "postal_code": [
+        "22215"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Plaza Otay",
+      "postal_code": [
+        "22450"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Plazas",
+      "postal_code": [
+        "22457"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Plaza San Marcos",
+      "postal_code": [
+        "22215"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Pontevedra",
+      "postal_code": [
+        "22476"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Portezuelos",
+      "postal_code": [
+        "22260"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Porticos de La Mesa",
+      "postal_code": [
+        "22225"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Porticos del Lago",
+      "postal_code": [
+        "22214"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Porticos de San Antonio",
+      "postal_code": [
+        "22666"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Porticos de Tijuana",
+      "postal_code": [
+        "22215"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Praderas de la Gloria",
+      "postal_code": [
+        "22667"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Praderas de La Mesa",
+      "postal_code": [
+        "22224"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Praderas de La Mesa Seccion Valle de las Flores",
+      "postal_code": [
+        "22225"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Praderas del Sol",
+      "postal_code": [
+        "22215"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Presa Rodriguez",
+      "postal_code": [
+        "22124"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Presidentes",
+      "postal_code": [
+        "22215",
+        "22215"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Privada Catalana",
+      "postal_code": [
+        "22025"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Privada Hacienda Cordoba",
+      "postal_code": [
+        "22226"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Privada San Miguel",
+      "postal_code": [
+        "22465"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Pueblo Bonito",
+      "postal_code": [
+        "22034"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Puente La Joya",
+      "postal_code": [
+        "22540"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Puerta de Hierro",
+      "postal_code": [
+        "22024"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Puerta del Rio",
+      "postal_code": [
+        "22226"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Puerta del Sol",
+      "postal_code": [
+        "22207"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Puerta Plata",
+      "postal_code": [
+        "22163"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Puesta del Sol",
+      "postal_code": [
+        "22504"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Punta Bandera",
+      "postal_code": [
+        "22550"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Punta del Mar",
+      "postal_code": [
+        "22550"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Quinta Alta",
+      "postal_code": [
+        "22106"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Quintas Campestre El Refugio",
+      "postal_code": [
+        "22255"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Quinta Versalles",
+      "postal_code": [
+        "22664"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ramirez",
+      "postal_code": [
+        "22115"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ramos",
+      "postal_code": [
+        "22116"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ramos Sur",
+      "postal_code": [
+        "22116"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Rancho 3 Piedras (La Ladrillera)",
+      "postal_code": [
+        "22330"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Rancho el aguila",
+      "postal_code": [
+        "22215"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Rancho el Grande",
+      "postal_code": [
+        "22025"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Rancho Escondido",
+      "postal_code": [
+        "22473"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Rancho La Cima",
+      "postal_code": [
+        "22616"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Rancho las Flores 1a Seccion",
+      "postal_code": [
+        "22526"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Rancho las Flores 2a Seccion",
+      "postal_code": [
+        "22526"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Rancho Macias",
+      "postal_code": [
+        "22525"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Rancho Rivera",
+      "postal_code": [
+        "22460"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Rancho Santa Cruz",
+      "postal_code": [
+        "22170"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Reacomodo Obras Publicas",
+      "postal_code": [
+        "22605"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Real de La Gloria",
+      "postal_code": [
+        "22645"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Real del Mar",
+      "postal_code": [
+        "22565"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Real del Monte",
+      "postal_code": [
+        "22195"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Real de Loma Bonita",
+      "postal_code": [
+        "22604"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Real de San Antonio",
+      "postal_code": [
+        "22666"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Real de San Francisco",
+      "postal_code": [
+        "22236"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Reforma",
+      "postal_code": [
+        "22183"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Residencial Agua Caliente",
+      "postal_code": [
+        "22194"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Residencial Alameda",
+      "postal_code": [
+        "22126"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Residencial Barcelona",
+      "postal_code": [
+        "22644"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Residencial El Fuerte",
+      "postal_code": [
+        "22214"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Residencial Frontera",
+      "postal_code": [
+        "22434"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Residencial Isla Cedros",
+      "postal_code": [
+        "22666"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Residencial La Esmeralda",
+      "postal_code": [
+        "22640"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Residencial La Esperanza",
+      "postal_code": [
+        "22640"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Residencial Las Cascadas",
+      "postal_code": [
+        "22634"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Residencial Los Abedules",
+      "postal_code": [
+        "22244"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Residencial Los Leones",
+      "postal_code": [
+        "22645"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Residencial San Marino",
+      "postal_code": [
+        "22567"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Residencial Villaflores",
+      "postal_code": [
+        "22110"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "22015"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Reynoso",
+      "postal_code": [
+        "22106"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Reynoso Parcela 162",
+      "postal_code": [
+        "22106"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Ribera del Bosque",
+      "postal_code": [
+        "22204"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Riberas del Alamar",
+      "postal_code": [
+        "22464"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Rinconada 1",
+      "postal_code": [
+        "22474"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Rinconada 2",
+      "postal_code": [
+        "22474"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Rinconada de Otay",
+      "postal_code": [
+        "22457"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Rincon Colonial Chapultepec",
+      "postal_code": [
+        "22020"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Rincon del Mediterraneo",
+      "postal_code": [
+        "22254"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Rincon de Otay",
+      "postal_code": [
+        "22450"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Rincon Dorado",
+      "postal_code": [
+        "22203"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Rincon Toscano",
+      "postal_code": [
+        "22046"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Rio Tijuana 2a. Etapa",
+      "postal_code": [
+        "22114"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Rio Tijuana 3a Etapa",
+      "postal_code": [
+        "22226"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Rio Vista",
+      "postal_code": [
+        "22450"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Roberto Curiel",
+      "postal_code": [
+        "22634"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Roberto de La Madrid",
+      "postal_code": [
+        "22435"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Roberto Yahuaca",
+      "postal_code": [
+        "22545"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Rodeo",
+      "postal_code": [
+        "22225"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Roma",
+      "postal_code": [
+        "22054"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Rubi Aguadores",
+      "postal_code": [
+        "22626"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Rubio",
+      "postal_code": [
+        "22116"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Salvatierra",
+      "postal_code": [
+        "22607"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "22663"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "San Angel",
+      "postal_code": [
+        "22524"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "22114"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "San Antonio del Mar",
+      "postal_code": [
+        "22560"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "San Antonio Oeste",
+      "postal_code": [
+        "22114"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "San Bernardo (Terrazas de San Bernardo)",
+      "postal_code": [
+        "22525"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "22106",
+        "22223"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Sanchez Diaz",
+      "postal_code": [
+        "22640"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Sanchez Taboada II",
+      "postal_code": [
+        "22183"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Sanchez Taboada III",
+      "postal_code": [
+        "22185"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Sanchez Taboada IV",
+      "postal_code": [
+        "22185"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Sanchez Taboada Produtsa",
+      "postal_code": [
+        "22185"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "San Jeronimo",
+      "postal_code": [
+        "22025"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "San Jose del Alto",
+      "postal_code": [
+        "22104"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "San Luis",
+      "postal_code": [
+        "22170"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "San Mateo",
+      "postal_code": [
+        "22607"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "22667"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "San Quintin",
+      "postal_code": [
+        "22643"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Santa Anita",
+      "postal_code": [
+        "22195"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "22194"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "22105",
+        "22170"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "22114"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "22117",
+        "22254",
+        "22334"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Santa Monica",
+      "postal_code": [
+        "22566"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Santa Paula",
+      "postal_code": [
+        "22635"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "22106"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Santa Rosa (Ciudad)",
+      "postal_code": [
+        "22534"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Seccion Campestre",
+      "postal_code": [
+        "22566"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Segunda Parte del Soler",
+      "postal_code": [
+        "22530"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "SEPANAL",
+      "postal_code": [
+        "22415"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Sevilla Residencial",
+      "postal_code": [
+        "22244"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Siena Residencial",
+      "postal_code": [
+        "22667"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Simon Bolivar",
+      "postal_code": [
+        "22635"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Sirak M Baloyan",
+      "postal_code": [
+        "22196"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Soler",
+      "postal_code": [
+        "22530"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Sonoita",
+      "postal_code": [
+        "22106"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Sonora",
+      "postal_code": [
+        "22195"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Tecnologico",
+      "postal_code": [
+        "22454"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "TECNOMEX",
+      "postal_code": [
+        "22517"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Tejamen",
+      "postal_code": [
+        "22635"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Tepeyac",
+      "postal_code": [
+        "22635"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Terrazas de La Presa",
+      "postal_code": [
+        "22124"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Terrazas del Sol",
+      "postal_code": [
+        "22555"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Terrazas del Valle",
+      "postal_code": [
+        "22246"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Terrazas del Valle 2a Seccion",
+      "postal_code": [
+        "22330"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Terrazas de San Angel",
+      "postal_code": [
+        "22665"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Terrazas La Morita",
+      "postal_code": [
+        "22253"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Tierra y Libertad",
+      "postal_code": [
+        "22206"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Tijuana (Gral. Abelardo L. Rodriguez)",
+      "postal_code": [
+        "22439"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Tomas Alva Edison",
+      "postal_code": [
+        "22163"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Tomas Aquino",
+      "postal_code": [
+        "22414"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Tona",
+      "postal_code": [
+        "22124"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Tres M (Perez)",
+      "postal_code": [
+        "22330"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Union",
+      "postal_code": [
+        "22534"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Universidad Sur",
+      "postal_code": [
+        "22427"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Urbi Quinta del Cedro",
+      "postal_code": [
+        "22564"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Urbi Quinta del Cedro Segunda Seccion",
+      "postal_code": [
+        "22564"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Urbiquinta Marsella",
+      "postal_code": [
+        "22214"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Urias",
+      "postal_code": [
+        "22116"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Vaim",
+      "postal_code": [
+        "22114"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Valle Bonito",
+      "postal_code": [
+        "22250"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Valle del Alamar II",
+      "postal_code": [
+        "22470"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Valle de las Palmas",
+      "postal_code": [
+        "22260"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Valle del Pedregal",
+      "postal_code": [
+        "22635"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Valle del Rubi Seccion Lomas",
+      "postal_code": [
+        "22630"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Valle del Rubi Seccion Terrazas",
+      "postal_code": [
+        "22637"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Valle del Sur",
+      "postal_code": [
+        "22637"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Valle del Sur 1",
+      "postal_code": [
+        "22637"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Valle del Sur 2",
+      "postal_code": [
+        "22637"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Valle Dorado",
+      "postal_code": [
+        "22170"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Valle Imperial",
+      "postal_code": [
+        "22204"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Valle Redondo",
+      "postal_code": [
+        "22335"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Valle Sur",
+      "postal_code": [
+        "22604"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Valle Verde",
+      "postal_code": [
+        "22204"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Valle Vista 1a Seccion",
+      "postal_code": [
+        "22456"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Valle Vista 2a Seccion",
+      "postal_code": [
+        "22456"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Valparaiso Residencial",
+      "postal_code": [
+        "22663"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Veracruz",
+      "postal_code": [
+        "22117"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Verona Residencial",
+      "postal_code": [
+        "22667"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Bonita",
+      "postal_code": [
+        "22635"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Campestre",
+      "postal_code": [
+        "22647"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Colonial",
+      "postal_code": [
+        "22194"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Cruz",
+      "postal_code": [
+        "22224"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa de Alcazar",
+      "postal_code": [
+        "22123"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa del alamo",
+      "postal_code": [
+        "22170"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa del Campo",
+      "postal_code": [
+        "22254"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa del Prado",
+      "postal_code": [
+        "22170"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa del Prado Segunda Seccion",
+      "postal_code": [
+        "22170"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa del Real I",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa del Real II",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa del Real III",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa del Real IV",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa del Real V",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa del Real VI",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa del Real VII",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa del Real VIII",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa del Real X",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa del Real XI",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa del Sol I",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa del Sol II",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa del Sol III",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa del Sol IV",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa del Sol V",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Floresta",
+      "postal_code": [
+        "22127"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Fontana I",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Fontana II",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Fontana III",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Fontana IV",
+      "postal_code": [
+        "22206"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Fontana IX",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Fontana V",
+      "postal_code": [
+        "22206"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Fontana VI",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Fontana VII",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Fontana VIII",
+      "postal_code": [
+        "22206"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Fontana X",
+      "postal_code": [
+        "22206"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Fontana XI",
+      "postal_code": [
+        "22206"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Fontana XII",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Fontana XIII",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Fontana XIV",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Fontana XVI",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Fontana XVIII",
+      "postal_code": [
+        "22205"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Lomas",
+      "postal_code": [
+        "22034"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Mar",
+      "postal_code": [
+        "22516"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Residencial del Bosque",
+      "postal_code": [
+        "22204"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Residencial Santa Fe 1a Seccion",
+      "postal_code": [
+        "22667"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Residencial Santa Fe 2a Seccion",
+      "postal_code": [
+        "22664"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Residencial Santa Fe 3a Seccion",
+      "postal_code": [
+        "22664"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Residencial Santa Fe 4a Seccion",
+      "postal_code": [
+        "22664"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Residencial Santa Fe 5a Seccion",
+      "postal_code": [
+        "22664"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villas de Baja California",
+      "postal_code": [
+        "22125"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villas del Dorado",
+      "postal_code": [
+        "22235"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villas del Rio",
+      "postal_code": [
+        "22226"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villas Otay",
+      "postal_code": [
+        "22425"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villa Urrutia",
+      "postal_code": [
+        "22126"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Villegas",
+      "postal_code": [
+        "22636"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Vinas del Mar",
+      "postal_code": [
+        "22564"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Vinas del Mar II",
+      "postal_code": [
+        "22564"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Vinedos Casa Blanca",
+      "postal_code": [
+        "22246"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Vista Alamar",
+      "postal_code": [
+        "22450"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Vista Azul",
+      "postal_code": [
+        "22557"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Vista Bella",
+      "postal_code": [
+        "22666"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Vista del Rio",
+      "postal_code": [
+        "22226"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Vista del Valle",
+      "postal_code": [
+        "22330"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Vista Dorada",
+      "postal_code": [
+        "22034"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Vista Encantada",
+      "postal_code": [
+        "22525"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "22210"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Vista Lago",
+      "postal_code": [
+        "22430"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Vista Mar Residencial",
+      "postal_code": [
+        "22517"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Vistas de Palmillas",
+      "postal_code": [
+        "22253"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Vivienda Magisterial 37",
+      "postal_code": [
+        "22120"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Vivienda Popular",
+      "postal_code": [
+        "22630"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Xicotencatl Dos",
+      "postal_code": [
+        "22660"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Xicotencatl Leyva",
+      "postal_code": [
+        "22606"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Xicotencatl Leyva Aleman",
+      "postal_code": [
+        "22510"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Xicotencatl Leyva (OE)",
+      "postal_code": [
+        "22436"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Xochimilco Solidaridad",
+      "postal_code": [
+        "22643"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "XVIII Ayuntamiento",
+      "postal_code": [
+        "22644"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Yamille",
+      "postal_code": [
+        "22114"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Zermeno (Merida)",
+      "postal_code": [
+        "22120"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Zona Centro",
+      "postal_code": [
+        "22000"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Zona Este",
+      "postal_code": [
+        "22000"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Zona Norte",
+      "postal_code": [
+        "22000"
+      ]
+    },
+    {
+      "city": "Tijuana",
+      "colonia": "Zona Urbana Rio Tijuana",
+      "postal_code": [
+        "22010"
+      ]
+    }
+  ]
+}

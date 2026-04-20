@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Felipe Teotlalcingo",
+      "colonia": "San Felipe Teotlalcingo",
+      "postal_code": [
+        "74140"
+      ]
+    },
+    {
+      "city": "San Felipe Teotlalcingo",
+      "colonia": "San Juan Tlale",
+      "postal_code": [
+        "74144"
+      ]
+    },
+    {
+      "city": "San Felipe Teotlalcingo",
+      "colonia": "San Matias Atzala",
+      "postal_code": [
+        "74140"
+      ]
+    }
+  ]
+}

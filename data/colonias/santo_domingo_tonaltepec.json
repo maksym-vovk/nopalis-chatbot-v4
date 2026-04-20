@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Santo Domingo Tonaltepec",
+      "colonia": "San Francisco Rio Blanco",
+      "postal_code": [
+        "69537"
+      ]
+    },
+    {
+      "city": "Santo Domingo Tonaltepec",
+      "colonia": "Santo Domingo Tonaltepec",
+      "postal_code": [
+        "69536"
+      ]
+    },
+    {
+      "city": "Santo Domingo Tonaltepec",
+      "colonia": "Vista Hermosa",
+      "postal_code": [
+        "69537"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Canitas de Felipe Pescador",
+      "colonia": "Boquilla de Abajo",
+      "postal_code": [
+        "98490"
+      ]
+    },
+    {
+      "city": "Canitas de Felipe Pescador",
+      "colonia": "Canitas de Felipe Pescador",
+      "postal_code": [
+        "98480"
+      ]
+    },
+    {
+      "city": "Canitas de Felipe Pescador",
+      "colonia": "Canitas Viejo (Canitas Viejas)",
+      "postal_code": [
+        "98480"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,721 @@
+{
+  "data": [
+    {
+      "city": "Mapastepec",
+      "colonia": "15 de Enero",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "16 de Febrero",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "21 de Marzo",
+      "postal_code": [
+        "30574"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "3 de Mayo",
+      "postal_code": [
+        "30576"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Abraham Gonzalez",
+      "postal_code": [
+        "30566"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Absalon Castellanos",
+      "postal_code": [
+        "30575"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "30567"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Altamira 2",
+      "postal_code": [
+        "30574"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Altamira Uno",
+      "postal_code": [
+        "30577"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Anahuac",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Anonal",
+      "postal_code": [
+        "30565"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Barrancon",
+      "postal_code": [
+        "30563"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Barrita de Pajon",
+      "postal_code": [
+        "30565"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Belisario Dominguez",
+      "postal_code": [
+        "30563"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "30560",
+        "30564"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Canta Rana",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Doctor Samuel Leon Brindis",
+      "postal_code": [
+        "30567"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Doroteo Arango",
+      "postal_code": [
+        "30573"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "El Ayotal",
+      "postal_code": [
+        "30576"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "30564"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "El DIF",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "El Embarcadero",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "El Encanto",
+      "postal_code": [
+        "30566"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "El Huamuche",
+      "postal_code": [
+        "30566"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "El Llanito",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "El Malucal",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "El Recuerdo",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "El Riito",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "30568"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Estacion Vieja",
+      "postal_code": [
+        "30565"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Flores Magon",
+      "postal_code": [
+        "30563"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "30564"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Francisco Sarabia (La Blanca)",
+      "postal_code": [
+        "30568"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Generacion 2000 Nuevo Milenio",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "30573"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Guisamar",
+      "postal_code": [
+        "30576"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Herbin Rizo Gonzalez",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Hidalgo Novillero",
+      "postal_code": [
+        "30567"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Ibarra",
+      "postal_code": [
+        "30565"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Juan Becerra",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Juan Escutia 2",
+      "postal_code": [
+        "30567"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Juan Sabines",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Jubileo 2000",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "La Alianza",
+      "postal_code": [
+        "30566"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "La Bendicion",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "La Blanca",
+      "postal_code": [
+        "30567"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "La Ceiba",
+      "postal_code": [
+        "30570"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "La Fortuna",
+      "postal_code": [
+        "30574",
+        "30575"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "La Nueva Esperanza",
+      "postal_code": [
+        "30570"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "La Playa",
+      "postal_code": [
+        "30566"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Las Mandarinas",
+      "postal_code": [
+        "30576"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Las Marillitas",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "30576"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "La Vainilla",
+      "postal_code": [
+        "30565"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "La Victoria",
+      "postal_code": [
+        "30575"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "30564"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "30576"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Lopez Portillo",
+      "postal_code": [
+        "30574"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Los Alpes",
+      "postal_code": [
+        "30575"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Los Carriles",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Los Limones",
+      "postal_code": [
+        "30566"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Los Olivos",
+      "postal_code": [
+        "30575"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Mapastepec Centro",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Nerciso Mendoza",
+      "postal_code": [
+        "30564"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Nicolas Bravo",
+      "postal_code": [
+        "30570"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Nicolas Bravo 1",
+      "postal_code": [
+        "30563"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Nicolas Bravo 2",
+      "postal_code": [
+        "30563"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Nueva Costa Rica",
+      "postal_code": [
+        "30570"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Nueva Libertad",
+      "postal_code": [
+        "30570"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Nueva Reforma",
+      "postal_code": [
+        "30576"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Nueva Sesecapa",
+      "postal_code": [
+        "30563"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Nuevo Guerrero",
+      "postal_code": [
+        "30565"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Nuevo Nicolas Bravo",
+      "postal_code": [
+        "30577"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Nuevo Reforma",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Olimpico",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Pantaleon Dominguez",
+      "postal_code": [
+        "30575"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Piedras Blancas",
+      "postal_code": [
+        "30573"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Pino Suarez",
+      "postal_code": [
+        "30565"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Progreso de Chiapas",
+      "postal_code": [
+        "30574"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Roberto Barrios",
+      "postal_code": [
+        "30565"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Ruiz Cortines",
+      "postal_code": [
+        "30570"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "San Jose",
+      "postal_code": [
+        "30573"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "San Juan",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Santa Julia",
+      "postal_code": [
+        "30568",
+        "30568"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Santa Rita las Flores",
+      "postal_code": [
+        "30576"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Santa Rosa las Nubes",
+      "postal_code": [
+        "30574"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Santo Tomas",
+      "postal_code": [
+        "30566"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Simon Bolivar",
+      "postal_code": [
+        "30563"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Solo Dios",
+      "postal_code": [
+        "30574"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Tierra y Libertad",
+      "postal_code": [
+        "30574"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Unidad Mexicana",
+      "postal_code": [
+        "30560"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Union Chiapaneca",
+      "postal_code": [
+        "30576"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Union Santa Isabel",
+      "postal_code": [
+        "30564"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Valdivia",
+      "postal_code": [
+        "30567"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Villa Nueva",
+      "postal_code": [
+        "30570"
+      ]
+    },
+    {
+      "city": "Mapastepec",
+      "colonia": "Zapata",
+      "postal_code": [
+        "30565"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Mesones Hidalgo",
+      "colonia": "Concepcion las Mesas",
+      "postal_code": [
+        "71047"
+      ]
+    },
+    {
+      "city": "Mesones Hidalgo",
+      "colonia": "El Carmen Tuxtitlan",
+      "postal_code": [
+        "71041"
+      ]
+    },
+    {
+      "city": "Mesones Hidalgo",
+      "colonia": "Mesones Hidalgo",
+      "postal_code": [
+        "71040"
+      ]
+    },
+    {
+      "city": "Mesones Hidalgo",
+      "colonia": "San Jose de las Flores",
+      "postal_code": [
+        "71040"
+      ]
+    },
+    {
+      "city": "Mesones Hidalgo",
+      "colonia": "San Jose Pueblo Nuevo",
+      "postal_code": [
+        "71043"
+      ]
+    }
+  ]
+}

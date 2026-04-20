@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Tenampa",
+      "colonia": "El Coyolito",
+      "postal_code": [
+        "94035"
+      ]
+    },
+    {
+      "city": "Tenampa",
+      "colonia": "El Recreo",
+      "postal_code": [
+        "94035"
+      ]
+    },
+    {
+      "city": "Tenampa",
+      "colonia": "El Suchil",
+      "postal_code": [
+        "94035"
+      ]
+    },
+    {
+      "city": "Tenampa",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "94035"
+      ]
+    },
+    {
+      "city": "Tenampa",
+      "colonia": "Tenampa",
+      "postal_code": [
+        "94030"
+      ]
+    }
+  ]
+}

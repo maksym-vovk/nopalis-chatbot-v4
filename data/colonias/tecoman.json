@@ -1,0 +1,705 @@
+{
+  "data": [
+    {
+      "city": "Tecoman",
+      "colonia": "88 Batallon de Infanteria",
+      "postal_code": [
+        "28189"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Alvaro Obregon",
+      "postal_code": [
+        "28134"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Amalia Solorzano",
+      "postal_code": [
+        "28114"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Antonio Salazar Salazar",
+      "postal_code": [
+        "28934"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Articulo 27 Constitucional",
+      "postal_code": [
+        "28910"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Bayardo",
+      "postal_code": [
+        "28934"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "28150"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "28180"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Caleras",
+      "postal_code": [
+        "28930"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Callejones",
+      "postal_code": [
+        "28940"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Cerro de Ortega",
+      "postal_code": [
+        "28900"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Chanchopa",
+      "postal_code": [
+        "28945"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Cofradia de Hidalgo (Laguna de Alcuzahue)",
+      "postal_code": [
+        "28929"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Cofradia de Juarez",
+      "postal_code": [
+        "28120"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Cofradia de Morelos",
+      "postal_code": [
+        "28935"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Conacar PRI",
+      "postal_code": [
+        "28910"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Elba Cecilia Vega",
+      "postal_code": [
+        "28113"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "El Bordo",
+      "postal_code": [
+        "28900"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "El Chamizal",
+      "postal_code": [
+        "28140"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "El Limonero",
+      "postal_code": [
+        "28134"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "El Olivo",
+      "postal_code": [
+        "28934"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "El Real",
+      "postal_code": [
+        "28937"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "El Rocio",
+      "postal_code": [
+        "28900"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "28915"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "El Saucito",
+      "postal_code": [
+        "28944"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Estatuto Juridico",
+      "postal_code": [
+        "28160"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Fatima",
+      "postal_code": [
+        "28130"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "28130"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Griselda alvarez",
+      "postal_code": [
+        "28134"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Gustavo Diaz Ordaz",
+      "postal_code": [
+        "28190"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Hacienda la Loma",
+      "postal_code": [
+        "28133"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Hermanos Leanos",
+      "postal_code": [
+        "28900"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Indeco",
+      "postal_code": [
+        "28170"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "INFONAVIT Las Huertas",
+      "postal_code": [
+        "28140"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "INFONAVIT Las Palmas",
+      "postal_code": [
+        "28159"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Jardines del Chamizal",
+      "postal_code": [
+        "28140"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Jardines de Tecoman",
+      "postal_code": [
+        "28140"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Josefa Ortiz de Dominguez",
+      "postal_code": [
+        "28110"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "La Cuarta",
+      "postal_code": [
+        "28143"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Ladislao Moreno",
+      "postal_code": [
+        "28936"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "La Estacion",
+      "postal_code": [
+        "28934"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "La Floresta",
+      "postal_code": [
+        "28140"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "La Floresta II",
+      "postal_code": [
+        "28180"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "La Palmita",
+      "postal_code": [
+        "28150"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "La Pedregal",
+      "postal_code": [
+        "28910"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "La Primavera",
+      "postal_code": [
+        "28944"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "28134"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "28180"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "La Union",
+      "postal_code": [
+        "28130"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "28134"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Lazaro Cardenas II",
+      "postal_code": [
+        "28134"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Leonardo Jaramillo",
+      "postal_code": [
+        "28934"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Libertad",
+      "postal_code": [
+        "28170"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Lindavista",
+      "postal_code": [
+        "28900"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Llanos de San Jose",
+      "postal_code": [
+        "28190"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "28133"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "28134"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Luis Rodriguez Alcala [La Bascula]",
+      "postal_code": [
+        "28934"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Madrid",
+      "postal_code": [
+        "28910"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Manuel alvarez",
+      "postal_code": [
+        "28110"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Maria Esther Zuno de Echeverria",
+      "postal_code": [
+        "28934"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Martin del Campo",
+      "postal_code": [
+        "28900"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "28110"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "28134"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Noriega Pizano",
+      "postal_code": [
+        "28120"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Pablo Silva Garcia",
+      "postal_code": [
+        "28160"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Palma Real",
+      "postal_code": [
+        "28134"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Parque Las Flores (Elias Zamora Verduzco)",
+      "postal_code": [
+        "28170"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Ponciano Arriaga",
+      "postal_code": [
+        "28160"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Primaveras del Real",
+      "postal_code": [
+        "28180"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Progreso",
+      "postal_code": [
+        "28900"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Puerta de Caleras",
+      "postal_code": [
+        "28930"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Real del Bosque",
+      "postal_code": [
+        "28123"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Real del Valle",
+      "postal_code": [
+        "28123"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Reyes Heroles",
+      "postal_code": [
+        "28134"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Ruiz Cortines",
+      "postal_code": [
+        "28934"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "28900"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "28184"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "28936"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "San Ignacio",
+      "postal_code": [
+        "28134"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "28140"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "San Jose",
+      "postal_code": [
+        "28190"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "San Martin de Porres",
+      "postal_code": [
+        "28934"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "28180"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "San Miguel del Ojo de Agua",
+      "postal_code": [
+        "28947"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "28134"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Sedena Militar",
+      "postal_code": [
+        "28160"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Sor Juana Ines de La Cruz",
+      "postal_code": [
+        "28134"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Tecolapa",
+      "postal_code": [
+        "28900",
+        "28920"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Tecoman Centro",
+      "postal_code": [
+        "28100"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Tecuanillo",
+      "postal_code": [
+        "28938"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Tepeyac",
+      "postal_code": [
+        "28110"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Tuxpan",
+      "postal_code": [
+        "28190"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Valle las Palmas",
+      "postal_code": [
+        "28120"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Valle Querido",
+      "postal_code": [
+        "28120"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "28130"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Villa del Centenario",
+      "postal_code": [
+        "28180"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Villa Florida",
+      "postal_code": [
+        "28140"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Villas del Rey",
+      "postal_code": [
+        "28180"
+      ]
+    },
+    {
+      "city": "Tecoman",
+      "colonia": "Villas del Sol",
+      "postal_code": [
+        "28190"
+      ]
+    }
+  ]
+}

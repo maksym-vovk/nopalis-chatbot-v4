@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Villa Diaz Ordaz",
+      "colonia": "El Carrizal",
+      "postal_code": [
+        "70411"
+      ]
+    },
+    {
+      "city": "Villa Diaz Ordaz",
+      "colonia": "San Miguel del Valle",
+      "postal_code": [
+        "70412"
+      ]
+    },
+    {
+      "city": "Villa Diaz Ordaz",
+      "colonia": "Santa Catarina Albarradas",
+      "postal_code": [
+        "70410"
+      ]
+    },
+    {
+      "city": "Villa Diaz Ordaz",
+      "colonia": "Villa Diaz Ordaz",
+      "postal_code": [
+        "70410"
+      ]
+    }
+  ]
+}

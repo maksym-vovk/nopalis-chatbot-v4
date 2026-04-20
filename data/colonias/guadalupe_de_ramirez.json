@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Guadalupe de Ramirez",
+      "colonia": "De Jesus",
+      "postal_code": [
+        "69150"
+      ]
+    },
+    {
+      "city": "Guadalupe de Ramirez",
+      "colonia": "Guadalupe de Ramirez",
+      "postal_code": [
+        "69150"
+      ]
+    },
+    {
+      "city": "Guadalupe de Ramirez",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "69150"
+      ]
+    },
+    {
+      "city": "Guadalupe de Ramirez",
+      "colonia": "San Ildefonso Salinas",
+      "postal_code": [
+        "69154"
+      ]
+    },
+    {
+      "city": "Guadalupe de Ramirez",
+      "colonia": "San Jose",
+      "postal_code": [
+        "69150"
+      ]
+    },
+    {
+      "city": "Guadalupe de Ramirez",
+      "colonia": "Santa Maria Salinas",
+      "postal_code": [
+        "69158"
+      ]
+    }
+  ]
+}

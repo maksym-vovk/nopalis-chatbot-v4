@@ -1,0 +1,298 @@
+{
+  "data": [
+    {
+      "city": "Malinalco",
+      "colonia": "Aldama",
+      "postal_code": [
+        "52477"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "Amate Amarillo",
+      "postal_code": [
+        "52465"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "Campos de San Martin",
+      "postal_code": [
+        "52440"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "Chalma",
+      "postal_code": [
+        "52460"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "Chichicasco el Viejo",
+      "postal_code": [
+        "52473"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "El Platanar",
+      "postal_code": [
+        "52473"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "El Puentecito",
+      "postal_code": [
+        "52464"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "52463"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "52477"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "52477"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "Jalmolonga",
+      "postal_code": [
+        "52465"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "Jesus Maria",
+      "postal_code": [
+        "52443"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "Juarez",
+      "postal_code": [
+        "52476"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "La Angostura",
+      "postal_code": [
+        "52477"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "La Huerta",
+      "postal_code": [
+        "52465"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "La Joya Redonda",
+      "postal_code": [
+        "52466"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "La Ladrillera",
+      "postal_code": [
+        "52464"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "La Loma",
+      "postal_code": [
+        "52464"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "La Loma del Coporo",
+      "postal_code": [
+        "52465"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "52440"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "Malinalco",
+      "postal_code": [
+        "52440"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "Monte Grande",
+      "postal_code": [
+        "52466"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "Noxtepec de Zaragoza",
+      "postal_code": [
+        "52470"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "Pachuquilla",
+      "postal_code": [
+        "52463"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "Palmar de Guadalupe",
+      "postal_code": [
+        "52463"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "Palo Dulce",
+      "postal_code": [
+        "52467"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "Planta Alameda",
+      "postal_code": [
+        "52467"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "Puente Caporal",
+      "postal_code": [
+        "52464"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "San Andres Nicolas Bravo",
+      "postal_code": [
+        "52477"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "San Guillermo",
+      "postal_code": [
+        "52440"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "San Juan",
+      "postal_code": [
+        "52440"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "San Martin",
+      "postal_code": [
+        "52440"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "52443"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "52440"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "San Pedro Chichicasco",
+      "postal_code": [
+        "52473"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "52443"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "San Simon el Alto",
+      "postal_code": [
+        "52444"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "52440"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "Santa Maria Xoquiac",
+      "postal_code": [
+        "52470"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "Santa Monica",
+      "postal_code": [
+        "52440"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "Tepehuajes",
+      "postal_code": [
+        "52467"
+      ]
+    },
+    {
+      "city": "Malinalco",
+      "colonia": "Tepolula",
+      "postal_code": [
+        "52460"
+      ]
+    }
+  ]
+}

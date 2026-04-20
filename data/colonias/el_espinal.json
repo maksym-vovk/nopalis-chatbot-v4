@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "El Espinal",
+      "colonia": "El Espinal",
+      "postal_code": [
+        "70117"
+      ]
+    },
+    {
+      "city": "El Espinal",
+      "colonia": "Primera Seccion",
+      "postal_code": [
+        "70117"
+      ]
+    },
+    {
+      "city": "El Espinal",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "70117"
+      ]
+    },
+    {
+      "city": "El Espinal",
+      "colonia": "Segunda Seccion",
+      "postal_code": [
+        "70117"
+      ]
+    },
+    {
+      "city": "El Espinal",
+      "colonia": "Tercera Seccion",
+      "postal_code": [
+        "70117"
+      ]
+    }
+  ]
+}

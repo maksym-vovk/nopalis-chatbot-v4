@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "city": "San Juan Bautista Coixtlahuaca",
+      "colonia": "Estancia",
+      "postal_code": [
+        "69307"
+      ]
+    },
+    {
+      "city": "San Juan Bautista Coixtlahuaca",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "69300"
+      ]
+    },
+    {
+      "city": "San Juan Bautista Coixtlahuaca",
+      "colonia": "Rio Blanco",
+      "postal_code": [
+        "69300"
+      ]
+    },
+    {
+      "city": "San Juan Bautista Coixtlahuaca",
+      "colonia": "Rio Poblano",
+      "postal_code": [
+        "69302"
+      ]
+    },
+    {
+      "city": "San Juan Bautista Coixtlahuaca",
+      "colonia": "San Jeronimo Otla",
+      "postal_code": [
+        "69304"
+      ]
+    },
+    {
+      "city": "San Juan Bautista Coixtlahuaca",
+      "colonia": "San Juan Bautista Coixtlahuaca",
+      "postal_code": [
+        "69300"
+      ]
+    },
+    {
+      "city": "San Juan Bautista Coixtlahuaca",
+      "colonia": "Santa Catarina Ocotlan",
+      "postal_code": [
+        "69305"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,736 @@
+{
+  "data": [
+    {
+      "city": "Singuilucan",
+      "colonia": "Aguayutla",
+      "postal_code": [
+        "43794"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Alfajayucan",
+      "postal_code": [
+        "43793"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Altamira",
+      "postal_code": [
+        "43782"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Amolucan",
+      "postal_code": [
+        "43785"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Ampliacion Alfajayucan",
+      "postal_code": [
+        "43793"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Ampliacion el Sustito",
+      "postal_code": [
+        "43790"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Ampliacion el Varal",
+      "postal_code": [
+        "43794"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "43780"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "43788"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Caraballo",
+      "postal_code": [
+        "43788"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Cerro Colorado",
+      "postal_code": [
+        "43787"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Chabacano",
+      "postal_code": [
+        "43780"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Chapultepec",
+      "postal_code": [
+        "43787"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Cuatro Palos",
+      "postal_code": [
+        "43797"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Cuatro Vientos",
+      "postal_code": [
+        "43787"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Del Bosque",
+      "postal_code": [
+        "43782"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "El Campamento",
+      "postal_code": [
+        "43795"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "El Cebadal",
+      "postal_code": [
+        "43782"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "El Chichimeco",
+      "postal_code": [
+        "43783"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "El Jazmin",
+      "postal_code": [
+        "43788"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "43794"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "43788"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "El Sueno (Los Morales)",
+      "postal_code": [
+        "43783"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "El Sustito",
+      "postal_code": [
+        "43794"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "El Susto",
+      "postal_code": [
+        "43790"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "El Toronjil",
+      "postal_code": [
+        "43787"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "El Varal",
+      "postal_code": [
+        "43793"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "El Venado",
+      "postal_code": [
+        "43787"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Estacion San Vicente",
+      "postal_code": [
+        "43787"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "43786"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Francisco I. Madero (Col. Agricola)",
+      "postal_code": [
+        "43786"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Hacienda Alfajayucan",
+      "postal_code": [
+        "43793"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Jagüey Alto",
+      "postal_code": [
+        "43785"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Jagüey Viejo",
+      "postal_code": [
+        "43795"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Jalapilla",
+      "postal_code": [
+        "43793"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Colmena",
+      "postal_code": [
+        "43797"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Comunidad",
+      "postal_code": [
+        "43782"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Conchita",
+      "postal_code": [
+        "43786"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Conchita (La Cantera)",
+      "postal_code": [
+        "43786"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Cuchilla",
+      "postal_code": [
+        "43793"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Era Grande",
+      "postal_code": [
+        "43793"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Esmeralda",
+      "postal_code": [
+        "43783"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Estancia",
+      "postal_code": [
+        "43787"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Estancia (La Mora)",
+      "postal_code": [
+        "43785"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Gasparena",
+      "postal_code": [
+        "43782"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Gloria",
+      "postal_code": [
+        "43786",
+        "43790"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Herradura",
+      "postal_code": [
+        "43782",
+        "43793"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Joya",
+      "postal_code": [
+        "43795"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Ladrillera",
+      "postal_code": [
+        "43787"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Lagunita",
+      "postal_code": [
+        "43790"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Mora",
+      "postal_code": [
+        "43793"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Paila",
+      "postal_code": [
+        "43797"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Palma",
+      "postal_code": [
+        "43787"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Pena",
+      "postal_code": [
+        "43794"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Pradera",
+      "postal_code": [
+        "43783"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "43787"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Raya",
+      "postal_code": [
+        "43784"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Reforma (San Isidro)",
+      "postal_code": [
+        "43788"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Las Cruces",
+      "postal_code": [
+        "43783"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Las Fuentes",
+      "postal_code": [
+        "43788"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Las Galeras",
+      "postal_code": [
+        "43784"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Las Marianas",
+      "postal_code": [
+        "43797"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Las Minas",
+      "postal_code": [
+        "43793"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Las Palomas",
+      "postal_code": [
+        "43790"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Las Pintas",
+      "postal_code": [
+        "43784"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Las Trojes",
+      "postal_code": [
+        "43787"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Venta Colorada",
+      "postal_code": [
+        "43788"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "La Virgen",
+      "postal_code": [
+        "43785"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Loma del Toro",
+      "postal_code": [
+        "43787"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Los angeles (La Paila)",
+      "postal_code": [
+        "43782"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Los Gorriones",
+      "postal_code": [
+        "43785"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Los Patos",
+      "postal_code": [
+        "43784"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "43782",
+        "43794"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Los Rosales",
+      "postal_code": [
+        "43788"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Matias Rodriguez",
+      "postal_code": [
+        "43794"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Mirasoles",
+      "postal_code": [
+        "43782",
+        "43782"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Mirasoles Parte Alta",
+      "postal_code": [
+        "43782"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Monte Quieto",
+      "postal_code": [
+        "43797"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Plutarco Elias Calles",
+      "postal_code": [
+        "43784"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Poza Rica",
+      "postal_code": [
+        "43783"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Rincon del Agua",
+      "postal_code": [
+        "43790"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Rincon del Puerto",
+      "postal_code": [
+        "43790"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Sabanetas",
+      "postal_code": [
+        "43784"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "San Cristobal el Chico",
+      "postal_code": [
+        "43788"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "San Joaquin",
+      "postal_code": [
+        "43782"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "San Jose",
+      "postal_code": [
+        "43782"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "San Luis Xuchitepec (Rancho Colorado)",
+      "postal_code": [
+        "43787"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "San Martin el Coyote",
+      "postal_code": [
+        "43787"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "San Nicolas Tecoaco",
+      "postal_code": [
+        "43795"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "43787"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "43787"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "San Rafael Amolucan",
+      "postal_code": [
+        "43785"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Santa Ana Chichicuautla",
+      "postal_code": [
+        "43784"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "43787"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Segundas Lajas",
+      "postal_code": [
+        "43797"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Singuilucan Centro",
+      "postal_code": [
+        "43780"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Somorriel",
+      "postal_code": [
+        "43788"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Tecanecapa",
+      "postal_code": [
+        "43786"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Techoapa",
+      "postal_code": [
+        "43788"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Tepetongo",
+      "postal_code": [
+        "43797"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Texcaltitla",
+      "postal_code": [
+        "43783"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Tlalayote",
+      "postal_code": [
+        "43784"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Tlazala",
+      "postal_code": [
+        "43786"
+      ]
+    },
+    {
+      "city": "Singuilucan",
+      "colonia": "Xuchipango",
+      "postal_code": [
+        "43795"
+      ]
+    }
+  ]
+}

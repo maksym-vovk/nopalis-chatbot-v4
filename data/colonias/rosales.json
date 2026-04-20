@@ -1,0 +1,2595 @@
+{
+  "data": [
+    {
+      "city": "Rosales",
+      "colonia": "1ro de Mayo",
+      "postal_code": [
+        "33120"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Accion Nacional",
+      "postal_code": [
+        "33120"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Agua Nueva",
+      "postal_code": [
+        "33123",
+        "33126"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Aguilar [Granjas Familiares]",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Ampliacion Victor Rosales",
+      "postal_code": [
+        "33120"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Arizona 2000",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Atotonilco",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Barranco Blanco",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Bascula",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "33120",
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Campamento las Virgenes",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Casa Blanca",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Casa Blanca Uno",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Catorce de Julio",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Centauro del Norte (Pena Blanca)",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Charco Hondo",
+      "postal_code": [
+        "33126"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Cielo Azul",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Comunidad el Mirador",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Cristo Rey",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Desponchado San Carlos",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Don Manuel",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Dos Marias",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Ejido Nuevo Julimes",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Alamillo",
+      "postal_code": [
+        "33124"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Ancon",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Bajio",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Bajo",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Callejon",
+      "postal_code": [
+        "33126"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Condor",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Corcel",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Coronel Viejo",
+      "postal_code": [
+        "33124"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Coyame",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Coyote",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Crustaceo [Club de Pesca]",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Dolar",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Durazno",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Fundador",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Gallo",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Gavilan",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Guadalupano",
+      "postal_code": [
+        "33127",
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Llanito",
+      "postal_code": [
+        "33125"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Llano",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Manantial",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Mastranzal",
+      "postal_code": [
+        "33126"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Mezquite",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Milagro",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Milagro Dos",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Milagro Uno",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Mimbre",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Molino",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Negro Jose",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Nogal",
+      "postal_code": [
+        "33126"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Nopal",
+      "postal_code": [
+        "33123",
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Ocotillo",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Olvido",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Pantano",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Papalote (Santa Lucia)",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Paraje",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Peligro",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Penasco",
+      "postal_code": [
+        "33125"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Pirata [Restaurante]",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Pistacho",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Potrillo",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Recodo",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Recuerdo",
+      "postal_code": [
+        "33123",
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Rinconcito",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Saucillo",
+      "postal_code": [
+        "33125"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Tecolote",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Tesoro",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Texano",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Tule de Abajo",
+      "postal_code": [
+        "33125"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Vergel",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Vertedero",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "El Viejito",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Eugenio Prado",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Ex-Hacienda Casa Blanca",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Ex-Hacienda Delicias",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Granja Andujo",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Granja de Fierro (El Delfin)",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Granja Dennys",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Granja Don Benja",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Granja el Consuelo",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Granja el Profe",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Granja Guzman",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Granja Hildas",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Granja la Ilusion",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Granja las Anitas",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Granja Lupita",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Granjas",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Granja San Carlos",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Granjas de San Jose",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Granjas el Capricho",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Granjas el Fortin",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Granjas el Milagro",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Granjas Haciendas de Rosales",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Hacienda Bachimba",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Hermanos Martha",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "HJ Tomatera",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Italia",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Kilometro Noventa y Nueve",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Aduana",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Boquilla",
+      "postal_code": [
+        "33125"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Cabana",
+      "postal_code": [
+        "33123",
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Carreta",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Chatita",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Chivera",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Cieneguita",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Cruz (Rancho el Llano)",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Cueva",
+      "postal_code": [
+        "33125"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Daniela",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Ladrillera el Ancon",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Ladrillera los Portillo",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Esmeralda",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Fama",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Fortuna",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Garita",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Isla",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Isla de los Chivos",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Laborcita",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Luz",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Laniga",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Osamenta",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Palma",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Quinta Luna",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Quinta Yirinuque",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Las Bardas",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Las Delicias",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Las Galeras",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Las Norias",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Las Parcelas (Nuevo Amanecer)",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Las Tres Lilas",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Las Tres P",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Las Virgenes",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Las Virgenes [Club Nautico de Pesca]",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Las Virgenes [Merendero]",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Las Virgenes [Vivero Forestal]",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "33124"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "La Vil Chilla",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Lobina Negra [Club de Pesca]",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Abuelos",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Acebuches",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Aguilar",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Alamitos",
+      "postal_code": [
+        "33126",
+        "33126"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Alazanes",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Alegres de Teheran",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Arcos",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Cascabeles",
+      "postal_code": [
+        "33126"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Chavez",
+      "postal_code": [
+        "33123",
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Churumbeles",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Compadres",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Contreras",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Dos Puentes",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Gomez",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Marquez (Pozo Numero Nueve)",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Martinez (Reyes Martinez)",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Natividad",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Nogales",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Nopales",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Plebes",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Potrillos",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Siete Hermanos",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Vergelitos",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Villalobos",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Los Vinedos de Rodriguez",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Lote Siete Fraccion Ocho",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Loya",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Luz Maria",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Marcelo Magallanes",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Maria del Refugio",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Maria Isabel (Palo Blanco)",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Mi Viejo San Juan",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Neder",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Nicolandia",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Nogalera del Ingeniero Soto",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Ojo de la Morita",
+      "postal_code": [
+        "33125"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Orinda",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Ortiz",
+      "postal_code": [
+        "33128"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Paso de Piedra",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Pedro Contreras",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Pola",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "PRI",
+      "postal_code": [
+        "33120"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Punta Diamante [Centro Recreativo Turistico]",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Punto Alegre",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Ranchito del Licenciado",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho 32-33",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Alatorre",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Alegre",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Altavista (La Caseta)",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Arroyo Escondido",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Bachimba",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Beto Garcia",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Beto Montes",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Cecilia",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Celis",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Chavez",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Cinco Hermanos",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Comex",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Cruz Marquez (Rancho la Esperanza)",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho de Benavente",
+      "postal_code": [
+        "33123",
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho de Carrasco",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho de Carrillo",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho de Emilio",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho de Fernandez",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho de Flores",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho de Giness",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho de Licon",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho de Lopez",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho de Martha",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho de Matamoros",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho de Mauro",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho de Ortiz",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho de Payan Marta",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho de Rigo",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho de Rivera",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho de Romo",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho de Santiago",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Dolores Quintana (Rancho Nuevo)",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Don Alfonso",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Don Tomas",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Dos Marias",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho el alamo",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho el Alto",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho el Bordo",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho el Chicharo",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho el Cien",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho el Cuatro",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho el Dorado",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho el Durazno",
+      "postal_code": [
+        "33123",
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho el Esfuerzo",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho el Fresno",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho el Mezquite",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho el Mimbre",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho el Mirador",
+      "postal_code": [
+        "33123",
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho el Naranjo",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho el Ocho",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho el Pinito",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho el Valle",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Escondido (La Paz)",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Guadalupe Guillen",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Hernandez",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Herrera",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Jose",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Jose Francisco Carrillo Balderrama",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Jose Franco",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Jurado",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho la Herradura",
+      "postal_code": [
+        "33123",
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho la Ilusion",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho la Laguna",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho la Manzana",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho la Noria",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho la Palma",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho la Piedra",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho las Conchitas",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho las Dos Moras",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho las Lilas",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho las Mariposas",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho las Nubes",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho la Trinidad",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Lechuga",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Lloraras",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho los Chavez",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho los Flores",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho los Frias",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho los Laureles",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho los Leones",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho los Membrillos",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho los Palacios (El Gavilan)",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho los Pinabetes (Rancho San Carlos)",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho los Pinos",
+      "postal_code": [
+        "33123",
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho los Robledo",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho los Vega",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho los Zapata",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Lucero",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Luevano",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Marlboro",
+      "postal_code": [
+        "33123",
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Marquez",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Mendoza",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Morales",
+      "postal_code": [
+        "33123",
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Ortiz",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Pena",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Perches",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Polo Hernandez (Rancho Rosa Maria)",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Ramirez",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Ramon Pinon",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Rebeca",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Reyes",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Rocking",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Rodriguez Mier",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho R Quince",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Rubio",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Salomon",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho San Francisco (Las Lilas)",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho San Isidro",
+      "postal_code": [
+        "33123",
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho San Jose",
+      "postal_code": [
+        "33123",
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho San Juan",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho San Marcos",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho San Martin",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Santa Cecilia",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Santa Elena",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Santa Rita",
+      "postal_code": [
+        "33123",
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Santa Teresita",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Santo Nino",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Santos",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Saucito",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Sombrerete",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Uno Mas",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Valdez",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Valencia",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Valles",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Vega",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Veintiseis de Enero",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Verde (Valles)",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Viejo",
+      "postal_code": [
+        "33126"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Vigil (Pozo Numero Uno)",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Villa",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rancho Vitolas",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Rebalse de San Lucas (El Rebalse)",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Salon Actos (Ampliacion Cuarenta y Siete)",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "San Ambrosio",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "San Andres (Granja Galvan)",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "San Esteban",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "San Fermin",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "San Gabino (El Refugio)",
+      "postal_code": [
+        "33126"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "San Isidro (Rancho Ruvalcaba)",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "San Jose",
+      "postal_code": [
+        "33123",
+        "33123",
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "San Jose de los Coyotes",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "San Martin",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "33125"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "San Pedro de Conchos",
+      "postal_code": [
+        "33125"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "San Silvano",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Santa Anita",
+      "postal_code": [
+        "33123",
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "33123",
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Santa Cruz de Rosales Centro",
+      "postal_code": [
+        "33120"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Santa Eduviges",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Santa Julia (Las Marraneras)",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Santa Martha",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Santa Rita de Casia (Ampliacion Cuarenta y Dos)",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Santo Nino",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Santos",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "San Valentin",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Savonarola",
+      "postal_code": [
+        "33124"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Seis de Enero",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Skylandia",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Subia",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Tapacolmes",
+      "postal_code": [
+        "33120"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Teofilo Borunda",
+      "postal_code": [
+        "33127"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Tres de Enero",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Tres Hermanos (Don Trini)",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Velsasar Tarango",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Victor Rosales",
+      "postal_code": [
+        "33120"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Villalba (Estacion Aforo)",
+      "postal_code": [
+        "33124"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Villa Santa Cruz",
+      "postal_code": [
+        "33123"
+      ]
+    },
+    {
+      "city": "Rosales",
+      "colonia": "Yerbabuena",
+      "postal_code": [
+        "33123"
+      ]
+    }
+  ]
+}

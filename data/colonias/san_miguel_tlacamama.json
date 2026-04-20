@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "San Miguel Tlacamama",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "71671"
+      ]
+    },
+    {
+      "city": "San Miguel Tlacamama",
+      "colonia": "El Zapote",
+      "postal_code": [
+        "71678"
+      ]
+    },
+    {
+      "city": "San Miguel Tlacamama",
+      "colonia": "La Canada del Marques",
+      "postal_code": [
+        "71675"
+      ]
+    },
+    {
+      "city": "San Miguel Tlacamama",
+      "colonia": "La Catalina",
+      "postal_code": [
+        "71671"
+      ]
+    },
+    {
+      "city": "San Miguel Tlacamama",
+      "colonia": "San Miguel Tlacamama",
+      "postal_code": [
+        "71670"
+      ]
+    },
+    {
+      "city": "San Miguel Tlacamama",
+      "colonia": "Tlacamama",
+      "postal_code": [
+        "71670"
+      ]
+    }
+  ]
+}

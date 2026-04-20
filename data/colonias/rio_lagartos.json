@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Rio Lagartos",
+      "colonia": "Las Coloradas",
+      "postal_code": [
+        "97723"
+      ]
+    },
+    {
+      "city": "Rio Lagartos",
+      "colonia": "Quinientos",
+      "postal_code": [
+        "97726"
+      ]
+    },
+    {
+      "city": "Rio Lagartos",
+      "colonia": "Rio Lagartos",
+      "postal_code": [
+        "97720"
+      ]
+    }
+  ]
+}

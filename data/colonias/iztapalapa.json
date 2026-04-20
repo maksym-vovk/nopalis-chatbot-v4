@@ -1,0 +1,1367 @@
+{
+  "data": [
+    {
+      "city": "Iztapalapa",
+      "colonia": "12 de Diciembre",
+      "postal_code": [
+        "9870"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Aculco",
+      "postal_code": [
+        "9410"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Albarrada",
+      "postal_code": [
+        "9350"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Allapetlalli",
+      "postal_code": [
+        "9960"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Alvaro Obregon",
+      "postal_code": [
+        "9230"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Ampliacion Bellavista",
+      "postal_code": [
+        "9860"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Ampliacion El Santuario",
+      "postal_code": [
+        "9829"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Ampliacion El Triunfo",
+      "postal_code": [
+        "9438"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Ampliacion Emiliano Zapata",
+      "postal_code": [
+        "9638"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Ampliacion Los Reyes",
+      "postal_code": [
+        "9849"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Ampliacion Paraje San Juan",
+      "postal_code": [
+        "9839"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Ampliacion Ricardo Flores Magon",
+      "postal_code": [
+        "9828"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Ampliacion San Miguel",
+      "postal_code": [
+        "9360"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Ampliacion Sinatel",
+      "postal_code": [
+        "9479"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Ampliacion Veracruzana",
+      "postal_code": [
+        "9856"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Ano de Juarez",
+      "postal_code": [
+        "9780"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Apatlaco",
+      "postal_code": [
+        "9430"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Banjidal",
+      "postal_code": [
+        "9450"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Barranca de Guadalupe",
+      "postal_code": [
+        "9689"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "9860"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "9859"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Buenavista",
+      "postal_code": [
+        "9700"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Cacama",
+      "postal_code": [
+        "9080"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Campestre Potrero",
+      "postal_code": [
+        "9637"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Cananea",
+      "postal_code": [
+        "9969"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Carlos Hank Gonzalez",
+      "postal_code": [
+        "9700"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Carlos Jonguitud Barrios",
+      "postal_code": [
+        "9897"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Casa Blanca",
+      "postal_code": [
+        "9860"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Celoalliotli",
+      "postal_code": [
+        "9960"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Central de Abasto",
+      "postal_code": [
+        "9040"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Cerro de La Estrella",
+      "postal_code": [
+        "9860"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Chinampac de Juarez",
+      "postal_code": [
+        "9208"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Citlalli",
+      "postal_code": [
+        "9660"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Colonial Iztapalapa",
+      "postal_code": [
+        "9270"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Consejo Agrarista Mexicano",
+      "postal_code": [
+        "9760"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Constitucion de 1917",
+      "postal_code": [
+        "9260"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Cuchilla del Moral",
+      "postal_code": [
+        "9319"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Culhuacan",
+      "postal_code": [
+        "9800"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Degollado",
+      "postal_code": [
+        "9704"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Degollado - Mexicatlalli",
+      "postal_code": [
+        "9705"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Desarrollo Urbano Quetzalcoatl",
+      "postal_code": [
+        "9700"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Dr. Alfonso Ortiz Tirado",
+      "postal_code": [
+        "9020"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Ejercito de Agua Prieta",
+      "postal_code": [
+        "9578"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Ejercito de Oriente",
+      "postal_code": [
+        "9230"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Ejercito de Oriente Zona Penon",
+      "postal_code": [
+        "9239"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "El Eden",
+      "postal_code": [
+        "9520"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "El Manto",
+      "postal_code": [
+        "9830"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "9800"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "El Molino",
+      "postal_code": [
+        "9830"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "El Molino Tezonco",
+      "postal_code": [
+        "9960"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "9230"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "El Prado",
+      "postal_code": [
+        "9480"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "El Retono",
+      "postal_code": [
+        "9440"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "El Rodeo",
+      "postal_code": [
+        "9860"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "9930"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "El Santuario",
+      "postal_code": [
+        "9820"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "El Sifon",
+      "postal_code": [
+        "9400"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "El Triangulo",
+      "postal_code": [
+        "9769"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "El Triunfo",
+      "postal_code": [
+        "9430"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "El Vergel",
+      "postal_code": [
+        "9880"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Ermita Zaragoza",
+      "postal_code": [
+        "9180"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Escuadron 201",
+      "postal_code": [
+        "9060"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Estado de Veracruz",
+      "postal_code": [
+        "9856"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Estrella Culhuacan",
+      "postal_code": [
+        "9800"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Estrella del Sur",
+      "postal_code": [
+        "9820"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Eva Samano de Lopez Mateos",
+      "postal_code": [
+        "9359"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "9720"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Fuego Nuevo",
+      "postal_code": [
+        "9800"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Granjas de San Antonio",
+      "postal_code": [
+        "9070"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Granjas Esmeralda",
+      "postal_code": [
+        "9810"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Granjas Estrella",
+      "postal_code": [
+        "9880"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "9900"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Guadalupe del Moral",
+      "postal_code": [
+        "9300"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Heroes de Churubusco",
+      "postal_code": [
+        "9090"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Insurgentes",
+      "postal_code": [
+        "9750"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Iztlahuacan",
+      "postal_code": [
+        "9690"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Jacarandas",
+      "postal_code": [
+        "9280"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Jardines de Churubusco",
+      "postal_code": [
+        "9410"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Jardines de San Lorenzo Tezonco",
+      "postal_code": [
+        "9940"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Jose Lopez Portillo",
+      "postal_code": [
+        "9920"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Jose Maria Morelos y Pavon",
+      "postal_code": [
+        "9230"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Juan Escutia",
+      "postal_code": [
+        "9100"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Justo Sierra",
+      "postal_code": [
+        "9460"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "La Asuncion",
+      "postal_code": [
+        "9000"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "La Era",
+      "postal_code": [
+        "9720"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "9910"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "La Planta",
+      "postal_code": [
+        "9960"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "La Polvorilla",
+      "postal_code": [
+        "9750"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "La Regadera",
+      "postal_code": [
+        "9250"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Las Penas",
+      "postal_code": [
+        "9750"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Leyes de Reforma 1a Seccion",
+      "postal_code": [
+        "9310"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Leyes de Reforma 2a Seccion",
+      "postal_code": [
+        "9310"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Leyes de Reforma 3a Seccion",
+      "postal_code": [
+        "9310"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Lomas de la Estancia",
+      "postal_code": [
+        "9640"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Lomas de San Lorenzo",
+      "postal_code": [
+        "9780"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Lomas de Santa Cruz",
+      "postal_code": [
+        "9709"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Lomas de Zaragoza",
+      "postal_code": [
+        "9620"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Lomas El Manto",
+      "postal_code": [
+        "9830"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Lomas Estrella",
+      "postal_code": [
+        "9890"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "9830"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Los angeles Apanoaya",
+      "postal_code": [
+        "9710"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Los Cipreses",
+      "postal_code": [
+        "9810"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Los Picos VI-B",
+      "postal_code": [
+        "9420"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Los Reyes Culhuacan",
+      "postal_code": [
+        "9840"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Magdalena Atlazolpa",
+      "postal_code": [
+        "9410"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Mexicaltzingo",
+      "postal_code": [
+        "9099"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Miguel de La Madrid Hurtado",
+      "postal_code": [
+        "9698"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Minerva",
+      "postal_code": [
+        "9810"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Miravalles",
+      "postal_code": [
+        "9696"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Mixcoatl",
+      "postal_code": [
+        "9708"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Monte Alban",
+      "postal_code": [
+        "9550"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Nueva Rosita",
+      "postal_code": [
+        "9420"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Palmitas",
+      "postal_code": [
+        "9670"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Paraje San Juan",
+      "postal_code": [
+        "9830"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Paraje San Juan Cerro",
+      "postal_code": [
+        "9858"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Paraje Zacatepec",
+      "postal_code": [
+        "9560"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Parque Nacional Cerro  de la Estrella",
+      "postal_code": [
+        "9860"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Paseos de Churubusco",
+      "postal_code": [
+        "9030"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Plan de Iguala",
+      "postal_code": [
+        "9838"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Presidentes de Mexico",
+      "postal_code": [
+        "9740"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Progresista",
+      "postal_code": [
+        "9240"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Progreso del Sur",
+      "postal_code": [
+        "9810"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Puente Blanco",
+      "postal_code": [
+        "9770"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Purisima Atlazolpa",
+      "postal_code": [
+        "9429"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Real del Moral",
+      "postal_code": [
+        "9010"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Reforma Politica",
+      "postal_code": [
+        "9730"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Renovacion",
+      "postal_code": [
+        "9209"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "9820"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Andres Tetepilco",
+      "postal_code": [
+        "9440"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Andres Tomatlan",
+      "postal_code": [
+        "9870",
+        "9870"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "9900"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Antonio Culhuacan",
+      "postal_code": [
+        "9800",
+        "9800"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Ignacio",
+      "postal_code": [
+        "9000"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Jose",
+      "postal_code": [
+        "9000"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Jose Aculco",
+      "postal_code": [
+        "9410"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Jose Buenavista",
+      "postal_code": [
+        "9706"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Juan Estrella",
+      "postal_code": [
+        "9868"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Juanico Nextipac",
+      "postal_code": [
+        "9400"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Juan Joya",
+      "postal_code": [
+        "9839"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Juan Xalpa",
+      "postal_code": [
+        "9850"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "9900"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Lorenzo Tezonco",
+      "postal_code": [
+        "9790"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Lorenzo Xicotencatl",
+      "postal_code": [
+        "9130"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Lucas",
+      "postal_code": [
+        "9000"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "9360"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Miguel 8va. Ampliacion",
+      "postal_code": [
+        "9837"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Miguel Teotongo Seccion Acorralado",
+      "postal_code": [
+        "9630"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Miguel Teotongo Seccion Avisadero",
+      "postal_code": [
+        "9630"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Miguel Teotongo Seccion Capilla",
+      "postal_code": [
+        "9630"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Miguel Teotongo Seccion Corrales",
+      "postal_code": [
+        "9630"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Miguel Teotongo Seccion Guadalupe",
+      "postal_code": [
+        "9630"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Miguel Teotongo Seccion Iztlahuaca",
+      "postal_code": [
+        "9630"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Miguel Teotongo Seccion Jardines",
+      "postal_code": [
+        "9630"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Miguel Teotongo Seccion La Cruz",
+      "postal_code": [
+        "9630"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Miguel Teotongo Seccion Loma Alta",
+      "postal_code": [
+        "9630"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Miguel Teotongo Seccion Mercedes",
+      "postal_code": [
+        "9630"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Miguel Teotongo Seccion Palmitas",
+      "postal_code": [
+        "9630"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Miguel Teotongo Seccion Puente",
+      "postal_code": [
+        "9630"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Miguel Teotongo Seccion Ranchito",
+      "postal_code": [
+        "9630"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Miguel Teotongo Seccion Rancho Bajo",
+      "postal_code": [
+        "9630"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Miguel Teotongo Seccion Torres",
+      "postal_code": [
+        "9630"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Nicolas Tolentino",
+      "postal_code": [
+        "9850"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Pablo",
+      "postal_code": [
+        "9000",
+        "9648"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "9000"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Sebastian Tecoloxtitla",
+      "postal_code": [
+        "9520"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "San Simon Culhuacan",
+      "postal_code": [
+        "9800"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Santa Barbara",
+      "postal_code": [
+        "9000"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Santa Cruz Meyehualco",
+      "postal_code": [
+        "9290",
+        "9700"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Santa Isabel Industrial",
+      "postal_code": [
+        "9820"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Santa Maria Aztahuacan",
+      "postal_code": [
+        "9500",
+        "9570"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Santa Maria Aztahuacan Ampliacion",
+      "postal_code": [
+        "9500"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Santa Maria del Monte",
+      "postal_code": [
+        "9850"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Santa Maria Tomatlan",
+      "postal_code": [
+        "9870"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Santa Martha Acatitla",
+      "postal_code": [
+        "9510"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Santa Martha Acatitla Norte",
+      "postal_code": [
+        "9140"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Santa Martha Acatitla Sur",
+      "postal_code": [
+        "9530"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Santiago Acahualtepec",
+      "postal_code": [
+        "9600"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Santiago Acahualtepec 1ra. Ampliacion",
+      "postal_code": [
+        "9608"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Santiago Acahualtepec 2a. Ampliacion",
+      "postal_code": [
+        "9609"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Sector Popular",
+      "postal_code": [
+        "9060"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Sideral",
+      "postal_code": [
+        "9320"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Sinatel",
+      "postal_code": [
+        "9470"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Tenorios",
+      "postal_code": [
+        "9680"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Tepalcates",
+      "postal_code": [
+        "9210"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Tula",
+      "postal_code": [
+        "9800"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Unidad Ejercito Constitucionalista",
+      "postal_code": [
+        "9220"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Unidad Modelo",
+      "postal_code": [
+        "9089"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Unidad Vicente Guerrero",
+      "postal_code": [
+        "9200"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "USCOVI",
+      "postal_code": [
+        "9960"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Valle del Sur",
+      "postal_code": [
+        "9819"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Valle de Luces",
+      "postal_code": [
+        "9800"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Valle de San Lorenzo",
+      "postal_code": [
+        "9970"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Xalpa",
+      "postal_code": [
+        "9640"
+      ]
+    },
+    {
+      "city": "Iztapalapa",
+      "colonia": "Zacahuitzco",
+      "postal_code": [
+        "9440"
+      ]
+    }
+  ]
+}

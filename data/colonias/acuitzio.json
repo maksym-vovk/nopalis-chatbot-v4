@@ -1,0 +1,334 @@
+{
+  "data": [
+    {
+      "city": "Acuitzio",
+      "colonia": "Acuitzio del Canje",
+      "postal_code": [
+        "58460"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Agua Grande",
+      "postal_code": [
+        "58464"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Agua Puerca",
+      "postal_code": [
+        "58464"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Arostaro",
+      "postal_code": [
+        "58468"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Arroyo Hondo",
+      "postal_code": [
+        "58465"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Bella Vista",
+      "postal_code": [
+        "58460"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Corralo (Tirindiriz)",
+      "postal_code": [
+        "58463"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Cruz Gorda",
+      "postal_code": [
+        "58465"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Cutzaro (Cuzaro)",
+      "postal_code": [
+        "58465"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "El Auxilio (Los Tanques)",
+      "postal_code": [
+        "58463"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "El Cipres",
+      "postal_code": [
+        "58464"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "El Melon",
+      "postal_code": [
+        "58467"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "El Moral",
+      "postal_code": [
+        "58467"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "El Paredon",
+      "postal_code": [
+        "58463"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "58467"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "El Tzintzun",
+      "postal_code": [
+        "58464"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "El Varal",
+      "postal_code": [
+        "58464"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "58460"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Huajumbo",
+      "postal_code": [
+        "58463"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "La Angostura",
+      "postal_code": [
+        "58468"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "La Campana",
+      "postal_code": [
+        "58466"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "La Florida",
+      "postal_code": [
+        "58460",
+        "58468"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "La Huizata",
+      "postal_code": [
+        "58463"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "La Laja",
+      "postal_code": [
+        "58467"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "La Palma",
+      "postal_code": [
+        "58468"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "La Paloma (Ziparapio el Alto)",
+      "postal_code": [
+        "58465"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "La Penita",
+      "postal_code": [
+        "58464"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Las Canoas",
+      "postal_code": [
+        "58467"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Las Juntas",
+      "postal_code": [
+        "58463"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Las Penas",
+      "postal_code": [
+        "58460"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Las Trojes (Las Trojas)",
+      "postal_code": [
+        "58464"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "La Tinaja",
+      "postal_code": [
+        "58468"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "La Vinata",
+      "postal_code": [
+        "58464"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Loma del Pastor",
+      "postal_code": [
+        "58463"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Los Aguacates",
+      "postal_code": [
+        "58466"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Magisterio",
+      "postal_code": [
+        "58460"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Paramo",
+      "postal_code": [
+        "58464"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Paso del Muerto",
+      "postal_code": [
+        "58467"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "58460"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Rosa de Castilla",
+      "postal_code": [
+        "58463"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "San Andres Coapa",
+      "postal_code": [
+        "58466"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Tamanguio",
+      "postal_code": [
+        "58466"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Tepatzicuaro",
+      "postal_code": [
+        "58463"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Tiripano",
+      "postal_code": [
+        "58467"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Vicente Riva Palacio",
+      "postal_code": [
+        "58460"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Vista Bella",
+      "postal_code": [
+        "58460"
+      ]
+    },
+    {
+      "city": "Acuitzio",
+      "colonia": "Ziparapio el Alto (Ziparapio)",
+      "postal_code": [
+        "58465"
+      ]
+    }
+  ]
+}

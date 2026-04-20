@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Sacramento",
+      "colonia": "El Chamizal",
+      "postal_code": [
+        "27758"
+      ]
+    },
+    {
+      "city": "Sacramento",
+      "colonia": "Sacramento",
+      "postal_code": [
+        "27750"
+      ]
+    },
+    {
+      "city": "Sacramento",
+      "colonia": "Siete de Abril",
+      "postal_code": [
+        "27750"
+      ]
+    }
+  ]
+}

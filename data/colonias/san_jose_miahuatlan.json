@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "San Jose Miahuatlan",
+      "colonia": "San Jeronimo Axochitlan",
+      "postal_code": [
+        "75973"
+      ]
+    },
+    {
+      "city": "San Jose Miahuatlan",
+      "colonia": "San Jose Axusco",
+      "postal_code": [
+        "75975"
+      ]
+    },
+    {
+      "city": "San Jose Miahuatlan",
+      "colonia": "San Jose Miahuatlan",
+      "postal_code": [
+        "75970"
+      ]
+    },
+    {
+      "city": "San Jose Miahuatlan",
+      "colonia": "San Mateo Tlacoxcalco",
+      "postal_code": [
+        "75972"
+      ]
+    },
+    {
+      "city": "San Jose Miahuatlan",
+      "colonia": "San Pedro Tetitlan",
+      "postal_code": [
+        "75970"
+      ]
+    }
+  ]
+}

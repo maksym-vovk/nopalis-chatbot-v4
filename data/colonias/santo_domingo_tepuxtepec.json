@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Santo Domingo Tepuxtepec",
+      "colonia": "Llano Crucero",
+      "postal_code": [
+        "70206"
+      ]
+    },
+    {
+      "city": "Santo Domingo Tepuxtepec",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "70207"
+      ]
+    },
+    {
+      "city": "Santo Domingo Tepuxtepec",
+      "colonia": "Santo Domingo Tepuxtepec",
+      "postal_code": [
+        "70206"
+      ]
+    }
+  ]
+}

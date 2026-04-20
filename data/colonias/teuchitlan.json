@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Teuchitlan",
+      "colonia": "El Amarillo",
+      "postal_code": [
+        "46763"
+      ]
+    },
+    {
+      "city": "Teuchitlan",
+      "colonia": "Gral. Lucio Blanco",
+      "postal_code": [
+        "46762"
+      ]
+    },
+    {
+      "city": "Teuchitlan",
+      "colonia": "La Estanzuela",
+      "postal_code": [
+        "46764"
+      ]
+    },
+    {
+      "city": "Teuchitlan",
+      "colonia": "La Vega",
+      "postal_code": [
+        "46765"
+      ]
+    },
+    {
+      "city": "Teuchitlan",
+      "colonia": "Teuchitlan",
+      "postal_code": [
+        "46760"
+      ]
+    }
+  ]
+}

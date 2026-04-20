@@ -1,0 +1,394 @@
+{
+  "data": [
+    {
+      "city": "Cerro Azul",
+      "colonia": "17 de Mayo",
+      "postal_code": [
+        "92513"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "18 de Marzo",
+      "postal_code": [
+        "92517"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "7 de Octubre",
+      "postal_code": [
+        "92516"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Aguilera",
+      "postal_code": [
+        "92516"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Ampliacion Benito Juarez",
+      "postal_code": [
+        "92523"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Ampliacion el Mirador",
+      "postal_code": [
+        "92524"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Ampliacion Lomas Verdes",
+      "postal_code": [
+        "92524"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Axoquitla",
+      "postal_code": [
+        "92503"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "92517"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Buenos Aires",
+      "postal_code": [
+        "92525"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Campo 1ro de Mayo",
+      "postal_code": [
+        "92518"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Carlos Berman",
+      "postal_code": [
+        "92514"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Cerro Azul Campo Industrial Centro",
+      "postal_code": [
+        "92510"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Cerro Azul Viejo",
+      "postal_code": [
+        "92513"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Clouthier",
+      "postal_code": [
+        "92523"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Deportiva",
+      "postal_code": [
+        "92514"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Don Adrian",
+      "postal_code": [
+        "92520"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Ejido Xilitla",
+      "postal_code": [
+        "92504"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "El Chaparral",
+      "postal_code": [
+        "92527"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "El Cuatro",
+      "postal_code": [
+        "92514"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "El Sacrificio",
+      "postal_code": [
+        "92517"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Ex Refineria",
+      "postal_code": [
+        "92514"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Faja de Oro",
+      "postal_code": [
+        "92516"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Ferrocarril",
+      "postal_code": [
+        "92517"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Fraccionamiento el Sacrificio",
+      "postal_code": [
+        "92527"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Juan Felipe",
+      "postal_code": [
+        "92517",
+        "92520"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "La Adelaida",
+      "postal_code": [
+        "92527",
+        "92527"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "La Campechana",
+      "postal_code": [
+        "92504"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "La Ceiba",
+      "postal_code": [
+        "92519"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "La Curva",
+      "postal_code": [
+        "92513"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "La Herradura",
+      "postal_code": [
+        "92517",
+        "92523"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "La Loma Bonita",
+      "postal_code": [
+        "92503"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "La Pedrera (La Quebradora)",
+      "postal_code": [
+        "92520"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "La Puerta",
+      "postal_code": [
+        "92517"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "La Tumbaga (La Joya)",
+      "postal_code": [
+        "92523"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "92513",
+        "92524"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Lomas Verdes",
+      "postal_code": [
+        "92519"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Los Milagros",
+      "postal_code": [
+        "92527"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Mirador",
+      "postal_code": [
+        "92518"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Morelos",
+      "postal_code": [
+        "92515"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Nuevo Mirador",
+      "postal_code": [
+        "92518"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Oriente",
+      "postal_code": [
+        "92513"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Petrolera",
+      "postal_code": [
+        "92516"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Piedra Labrada",
+      "postal_code": [
+        "92500"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Rancho Huilotitla",
+      "postal_code": [
+        "92504"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Rancho Santiago Cardenas",
+      "postal_code": [
+        "92504"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "San Carlos (Guardaganado)",
+      "postal_code": [
+        "92503"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Santa Rosa (Santa Mercedes)",
+      "postal_code": [
+        "92523"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Santa Victoria",
+      "postal_code": [
+        "92520"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Sector Popular",
+      "postal_code": [
+        "92513"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Tamalinillo",
+      "postal_code": [
+        "92505"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Teresa Morales",
+      "postal_code": [
+        "92513"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Valle Esmeralda",
+      "postal_code": [
+        "92517",
+        "92520"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Valle Verde",
+      "postal_code": [
+        "92517"
+      ]
+    },
+    {
+      "city": "Cerro Azul",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "92515"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Tekanto",
+      "colonia": "San Francisco Dzan",
+      "postal_code": [
+        "97523"
+      ]
+    },
+    {
+      "city": "Tekanto",
+      "colonia": "Sanlatah",
+      "postal_code": [
+        "97522"
+      ]
+    },
+    {
+      "city": "Tekanto",
+      "colonia": "Tekanto",
+      "postal_code": [
+        "97520"
+      ]
+    },
+    {
+      "city": "Tekanto",
+      "colonia": "Tixkocho",
+      "postal_code": [
+        "97522"
+      ]
+    }
+  ]
+}

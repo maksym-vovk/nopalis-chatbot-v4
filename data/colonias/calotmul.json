@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Calotmul",
+      "colonia": "Calotmul",
+      "postal_code": [
+        "97745"
+      ]
+    },
+    {
+      "city": "Calotmul",
+      "colonia": "Pocoboch",
+      "postal_code": [
+        "97747"
+      ]
+    },
+    {
+      "city": "Calotmul",
+      "colonia": "Tahcabo",
+      "postal_code": [
+        "97746"
+      ]
+    },
+    {
+      "city": "Calotmul",
+      "colonia": "Yokdzonot",
+      "postal_code": [
+        "97748"
+      ]
+    }
+  ]
+}

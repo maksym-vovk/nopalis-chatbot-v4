@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Amaxac de Guerrero",
+      "colonia": "Amaxac de Guerrero",
+      "postal_code": [
+        "90620"
+      ]
+    },
+    {
+      "city": "Amaxac de Guerrero",
+      "colonia": "La Preciosa",
+      "postal_code": [
+        "90630"
+      ]
+    },
+    {
+      "city": "Amaxac de Guerrero",
+      "colonia": "Primera Seccion",
+      "postal_code": [
+        "90624"
+      ]
+    },
+    {
+      "city": "Amaxac de Guerrero",
+      "colonia": "San Damian Tlacocalpan",
+      "postal_code": [
+        "90635"
+      ]
+    },
+    {
+      "city": "Amaxac de Guerrero",
+      "colonia": "Tercera Seccion",
+      "postal_code": [
+        "90623"
+      ]
+    }
+  ]
+}

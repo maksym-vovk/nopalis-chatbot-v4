@@ -1,0 +1,634 @@
+{
+  "data": [
+    {
+      "city": "Boca del Rio",
+      "colonia": "8 de Marzo",
+      "postal_code": [
+        "94297"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "9 de Marzo",
+      "postal_code": [
+        "94297"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Adalberto Tejeda",
+      "postal_code": [
+        "94298"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Ampliacion Miguel Aleman",
+      "postal_code": [
+        "94297"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Ampliacion Villa Rica",
+      "postal_code": [
+        "94298"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "94298"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Boca del Rio Centro",
+      "postal_code": [
+        "94290"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Bonos Del Ahorro Nacional",
+      "postal_code": [
+        "94295"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Camino Real",
+      "postal_code": [
+        "94290"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Casa de la Condesa de Malibran",
+      "postal_code": [
+        "94286"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Casas Tamsa",
+      "postal_code": [
+        "94295"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Cordilleras",
+      "postal_code": [
+        "94293"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Costa del Sol",
+      "postal_code": [
+        "94290"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Costa de Oro",
+      "postal_code": [
+        "94299"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Costa Verde",
+      "postal_code": [
+        "94294"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Cubika",
+      "postal_code": [
+        "94297"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Cumbres Residencial",
+      "postal_code": [
+        "94286"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Dante Delgado Ranauro",
+      "postal_code": [
+        "94297"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "De las Americas",
+      "postal_code": [
+        "94299"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Ejido Primero de Mayo Norte",
+      "postal_code": [
+        "94297"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Ejido Primero de Mayo Sur",
+      "postal_code": [
+        "94297"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "El Dorado",
+      "postal_code": [
+        "94290"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "El Estero",
+      "postal_code": [
+        "94290"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "El Manantial",
+      "postal_code": [
+        "94297"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "El Morro las Colonias",
+      "postal_code": [
+        "94293"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "El Terraplen",
+      "postal_code": [
+        "94285"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Estatuto Juridico",
+      "postal_code": [
+        "94294"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Fernando Gutierrez Barrios",
+      "postal_code": [
+        "94297"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Fovissste",
+      "postal_code": [
+        "94294"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Galaxia",
+      "postal_code": [
+        "94294"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Gardenias",
+      "postal_code": [
+        "94293"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Gobierno Estatal",
+      "postal_code": [
+        "94297"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Graciano Sanchez Romo",
+      "postal_code": [
+        "94293"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Guillermo Lopez Portillo",
+      "postal_code": [
+        "94297"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Hicacal",
+      "postal_code": [
+        "94290"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Hicacal II",
+      "postal_code": [
+        "94290"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Hipico",
+      "postal_code": [
+        "94296"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "INFONAVIT el Morro",
+      "postal_code": [
+        "94293"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "INFONAVIT las Vegas",
+      "postal_code": [
+        "94297"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "ISSSFAM Militar",
+      "postal_code": [
+        "94290"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Jardines de Mocambo",
+      "postal_code": [
+        "94299"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Jardines de Virginia",
+      "postal_code": [
+        "94294"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Jose Lopez Portillo",
+      "postal_code": [
+        "94297"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Joyas de Mocambo (Granjas los Pinos)",
+      "postal_code": [
+        "94298"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "La Cuchilla",
+      "postal_code": [
+        "94298"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "La Pinagoga",
+      "postal_code": [
+        "94285"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "94298"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Las Vegas II",
+      "postal_code": [
+        "94297"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "La Tampiquera",
+      "postal_code": [
+        "94290"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "94298"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Linda Vista",
+      "postal_code": [
+        "94295"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Lomas Del Mar",
+      "postal_code": [
+        "94293"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Los Arcos",
+      "postal_code": [
+        "94293"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Los Delfines",
+      "postal_code": [
+        "94293"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Luis Echeverria alvarez",
+      "postal_code": [
+        "94298"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Manlio Fabio Altamirano (Lecheros)",
+      "postal_code": [
+        "94296"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Manuel Nieto",
+      "postal_code": [
+        "94296"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Marco Antonio Munoz",
+      "postal_code": [
+        "94295"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Miguel Aleman Valdes",
+      "postal_code": [
+        "94297"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Militar",
+      "postal_code": [
+        "94297"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Nueva Era",
+      "postal_code": [
+        "94295"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Obrera",
+      "postal_code": [
+        "94298"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Paso Colorado",
+      "postal_code": [
+        "94287"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Pescadores",
+      "postal_code": [
+        "94290"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Petrolera (Heriberto Kehoe)",
+      "postal_code": [
+        "94299"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Plan de Ayala",
+      "postal_code": [
+        "94297"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Playa de Oro Mocambo",
+      "postal_code": [
+        "94298"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Playa Hermosa",
+      "postal_code": [
+        "94293"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Quinta Al Andalus",
+      "postal_code": [
+        "94286"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Rancho JF",
+      "postal_code": [
+        "94287"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Remes",
+      "postal_code": [
+        "94295"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Residencial la Joya",
+      "postal_code": [
+        "94293"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "94296"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "94290"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Rigo",
+      "postal_code": [
+        "94295"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Rio Jamapa",
+      "postal_code": [
+        "94290"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Rivera de la Condesa",
+      "postal_code": [
+        "94286"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "San Jose",
+      "postal_code": [
+        "94293"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "San Jose Novillero",
+      "postal_code": [
+        "94286"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Santa Ana Residencial",
+      "postal_code": [
+        "94286"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "SUTSEM",
+      "postal_code": [
+        "94294"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "TAMSA",
+      "postal_code": [
+        "94296"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Ugocep",
+      "postal_code": [
+        "94297"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Venustiano Carranza",
+      "postal_code": [
+        "94297"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Venustiano Carranza 3a Seccion",
+      "postal_code": [
+        "94297"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Villa Rica",
+      "postal_code": [
+        "94298"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Virginia",
+      "postal_code": [
+        "94294"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Virginia Cordero de Murillo Vidal",
+      "postal_code": [
+        "94296"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Vista Alegre",
+      "postal_code": [
+        "94295"
+      ]
+    },
+    {
+      "city": "Boca del Rio",
+      "colonia": "Ylang Ylang",
+      "postal_code": [
+        "94298"
+      ]
+    }
+  ]
+}

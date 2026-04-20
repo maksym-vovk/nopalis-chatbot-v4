@@ -1,0 +1,515 @@
+{
+  "data": [
+    {
+      "city": "Cuautitlan",
+      "colonia": "Canta Ranas",
+      "postal_code": [
+        "54835"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Cebadales Primera Seccion",
+      "postal_code": [
+        "54858"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Cristal",
+      "postal_code": [
+        "54875"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Cuautitlan Centro",
+      "postal_code": [
+        "54800"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Dos Rios Primera Seccion",
+      "postal_code": [
+        "54850"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Dos Rios Segunda Seccion",
+      "postal_code": [
+        "54840"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Ejidos de Guadalupe",
+      "postal_code": [
+        "54805"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "54840"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "54879"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "El Huerto",
+      "postal_code": [
+        "54807"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "El Infiernillo",
+      "postal_code": [
+        "54878"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "El Machero",
+      "postal_code": [
+        "54830"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "El Mecate",
+      "postal_code": [
+        "54836"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "54830"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "El Nopalito",
+      "postal_code": [
+        "54800"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "54870"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "El Paraiso FOVISSSTE",
+      "postal_code": [
+        "54877"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "El Partidor",
+      "postal_code": [
+        "54879"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "El Tejado",
+      "postal_code": [
+        "54835"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "El Tejocote",
+      "postal_code": [
+        "54850"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Foresta Residencial",
+      "postal_code": [
+        "54875"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Galaxia Cuautitlan",
+      "postal_code": [
+        "54840"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Hacienda de Cuautitlan",
+      "postal_code": [
+        "54803"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Joyas de Cuautitlan",
+      "postal_code": [
+        "54803"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Juan Diego",
+      "postal_code": [
+        "54840"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "La Alborada",
+      "postal_code": [
+        "54803"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "La Arboleda",
+      "postal_code": [
+        "54830"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "La Guadalupana",
+      "postal_code": [
+        "54840"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "La Laguna",
+      "postal_code": [
+        "54840"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "La Palma",
+      "postal_code": [
+        "54879"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Las Patricias I y II",
+      "postal_code": [
+        "54875"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "La Toscana",
+      "postal_code": [
+        "54840"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "54850"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "54870"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Loma Bonita",
+      "postal_code": [
+        "54879"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Los Morales 1a Seccion",
+      "postal_code": [
+        "54800"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Los Morales 2a Seccion",
+      "postal_code": [
+        "54840"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Los Olivos",
+      "postal_code": [
+        "54875"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Macolo",
+      "postal_code": [
+        "54831"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Mayorazgos",
+      "postal_code": [
+        "54875"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Misiones I",
+      "postal_code": [
+        "54870"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Misiones II",
+      "postal_code": [
+        "54800"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Necapa",
+      "postal_code": [
+        "54879"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Nueva Espanita",
+      "postal_code": [
+        "54879"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Parque San Mateo (Hacienda San Mateo)",
+      "postal_code": [
+        "54830"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Paseo de Santa Maria",
+      "postal_code": [
+        "54800"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Paseos de Cuautitlan",
+      "postal_code": [
+        "54807"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Paseos del Bosque",
+      "postal_code": [
+        "54850"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Puente Jabonero",
+      "postal_code": [
+        "54879"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Rancho San Blas",
+      "postal_code": [
+        "54870"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Rancho Santa Elena",
+      "postal_code": [
+        "54850"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Real de San Fernando",
+      "postal_code": [
+        "54850"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Romita",
+      "postal_code": [
+        "54800"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "San Blas I",
+      "postal_code": [
+        "54870"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "San Blas II",
+      "postal_code": [
+        "54870"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "San Francisco Cascantitla",
+      "postal_code": [
+        "54807"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "San Jose Milla",
+      "postal_code": [
+        "54870"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "San Jose Puente Grande",
+      "postal_code": [
+        "54834"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "San Juan",
+      "postal_code": [
+        "54800"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "San Mateo Ixtacalco",
+      "postal_code": [
+        "54840"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "San Mateo Ixtacalco Fraccion Tlaxculpas",
+      "postal_code": [
+        "54860"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "San Roque",
+      "postal_code": [
+        "54840"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Santa Ana Tlaltepan",
+      "postal_code": [
+        "54870"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Santa Barbara",
+      "postal_code": [
+        "54831"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Santa Maria Huecatitla",
+      "postal_code": [
+        "54831"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Tecoac-Monales",
+      "postal_code": [
+        "54804"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Tizoc",
+      "postal_code": [
+        "54855"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Venecia",
+      "postal_code": [
+        "54835"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Villa Jardin",
+      "postal_code": [
+        "54879"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Villa Maria",
+      "postal_code": [
+        "54835"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Villas de Cuautitlan",
+      "postal_code": [
+        "54857"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Villas Olivo",
+      "postal_code": [
+        "54857"
+      ]
+    },
+    {
+      "city": "Cuautitlan",
+      "colonia": "Xaltipa (Jaltipa)",
+      "postal_code": [
+        "54850"
+      ]
+    }
+  ]
+}

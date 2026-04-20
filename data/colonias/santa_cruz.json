@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Santa Cruz",
+      "colonia": "El Llano",
+      "postal_code": [
+        "84147"
+      ]
+    },
+    {
+      "city": "Santa Cruz",
+      "colonia": "Miguel Hidalgo (San Lazaro)",
+      "postal_code": [
+        "84147"
+      ]
+    },
+    {
+      "city": "Santa Cruz",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "84140"
+      ]
+    }
+  ]
+}

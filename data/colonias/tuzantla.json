@@ -1,0 +1,976 @@
+{
+  "data": [
+    {
+      "city": "Tuzantla",
+      "colonia": "Acucha de Cajoncitos",
+      "postal_code": [
+        "61564"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Acuicho",
+      "postal_code": [
+        "61543"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Agua Fria",
+      "postal_code": [
+        "61543"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Agua Fria Dos",
+      "postal_code": [
+        "61547"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Arroyo Seco",
+      "postal_code": [
+        "61548"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Barranca la Minilla (El Salitrillo)",
+      "postal_code": [
+        "61547"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Bejucalillos",
+      "postal_code": [
+        "61560"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "61540"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Buenavista (El Zancudo)",
+      "postal_code": [
+        "61543"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Calicanto",
+      "postal_code": [
+        "61548"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Cana Quemada",
+      "postal_code": [
+        "61545"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Canas Viejas",
+      "postal_code": [
+        "61548"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Canoas",
+      "postal_code": [
+        "61548"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Casas Viejas",
+      "postal_code": [
+        "61555"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Ceiba Prieta",
+      "postal_code": [
+        "61543"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Ceibas del Pilon Chico",
+      "postal_code": [
+        "61544"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Cerrillal",
+      "postal_code": [
+        "61550"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Chiragangueo",
+      "postal_code": [
+        "61544"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Cimientillos",
+      "postal_code": [
+        "61550"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Cuaulote",
+      "postal_code": [
+        "61548"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Curigineo",
+      "postal_code": [
+        "61563"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Agua Grande",
+      "postal_code": [
+        "61548"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Balseadero",
+      "postal_code": [
+        "61548"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Bonete",
+      "postal_code": [
+        "61555"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Brasil",
+      "postal_code": [
+        "61543"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Cascalote del Salitre (El Salitre)",
+      "postal_code": [
+        "61564"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Ciriancito (El Cirian)",
+      "postal_code": [
+        "61546"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Cuajilote",
+      "postal_code": [
+        "61549"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Durazno",
+      "postal_code": [
+        "61557"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Encinal",
+      "postal_code": [
+        "61550"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Fresno (Los Fresnos)",
+      "postal_code": [
+        "61555"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Guayabo",
+      "postal_code": [
+        "61546"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Manguito",
+      "postal_code": [
+        "61546"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Manzano",
+      "postal_code": [
+        "61544"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Mezquite",
+      "postal_code": [
+        "61548"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Molinito",
+      "postal_code": [
+        "61557"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Olivo",
+      "postal_code": [
+        "61547"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Pantano",
+      "postal_code": [
+        "61547",
+        "61550"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Panteoncito",
+      "postal_code": [
+        "61547"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Paso de la Virgen",
+      "postal_code": [
+        "61545"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Puerto del Durazno",
+      "postal_code": [
+        "61557"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "61554"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Rancho",
+      "postal_code": [
+        "61546"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Reventon Uno",
+      "postal_code": [
+        "61547"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Rodeo",
+      "postal_code": [
+        "61564"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Rodeo de Soledad Grande",
+      "postal_code": [
+        "61555"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Tejocote",
+      "postal_code": [
+        "61557"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Tepeguaje",
+      "postal_code": [
+        "61553"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Timbinal",
+      "postal_code": [
+        "61548"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "El Timbiriche",
+      "postal_code": [
+        "61547"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Francisco Villa (Potrerillos)",
+      "postal_code": [
+        "61554"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Huacaz (Pueblo Nuevo)",
+      "postal_code": [
+        "61564"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Joyas de Vigas",
+      "postal_code": [
+        "61557"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "La Calera",
+      "postal_code": [
+        "61555"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "La Camelina",
+      "postal_code": [
+        "61557"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "La Carbonera",
+      "postal_code": [
+        "61547"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "La Colonia",
+      "postal_code": [
+        "61564"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "La Corcomeca",
+      "postal_code": [
+        "61556"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "61553"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "La Guacamaya",
+      "postal_code": [
+        "61543"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "La Jarilla",
+      "postal_code": [
+        "61556"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "La Laja Uno",
+      "postal_code": [
+        "61547"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "La Lajita",
+      "postal_code": [
+        "61547"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "La Loma Bonita",
+      "postal_code": [
+        "61560"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Lampazo",
+      "postal_code": [
+        "61565"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "La Ordenita",
+      "postal_code": [
+        "61555"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "La Papaya",
+      "postal_code": [
+        "61548"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "La Parota",
+      "postal_code": [
+        "61543",
+        "61555"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "La Parota del Brasil",
+      "postal_code": [
+        "61553"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "La Pinzanera",
+      "postal_code": [
+        "61548"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "La Playa",
+      "postal_code": [
+        "61560"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "La Quiringuca",
+      "postal_code": [
+        "61563"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "La Rayuela",
+      "postal_code": [
+        "61557"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Las Anonas",
+      "postal_code": [
+        "61543",
+        "61544"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Las Canoas",
+      "postal_code": [
+        "61556"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Las Ceibillas",
+      "postal_code": [
+        "61543"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Las Cruces",
+      "postal_code": [
+        "61543"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Las Crucitas",
+      "postal_code": [
+        "61547"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "La Sierrita",
+      "postal_code": [
+        "61547"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Las Joyas de Miranda",
+      "postal_code": [
+        "61554"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Las Juntas",
+      "postal_code": [
+        "61543",
+        "61546",
+        "61550",
+        "61564"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Las Juntas del Tanque",
+      "postal_code": [
+        "61564"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Las Lajas del Bosque",
+      "postal_code": [
+        "61544"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Las Lechuguillas",
+      "postal_code": [
+        "61543"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "La Soledad Chiquita",
+      "postal_code": [
+        "61557"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Las Parotas (Parota de Terrero)",
+      "postal_code": [
+        "61563"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Las Presitas",
+      "postal_code": [
+        "61557"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "La Turicata",
+      "postal_code": [
+        "61546"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "La Vibora",
+      "postal_code": [
+        "61546"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "La Yerbabuena",
+      "postal_code": [
+        "61545"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Lomas de la Carrera",
+      "postal_code": [
+        "61557"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Los Anonos",
+      "postal_code": [
+        "61546"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Los Bancos",
+      "postal_code": [
+        "61553"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Los Cimientos",
+      "postal_code": [
+        "61554"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Los Cuitaces",
+      "postal_code": [
+        "61549"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Los Guajes de Teamaro",
+      "postal_code": [
+        "61545"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Los Guajes de Teran",
+      "postal_code": [
+        "61544"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Los Libres",
+      "postal_code": [
+        "61545"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Los Otates",
+      "postal_code": [
+        "61553"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Los Pinzanes",
+      "postal_code": [
+        "61545"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Los Planes",
+      "postal_code": [
+        "61554"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Los Tepehuajes",
+      "postal_code": [
+        "61547"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Maguey Acuitzio (La Polilla)",
+      "postal_code": [
+        "61565"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Melchor Ocampo (Paso de Tierra Caliente)",
+      "postal_code": [
+        "61560"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Mendoza y Cuirindales",
+      "postal_code": [
+        "61560"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Mesa del Aire",
+      "postal_code": [
+        "61553"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Mesa de las animas",
+      "postal_code": [
+        "61543"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Mesa de Teco",
+      "postal_code": [
+        "61553"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Mesa el Encinal",
+      "postal_code": [
+        "61546"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Mesa Rica",
+      "postal_code": [
+        "61543"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Morelos I",
+      "postal_code": [
+        "61540"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Morelos II",
+      "postal_code": [
+        "61540"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Noveron",
+      "postal_code": [
+        "61554"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Organista y Potrerillos",
+      "postal_code": [
+        "61545"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Palominos",
+      "postal_code": [
+        "61546"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Palo Verde",
+      "postal_code": [
+        "61544"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Paso Ancho",
+      "postal_code": [
+        "61548"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Paso Nicolas Romero (Las Puercas)",
+      "postal_code": [
+        "61565"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Piedras Boludas",
+      "postal_code": [
+        "61557"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Pinzanera",
+      "postal_code": [
+        "61564"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Plan de los Coyotes (El Coyote)",
+      "postal_code": [
+        "61546"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Playitas",
+      "postal_code": [
+        "61555"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Providencia (Puerto de la Hoya)",
+      "postal_code": [
+        "61556"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Puerto Ancho",
+      "postal_code": [
+        "61557"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Puerto Colorado",
+      "postal_code": [
+        "61547"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Puerto de la Naranja",
+      "postal_code": [
+        "61556"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Puerto del Pilon",
+      "postal_code": [
+        "61546"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Rio Colorado",
+      "postal_code": [
+        "61556"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "San Alejo",
+      "postal_code": [
+        "61549"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "San Juan de Dios",
+      "postal_code": [
+        "61548"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "61548"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "San Patricio Buenavista",
+      "postal_code": [
+        "61556"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Soledad Grande",
+      "postal_code": [
+        "61555"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Tamata",
+      "postal_code": [
+        "61549"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Taracatio",
+      "postal_code": [
+        "61549"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Tiripetio",
+      "postal_code": [
+        "61545"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Tuzantla",
+      "postal_code": [
+        "61540"
+      ]
+    },
+    {
+      "city": "Tuzantla",
+      "colonia": "Vista Bella",
+      "postal_code": [
+        "61540"
+      ]
+    }
+  ]
+}

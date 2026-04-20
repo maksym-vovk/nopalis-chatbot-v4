@@ -1,0 +1,929 @@
+{
+  "data": [
+    {
+      "city": "Palenque",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "29968"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Ach Lum Maya",
+      "postal_code": [
+        "29968"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Agua Blanca Serrania",
+      "postal_code": [
+        "29963"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Agua Cristalina",
+      "postal_code": [
+        "29967"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Alfredo V. Bonfil",
+      "postal_code": [
+        "29966"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Arimatea",
+      "postal_code": [
+        "29968"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Bajadas Grandes",
+      "postal_code": [
+        "29969"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Baj-Luntie",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Balun Canan",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Barrio Chino",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Belisario Dominguez Norte",
+      "postal_code": [
+        "29963"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Berea",
+      "postal_code": [
+        "29966"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Calatraba",
+      "postal_code": [
+        "29962"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Camino Real",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Campo Militar",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Central Unitaria de los Trabajadores",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Chacamax",
+      "postal_code": [
+        "29960",
+        "29965"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Chancala Zapote",
+      "postal_code": [
+        "29968"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Chocoljaito",
+      "postal_code": [
+        "29966"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Cinco de Mayo",
+      "postal_code": [
+        "29964"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Ciudad Agraria",
+      "postal_code": [
+        "29968"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Conjunto Habitacional Militar",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Doctor Samuel Leon Brindis",
+      "postal_code": [
+        "29968"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "El Bosque de la Lomita",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "El Clavo",
+      "postal_code": [
+        "29966"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "El Lacandon",
+      "postal_code": [
+        "29968"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "El Limon",
+      "postal_code": [
+        "29962"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Elmar Setzer",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "El Naranjo",
+      "postal_code": [
+        "29963"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "El Pital Uno",
+      "postal_code": [
+        "29962"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "El Retiro",
+      "postal_code": [
+        "29962"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "El Suspiro",
+      "postal_code": [
+        "29962"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Emilio Rabasa",
+      "postal_code": [
+        "29969"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Estrella de Belen",
+      "postal_code": [
+        "29966"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Filadelfia",
+      "postal_code": [
+        "29964"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Francisco I Madero Norte",
+      "postal_code": [
+        "29964"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Guayacan la Lomita",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Hermenegildo Galena",
+      "postal_code": [
+        "29966"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Jardines del Paraiso",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "La Aurora",
+      "postal_code": [
+        "29968"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "La Canada",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "La Caoba",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "La Cascada",
+      "postal_code": [
+        "29966"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "La Florida",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "La Gloria",
+      "postal_code": [
+        "29969"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "La Ilusion",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "La Joya",
+      "postal_code": [
+        "29964"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "La Mielera",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "La Montana",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "La Pangola",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "La Primavera",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "La Reforma de Ocampo",
+      "postal_code": [
+        "29966"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "La Rueda",
+      "postal_code": [
+        "29968"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Las Delicias",
+      "postal_code": [
+        "29966"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "La Selva",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Las Gardenias",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Las Joyas",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "La Union",
+      "postal_code": [
+        "29963"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "29966"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Licenciado Gustavo Diaz Ordaz",
+      "postal_code": [
+        "29968"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Licenciado Jose Castillo Tielmans",
+      "postal_code": [
+        "29966"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Lindavista 1a Seccion",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Lindavista 2a Seccion",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Lomas de Pakal 1 y 2",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Los Cerrillos",
+      "postal_code": [
+        "29969"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Los Olvidados",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Los Robles",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Los Taxistas",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Luis I. Cabrera (Tepezcuintle)",
+      "postal_code": [
+        "29962"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Maya Lacan-ha",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Medellin 2da. Seccion",
+      "postal_code": [
+        "29969"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Miguel Hidalgo (Estacion Lacandon)",
+      "postal_code": [
+        "29964"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Monte de Sion",
+      "postal_code": [
+        "29964"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Monterrey",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Montes Azules",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Mundo Maya",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Nandiume",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Nueva Esperanza",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Nueva Esperanza 1a Secc",
+      "postal_code": [
+        "29969"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Nueva Esperanza 2a. Seccion",
+      "postal_code": [
+        "29969"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Nueva Esperanza Progresista",
+      "postal_code": [
+        "29967"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Nueva Galilea",
+      "postal_code": [
+        "29968"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Nuevo Jerico",
+      "postal_code": [
+        "29967"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Nuevo Palenque",
+      "postal_code": [
+        "29969"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Nuevo Paraiso",
+      "postal_code": [
+        "29969"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Nuevo Plan de Ayala",
+      "postal_code": [
+        "29967"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Nuevo Sonora",
+      "postal_code": [
+        "29968"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Once de Julio",
+      "postal_code": [
+        "29967"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Pakal-kin",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Pakal-Na",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Palacio de las Leyes",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Palenque",
+      "postal_code": [
+        "29968"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Palenque Centro",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Paraiso de Juarez",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Parque de Feria",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Pomoca Palenque",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Popol-vuh",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Profesor Roberto Barrios",
+      "postal_code": [
+        "29968"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Puyipa",
+      "postal_code": [
+        "29968"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Raymundo Enriquez",
+      "postal_code": [
+        "29964"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Reforma Agraria (Chiniquija)",
+      "postal_code": [
+        "29966"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "29967"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Rio Chancala",
+      "postal_code": [
+        "29966"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "29963"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "San Andres",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "San Antonio Chuyipa",
+      "postal_code": [
+        "29964"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "San Francisco Chancala",
+      "postal_code": [
+        "29966"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "San Javier 2a. Seccion",
+      "postal_code": [
+        "29964"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "San Jose",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "San Jose Babilonia",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "San Jose la Union",
+      "postal_code": [
+        "29963"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "San Juan",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "San Juan Chancalaito",
+      "postal_code": [
+        "29966"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "San Juanito",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "San Juan Tulija (San Juan)",
+      "postal_code": [
+        "29968"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "San Luis 2da. Seccion",
+      "postal_code": [
+        "29969"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "San Martin Chamizal",
+      "postal_code": [
+        "29967"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "San Mateo",
+      "postal_code": [
+        "29963"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Saturnino Rios",
+      "postal_code": [
+        "29969"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Siglo XXI",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Tikal",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Tomas Garrido Canabal",
+      "postal_code": [
+        "29962"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Tonina",
+      "postal_code": [
+        "29960"
+      ]
+    },
+    {
+      "city": "Palenque",
+      "colonia": "Victorico Grajales",
+      "postal_code": [
+        "29966"
+      ]
+    }
+  ]
+}

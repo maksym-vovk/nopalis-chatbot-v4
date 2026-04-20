@@ -1,0 +1,650 @@
+{
+  "data": [
+    {
+      "city": "Santiago",
+      "colonia": "15 de Mayo",
+      "postal_code": [
+        "67320"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Alameda",
+      "postal_code": [
+        "67322"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Alamosur",
+      "postal_code": [
+        "67327"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Aldabas de Cavazzo",
+      "postal_code": [
+        "67318"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Altares Residencial",
+      "postal_code": [
+        "67315"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Amorada Privada Residencial",
+      "postal_code": [
+        "67300"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Antonio Villalon",
+      "postal_code": [
+        "67323"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Arturo Cavazos",
+      "postal_code": [
+        "67318"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Arturo Marroquin",
+      "postal_code": [
+        "67300"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Blas Chumacero",
+      "postal_code": [
+        "67329"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Bosque de San Pedro",
+      "postal_code": [
+        "67328"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Bosque Residencial",
+      "postal_code": [
+        "67340"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Bosque Residencial Sector Encinos",
+      "postal_code": [
+        "67340"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Bosques de las Lomas",
+      "postal_code": [
+        "67324"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Bosques de las Misiones Sector Encino",
+      "postal_code": [
+        "67302"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Bosques de San Jose",
+      "postal_code": [
+        "67307"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Campestre Real",
+      "postal_code": [
+        "67310"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Campestre Santa Clara",
+      "postal_code": [
+        "67324"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Campestre Santiago",
+      "postal_code": [
+        "67318"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Cieneguilla",
+      "postal_code": [
+        "67308"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Compostela Villas",
+      "postal_code": [
+        "67310"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Condado de Asturias",
+      "postal_code": [
+        "67315"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Del Maestro",
+      "postal_code": [
+        "67312"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "El Barrial",
+      "postal_code": [
+        "67303"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "El Cercado Centro",
+      "postal_code": [
+        "67320"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "67303"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "El Faisan",
+      "postal_code": [
+        "67302"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "El Pueblito de Santiago",
+      "postal_code": [
+        "67310"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "67303"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "El Tejocote",
+      "postal_code": [
+        "67337"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Fontana Residencial",
+      "postal_code": [
+        "67302"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Hector Caballero",
+      "postal_code": [
+        "67316"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Huajuquito o los Cavazos",
+      "postal_code": [
+        "67300"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Jardines de La Boca",
+      "postal_code": [
+        "67323"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Jardines de Santiago",
+      "postal_code": [
+        "67313"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "La Boca",
+      "postal_code": [
+        "67304",
+        "67317"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "La Cienega de Gonzalez",
+      "postal_code": [
+        "67330"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "La Cieneguilla",
+      "postal_code": [
+        "67329"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "67307"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Lagos de San Francisco",
+      "postal_code": [
+        "67312"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Laguna de Sanchez",
+      "postal_code": [
+        "67338"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "La Noria Privada Residencial",
+      "postal_code": [
+        "67302"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "La Plazuela",
+      "postal_code": [
+        "67329"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Las Cristalinas",
+      "postal_code": [
+        "67317"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Las Hadas",
+      "postal_code": [
+        "67323"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Las Huertas",
+      "postal_code": [
+        "67316"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "67324",
+        "67325"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Las Misiones",
+      "postal_code": [
+        "67302"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Lomas Del Cercado",
+      "postal_code": [
+        "67322"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Los Nisperos",
+      "postal_code": [
+        "67323"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Los Olivos Residencial",
+      "postal_code": [
+        "67302"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Los Pescadores",
+      "postal_code": [
+        "67322"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Los Rodriguez",
+      "postal_code": [
+        "67300"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Los Silva",
+      "postal_code": [
+        "67323"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Los Terreros",
+      "postal_code": [
+        "67322"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Melchor Ocampo",
+      "postal_code": [
+        "67329"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Pedregal de Santiago",
+      "postal_code": [
+        "67327"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Piedra de Fierro",
+      "postal_code": [
+        "67327"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Portales de Santiago",
+      "postal_code": [
+        "67310"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Potrero de Serna (La Nogalera)",
+      "postal_code": [
+        "67308"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Potrero Redondo",
+      "postal_code": [
+        "67334"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Privada los Franciscanos",
+      "postal_code": [
+        "67302"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Punta la Boca",
+      "postal_code": [
+        "67317"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Quinta San Jorge",
+      "postal_code": [
+        "67340"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Raul Caballero Escamilla",
+      "postal_code": [
+        "67328"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Residencial Campestre El Faisan",
+      "postal_code": [
+        "67302"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Residencial Hacienda Santiago",
+      "postal_code": [
+        "67329"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "R Garza Madero",
+      "postal_code": [
+        "67324"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "San Andres",
+      "postal_code": [
+        "67303"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "67312"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "67338"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "San Javier",
+      "postal_code": [
+        "67322"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "San Jorge",
+      "postal_code": [
+        "67314"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "San Jose de Arriba (Los Leones)",
+      "postal_code": [
+        "67329"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "San Jose de las Boquillas",
+      "postal_code": [
+        "67344"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "San Jose Norte",
+      "postal_code": [
+        "67328"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "San Jose Sur",
+      "postal_code": [
+        "67328"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "San Juan",
+      "postal_code": [
+        "67300"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "San Juan Bautista",
+      "postal_code": [
+        "67340"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "67307"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "San Pedro El alamo",
+      "postal_code": [
+        "67328"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Santa Rosalia",
+      "postal_code": [
+        "67318"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Santa Tais",
+      "postal_code": [
+        "67328"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Santiago Centro",
+      "postal_code": [
+        "67310"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Valle Alto",
+      "postal_code": [
+        "67329"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Valle de Santa Rosalia",
+      "postal_code": [
+        "67310"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Valle de Santiago",
+      "postal_code": [
+        "67318"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Valle Dorado",
+      "postal_code": [
+        "67328"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Valles de Santiago",
+      "postal_code": [
+        "67315"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Viento Libre",
+      "postal_code": [
+        "67315"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Villa Rosario",
+      "postal_code": [
+        "67310"
+      ]
+    },
+    {
+      "city": "Santiago",
+      "colonia": "Yerbaniz",
+      "postal_code": [
+        "67302"
+      ]
+    }
+  ]
+}

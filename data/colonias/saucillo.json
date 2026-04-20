@@ -1,0 +1,2441 @@
+{
+  "data": [
+    {
+      "city": "Saucillo",
+      "colonia": "Aguirreno",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Agustin Melgar",
+      "postal_code": [
+        "33624"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Altamira",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Altamirano (Loma Grande)",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Altavista",
+      "postal_code": [
+        "33625"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Ampliacion Altamirano",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Ampliacion de las Varas",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Ampliacion las Mercedes",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Ancon de Carros",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Arboleda",
+      "postal_code": [
+        "33624"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Armando Lopez",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Arrieta (El Eden)",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Arturo Rodriguez",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Aurelia",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "33626",
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Carlos A. Madrazo (Kilometro Cincuenta y Nueve)",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Carlos Chavira Becerra",
+      "postal_code": [
+        "33624"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Cerro Prieto",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Cerro Solo",
+      "postal_code": [
+        "33643"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Changay",
+      "postal_code": [
+        "33623"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Cipriano Licon (San Rafael)",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Claudia",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Conchos [Corrales]",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Contrayerbas (Rancho de los Cueto)",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Corral de Barranco",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Cuadra los Garcia",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Cuernavaca",
+      "postal_code": [
+        "33635"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Dagoberto Licon",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "David Armendariz",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Dos de Mayo",
+      "postal_code": [
+        "33636"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Ejido Carboneras",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Ejido Conchos",
+      "postal_code": [
+        "33644"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Aturdido",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Brujulo",
+      "postal_code": [
+        "33645"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Castillo",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Chimino",
+      "postal_code": [
+        "33636"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Chumale",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Chutis",
+      "postal_code": [
+        "33645"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Ciento Veintinueve",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Colibri",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Compadre",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Cozon",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Criollo",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Cueteno",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Delfin [Club de Pesca]",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Eleazar Mata",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Eden [Establo]",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Gato Negro",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Gato Negro (Veintiuno de Junio)",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Gavilan (La Presa)",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Gomeno",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Hangar",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Indio",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Malabar",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Membrillo",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Mezquite",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Milagro",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Milagro (Contrayerbas)",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Mimbre",
+      "postal_code": [
+        "33633",
+        "33637",
+        "33644"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Minero",
+      "postal_code": [
+        "33635"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "33625",
+        "33633",
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Nogal",
+      "postal_code": [
+        "33633",
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Ojo",
+      "postal_code": [
+        "33647"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Once",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Pajarito",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Palomar",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "33633",
+        "33633",
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Pino",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Porvenir (El Tepetongo)",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Quelite",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Ranchito de Armendariz",
+      "postal_code": [
+        "33627"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Recuerdo",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Refugio [Viveros]",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Regreso",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Retiro",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Rincon",
+      "postal_code": [
+        "33645"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Rio",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Salvador (El Porvenir)",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Sesenta",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Siete",
+      "postal_code": [
+        "33645"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Socorro",
+      "postal_code": [
+        "33633",
+        "33635"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Soldado",
+      "postal_code": [
+        "33643"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Tecolote",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Tepopote",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Tocayo",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Uno",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "El Vergel",
+      "postal_code": [
+        "33633",
+        "33645"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Espiritu Santo",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Estacion Conchos",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Estacion Saucillo",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Fatima",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Francisco I. Madero (El Gato Negro)",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Gandarilla",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "General Joaquin Amaro",
+      "postal_code": [
+        "33646"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Gonzalenas",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Granja Bunsow",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Granja Carlos Loya",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Granja de la Gringa",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Granja Familia Carrillo",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Granja Gandarilla",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Granja la Llave",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Granja la Providencia",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Granja Maria Elena",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Granja Nunez",
+      "postal_code": [
+        "33633",
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Granja Rio Conchos",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Granja Rio Grande",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Granja Santa Monica",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Granjas Santa Martha",
+      "postal_code": [
+        "33645"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Granja Tres Hermanos",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Grupo los Sesenta y Siete [Asociacion de Granjeros",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "33624",
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Guadalupe Martinez",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Hacienda San Marcos",
+      "postal_code": [
+        "33626"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Hermanos Medina [Lienzo Charro]",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Hermanos Mendoza",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Huerta Aurora",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Jacinto Magallanes",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Jerico",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Jesus Faudoa",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Jesus Rivera",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Jose Ahued",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Jose Urrutia",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Kilometro Cincuenta y Nueve",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Kilometro Treinta y Nueve",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Adelita",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Aurora",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Aurora (Los Marquez)",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Azteca",
+      "postal_code": [
+        "33646"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Bandera",
+      "postal_code": [
+        "33644"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Cajuela",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Campena",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Chancla",
+      "postal_code": [
+        "33627"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Chavena",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Cuadra",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Cuadra [Establo]",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Escondida [Corrales]",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Esmeralda",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "33633",
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Famosa Division del Norte (Tortuguillas)",
+      "postal_code": [
+        "33645"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Fe",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Florena",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Frontera",
+      "postal_code": [
+        "33637",
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Gloria",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Laguna Seca",
+      "postal_code": [
+        "33645"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Lagunetas",
+      "postal_code": [
+        "33636"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Loma de Lara",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Luz",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Milagrosa",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Palma",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Pedrera",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Pedrera (Los Mendoza)",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Presita",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "33637",
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Rabona",
+      "postal_code": [
+        "33634"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Rinconada",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Rosetilla",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Las Acequias",
+      "postal_code": [
+        "33627"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Las Alicias",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Las Alvarenas",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Las Carboneras",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Las Cuchillas",
+      "postal_code": [
+        "33644",
+        "33644"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Las Helenas",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Las Hortensias",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Las Julietas",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Las Margaritas",
+      "postal_code": [
+        "33637",
+        "33645"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Las Mercedes",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Las Palmeras",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Las Tres Palmas",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Las Varas",
+      "postal_code": [
+        "33630"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Las Yolandas",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Terracena",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Tortola",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Tortuga",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Vaquena",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Venada",
+      "postal_code": [
+        "33636"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Venadita",
+      "postal_code": [
+        "33645"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Vina",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "La Virgen",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Loma Chica",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Loma de Chavarria (Santa Rita)",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Alvarado",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los alvarez",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Apodaca",
+      "postal_code": [
+        "33633",
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Baeza",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Bernal",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Cano (San Felipe de Jesus)",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Cardenales",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Faudoa",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Herrera",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Huizaches",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Lamentos (Los Reyes)",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Lara",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "33645"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Limas",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Llorones",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Martinez",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Martinez II",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Nogales",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Ocon",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "33637",
+        "33645"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Pozos",
+      "postal_code": [
+        "33644"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Prieto",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Ramirez",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Ramos",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Rey",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Rodriguez",
+      "postal_code": [
+        "33637",
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Salas",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Salazar",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Sanchez",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Sepulveda",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Tarango",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Los Tres Sietes",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Lote Ciento Quince Tres (El Embudo)",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Lote Ciento Siete Dos",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Luis Donaldo Colosio",
+      "postal_code": [
+        "33625"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Luis Flores",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Margaritas",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Maria",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Maria de los angeles Martinez",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Maria Vargas",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Matias Bejarano",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Miguel Ronquillo",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Mi Ranchito",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Mi Ranchito (Los Acosta)",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Naica",
+      "postal_code": [
+        "33640"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Ninguno [Campo de Golf]",
+      "postal_code": [
+        "33645"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Nogales Okinawa",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "No Me Olvides",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Nuevo Saucillo",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Orranteno",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Pablo Gomez",
+      "postal_code": [
+        "33626"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Palma Sola",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Palos Clavados",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Palos Parados",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Parritas",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Picacho de Abajo (Urruteno)",
+      "postal_code": [
+        "33644"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Piedra de Lumbre",
+      "postal_code": [
+        "33637",
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Plan de alamos",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "PRI",
+      "postal_code": [
+        "33625"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Prospereno",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Pueblo Quieto",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Puerto del Toro",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Ramon Gallegos",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho ARZ (El Acuerdo)",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho Baeza",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho Carrasco",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho de Carrillo",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho de Gomez",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho de Madero",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho Dos Hermanos (Hermanos Cardenas)",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho el Canal",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho el Huevo",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho el Socorro",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho Grande",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho Guerrero Hernandez",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho la Mora",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho la Otra",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho la Piedra",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho la Pollera (Cuatro Hermanos)",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho la Quinta",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho los Tres Octavios",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho Nogales",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho Nueve de Abril",
+      "postal_code": [
+        "33644"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho Nueve de Enero",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "33644"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho Ramon Aragon Chavez",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho Rocio",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho Ruben Ontiveros",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho Salcido",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho San Carlos",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho San Jose",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho San Juan",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho San Luis",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho Santa Librada",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho Veintiuno de Marzo",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rancho Zambrano",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rene Cadena",
+      "postal_code": [
+        "33645"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rio Conchos INFONAVIT",
+      "postal_code": [
+        "33626"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Roberto Burrola",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rodrigo M. Quevedo",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Ronquillo",
+      "postal_code": [
+        "33636"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Rosalio Hernandez",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Ruben Lopez",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Salgadeno",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Salsipuedes",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "San Andres",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "33633",
+        "33637",
+        "33637",
+        "33644"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "San Bernardino [Corrales]",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "San Carlos",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "San Esteban",
+      "postal_code": [
+        "33633",
+        "33635"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "San Francisco del Mezquital",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "San Ignacio [Corrales]",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "San Jose",
+      "postal_code": [
+        "33633",
+        "33636",
+        "33637",
+        "33637",
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "San Jose de Colomo",
+      "postal_code": [
+        "33635"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "San Jose de los Pozos",
+      "postal_code": [
+        "33636"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "San Jose (La Escondida)",
+      "postal_code": [
+        "33636"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "San Juanito",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "San Judas Tadeo",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "San Judas Tadeo (El Gringo)",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "San Lorenzo [Cocedores]",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "33636",
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "San Martin",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Santa Eduviges",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "33637",
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Santa Gertrudis (La Hacienda)",
+      "postal_code": [
+        "33647"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Santa Maria",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Santa Martha",
+      "postal_code": [
+        "33635"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Santa Ofelia",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Santa Ofelia (Charco Azul) [Corrales]",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "33634",
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "33633",
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Santa Teresa",
+      "postal_code": [
+        "33633",
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Santo Tomas",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "San Vicente",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Saucillo 2000",
+      "postal_code": [
+        "33624"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Saucillo Centro",
+      "postal_code": [
+        "33620"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Saucillo [Queseria]",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Solicenas",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Subida Alta",
+      "postal_code": [
+        "33637",
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Sucirio",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Tacubaya",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Tacubaya II",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Tomas Cueto",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Tortuguillas",
+      "postal_code": [
+        "33644"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Tres Hermanos",
+      "postal_code": [
+        "33633",
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Tres Marias",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Tres Pinos",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Tres Veintidos",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Trincheras",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Trinidad Hernandez",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Valparaiso",
+      "postal_code": [
+        "33633"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Veintitres",
+      "postal_code": [
+        "33637"
+      ]
+    },
+    {
+      "city": "Saucillo",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "33637"
+      ]
+    }
+  ]
+}

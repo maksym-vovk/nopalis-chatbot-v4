@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "city": "San Felipe Tejalapam",
+      "colonia": "Jalapa Del Valle",
+      "postal_code": [
+        "68262"
+      ]
+    },
+    {
+      "city": "San Felipe Tejalapam",
+      "colonia": "La Union",
+      "postal_code": [
+        "68260",
+        "68262"
+      ]
+    },
+    {
+      "city": "San Felipe Tejalapam",
+      "colonia": "San Felipe Tejalapam",
+      "postal_code": [
+        "68260"
+      ]
+    }
+  ]
+}

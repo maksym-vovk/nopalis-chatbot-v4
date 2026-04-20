@@ -1,0 +1,509 @@
+{
+  "data": [
+    {
+      "city": "Paraiso",
+      "colonia": "Adalberto Santos",
+      "postal_code": [
+        "86609"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Andres Garcia la Isla",
+      "postal_code": [
+        "86613"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Aquiles Serdan",
+      "postal_code": [
+        "86620",
+        "86621"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Bahias del Sol",
+      "postal_code": [
+        "86608"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Barra de Tupilco",
+      "postal_code": [
+        "86603"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Belo Horizonte",
+      "postal_code": [
+        "86608"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Blancas Mariposas",
+      "postal_code": [
+        "86615"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Campestre del Lago",
+      "postal_code": [
+        "86617"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Carlos A Madrazo Becerra",
+      "postal_code": [
+        "86608"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Chilpetec Seccion Banco",
+      "postal_code": [
+        "86613"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Chiltepec (Puerto Chiltepec)",
+      "postal_code": [
+        "86620"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Chiltepec (Seccion Penjamo)",
+      "postal_code": [
+        "86613"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Chiltepec (Seccion Tanque)",
+      "postal_code": [
+        "86620"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Costa Real",
+      "postal_code": [
+        "86600"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "El Bellote (Miguel de la Madrid)",
+      "postal_code": [
+        "86613"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "El Coquito",
+      "postal_code": [
+        "86609"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "El Escribano",
+      "postal_code": [
+        "86600"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "El Limon",
+      "postal_code": [
+        "86606"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "El Limoncito",
+      "postal_code": [
+        "86606"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Empleados de Confianza",
+      "postal_code": [
+        "86606"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Fonhapo",
+      "postal_code": [
+        "86608"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "86600"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Francisco I. Madero 2da. Seccion",
+      "postal_code": [
+        "86600"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Francisco I. Madero (Madero)",
+      "postal_code": [
+        "86600"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "86608"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Guano Solo (El Coquito)",
+      "postal_code": [
+        "86618"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Hueso de Puerco (Colonia Quintin Arauz)",
+      "postal_code": [
+        "86608"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Jose Maria Morelos y Pavon (El Bellote)",
+      "postal_code": [
+        "86611"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "La Ceiba",
+      "postal_code": [
+        "86607"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "La Continuidad",
+      "postal_code": [
+        "86607"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "La Deportiva",
+      "postal_code": [
+        "86608"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "86609"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Las Flores 1a Secc",
+      "postal_code": [
+        "86600"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Las Flores 2a Secc",
+      "postal_code": [
+        "86600"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Las Flores 3ra. Seccion (El Cerro)",
+      "postal_code": [
+        "86601"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Las Palmas",
+      "postal_code": [
+        "86607"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "La Union 1ra. Seccion (Amatillo)",
+      "postal_code": [
+        "86600"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "La Union 2a Secc",
+      "postal_code": [
+        "86602"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "La Union 3ra Seccion",
+      "postal_code": [
+        "86618"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "86606"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Libertad 1ra. Seccion (El Chivero)",
+      "postal_code": [
+        "86611"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Libertad 2a Secc",
+      "postal_code": [
+        "86617"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Los Cocos",
+      "postal_code": [
+        "86607"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Los Mangos",
+      "postal_code": [
+        "86608"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Los Olivos",
+      "postal_code": [
+        "86608"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "86607"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Moctezuma 1ra. Seccion",
+      "postal_code": [
+        "86600"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Moctezuma 2da. Seccion",
+      "postal_code": [
+        "86600"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Moctezuma 3a Seccion",
+      "postal_code": [
+        "86616"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Moctezuma (Francisco I. Madero 3ra. Seccion)",
+      "postal_code": [
+        "86600"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Monte Adentro",
+      "postal_code": [
+        "86615"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Nicolas Bravo",
+      "postal_code": [
+        "86617"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Nicolas Bravo 2da. Seccion (La Gloria)",
+      "postal_code": [
+        "86617"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Nicolas Bravo 3a Secc",
+      "postal_code": [
+        "86617"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Nicolas Bravo 4ta. Seccion (Tilapa)",
+      "postal_code": [
+        "86617"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Nicolas Bravo 5ta. Seccion (Punta Brava)",
+      "postal_code": [
+        "86617"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Nuevo Torno Largo",
+      "postal_code": [
+        "86613"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Occidente (San Francisco)",
+      "postal_code": [
+        "86616"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Oriente 1a Seccion",
+      "postal_code": [
+        "86615"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Oriente 2a Seccion (Palma Hueca)",
+      "postal_code": [
+        "86617"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Oriente (San Cayetano)",
+      "postal_code": [
+        "86615"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Oriente Seccion Hormiguero",
+      "postal_code": [
+        "86616"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Palestina",
+      "postal_code": [
+        "86617"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Paraiso Centro",
+      "postal_code": [
+        "86605"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Petrolera",
+      "postal_code": [
+        "86606"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Potreritos",
+      "postal_code": [
+        "86616"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Primavera",
+      "postal_code": [
+        "86608"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Privada La Ceiba",
+      "postal_code": [
+        "86607"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Puerto Ceiba",
+      "postal_code": [
+        "86610"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Puerto Ceiba (Carrizal)",
+      "postal_code": [
+        "86610"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Quintin Arauz",
+      "postal_code": [
+        "86608"
+      ]
+    },
+    {
+      "city": "Paraiso",
+      "colonia": "Residencial Paraiso",
+      "postal_code": [
+        "86607"
+      ]
+    }
+  ]
+}

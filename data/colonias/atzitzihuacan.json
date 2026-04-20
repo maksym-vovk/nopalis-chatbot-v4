@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "city": "Atzitzihuacan",
+      "colonia": "San Francisco Xochiteopan",
+      "postal_code": [
+        "74505"
+      ]
+    },
+    {
+      "city": "Atzitzihuacan",
+      "colonia": "San Juan Amecac",
+      "postal_code": [
+        "74505"
+      ]
+    },
+    {
+      "city": "Atzitzihuacan",
+      "colonia": "San Juan Tejupa",
+      "postal_code": [
+        "74507"
+      ]
+    },
+    {
+      "city": "Atzitzihuacan",
+      "colonia": "San Mateo Coatepec",
+      "postal_code": [
+        "74505"
+      ]
+    },
+    {
+      "city": "Atzitzihuacan",
+      "colonia": "San Miguel Aguacomulican",
+      "postal_code": [
+        "74508"
+      ]
+    },
+    {
+      "city": "Atzitzihuacan",
+      "colonia": "San Pedro Izhuatepec",
+      "postal_code": [
+        "74506"
+      ]
+    },
+    {
+      "city": "Atzitzihuacan",
+      "colonia": "Santiago Atzitzihuacan",
+      "postal_code": [
+        "74500"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,537 @@
+{
+  "data": [
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Acatlajapa",
+      "postal_code": [
+        "43127"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Acoxcatlan",
+      "postal_code": [
+        "43123"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Acoyotla",
+      "postal_code": [
+        "43130"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Acuimantla",
+      "postal_code": [
+        "43130"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Agua Bendita",
+      "postal_code": [
+        "43138"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Ahuatetla",
+      "postal_code": [
+        "43127"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Almolo (San Isidro)",
+      "postal_code": [
+        "43127"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Amatitla",
+      "postal_code": [
+        "43139"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Amola de Ocampo",
+      "postal_code": [
+        "43127"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Apantla",
+      "postal_code": [
+        "43130"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Aquilastec",
+      "postal_code": [
+        "43121"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Auescalli",
+      "postal_code": [
+        "43130"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Cahuazaz de Morelos (Rancho Alegre)",
+      "postal_code": [
+        "43138"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Chacola",
+      "postal_code": [
+        "43130"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Chahuatitla",
+      "postal_code": [
+        "43138"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Chalahuite",
+      "postal_code": [
+        "43138"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Chilijapa",
+      "postal_code": [
+        "43124"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Choquintla (San Nicolas Choquintla)",
+      "postal_code": [
+        "43124"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Coyutla",
+      "postal_code": [
+        "43127"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Cuatolol",
+      "postal_code": [
+        "43130"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Cuazahuatl",
+      "postal_code": [
+        "43124"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "El Aguacate",
+      "postal_code": [
+        "43126"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "El Barco",
+      "postal_code": [
+        "43139"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "El Camposanto",
+      "postal_code": [
+        "43124"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "El Chote",
+      "postal_code": [
+        "43132"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "El Durazno",
+      "postal_code": [
+        "43126"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "El Naranjal",
+      "postal_code": [
+        "43126",
+        "43127"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "El Remolino",
+      "postal_code": [
+        "43138"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "El Zacatal de los Rozales",
+      "postal_code": [
+        "43130"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Epixtla",
+      "postal_code": [
+        "43123"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Guadalupe (Otongo)",
+      "postal_code": [
+        "43123"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Huixquilico",
+      "postal_code": [
+        "43138"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Ixcuatitla",
+      "postal_code": [
+        "43138"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Ixtlapalaco",
+      "postal_code": [
+        "43138"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "La Ceiba",
+      "postal_code": [
+        "43127"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "La Escondida",
+      "postal_code": [
+        "43132"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "La Palma",
+      "postal_code": [
+        "43125"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "La Reforma",
+      "postal_code": [
+        "43132"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Las Golondrinas",
+      "postal_code": [
+        "43139"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Olcuatla",
+      "postal_code": [
+        "43135"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Petlapixca",
+      "postal_code": [
+        "43139"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Poxtatla",
+      "postal_code": [
+        "43127"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Pueblo Nuevo",
+      "postal_code": [
+        "43139"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "San Andres",
+      "postal_code": [
+        "43132"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "43131"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "San Felipe Teteltipa",
+      "postal_code": [
+        "43139"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "San Juan Ahuehueco",
+      "postal_code": [
+        "43127"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "San Miguel Ayotempa",
+      "postal_code": [
+        "43123"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "San Simon",
+      "postal_code": [
+        "43130"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Santo Nino",
+      "postal_code": [
+        "43127"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Soyuco",
+      "postal_code": [
+        "43135"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Tamala",
+      "postal_code": [
+        "43130"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Tenango",
+      "postal_code": [
+        "43135"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Tepala",
+      "postal_code": [
+        "43139"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Tepehuacan de Guerrero Centro",
+      "postal_code": [
+        "43120"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Tetipa",
+      "postal_code": [
+        "43124"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Tetlapaya",
+      "postal_code": [
+        "43139"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Texcapa",
+      "postal_code": [
+        "43130"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Texopich",
+      "postal_code": [
+        "43139"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Teyahuala",
+      "postal_code": [
+        "43127"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Tizapa",
+      "postal_code": [
+        "43126"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Tlacuilola (Poza Verde)",
+      "postal_code": [
+        "43139"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Tlaica",
+      "postal_code": [
+        "43139"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Tlalica (El Rancho del Padre)",
+      "postal_code": [
+        "43130"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Tlapexmecaapa",
+      "postal_code": [
+        "43139"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Tlaxcala",
+      "postal_code": [
+        "43126"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Tzoletla",
+      "postal_code": [
+        "43139"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Versayes",
+      "postal_code": [
+        "43138"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Villa de Ocampo",
+      "postal_code": [
+        "43135"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Vista de Tenango",
+      "postal_code": [
+        "43135"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Xalamatitla",
+      "postal_code": [
+        "43139"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Xiliapa",
+      "postal_code": [
+        "43139"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Xilitla",
+      "postal_code": [
+        "43130"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Zacatal (San Maiz)",
+      "postal_code": [
+        "43127"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Zacatlamaya",
+      "postal_code": [
+        "43123"
+      ]
+    },
+    {
+      "city": "Tepehuacan de Guerrero",
+      "colonia": "Zacualtipanito",
+      "postal_code": [
+        "43139"
+      ]
+    }
+  ]
+}

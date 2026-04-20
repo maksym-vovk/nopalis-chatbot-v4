@@ -1,0 +1,600 @@
+{
+  "data": [
+    {
+      "city": "Calakmul",
+      "colonia": "10 de Mayo",
+      "postal_code": [
+        "24640"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "11 de Mayo",
+      "postal_code": [
+        "24647"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "16 de Septiembre",
+      "postal_code": [
+        "24646"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "20 de Noviembre",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "21 de Mayo (Lechugal)",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Arroyo Negro",
+      "postal_code": [
+        "24647"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Aviacion",
+      "postal_code": [
+        "24640"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Balanku",
+      "postal_code": [
+        "24653"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Becan",
+      "postal_code": [
+        "24643"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Bel-ha",
+      "postal_code": [
+        "24644"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Bella Union de Veracruz",
+      "postal_code": [
+        "24646"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Bellavista",
+      "postal_code": [
+        "24640"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Blasillo",
+      "postal_code": [
+        "24646"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Bugambilias",
+      "postal_code": [
+        "24640"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Cana Brava",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Carlos A Madrazo",
+      "postal_code": [
+        "24646"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Centauro del Norte",
+      "postal_code": [
+        "24648"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Central Chiclera Villahermosa",
+      "postal_code": [
+        "24656"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Cerro de las Flores (Sta. Rosa)",
+      "postal_code": [
+        "24646"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Chicana",
+      "postal_code": [
+        "24643"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Concepcion",
+      "postal_code": [
+        "24658"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Constitucion",
+      "postal_code": [
+        "24658"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Cristobal Colon",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Dos Lagunas",
+      "postal_code": [
+        "24644",
+        "24647"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Dos Naciones",
+      "postal_code": [
+        "24647"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "El Carmen II",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "El Chichonal",
+      "postal_code": [
+        "24643"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "El Manantial",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "24644"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "El Tesoro",
+      "postal_code": [
+        "24646"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "24654"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Eugenio Echeverria Castellot (El Carrizal)",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Felipe angeles",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Felipe angeles II",
+      "postal_code": [
+        "24654"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Fundadores",
+      "postal_code": [
+        "24640"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Gral. Manuel Castilla Brito Km. 17",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Gustavo Diaz Ordaz (San Antonio Soda)",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Heriberto Jara Corona",
+      "postal_code": [
+        "24643"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Hermenegildo Galeana",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Ingeniero Eugenio Echeverria Castellot",
+      "postal_code": [
+        "24654"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "ing. Ricardo Payro Jene (polo Norte)",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Jardines",
+      "postal_code": [
+        "24640"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Josefa Ortiz de Dominguez (Icaiche)",
+      "postal_code": [
+        "24646"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Jose Ma. Morelos y Pavon",
+      "postal_code": [
+        "24647"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Justo Sierra Mendez",
+      "postal_code": [
+        "24647"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "La Guadalupe",
+      "postal_code": [
+        "24648"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "La Lucha",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "La Victoria",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "La Virgencita de La Candelaria",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Lazaro Cardenas 2 (ojo de Agua)",
+      "postal_code": [
+        "24646"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Ley de Fomento Agropecuario (La Misteriosa)",
+      "postal_code": [
+        "24647"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Los Alacranes",
+      "postal_code": [
+        "24646"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Los Tambores de Emiliano Zapata",
+      "postal_code": [
+        "24646"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Lucha",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Manuel Cresencio Rejon",
+      "postal_code": [
+        "24646"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Narciso Mendoza",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Nueva Vida",
+      "postal_code": [
+        "24644"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Nuevo Becal",
+      "postal_code": [
+        "24644"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Nuevo Campanario",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Nuevo Conhuas",
+      "postal_code": [
+        "24653"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Nuevo Progreso 3",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Nuevo San Jose",
+      "postal_code": [
+        "24646"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Nuevo Veracruz",
+      "postal_code": [
+        "24646"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Pablo Garcia",
+      "postal_code": [
+        "24658"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Pioneros del Rio Xnoha",
+      "postal_code": [
+        "24646"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Plan de Ayala (5 de Mayo)",
+      "postal_code": [
+        "24646"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Plan de San Luis",
+      "postal_code": [
+        "24643"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Puebla de Morelia",
+      "postal_code": [
+        "24654"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Quiche las Pailas",
+      "postal_code": [
+        "24646"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "24644"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "San Jose",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "San Miguel",
+      "postal_code": [
+        "24647"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Santa Lucia",
+      "postal_code": [
+        "24658"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "24647"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Tepeyac",
+      "postal_code": [
+        "24644"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Tomas Aznar Barbachano",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Unidad y Trabajo",
+      "postal_code": [
+        "24645"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Union 20 de Junio",
+      "postal_code": [
+        "24644"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Valentin Gomez Farias",
+      "postal_code": [
+        "24643"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Xbonil",
+      "postal_code": [
+        "24658"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Xpujil",
+      "postal_code": [
+        "24640"
+      ]
+    },
+    {
+      "city": "Calakmul",
+      "colonia": "Zoh-laguna (Alvaro Obregon)",
+      "postal_code": [
+        "24644"
+      ]
+    }
+  ]
+}

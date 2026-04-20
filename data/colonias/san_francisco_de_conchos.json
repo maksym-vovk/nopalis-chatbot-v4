@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "city": "San Francisco de Conchos",
+      "colonia": "Amparaneno",
+      "postal_code": [
+        "33682"
+      ]
+    },
+    {
+      "city": "San Francisco de Conchos",
+      "colonia": "Boquilla de Babisas (La Boquilla del Conchos)",
+      "postal_code": [
+        "33690"
+      ]
+    },
+    {
+      "city": "San Francisco de Conchos",
+      "colonia": "El Molino",
+      "postal_code": [
+        "33683",
+        "33693"
+      ]
+    },
+    {
+      "city": "San Francisco de Conchos",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "33681"
+      ]
+    },
+    {
+      "city": "San Francisco de Conchos",
+      "colonia": "San Ambrosio (La Hacienda)",
+      "postal_code": [
+        "33683"
+      ]
+    },
+    {
+      "city": "San Francisco de Conchos",
+      "colonia": "San Francisco de Conchos",
+      "postal_code": [
+        "33680"
+      ]
+    }
+  ]
+}

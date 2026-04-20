@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "San Juan Teposcolula",
+      "colonia": "La Rosa",
+      "postal_code": [
+        "69564"
+      ]
+    },
+    {
+      "city": "San Juan Teposcolula",
+      "colonia": "Refugio de Morelos",
+      "postal_code": [
+        "69563"
+      ]
+    },
+    {
+      "city": "San Juan Teposcolula",
+      "colonia": "San Juan Teposcolula",
+      "postal_code": [
+        "69560"
+      ]
+    },
+    {
+      "city": "San Juan Teposcolula",
+      "colonia": "San Miguel Marcos Perez",
+      "postal_code": [
+        "69561"
+      ]
+    },
+    {
+      "city": "San Juan Teposcolula",
+      "colonia": "Santa Maria Pozoltepec",
+      "postal_code": [
+        "69562"
+      ]
+    }
+  ]
+}

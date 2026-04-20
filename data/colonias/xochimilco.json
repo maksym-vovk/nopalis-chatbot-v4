@@ -1,0 +1,729 @@
+{
+  "data": [
+    {
+      "city": "Xochimilco",
+      "colonia": "18",
+      "postal_code": [
+        "16034"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "3 de Mayo",
+      "postal_code": [
+        "16606"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Ahualapa",
+      "postal_code": [
+        "16533"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Ampliacion La Noria",
+      "postal_code": [
+        "16030"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Ampliacion Nativitas",
+      "postal_code": [
+        "16459"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Ampliacion San Marcos Norte",
+      "postal_code": [
+        "16038"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Ampliacion Tepepan",
+      "postal_code": [
+        "16029"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Ano de Juarez",
+      "postal_code": [
+        "16440"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Apatlaco",
+      "postal_code": [
+        "16513"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Belen",
+      "postal_code": [
+        "16070"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Bosque Residencial del Sur",
+      "postal_code": [
+        "16010"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Calpulco",
+      "postal_code": [
+        "16514"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Calyequita",
+      "postal_code": [
+        "16750"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Cerrillos Primera Seccion",
+      "postal_code": [
+        "16780"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Cerrillos Segunda Seccion",
+      "postal_code": [
+        "16780"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Cerrillos Tercera Seccion",
+      "postal_code": [
+        "16780"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Chapultepec",
+      "postal_code": [
+        "16850"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Cristo Rey",
+      "postal_code": [
+        "16780"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Del Carmen",
+      "postal_code": [
+        "16720"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Del Puente",
+      "postal_code": [
+        "16513"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "El Calvario",
+      "postal_code": [
+        "16813"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "El Jazmin",
+      "postal_code": [
+        "16428"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "16060",
+        "16776"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "El Rosario",
+      "postal_code": [
+        "16070"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "El Sacrificio",
+      "postal_code": [
+        "16780"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Guadalupita",
+      "postal_code": [
+        "16740"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Huichapan",
+      "postal_code": [
+        "16030"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Jardines del Sur",
+      "postal_code": [
+        "16050"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "La Asuncion",
+      "postal_code": [
+        "16040",
+        "16615"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "La Canada",
+      "postal_code": [
+        "16310"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "La Candelaria",
+      "postal_code": [
+        "16609"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "La Concepcion Tlacoapa",
+      "postal_code": [
+        "16000"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "La Concha",
+      "postal_code": [
+        "16210"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "La Gallera",
+      "postal_code": [
+        "16514"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "La Guadalupana",
+      "postal_code": [
+        "16629"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "La Guadalupita",
+      "postal_code": [
+        "16070"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "La Noria",
+      "postal_code": [
+        "16030"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "La Planta",
+      "postal_code": [
+        "16520"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Las Animas",
+      "postal_code": [
+        "16749"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "La Santisima",
+      "postal_code": [
+        "16080"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Las Cruces",
+      "postal_code": [
+        "16530"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "16530"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Las Mesitas",
+      "postal_code": [
+        "16799"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Las Peritas",
+      "postal_code": [
+        "16010"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Lomas de Nativitas",
+      "postal_code": [
+        "16457"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Lomas de Tonalco",
+      "postal_code": [
+        "16410"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Los Reyes",
+      "postal_code": [
+        "16605"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Mercado de Flores Plantas y Hortalizas",
+      "postal_code": [
+        "16036"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Nativitas",
+      "postal_code": [
+        "16797"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "16614"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Paseos del Sur",
+      "postal_code": [
+        "16010"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Pocitos",
+      "postal_code": [
+        "16443"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Potrero de San Bernardino",
+      "postal_code": [
+        "16030"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Quirino Mendoza",
+      "postal_code": [
+        "16710"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Rancho Tejomulco",
+      "postal_code": [
+        "16429"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Rinconada Coapa",
+      "postal_code": [
+        "16035"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Rosario Tlali",
+      "postal_code": [
+        "16810"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Andres",
+      "postal_code": [
+        "16604"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Andres Ahuayucan",
+      "postal_code": [
+        "16810"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "16000",
+        "16607"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Bartolo El Chico",
+      "postal_code": [
+        "16010"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Cristobal",
+      "postal_code": [
+        "16080"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Diego",
+      "postal_code": [
+        "16080"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Esteban",
+      "postal_code": [
+        "16080"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Felipe",
+      "postal_code": [
+        "16770"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Francisco Tlalnepantla",
+      "postal_code": [
+        "16900"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Gregorio Atlapulco",
+      "postal_code": [
+        "16600"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "16739"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Jeronimo",
+      "postal_code": [
+        "16420"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Jose",
+      "postal_code": [
+        "16620"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Juan",
+      "postal_code": [
+        "16000",
+        "16629"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Juan Minas",
+      "postal_code": [
+        "16640"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Juan Moyotepec",
+      "postal_code": [
+        "16630"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Juan Tepepan",
+      "postal_code": [
+        "16020"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "16040"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Lorenzo Atemoaya",
+      "postal_code": [
+        "16400"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Lorenzo La Cebada",
+      "postal_code": [
+        "16035"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Lucas Oriente",
+      "postal_code": [
+        "16320"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Lucas Xochimanca",
+      "postal_code": [
+        "16300"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Luis Tlaxialtemalco",
+      "postal_code": [
+        "16610"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "16050"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Mateo Xalpa",
+      "postal_code": [
+        "16800"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Pedro",
+      "postal_code": [
+        "16090"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "San Sebastian",
+      "postal_code": [
+        "16617"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Santa Cecilia",
+      "postal_code": [
+        "16616"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Santa Cecilia Tepetlapa",
+      "postal_code": [
+        "16880"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Santa Crucita",
+      "postal_code": [
+        "16070"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Santa Cruz Acalpixca",
+      "postal_code": [
+        "16500"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Santa Cruz Chavarrieta",
+      "postal_code": [
+        "16840"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Santa Cruz de Guadalupe",
+      "postal_code": [
+        "16860"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Santa Cruz Xochitepec",
+      "postal_code": [
+        "16100"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Santa Ines",
+      "postal_code": [
+        "16810"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Santa Maria Nativitas",
+      "postal_code": [
+        "16450"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Santa Maria Tepepan",
+      "postal_code": [
+        "16020"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Santiago Tepalcatlalpan",
+      "postal_code": [
+        "16200"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Santiaguito",
+      "postal_code": [
+        "16776"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Tablas de San Lorenzo",
+      "postal_code": [
+        "16090"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Tetitla",
+      "postal_code": [
+        "16514"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Texmic",
+      "postal_code": [
+        "16340"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Tierra Nueva",
+      "postal_code": [
+        "16050"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Valle de Santa Maria",
+      "postal_code": [
+        "16550"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Xaltocan",
+      "postal_code": [
+        "16090"
+      ]
+    },
+    {
+      "city": "Xochimilco",
+      "colonia": "Xochipilli",
+      "postal_code": [
+        "16430"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,894 @@
+{
+  "data": [
+    {
+      "city": "Galeana",
+      "colonia": "Agua Nueva (El Pozo)",
+      "postal_code": [
+        "67878"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Alfredo V. Bonfil (La Lagunita)",
+      "postal_code": [
+        "67860"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Aquiles Serdan (La Hediondilla)",
+      "postal_code": [
+        "67863"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Barrio de Jalisco (Jalisco)",
+      "postal_code": [
+        "67850"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Calabacillas",
+      "postal_code": [
+        "67873"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Cienega del Toro",
+      "postal_code": [
+        "67860"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Congregacion de San Pablo",
+      "postal_code": [
+        "67866"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Del Maestro Segundo Sector",
+      "postal_code": [
+        "67850"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Dieciocho de Marzo",
+      "postal_code": [
+        "67856"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "El Anhelo",
+      "postal_code": [
+        "67867"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "El Barrocito",
+      "postal_code": [
+        "67853"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "El Canelito",
+      "postal_code": [
+        "67853"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "El Carmen",
+      "postal_code": [
+        "67854"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "El Castillo",
+      "postal_code": [
+        "67868"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "El Cedral",
+      "postal_code": [
+        "67856"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "El Chamizal",
+      "postal_code": [
+        "67850"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "El Cristal",
+      "postal_code": [
+        "67850"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "El Cuije",
+      "postal_code": [
+        "67860"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "El Derramadero",
+      "postal_code": [
+        "67856"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "El Encinal (Puerto el Encinal de la Poza)",
+      "postal_code": [
+        "67877"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "El Erial",
+      "postal_code": [
+        "67860"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "El Milagro",
+      "postal_code": [
+        "67864"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "67850"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "El Molino",
+      "postal_code": [
+        "67875"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "El Palmito",
+      "postal_code": [
+        "67878"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "El Penuelo",
+      "postal_code": [
+        "67853"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "El Potosi",
+      "postal_code": [
+        "67850"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "El Potrero de Prieto",
+      "postal_code": [
+        "67850"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "El Potrero Prieto de Arriba",
+      "postal_code": [
+        "67850"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "El Prado (El Mezquite)",
+      "postal_code": [
+        "67860"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "El Refugio (Refugio de los Ranchos)",
+      "postal_code": [
+        "67860"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "El Tepozan",
+      "postal_code": [
+        "67870"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "El Tokio",
+      "postal_code": [
+        "67855"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Entronque San Roberto",
+      "postal_code": [
+        "67855"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Estados Unidos",
+      "postal_code": [
+        "67867"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "67864"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Galeana",
+      "postal_code": [
+        "67850"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Jesus Maria Aguirre (Puerto de Nopalillos)",
+      "postal_code": [
+        "67874"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Jose Salazar Reyna",
+      "postal_code": [
+        "67850"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Joyas de Agua Fria",
+      "postal_code": [
+        "67875"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "La Boca del Refugio",
+      "postal_code": [
+        "67865"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Labradores",
+      "postal_code": [
+        "67850"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "La Carbonera",
+      "postal_code": [
+        "67863"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "La Casita",
+      "postal_code": [
+        "67860"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "La Concha",
+      "postal_code": [
+        "67860"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "La Esperanza (El Coyote)",
+      "postal_code": [
+        "67860"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Laguna de Labradores",
+      "postal_code": [
+        "67850"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "La Lagunita (El Orito)",
+      "postal_code": [
+        "67857"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "La Leona",
+      "postal_code": [
+        "67870"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "La Nueva Esmeralda (Nuevo Poblado de la Esmeralda)",
+      "postal_code": [
+        "67867"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "La Nueva Primavera",
+      "postal_code": [
+        "67877"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "La Paz",
+      "postal_code": [
+        "67864"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "La Poza",
+      "postal_code": [
+        "67877"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "La Presita de Berlanga",
+      "postal_code": [
+        "67870"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "La Primavera (El Charco)",
+      "postal_code": [
+        "67855"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "67860"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Las Delicias",
+      "postal_code": [
+        "67863"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Las Esperanzas",
+      "postal_code": [
+        "67860"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "67864"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "La Y de Arriba",
+      "postal_code": [
+        "67877"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Los Adobes",
+      "postal_code": [
+        "67864"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Los Llanitos",
+      "postal_code": [
+        "67857"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Los Mimbres",
+      "postal_code": [
+        "67858"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Los Nogales",
+      "postal_code": [
+        "67856"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Los Pocitos",
+      "postal_code": [
+        "67855"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Lote Uno Fraccion Navidad (Benito Juarez)",
+      "postal_code": [
+        "67860"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Magueyes",
+      "postal_code": [
+        "67855"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Margaritas",
+      "postal_code": [
+        "67872"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Mariano Escobedo",
+      "postal_code": [
+        "67850"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "67866"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Navidad",
+      "postal_code": [
+        "67860"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Pablillo",
+      "postal_code": [
+        "67875"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Pinal Alto",
+      "postal_code": [
+        "67867"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Puerto de Pastores",
+      "postal_code": [
+        "67854"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Puerto Grande",
+      "postal_code": [
+        "67860"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Puerto Mexico",
+      "postal_code": [
+        "67860"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Refugio de los Ibarra",
+      "postal_code": [
+        "67874"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Rio de San Jose",
+      "postal_code": [
+        "67875"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Samaniego y la Becerra (Mariano Escobedo)",
+      "postal_code": [
+        "67860"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Antonio de Gonzalez",
+      "postal_code": [
+        "67853"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Antonio del Salero",
+      "postal_code": [
+        "67874"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Fernando",
+      "postal_code": [
+        "67860"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Francisco de Berlanga",
+      "postal_code": [
+        "67872"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Francisco de los Blancos",
+      "postal_code": [
+        "67856"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Francisco Javier",
+      "postal_code": [
+        "67858"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Ignacio de Texas",
+      "postal_code": [
+        "67873"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Ildefonso",
+      "postal_code": [
+        "67858"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Isidro de Berlanga",
+      "postal_code": [
+        "67853"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Joaquin",
+      "postal_code": [
+        "67864"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Jorge",
+      "postal_code": [
+        "67870"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Jose de Contreras",
+      "postal_code": [
+        "67860"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Jose de Gonzalez",
+      "postal_code": [
+        "67876"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Jose de la Joya",
+      "postal_code": [
+        "67857"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Jose de la Martha",
+      "postal_code": [
+        "67867"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Jose de Raices",
+      "postal_code": [
+        "67870",
+        "67870"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Juan de Dios",
+      "postal_code": [
+        "67853"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Juan del Prado",
+      "postal_code": [
+        "67860"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Juan de Mimbres",
+      "postal_code": [
+        "67858"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Lucas (La Mesa)",
+      "postal_code": [
+        "67857"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Marcos",
+      "postal_code": [
+        "67878"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Pablo de las Mitras",
+      "postal_code": [
+        "67876"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Pablo de Raices",
+      "postal_code": [
+        "67870"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Pablo (Tranquitas)",
+      "postal_code": [
+        "67878"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Pedro Sotolar",
+      "postal_code": [
+        "67867"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Rafael",
+      "postal_code": [
+        "67865"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Roberto",
+      "postal_code": [
+        "67855"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Santa Clara de Cienega del Toro",
+      "postal_code": [
+        "67867"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Santa Clara de Gonzalez",
+      "postal_code": [
+        "67878"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Santa Cruz",
+      "postal_code": [
+        "67857"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Santa Cruz Cienega del Toro",
+      "postal_code": [
+        "67860"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Santa Cruz de Sauces",
+      "postal_code": [
+        "67856"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "67878"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Santa Maria del Socorro",
+      "postal_code": [
+        "67866"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Santa Maria de Ramos",
+      "postal_code": [
+        "67864"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Santa Rita",
+      "postal_code": [
+        "67850"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Santa Rita (Santa Rita de Cordeladas)",
+      "postal_code": [
+        "67878"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Santo Domingo",
+      "postal_code": [
+        "67855"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "San Urbet",
+      "postal_code": [
+        "67870"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Socrates Rizo",
+      "postal_code": [
+        "67850"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Tanquecillos",
+      "postal_code": [
+        "67866"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Tokio",
+      "postal_code": [
+        "67877"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Venustiano Carranza Grupo B (Los Taracos)",
+      "postal_code": [
+        "67864"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Galeana",
+      "postal_code": [
+        "31870"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Garcia Abdanego",
+      "postal_code": [
+        "31870"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "La Angostura",
+      "postal_code": [
+        "31870"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Le Baron",
+      "postal_code": [
+        "31870"
+      ]
+    },
+    {
+      "city": "Galeana",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "31870"
+      ]
+    }
+  ]
+}

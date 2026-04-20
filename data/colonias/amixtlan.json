@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Amixtlan",
+      "colonia": "Amixtlan",
+      "postal_code": [
+        "73360"
+      ]
+    },
+    {
+      "city": "Amixtlan",
+      "colonia": "Cuautotola",
+      "postal_code": [
+        "73360"
+      ]
+    },
+    {
+      "city": "Amixtlan",
+      "colonia": "El Ocotal",
+      "postal_code": [
+        "73364"
+      ]
+    }
+  ]
+}

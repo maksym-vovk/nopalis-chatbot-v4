@@ -1,0 +1,816 @@
+{
+  "data": [
+    {
+      "city": "Moroleon",
+      "colonia": "27 de Septiembre",
+      "postal_code": [
+        "38826"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Amoles",
+      "postal_code": [
+        "38996"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Aviacion Civil",
+      "postal_code": [
+        "38853"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Calderon",
+      "postal_code": [
+        "38990"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Caricheo",
+      "postal_code": [
+        "38993"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Cepio",
+      "postal_code": [
+        "38994"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Cuanamuco",
+      "postal_code": [
+        "38995"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Curumbatio",
+      "postal_code": [
+        "38837"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Eduardo Zamudio",
+      "postal_code": [
+        "38845"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "El Bordo",
+      "postal_code": [
+        "38837"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "El Capulin",
+      "postal_code": [
+        "38994"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "El Chayote",
+      "postal_code": [
+        "38830"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "El Comin",
+      "postal_code": [
+        "38810"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "El Corralon",
+      "postal_code": [
+        "38990"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "El Huanumo II",
+      "postal_code": [
+        "38990"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "El Jardin",
+      "postal_code": [
+        "38835"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "El Jinete",
+      "postal_code": [
+        "38836"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "El Llanito",
+      "postal_code": [
+        "38817"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "El Llavero",
+      "postal_code": [
+        "38994"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "El Planchon",
+      "postal_code": [
+        "38836"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "El Progreso",
+      "postal_code": [
+        "38820"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "El Ranchito",
+      "postal_code": [
+        "38860"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "El Real",
+      "postal_code": [
+        "38867"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "El Salto",
+      "postal_code": [
+        "38995"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "38840"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Excelencia de America",
+      "postal_code": [
+        "38817"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Fuentes del Pedregal",
+      "postal_code": [
+        "38863"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Fundadores de Moroleon",
+      "postal_code": [
+        "38810"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Granja el Jinete",
+      "postal_code": [
+        "38864"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "38810"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Insurgentes",
+      "postal_code": [
+        "38830"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Jardines de la Eternidad",
+      "postal_code": [
+        "38990"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Juana de Medina",
+      "postal_code": [
+        "38880"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "La Barranca",
+      "postal_code": [
+        "38994"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "La Cuesta del Sol",
+      "postal_code": [
+        "38990"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "La Escobetilla",
+      "postal_code": [
+        "38844"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "38864"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "La Loma",
+      "postal_code": [
+        "38994"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "La Manguita",
+      "postal_code": [
+        "38870"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "La Noria",
+      "postal_code": [
+        "38860"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "La Ordena",
+      "postal_code": [
+        "38993"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "La Ortiga",
+      "postal_code": [
+        "38868"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "La Placita",
+      "postal_code": [
+        "38873"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "La Presa",
+      "postal_code": [
+        "38836"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "38835"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Las Arboledas",
+      "postal_code": [
+        "38848"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Las Camelinas",
+      "postal_code": [
+        "38860"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "38823"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Las Lomas",
+      "postal_code": [
+        "38867"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "38994"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Las Palmas Residencial Campestre",
+      "postal_code": [
+        "38838"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Las Penas",
+      "postal_code": [
+        "38994"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "La Yacata",
+      "postal_code": [
+        "38994"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Lomas del Pedregal",
+      "postal_code": [
+        "38863"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Lomas del Tepeyac",
+      "postal_code": [
+        "38887"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Lomas del Valle",
+      "postal_code": [
+        "38825"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Los alamos",
+      "postal_code": [
+        "38827"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "38836"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Los Aztecas",
+      "postal_code": [
+        "38868"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Los Constituyentes",
+      "postal_code": [
+        "38853"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Los Coyotes",
+      "postal_code": [
+        "38873"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Los Frutos",
+      "postal_code": [
+        "38867"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Los Jazmines",
+      "postal_code": [
+        "38835"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Los Laureles",
+      "postal_code": [
+        "38835"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "38874"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "38837"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Los Tepames",
+      "postal_code": [
+        "38855"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Los Virreyes",
+      "postal_code": [
+        "38867"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Manguitas del Valle",
+      "postal_code": [
+        "38870"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Mision de San Lucas",
+      "postal_code": [
+        "38844"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Modelo",
+      "postal_code": [
+        "38823"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Morelos (el Pitayito)",
+      "postal_code": [
+        "38868"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Moroleon",
+      "postal_code": [
+        "38825"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Moroleon 2000",
+      "postal_code": [
+        "38866"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Moroleon Centro",
+      "postal_code": [
+        "38800"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "38850"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Nuevo Moroleon",
+      "postal_code": [
+        "38825"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Ojo de Agua de Enmedio",
+      "postal_code": [
+        "38990"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Pamaseo",
+      "postal_code": [
+        "38997"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Pico de Pajaro",
+      "postal_code": [
+        "38887"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Pinicuaro",
+      "postal_code": [
+        "38995"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Potrerillo I",
+      "postal_code": [
+        "38860"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Potrerillo II",
+      "postal_code": [
+        "38860"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Potrero la Raya",
+      "postal_code": [
+        "38997"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Pozo Blanco",
+      "postal_code": [
+        "38864"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Prados Verdes",
+      "postal_code": [
+        "38865"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Quiahuyo",
+      "postal_code": [
+        "38990"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "38995"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Real de los Encinos",
+      "postal_code": [
+        "38868"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Rinconada de Ensueno",
+      "postal_code": [
+        "38833"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Rinconadas del Bosque",
+      "postal_code": [
+        "38994"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Rincon del Paraiso",
+      "postal_code": [
+        "38866"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Rincon del Romance",
+      "postal_code": [
+        "38866"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Rincones del angel",
+      "postal_code": [
+        "38868"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "San Agustin",
+      "postal_code": [
+        "38863"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "San Andres",
+      "postal_code": [
+        "38840"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "38874"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "38887"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "San Isidro 2a Seccion",
+      "postal_code": [
+        "38887"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "San Jorge",
+      "postal_code": [
+        "38855"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "San Lucas",
+      "postal_code": [
+        "38844"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Santa Gertrudis",
+      "postal_code": [
+        "38997"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Tabachines",
+      "postal_code": [
+        "38868"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Tierra y Libertad",
+      "postal_code": [
+        "38864"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Union de Colonos El Jinete",
+      "postal_code": [
+        "38864"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Union de Colonos El Terrero",
+      "postal_code": [
+        "38845"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Union Libre Democratica",
+      "postal_code": [
+        "38866"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Valle del Sol",
+      "postal_code": [
+        "38865"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Valle de Sur",
+      "postal_code": [
+        "38834"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Valle Escondido",
+      "postal_code": [
+        "38864"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Valle Girasoles",
+      "postal_code": [
+        "38845"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Valle Montana (Vista Bella)",
+      "postal_code": [
+        "38826"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Villas de Guadalupe",
+      "postal_code": [
+        "38854"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Villas del Sur",
+      "postal_code": [
+        "38827"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Villas de San Vicente",
+      "postal_code": [
+        "38848"
+      ]
+    },
+    {
+      "city": "Moroleon",
+      "colonia": "Voluntarios de Moroleon",
+      "postal_code": [
+        "38848"
+      ]
+    }
+  ]
+}

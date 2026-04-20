@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Candela",
+      "colonia": "Candela",
+      "postal_code": [
+        "25570"
+      ]
+    },
+    {
+      "city": "Candela",
+      "colonia": "El Huizachal",
+      "postal_code": [
+        "25590"
+      ]
+    },
+    {
+      "city": "Candela",
+      "colonia": "Las Coloradas",
+      "postal_code": [
+        "25571"
+      ]
+    },
+    {
+      "city": "Candela",
+      "colonia": "San Luisito",
+      "postal_code": [
+        "25570"
+      ]
+    },
+    {
+      "city": "Candela",
+      "colonia": "Valladares",
+      "postal_code": [
+        "25576"
+      ]
+    }
+  ]
+}

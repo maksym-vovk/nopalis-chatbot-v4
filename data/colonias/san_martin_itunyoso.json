@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Martin Itunyoso",
+      "colonia": "La Concepcion",
+      "postal_code": [
+        "69845"
+      ]
+    },
+    {
+      "city": "San Martin Itunyoso",
+      "colonia": "San Jose Xochitlan",
+      "postal_code": [
+        "69846"
+      ]
+    },
+    {
+      "city": "San Martin Itunyoso",
+      "colonia": "San Martin Itunyoso",
+      "postal_code": [
+        "69845"
+      ]
+    }
+  ]
+}

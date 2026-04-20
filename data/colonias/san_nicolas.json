@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "San Nicolas",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "70806"
+      ]
+    },
+    {
+      "city": "San Nicolas",
+      "colonia": "El Palmar",
+      "postal_code": [
+        "87666"
+      ]
+    },
+    {
+      "city": "San Nicolas",
+      "colonia": "Las Virgenes (Las Norias)",
+      "postal_code": [
+        "87668"
+      ]
+    },
+    {
+      "city": "San Nicolas",
+      "colonia": "Las Virgenes (Moctezuma)",
+      "postal_code": [
+        "87668"
+      ]
+    },
+    {
+      "city": "San Nicolas",
+      "colonia": "San Nicolas",
+      "postal_code": [
+        "87660"
+      ]
+    }
+  ]
+}

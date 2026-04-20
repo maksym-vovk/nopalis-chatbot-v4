@@ -1,0 +1,558 @@
+{
+  "data": [
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Apo el Viejo",
+      "postal_code": [
+        "60905"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Apo Nuevo",
+      "postal_code": [
+        "60905"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Aruchita",
+      "postal_code": [
+        "60914"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Barranca Adentro",
+      "postal_code": [
+        "60918"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Boca del Rio del Chacal",
+      "postal_code": [
+        "60907"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Cerro Prieto",
+      "postal_code": [
+        "60917"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "El Aguacatito",
+      "postal_code": [
+        "60915"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "El Ahijadero",
+      "postal_code": [
+        "60907"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "El Bejuco",
+      "postal_code": [
+        "60915"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "El Cablote",
+      "postal_code": [
+        "60910"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "El Caracol",
+      "postal_code": [
+        "60914"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "El Cirian",
+      "postal_code": [
+        "60905"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "El Conchuelo",
+      "postal_code": [
+        "60916"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "El Copal",
+      "postal_code": [
+        "60918"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "El Culebro",
+      "postal_code": [
+        "60914"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "El Falsete",
+      "postal_code": [
+        "60904"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "El Fresnal",
+      "postal_code": [
+        "60916"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "El Habillal",
+      "postal_code": [
+        "60915"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "El Huje",
+      "postal_code": [
+        "60917"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "El Lindero",
+      "postal_code": [
+        "60905"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "El Paraiso",
+      "postal_code": [
+        "60914"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "El Parotal",
+      "postal_code": [
+        "60908"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "El Pimientillo",
+      "postal_code": [
+        "60914"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "El Platanal",
+      "postal_code": [
+        "60913"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "El Tejamanil",
+      "postal_code": [
+        "60918"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "El Uje",
+      "postal_code": [
+        "60907"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "El Valle",
+      "postal_code": [
+        "60915"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "General Francisco Villa (Las Cruces)",
+      "postal_code": [
+        "60910"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Graciano Sanchez (El Socorro)",
+      "postal_code": [
+        "60914"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Guayabillera",
+      "postal_code": [
+        "60917"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Higuera Raizuda",
+      "postal_code": [
+        "60918"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "La Anilera",
+      "postal_code": [
+        "60906"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "La Cablotera",
+      "postal_code": [
+        "60900"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "La Colomera",
+      "postal_code": [
+        "60915"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "60916",
+        "60917"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "La Encinera",
+      "postal_code": [
+        "60906"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "La Garita",
+      "postal_code": [
+        "60908"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "La Guayabillera",
+      "postal_code": [
+        "60905"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "La Herradura (San Juan de los Platanos)",
+      "postal_code": [
+        "60914"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "La Mora",
+      "postal_code": [
+        "60917"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "La Nolasca",
+      "postal_code": [
+        "60915"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "La Pajita",
+      "postal_code": [
+        "60908"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "La Pantomima",
+      "postal_code": [
+        "60914"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Las Chambandicuas",
+      "postal_code": [
+        "60905"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Las Cuevitas",
+      "postal_code": [
+        "60918"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Las Enramadas",
+      "postal_code": [
+        "60916"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Las Higueras",
+      "postal_code": [
+        "60915"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "La Sidra",
+      "postal_code": [
+        "60918"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Las Juntas",
+      "postal_code": [
+        "60917"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Las Mesas",
+      "postal_code": [
+        "60914"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Las Nuevas Caramicuas",
+      "postal_code": [
+        "60910"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Las Parotas",
+      "postal_code": [
+        "60906"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Las Playitas",
+      "postal_code": [
+        "60905"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Las Salinas",
+      "postal_code": [
+        "60908"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Las Trojas",
+      "postal_code": [
+        "60905"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Las Truchas",
+      "postal_code": [
+        "60915"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "La Timbirichera",
+      "postal_code": [
+        "60918"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "La Yerbabuena",
+      "postal_code": [
+        "60905"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Los Angelitos",
+      "postal_code": [
+        "60906"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Los Araus",
+      "postal_code": [
+        "60915"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Los Arreguines",
+      "postal_code": [
+        "60918"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Los Chivos",
+      "postal_code": [
+        "60914"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Los Paredones",
+      "postal_code": [
+        "60905"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Los Varales",
+      "postal_code": [
+        "60904"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Mata de Hule",
+      "postal_code": [
+        "60905"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Mata de Platano",
+      "postal_code": [
+        "60914"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Palo Alto",
+      "postal_code": [
+        "60917"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Palo Dulce",
+      "postal_code": [
+        "60905"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Paso del Indio",
+      "postal_code": [
+        "60915"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Paso Perro del Agua",
+      "postal_code": [
+        "60908"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Potrerillos de Coria (La Loma)",
+      "postal_code": [
+        "60913"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Puerta del Venado",
+      "postal_code": [
+        "60917"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Rancho de Pino",
+      "postal_code": [
+        "60906"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "60903"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Sanchez",
+      "postal_code": [
+        "60908"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "60915"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Tierra de Bueyes (Tierra de Juarez)",
+      "postal_code": [
+        "60916"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Tumbiscatio de Ruiz",
+      "postal_code": [
+        "60900"
+      ]
+    },
+    {
+      "city": "Tumbiscatio",
+      "colonia": "Zacasillas",
+      "postal_code": [
+        "60907"
+      ]
+    }
+  ]
+}

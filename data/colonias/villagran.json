@@ -1,0 +1,551 @@
+{
+  "data": [
+    {
+      "city": "Villagran",
+      "colonia": "18 de Marzo",
+      "postal_code": [
+        "38280"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Alameda y Unidad Deportiva Norte",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Ampliacion Guadalupe",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Ampliacion La Purisima",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Arboledas",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Cerrito de las Yerbas",
+      "postal_code": [
+        "38294"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Corregidora",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Del Iveg",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Deportiva",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "El Alto del Parral",
+      "postal_code": [
+        "38295"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "El Caracol",
+      "postal_code": [
+        "38269"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "El Chinaco (El Pujido)",
+      "postal_code": [
+        "38294"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "El Huizachal (El Parral)",
+      "postal_code": [
+        "38295"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "El Poder",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "El Rehilete",
+      "postal_code": [
+        "38294"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "El Tajo del Parral (Teneria de Valdez)",
+      "postal_code": [
+        "38295"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Encarnacion de Gasca",
+      "postal_code": [
+        "38273"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Independencia",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Insurgentes",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "La Esquina",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "La Purisima",
+      "postal_code": [
+        "38260",
+        "38269"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Las Hadas",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Las Villas",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "La Venta",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Los angeles",
+      "postal_code": [
+        "38290"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Magisterial",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Metropolitana",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Mexicanos",
+      "postal_code": [
+        "38271"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Navarrete",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Planetaria",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Praderas de la Venta",
+      "postal_code": [
+        "38263"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Punta del Este",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Punta Norte",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Renacimiento",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Rivera del Rio",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "San Antonio",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "San Antonio el Chico",
+      "postal_code": [
+        "38280"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "San Isidro Cerro Gordo",
+      "postal_code": [
+        "38273"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "San Jose",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "San Juanita",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "San Pedro Tolentino",
+      "postal_code": [
+        "38265"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "San Salvador Torrecillas",
+      "postal_code": [
+        "38293"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Santa Rosa",
+      "postal_code": [
+        "38291"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Sarabia",
+      "postal_code": [
+        "38272"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Satelite",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Suchitlan",
+      "postal_code": [
+        "38280"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Valle de La Venta",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Villagran Centro",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Villas del Sol",
+      "postal_code": [
+        "38260"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Villas la Salud",
+      "postal_code": [
+        "38294"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Alvaro Obregon",
+      "postal_code": [
+        "87887"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Americo Villarreal Guerra",
+      "postal_code": [
+        "87880"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Benito Juarez (Encinos)",
+      "postal_code": [
+        "87889"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Brigido Maldonado",
+      "postal_code": [
+        "87886"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Candelario Reyes (San Miguel)",
+      "postal_code": [
+        "87885"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Cuauhtemoc",
+      "postal_code": [
+        "87880"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "El Breve",
+      "postal_code": [
+        "87883"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "El Limon",
+      "postal_code": [
+        "87887"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Eugenio Hernandez Flores",
+      "postal_code": [
+        "87880"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Garza Valdez",
+      "postal_code": [
+        "87890"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "General Jesus Carranza (Sabinitos)",
+      "postal_code": [
+        "87886"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "General Lucio Blanco",
+      "postal_code": [
+        "87898"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Guadalupe de San Lazaro (Guadalupe)",
+      "postal_code": [
+        "87896"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Guadalupe Victoria",
+      "postal_code": [
+        "87889"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Jesus Gonzalez Ortega",
+      "postal_code": [
+        "87883"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Juan Rincon (El Sabinal)",
+      "postal_code": [
+        "87893"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "La Purisima Florena",
+      "postal_code": [
+        "87884"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Los Charcos",
+      "postal_code": [
+        "87892"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Marte R. Gomez (Patol)",
+      "postal_code": [
+        "87892"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "87885"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Rancheria Juarez (Juarez)",
+      "postal_code": [
+        "87889"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Redencion del Campesino",
+      "postal_code": [
+        "87887"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "San Lazaro",
+      "postal_code": [
+        "87895"
+      ]
+    },
+    {
+      "city": "Villagran",
+      "colonia": "Villagran",
+      "postal_code": [
+        "87880"
+      ]
+    }
+  ]
+}

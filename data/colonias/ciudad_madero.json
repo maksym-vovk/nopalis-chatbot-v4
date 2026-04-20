@@ -1,0 +1,733 @@
+{
+  "data": [
+    {
+      "city": "Ciudad Madero",
+      "colonia": "15 de Mayo",
+      "postal_code": [
+        "89519"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "16 de Septiembre",
+      "postal_code": [
+        "89512"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "17 de Enero",
+      "postal_code": [
+        "89505"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "18 de Marzo",
+      "postal_code": [
+        "89515"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "1° de Mayo",
+      "postal_code": [
+        "89450"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "89520"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Adriana Gonzalez Hernandez",
+      "postal_code": [
+        "89519"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Ampliacion Unidad Nacional",
+      "postal_code": [
+        "89510"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "arbol Grande",
+      "postal_code": [
+        "89490"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "arbol Grande Ex-Refineria",
+      "postal_code": [
+        "89497"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Asuncion avalos",
+      "postal_code": [
+        "89416"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "89580"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Benito Juarez Norte",
+      "postal_code": [
+        "89550"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Camichines",
+      "postal_code": [
+        "89553"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Candelario Garza",
+      "postal_code": [
+        "89500"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Candelario Garza Ampliacion",
+      "postal_code": [
+        "89505"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Carlos Jimenez Macias",
+      "postal_code": [
+        "89515"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Castores",
+      "postal_code": [
+        "89515"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Ciudad Madero Centro",
+      "postal_code": [
+        "89400"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Del Bosque",
+      "postal_code": [
+        "89530"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Delfino Resendiz",
+      "postal_code": [
+        "89556"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Del Maestro",
+      "postal_code": [
+        "89550"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Del Valle",
+      "postal_code": [
+        "89550"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "El Llano",
+      "postal_code": [
+        "89566"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "El Palmar",
+      "postal_code": [
+        "89515"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "89517"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Emiliano Zapata Sur",
+      "postal_code": [
+        "89550"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Emilio Carranza",
+      "postal_code": [
+        "89540"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Esfuerzo Nacional",
+      "postal_code": [
+        "89470"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Estadio",
+      "postal_code": [
+        "89417"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Felipe Carrillo Puerto",
+      "postal_code": [
+        "89430"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Ferrocarrilera",
+      "postal_code": [
+        "89590"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Fidel Velazquez",
+      "postal_code": [
+        "89520"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "FOVISSSTE Lucio Blanco",
+      "postal_code": [
+        "89555"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Francisco I Madero",
+      "postal_code": [
+        "89480"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Francisco Villa",
+      "postal_code": [
+        "89520"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Frente Democratico",
+      "postal_code": [
+        "89470"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Fundadores",
+      "postal_code": [
+        "89505"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Girasoles",
+      "postal_code": [
+        "89550"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Heriberto Kehoe",
+      "postal_code": [
+        "89510"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Hermenegildo Galeana",
+      "postal_code": [
+        "89540"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Heroe de Nacozari",
+      "postal_code": [
+        "89520"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Hidalgo Oriente",
+      "postal_code": [
+        "89570"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Hidalgo Poniente",
+      "postal_code": [
+        "89570"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Hipodromo",
+      "postal_code": [
+        "89560"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Ignacio Zaragoza",
+      "postal_code": [
+        "89510"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Insurgentes",
+      "postal_code": [
+        "89506"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Integracion Familiar",
+      "postal_code": [
+        "89506"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "ISSSFAM",
+      "postal_code": [
+        "89540"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Jacarandas",
+      "postal_code": [
+        "89416"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Jardin 20 de Noviembre",
+      "postal_code": [
+        "89440"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Jesus Luna Luna",
+      "postal_code": [
+        "89514"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Joyas de Miramapolis",
+      "postal_code": [
+        "89506"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "La Barra",
+      "postal_code": [
+        "89540"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Lago Azul",
+      "postal_code": [
+        "89510"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "La Joya",
+      "postal_code": [
+        "89512"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "La Loma",
+      "postal_code": [
+        "89567"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Las Americas",
+      "postal_code": [
+        "89420"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Las Arboledas",
+      "postal_code": [
+        "89496"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Las Brisas",
+      "postal_code": [
+        "89555"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Las Conchitas",
+      "postal_code": [
+        "89480"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Las Dunas",
+      "postal_code": [
+        "89506"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Las Flores",
+      "postal_code": [
+        "89510"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "89430"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Lienzo Charro",
+      "postal_code": [
+        "89506"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Loma del Gallo",
+      "postal_code": [
+        "89460"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Lopez Portillo",
+      "postal_code": [
+        "89560"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Los Cedros",
+      "postal_code": [
+        "89515"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Los Framboyanes",
+      "postal_code": [
+        "89515"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Los Fresnos",
+      "postal_code": [
+        "89519"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Los Mangos",
+      "postal_code": [
+        "89440"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Los Pinos",
+      "postal_code": [
+        "89513"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Los Robles",
+      "postal_code": [
+        "89555"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Los Sauces",
+      "postal_code": [
+        "89515"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Lucio Blanco Ampliacion los Pinos",
+      "postal_code": [
+        "89513"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Manuel R Diaz",
+      "postal_code": [
+        "89515"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Miramapolis",
+      "postal_code": [
+        "89506"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Miramar",
+      "postal_code": [
+        "89540"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Monteverde",
+      "postal_code": [
+        "89420"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Naval Militar las Chacas",
+      "postal_code": [
+        "89515"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Nueva Cecilia",
+      "postal_code": [
+        "89554"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Obrera",
+      "postal_code": [
+        "89490"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Palmas I",
+      "postal_code": [
+        "89510"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Palmas II",
+      "postal_code": [
+        "89510"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Polvorin",
+      "postal_code": [
+        "89555"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Puerto Alegre",
+      "postal_code": [
+        "89506"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Quetzalcoatl",
+      "postal_code": [
+        "89464"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Residencial del Parque",
+      "postal_code": [
+        "89514"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Residencial la Antigua",
+      "postal_code": [
+        "89514"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Revolucion Verde",
+      "postal_code": [
+        "89518"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Ricardo Flores Magon",
+      "postal_code": [
+        "89460"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Rincon Colonial",
+      "postal_code": [
+        "89506"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "SAHOP",
+      "postal_code": [
+        "89506"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Santa ursula",
+      "postal_code": [
+        "89555"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Satelite",
+      "postal_code": [
+        "89514"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Simon Rivera",
+      "postal_code": [
+        "89519"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Talleres",
+      "postal_code": [
+        "89590"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Tercer Milenio",
+      "postal_code": [
+        "89506"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Tinaco",
+      "postal_code": [
+        "89590"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Unidad Nacional",
+      "postal_code": [
+        "89410"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "89580"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Victoria",
+      "postal_code": [
+        "89556"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Villas del Mar",
+      "postal_code": [
+        "89506",
+        "89515"
+      ]
+    },
+    {
+      "city": "Ciudad Madero",
+      "colonia": "Villa Verde",
+      "postal_code": [
+        "89415"
+      ]
+    }
+  ]
+}

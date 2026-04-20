@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Juan Ozolotepec",
+      "colonia": "San Andres Loveno",
+      "postal_code": [
+        "70897"
+      ]
+    },
+    {
+      "city": "San Juan Ozolotepec",
+      "colonia": "San Juan Ozolotepec",
+      "postal_code": [
+        "70897"
+      ]
+    },
+    {
+      "city": "San Juan Ozolotepec",
+      "colonia": "Santiago Lapaguia",
+      "postal_code": [
+        "70899"
+      ]
+    }
+  ]
+}

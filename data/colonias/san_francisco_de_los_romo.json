@@ -1,0 +1,452 @@
+{
+  "data": [
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "28 de Abril",
+      "postal_code": [
+        "20304"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Amapolas del Rio",
+      "postal_code": [
+        "20357"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Borrotes",
+      "postal_code": [
+        "20356"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Castelo San Francisco",
+      "postal_code": [
+        "20358"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Cerrada San Francisco",
+      "postal_code": [
+        "20303"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "El Barranco",
+      "postal_code": [
+        "20305"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "El Cardonal",
+      "postal_code": [
+        "20304"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "El Gigante",
+      "postal_code": [
+        "20305"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "El Refugio",
+      "postal_code": [
+        "20305"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "El Tepetate",
+      "postal_code": [
+        "20357"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "El Tiron (El Progreso)",
+      "postal_code": [
+        "20303"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Estacion Chicalote",
+      "postal_code": [
+        "20356"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Ex-Vinedos Guadalupe",
+      "postal_code": [
+        "20358"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Fraccion de la Trinidad II",
+      "postal_code": [
+        "20304"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Hidalgo",
+      "postal_code": [
+        "20303"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "La Aurora",
+      "postal_code": [
+        "20303"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "La Casita",
+      "postal_code": [
+        "20358"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "La Concepcion",
+      "postal_code": [
+        "20355"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "La Escondida (El Salero)",
+      "postal_code": [
+        "20304"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "La Gloria",
+      "postal_code": [
+        "20305"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "La Guadalupana",
+      "postal_code": [
+        "20303"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "La Paz",
+      "postal_code": [
+        "20305"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "La Perla",
+      "postal_code": [
+        "20303"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "La Providencia",
+      "postal_code": [
+        "20305"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "La Ribera",
+      "postal_code": [
+        "20358"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Las Carmelitas",
+      "postal_code": [
+        "20305"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "20305"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "La Union",
+      "postal_code": [
+        "20305"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Loretito (Charco del Toro)",
+      "postal_code": [
+        "20350"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Los Capricornios (La Biznaga)",
+      "postal_code": [
+        "20350"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Los Cedros",
+      "postal_code": [
+        "20303"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Los Lirios",
+      "postal_code": [
+        "20305"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Macario J Gomez",
+      "postal_code": [
+        "20350"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Maria",
+      "postal_code": [
+        "20303"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Medio Kilo",
+      "postal_code": [
+        "20350"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Monserrat",
+      "postal_code": [
+        "20304"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Monteverde",
+      "postal_code": [
+        "20358"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Panamericano",
+      "postal_code": [
+        "20300"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Parque Industrial San Francisco",
+      "postal_code": [
+        "20355"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Parque Industrial Valle de Aguascalientes",
+      "postal_code": [
+        "20358"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Paseos de la Providencia",
+      "postal_code": [
+        "20355"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Puertecito de la Virgen",
+      "postal_code": [
+        "20358"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Rancho Nuevo",
+      "postal_code": [
+        "20357"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Rancho Seco",
+      "postal_code": [
+        "20358"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Reserva Quetzales",
+      "postal_code": [
+        "20358"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Revolucion",
+      "postal_code": [
+        "20303"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "San angel",
+      "postal_code": [
+        "20305"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "San Francisco",
+      "postal_code": [
+        "20303"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "San Francisco de los Romos Centro",
+      "postal_code": [
+        "20300"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "San Jose Buenavista",
+      "postal_code": [
+        "20303"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "San Jose del Barranco",
+      "postal_code": [
+        "20304"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "San Juan",
+      "postal_code": [
+        "20304"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "San Pedro Victoria de Arriba",
+      "postal_code": [
+        "20305"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Santa Anita",
+      "postal_code": [
+        "20305"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Santa Barbara",
+      "postal_code": [
+        "20304"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Santa Elena (Elena)",
+      "postal_code": [
+        "20305"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Santa Fe",
+      "postal_code": [
+        "20304"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Sendero de los Quetzales",
+      "postal_code": [
+        "20358"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Sociedad Plan de los Sabinos",
+      "postal_code": [
+        "20305"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Urbi Villa del Vergel",
+      "postal_code": [
+        "20355"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Valle de Aguascalientes",
+      "postal_code": [
+        "20358"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Villas de San Felipe",
+      "postal_code": [
+        "20358"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Vinedos River",
+      "postal_code": [
+        "20355"
+      ]
+    },
+    {
+      "city": "San Francisco de los Romo",
+      "colonia": "Zacatenco",
+      "postal_code": [
+        "20305"
+      ]
+    }
+  ]
+}

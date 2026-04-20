@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "San Lorenzo",
+      "colonia": "San Antonio Yosocani",
+      "postal_code": [
+        "71762"
+      ]
+    },
+    {
+      "city": "San Lorenzo",
+      "colonia": "San Jose Tetepelcingo",
+      "postal_code": [
+        "71761"
+      ]
+    },
+    {
+      "city": "San Lorenzo",
+      "colonia": "San Lorenzo",
+      "postal_code": [
+        "71760"
+      ]
+    },
+    {
+      "city": "San Lorenzo",
+      "colonia": "San Miguel Tetepelcingo",
+      "postal_code": [
+        "71760"
+      ]
+    }
+  ]
+}

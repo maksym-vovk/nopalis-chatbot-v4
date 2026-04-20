@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Acteopan",
+      "colonia": "Acteopan",
+      "postal_code": [
+        "74510"
+      ]
+    },
+    {
+      "city": "Acteopan",
+      "colonia": "San Felipe Toctla",
+      "postal_code": [
+        "74516"
+      ]
+    },
+    {
+      "city": "Acteopan",
+      "colonia": "Santa Maria Atzitzintla",
+      "postal_code": [
+        "74514"
+      ]
+    }
+  ]
+}

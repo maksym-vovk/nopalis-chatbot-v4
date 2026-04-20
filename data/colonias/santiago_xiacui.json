@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Santiago Xiacui",
+      "colonia": "Francisco I. Madero",
+      "postal_code": [
+        "68768"
+      ]
+    },
+    {
+      "city": "Santiago Xiacui",
+      "colonia": "San Andres Yatuni",
+      "postal_code": [
+        "68767"
+      ]
+    },
+    {
+      "city": "Santiago Xiacui",
+      "colonia": "Santiago Xiacui",
+      "postal_code": [
+        "68767"
+      ]
+    },
+    {
+      "city": "Santiago Xiacui",
+      "colonia": "Trinidad Ixtlan",
+      "postal_code": [
+        "68768"
+      ]
+    }
+  ]
+}

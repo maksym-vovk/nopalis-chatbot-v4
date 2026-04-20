@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Huitziltepec",
+      "colonia": "Dolores Hidalgo",
+      "postal_code": [
+        "75640"
+      ]
+    },
+    {
+      "city": "Huitziltepec",
+      "colonia": "Santa Ana Coapan",
+      "postal_code": [
+        "75641"
+      ]
+    },
+    {
+      "city": "Huitziltepec",
+      "colonia": "Santa Clara Huitziltepec",
+      "postal_code": [
+        "75640"
+      ]
+    }
+  ]
+}

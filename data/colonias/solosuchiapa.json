@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "city": "Solosuchiapa",
+      "colonia": "Rio Negro 2a Secc",
+      "postal_code": [
+        "29580"
+      ]
+    },
+    {
+      "city": "Solosuchiapa",
+      "colonia": "Solosuchiapa",
+      "postal_code": [
+        "29580"
+      ]
+    },
+    {
+      "city": "Solosuchiapa",
+      "colonia": "ursulo Galvan",
+      "postal_code": [
+        "29583"
+      ]
+    },
+    {
+      "city": "Solosuchiapa",
+      "colonia": "Villaflores",
+      "postal_code": [
+        "29585"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,951 @@
+{
+  "data": [
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Agua Zarca Pueblo Nuevo",
+      "postal_code": [
+        "50674"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Benito Juarez Santa Cruz del Tejocote",
+      "postal_code": [
+        "50668"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Buenavista Casa Blanca",
+      "postal_code": [
+        "50664",
+        "50665"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Canada del Sauco",
+      "postal_code": [
+        "50677"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Canoas Guarda la Lagunita",
+      "postal_code": [
+        "50668"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Cedro de la Manzana",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Cevati",
+      "postal_code": [
+        "50667"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Chivati la Mesa",
+      "postal_code": [
+        "50677"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Cieneguillas (Casa Blanca)",
+      "postal_code": [
+        "50668"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Concepcion del Monte",
+      "postal_code": [
+        "50665"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Concepcion la Venta",
+      "postal_code": [
+        "50668"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "De Dolores",
+      "postal_code": [
+        "50674"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Cable Ejido el Deposito",
+      "postal_code": [
+        "50676"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Calvario Concepcion de la Venta",
+      "postal_code": [
+        "50668"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Capulin San Miguel del Centro",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Cerrito Pueblo Nuevo",
+      "postal_code": [
+        "50674"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Consuelo",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Cuarenta y Cuatro Pueblo Nuevo",
+      "postal_code": [
+        "50674"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Fresno el Deposito",
+      "postal_code": [
+        "50676"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Guarda Ejido",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Huizache",
+      "postal_code": [
+        "50677"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Lijadero la Mesa",
+      "postal_code": [
+        "50677"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Lindero Pueblo Nuevo",
+      "postal_code": [
+        "50674"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Llano de las Rosas",
+      "postal_code": [
+        "50670"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Llano Grande Jaltepec",
+      "postal_code": [
+        "50673"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Llano San Juan Palo Seco",
+      "postal_code": [
+        "50670"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Ocho el Pintal",
+      "postal_code": [
+        "50670"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Pintado Pueblo Nuevo",
+      "postal_code": [
+        "50674"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Pintal el Deposito",
+      "postal_code": [
+        "50670"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Porvenir",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Puente Barrio de las Rosas",
+      "postal_code": [
+        "50678"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Quelite Pueblo Nuevo",
+      "postal_code": [
+        "50675"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Rancho Jaltepec",
+      "postal_code": [
+        "50673"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Salto la Venta",
+      "postal_code": [
+        "50668"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Tepetate Guarda de San Antonio Buenavista",
+      "postal_code": [
+        "50668"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Toril Ejido la Soledad",
+      "postal_code": [
+        "50673"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "El Valerio",
+      "postal_code": [
+        "50664"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Emiliano Zapata Ampliacion la Mesa",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Estacion la Trinidad",
+      "postal_code": [
+        "50664"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Fabrica Concepcion",
+      "postal_code": [
+        "50665"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Fabrica Pueblo Nuevo",
+      "postal_code": [
+        "50668"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Fabrica Pueblo Nuevo Monte Alto",
+      "postal_code": [
+        "50668"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Falda Loma",
+      "postal_code": [
+        "50666"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Fundereje el Deposito",
+      "postal_code": [
+        "50676"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Garatachea",
+      "postal_code": [
+        "50667"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Guadalupe Buenavista",
+      "postal_code": [
+        "50665"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Guadalupe Chico",
+      "postal_code": [
+        "50665"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Guadalupe del Pedregal",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Guadalupe del Pedregal el Calvario",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Guadalupe del Pedregal la Palma",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Guadalupe las Cabras",
+      "postal_code": [
+        "50667"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Guarda de Guadalupe",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Guarda de San Antonio Buenavista",
+      "postal_code": [
+        "50668"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Guarda la Lagunita el Potrero",
+      "postal_code": [
+        "50668"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Guarda San Antonio Plaza de Gallos",
+      "postal_code": [
+        "50668"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Jaltepec Centro",
+      "postal_code": [
+        "50673"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Jesus Carranza",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "La Chispa",
+      "postal_code": [
+        "50678"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "La Cuadrilla San Miguel del Centro",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "La Curva el Deposito",
+      "postal_code": [
+        "50670"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "50665"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "La Magdalena San Juan Palo Seco",
+      "postal_code": [
+        "50676"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "La Mesa",
+      "postal_code": [
+        "50677"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "La Mesa la Lagunita",
+      "postal_code": [
+        "50668"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "La Palma el Deposito",
+      "postal_code": [
+        "50670"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "La Puerta San Miguel del Centro",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Las Canoas San Felipe de Jesus",
+      "postal_code": [
+        "50666"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Las Escobas del Agua San Jeronimo Dolores",
+      "postal_code": [
+        "50664"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "50664"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "La Soledad el Guarda",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Las Palomas",
+      "postal_code": [
+        "50667"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Las Rosas",
+      "postal_code": [
+        "50668",
+        "50678"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Las Rosas San Miguel del Centro",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Las Tinajas",
+      "postal_code": [
+        "50668"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "La Trampa Chica",
+      "postal_code": [
+        "50678"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "La Trampa Grande",
+      "postal_code": [
+        "50677"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "La Trinidad Concepcion",
+      "postal_code": [
+        "50665"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Loma Bonita Guarda la Lagunita",
+      "postal_code": [
+        "50668"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Loma del Cedro el Deposito",
+      "postal_code": [
+        "50676"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Loma del Rancho",
+      "postal_code": [
+        "50673"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Loma Grande San Antonio Pueblo Nuevo",
+      "postal_code": [
+        "50675"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Los Cedros San Juan Palo Seco",
+      "postal_code": [
+        "50676"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Los Lobos Centro",
+      "postal_code": [
+        "50678"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Los Lobos Segunda Seccion",
+      "postal_code": [
+        "50670"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Los Pintados",
+      "postal_code": [
+        "50673"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Los Pintados (El Pintado)",
+      "postal_code": [
+        "50674"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Minita del Cedro Dos",
+      "postal_code": [
+        "50678"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Minita del Cedro Uno",
+      "postal_code": [
+        "50678"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Palo Amarillo",
+      "postal_code": [
+        "50667"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Pancho Maya",
+      "postal_code": [
+        "50667"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Pathe Mula de los Cedros",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Providencia Ejido el Deposito",
+      "postal_code": [
+        "50670"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Puentecillas el Deposito",
+      "postal_code": [
+        "50676"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Purungueo",
+      "postal_code": [
+        "50666"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Remege el Deposito",
+      "postal_code": [
+        "50676"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Rosa de la Palma",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Rosa de Palo Amarillo",
+      "postal_code": [
+        "50667"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Rosa San Antonio Concepcion del Monte",
+      "postal_code": [
+        "50666"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Sabaneta Quintana",
+      "postal_code": [
+        "50668"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Sanacoche",
+      "postal_code": [
+        "50668"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Sanacoche Centro",
+      "postal_code": [
+        "50668"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Antonio el Deposito",
+      "postal_code": [
+        "50670"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Antonio Palo Seco Barrio la Mesa",
+      "postal_code": [
+        "50677"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Antonio Pueblo Nuevo",
+      "postal_code": [
+        "50674"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Bartolo Guarda la Lagunita",
+      "postal_code": [
+        "50668"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Diego Pueblo Nuevo",
+      "postal_code": [
+        "50675"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Felipe de Jesus",
+      "postal_code": [
+        "50666"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Francisco de la Loma",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Francisco de la Loma Segunda Seccion",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Francisco Solo",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Isidro la Trinidad",
+      "postal_code": [
+        "50664"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Jeronimo de los Dolores",
+      "postal_code": [
+        "50664"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Jeronimo Pilitas",
+      "postal_code": [
+        "50667"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Joaquin del Monte",
+      "postal_code": [
+        "50665"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Joaquin Lamillas Centro",
+      "postal_code": [
+        "50678"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Joaquin Lamillas (San Jose Lamiilas)",
+      "postal_code": [
+        "50678"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Jose del Rincon",
+      "postal_code": [
+        "50660"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Jose del Rincon Centro",
+      "postal_code": [
+        "50660"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Juan Evangelista Fraccion Diez (San Juan)",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Juan Palo Seco Centro",
+      "postal_code": [
+        "50676"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Miguel Agua Bendita",
+      "postal_code": [
+        "50664"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Miguel Chisda",
+      "postal_code": [
+        "50664"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Miguel del Centro",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Onofre",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Onofre Centro (Carmona)",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "San Ramon las Rosas",
+      "postal_code": [
+        "50678"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Santa Ana Pueblo Nuevo",
+      "postal_code": [
+        "50674"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Santa Cruz del Rincon",
+      "postal_code": [
+        "50663"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Santa Cruz del Tejocote",
+      "postal_code": [
+        "50668"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Santa Cruz Pueblo Nuevo",
+      "postal_code": [
+        "50674"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Santa Juanita el Deposito",
+      "postal_code": [
+        "50670"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Santa Rita Pueblo Nuevo",
+      "postal_code": [
+        "50674"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Santiago Gigante Jaltepec",
+      "postal_code": [
+        "50673"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Yondece del Cedro",
+      "postal_code": [
+        "50665"
+      ]
+    },
+    {
+      "city": "San Jose del Rincon",
+      "colonia": "Yondece el Grande",
+      "postal_code": [
+        "50677"
+      ]
+    }
+  ]
+}

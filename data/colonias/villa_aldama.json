@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "Villa Aldama",
+      "colonia": "Buena Vista",
+      "postal_code": [
+        "91341"
+      ]
+    },
+    {
+      "city": "Villa Aldama",
+      "colonia": "Cerro de Leon",
+      "postal_code": [
+        "91345"
+      ]
+    },
+    {
+      "city": "Villa Aldama",
+      "colonia": "Cruz Blanca",
+      "postal_code": [
+        "91345"
+      ]
+    },
+    {
+      "city": "Villa Aldama",
+      "colonia": "Libertad",
+      "postal_code": [
+        "91340"
+      ]
+    },
+    {
+      "city": "Villa Aldama",
+      "colonia": "Villa Aldama",
+      "postal_code": [
+        "91340"
+      ]
+    }
+  ]
+}

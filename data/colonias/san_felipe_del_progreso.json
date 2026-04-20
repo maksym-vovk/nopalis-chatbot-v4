@@ -1,0 +1,616 @@
+{
+  "data": [
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Agua Zarca Nichi",
+      "postal_code": [
+        "50686"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Ampliacion de San Antonio la Cienega",
+      "postal_code": [
+        "50694"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Boreje de San Antonio la Cienega",
+      "postal_code": [
+        "50695"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Calvario Buenavista",
+      "postal_code": [
+        "50655"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Calvario del Carmen",
+      "postal_code": [
+        "50694"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Cerro de la Luna del Fresno Nichi",
+      "postal_code": [
+        "50685"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Charcos Azules San Jeronimo Mavati",
+      "postal_code": [
+        "50685"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Chichilpa",
+      "postal_code": [
+        "50695",
+        "50696"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Choteje",
+      "postal_code": [
+        "50697"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Dios Padre",
+      "postal_code": [
+        "50694"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Dolores Hidalgo",
+      "postal_code": [
+        "50687"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Dotegiare",
+      "postal_code": [
+        "50696"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Ejidal",
+      "postal_code": [
+        "50640"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Ejido de Tlalchichilpa",
+      "postal_code": [
+        "50696"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "El Agostadero Ejido de San Juan Jalpa",
+      "postal_code": [
+        "50653"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "El Carmen Ocotepec",
+      "postal_code": [
+        "50655"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "El Llano Santa Ana Nichi Ejido",
+      "postal_code": [
+        "50686"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "El Obraje",
+      "postal_code": [
+        "50656"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "El Salto San Antonio la Cienega",
+      "postal_code": [
+        "50695"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "El Tunal",
+      "postal_code": [
+        "50656"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Emilio Portes Gil",
+      "postal_code": [
+        "50680"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Encinillas de San Antonio la Cienega",
+      "postal_code": [
+        "50695"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Estutempan",
+      "postal_code": [
+        "50693"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Fernando Orozco y Berra",
+      "postal_code": [
+        "50640"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Flor de Maria",
+      "postal_code": [
+        "50653"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Fresno Nichi",
+      "postal_code": [
+        "50685"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Guadalupe",
+      "postal_code": [
+        "50653"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Guadalupe Cote",
+      "postal_code": [
+        "50686"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Heroes de la Independencia",
+      "postal_code": [
+        "50640"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Jose Maria Morelos",
+      "postal_code": [
+        "50640"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "La Cabecera",
+      "postal_code": [
+        "50653"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "La Cabecera Concepcion",
+      "postal_code": [
+        "50640"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "La Canada San Antonio la Cienega",
+      "postal_code": [
+        "50695"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "La Carrera",
+      "postal_code": [
+        "50696"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "La Cienega",
+      "postal_code": [
+        "50695"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "La Concepcion Chico",
+      "postal_code": [
+        "50696"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "La Concepcion Chico (El Centro)",
+      "postal_code": [
+        "50655"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "La Era San Pablo Tlalchichilpa",
+      "postal_code": [
+        "50697"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "La Esperanza",
+      "postal_code": [
+        "50653"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "La Manzana",
+      "postal_code": [
+        "50695"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Las Colonias",
+      "postal_code": [
+        "50640"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Las Huertas",
+      "postal_code": [
+        "50640"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "La Soledad",
+      "postal_code": [
+        "50695"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "La Teneria",
+      "postal_code": [
+        "50640"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "La Venta",
+      "postal_code": [
+        "50640"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "La Virgen",
+      "postal_code": [
+        "50685",
+        "50694"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "La Virgen San Pedro el Alto",
+      "postal_code": [
+        "50686"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Mesa de la Agüita",
+      "postal_code": [
+        "50694"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Palmillas",
+      "postal_code": [
+        "50655",
+        "50683"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Plateros Palmillas",
+      "postal_code": [
+        "50654"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Progreso",
+      "postal_code": [
+        "50640"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Purisima Concepcion Mayorazgo (Mayorazgo)",
+      "postal_code": [
+        "50693"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Rincon de los Pirules",
+      "postal_code": [
+        "50697"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Rioyos Buenavista",
+      "postal_code": [
+        "50696"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Rosa del Calvario",
+      "postal_code": [
+        "50697"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "San Agustin Mextepec",
+      "postal_code": [
+        "50687"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "San Antonio de las Huertas",
+      "postal_code": [
+        "50686"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "San Antonio la Cienega (La Rosa)",
+      "postal_code": [
+        "50695"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "San Antonio Mextepec",
+      "postal_code": [
+        "50687"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "San Felipe del Progreso Centro",
+      "postal_code": [
+        "50640"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "San Francisco Ejido de San Pablo Tlalchichilpa",
+      "postal_code": [
+        "50697"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "San Francisco San Nicolas Guadalupe",
+      "postal_code": [
+        "50694"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "San Jeronimo Bonchete",
+      "postal_code": [
+        "50687"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "San Jeronimo Mavati",
+      "postal_code": [
+        "50685"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "San Juan Cote",
+      "postal_code": [
+        "50686"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "San Juan Cote Centro",
+      "postal_code": [
+        "50686"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "San Juan Evangelista",
+      "postal_code": [
+        "50696"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "San Juan Jalpa",
+      "postal_code": [
+        "50654"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "San Juan Jalpa Centro",
+      "postal_code": [
+        "50653"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "San Juan Rioyos",
+      "postal_code": [
+        "50696"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "San Lucas Ocotepec",
+      "postal_code": [
+        "50655"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "San Miguel la Labor",
+      "postal_code": [
+        "50686"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "San Nicolas Guadalupe",
+      "postal_code": [
+        "50694"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "San Nicolas Mavati",
+      "postal_code": [
+        "50685"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "San Pablo Tlalchichilpa",
+      "postal_code": [
+        "50697"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "San Pedro el Alto",
+      "postal_code": [
+        "50684"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "San Pedro el Chico",
+      "postal_code": [
+        "50684"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Santa Ana Nichi",
+      "postal_code": [
+        "50686"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Santa Ana Nichi Centro",
+      "postal_code": [
+        "50686"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Santa Cruz de San Pablo Tlalchichilpa",
+      "postal_code": [
+        "50693"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Santa Cruz Mextepec",
+      "postal_code": [
+        "50687"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Santa Rita de la Cuesta",
+      "postal_code": [
+        "50697"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Tepetitlan Emilio Portes Gil",
+      "postal_code": [
+        "50683"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Tlalchichilpa",
+      "postal_code": [
+        "50697"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Tres Estrellas",
+      "postal_code": [
+        "50686"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Tunal Nenaxi",
+      "postal_code": [
+        "50653"
+      ]
+    },
+    {
+      "city": "San Felipe del Progreso",
+      "colonia": "Vicente Guerrero",
+      "postal_code": [
+        "50655"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "San Andres Zautla",
+      "colonia": "Aleman",
+      "postal_code": [
+        "68244"
+      ]
+    },
+    {
+      "city": "San Andres Zautla",
+      "colonia": "San Andres Zautla",
+      "postal_code": [
+        "68244"
+      ]
+    },
+    {
+      "city": "San Andres Zautla",
+      "colonia": "San Isidro",
+      "postal_code": [
+        "68244"
+      ]
+    }
+  ]
+}

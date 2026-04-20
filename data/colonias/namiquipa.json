@@ -1,0 +1,460 @@
+{
+  "data": [
+    {
+      "city": "Namiquipa",
+      "colonia": "Adolfo Ruiz Cortines",
+      "postal_code": [
+        "31965"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Armera",
+      "postal_code": [
+        "31962"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Arroyo de Encinos",
+      "postal_code": [
+        "31964"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Barrio el Sacrificio",
+      "postal_code": [
+        "31963"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Benito Juarez",
+      "postal_code": [
+        "31979"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Campo Cincuenta y Dos (Campo Chiquito)",
+      "postal_code": [
+        "31977"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Campo Cincuenta y Dos (Rancho Blanco)",
+      "postal_code": [
+        "31977"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Campo Cincuenta y Seis (Tres Hermanos)",
+      "postal_code": [
+        "31977"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Campo Cincuenta y Tres (Campo Carretas)",
+      "postal_code": [
+        "31977"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Campo Cincuenta y Tres (El Palomino)",
+      "postal_code": [
+        "31977"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Campo Cincuenta y Uno",
+      "postal_code": [
+        "31977",
+        "31977"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Campo Cincuenta y Uno (El Pino)",
+      "postal_code": [
+        "31978"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Campo Cincuenta y Uno y Medio",
+      "postal_code": [
+        "31977"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Campo Doscientos Cincuenta y Cuatro (La Esperanza)",
+      "postal_code": [
+        "31978"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Campo Doscientos Cincuenta y Dos",
+      "postal_code": [
+        "31978"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Campo Doscientos Cincuenta y Tres",
+      "postal_code": [
+        "31978"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Campo Doscientos Cincuenta y Uno (Jagüeyes)",
+      "postal_code": [
+        "31978"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Campo Setenta y Cinco",
+      "postal_code": [
+        "31977"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Campo Setenta y Seis",
+      "postal_code": [
+        "31977"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Campo Setenta y Siete",
+      "postal_code": [
+        "31978"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Campo Trescientos Cinco",
+      "postal_code": [
+        "31978"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Campo Trescientos Cuatro (Cristalinas)",
+      "postal_code": [
+        "31978"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Campo Trescientos Dos",
+      "postal_code": [
+        "31978"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Campo Trescientos Seis (La Escondida)",
+      "postal_code": [
+        "31978"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Campo Trescientos Tres",
+      "postal_code": [
+        "31978"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Casas Coloradas",
+      "postal_code": [
+        "31960"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Cerro Pelon",
+      "postal_code": [
+        "31962"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Cruces",
+      "postal_code": [
+        "31970"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Division del Norte",
+      "postal_code": [
+        "31966"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "El alamo Nuevo",
+      "postal_code": [
+        "31974"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "El Campo Santo",
+      "postal_code": [
+        "31976"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "El Centauro",
+      "postal_code": [
+        "31963"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "El Cerrito",
+      "postal_code": [
+        "31964"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "El Molino",
+      "postal_code": [
+        "31964"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "El Oso",
+      "postal_code": [
+        "31960"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "El Pacifico",
+      "postal_code": [
+        "31960"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "El Penasco",
+      "postal_code": [
+        "31972"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "El Pino",
+      "postal_code": [
+        "31978"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "El Tascate",
+      "postal_code": [
+        "31971"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "31960"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Emiliano Zapata",
+      "postal_code": [
+        "31976"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Felipe angeles",
+      "postal_code": [
+        "31962"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Granja de Pinos",
+      "postal_code": [
+        "31962"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Guadalupe Victoria (El Picacho)",
+      "postal_code": [
+        "31960"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Independencia (Cologachi)",
+      "postal_code": [
+        "31967"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "La Guajolota",
+      "postal_code": [
+        "31973"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "La Hacienda",
+      "postal_code": [
+        "31960"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Los Cerritos de Abajo",
+      "postal_code": [
+        "31960"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Marquez",
+      "postal_code": [
+        "31964"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Namiquipa Centro",
+      "postal_code": [
+        "31960"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Nuevo Namiquipa",
+      "postal_code": [
+        "31977"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Nuevo Santa Clara",
+      "postal_code": [
+        "31978"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Ojos Azules",
+      "postal_code": [
+        "31977"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Oriente",
+      "postal_code": [
+        "31962"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Progreso",
+      "postal_code": [
+        "31962"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Pueblo Viejo",
+      "postal_code": [
+        "31960"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Rodrigo M Quevedo",
+      "postal_code": [
+        "31963"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Salvador Gomez y Gomez (El Nogalito)",
+      "postal_code": [
+        "31963"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "San Juan",
+      "postal_code": [
+        "31977"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Santa Ana",
+      "postal_code": [
+        "31963"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Santa Catalina de Villela",
+      "postal_code": [
+        "31978"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Santa Clara (Lazaro Cardenas)",
+      "postal_code": [
+        "31978"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Santa Gertrudis de Abajo",
+      "postal_code": [
+        "31964"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Santa Gertrudis de Arriba",
+      "postal_code": [
+        "31964"
+      ]
+    },
+    {
+      "city": "Namiquipa",
+      "colonia": "Venustiano Carranza (Teseachi)",
+      "postal_code": [
+        "31965"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "city": "Santa Ana Tlapacoyan",
+      "colonia": "Agua Blanca",
+      "postal_code": [
+        "71363"
+      ]
+    },
+    {
+      "city": "Santa Ana Tlapacoyan",
+      "colonia": "Rincon de Tlapacoyan",
+      "postal_code": [
+        "71364"
+      ]
+    },
+    {
+      "city": "Santa Ana Tlapacoyan",
+      "colonia": "Santa Ana Tlapacoyan",
+      "postal_code": [
+        "71360"
+      ]
+    }
+  ]
+}

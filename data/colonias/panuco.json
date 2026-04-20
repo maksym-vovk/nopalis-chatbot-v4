@@ -1,0 +1,718 @@
+{
+  "data": [
+    {
+      "city": "Panuco",
+      "colonia": "Casa de Cerros",
+      "postal_code": [
+        "98545"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Del Pueblito",
+      "postal_code": [
+        "98540"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "El Espejo",
+      "postal_code": [
+        "98550"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "El Mirador",
+      "postal_code": [
+        "98540"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Minera",
+      "postal_code": [
+        "98540"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Muleros",
+      "postal_code": [
+        "98546"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Ninos Heroes",
+      "postal_code": [
+        "98540"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Panuco Centro",
+      "postal_code": [
+        "98540"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Pozo de Gamboa",
+      "postal_code": [
+        "98548"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "San Antonio Del Cipres",
+      "postal_code": [
+        "98541"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Sierra de alica",
+      "postal_code": [
+        "98540"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Adan Castelan",
+      "postal_code": [
+        "93994"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Adolfo Lopez Mateos",
+      "postal_code": [
+        "93995"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Aguacate",
+      "postal_code": [
+        "92025"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "alamo",
+      "postal_code": [
+        "92000"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Alto de Vinas",
+      "postal_code": [
+        "93996"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Antonio J. Bermudez",
+      "postal_code": [
+        "92015"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Antonio Ortiz Mena",
+      "postal_code": [
+        "93994"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Aquiles Serdan",
+      "postal_code": [
+        "92024"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Barco y Periquillo",
+      "postal_code": [
+        "92025"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Barrotera del Tamesi",
+      "postal_code": [
+        "92006"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Buenavista (Mahuaves)",
+      "postal_code": [
+        "92005"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Burocrata",
+      "postal_code": [
+        "93998"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Calentadores Dos",
+      "postal_code": [
+        "92018"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Chapacao Dos",
+      "postal_code": [
+        "92012"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Chijol Diecisiete",
+      "postal_code": [
+        "92004"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Chijoles",
+      "postal_code": [
+        "92022"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Chijolito",
+      "postal_code": [
+        "92001"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Chimalpopoca",
+      "postal_code": [
+        "93998"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Chinton de las Flores",
+      "postal_code": [
+        "92027"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Chunca",
+      "postal_code": [
+        "92018"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Confederacion Nacional Campesina (Canoas)",
+      "postal_code": [
+        "92015"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Corcovado",
+      "postal_code": [
+        "92010"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Corregidora",
+      "postal_code": [
+        "93995"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Edmundo Guzman Neyra",
+      "postal_code": [
+        "93994"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "El Cube de Tamante",
+      "postal_code": [
+        "92025"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Electricista",
+      "postal_code": [
+        "93994"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "El Molino",
+      "postal_code": [
+        "92027"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "El Morillo",
+      "postal_code": [
+        "92005"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "El Terrero",
+      "postal_code": [
+        "92007"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Ex-Hacienda Chinton (La Quina)",
+      "postal_code": [
+        "92000"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Florida",
+      "postal_code": [
+        "93998"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Francisco I Madero",
+      "postal_code": [
+        "93995"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Gonzalez",
+      "postal_code": [
+        "93998"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Gral. Desiderio Pavon",
+      "postal_code": [
+        "93996"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Guayalejo",
+      "postal_code": [
+        "92016"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Gutierrez",
+      "postal_code": [
+        "93995"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Heriberto Jara",
+      "postal_code": [
+        "92027"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Independencia",
+      "postal_code": [
+        "93994"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Independencia (La Periodista)",
+      "postal_code": [
+        "92016"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Jopoy",
+      "postal_code": [
+        "92006"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "La Costa",
+      "postal_code": [
+        "92017"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "La Cruz",
+      "postal_code": [
+        "93996"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Laguna de La Costa",
+      "postal_code": [
+        "92018"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "La Palangana",
+      "postal_code": [
+        "92025"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Las Malvinas",
+      "postal_code": [
+        "92018"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Las Truchas",
+      "postal_code": [
+        "93994"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "La Trinidad",
+      "postal_code": [
+        "92000"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Lazaro Cardenas",
+      "postal_code": [
+        "92015"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Loma Linda",
+      "postal_code": [
+        "93998"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Los Cedros",
+      "postal_code": [
+        "92009"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Los Mangos",
+      "postal_code": [
+        "93994"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Maza",
+      "postal_code": [
+        "93996"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Medio Camino",
+      "postal_code": [
+        "92002"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Mendez",
+      "postal_code": [
+        "92010"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Miguel Hidalgo",
+      "postal_code": [
+        "92001"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Monterrey",
+      "postal_code": [
+        "92014"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Moralillo",
+      "postal_code": [
+        "92018"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Napoleon Gomez Sada",
+      "postal_code": [
+        "93998"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Nuevo Michoacan (La Michoacana)",
+      "postal_code": [
+        "92019"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Oviedo",
+      "postal_code": [
+        "92000"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Paciencia",
+      "postal_code": [
+        "92000"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Palmas Reales",
+      "postal_code": [
+        "92000"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Panuco Centro",
+      "postal_code": [
+        "93990"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Pazzi Norte",
+      "postal_code": [
+        "93998"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Piloto",
+      "postal_code": [
+        "92014"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Rafael Hernandez Ochoa",
+      "postal_code": [
+        "93995"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Reventadero",
+      "postal_code": [
+        "92020"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Revolucion 1910",
+      "postal_code": [
+        "93997"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Revolucion Mexicana",
+      "postal_code": [
+        "93997"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Salas",
+      "postal_code": [
+        "93990"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "San Andres",
+      "postal_code": [
+        "92003"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "San Martin",
+      "postal_code": [
+        "93998"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Santa Elena",
+      "postal_code": [
+        "92018"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Santana",
+      "postal_code": [
+        "92023"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Santander",
+      "postal_code": [
+        "93994"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Solidaridad",
+      "postal_code": [
+        "93994"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Tamante",
+      "postal_code": [
+        "92025"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Tamboyoche y Topila",
+      "postal_code": [
+        "92025"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Tamicho y Vichinchijol",
+      "postal_code": [
+        "92000"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Tamos",
+      "postal_code": [
+        "92018"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Tampacas",
+      "postal_code": [
+        "92020"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Tampalache e Isleta Grande (Las animas)",
+      "postal_code": [
+        "92005"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Tanjuco",
+      "postal_code": [
+        "92000"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Tlaxcalita",
+      "postal_code": [
+        "92013"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Uno Dicha",
+      "postal_code": [
+        "92004"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Vega de Otates",
+      "postal_code": [
+        "92025"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Venustiano Carranza",
+      "postal_code": [
+        "93994"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Villa Cacalilao Dos",
+      "postal_code": [
+        "92009"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "VIVAH",
+      "postal_code": [
+        "93994"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Vuelta de las Adjuntas",
+      "postal_code": [
+        "92000"
+      ]
+    },
+    {
+      "city": "Panuco",
+      "colonia": "Zurita",
+      "postal_code": [
+        "93997"
+      ]
+    }
+  ]
+}

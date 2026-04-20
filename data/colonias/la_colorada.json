@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "city": "La Colorada",
+      "colonia": "Cobachi",
+      "postal_code": [
+        "85550"
+      ]
+    },
+    {
+      "city": "La Colorada",
+      "colonia": "La Colorada",
+      "postal_code": [
+        "85540"
+      ]
+    },
+    {
+      "city": "La Colorada",
+      "colonia": "La Galera",
+      "postal_code": [
+        "85550"
+      ]
+    },
+    {
+      "city": "La Colorada",
+      "colonia": "San Jose de Moradillas (El Cochi)",
+      "postal_code": [
+        "85549"
+      ]
+    },
+    {
+      "city": "La Colorada",
+      "colonia": "San Jose de Pimas",
+      "postal_code": [
+        "85550"
+      ]
+    }
+  ]
+}

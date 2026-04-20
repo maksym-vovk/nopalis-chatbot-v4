@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "city": "Santiago Matatlan",
+      "colonia": "Maguey Santo",
+      "postal_code": [
+        "70440"
+      ]
+    },
+    {
+      "city": "Santiago Matatlan",
+      "colonia": "Pedregal",
+      "postal_code": [
+        "70440"
+      ]
+    },
+    {
+      "city": "Santiago Matatlan",
+      "colonia": "Rancho Blanco",
+      "postal_code": [
+        "70440"
+      ]
+    },
+    {
+      "city": "Santiago Matatlan",
+      "colonia": "San Felipe",
+      "postal_code": [
+        "70445"
+      ]
+    },
+    {
+      "city": "Santiago Matatlan",
+      "colonia": "San Pablo Guila",
+      "postal_code": [
+        "70442"
+      ]
+    },
+    {
+      "city": "Santiago Matatlan",
+      "colonia": "Santiago Matatlan",
+      "postal_code": [
+        "70440"
+      ]
+    }
+  ]
+}
