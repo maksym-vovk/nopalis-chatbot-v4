@@ -1,3 +1,10 @@
+const COURSES = [
+    { packs: 2, name: 'Curso Inicial',                  price: 1380, currency: 'MXN' },
+    { packs: 3, name: 'Curso de Resultados Mínimos',    price: 1480, currency: 'MXN' },
+    { packs: 5, name: 'Programa completo',              price: 1880, currency: 'MXN' },
+    { packs: 6, name: 'Tratamiento Máximo',             price: 2450, currency: 'MXN' },
+];
+
 /**
  * Керує progress bar чатбота.
  * Викликається ззовні через chatProgress.setProgress(value).
@@ -1329,12 +1336,7 @@ class ChatBot {
             if (step.id === 'course_choice') {
                 const packs = option.value;
                 // Приклад цін (замініть на ваші реальні)
-                const priceMap = {
-                    2: 1380,
-                    3: 1480,
-                    5: 1880,
-                    6: 2450,
-                };
+                const priceMap = Object.fromEntries(COURSES.map(c => [c.packs, c.price]));
                 price = priceMap[packs] || null;
 
                 // 👉 Якщо обрав 2 упаковки - встановлюємо прапорець назавжди
@@ -1832,30 +1834,10 @@ const chatSteps = [
     {
         id: 'intro',
         messages: [
-            // {text: "Test mic indicator and flexible typing delay: 5 sec", typingIndicator: 'mic', typingDelay: 5000},
             (state) => {
-                console.log(state);
-                return `Hello, ${state.answers.main_form_name || 'Incognito'}!`;
+                return `Здравствуйте, ${state.answers.main_form_name || 'Incognito'}, я Мариана, персональный консультант Nopalіs. Для вас уже действует скидка 50%. Предлагаю вам прослушать краткую информацию о нашей программе`;
             }
         ],
-        options: (state) => {
-            if (state.answers.clicked_start_chat) {
-                return []; // Не показувати кнопки, якщо чат почато через кнопку
-            }
-            return [
-                {label: 'Da, vreau', value: 'yes'},
-                {label: 'Nu', value: 'back'},
-            ];
-        },
-        nextStep: ({option, state, bot}) => {
-            // якщо користувач хоче "назад" — збережемо в відповіді
-            if (option.value === 'back') {
-                state.answers.exitReason = 'user_back';
-                // логіка повернення – в onAnswer (redirect/history.back)
-            }
-            // завжди переходимо до наступного кроку
-            return bot._getStepIndex('effect_audio');
-        },
     },
     {
         id: 'effect_audio',
@@ -1867,132 +1849,72 @@ const chatSteps = [
             }
         ],
         options: [
-            // {label: 'Vizualizați recenziile clienților', value: 'show_comments'},
-            // {label: 'Mergeți la alegerea programului', value: 'course_selection'},
-            {label: 'Начать консультацию', value: 'start_consultation'},
+            {label: 'Перейти к консультации', value: 'start_consultation'},
         ],
-        onEnter: (bot, state) => {
-            // onEnter migration from id: 'goal_reco'
-            const goal = state.answers.goal;
-            let recommendedPacks = 4;
-
-            // if (goal === '5_7') {
-            //     recommendedPacks = 3;
-            // } else if (goal === '8_12') {
-            //     recommendedPacks = 5;
-            // } else {
-            //     recommendedPacks = 6;
-            // }
-
-            // 👉 Зберігаємо в state
-            state.answers.recommended_packs = recommendedPacks;
-
-            // 👉 Відправляємо одним запитом разом з goal (якщо він є)
-            const data = {
-                userID: bot.userID,
-                LastAction: bot._formatKyivDate(),
-                recommended_packs: recommendedPacks,
-            };
-
-            bot._sendDataToSheet(data).catch(() => {});
-        },
-        nextStep: ({option, state, bot}) => {
-            // if (option.value === 'show_comments') {
-            //     return bot._getStepIndex('comments_1');
-            // }
-            return bot._getStepIndex('height');
-        }
     },
     {
         id: 'height',
         messages: [
-            'Height text'
+            'Теперь перейдем к важному. Уточните, пожалуйста, ваш рост.'
         ],
         options: [
-            {label: '1', value: '1'},
-            {label: '2', value: '2'},
-            {label: '3', value: '3'},
-            {label: '4', value: '4'},
-
+            {label: 'До 155 см',    value: 'up_to_155', name: 'Up to 155 cm'},
+            {label: '155-165 см',   value: '155_165', name: '155-165 cm'},
+            {label: '165-175 см',   value: '165_175', name: '165-175 cm'},
+            {label: 'Выше 175 см',  value: 'over_175', name: 'Over 175 cm'},
         ],
-        // onEnter: (bot, state) => {
-        //
-        // },
-        // nextStep: ({option, state, bot}) => {
-        //
-        //     return bot._getStepIndex('weight');
-        // }
     },
     {
         id: 'weight',
         messages: [
-            'weight text'
+            'Спасибо. Переходим к следующему вопросу',
+            'Пожалуйста, укажите ваш текущий вес'
         ],
         options: [
-            {label: '1', value: '1'},
-            {label: '2', value: '2'},
-            {label: '3', value: '3'},
-            {label: '4', value: '4'},
-
+            {label: 'До 60 кг',      value: 'up_to_60', name: 'Up to 60 kg'},
+            {label: '60–75 кг',      value: '60_75', name: '60-75 kg'},
+            {label: '75–90 кг',      value: '75_90', name: '75-90 kg'},
+            {label: 'Больше 90 кг',  value: 'over_90', name: 'Over 90 kg'},
         ],
-        // onEnter: (bot, state) => {
-        //
-        // },
-        // nextStep: ({option, state, bot}) => {
-        //
-        //     return bot._getStepIndex('age');
-        // }
     },
     {
         id: 'age',
         messages: [
-            'age text'
+            'Не волнуйтесь, мы вместе с этим справимся. Переходим к следующему вопросу.',
+            'Для максимального эффекта программы важно учитывать ваш возраст, ведь от него зависит скорость метаболических процессов. Укажите, пожалуйста, сколько вам лет.'
         ],
         options: [
-            {label: '1', value: '1'},
-            {label: '2', value: '2'},
-            {label: '3', value: '3'},
-            {label: '4', value: '4'},
-
+            {label: 'До 35 лет',      value: 'under_35', name: 'Under 35'},
+            {label: '35–45 лет',      value: '35_45', name: '35-45'},
+            {label: '45–55 лет',      value: '45_55', name: '45-55'},
+            {label: 'Больше 55 лет',  value: 'over_55', name: 'Over 55'},
         ],
-        // onEnter: (bot, state) => {
-        //
-        // },
-        // nextStep: ({option, state, bot}) => {
-        //
-        //     return bot._getStepIndex('physical_activity');
-        // }
     },
     {
         id: 'physical_activity',
         messages: [
-            'physical activity text'
+            'Спасибо, учитывая ваш возраст, я уже лучше понимаю, что подойдет именно вам. Переходим к следующему вопросу.',
+            'Для более корректного выбора программы укажите, пожалуйста, свою обычную физическую активность.'
         ],
         options: [
-            {label: '1', value: '1'},
-            {label: '2', value: '2'},
-            {label: '3', value: '3'},
-            {label: '4', value: '4'},
-
+            {label: 'Большую часть дня сижу, спортом не занимаюсь', value: 'sedentary', name: 'Sedentary'},
+            {label: 'Спортом не занимаюсь, но много хожу',          value: 'light', name: 'Light activity'},
+            {label: 'Занимаюсь спортом 1–2 раза в неделю',          value: 'moderate', name: 'Moderate activity'},
+            {label: 'Регулярно тренируюсь',                         value: 'active', name: 'Active'},
         ],
-        // onEnter: (bot, state) => {
-        //
-        // },
-        // nextStep: ({option, state, bot}) => {
-        //
-        //     return bot._getStepIndex('goal');
-        // }
     },
     {
         id: 'goal',
-        messages: ['¿Cuántos kilos quieres perder?'],
+        messages: [
+            'Отлично. Теперь переходим к последнему вопросу - самому главному.',
+            'Сколько килограмм вы хотите сбросить?'
+        ],
         options: [
-            {label: 'Adelgazar 5–7 kg', value: '5_7', name: '5-7 kg'},
-            {label: 'Adelgazar 8–12 kg', value: '8_12', name: '8-12 kg'},
-            {label: 'Más de 12 kg / quitar barriga', value: '12_plus', name: '12+ kg'},
+            {label: 'Около 5–7 кг', value: '5_7', name: '5-7 kg'},
+            {label: 'Около 8–12 кг', value: '8_12', name: '8-12 kg'},
+            {label: '12 кг или больше', value: '12_plus', name: '12+ kg'},
         ],
         onEnter: (bot, state) => {
-            // onEnter migration from id: 'goal_reco'
             const goal = state.answers.goal;
             let recommendedPacks;
 
@@ -2004,10 +1926,8 @@ const chatSteps = [
                 recommendedPacks = 6;
             }
 
-            // 👉 Зберігаємо в state
             state.answers.recommended_packs = recommendedPacks;
 
-            // 👉 Відправляємо одним запитом разом з goal (якщо він є)
             const data = {
                 userID: bot.userID,
                 LastAction: bot._formatKyivDate(),
@@ -2020,11 +1940,16 @@ const chatSteps = [
     {
         id: 'course_choice',
         messages: [
+            'Спасибо, теперь мне понятна задача. И вот что я вам хочу предложить:',
             (state) => {
                 const packs = state.answers.recommended_packs;
+                const twoPacksCourse = COURSES.find(c => c.packs === 2);
+                const threePacksCourse = COURSES.find(c => c.packs === 3);
+                const fivePacksCourse = COURSES.find(c => c.packs === 5);
+                const sixPacksCourse = COURSES.find(c => c.packs === 6);
 
                 const courseInitiation = '<div class="course">' +
-                    '<b class="course-title">Curso Inicial (2&nbsp;paquetes)' +
+                    '<b class="course-title">' + twoPacksCourse.name + ' (2&nbsp;paquetes)' +
                     '<span class="inline-products">' +
                     '<span class="inline-product-item"></span>' +
                     '<span class="inline-product-item"></span>' +
@@ -2036,7 +1961,7 @@ const chatSteps = [
                     '</div>';
 
                 const courseMinimum = '<div class="course">' +
-                    '<b class="course-title">Curso de Resultados Mínimos (3&nbsp;paquetes)' +
+                    '<b class="course-title">' + threePacksCourse.name + ' (3&nbsp;paquetes)' +
                     '<span class="inline-products">' +
                     '<span class="inline-product-item"></span>' +
                     '<span class="inline-product-item"></span>' +
@@ -2049,7 +1974,7 @@ const chatSteps = [
                     '</div>';
 
                 const courseComplete = '<div class="course">' +
-                    '<b class="course-title">Programa completo (5&nbsp;paquetes)' +
+                    '<b class="course-title">' + fivePacksCourse.name + ' (5&nbsp;paquetes)' +
                     '<span class="inline-products">' +
                     '<span class="inline-product-item"></span>' +
                     '<span class="inline-product-item"></span>' +
@@ -2064,7 +1989,7 @@ const chatSteps = [
                     '</div>';
 
                 const courseMaximum = '<div class="course">' +
-                    '<b class="course-title">Tratamiento Máximo (6&nbsp;paquetes)' +
+                    '<b class="course-title">' + sixPacksCourse.name + ' (6&nbsp;paquetes)' +
                     '<span class="inline-products">' +
                     '<span class="inline-product-item"></span>' +
                     '<span class="inline-product-item"></span>' +
@@ -2099,627 +2024,15 @@ const chatSteps = [
                     return course.html;
                 })
 
-                // separated text and cards
-                // return 'Cada opción posterior <b>refuerza el efecto de la anterior</b>.' + coursesHTML
                 return [
-                    {
-                        text: 'Un curso corto inicia el proceso. Un curso completo produce resultados duraderos.',
-                        typingDelay: 2500
-                    },
                     ...coursesHTML.map((course) => ({text: course, typingDelay: 1000}))
                 ]
             },
-        ],
-        options: [
-            {label: '6 paquetes', value: 6},
-            {label: '5 paquetes', value: 5},
-            {label: '3 paquetes', value: 3},
-            {label: '2 paquetes', value: 2, color: '#9ca3af'},
-        ],
-        nextStep: ({option, state, bot}) => {
-            state.answers.course_packs = option.value;
-            if (option.value === 2) {
-                return bot._getStepIndex('two_packs');
-            }
-            return bot._getStepIndex('price_calculation');
-        },
-    },
-    {
-        id: 'two_packs',
-        messages: [
-            'Oops, I dont want to sell you 2 packs:)'
-        ],
-        options: [
-            {label: 'Pedir 3 paquetes', value: 3, color: 'green'},
-            {label: 'Quedarme con 2 paquetes', value: 2},
-        ],
-        shouldSkip: ({state}) => state.answers.course_packs !== 2,
-        nextStep: ({option, state, bot}) => {
-            state.answers.course_packs = option.value;
-            return bot._getStepIndex('course_confirm');
-        },
-    },
-    {
-        id: 'price_calculation',
-        messages: [
-            state => {
-                const packs = state.answers.course_packs;
-                const priceMap = {
-                    2: 1380,
-                    3: 1480,
-                    5: 1880,
-                    6: 2450,
-                };
-                // let courseName = 'Mínimo efectivo';
-                //
-                // if (packs === 5) {
-                //     courseName = 'Completo';
-                // } else if (packs === 6) {
-                //     courseName = 'Máximo';
-                // }
-
-                return {
-                    text: `¡Excelente! Tu elección: ${packs}&nbsp;paquetes. Precio: ${priceMap[packs]}&nbsp;MXN. Nosotros nos encargamos del envío.`,
-                    typingDelay: 2000
-                }
-            },
-            state => {
-                const packs = state.answers.course_packs;
-                const threePacks = `
-                    <div class="pricing-card">
-                        <div class="header">
-                            <span class="star">⭐</span>
-                            <h2>3&nbsp;paquetes:<br> Curso de Resultados Mínimos</h2>
-                        </div>
-                        <div class="calculation-header">
-                            <h3>Cálculo:</h3>
-                        </div>
-                        <div class="pricing-row">
-                            <span class="package">1&nbsp;paq.</span>
-                            <span class="old-price">1180</span>
-                            <span class="arrow blue">➜</span>
-                            <span class="new-price sale blue">590&nbsp;MXN</span>
-                        </div>
-                        <div class="pricing-row">
-                            <span class="package">2&nbsp;paq.</span>
-                            <span class="old-price">1180</span>
-                            <span class="arrow blue">➜</span>
-                            <span class="new-price sale blue">590&nbsp;MXN</span>
-                        </div>
-                        <div class="pricing-row">
-                            <span class="package">3&nbsp;paq.</span>
-                            <span class="old-price">1180</span>
-                            <span class="arrow green">➜</span>
-                            <span class="new-price green">300&nbsp;MXN</span>
-                        </div>
-                        <div class="savings-section">
-                            <span class="savings-text">Ahorro: <span class=""><span class="">3540</span> - 1480 =</span> <span class="">2060&nbsp;MXN</span></span>
-                        </div>
-                        <div class="total-section">
-                            <span class="total-label green-text">EN TOTAL:</span>
-                            <span class="total-price green-text">1480&nbsp;MXN</span>
-                        </div>
-                        <div class="delivery-section">
-                            <span class="savings-text">¡Envío gratis!</span>
-                        </div>
-                        <div class="promo-banner">
-                            <span class="promo-text">Obtendrás el curso mínimo completo para obtener resultados notables.</span>
-                        </div>
-                    </div>
-                `
-                const fivePacks = `
-                    <div class="pricing-card">
-                        <div class="header">
-                            <span class="star">⭐</span>
-                            <h2>5&nbsp;paquetes:<br> Programa completo</h2>
-                        </div>
-                        <div class="calculation-header">
-                            <h3>Cálculo:</h3>
-                        </div>
-                        <div class="pricing-row">
-                            <span class="package">1&nbsp;paq.</span>
-                            <span class="old-price">1180</span>
-                            <span class="arrow blue">➜</span>
-                            <span class="new-price sale blue">590&nbsp;MXN</span>
-                        </div>
-                        <div class="pricing-row">
-                            <span class="package">2&nbsp;paq.</span>
-                            <span class="old-price">1180</span>
-                            <span class="arrow blue">➜</span>
-                            <span class="new-price sale blue">590&nbsp;MXN</span>
-                        </div>
-                        <div class="pricing-row">
-                            <span class="package">3&nbsp;paq.</span>
-                            <span class="old-price">1180</span>
-                            <span class="arrow green">➜</span>
-                            <span class="new-price green">300&nbsp;MXN</span>
-                        </div>
-                        <div class="pricing-row">
-                            <span class="package">4&nbsp;paq.</span>
-                            <span class="old-price">1180</span>
-                            <span class="arrow green">➜</span>
-                            <span class="new-price green">200&nbsp;MXN</span>
-                        </div>
-                        <div class="pricing-row">
-                            <span class="package">5&nbsp;paq.</span>
-                            <span class="old-price">1180</span>
-                            <span class="arrow green">➜</span>
-                            <span class="new-price green">200&nbsp;MXN</span>
-                        </div>
-                        <div class="savings-section">
-                            <span class="savings-text">Ahorro: <span class=""><span class="">5900</span> - 1880 =</span> <span class="">4020&nbsp;MXN</span></span>
-                        </div>
-                        <div class="total-section">
-                            <span class="total-label green-text">EN TOTAL:</span>
-                            <span class="total-price green-text">1880&nbsp;MXN</span>
-                        </div>
-                        <div class="delivery-section">
-                            <span class="savings-text">¡Envío gratis!</span>
-                        </div>
-                        <div class="promo-banner">
-                            <span class="promo-text">De hecho: pagas por 2&nbsp;paquetes al precio estándar, ¡pero obtienes <strong class="yellow-text">5&nbsp;paquetes</strong>!</span>
-                        </div>
-                    </div>
-                `
-                const sixPacks = `
-                    <div class="pricing-card">
-                        <div class="header">
-                            <span class="star">⭐</span>
-                            <h2>6&nbsp;paquetes:<br> Tratamiento Máximo</h2>
-                        </div>
-                        <div class="calculation-header">
-                            <h3>Cálculo:</h3>
-                        </div>
-                        <div class="pricing-row">
-                            <span class="package">1&nbsp;paq.</span>
-                            <span class="old-price">1180</span>
-                            <span class="arrow blue">➜</span>
-                            <span class="new-price sale blue">590&nbsp;MXN</span>
-                        </div>
-                        <div class="pricing-row">
-                            <span class="package">2&nbsp;paq.</span>
-                            <span class="old-price">1180</span>
-                            <span class="arrow blue">➜</span>
-                            <span class="new-price sale blue">590&nbsp;MXN</span>
-                        </div>
-                        <div class="pricing-row">
-                            <span class="package">3&nbsp;paq.</span>
-                            <span class="old-price">1180</span>
-                            <span class="arrow blue">➜</span>
-                            <span class="new-price sale blue">590&nbsp;MXN</span>
-                        </div>
-                        <div class="pricing-row">
-                            <span class="package">4&nbsp;paq.</span>
-                            <span class="old-price">1180</span>
-                            <span class="arrow green">➜</span>
-                            <span class="new-price green">300&nbsp;MXN</span>
-                        </div>
-                        <div class="pricing-row">
-                            <span class="package">5&nbsp;paq.</span>
-                            <span class="old-price">1180</span>
-                            <span class="arrow green">➜</span>
-                            <span class="new-price green">200&nbsp;MXN</span>
-                        </div>
-                        <div class="pricing-row">
-                            <span class="package">6&nbsp;paq.</span>
-                            <span class="old-price">1180</span>
-                            <span class="arrow green">➜</span>
-                            <span class="new-price green">80&nbsp;MXN</span>
-                        </div>
-                        <div class="savings-section">
-                            <span class="savings-text">Ahorro: <span class=""><span class="">7080</span> - 2450 =</span> <span class="">4630&nbsp;MXN</span></span>
-                        </div>
-                        <div class="total-section">
-                            <span class="total-label green-text">EN TOTAL:</span>
-                            <span class="total-price green-text">2450&nbsp;MXN</span>
-                        </div>
-                        <div class="delivery-section">
-                            <span class="savings-text">¡Envío gratis!</span>
-                        </div>
-                        <div class="promo-banner">
-                            <span class="promo-text">De hecho, este es el precio por solo 2&nbsp;paquetes al precio estándar y solo +90&nbsp;MXN adicionales, ¡y recibirás <strong class="yellow-text">6&nbsp;paquetes</strong>!</span>
-                        </div>
-                    </div>
-                `
-
-                if (packs === 3) {
-                    return {
-                        text: threePacks.trim().replace(/\s+/g, ' '),
-                        typingDelay: 1000
-                    };
-                } else if (packs === 5) {
-                    return {
-                        text: fivePacks.trim().replace(/\s+/g, ' '),
-                        typingDelay: 1000
-                    };
-                } else if (packs === 6) {
-                    return {
-                        text: sixPacks.trim().replace(/\s+/g, ' '),
-                        typingDelay: 1000
-                    };
-                }
-                return '';
-            },
-        ],
-        options: [
-            {label: 'Confirmar el pedido', value: 'confirm', color: 'green'},
-            {label: 'Volver a elegir el curso', value: 'back'},
-        ],
-        shouldSkip: ({state}) => state.answers.course_packs === 2,
-        nextStep: ({option, state, bot}) => {
-            if (option.value === 'back') {
-                state.answers.returnedToCourseChoice = true;
-                return bot._getStepIndex('course_choice')
-
-            }
-
-            return bot._getStepIndex('course_confirm');
-        },
-    },
-
-
-    // +2
-    // КРОК 1 — Привітання + мотивація
-    {
-        id: 'intro',
-        messages: [
-            // {text: "Test mic indicator and flexible typing delay: 5 sec", typingIndicator: 'mic', typingDelay: 5000},
             (state) => {
-                if (state.answers.clicked_start_chat) {
-                    return '👋¡Hola! Te ayudaré a encontrar el programa perfecto para bajar de peso cómodamente y obtener un descuento adicional.\n\n' +
-                        'Al hacer tu pedido aquí, no necesitas esperar a que te llame un operador. Es rápido y fácil.\n\n' +
-                        'Para elegir un programa y asegurar tu descuento, deja tus datos aquí. 👇';
-                }
-                return '👋 Bună! Mulțumim pentru comanda ta la Nopalis.\n\n' +
-                    'Ai deja o reducere de 35%.\n' +
-                    'Comandând aici — primești reduceri suplimentare la produsul ales! Și nu trebuie să aștepți apelul operatorului.\n\n' +
-                    'Vrei să finalizezi comanda rapid și să profiți de reducere?';
+                const username = state.answers.main_form_name || "Incognito"
+                const recommendedCourse = COURSES.find(c => c.packs === state.answers.recommended_packs);
+                return `${username}, на основании ваших данных могу вам порекомендовать оптимальный для вас курс ${recommendedCourse.name}. Он поможет обеспечить именно тот результат, к которому вы стремитесь.`
             }
-        ],
-        options: (state) => {
-            if (state.answers.clicked_start_chat) {
-                return []; // Не показувати кнопки, якщо чат почато через кнопку
-            }
-            return [
-                {label: 'Sí, quiero', value: 'yes'},
-                {label: 'No', value: 'back'},
-            ];
-        },
-        nextStep: ({option, state, bot}) => {
-            // якщо користувач хоче "назад" — збережемо в відповіді
-            if (option.value === 'back') {
-                state.answers.exitReason = 'user_back';
-                // логіка повернення – в onAnswer (redirect/history.back)
-            }
-            // завжди переходимо до наступного кроку
-            return bot._getStepIndex('main_form_name');
-        },
-    },
-    {
-        id: 'main_form_name',
-        messages: ['Por cierto, ¿cómo te llamas? 😊'],
-        expectFreeInput: true,
-        inputPlaceholder: 'Nombre y apellido',
-        shouldSkip: ({state}) => {
-            // Показуємо тільки якщо натиснули кнопку старту чату
-            return !state.answers.clicked_start_chat;
-        },
-    },
-    {
-        id: 'main_form_phone',
-        messages: ['Por favor, facilita tu número de teléfono.'],
-        expectFreeInput: true,
-        inputPlaceholder: 'Número de teléfono de contacto',
-        shouldSkip: ({state}) => {
-            // Показуємо тільки якщо натиснули кнопку старту чату
-            return !state.answers.clicked_start_chat;
-        },
-        nextStep: ({option, state}) => {
-            if (state.answers.main_form_name && state.answers.main_form_phone) {
-                TrackingManager.init()
-            }
-        }
-    },
-    // {
-    //     id: 'intro_after_data',
-    //     messages: ['He registrado los datos, continuaremos con el descuento 👇'],
-    //     options: [
-    //         {label: 'Sí, quiero', value: 'yes'},
-    //         {label: 'No', value: 'back'},
-    //     ],
-    //     nextStep: ({option, state, bot}) => {
-    //         // якщо користувач хоче "назад" — збережемо в відповіді
-    //         if (option.value === 'back') {
-    //             state.answers.exitReason = 'user_back';
-    //             // логіка повернення – в onAnswer (redirect/history.back)
-    //         }
-    //         return bot._getStepIndex('goal');
-    //     },
-    //     shouldSkip: ({state}) => {
-    //         // Показуємо тільки якщо натиснули кнопку старту чату
-    //         return !state.answers.clicked_start_chat;
-    //     },
-    //     onEnter: (bot) => {
-    //         bot._setPixelLeadImage()
-    //     }
-    // },
-    {
-        id: 'goal',
-        messages: ['¿Cuántos kilos quieres perder?'],
-        options: [
-            {label: 'Adelgazar 5–7 kg', value: '5_7', name: '5-7 kg'},
-            {label: 'Adelgazar 8–12 kg', value: '8_12', name: '8-12 kg'},
-            {label: 'Más de 12 kg / quitar barriga', value: '12_plus', name: '12+ kg'},
-        ],
-    },
-    {
-        id: 'effect_audio',
-        messages: [
-            {
-                text: `<div class="audio"><img src="${basePath}images/cb-ava.png" alt="Avatar" class="message-avatar"><div class="audio-player"><div class="controls"><button class="play-pause-button play" id="audioControlButton"></button></div><audio><source src="${basePath}media/1.mp3" type="audio/mpeg"></audio><div class="progress-wrapper"><div class="progress"><div class="progress-bar"></div></div></div><div class="audio-time"><span class="audio-current__time">0:00</span></div></div></div>`,
-                typingIndicator: 'mic',
-                typingDelay: 12000 //12000
-            }
-        ],
-        options: [
-            {label: 'Ver opiniones de clientes', value: 'show_comments'},
-            {label: 'Pasar a elegir el curso', value: 'course_selection'},
-        ],
-        onEnter: (bot, state) => {
-            // onEnter migration from id: 'goal_reco'
-            const goal = state.answers.goal;
-            let recommendedPacks = 3;
-
-            if (goal === '5_7') {
-                recommendedPacks = 3;
-            } else if (goal === '8_12') {
-                recommendedPacks = 5;
-            } else {
-                recommendedPacks = 6;
-            }
-
-            // 👉 Зберігаємо в state
-            state.answers.recommended_packs = recommendedPacks;
-
-            // 👉 Відправляємо одним запитом разом з goal (якщо він є)
-            const data = {
-                userID: bot.userID,
-                LastAction: bot._formatKyivDate(),
-                recommended_packs: recommendedPacks,
-            };
-
-            bot._sendDataToSheet(data).catch(() => {});
-        },
-        nextStep: ({option, state, bot}) => {
-            if (option.value === 'show_comments') {
-                return bot._getStepIndex('comments_1');
-            }
-            return bot._getStepIndex('course_choice');
-        }
-    },
-    {
-        id: 'comments_1',
-        messages: [
-            {
-                text: `<div class="chat-review"><span class="chat-review__label">Reenviado</span><div class="chat-review__wrapper"><div class="chat-review__header"><img src="${basePath}images/comm-ava-1.jpg" alt="" class="chat-review__avatar"><b>María, 44 años</b><span class="chat-review__stars">${STARS_5}</span></div><p class="chat-review__text">Para ser sincera, al principio tenía mis dudas. Pedí cuatro frascos a la vez y me alegro de haberlo hecho. Después del primer mes, ya veía resultados; empecé a bajar de peso poco a poco.</p></div></div>`,
-                typingDelay: 1500
-            },
-            {
-                text: `<div class="chat-review"><span class="chat-review__label">Reenviado</span><div class="chat-review__wrapper"><div class="chat-review__header"><img src="${basePath}images/comm-ava-2.jpg" alt="" class="chat-review__avatar"><b>Carmen, 52 años</b><span class="chat-review__stars">${STARS_5}</span></div><p class="chat-review__text">Muchas gracias por todo. No podía encontrar nada durante mucho tiempo, pero ahora realmente noté la diferencia después de solo unas semanas.</p></div></div>`,
-                typingDelay: 500
-            },
-            {
-                text: `<div class="chat-review"><span class="chat-review__label">Reenviado</span><div class="chat-review__wrapper"><div class="chat-review__header"><img src="${basePath}images/comm-ava-3.jpg" alt="" class="chat-review__avatar"><b>Lucía, 39 años</b><span class="chat-review__stars">${STARS_5}</span></div><p class="chat-review__text">Al principio pedí dos frascos, pero luego me di cuenta de que necesitaba seguir usándolos. Después de un mes, empecé a notar que la ropa me quedaba más holgada.</p></div></div>`,
-                typingDelay: 500
-            }
-        ],
-        options: [
-            { label: 'Más comentarios', value: 'more_comments' },
-            { label: 'Pasar a elegir el curso', value: 'course_selection' },
-        ],
-        nextStep: ({ option, state, bot }) => {
-            if (option.value === 'more_comments') {
-                return bot._getStepIndex('comments_2');
-            }
-            return bot._getStepIndex('course_choice');
-        },
-    },
-    {
-        id: 'comments_2',
-        messages: [
-            {
-                text: `<div class="chat-review"><span class="chat-review__label">Reenviado</span><div class="chat-review__wrapper"><div class="chat-review__header"><img src="${basePath}images/comm-ava-4.jpg" alt="" class="chat-review__avatar"><b>Ana, 47 años</b><span class="chat-review__stars">${STARS_5}</span></div><p class="chat-review__text">No creí al principio que me ayudaría, pero decidí probarlo. Ya estoy terminando mi segundo frasco y estoy pensando en pedir más.</p></div></div>`,
-                typingDelay: 1500
-            },
-            {
-                text: `<div class="chat-review"><span class="chat-review__label">Reenviado</span><div class="chat-review__wrapper"><div class="chat-review__header"><img src="${basePath}images/comm-ava-5.jpg" alt="" class="chat-review__avatar"><b>Rosa, 55 años</b><span class="chat-review__stars">${STARS_5}</span></div><p class="chat-review__text">Gracias. Bajar de peso después de los 50 es muy difícil, pero con este producto, es un poco más fácil de controlar.</p></div></div>`,
-                typingDelay: 500
-            },
-            {
-                text: `<div class="chat-review"><span class="chat-review__label">Reenviado</span><div class="chat-review__wrapper"><div class="chat-review__header"><img src="${basePath}images/comm-ava-6.jpg" alt="" class="chat-review__avatar"><b>José, 41 años</b><span class="chat-review__stars">${STARS_5}</span></div><p class="chat-review__text">Al principio pedí dos frascos para probar. Después entendí que mejor tomar un curso. Ahora ya es tercer bote y hay resultado.</p></div></div>`,
-                typingDelay: 500
-            },
-        ],
-        options: [
-            { label: 'Más comentarios', value: 'more_comments' },
-            { label: 'Pasar a elegir el curso', value: 'course_selection' },
-        ],
-        nextStep: ({ option, state, bot }) => {
-            if (option.value === 'more_comments') {
-                return bot._getStepIndex('comments_3');
-            }
-            return bot._getStepIndex('course_choice');
-        },
-    },
-    {
-        id: 'comments_3',
-        messages: [
-            {
-                text: `<div class="chat-review"><span class="chat-review__label">Reenviado</span><div class="chat-review__wrapper"><div class="chat-review__header"><img src="${basePath}images/comm-ava-7.jpg" alt="" class="chat-review__avatar"><b>Teresa, 49 años</b><span class="chat-review__stars">${STARS_5}</span></div><p class="chat-review__text">Me alegro mucho de haber pedido cuatro frascos a la vez. Solo empiezas a ver cambios después del primero, y luego los resultados se hacen más notorios.</p></div></div>`,
-                typingDelay: 1500
-            },
-            {
-                text: `<div class="chat-review"><span class="chat-review__label">Reenviado</span><div class="chat-review__wrapper"><div class="chat-review__header"><img src="${basePath}images/comm-ava-8.jpg" alt="" class="chat-review__avatar"><b>Patricia, 37 años</b><span class="chat-review__stars">${STARS_5}</span></div><p class="chat-review__text">Gracias por el producto. Mi pérdida de peso no es drástica, sino gradual y constante, y me gusta.</p></div></div>`,
-                typingDelay: 500
-            },
-            {
-                text: `<div class="chat-review"><span class="chat-review__label">Reenviado</span><div class="chat-review__wrapper"><div class="chat-review__header"><img src="${basePath}images/comm-ava-9.jpg" alt="" class="chat-review__avatar"><b>Elena, 60 años</b><span class="chat-review__stars">${STARS_5}</span></div><p class="chat-review__text">Estaba leyendo las reseñas durante mucho tiempo antes de comprar. Ahora yo entiendo que ha valido la pena pedirlo, me siento mucho mejor.</p></div></div>`,
-                typingDelay: 500
-            },
-        ],
-        options: [
-            { label: 'Más comentarios', value: 'more_comments' },
-            { label: 'Pasar a elegir el curso', value: 'course_selection' },
-        ],
-        nextStep: ({ option, state, bot }) => {
-            if (option.value === 'more_comments') {
-                return bot._getStepIndex('comments_4');
-            }
-            return bot._getStepIndex('course_choice');
-        },
-    },
-    {
-        id: 'comments_4',
-        messages: [
-            {
-                text: `<div class="chat-review"><span class="chat-review__label">Reenviado</span><div class="chat-review__wrapper"><div class="chat-review__header"><img src="${basePath}images/comm-ava-10.jpg" alt="" class="chat-review__avatar"><b>Miguel, 53 años</b><span class="chat-review__stars">${STARS_5}</span></div><p class="chat-review__text">Lo compré para probarlo. Después de unas semanas, noté cambios, así que pedí más frascos para continuar.</p></div></div>`,
-                typingDelay: 1500
-            },
-            {
-                text: `<div class="chat-review"><span class="chat-review__label">Reenviado</span><div class="chat-review__wrapper"><div class="chat-review__header"><img src="${basePath}images/comm-ava-11.jpg" alt="" class="chat-review__avatar"><b>Guadalupe, 45 años</b><span class="chat-review__stars">${STARS_5}</span></div><p class="chat-review__text">Estoy muy agradecida. Noté que empecé a bajar de peso después del primer mes. Menos mal que compré varios botes enseguida.</p></div></div>`,
-                typingDelay: 500
-            },
-            {
-                text: `<div class="chat-review"><span class="chat-review__label">Reenviado</span><div class="chat-review__wrapper"><div class="chat-review__header"><img src="${basePath}images/comm-ava-12.jpg" alt="" class="chat-review__avatar"><b>Sofía, 38 años</b><span class="chat-review__stars">${STARS_5}</span></div><p class="chat-review__text">Pensaba comprar un frasco, pero pedí tres. Ahora entiendo que hice lo correcto, porque los resultados no aparecieron de inmediato.</p></div></div>`,
-                typingDelay: 500
-            },
-        ],
-        options: [
-            { label: 'Más comentarios', value: 'more_comments' },
-            { label: 'Pasar a elegir el curso', value: 'course_selection' },
-        ],
-        nextStep: ({ option, state, bot }) => {
-            if (option.value === 'more_comments') {
-                return bot._getStepIndex('comments_5');
-            }
-            return bot._getStepIndex('course_choice');
-        },
-    },
-    {
-        id: 'comments_5',
-        messages: [
-            {
-                text: `<div class="chat-review"><span class="chat-review__label">Reenviado</span><div class="chat-review__wrapper"><div class="chat-review__header"><img src="${basePath}images/comm-ava-13.jpg" alt="" class="chat-review__avatar"><b>Raúla, 58 años</b><span class="chat-review__stars">${STARS_5}</span></div><p class="chat-review__text">Gracias por este producto. Los resultados son excelentes para mi edad y me siento mucho mejor.</p></div></div>`,
-                typingDelay: 1500
-            },
-            {
-                text: `<div class="chat-review"><span class="chat-review__label">Reenviado</span><div class="chat-review__wrapper"><div class="chat-review__header"><img src="${basePath}images/comm-ava-14.jpg" alt="" class="chat-review__avatar"><b>Daniel, 46 años</b><span class="chat-review__stars">${STARS_5}</span></div><p class="chat-review__text">Leía las reseñas y decidí probarlo. Ya noté cambios después de la primera lata y sigo con el tratamiento.</p></div></div>`,
-                typingDelay: 500
-            },
-            {
-                text: `<div class="chat-review"><span class="chat-review__label">Reenviado</span><div class="chat-review__wrapper"><div class="chat-review__header"><img src="${basePath}images/comm-ava-15.jpg" alt="" class="chat-review__avatar"><b>Alejandro, 62 años</b><span class="chat-review__stars">${STARS_5}</span></div><p class="chat-review__text">Al principio dudaba en comprarlo. Pero vi resultados, así que pedí más para consolidar el efecto.</p></div></div>`,
-                typingDelay: 500
-            },
-        ],
-        options: [
-            { label: 'Pasar a elegir el curso', value: 'course_selection' },
-        ],
-        nextStep: ({ option, state, bot }) => {
-            return bot._getStepIndex('course_choice');
-        },
-    },
-    {
-        id: 'course_choice',
-        messages: [
-            (state) => {
-                const packs = state.answers.recommended_packs;
-
-                const courseInitiation = '<div class="course">' +
-                    '<b class="course-title">Curso Inicial (2&nbsp;paquetes)' +
-                    '<span class="inline-products">' +
-                    '<span class="inline-product-item"></span>' +
-                    '<span class="inline-product-item"></span>' +
-                    '</span>' +
-                    '</b>' +
-                    '<p class="course-text">• Inicia los procesos de limpieza y digestión\n• Reduce la hinchazón y la sensación de pesadez\n• Adaptación del cuerpo\n</p>' +
-                    '<span class="course-separator"></span>' +
-                    '<p class="course-text"><b>Los cambios de peso en esta etapa son mínimos</b></p>' +
-                    '</div>';
-
-                const courseMinimum = '<div class="course">' +
-                    '<b class="course-title">Curso de Resultados Mínimos (3&nbsp;paquetes)' +
-                    '<span class="inline-products">' +
-                    '<span class="inline-product-item"></span>' +
-                    '<span class="inline-product-item"></span>' +
-                    '<span class="inline-product-item"></span>' +
-                    '</span>' +
-                    '</b>' +
-                    '<p class="course-text">• Duración: 3-4 semanas – óptimo para la reducción de grasa corporal\n• Inicio estable de la quema de grasa\n• Primeros cambios notables en peso y talla</p>' +
-                    '<span class="course-separator"></span>' +
-                    '<p class="course-text">✅&nbsp;<b>Inicio recomendado para obtener resultados reales</b></p>' +
-                    '</div>';
-
-                const courseComplete = '<div class="course">' +
-                    '<b class="course-title">Programa completo (5&nbsp;paquetes)' +
-                    '<span class="inline-products">' +
-                    '<span class="inline-product-item"></span>' +
-                    '<span class="inline-product-item"></span>' +
-                    '<span class="inline-product-item"></span>' +
-                    '<span class="inline-product-item"></span>' +
-                    '<span class="inline-product-item"></span>' +
-                    '</span>' +
-                    '</b>' +
-                    '<p class="course-text">• Ciclo completo de pérdida de peso\n• Quema de grasa activa y constante\n• Pérdida de peso sin fluctuaciones bruscas\n• Consolidación de resultados</p>' +
-                    '<span class="course-separator"></span>' +
-                    '<p class="course-text">💚&nbsp;<b>La opción más popular entre nuestros clientes</b></p>' +
-                    '</div>';
-
-                const courseMaximum = '<div class="course">' +
-                    '<b class="course-title">Tratamiento Máximo (6&nbsp;paquetes)' +
-                    '<span class="inline-products">' +
-                    '<span class="inline-product-item"></span>' +
-                    '<span class="inline-product-item"></span>' +
-                    '<span class="inline-product-item"></span>' +
-                    '<span class="inline-product-item"></span>' +
-                    '<span class="inline-product-item"></span>' +
-                    '<span class="inline-product-item"></span>' +
-                    '</span>' +
-                    '</b>' +
-                    '<p class="course-text">• Máxima quema de grasa\n• Reducción notable de peso y volumen\n• Limpieza corporal profunda\n• Resultados más estables y duraderos</p>' +
-                    '<span class="course-separator"></span>' +
-                    '<p class="course-text">🔥&nbsp;<b>Para quienes buscan el máximo efecto y una transformación completa</b></p>' +
-                    '</div>';
-
-                const allCourses = [
-                    { packs: 2, html: courseInitiation },
-                    { packs: 3, html: courseMinimum },
-                    { packs: 5, html: courseComplete },
-                    { packs: 6, html: courseMaximum }
-                ];
-
-                const sortedCourses = allCourses.sort((a, b) => {
-                    if (a.packs === packs) return -1;
-                    if (b.packs === packs) return 1;
-                    return a.packs - b.packs;
-                });
-
-                const coursesHTML = sortedCourses.map((course, index) => {
-                    if (index === 0) {
-                        return course.html.replace('<div class="course">', '<div class="course active">');
-                    }
-                    return course.html;
-                })
-
-                // separated text and cards
-                // return 'Cada opción posterior <b>refuerza el efecto de la anterior</b>.' + coursesHTML
-                return [
-                    {
-                        text: 'Un curso corto inicia el proceso. Un curso completo produce resultados duraderos.',
-                        typingDelay: 2500
-                    },
-                    ...coursesHTML.map((course) => ({text: course, typingDelay: 1000}))
-                ]
-            },
         ],
         options: [
             {label: '6 paquetes', value: 6},
@@ -2740,32 +2053,26 @@ const chatSteps = [
         messages: [
             state => {
                 const packs = state.answers.course_packs;
-                const priceMap = {
-                    2: 1380,
-                    3: 1480,
-                    5: 1880,
-                    6: 2450,
-                };
-                // let courseName = 'Mínimo efectivo';
-                //
-                // if (packs === 5) {
-                //     courseName = 'Completo';
-                // } else if (packs === 6) {
-                //     courseName = 'Máximo';
-                // }
+                const priceMap = Object.fromEntries(COURSES.map(c => [c.packs, c.price]));
+                const currency = COURSES[0].currency
 
                 return {
-                    text: `¡Excelente! Tu elección: ${packs}&nbsp;paquetes. Precio: ${priceMap[packs]}&nbsp;MXN. Nosotros nos encargamos del envío.`,
+                    text: `¡Excelente! Tu elección: ${packs}&nbsp;paquetes. Precio: ${priceMap[packs]}&nbsp;${currency}. Nosotros nos encargamos del envío.`,
                     typingDelay: 2000
                 }
             },
             state => {
                 const packs = state.answers.course_packs;
+                const threePacksCourse = COURSES.find(c => c.packs === 3);
+                const fivePacksCourse = COURSES.find(c => c.packs === 5);
+                const sixPacksCourse = COURSES.find(c => c.packs === 6);
+                const currency = COURSES[0].currency
+
                 const threePacks = `
                     <div class="pricing-card">
                         <div class="header">
                             <span class="star">⭐</span>
-                            <h2>3&nbsp;paquetes:<br> Curso de Resultados Mínimos</h2>
+                            <h2>3&nbsp;paquetes:<br> ${threePacksCourse.name}</h2>
                         </div>
                         <div class="calculation-header">
                             <h3>Cálculo:</h3>
@@ -2774,26 +2081,26 @@ const chatSteps = [
                             <span class="package">1&nbsp;paq.</span>
                             <span class="old-price">1180</span>
                             <span class="arrow blue">➜</span>
-                            <span class="new-price sale blue">590&nbsp;MXN</span>
+                            <span class="new-price sale blue">590&nbsp;${currency}</span>
                         </div>
                         <div class="pricing-row">
                             <span class="package">2&nbsp;paq.</span>
                             <span class="old-price">1180</span>
                             <span class="arrow blue">➜</span>
-                            <span class="new-price sale blue">590&nbsp;MXN</span>
+                            <span class="new-price sale blue">590&nbsp;${currency}</span>
                         </div>
                         <div class="pricing-row">
                             <span class="package">3&nbsp;paq.</span>
                             <span class="old-price">1180</span>
                             <span class="arrow green">➜</span>
-                            <span class="new-price green">300&nbsp;MXN</span>
+                            <span class="new-price green">300&nbsp;${currency}</span>
                         </div>
                         <div class="savings-section">
-                            <span class="savings-text">Ahorro: <span class=""><span class="">3540</span> - 1480 =</span> <span class="">2060&nbsp;MXN</span></span>
+                            <span class="savings-text">Ahorro: <span class=""><span class="">3540</span> - ${threePacksCourse.price} =</span> <span class="">${3540 - threePacksCourse.price}&nbsp;${currency}</span></span>
                         </div>
                         <div class="total-section">
                             <span class="total-label green-text">EN TOTAL:</span>
-                            <span class="total-price green-text">1480&nbsp;MXN</span>
+                            <span class="total-price green-text">${threePacksCourse.price}&nbsp;${currency}</span>
                         </div>
                         <div class="delivery-section">
                             <span class="savings-text">¡Envío gratis!</span>
@@ -2807,7 +2114,7 @@ const chatSteps = [
                     <div class="pricing-card">
                         <div class="header">
                             <span class="star">⭐</span>
-                            <h2>5&nbsp;paquetes:<br> Programa completo</h2>
+                            <h2>5&nbsp;paquetes:<br> ${fivePacksCourse.name}</h2>
                         </div>
                         <div class="calculation-header">
                             <h3>Cálculo:</h3>
@@ -2816,38 +2123,38 @@ const chatSteps = [
                             <span class="package">1&nbsp;paq.</span>
                             <span class="old-price">1180</span>
                             <span class="arrow blue">➜</span>
-                            <span class="new-price sale blue">590&nbsp;MXN</span>
+                            <span class="new-price sale blue">590&nbsp;${currency}</span>
                         </div>
                         <div class="pricing-row">
                             <span class="package">2&nbsp;paq.</span>
                             <span class="old-price">1180</span>
                             <span class="arrow blue">➜</span>
-                            <span class="new-price sale blue">590&nbsp;MXN</span>
+                            <span class="new-price sale blue">590&nbsp;${currency}</span>
                         </div>
                         <div class="pricing-row">
                             <span class="package">3&nbsp;paq.</span>
                             <span class="old-price">1180</span>
                             <span class="arrow green">➜</span>
-                            <span class="new-price green">300&nbsp;MXN</span>
+                            <span class="new-price green">300&nbsp;${currency}</span>
                         </div>
                         <div class="pricing-row">
                             <span class="package">4&nbsp;paq.</span>
                             <span class="old-price">1180</span>
                             <span class="arrow green">➜</span>
-                            <span class="new-price green">200&nbsp;MXN</span>
+                            <span class="new-price green">200&nbsp;${currency}</span>
                         </div>
                         <div class="pricing-row">
                             <span class="package">5&nbsp;paq.</span>
                             <span class="old-price">1180</span>
                             <span class="arrow green">➜</span>
-                            <span class="new-price green">200&nbsp;MXN</span>
+                            <span class="new-price green">200&nbsp;${currency}</span>
                         </div>
                         <div class="savings-section">
-                            <span class="savings-text">Ahorro: <span class=""><span class="">5900</span> - 1880 =</span> <span class="">4020&nbsp;MXN</span></span>
+                            <span class="savings-text">Ahorro: <span class=""><span class="">5900</span> - ${fivePacksCourse.price} =</span> <span class="">${5900 - fivePacksCourse.price}&nbsp;${currency}</span></span>
                         </div>
                         <div class="total-section">
                             <span class="total-label green-text">EN TOTAL:</span>
-                            <span class="total-price green-text">1880&nbsp;MXN</span>
+                            <span class="total-price green-text">${fivePacksCourse.price}&nbsp;${currency}</span>
                         </div>
                         <div class="delivery-section">
                             <span class="savings-text">¡Envío gratis!</span>
@@ -2861,7 +2168,7 @@ const chatSteps = [
                     <div class="pricing-card">
                         <div class="header">
                             <span class="star">⭐</span>
-                            <h2>6&nbsp;paquetes:<br> Tratamiento Máximo</h2>
+                            <h2>6&nbsp;paquetes:<br> ${sixPacksCourse.name}</h2>
                         </div>
                         <div class="calculation-header">
                             <h3>Cálculo:</h3>
@@ -2870,50 +2177,50 @@ const chatSteps = [
                             <span class="package">1&nbsp;paq.</span>
                             <span class="old-price">1180</span>
                             <span class="arrow blue">➜</span>
-                            <span class="new-price sale blue">590&nbsp;MXN</span>
+                            <span class="new-price sale blue">590&nbsp;${currency}</span>
                         </div>
                         <div class="pricing-row">
                             <span class="package">2&nbsp;paq.</span>
                             <span class="old-price">1180</span>
                             <span class="arrow blue">➜</span>
-                            <span class="new-price sale blue">590&nbsp;MXN</span>
+                            <span class="new-price sale blue">590&nbsp;${currency}</span>
                         </div>
                         <div class="pricing-row">
                             <span class="package">3&nbsp;paq.</span>
                             <span class="old-price">1180</span>
                             <span class="arrow blue">➜</span>
-                            <span class="new-price sale blue">590&nbsp;MXN</span>
+                            <span class="new-price sale blue">590&nbsp;${currency}</span>
                         </div>
                         <div class="pricing-row">
                             <span class="package">4&nbsp;paq.</span>
                             <span class="old-price">1180</span>
                             <span class="arrow green">➜</span>
-                            <span class="new-price green">300&nbsp;MXN</span>
+                            <span class="new-price green">300&nbsp;${currency}</span>
                         </div>
                         <div class="pricing-row">
                             <span class="package">5&nbsp;paq.</span>
                             <span class="old-price">1180</span>
                             <span class="arrow green">➜</span>
-                            <span class="new-price green">200&nbsp;MXN</span>
+                            <span class="new-price green">200&nbsp;${currency}</span>
                         </div>
                         <div class="pricing-row">
                             <span class="package">6&nbsp;paq.</span>
                             <span class="old-price">1180</span>
                             <span class="arrow green">➜</span>
-                            <span class="new-price green">80&nbsp;MXN</span>
+                            <span class="new-price green">80&nbsp;${currency}</span>
                         </div>
                         <div class="savings-section">
-                            <span class="savings-text">Ahorro: <span class=""><span class="">7080</span> - 2450 =</span> <span class="">4630&nbsp;MXN</span></span>
+                            <span class="savings-text">Ahorro: <span class=""><span class="">7080</span> - ${sixPacksCourse.price} =</span> <span class="">${4630 - sixPacksCourse.price}&nbsp;${currency}</span></span>
                         </div>
                         <div class="total-section">
                             <span class="total-label green-text">EN TOTAL:</span>
-                            <span class="total-price green-text">2450&nbsp;MXN</span>
+                            <span class="total-price green-text">${sixPacksCourse.price}&nbsp;${currency}</span>
                         </div>
                         <div class="delivery-section">
                             <span class="savings-text">¡Envío gratis!</span>
                         </div>
                         <div class="promo-banner">
-                            <span class="promo-text">De hecho, este es el precio por solo 2&nbsp;paquetes al precio estándar y solo +90&nbsp;MXN adicionales, ¡y recibirás <strong class="yellow-text">6&nbsp;paquetes</strong>!</span>
+                            <span class="promo-text">De hecho, este es el precio por solo 2&nbsp;paquetes al precio estándar y solo +90&nbsp;${currency} adicionales, ¡y recibirás <strong class="yellow-text">6&nbsp;paquetes</strong>!</span>
                         </div>
                     </div>
                 `
@@ -2955,20 +2262,21 @@ const chatSteps = [
     {
         id: 'two_packs_price',
         messages: [
-            'De acuerdo, he registrado 2&nbsp;paquetes.',
-            'Veo que es la primera vez que vienes con nosotros; quiero que notes los resultados de inmediato, así que te diré cómo obtener los mejores resultados. Dos paquetes activan tu metabolismo y preparan tu cuerpo para quemar grasa. En esta etapa, apenas perderás peso; el producto actúa de forma suave y gradual.',
-            'Por eso, la mayoría de los clientes toman tres cápsulas a la vez y ven resultados en 3 o 4&nbsp;semanas. El proceso de quema de grasa se activará y el cuerpo se adaptará para mantener los resultados.\n' +
-            '2 paquetes:\n' +
-            '590&nbsp;MXN (−50% de descuento 1180)\n' +
-            '590&nbsp;MXN (−50% de descuento 1180)\n' +
-            '+ Envío 200&nbsp;MXN.\n' +
-            'Total: 1380&nbsp;MXN',
-            {
-                text: `
+            'Хорошо, я зарегистрировала 2 упаковки.',
+            'Я вижу, вы с нами впервые.\n' +
+            'Я хочу, чтобы вы добились своей цели в похудении, поэтому расскажу, как добиться наилучших результатов. \n' +
+            'Начальный курс активизируют ваш метаболизм и подготавливают организм к сжиганию жира. \n' +
+            'Но стоит учесть, что на этом этапе вы практически не похудеете; продукт действует мягко и постепенно.\n',
+            'Поэтому большинство покупателей выбирают рекомендованный курс и видят реальные результаты через 3-4 недели. Процесс сжигания жира активизируется, и организм адаптируется для поддержания достигнутых результатов.',
+            () => {
+                const twoPacksCourse = COURSES.find(c => c.packs === 2);
+                const threePacksCourse = COURSES.find(c => c.packs === 3);
+                const currency = COURSES[0].currency
+                const twoPacksPricingHtml = `
                           <div class="pricing-card">
                             <div class="header">
                                 <span class="star">⭐</span>
-                                <h2>3&nbsp;paquetes:<br> Curso de Resultados Mínimos</h2>
+                                <h2>3&nbsp;paquetes:<br> ${threePacksCourse.name}</h2>
                             </div>
                             <div class="calculation-header">
                                 <h3>Cálculo:</h3>
@@ -2977,26 +2285,32 @@ const chatSteps = [
                                 <span class="package">1&nbsp;paq.</span>
                                 <span class="old-price">1180</span>
                                 <span class="arrow blue">➜</span>
-                                <span class="new-price sale blue">590&nbsp;MXN</span>
+                                <span class="new-price sale blue">590&nbsp;${currency}</span>
                             </div>
                             <div class="pricing-row">
                                 <span class="package">2&nbsp;paq.</span>
                                 <span class="old-price">1180</span>
                                 <span class="arrow blue">➜</span>
-                                <span class="new-price sale blue">590&nbsp;MXN</span>
+                                <span class="new-price sale blue">590&nbsp;${currency}</span>
                             </div>
                             <div class="pricing-row">
                                 <span class="package">3&nbsp;paq.</span>
                                 <span class="old-price">1180</span>
                                 <span class="arrow green">➜</span>
-                                <span class="new-price green">300&nbsp;MXN</span>
+                                <span class="new-price green">300&nbsp;${currency}</span>
                             </div>
                             <div class="savings-section">
-                                <span class="savings-text">Ahorro: <span class=""><span class="">3540</span> - 1480 =</span> <span class="">2060&nbsp;MXN</span></span>
+                                <span class="savings-text">Ahorro: <span class=""><span class="">3540</span> - ${threePacksCourse.price} =</span> <span class="">${3540 - threePacksCourse.price}&nbsp;${currency}</span></span>
                             </div>
                             <div class="total-section">
-                                <span class="total-label green-text">EN TOTAL:</span>
-                                <span class="total-price green-text">1480&nbsp;MXN</span>
+                                 <div class="total-section__inner total-section__inner--min">
+                                    <span class="total-label green-text">EN TOTAL (2&nbsp;paq.):</span>
+                                    <span class="total-price green-text">${twoPacksCourse.price}&nbsp;${currency}</span>
+                                </div>
+                                <div class="total-section__inner">
+                                    <span class="total-label green-text">EN TOTAL (3&nbsp;paq.):</span>
+                                    <span class="total-price green-text">${threePacksCourse.price}&nbsp;${currency}</span>
+                                </div>
                             </div>
                             <div class="delivery-section">
                                 <span class="savings-text">¡Envío gratis!</span>
@@ -3005,13 +2319,16 @@ const chatSteps = [
                                 <span class="promo-text">Te aconsejo que no te arriesgues y que hagas el curso completo la primera vez.</span>
                             </div>
                         </div>
-                        `.trim().replace(/\s+/g, ' '),
-                typingDelay: 1000
-            }
+                        `
+                return {
+                    text: twoPacksPricingHtml.trim().replace(/\s+/g, ' '),
+                    typingDelay: 1000
+                }
+            },
         ],
         options: [
-            {label: 'Pedir 3 paquetes', value: 3, color: 'green'},
-            {label: 'Quedarme con 2 paquetes', value: 2},
+            {label: `Взять рекомендованный ${COURSES.find(c => c.packs === 3).name}`, value: 3, color: 'green'},
+            {label: 'Оставить мой выбор', value: 2},
         ],
         shouldSkip: ({state}) => state.answers.course_packs !== 2,
         nextStep: ({option, state, bot}) => {
@@ -3022,15 +2339,8 @@ const chatSteps = [
     {
         id: 'course_confirm',
         messages: [
-            state => {
-                // const packs = state.answers.course_packs || 3;
-                // const priceMap = {
-                //     2: 1380,
-                //     3: 1480,
-                //     5: 1880,
-                //     6: 2450,
-                // };
-                // const price = priceMap[packs];
+            'Отлично, переходим к оформлению заказа.',
+            () => {
                 return {
                     text: `¡Gracias por tu pedido! Procedamos a coordinar la entrega.`,
                     typingDelay: 1000
@@ -3041,16 +2351,35 @@ const chatSteps = [
             const packs = parseInt(state.answers.course_packs) || 3;
             bot._showProductAnimation(packs);
 
-            // 👉 Відправляємо course_choice в таблицю
             const data = {
                 userID: bot.userID,
                 LastAction: bot._formatKyivDate(),
                 course_choice: packs,
             };
 
-            bot._sendDataToSheet(data).catch(() => {
-            });
+            bot._sendDataToSheet(data).catch(() => {});
         },
+    },
+    {
+        id: 'contacts_check',
+        messages: [
+            (state) => {
+                const username = state.answers.main_form_name || "Incognito"
+                const phone = state.answers.main_form_phone || "Empty"
+                return `${username}, ${phone}. Это ваши данные для заказа?`
+            }
+        ],
+        options: [
+            {label: 'Да, все верно', value: 'yes', name: 'Correct data'},
+            {label: 'Нет, исправить', value: 'change', name: 'Change data'},
+        ],
+        nextStep: ({ option, bot }) => {
+            if (option.value === 'change') {
+                return bot._getStepIndex('full_name');
+            }
+
+            return bot._getStepIndex('delivery_phone_type');
+        }
     },
     {
         id: 'full_name',
@@ -3083,7 +2412,6 @@ const chatSteps = [
         expectFreeInput: true,
         inputPlaceholder: 'Número de teléfono para WhatsApp',
         shouldSkip: ({state}) => {
-            // Пропускаємо цей крок, якщо обрано "Вказаний раніше"
             return state.answers.delivery_phone_type !== 'whatsapp';
         },
     },
@@ -3093,7 +2421,7 @@ const chatSteps = [
             'Aparecerá un formulario con los datos de envío. ',
             'Por favor, completa todos los campos.',
         ],
-        showForm: true, // 👉 прапорець для показу форми
+        showForm: true,
     },
     {
         id: 'final',
@@ -3139,9 +2467,9 @@ document.addEventListener('DOMContentLoaded', () => {
         messagesContainer: '#chatMessages',
         root: '.chat-bot',
         steps: chatSteps,
-        typingDelayPerChar: 50,  // ms per character (default: 15) 50
-        typingDelayMin: 2000,     // minimum delay in ms (default: 600-1500) 2000
-        typingDelayMax: 4000,    // maximum delay in ms (default: 3000-5000) 4000
+        typingDelayPerChar: 1,  // ms per character (default: 15) 50
+        typingDelayMin: 1,     // minimum delay in ms (default: 600-1500) 2000
+        typingDelayMax: 1,    // maximum delay in ms (default: 3000-5000) 4000
         startQueue: {
             enabled: false,
             delay: () => 10000 + Math.floor(Math.random() * 5001), // 10–15 sec

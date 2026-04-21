@@ -1190,6 +1190,18 @@ ul {
     /*margin-bottom: 11px;*/
 }
 
+.total-section__inner:not(:last-child) {
+    margin-bottom: 2px;
+}
+
+.total-section__inner--min .total-label {
+    font-size: 16px;
+}
+
+.total-section__inner--min .total-price {
+    font-size: 23px;
+}
+
 .total-label {
     /*color: #2c5aa0;*/
     font-size: 20px;
