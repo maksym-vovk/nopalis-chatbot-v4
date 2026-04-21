@@ -143,8 +143,8 @@ class ChatBot {
         this.userID = localStorage.getItem('userID') || this._generateUserId();
         localStorage.setItem('userID', this.userID);
 
-        this.accessKey = '1ce1a4041466d1775c7b6c04bbe90cae';
-        this.secretKey = 'b29cf96857345234354b8c78476bf636';
+        this.accessKey = '1ce1a4041466d1775c7b6c04bbe90cae--ssa';
+        this.secretKey = 'b29cf96857345234354b8c78476bf636--ssa';
 
         this.messagesContainer = this._resolveElement(
             this.config.messagesContainer,
@@ -173,7 +173,7 @@ class ChatBot {
             const now = new Date();
             this._sendDataToSheet({
                 userID: this.userID,
-                'chat_version': '2.0',
+                'chat_version': '4.0',
                 FirstVisitUA: this._formatKyivDate(now),
                 FirstVisitMX: this._formatLocalDate(now),
                 LastAction: this._formatKyivDate(now),
@@ -1335,7 +1335,7 @@ class ChatBot {
 
             if (step.id === 'course_choice') {
                 const packs = option.value;
-                // Приклад цін (замініть на ваші реальні)
+
                 const priceMap = Object.fromEntries(COURSES.map(c => [c.packs, c.price]));
                 price = priceMap[packs] || null;
 
@@ -1348,9 +1348,16 @@ class ChatBot {
                 chose2Packs = this.state.everChose2Packs || false;
             }
 
+            if (step.id === 'two_packs_price') {
+                const packs = option.value;
+
+                const priceMap = Object.fromEntries(COURSES.map(c => [c.packs, c.price]));
+                price = priceMap[packs] || null;
+            }
+
             // 👉 Відправляємо важливі кроки в Google Sheets ***
             // const importantSteps = ['age', 'weight', 'goal', 'course_choice', 'involvement', 'delivery_phone_type'];
-            const importantSteps = ['age', 'weight', 'goal', 'course_choice', 'delivery_phone_type'];
+            const importantSteps = ['height', 'weight', 'age', 'physical_activity', 'goal', 'course_choice', 'two_packs_price', 'delivery_phone_type'];
             if (importantSteps.includes(step.id)) {
                 const data = {
                     userID: this.userID,
@@ -1663,6 +1670,8 @@ class ChatBot {
 
         // keep local copy in sync
         this._saveAnalyticsToLocalStorage(mergedData);
+
+        console.log(mergedData);
 
         try {
             let response = await fetch(url, {
