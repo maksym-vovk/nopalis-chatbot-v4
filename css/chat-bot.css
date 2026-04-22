@@ -494,7 +494,7 @@ body.chat-scroll-lock {
     flex: 1;
     padding: 20px 10px;
     overflow-y: auto;
-    background: url("../images/chat-bg.png");
+    background: #e5dcd5 url("../images/chat-bg.png");
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -976,7 +976,7 @@ body.chat-scroll-lock {
 /* Extra small screens */
 @media (max-width: 480px) {
     .chat-bot {
-        background: url(../images/chat-bg.png);
+        background: #e5dcd5 url(../images/chat-bg.png);
         background-size: cover;
         padding: 0;
     }
