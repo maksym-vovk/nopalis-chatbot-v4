@@ -1204,14 +1204,14 @@ ul {
 
 .total-label {
     /*color: #2c5aa0;*/
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
     /*margin-right: 8px;*/
 }
 
 .total-price {
     /*color: #2c5aa0;*/
-    font-size: 27px;
+    font-size: 26px;
     font-weight: bold;
 }
 
@@ -1278,10 +1278,10 @@ ul {
         font-size: 18px;
     }
 
-    .total-label,
-    .total-price {
-        font-size: 22px;
-    }
+    /*.total-label,*/
+    /*.total-price {*/
+    /*    font-size: 22px;*/
+    /*}*/
 
     .savings-text {
         font-size: 14px;
@@ -5056,19 +5056,6 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     /*margin-bottom: 11px;*/
 }
 
-.total-label {
-    /*color: #2c5aa0;*/
-    font-size: 20px;
-    font-weight: bold;
-    /*margin-right: 8px;*/
-}
-
-.total-price {
-    /*color: #2c5aa0;*/
-    font-size: 27px;
-    font-weight: bold;
-}
-
 .savings-section {
     padding: 11px 0;
     text-align: center;
@@ -5132,10 +5119,10 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
         font-size: 18px;
     }
 
-    .total-label,
-    .total-price {
-        font-size: 22px;
-    }
+    /*.total-label,*/
+    /*.total-price {*/
+    /*    font-size: 22px;*/
+    /*}*/
 
     .savings-text {
         font-size: 14px;
@@ -5153,10 +5140,14 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     .header h2 br {
         display: block;
     }
-    /*.package {*/
-    /*    flex-basis: 100%;*/
-    /*    text-align: center;*/
-    /*}*/
+
+    .total-label {
+        font-size: 17px;
+    }
+
+    .total-price {
+        font-size: 25px;
+    }
 }
 
 /*order form*/
