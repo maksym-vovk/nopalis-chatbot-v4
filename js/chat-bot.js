@@ -1844,7 +1844,8 @@ const chatSteps = [
         id: 'intro',
         messages: [
             (state) => {
-                return `Здравствуйте, ${state.answers.main_form_name || 'Incognito'}, я Мариана, персональный консультант Nopalіs. Для вас уже действует скидка 50%. Предлагаю вам прослушать краткую информацию о нашей программе`;
+                const username = state.answers.main_form_name || 'Incognito'
+                return `Здравствуйте, ${username}, я Мариана, персональный консультант Nopalіs. Для вас уже действует скидка 50%. Предлагаю вам прослушать краткую информацию о нашей программе`;
             }
         ],
     },
