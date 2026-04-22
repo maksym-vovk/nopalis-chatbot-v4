@@ -2476,9 +2476,9 @@ document.addEventListener('DOMContentLoaded', () => {
         messagesContainer: '#chatMessages',
         root: '.chat-bot',
         steps: chatSteps,
-        typingDelayPerChar: 1,  // ms per character (default: 15) 50
-        typingDelayMin: 1,     // minimum delay in ms (default: 600-1500) 2000
-        typingDelayMax: 1,    // maximum delay in ms (default: 3000-5000) 4000
+        typingDelayPerChar: 50, // ms per character (default: 15) 50
+        typingDelayMin: 1000,     // minimum delay in ms (default: 600-1500) 2000
+        typingDelayMax: 1000,    // maximum delay in ms (default: 3000-5000) 4000
         startQueue: {
             enabled: false,
             delay: () => 10000 + Math.floor(Math.random() * 5001), // 10–15 sec
