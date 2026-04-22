@@ -2388,7 +2388,7 @@ const chatSteps = [
                 return bot._getStepIndex('full_name');
             }
 
-            return bot._getStepIndex('delivery_phone_type');
+            return bot._getStepIndex('delivery_form');
         }
     },
     {
@@ -2407,23 +2407,6 @@ const chatSteps = [
         messages: ['Por favor, facilita tu número de teléfono para la entrega.'],
         expectFreeInput: true,
         inputPlaceholder: 'Número de teléfono de contacto',
-    },
-    {
-        id: 'delivery_phone_type',
-        messages: ['Confirma el número y enviaremos el paquete a esa dirección:'],
-        options: [
-            {label: 'Especificado al finalizar la compra.', value: 'from_form', name: 'From form'},
-            {label: 'Número de WhatsApp', value: 'whatsapp', name: 'WhatsApp'},
-        ],
-    },
-    {
-        id: 'whatsapp_phone',
-        messages: ['Introduce tu número de teléfono para WhatsApp:'],
-        expectFreeInput: true,
-        inputPlaceholder: 'Número de teléfono para WhatsApp',
-        shouldSkip: ({state}) => {
-            return state.answers.delivery_phone_type !== 'whatsapp';
-        },
     },
     {
         id: 'delivery_form',
