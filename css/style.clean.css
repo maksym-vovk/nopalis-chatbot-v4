@@ -2658,15 +2658,6 @@ p {
     .third__btn-block {
         max-width: 480px;
     }
-
-    .third__btn-block {
-        margin-right: 90px;
-    }
-
-    .third__description {
-        width: 380px;
-        margin-right: 190px;
-    }
 }
 
 @media screen and (min-width: 1220px) {
@@ -2851,6 +2842,15 @@ p {
 
     .third__list, .third__title {
         max-width: 570px;
+    }
+
+    .third__btn-block {
+        margin-right: 90px;
+    }
+
+    .third__description {
+        width: 380px;
+        margin-right: 190px;
     }
 }
 
@@ -3720,6 +3720,8 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
 .price__old {
     font-size: 24px;
     text-decoration: line-through;
+    margin-bottom: 10px;
+    display: block;
 }
 
 .elementor-1490 .elementor-element.elementor-element-527ff6b:not(.elementor-motion-effects-element-type-background) {
@@ -3734,7 +3736,7 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
     margin-top: 0px;
     margin-bottom: 0px;
-    padding: 40px 40px 40px 40px;
+    padding: 40px 15px;
 }
 
 .elementor-1490 .elementor-element.elementor-element-4fdb4b44.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated {
@@ -3742,8 +3744,29 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     align-items: center;
 }
 
-.elementor-1490 .elementor-element.elementor-element-40625cd3 > .elementor-widget-container {
-    margin: 0px 0px 0px 0px;
+.recomendation__picture {
+    position: relative;
+    width: 290px;
+    margin: 0 auto;
+}
+
+.discount__inner {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url(../images/discount.png) no-repeat center/contain; 
+    top: -40px;
+    right: 0;
+}
+
+.discount__text {
+    color: #fff;
+    font-size: 22px;
+    font-weight: 700;
+    margin-right: 10px;
 }
 
 .elementor-1490 .elementor-element.elementor-element-40625cd3 img {
@@ -3763,9 +3786,9 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
 
 .elementor-1490 .elementor-element.elementor-element-71583e91 .elementor-heading-title {
     font-family: "Arial", Sans-serif;
-    font-size: 35px;
+    font-size: 30px;
     font-weight: 400;
-    line-height: 1.3em;
+    line-height: 1.2;
     color: #070707;
 }
 
@@ -3775,21 +3798,34 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
 
 .elementor-1490 .elementor-element.elementor-element-37ba8baa .elementor-heading-title {
     font-family: "Arial", Sans-serif;
-    font-size: 35px;
+    font-size: 30px;
     font-weight: 400;
-    line-height: 1.3em;
     color: #070707;
 }
 
+.elementor-1490 .elementor-element.elementor-element-37ba8baa .elementor-heading-title .price__text {
+    color: #0A5102;
+}
+
 .elementor-1490 .elementor-element.elementor-element-642fd636 .elementor-button {
-    background-color: #00982D;
+    border-radius: 15px;
+    background: linear-gradient(76deg, #2E7A11 0%, #4EA41F 45%, #9ACD32 100%);
     font-family: "Arial", Sans-serif;
-    font-size: 31px;
-    line-height: 0.9em;
+    font-size: 20px;
     fill: #FFFFFF;
     color: #FFFFFF;
-    border-radius: 8px 8px 8px 8px;
-    box-shadow: 3px 3px 10px 0px #000000;
+    margin-bottom: 10px;
+    transition: .3s;
+    font-weight: 700;
+    padding: 15px;
+}
+
+.elementor-1490 .elementor-element.elementor-element-642fd636 .elementor-button:hover {
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.btn__footnote {
+    margin-bottom: 0;
 }
 
 .elementor-1490 .elementor-element.elementor-element-642fd636 .elementor-button * {
@@ -4350,6 +4386,10 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
         justify-content: space-between;
     }
 
+    .elementor-section .recomendation {
+        flex-wrap: wrap;
+    }
+
     .elementor-1490 .elementor-element.elementor-element-368b4b06 {
         width: inherit;
     }
@@ -4367,15 +4407,53 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     }
 
     .elementor-1490 .elementor-element.elementor-element-4fdb4b44 {
-        width: 18%;
+        width: 26%;
     }
 
     .elementor-1490 .elementor-element.elementor-element-46001c3a {
-        width: 48.548%;
+        width: 74%;
     }
 
     .elementor-1490 .elementor-element.elementor-element-1f75a3cc {
-        width: 25.559%;
+        width: 29%;
+        position: absolute;
+        right: 0;
+        bottom: 0;
+    }
+
+    .recomendation__picture {
+        width: inherit;
+    }
+
+    .btn__footnote {
+        font-size: 17px;
+    }
+
+    .elementor-column-gap-default > .elementor-column > .recomendation__prod {
+        padding: 0;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-40625cd3 img {
+        width: 160px;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-71583e91,
+    .elementor-1490 .elementor-element.elementor-element-37ba8baa,
+    .recomendation__btn-wrapper {
+        text-align: left;
+    }
+}
+
+@media screen and (min-width: 850px) {
+    .elementor-1490 .elementor-element.elementor-element-1f75a3cc {
+        bottom: -30px;
+    }
+}
+
+@media screen and (min-width: 950px) {
+    .elementor-1490 .elementor-element.elementor-element-1f75a3cc {
+        width: 250px;
+        right: 50px;
     }
 }
 
@@ -4387,10 +4465,104 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     }
 }
 
+@media (min-width: 1024px) {
+    .elementor-section .recomendation {
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+        gap: 25px;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-40625cd3 img {
+        width: 190px;
+    }
+
+    .discount__inner {
+        width: 110px;
+        height: 110px;
+        right: -30px;
+    }
+
+    .discount__text {
+        font-size: 24px;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-527ff6b {
+        padding-top: 50px;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-4fdb4b44 {
+        width: 20%;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-46001c3a {
+        width: 60%;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-1f75a3cc {
+        bottom: auto;
+        top: 50%;
+        transform: translateY(-50%);
+        right: 0;
+        width: 220px;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-1f75a3cc.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated,
+    .elementor-1490 .elementor-element.elementor-element-46001c3a.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated {
+        padding: 0;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-71583e91, 
+    .elementor-1490 .elementor-element.elementor-element-37ba8baa, 
+    .recomendation__btn-wrapper {
+        text-align: center;
+    }
+
+    .btn__footnote {
+        font-size: 18px;
+    }
+}
+
 @media (min-width: 1025px) {
     .elementor-1490 .elementor-element.elementor-element-2088981,
     .elementor-1490 .elementor-element.elementor-element-693abd92 {
         width: 452px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .elementor-section .recomendation {
+        justify-content: center;
+        gap: 30px;
+        align-items: center;
+    }
+
+    .discount__inner {
+        width: 129px;
+        height: 129px;
+        right: -40px;
+    }
+
+    .discount__text {
+        font-size: 25px;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-4fdb4b44 {
+        width: 20%;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-46001c3a {
+        width: 60%;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-1f75a3cc {
+        position: static;
+        width: 20%;
+        transform: none;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-71583e91 .elementor-heading-title,
+    .elementor-1490 .elementor-element.elementor-element-37ba8baa .elementor-heading-title {
+        font-size: 35px;
     }
 }
 
@@ -4399,6 +4571,21 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     .elementor-1490 .elementor-element.elementor-element-693abd92 {
         min-height: 79px;
         width: 100%;
+    }
+}
+
+@media (min-width: 1440px) {
+    .elementor-1490 .elementor-element.elementor-element-46001c3a {
+        width: 54%;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-4fdb4b44,
+    .elementor-1490 .elementor-element.elementor-element-1f75a3cc {
+        width: 24%;
+    }
+
+    .discount__inner {
+        right: 0;
     }
 }
 
@@ -4502,16 +4689,16 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     .elementor-1490 .elementor-element.elementor-element-527ff6b {
         margin-top: 0px;
         margin-bottom: -1px;
-        padding: 40px 0px 15px 0px;
+        padding: 50px 0px 25px 0px;
     }
 
-    .elementor-1490 .elementor-element.elementor-element-40625cd3 > .elementor-widget-container {
-        margin: 0px 0px 0px 0px;
+    .elementor-1490 .elementor-element.elementor-element-37ba8baa .elementor-heading-title .price__text {
+        color: #0A5102;
     }
 
     .elementor-1490 .elementor-element.elementor-element-40625cd3 img {
         width: 100%;
-        max-width: 180px;
+        max-width: 160px;
     }
 
     .elementor-1490 .elementor-element.elementor-element-71583e91 .elementor-heading-title {
@@ -4520,13 +4707,13 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     }
 
     .elementor-1490 .elementor-element.elementor-element-37ba8baa .elementor-heading-title {
-        font-size: 35px;
-        line-height: 1.3em;
+        font-size: 27px;
     }
 
     .elementor-1490 .elementor-element.elementor-element-642fd636 .elementor-button {
-        font-size: 25px;
-        line-height: 1em;
+        font-size: 20px;
+        line-height: 1.2;
+        font-weight: 700;
     }
 
     .elementor-button-text span {
