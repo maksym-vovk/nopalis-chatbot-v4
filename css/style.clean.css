@@ -1586,6 +1586,7 @@ p {
     font-size: 30px;
     font-weight: bold;
     margin: 0 0 25px;
+    line-height: 1.2;
     color: #0a5102;
 }
 
@@ -1613,8 +1614,9 @@ p {
 }
 
 .second__item {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     display: flex;
+    line-height: 1.3;
     gap: 12px;
 }
 
@@ -1643,15 +1645,13 @@ p {
     position: relative;
     z-index: 2;
     padding: 15px;
-    font-size: 19px;
+    font-size: 18px;
     font-weight: bold;
     text-align: center;
     border-radius: 15px;
-    border-top-style: dotted;
-    border-right-style: dotted;
-    border-bottom-style: solid;
-    border-left-style: dotted;
+    border-style: dotted;
     border-color: #e3e3e3;
+    color: #0A5102;
 }
 
 .second__total::after {
@@ -1665,7 +1665,7 @@ p {
     background-image: url(../images/meter.png);
     background-repeat: no-repeat;
     position: absolute;
-    bottom: -120px;
+    top: 107%;
     right: 0;
     z-index: 1;
 }
@@ -1674,10 +1674,17 @@ p {
     background-image: url(../images/meter.webp);
 }
 
-.second__end {
-    font-size: 18px;
-    font-style: italic;
+.second__total--bottom .second__total__text {
     margin-bottom: 0;
+}
+
+.second__total--bottom::after {
+    content: none;
+}
+
+.second__end {
+    font-size: 17px;
+    font-style: italic;
     padding-right: 125px;
 }
 
@@ -1769,7 +1776,7 @@ p {
     margin-bottom: 20px;
 }
 
-.interreption__footnote {
+.interruption__footnote {
     font-weight: 900;
     font-size: 18px;
     color: #0A5102;
@@ -1793,6 +1800,13 @@ p {
         background-position: 105% calc(100% + 300px);
     }
 }
+
+@media screen and (min-width: 400px) {
+    .second__end {
+        width: 370px;
+    }
+}
+
 
 @media screen and (min-width: 480px) {
 
@@ -1860,10 +1874,13 @@ p {
     }
 
     .second__total::after {
-        width: 180px;
-        height: 150px;
-        bottom: 110px;
+        width: 140px;
+        height: 110px;
         right: 0;
+    }
+
+    .second__total__text {
+        margin-bottom: 30px;
     }
 
     .second__title,
@@ -1872,8 +1889,9 @@ p {
     }
 
     .second__end {
-        text-align: center;
         padding-right: 0;
+        width: 290px;
+        margin-bottom: 30px;
     }
 
     .third__container {
@@ -2006,18 +2024,28 @@ p {
         margin-right: 25px;
     }
 
+    .second__total,
+    .second__sandbox {
+        flex: 0 1 50%;
+    }
+
+    .second__title {
+        font-size: 34px;
+    }
+
     .second__total__text {
         display: flex;
+        text-align: left;
         margin-bottom: 0;
         align-items: center;
-        height: 100%;
     }
 
     .second__total::after {
         width: 200px;
         height: 190px;
-        bottom: -110px;
-        right: -30px;
+        bottom: -200px;
+        top: auto;
+        right: 0;
     }
 
     .second__list {
@@ -2028,11 +2056,16 @@ p {
         display: flex;
         justify-content: center;
         gap: 20px;
+        align-items: center;
     }
 
     .second__end {
-        margin: 25px auto 0;
-        max-width: 375px;
+        margin: 25px auto 25px 0;
+        width: 400px;
+    }
+
+    .second__total--bottom {
+        width: 430px;
     }
 
     .third {
@@ -2204,7 +2237,7 @@ p {
         font-size: 19px;
     }
 
-    .interreption__footnote {
+    .interruption__footnote {
         font-size: 19px;
     }
 
@@ -2224,6 +2257,7 @@ p {
 
     .second__box {
         flex-direction: column;
+        align-items: inherit;
     }
 
     .second__papabox {
@@ -2257,7 +2291,11 @@ p {
     }
 
     .second__total {
-        max-width: 320px;
+        width: 390px;
+    }
+
+    .second__total--bottom {
+        margin-left: auto;
     }
 
     .second__total__text {
@@ -2268,15 +2306,30 @@ p {
     .second__total::after {
         width: 220px;
         height: 220px;
-        bottom: -190px;
+        bottom: -310px;
         right: auto;
-        left: -110px;
+        left: 70px;
     }
 
     .second__end {
-        margin: 25px auto 0 0;
+        margin: 25px auto 25px 0;
         text-align: left;
-        max-width: 400px;
+        width: 400px;
+        font-size: 18px;
+    }
+
+    .second__total, 
+    .second__sandbox {
+        flex: inherit;
+    }
+
+    .second__description,
+    .second__item {
+        font-size: 19px;
+    }
+
+    .second__total__text {
+        font-size: 18px;
     }
 
     .third {
@@ -2444,12 +2497,12 @@ p {
     }
 
     .interruption__text,
-    .interreption__footnote {
+    .interruption__footnote {
         font-size: 20px;
     }
 
     .second {
-        padding-bottom: 120px;
+        padding-bottom: 50px;
     }
 
     .second__container {
@@ -2458,16 +2511,8 @@ p {
 
     .second__title {
         margin-bottom: 35px;
-        font-size: 35px;
+        font-size: 40px;
         padding-right: 490px;
-    }
-
-    .second__description {
-        font-size: 21px;
-    }
-
-    .second__list {
-        font-size: 21px;
     }
 
     .second__item::before {
@@ -2481,29 +2526,44 @@ p {
     }
 
     .second__woman {
-        max-width: 300px;
-        top: -130px;
+        max-width: 350px;
+        top: -170px;
+        right: 0;
     }
 
     .second__woman__deco {
         width: 180px;
         bottom: -60px;
-        left: -205px;
+        left: 215px;
+        z-index: 1;
+    }
+
+    .second__description, .second__item {
+        font-size: 20px;
     }
 
     .second__total {
-        max-width: 380px;
+        width: 430px;
+    }
+
+    .second__end {
+        width: 420px;
     }
 
     .second__total__text {
-        font-size: 22px;
+        font-size: 19px;
+    }
+
+    .second__total--bottom {
+        margin: 0 auto 0 190px;
+        width: 360px;
     }
 
     .second__total::after {
         width: 390px;
         height: 290px;
         bottom: -249px;
-        left: -130px;
+        left: -180px;
     }
 
     .third {
@@ -2633,7 +2693,7 @@ p {
     }
 
     .interruption__text,
-    .interreption__footnote {
+    .interruption__footnote {
         font-size: 22px;
     }
 
@@ -2642,7 +2702,7 @@ p {
     }
 
     .second {
-        padding: 85px 0 190px;
+        padding: 85px 0 70px;
     }
 
     .second__container {
@@ -2655,12 +2715,20 @@ p {
     }
 
     .second__description,
-    .second__list {
+    .second__item {
         font-size: 22px;
     }
 
+    .second__item {
+        margin-bottom: 20px;
+    }
+
+    .second__total__text {
+        font-size: 20px;
+    }
+
     .second__total {
-        max-width: 420px;
+        width: 483px;
     }
 
     .second__total::after {
@@ -2671,19 +2739,25 @@ p {
     }
 
     .second__end {
-        font-size: 23px;
-        max-width: 450px;
+        font-size: 20px;
+        margin-top: 20px;
+        width: 480px;
     }
 
     .second__woman {
-        max-width: 350px;
+        max-width: 370px;
         top: -160px;
+    }
+
+    .second__total--bottom {
+        width: 412px;
+        margin-left: 270px;
     }
 
     .second__woman__deco {
         width: 210px;
         bottom: -64px;
-        left: -225px;
+        left: 225px;
     }
 
     .third {
