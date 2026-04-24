@@ -1389,12 +1389,9 @@ ul {
     text-align: center;
     margin-bottom: 5px;
     font-size: 21px;
-    /*padding: 0 60px;*/
 }
 
 .chat-btn p:last-child {
-    /*background: url("../images/pointer.svg") 0 center no-repeat;*/
-    /*padding-left: 45px;*/
     -webkit-background-size: 20px;
     background-size: 40px;
     text-align: center;
@@ -1851,7 +1848,7 @@ ul {
         background-image: url(../images/woman-1.png);
         background-repeat: no-repeat;
         background-size: 290px;
-        background-position: 95% 200px;
+        background-position: 95% 230px;
     }
 
     .webp .first {
@@ -1867,31 +1864,21 @@ ul {
     .first:before {
         top: 0;
         left: -880px;
-        /*background: url(../images/cac1.png) 0 0 no-repeat;*/
         width: 1300px;
         height: 1100px;
         background-size: contain;
         opacity: 0.3;
     }
 
-    .webp .first:before {
-        /*background: url(../images/cac1.webp) 0 0 no-repeat;*/
-    }
-
     .first:after {
         top: 0;
         right: -680px;
-        /*background: url(../images/cac2.png) 0 0 no-repeat;*/
         width: 900px;
         height: 1100px;
         background-size: contain;
         opacity: 0.5;
         transform: scaleX(-1);
         z-index: -1;
-    }
-
-    .webp .first:after {
-        /*background: url(../images/cac2.webp) 0 0 no-repeat;*/
     }
 
     .first__container,
@@ -1924,6 +1911,14 @@ ul {
 
     .first__btn-block {
         margin-top: 20px;
+    }
+
+    .first__discount {
+        max-width: 320px;
+    }
+
+    .first__discount-description, .third__description {
+        text-align: left;
     }
 
     .second__total__text {
@@ -2004,9 +1999,9 @@ ul {
 
 @media screen and (min-width: 768px) {
     .first {
-        padding-bottom: 150px;
+        padding-bottom: 80px;
         background-size: 320px;
-        background-position: 110% 100px;
+        background-position: 110% 70px;
     }
 
     .first__container,
@@ -2031,17 +2026,12 @@ ul {
     .first:after {
         top: 0;
         right: -680px;
-        /*background: url(../images/cac2.png) 0 0 no-repeat;*/
         width: 900px;
         height: 1100px;
         background-size: contain;
         opacity: 0.5;
         transform: scaleX(-1);
         z-index: -1;
-    }
-
-    .webp .first:after {
-        /*background: url(../images/cac2.webp) 0 0 no-repeat;*/
     }
 
     .first__title {
@@ -2058,6 +2048,10 @@ ul {
         margin-left: 0;
     }
 
+    .first__discount {
+        max-width: 440px;
+    }
+
     .first__discount-btn,
     .third__btn {
         font-size: 23px;
@@ -2071,8 +2065,8 @@ ul {
 
     .first__img {
         position: absolute;
-        top: 240px;
-        left: 530px;
+        top: 210px;
+        left: 550px;
         margin-top: 0;
     }
 
@@ -2195,7 +2189,7 @@ ul {
 
 @media screen and (min-width: 850px) {
     .first {
-        background-position: 100% 100px;
+        background-position: 100% 70px;
     }
 
     .third {
@@ -2217,6 +2211,10 @@ ul {
 }
 
 @media screen and (min-width: 950px) {
+    .first__img {
+        left: 618px;
+    }
+    
     .third__container {
         max-width: 950px;
     }
@@ -2230,7 +2228,7 @@ ul {
     .first {
         background-repeat: no-repeat;
         background-image: url(../images/table-first.png), url(../images/woman-1.png);
-        background-position: -150px calc(100% + 380px),
+        background-position: -150px calc(100% + 400px),
         calc(115% - 14%) calc(100% + 490px);
         background-size: 1160px, 340px;
         padding-bottom: 180px;
@@ -2268,18 +2266,19 @@ ul {
     }
 
     .first__discount {
-        padding-right: 530px;
+        padding-right: 0;
+        max-width: 500px;
     }
 
     .first__discount-description,
     .third__description,
     .third__item {
-        font-size: 20px;
+        font-size: 18px;
     }
 
     .first__img {
         position: absolute;
-        top: 231px;
+        top: 301px;
         left: 583px;
     }
 
@@ -2420,14 +2419,11 @@ ul {
         max-width: 1140px;
     }
 
-    .first__discount {
-        padding-right: 567px;
-    }
-
     .first__btn-block {
         margin-left: 0;
         margin-right: 0;
-        padding-inline: 40px;
+        padding-inline: 20px;
+        font-size: 20px;
     }
 
     .first__img {
@@ -2459,7 +2455,7 @@ ul {
     .first__discount-description,
     .third__description,
     .third__item {
-        font-size: 22px;
+        font-size: 18px;
     }
 
     .first__subtitle {
