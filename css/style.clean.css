@@ -2530,7 +2530,7 @@ p {
     }
 
     .container {
-        width: 958px;
+        width: 1024px;
     }
 
     .interruption__container {
@@ -4475,6 +4475,65 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     margin: 0;
 }
 
+.consultation {
+    background: #EADB58;
+}
+
+.consultation__title {
+    text-align: center;
+    color: #467119;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 25px;
+    margin-top: 0;
+}
+
+.consultation__img {
+    width: 200px;
+    margin: 0 auto 20px;
+    display: block;
+}
+
+.consultation__img--desc {
+    display: none;
+}
+
+.consultation__list {
+    padding: 0;
+    list-style: none;
+    margin-bottom: 25px;
+}
+
+.consultation__item {
+    display: flex;
+    gap: 15px;
+}
+
+.consultation__item:not(:last-of-type) {
+    margin-bottom: 15px;
+}
+
+.consultation__item picture {
+    flex-shrink: 0;
+}
+
+.consultation__icon {
+    width: 40px;
+}
+
+.consultation__text {
+    font-size: 18px;
+    margin: 0;
+}
+
+.consultation__footnote {
+    font-size: 19px;
+    font-weight: 900;
+    color: #0A5102;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
 @media (min-width: 480px) {
     .fifth__btn-block {
         width: 307px;
@@ -4485,6 +4544,22 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
 
     .fifth__btn {
         line-height: 1;
+    }
+
+    .consultation__inner {
+        position: relative;
+    }
+
+    .consultation__inner:after {
+        clear: both;
+        display: table;
+        content: "";
+    }
+
+    .consultation__img {
+        float: left;
+        width: 180px;
+        margin: 0 15px 0 0;
     }
 }
 
@@ -4503,6 +4578,11 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
 
     .step__item:not(:last-of-type) {
         margin-bottom: 0;
+    }
+
+    .consultation__img {
+        width: 200px;
+        margin: 0 20px 20px 0;
     }
 }
 
@@ -4627,6 +4707,10 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
 
     .step__card::before {
         content: none;
+    }
+
+    .consultation__footnote {
+        font-size: 20px;
     }
 }
 
@@ -4758,10 +4842,78 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
 
     .step__inner {
         margin-bottom: 35px;
+        gap: 40px;
     }
 
     .step__footnote {
         font-size: 24px;
+    }
+
+     .consultation__container {
+        display: flex;
+        gap: 20px;
+    }
+
+    .consultation__container picture {
+        flex-shrink: 0;
+    }
+
+    .consultation__inner {
+        position: static;
+    }
+
+    .consultation__inner:after {
+        content: none;
+    }
+
+    .consultation__img {
+        float: none;
+        width: 259px;
+    }
+
+    .consultation__img--mob {
+        display: none;
+    }
+
+    .consultation__img--desc {
+        display: block;
+        margin: 0;
+    }
+
+    .consultation__title {
+        text-align: left;
+        font-size: 35px;
+    }
+
+    .consultation__list {
+        display: flex;
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+
+    .consultation__item {
+        flex: 1 1 45%;
+    }
+
+    .consultation__item:not(:last-of-type) {
+        margin-bottom: 0;
+    }
+
+    .consultation__icon {
+        width: 45px;
+    }
+
+    .consultation__text {
+        font-size: 19px;
+    }
+
+    .consultation__footnote {
+        text-align: left;
+        font-size: 21px;
+    }
+
+    .consultation__btn-block {
+        margin: 0;
     }
 }
 
@@ -4902,6 +5054,35 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
         font-size: 25px;
         width: 70%;
         margin: 0 auto;
+    }
+
+    .consultation__container {
+        gap: 34px;
+    }
+
+    .consultation__title {
+        font-size: 40px;
+    }
+
+    .consultation__list {
+        gap: 33px 20px;
+    }
+
+    .consultation__icon {
+        width: 56px;
+    }
+
+    .consultation__item {
+        gap: 18px;
+    }
+
+    .consultation__text {
+        font-size: 20px;
+    }
+
+    .consultation__footnote {
+        font-size: 22px;
+        margin-bottom: 30px;
     }
 }
 
