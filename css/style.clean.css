@@ -4333,9 +4333,17 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
 
 .elementor-1490 .elementor-element.elementor-element-6dab243d .elementor-heading-title {
     font-family: "Arial", Sans-serif;
-    font-size: 35px;
-    font-weight: 600;
+    font-size: 30px;
+    font-weight: 700;
     color: #000000;
+    line-height: 1.2;
+}
+
+.form__subtitle {
+    color: #0A5102;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.13;
 }
 
 .elementor-1490 .elementor-element.elementor-element-62ef2fac:not(.elementor-motion-effects-element-type-background) {
@@ -6327,15 +6335,15 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
 }
 
 .s-price__discount:before {
-    content: '35%';
+    content: '50%';
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
     text-align: center;
-    line-height: 80px;
-    font-size: 22px;
+    line-height: 60px;
+    font-size: 19px;
     font-weight: bold;
     color: #ffffff;
 }
@@ -6343,8 +6351,8 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
 .s-price__discount {
     display: flex;
     background: url("../images/discount.svg") center no-repeat;
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
     -webkit-background-size: 100%;
     background-size: 100%;
     position: relative;
@@ -6388,7 +6396,7 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     font-weight: bold;
     color: #fff;
     margin-bottom: 0;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .form-down {
@@ -6397,7 +6405,6 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     width: 100%;
     margin: 10px auto 0;
     max-width: 400px;
-
 }
 
 .form-down img {
@@ -6409,7 +6416,6 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
 }
 
 .chat-btn:before, .chat-btn:after {
-    /*content: '';*/
     position: absolute;
     top: 0;
     background: url("../images/arr1.svg") 0 0 no-repeat;
@@ -6442,7 +6448,6 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
 
 .chat-btn p {
     margin-bottom: 0;
-
 }
 
 .chat-btn p:first-child b {
@@ -6454,17 +6459,27 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     text-align: center;
     margin-bottom: 5px;
     font-size: 21px;
-    /*padding: 0 60px;*/
 }
 
 .chat-btn p:last-child {
-    /*background: url("../images/pointer.svg") 0 center no-repeat;*/
-    /*padding-left: 45px;*/
     -webkit-background-size: 20px;
     background-size: 40px;
     text-align: center;
+}
 
+@media screen and (min-width: 375px) {
+    .s-price__name {
+        font-size: 16px;
+    }
 
+    .s-price__discount {
+        width: 70px;
+        height: 70px;
+    }
+    .s-price__discount:before {
+        font-size: 20px;
+        line-height: 70px;
+    }
 }
 
 @media screen and (min-width: 400px) {
@@ -6473,6 +6488,14 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
         margin-right: auto;
     }
 
+    .s-price__discount {
+        width: 80px;
+        height: 80px;
+    }
+    .s-price__discount:before {
+        font-size: 22px;
+        line-height: 80px;
+    }
 }
 
 @media screen and (min-width: 640px) {
@@ -6498,10 +6521,33 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
         width: 100px;
         height: 100px;
     }
+
+    .form__subtitle {
+        font-size: 19px;
+    }
 }
 
 @media (max-width: 639px) {
     .chat-btn__btn {
         font-size: 20px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .form__subtitle {
+        font-size: 20px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .elementor-1490 .elementor-element.elementor-element-6dab243d .elementor-heading-title {
+        font-size: 35px;
+    }
+    
+    .form__subtitle {
+        font-size: 22px;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
     }
 }
