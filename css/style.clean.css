@@ -4207,9 +4207,10 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
 
 .elementor-1490 .elementor-element.elementor-element-df1c185 .elementor-heading-title {
     font-family: "Arial", Sans-serif;
-    font-size: 50px;
-    font-weight: 600;
+    font-size: 38px;
+    font-weight: 700;
     color: #000000;
+    line-height: 1.2;
 }
 
 .elementor-1490 .elementor-element.elementor-element-310ba95f .elementor-heading-title {
@@ -4712,6 +4713,15 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     .consultation__footnote {
         font-size: 20px;
     }
+
+    .elementor-1490 .elementor-element.elementor-element-310ba95f .elementor-heading-title,
+    .elementor-1490 .elementor-element.elementor-element-482ecf79 .elementor-heading-title,
+    .elementor-1490 .elementor-element.elementor-element-530006e4 .elementor-heading-title,
+    .elementor-1490 .elementor-element.elementor-element-17444b45 .elementor-heading-title,
+    .elementor-1490 .elementor-element.elementor-element-4b96ca57 .elementor-heading-title,
+    .elementor-1490 .elementor-element.elementor-element-7f784e0e .elementor-heading-title {
+        font-size: 24px;
+    }
 }
 
 @media screen and (min-width: 850px) {
@@ -4915,6 +4925,19 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     .consultation__btn-block {
         margin: 0;
     }
+
+    .elementor-1490 .elementor-element.elementor-element-df1c185 .elementor-heading-title {
+        font-size: 42px;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-310ba95f .elementor-heading-title,
+    .elementor-1490 .elementor-element.elementor-element-482ecf79 .elementor-heading-title,
+    .elementor-1490 .elementor-element.elementor-element-530006e4 .elementor-heading-title,
+    .elementor-1490 .elementor-element.elementor-element-17444b45 .elementor-heading-title,
+    .elementor-1490 .elementor-element.elementor-element-4b96ca57 .elementor-heading-title,
+    .elementor-1490 .elementor-element.elementor-element-7f784e0e .elementor-heading-title {
+        font-size: 28px;
+    }
 }
 
 @media (min-width: 1200px) {
@@ -5083,6 +5106,19 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     .consultation__footnote {
         font-size: 22px;
         margin-bottom: 30px;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-df1c185 .elementor-heading-title {
+        font-size: 50px;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-310ba95f .elementor-heading-title,
+    .elementor-1490 .elementor-element.elementor-element-482ecf79 .elementor-heading-title,
+    .elementor-1490 .elementor-element.elementor-element-530006e4 .elementor-heading-title,
+    .elementor-1490 .elementor-element.elementor-element-17444b45 .elementor-heading-title,
+    .elementor-1490 .elementor-element.elementor-element-4b96ca57 .elementor-heading-title,
+    .elementor-1490 .elementor-element.elementor-element-7f784e0e .elementor-heading-title {
+        font-size: 32px;
     }
 }
 
