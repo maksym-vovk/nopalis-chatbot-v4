@@ -3092,6 +3092,20 @@ p {
     .elementor-element-847fa96.elementor-col-50 {
         width: 60%;
     }
+
+    .elementor-column.elementor-element-3c960cea,
+    .elementor-column.elementor-element-393d7c2 {
+        width: 48%;
+    }
+
+    ol {
+        padding-left: 25px;
+    }
+
+    li::marker {
+        color: #467119;
+        font-weight: 700;
+    }
 }
 
 @media (max-width: 767px) {
@@ -3577,6 +3591,7 @@ p {
     position: fixed;
     padding: 10px 15px;
     z-index: 1000;
+    box-sizing: border-box;
 }
 
 .elementor-1490 .elementor-element.elementor-element-5ab108ee {
@@ -3851,7 +3866,7 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
 }
 
 .elementor-1490 .elementor-element.elementor-element-455bbf35:not(.elementor-motion-effects-element-type-background) {
-    background-color: #FDFDFD;
+    background-color: #E0E0E0;
 }
 
 .elementor-1490 .elementor-element.elementor-element-455bbf35 > .elementor-container {
@@ -3859,22 +3874,20 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
 }
 
 .elementor-1490 .elementor-element.elementor-element-455bbf35 {
-    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    padding: 0px 40px 40px 40px;
+    padding: 30px 15px;
 }
 
 .elementor-1490 .elementor-element.elementor-element-2263d67.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated {
     align-content: center;
     align-items: center;
+    padding: 0;
 }
 
 .elementor-1490 .elementor-element.elementor-element-7d0fbb33 {
     text-align: center;
     color: #467119;
     font-family: "Arial", Sans-serif;
-    font-size: 50px;
+    font-size: 38px;
     font-weight: 600;
     text-transform: uppercase;
 }
@@ -3883,9 +3896,9 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     text-align: center;
     color: #000000;
     font-family: "Arial", Sans-serif;
-    font-size: 33px;
+    font-size: 28px;
     font-weight: 600;
-    line-height: 1.2em;
+    line-height: 1.3;
 }
 
 .elementor-1490 .elementor-element.elementor-element-34e7cd94:not(.elementor-motion-effects-element-type-background) {
@@ -3896,13 +3909,14 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     max-width: 1342px;
     align-items: flex-start;
     margin-bottom: 20px;
+    gap: 20px;
 }
 
 .elementor-1490 .elementor-element.elementor-element-34e7cd94 {
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
     margin-top: 0px;
     margin-bottom: 0px;
-    padding: 0px 40px 40px 40px;
+    padding: 30px 15px;
 }
 
 .elementor-1490 .elementor-element.elementor-element-3c960cea.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated {
@@ -3930,7 +3944,7 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     text-align: center;
     color: #000000;
     font-family: "Arial", Sans-serif;
-    font-size: 24px;
+    font-size: 19px;
     font-weight: 200;
     line-height: 1.2em;
 }
@@ -3960,18 +3974,19 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     text-align: center;
     color: #000000;
     font-family: "Arial", Sans-serif;
-    font-size: 24px;
+    font-size: 17px;
     font-weight: 200;
-    line-height: 1.2em;
+    line-height: 1.2;
+    margin-bottom: 0;
 }
 
 .elementor-1490 .elementor-element.elementor-element-372f0741 {
     text-align: center;
     color: #000000;
     font-family: "Arial", Sans-serif;
-    font-size: 24px;
+    font-size: 17px;
     font-weight: 200;
-    line-height: 1.2em;
+    line-height: 1.2;
 }
 
 .elementor-1490 .elementor-element.elementor-element-372f0741 p:last-of-type {
@@ -4373,13 +4388,33 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     --page-title-display: none;
 }
 
+.fifth__btn-block {
+    width: 290px;
+    margin-top: 0;
+}
+
+@media (min-width: 480px) {
+    .fifth__btn-block {
+        width: 307px;
+        padding-top: 14px;
+        padding-bottom: 16px;
+    }
+
+    .fifth__btn {
+        line-height: 1;
+    }
+}
+
 @media (min-width: 768px) {
     .elementor-1490 .elementor-element.elementor-element-2088981,
     .elementor-1490 .elementor-element.elementor-element-693abd92 {
-        min-height: 158px;
-        width: 337px;
-        margin-left: auto;
-        margin-right: auto;
+        font-size: 25px;
+        text-align: left;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-21e8a49b,
+    .elementor-1490 .elementor-element.elementor-element-372f0741 {
+        text-align: left;
     }
 
     .elementor-section .elementor-container {
@@ -4442,6 +4477,24 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     .recomendation__btn-wrapper {
         text-align: left;
     }
+
+    .elementor-1490 .elementor-element.elementor-element-3c960cea.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated,
+    .elementor-1490 .elementor-element.elementor-element-393d7c2.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated {
+        padding: 0;
+    }
+
+    .fifth__btn-block {
+        width: 307px;
+        padding-top: 14px;
+        padding-bottom: 16px;
+        max-width: none;
+        margin: 0 auto;
+    }
+
+    .fifth__btn {
+        line-height: 1;
+        font-size: 18px;
+    }
 }
 
 @media screen and (min-width: 850px) {
@@ -4454,14 +4507,6 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     .elementor-1490 .elementor-element.elementor-element-1f75a3cc {
         width: 250px;
         right: 50px;
-    }
-}
-
-@media screen and (min-width: 992px) {
-    .elementor-1490 .elementor-element.elementor-element-2088981,
-    .elementor-1490 .elementor-element.elementor-element-693abd92 {
-        min-height: 118px;
-        width: 100%;
     }
 }
 
@@ -4520,12 +4565,36 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     .btn__footnote {
         font-size: 18px;
     }
-}
 
-@media (min-width: 1025px) {
+    .elementor-1490 .elementor-element.elementor-element-7d0fbb33 {
+        font-size: 42px;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-455bbf35 {
+        padding: 35px 20px;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-34e7cd94 > .elementor-container {
+        margin-bottom: 30px;
+    }
+
     .elementor-1490 .elementor-element.elementor-element-2088981,
     .elementor-1490 .elementor-element.elementor-element-693abd92 {
-        width: 452px;
+        font-size: 26px;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-21e8a49b,
+    .elementor-1490 .elementor-element.elementor-element-372f0741 {
+        text-align: left;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-5f31c52a {
+        font-size: 20px;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-11338b96 {
+        width: 80%;
+        margin: 0 auto;
     }
 }
 
@@ -4566,11 +4635,42 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     }
 }
 
-@media (min-width: 1270px) {
+@media (min-width: 1280px) {
+    .elementor-1490 .elementor-element.elementor-element-7d0fbb33 {
+        font-size: 50px;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-11338b96 {
+        font-size: 33px;
+        width: 90%;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-34e7cd94 > .elementor-container {
+        gap: 56px;
+        max-width: 1250px;
+        margin-bottom: 35px;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-455bbf35 {
+        padding: 50px 25px;
+    }
+
     .elementor-1490 .elementor-element.elementor-element-2088981,
     .elementor-1490 .elementor-element.elementor-element-693abd92 {
-        min-height: 79px;
-        width: 100%;
+        font-size: 30px;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-5f31c52a {
+        font-size: 22px;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-21e8a49b, 
+    .elementor-1490 .elementor-element.elementor-element-372f0741 {
+        font-size: 18px;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-34e7cd94 {
+       padding: 40px 25px;
     }
 }
 
@@ -4726,19 +4826,17 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     }
 
     .elementor-1490 .elementor-element.elementor-element-455bbf35 {
-        margin-top: 0px;
-        margin-bottom: -1px;
-        padding: 20px 0px 0px 0px;
+        padding: 25px 15px;
     }
 
     .elementor-1490 .elementor-element.elementor-element-7d0fbb33 {
-        font-size: 42px;
-        line-height: 1.2em;
+        font-size: 30px;
+        line-height: 1.2;
     }
 
     .elementor-1490 .elementor-element.elementor-element-11338b96 {
-        font-size: 31px;
-        line-height: 1.1em;
+        font-size: 24px;
+        line-height: 1.2;
     }
 
     .elementor-1490 .elementor-element.elementor-element-34e7cd94 {
@@ -4758,16 +4856,21 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     }
 
     .elementor-1490 .elementor-element.elementor-element-2088981 {
-        font-size: 32px;
-        line-height: 1.2em;
+        font-size: 22px;
+        line-height: 1.3;
     }
 
-    .elementor-1490 .elementor-element.elementor-element-5f31c52a > .elementor-widget-container {
-        padding: 0px 3px 0px 3px;
+    ol {
+        padding-left: 20px;
+    }
+
+    li::marker {
+        color: #467119;
+        font-weight: 700;
     }
 
     .elementor-1490 .elementor-element.elementor-element-5f31c52a {
-        font-size: 24px;
+        font-size: 18px;
     }
 
     .elementor-1490 .elementor-element.elementor-element-3ea7959f > .elementor-widget-container {
@@ -4781,24 +4884,17 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     }
 
     .elementor-1490 .elementor-element.elementor-element-693abd92 {
-        font-size: 32px;
-        line-height: 1.2em;
-    }
-
-    .elementor-1490 .elementor-element.elementor-element-21e8a49b > .elementor-widget-container {
-        padding: 0px 3px 0px 3px;
+        font-size: 22px;
+        line-height: 1.3;
     }
 
     .elementor-1490 .elementor-element.elementor-element-21e8a49b {
-        font-size: 24px;
-    }
-
-    .elementor-1490 .elementor-element.elementor-element-372f0741 > .elementor-widget-container {
-        padding: 0px 3px 0px 3px;
+        font-size: 18px;
+        margin-bottom: 0;
     }
 
     .elementor-1490 .elementor-element.elementor-element-372f0741 {
-        font-size: 24px;
+        font-size: 18px;
     }
 
     .elementor-1490 .elementor-element.elementor-element-7feed9c1 .elementor-button {
