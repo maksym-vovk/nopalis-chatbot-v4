@@ -1846,7 +1846,10 @@ const chatSteps = [
         messages: [
             (state) => {
                 const username = state.answers.main_form_name || 'Incognito'
-                return `Здравствуйте, ${username}, я Мариана, персональный консультант Nopalіs. Для вас уже действует скидка 50%. Предлагаю вам прослушать краткую информацию о нашей программе`;
+                return {
+                    text: `Здравствуйте, ${username}, я Мариана, персональный консультант Nopalіs. Для вас уже действует скидка 50%. Предлагаю вам прослушать краткую информацию о нашей программе`,
+                    typingDelay: 0
+                };
             }
         ],
     },
@@ -1856,7 +1859,7 @@ const chatSteps = [
             {
                 text: `<div class="audio"><img src="${basePath}images/cb-ava.png" alt="Avatar" class="message-avatar"><div class="audio-player"><div class="controls"><button class="play-pause-button play" id="audioControlButton"></button></div><audio><source src="${basePath}media/1.mp3" type="audio/mpeg"></audio><div class="progress-wrapper"><div class="progress"><div class="progress-bar"></div></div></div><div class="audio-time"><span class="audio-current__time">0:00</span></div></div></div>`,
                 typingIndicator: 'mic',
-                typingDelay: 1000 //12000
+                typingDelay: 7000 //12000
             }
         ],
         options: [
@@ -2462,8 +2465,8 @@ document.addEventListener('DOMContentLoaded', () => {
         root: '.chat-bot',
         steps: chatSteps,
         typingDelayPerChar: 50, // ms per character (default: 15) 50
-        typingDelayMin: 1000,     // minimum delay in ms (default: 600-1500) 2000
-        typingDelayMax: 1000,    // maximum delay in ms (default: 3000-5000) 4000
+        typingDelayMin: 2000,     // minimum delay in ms (default: 600-1500) 2000
+        typingDelayMax: 4000,    // maximum delay in ms (default: 3000-5000) 4000
         startQueue: {
             enabled: false,
             delay: () => 10000 + Math.floor(Math.random() * 5001), // 10–15 sec
