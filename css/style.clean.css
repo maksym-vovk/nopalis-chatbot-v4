@@ -4066,7 +4066,7 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
 
 .elementor-1490 .elementor-element.elementor-element-20696224 .elementor-heading-title {
     font-family: "Arial", Sans-serif;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 600;
     text-transform: uppercase;
     color: #000000;
@@ -4116,7 +4116,7 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
 
 .elementor-1490 .elementor-element.elementor-element-5286ed29 .elementor-heading-title {
     font-family: "Arial", Sans-serif;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 600;
     text-transform: uppercase;
     color: #000000;
@@ -5462,8 +5462,8 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     }
 
     .elementor-1490 .elementor-element.elementor-element-5286ed29 .elementor-heading-title {
-        font-size: 27px;
-        line-height: 1.2em;
+        font-size: 20px;
+        line-height: 1.2;
     }
 
     .elementor-1490 .elementor-element.elementor-element-2f82bccc > .elementor-widget-container {
@@ -5507,8 +5507,8 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     }
 
     .elementor-1490 .elementor-element.elementor-element-41c0a432 .elementor-heading-title {
-        font-size: 24px;
-        line-height: 1.2em;
+        font-size: 20;
+        line-height: 1.2;
     }
 
     .elementor-1490 .elementor-element.elementor-element-49ec46c4 > .elementor-widget-container {
