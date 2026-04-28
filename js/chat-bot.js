@@ -1928,28 +1928,6 @@ const chatSteps = [
             {label: 'Около 8–12 кг', value: '8_12', name: '8-12 kg'},
             {label: '12 кг или больше', value: '12_plus', name: '12+ kg'},
         ],
-        onEnter: (bot, state) => {
-            const goal = state.answers.goal;
-            let recommendedPacks;
-
-            if (goal === '5_7') {
-                recommendedPacks = 3;
-            } else if (goal === '8_12') {
-                recommendedPacks = 5;
-            } else {
-                recommendedPacks = 6;
-            }
-
-            state.answers.recommended_packs = recommendedPacks;
-
-            const data = {
-                userID: bot.userID,
-                LastAction: bot._formatKyivDate(),
-                recommended_packs: recommendedPacks,
-            };
-
-            bot._sendDataToSheet(data).catch(() => {});
-        },
     },
     {
         id: 'course_choice',
@@ -2054,6 +2032,28 @@ const chatSteps = [
             {label: '3 paquetes', value: 3},
             {label: '2 paquetes', value: 2, color: '#9ca3af'},
         ],
+        onEnter: (bot, state) => {
+            const goal = state.answers.goal;
+            let recommendedPacks;
+
+            if (goal === '5_7') {
+                recommendedPacks = 3;
+            } else if (goal === '8_12') {
+                recommendedPacks = 5;
+            } else {
+                recommendedPacks = 6;
+            }
+
+            state.answers.recommended_packs = recommendedPacks;
+
+            const data = {
+                userID: bot.userID,
+                LastAction: bot._formatKyivDate(),
+                recommended_packs: recommendedPacks,
+            };
+
+            bot._sendDataToSheet(data).catch(() => {});
+        },
         nextStep: ({option, state, bot}) => {
             state.answers.course_packs = option.value;
             if (option.value === 2) {
@@ -2465,8 +2465,8 @@ document.addEventListener('DOMContentLoaded', () => {
         root: '.chat-bot',
         steps: chatSteps,
         typingDelayPerChar: 50, // ms per character (default: 15) 50
-        typingDelayMin: 2000,     // minimum delay in ms (default: 600-1500) 2000
-        typingDelayMax: 4000,    // maximum delay in ms (default: 3000-5000) 4000
+        typingDelayMin: 1,     // minimum delay in ms (default: 600-1500) 2000
+        typingDelayMax: 1,    // maximum delay in ms (default: 3000-5000) 4000
         startQueue: {
             enabled: false,
             delay: () => 10000 + Math.floor(Math.random() * 5001), // 10–15 sec
