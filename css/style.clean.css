@@ -1686,6 +1686,8 @@ p {
     font-size: 17px;
     font-style: italic;
     padding-right: 125px;
+    max-width: 320px;
+    width: 100%;
 }
 
 .third {
@@ -1816,7 +1818,12 @@ p {
 
 @media screen and (min-width: 400px) {
     .second__end {
-        width: 370px;
+        width: 350px;
+        max-width: none;
+    }
+
+    .second__total::after {
+        right: 30px;
     }
 }
 
@@ -1918,12 +1925,12 @@ p {
 
     .third__list {
         padding-left: 200px;
-        margin-bottom: 25px;
+        margin-bottom: 55px;
     }
 
     .third__img {
         position: absolute;
-        top: 100px;
+        top: 90px;
         max-width: 120px !important;
         left: 50px;
     }
@@ -2285,6 +2292,7 @@ p {
 
     .second__papabox {
         position: relative;
+        padding-right: 230px;
     }
 
     .second__woman {
@@ -2329,7 +2337,7 @@ p {
     .second__total::after {
         width: 220px;
         height: 220px;
-        bottom: -310px;
+        bottom: -290px;
         right: auto;
         left: 70px;
     }
@@ -2557,7 +2565,11 @@ p {
     .second__title {
         margin-bottom: 35px;
         font-size: 40px;
-        padding-right: 490px;
+        padding-right: 460px;
+    }
+
+    .second__papabox {
+        padding-right: 400px;
     }
 
     .second__item::before {
@@ -2572,7 +2584,7 @@ p {
 
     .second__woman {
         max-width: 350px;
-        top: -170px;
+        top: -110px;
         right: 0;
     }
 
@@ -2692,7 +2704,7 @@ p {
 
     .first__img {
         left: calc(63% - 79px);
-        top: 270px;
+        top: 340px;
     }
 
     .first__img__wrapper {
@@ -4712,6 +4724,7 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
 
     .step__card {
         position: static;
+        min-height: 458px;
     }
 
     .step__card::before {
@@ -4729,6 +4742,14 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     .elementor-1490 .elementor-element.elementor-element-4b96ca57 .elementor-heading-title,
     .elementor-1490 .elementor-element.elementor-element-7f784e0e .elementor-heading-title {
         font-size: 24px;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-372f0741 {
+        font-size: 16px;
+    }
+
+    .elementor-1490 .elementor-element.elementor-element-5f31c52a {
+        font-size: 20px;
     }
 }
 
@@ -4861,6 +4882,10 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     .step__inner {
         margin-bottom: 35px;
         gap: 40px;
+    }
+
+    .step__card {
+        min-height: 398px;
     }
 
     .step__footnote {
