@@ -4404,6 +4404,10 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     margin-top: 0;
 }
 
+.fifth__btn {
+    pointer-events: none;
+}
+
 .webp .step {
     background-image: url(../images/extra_clean_paper.webp);
 }
@@ -4545,6 +4549,10 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
 .consultation__text {
     font-size: 18px;
     margin: 0;
+}
+
+.consultation__btn {
+    pointer-events: none;
 }
 
 .consultation__footnote {
@@ -6295,6 +6303,10 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     margin: 10px 0 0;
 }
 
+.main__btn:before {
+    pointer-events: none;
+}
+
 .main__btn:before, .chat-btn__btn:before {
     content: '';
     position: absolute;
@@ -6320,6 +6332,10 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     position: relative;
     border: none;
     outline: none;
+}
+
+.main__btn:hover {
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
 }
 
 .main__btn * {
