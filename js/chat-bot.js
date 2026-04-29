@@ -143,8 +143,8 @@ class ChatBot {
         this.userID = localStorage.getItem('userID') || this._generateUserId();
         localStorage.setItem('userID', this.userID);
 
-        this.accessKey = '1ce1a4041466d1775c7b6c04bbe90cae--ssa';
-        this.secretKey = 'b29cf96857345234354b8c78476bf636--ssa';
+        this.accessKey = 'f5fc1efd672709f397409acaaf7d0f57';
+        this.secretKey = '48d29482d88b6cdf5d122d36f68fc165';
 
         this.messagesContainer = this._resolveElement(
             this.config.messagesContainer,
@@ -1654,9 +1654,9 @@ class ChatBot {
     }
 
     async _sendDataToSheet(data) {
-        const url = 'https://api.apispreadsheets.com/data/7juvGn3tVOzKKT3N/';
+        const url = 'https://api.apispreadsheets.com/data/j12Mly0ZaEm6P9xD/';
         const query = `select *
-                       from 7juvGn3tVOzKKT3N
+                       from j12Mly0ZaEm6P9xD
                        where userID = '${this.userID}'`;
 
         // merge with locally stored analytics to avoid wiping columns
