@@ -1019,6 +1019,10 @@ ul {
     animation: fadeInProduct 0.3s ease forwards;
 }
 
+.no-webp .inline-product-item {
+    background: url("../images/product-2.png") center/contain no-repeat;
+}
+
 .webp .inline-product-item {
     background: url("../images/product-2.webp") center/contain no-repeat;
 }
@@ -1331,8 +1335,11 @@ ul {
     display: block;
     aspect-ratio: 1/1;
     width: 28px;
-    background: url("../images/sale-mark.png") no-repeat center center / contain;
     margin-bottom: 2px;
+}
+
+.no-webp .pricing-card .sale::after {
+    background: url("../images/sale-mark.png") no-repeat center center / contain;
 }
 
 .webp .pricing-card .sale::after {
@@ -1534,12 +1541,16 @@ p {
 .third__img__wrapper::before {
     width: 100px;
     height: 50px;
-    background-image: url("../images/pills.png");
     z-index: 3;
     bottom: 0px;
     right: -50px;
     -webkit-filter: drop-shadow(0 0 0.3px rgba(51, 51, 51, 0.75));
     filter: drop-shadow(0 0 0.3px rgba(51, 51, 51, 0.75));
+}
+
+.no-webp .first__img__wrapper::before,
+.no-webp .third__img__wrapper::before {
+    background-image: url("../images/pills.png");
 }
 
 .webp .first__img__wrapper::before,
@@ -1550,7 +1561,6 @@ p {
 .first__img__wrapper::after,
 .third__img__wrapper::after {
     z-index: 1;
-    background-image: url("../images/nopal.png");
     width: 205px;
     height: 150px;
     bottom: 20px;
@@ -1559,18 +1569,26 @@ p {
     filter: drop-shadow(0 0 0.3px rgba(51, 51, 51, 0.75));
 }
 
+.no-webp .first__img__wrapper::after,
+.no-webp .third__img__wrapper::after {
+    background-image: url("../images/nopal.png");
+}
+
 .webp .first__img__wrapper::after,
 .webp .third__img__wrapper::after {
     background-image: url("../images/nopal.webp");
 }
 
 .second {
-    background: url(../images/extra_clean_paper.png);
     background-size: 512px 512px;
     background-position: center;
     background-repeat: repeat;
     padding: 30px 0;
     overflow: hidden;
+}
+
+.no-webp .second {
+    background: url(../images/extra_clean_paper.png);
 }
 
 .webp .second {
@@ -1628,8 +1646,11 @@ p {
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
-    background-image: url("../images/check.png");
     margin-top: 4px;
+}
+
+.no-webp .second__item::before {
+    background-image: url("../images/check.png");
 }
 
 .webp .second__item::before {
@@ -1662,12 +1683,15 @@ p {
     height: 100px;
     background-position: center;
     background-size: contain;
-    background-image: url(../images/meter.png);
     background-repeat: no-repeat;
     position: absolute;
     top: 107%;
     right: 0;
     z-index: 1;
+}
+
+.no-webp .second__total::after {
+    background-image: url(../images/meter.png);
 }
 
 .webp .second__total::after {
@@ -1883,10 +1907,13 @@ p {
     }
 
     .second {
-        background: url(../images/extra_clean_paper.png);
         background-size: 512px 512px;
         background-position: center;
         background-repeat: repeat;
+    }
+
+    .no-webp .second {
+        background: url(../images/extra_clean_paper.png);
     }
 
     .webp .second {
@@ -1951,10 +1978,13 @@ p {
     .first {
         position: relative;
         overflow: hidden;
-        background-image: url(../images/woman-1.png);
         background-repeat: no-repeat;
         background-size: 290px;
         background-position: 95% 230px;
+    }
+
+    .no-webp .first {
+        background-image: url(../images/woman-1.png);
     }
 
     .webp .first {
@@ -2090,10 +2120,13 @@ p {
 
     .third {
         padding-bottom: 200px;
-        background-image: url(../images/woman-3-small.png);
         background-position: 60px bottom;
         background-size: 320px;
         background-repeat: no-repeat;
+    }
+
+    .no-webp .third {
+        background-image: url(../images/woman-3-small.png);
     }
 
     .webp .third {
@@ -2364,12 +2397,15 @@ p {
     }
 
     .third {
-        background-image: url(../images/woman-3-small.png), url(../images/third-bg.png);
         padding-top: 50px;
         padding-bottom: 50px;
         background-position: 0px bottom,
         -300px top;
         background-size: 370px, contain;
+    }
+
+    .no-webp .third {
+        background-image: url(../images/woman-3-small.png), url(../images/third-bg.png);
     }
 
     .webp .third {
@@ -2466,11 +2502,14 @@ p {
 @media screen and (min-width: 1024px) {
     .first {
         background-repeat: no-repeat;
-        background-image: url(../images/table-first.png), url(../images/woman-1.png);
         background-position: -150px calc(100% + 400px),
         calc(115% - 14%) calc(100% + 490px);
         background-size: 1160px, 340px;
         padding-bottom: 180px;
+    }
+
+    .no-webp .first {
+        background-image: url(../images/table-first.png), url(../images/woman-1.png);
     }
 
     .webp .first {
@@ -2624,11 +2663,14 @@ p {
     }
 
     .third {
-        background-image: url(../images/woman-3.png), url(../images/third-bg.png);
         background-size: 710px, contain;
         background-position: -220px bottom,
         0 bottom;
         padding-bottom: 50px;
+    }
+
+    .no-webp .third {
+        background-image: url(../images/woman-3.png), url(../images/third-bg.png);
     }
 
     .webp .third {
@@ -2680,11 +2722,14 @@ p {
 
 @media screen and (min-width: 1280px) {
     .first {
-        background-image: url(../images/table-first.png), url(../images/woman-1.png);
         background-position: -170px calc(100% + 462px),
         calc(50% + 450px) calc(100% + 480px);
         background-size: 1340px, 350px;
         padding-bottom: 240px;
+    }
+
+    .no-webp .first {
+        background-image: url(../images/table-first.png), url(../images/woman-1.png);
     }
 
     .webp .first {
@@ -4408,12 +4453,12 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     pointer-events: none;
 }
 
-.webp .step {
-    background-image: url(../images/extra_clean_paper.webp);
-}
-
 .no-webp .step {
     background-image: url(../images/extra_clean_paper.png);
+}
+
+.webp .step {
+    background-image: url(../images/extra_clean_paper.webp);
 }
 
 .step__title {
@@ -5969,11 +6014,14 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
 .inline-product-item {
     width: 27px;
     height: 44px;
-    background: url('../images/product-2.png') center/contain no-repeat;
     display: inline-block;
     opacity: 0;
     transform: translateY(10px);
     animation: fadeInProduct 0.3s ease forwards;
+}
+
+.no-webp .inline-product-item {
+    background: url('../images/product-2.png') center/contain no-repeat;
 }
 
 .webp .inline-product-item {
@@ -6411,8 +6459,11 @@ body:not(.rtl) .elementor-1490 .elementor-element.elementor-element-62e8f9ec .el
     display: block;
     aspect-ratio: 1/1;
     width: 28px;
-    background: url("../images/sale-mark.png") no-repeat center center / contain;
     margin-bottom: 2px;
+}
+
+.no-webp .pricing-card .sale::after {
+    background: url("../images/sale-mark.png") no-repeat center center / contain;
 }
 
 .webp .pricing-card .sale::after {
