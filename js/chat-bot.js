@@ -1847,7 +1847,7 @@ const chatSteps = [
             (state) => {
                 const username = state.answers.main_form_name || 'Incognito'
                 return {
-                    text: `Здравствуйте, ${username}, я Мариана, персональный консультант Nopalіs. Для вас уже действует скидка 50%. Предлагаю вам прослушать краткую информацию о нашей программе`,
+                    text: `Hola, ${username}, soy Mariana, asesora personal de Nopalіs. Ya tiene un 50% de descuento. Por favor, escuche una breve introducción a nuestro programa.`,
                     typingDelay: 0
                 };
             }
@@ -1863,76 +1863,76 @@ const chatSteps = [
             }
         ],
         options: [
-            {label: 'Перейти к консультации', value: 'start_consultation'},
+            {label: 'Pasar a la consulta', value: 'start_consultation'},
         ],
     },
     {
         id: 'height',
         messages: [
-            'Теперь перейдем к важному. Уточните, пожалуйста, ваш рост.'
+            'Ahora vamos a lo importante. Por favor, indique su altura.'
         ],
         options: [
-            {label: 'До 155 см',    value: 'up_to_155', name: 'Up to 155 cm'},
-            {label: '155-165 см',   value: '155_165', name: '155-165 cm'},
-            {label: '165-175 см',   value: '165_175', name: '165-175 cm'},
-            {label: 'Выше 175 см',  value: 'over_175', name: 'Over 175 cm'},
+            {label: 'Menos de 155 cm',    value: 'up_to_155', name: 'Up to 155 cm'},
+            {label: '155-165 сm',         value: '155_165', name: '155-165 cm'},
+            {label: '165-175 сm',         value: '165_175', name: '165-175 cm'},
+            {label: 'Más de 175 сm',      value: 'over_175', name: 'Over 175 cm'},
         ],
     },
     {
         id: 'weight',
         messages: [
-            'Спасибо. Переходим к следующему вопросу',
-            'Пожалуйста, укажите ваш текущий вес'
+            'Gracias. Pasemos a la siguiente pregunta.',
+            'Por favor, indique su peso actual.'
         ],
         options: [
-            {label: 'До 60 кг',      value: 'up_to_60', name: 'Up to 60 kg'},
-            {label: '60–75 кг',      value: '60_75', name: '60-75 kg'},
-            {label: '75–90 кг',      value: '75_90', name: '75-90 kg'},
-            {label: 'Больше 90 кг',  value: 'over_90', name: 'Over 90 kg'},
+            {label: 'Menos de 60 kg',      value: 'up_to_60', name: 'Up to 60 kg'},
+            {label: '60–75 kg',            value: '60_75', name: '60-75 kg'},
+            {label: '75–90 kg',            value: '75_90', name: '75-90 kg'},
+            {label: 'Más de 90 kg',        value: 'over_90', name: 'Over 90 kg'},
         ],
     },
     {
         id: 'age',
         messages: [
-            'Не волнуйтесь, мы вместе с этим справимся. Переходим к следующему вопросу.',
-            'Для максимального эффекта программы важно учитывать ваш возраст, ведь от него зависит скорость метаболических процессов. Укажите, пожалуйста, сколько вам лет.'
+            'No se preocupe, superaremos esto juntos. Pasemos a la siguiente pregunta.',
+            'Para maximizar la efectividad del programa, es importante tener en cuenta su edad, ya que influye en su metabolismo. Por favor, indique su edad.'
         ],
         options: [
-            {label: 'До 35 лет',      value: 'under_35', name: 'Under 35'},
-            {label: '35–45 лет',      value: '35_45', name: '35-45'},
-            {label: '45–55 лет',      value: '45_55', name: '45-55'},
-            {label: 'Больше 55 лет',  value: 'over_55', name: 'Over 55'},
+            {label: 'Menos de 35 años',     value: 'under_35', name: 'Under 35'},
+            {label: '35–45 años',           value: '35_45', name: '35-45'},
+            {label: '45–55 años',           value: '45_55', name: '45-55'},
+            {label: 'Más de 55 años',       value: 'over_55', name: 'Over 55'},
         ],
     },
     {
         id: 'physical_activity',
         messages: [
-            'Спасибо, учитывая ваш возраст, я уже лучше понимаю, что подойдет именно вам. Переходим к следующему вопросу.',
-            'Для более корректного выбора программы укажите, пожалуйста, свою обычную физическую активность.'
+            'Gracias, dada su edad, ahora entiendo mejor qué sería lo mejor para usted. Pasemos a la siguiente pregunta.',
+            'Para seleccionar un programa con mayor precisión, indique su nivel habitual de actividad física.'
         ],
         options: [
-            {label: 'Большую часть дня сижу, спортом не занимаюсь', value: 'sedentary', name: 'Sedentary'},
-            {label: 'Спортом не занимаюсь, но много хожу',          value: 'light', name: 'Light activity'},
-            {label: 'Занимаюсь спортом 1–2 раза в неделю',          value: 'moderate', name: 'Moderate activity'},
-            {label: 'Регулярно тренируюсь',                         value: 'active', name: 'Active'},
+            {label: 'Paso la mayor parte del día sentado y no practico ningún deporte.',    value: 'sedentary', name: 'Sedentary'},
+            {label: 'No practico deportes, pero camino mucho.',                             value: 'light', name: 'Light activity'},
+            {label: 'Hago ejercicio 1-2 veces por semana.',                                 value: 'moderate', name: 'Moderate activity'},
+            {label: 'Hago ejercicio con regularidad.',                                      value: 'active', name: 'Active'},
         ],
     },
     {
         id: 'goal',
         messages: [
-            'Отлично. Теперь переходим к последнему вопросу - самому главному.',
-            'Сколько килограмм вы хотите сбросить?'
+            'Excelente. Ahora pasemos a la última pregunta, la más importante.',
+            '¿Cuántos kilos quiere perder?'
         ],
         options: [
-            {label: 'Около 5–7 кг', value: '5_7', name: '5-7 kg'},
-            {label: 'Около 8–12 кг', value: '8_12', name: '8-12 kg'},
-            {label: '12 кг или больше', value: '12_plus', name: '12+ kg'},
+            {label: 'Unos 5-7 kg',  value: '5_7', name: '5-7 kg'},
+            {label: 'Unos 8-12 kg', value: '8_12', name: '8-12 kg'},
+            {label: '12 kg o más',  value: '12_plus', name: '12+ kg'},
         ],
     },
     {
         id: 'course_choice',
         messages: [
-            'Спасибо, теперь мне понятна задача. И вот что я вам хочу предложить:',
+            'Gracias, ahora entiendo el problema. Y esto es lo que me gustaría ofrecerle:',
             (state) => {
                 const packs = state.answers.recommended_packs;
                 const twoPacksCourse = COURSES.find(c => c.packs === 2);
@@ -2023,7 +2023,7 @@ const chatSteps = [
             (state) => {
                 const username = state.answers.main_form_name || "Incognito"
                 const recommendedCourse = COURSES.find(c => c.packs === state.answers.recommended_packs);
-                return `${username}, на основании ваших данных могу вам порекомендовать оптимальный для вас курс ${recommendedCourse.name}. Он поможет обеспечить именно тот результат, к которому вы стремитесь.`
+                return `${username}, según su información, puedo recomendarle el mejor curso: ${recommendedCourse.name}. Le ayudará a lograr los resultados exactos que busca.`
             }
         ],
         options: [
@@ -2276,12 +2276,12 @@ const chatSteps = [
     {
         id: 'two_packs_price',
         messages: [
-            'Хорошо, я зарегистрировала 2 упаковки.',
-            'Я вижу, вы с нами впервые.\n' +
-            'Я хочу, чтобы вы добились своей цели в похудении, поэтому расскажу, как добиться наилучших результатов. \n' +
-            'Начальный курс активизируют ваш метаболизм и подготавливают организм к сжиганию жира. \n' +
-            'Но стоит учесть, что на этом этапе вы практически не похудеете; продукт действует мягко и постепенно.\n',
-            'Поэтому большинство покупателей выбирают рекомендованный курс и видят реальные результаты через 3-4 недели. Процесс сжигания жира активизируется, и организм адаптируется для поддержания достигнутых результатов.',
+            'De acuerdo, registré 2 paquetes.',
+            'Veo que es la primera vez que está con nosotros.\n' +
+            'Quiero que logre su objetivo de pérdida de peso, así que le voy a explicar cómo obtener los mejores resultados. \n' +
+            'El tratamiento inicial activa tu metabolismo y prepara tu cuerpo para quemar grasa. \n' +
+            'Pero conviene tener en cuenta que en esta etapa no perderás mucho peso; el producto actúa de forma suave y gradual.\n',
+            'Por eso, la mayoría de los clientes eligen el programa recomendado y ven resultados reales en 3 o 4 semanas. Se activa el proceso de quema de grasa y el cuerpo se adapta para mantener los resultados obtenidos.',
             () => {
                 const twoPacksCourse = COURSES.find(c => c.packs === 2);
                 const threePacksCourse = COURSES.find(c => c.packs === 3);
@@ -2341,8 +2341,8 @@ const chatSteps = [
             },
         ],
         options: [
-            {label: `Взять рекомендованный ${COURSES.find(c => c.packs === 3).name}`, value: 3, color: 'green'},
-            {label: 'Оставить мой выбор', value: 2},
+            {label: `Realizar el curso recomendado ${COURSES.find(c => c.packs === 3).name}`, value: 3, color: 'green'},
+            {label: 'Dejar mi elección', value: 2},
         ],
         shouldSkip: ({state}) => state.answers.course_packs !== 2,
         nextStep: ({option, state, bot}) => {
@@ -2353,7 +2353,7 @@ const chatSteps = [
     {
         id: 'course_confirm',
         messages: [
-            'Отлично, переходим к оформлению заказа.',
+            'Perfecto, procedamos a realizar su pedido.',
             () => {
                 return {
                     text: `¡Gracias por tu pedido! Procedamos a coordinar la entrega.`,
@@ -2380,12 +2380,12 @@ const chatSteps = [
             (state) => {
                 const username = state.answers.main_form_name || "Incognito"
                 const phone = state.answers.main_form_phone || "Empty"
-                return `${username}, ${phone}. Это ваши данные для заказа?`
+                return `${username}, ${phone}. ¿Es esta la información de su pedido?`
             }
         ],
         options: [
-            {label: 'Да, все верно', value: 'yes', name: 'Correct data'},
-            {label: 'Нет, исправить', value: 'change', name: 'Change data'},
+            {label: 'Sí, correcto.', value: 'yes', name: 'Correct data'},
+            {label: 'No, corregir',  value: 'change', name: 'Change data'},
         ],
         nextStep: ({ option, bot }) => {
             if (option.value === 'change') {
