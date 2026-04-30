@@ -1413,7 +1413,8 @@ class ChatBot {
     }
 
     _generateUserId() {
-        return `dev-${Math.floor(Math.random() * 900000) + 100000}`
+        return `${Math.floor(Math.random() * 900000) + 100000}`
+        // return `dev-${Math.floor(Math.random() * 900000) + 100000}`
     }
 
     _getStepIndex(id) {
@@ -1670,8 +1671,6 @@ class ChatBot {
 
         // keep local copy in sync
         this._saveAnalyticsToLocalStorage(mergedData);
-
-        console.log(mergedData);
 
         try {
             let response = await fetch(url, {
@@ -2529,7 +2528,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 } else {
                     // на LP → після паузи редіректимо на subscribe
                     // window.location.href = 'subscribe123.html';
-                    window.location.href = 'subscribe123.html?pixel=' + UrlUtils.getAllSearchParams()?.pixel;
+                    window.location.href = 'subscribe123.php?pixel=' + UrlUtils.getAllSearchParams()?.pixel;
+                    // window.location.href = 'subscribe123.html?pixel=' + UrlUtils.getAllSearchParams()?.pixel;
                 }
             }, 5000);
         },
