@@ -143,7 +143,7 @@ class ChatBot {
         this.userID = localStorage.getItem('userID') || this._generateUserId();
         localStorage.setItem('userID', this.userID);
 
-        this.accessKey = 'f5fc1efd672709f397409acaaf7d0f57';
+        this.accessKey = 'f5fc1efd672709f397409acaaf7d0f57-stop';
         this.secretKey = '48d29482d88b6cdf5d122d36f68fc165';
 
         this.messagesContainer = this._resolveElement(

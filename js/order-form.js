@@ -81,7 +81,7 @@ class CustomSelect {
             document.querySelector('.form__select--colony .custom-select-input').disabled = false;
         } else if (this.type === 'colonia') {
             this.updateZipcode(item);
-            document.querySelector('.form__select--zipcode .custom-select-input').disabled = false;
+            // document.querySelector('.form__select--zipcode .custom-select-input').disabled = false;
         }
 
         this.validate();
@@ -111,28 +111,31 @@ class CustomSelect {
     }
 
     updateZipcode(colony) {
-        const zipcodeSelect = new CustomSelect(document.querySelector('.form__select--zipcode'), 'postal_code');
-        const uniquePostalCodes = [...new Set(colony.postal_code)];
+        // USER WRITE HIMSELF
 
-        if (!uniquePostalCodes.length) return;
-
-        const zipcodeInput = document.querySelector('.form__select--zipcode .custom-select-input');
-
-        if (uniquePostalCodes.length === 1) {
-            zipcodeInput.value = uniquePostalCodes[0]
-            this.updateMainData('postal_code', uniquePostalCodes[0]);
-        } else {
-            zipcodeInput.value = '';
-        }
-
-        zipcodeSelect.createSelect({
-            cities: uniquePostalCodes.map(code => ({
-                value: code,
-                name: code
-            }))
-        });
-
-        this.checkFormValidity();
+        // const zipcodeSelect = new CustomSelect(document.querySelector('.form__select--zipcode'), 'postal_code');
+        // const uniquePostalCodes = [...new Set(colony.postal_code)];
+        //
+        // if (!uniquePostalCodes.length) return;
+        //
+        // const zipcodeInput = document.querySelector('.form__select--zipcode .custom-select-input');
+        //
+        // if (uniquePostalCodes.length === 1) {
+        //     zipcodeInput.value = ''
+        //     // zipcodeInput.value = uniquePostalCodes[0]
+        //     this.updateMainData('postal_code', uniquePostalCodes[0]);
+        // } else {
+        //     zipcodeInput.value = '';
+        // }
+        //
+        // zipcodeSelect.createSelect({
+        //     cities: uniquePostalCodes.map(code => ({
+        //         value: code,
+        //         name: code
+        //     }))
+        // });
+        //
+        // this.checkFormValidity();
     }
 
     updateMainData(inputName, value) {
@@ -156,8 +159,10 @@ class CustomSelect {
 
     checkFormValidity() {
         const offerForm = document.querySelector('.offer__form');
-        const requiredFields = offerForm.querySelectorAll('input:not([name="landmark"])');
-        const allValid = Array.from(requiredFields).every(input => input.value.trim() !== '');
+        const requiredFields = Array.from(offerForm.querySelectorAll(
+            'input[name="city"], input[name="colonia"], input[name="street"]'
+        ));
+        const allValid = requiredFields.every(input => input.value.trim() !== '');
         this.disableSubmitButton(!allValid);
     }
 
@@ -234,5 +239,29 @@ document.addEventListener("DOMContentLoaded", () => {
     const selectFromArray = document.querySelector('.form__select--street');
     if (selectFromArray) {
         new SelectFromArray(selectFromArray);
+    }
+
+    //new
+    const zipcodeCheckbox = document.getElementById('zipcodeCheckbox');
+    const zipcodeBlock = document.querySelector('.form__label--zipcode');
+
+    if (zipcodeCheckbox && zipcodeBlock) {
+        const zipcodeInput = zipcodeBlock.querySelector('input[name="postal_code"]');
+
+        // allow digits only
+        if (zipcodeInput) {
+            zipcodeInput.addEventListener('input', () => {
+                zipcodeInput.value = zipcodeInput.value.replace(/\D/g, '');
+            });
+        }
+
+        zipcodeCheckbox.addEventListener('change', () => {
+            if (zipcodeCheckbox.checked) {
+                zipcodeBlock.classList.remove('zipcode-hidden');
+            } else {
+                zipcodeBlock.classList.add('zipcode-hidden');
+                if (zipcodeInput) zipcodeInput.value = '';
+            }
+        });
     }
 });

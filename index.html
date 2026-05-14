@@ -2751,6 +2751,7 @@
     </div>
 </main>
 <div class="chat-bot hidden">
+<!--<div class="chat-bot">-->
     <div class="chat-container">
         <!-- Header -->
         <div class="chat-header">
@@ -2932,6 +2933,7 @@
         <div class="chat-messages" id="chatMessages"></div>
 
         <div class="offer__form form hidden">
+<!--        <div class="offer__form form">-->
             <form action="/submit" method="post" class="order__form">
                 <div class="form__select-wrapper form__select--city custom-select">
                     <input
@@ -2939,7 +2941,7 @@
                             autocomplete="new-name"
                             required
                             class="form__select custom-select-input"
-                            placeholder="Municipio"
+                            placeholder="Municipio *"
                     />
                     <ul class="custom-select-list"></ul>
                 </div>
@@ -2951,21 +2953,23 @@
                             required
                             class="form__select custom-select-input"
                             disabled
-                            placeholder="Colonia"
+                            placeholder="Colonia *"
                     />
                     <ul class="custom-select-list"></ul>
                 </div>
 
-                <div class="form__select-wrapper form__select--street custom-select">
-                    <input
-                            name="type_street"
-                            autocomplete="new-name"
-                            required
-                            class="form__select form__input--street custom-select-input"
-                            placeholder="Tipo de la calle"
-                    />
-                    <ul class="custom-select-list"></ul>
-                </div>
+                <!--DELETE-->
+<!--                <div class="form__select-wrapper form__select&#45;&#45;street custom-select">-->
+<!--                    <input-->
+<!--                            name="type_street"-->
+<!--                            autocomplete="new-name"-->
+<!--                            required-->
+<!--                            class="form__select form__input&#45;&#45;street custom-select-input"-->
+<!--                            placeholder="Tipo de la calle"-->
+<!--                    />-->
+<!--                    <ul class="custom-select-list"></ul>-->
+<!--                </div>-->
+                <!--DELETE-->
 
                 <label class="form__label form__label--street">
                     <input
@@ -2974,37 +2978,87 @@
                             autocomplete="new-name"
                             name="street"
                             required=""
-                            placeholder="Calle"
+                            placeholder="Av. Insurgentes Sur 123 *"
                     />
                 </label>
 
-                <div class="form__wrapper">
-                    <label class="form__label">
-                        <input type="text" autocomplete="new-name" name="house" required class="form__input"
-                               placeholder="Edificio">
-                    </label>
+<!--                <div class="form__wrapper">-->
+<!--                    <label class="form__label">-->
+<!--                        <input type="text" autocomplete="new-name" name="house" required class="form__input"-->
+<!--                               placeholder="Edificio">-->
+<!--                    </label>-->
+<!--                    -->
+<!--                    <label class="form__label">-->
+<!--                        <input type="text" autocomplete="new-name" name="block" required class="form__input"-->
+<!--                               placeholder="Bloque">-->
+<!--                    </label>-->
 
-                    <label class="form__label">
-                        <input type="text" autocomplete="new-name" name="block" required class="form__input"
-                               placeholder="Bloque">
-                    </label>
+<!--                    <label class="form__label">-->
+<!--                        <input type="text" autocomplete="new-name" name="flat" required class="form__input"-->
+<!--                               placeholder="Apartamente">-->
+<!--                    </label>-->
 
-                    <label class="form__label">
-                        <input type="text" autocomplete="new-name" name="flat" required class="form__input"
-                               placeholder="Apartamente">
-                    </label>
+<!--                    <div class="form__select-wrapper form__select&#45;&#45;zipcode custom-select">-->
+<!--                        <input name="postal_code" autocomplete="off" disabled class="form__select custom-select-input"-->
+<!--                               placeholder="Código Postal">-->
+<!--                        <ul class="custom-select-list"></ul>-->
+<!--                    </div>-->
 
-                    <div class="form__select-wrapper form__select--zipcode custom-select">
-                        <input name="postal_code" autocomplete="off" disabled class="form__select custom-select-input"
-                               placeholder="Código Postal">
-                        <ul class="custom-select-list"></ul>
-                    </div>
+<!--                    <label class="form__label">-->
+<!--                        <input type="text" autocomplete="new-name" name="landmark" class="form__input"-->
+<!--                               placeholder="Orientación">-->
+<!--                    </label>-->
+<!--                </div>-->
 
-                    <label class="form__label">
-                        <input type="text" autocomplete="new-name" name="landmark" class="form__input"
-                               placeholder="Orientación">
+                <label class="form__label">
+                    <input type="text" autocomplete="new-name" name="house" class="form__input" placeholder="Edificio">
+                </label>
+
+                <!--DELETE-->
+                <!--                    <label class="form__label">-->
+                <!--                        <input type="text" autocomplete="new-name" name="block" required class="form__input"-->
+                <!--                               placeholder="Bloque">-->
+                <!--                    </label>-->
+                <!--DELETE-->
+
+                <label class="form__label">
+                    <input type="text" autocomplete="new-name" name="flat" class="form__input" placeholder="Apartamente">
+                </label>
+
+                <!-- Zipcode checkbox -->
+                <div class="zipcode-toggle">
+                    <label class="zipcode-toggle__label">
+                        <input type="checkbox" id="zipcodeCheckbox" class="zipcode-toggle__checkbox">
+                        <span class="zipcode-toggle__text">Знаю свой почтовый индекс (опционально)</span>
                     </label>
+                    <button type="button" class="zipcode-toggle__info" aria-label="Info">
+                        <span class="zipcode-toggle__tooltip">
+                          Если знаешь свой почтовый индекс — отметь галочку и введи его, это ускорит доставку. Если не знаешь — ничего страшного, можно оформить заказ без него.
+                        </span>
+                    </button>
                 </div>
+
+                <div class="form__label form__label--zipcode zipcode-hidden">
+                    <input name="postal_code" autocomplete="off" inputmode="numeric" class="form__input"
+                           placeholder="Código Postal">
+                </div>
+
+<!--                <div class="form__select-wrapper form__select&#45;&#45;zipcode custom-select zipcode-hidden">-->
+<!--                    <input name="postal_code" autocomplete="off" disabled class="form__select custom-select-input"-->
+<!--                           placeholder="Código Postal">-->
+<!--                    <ul class="custom-select-list"></ul>-->
+<!--                </div>-->
+
+<!--                <div class="form__select-wrapper form__select&#45;&#45;zipcode custom-select">-->
+<!--                    <input name="postal_code" autocomplete="off" disabled class="form__select custom-select-input"-->
+<!--                           placeholder="Código Postal">-->
+<!--                    <ul class="custom-select-list"></ul>-->
+<!--                </div>-->
+
+                <label class="form__label">
+                    <input type="text" autocomplete="new-name" name="landmark" class="form__input"
+                           placeholder="Orientación">
+                </label>
 
                 <button type="submit" class="btn form__btn form-btn form-button">Pedir</button>
             </form>
