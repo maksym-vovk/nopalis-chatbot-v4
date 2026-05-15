@@ -367,7 +367,7 @@ class ChatBot {
             if (!raw) return;
             const parsed = JSON.parse(raw);
 
-            if (parsed && parsed.version !== this.CHAT_VERSION) {
+            if (parsed && parsed.chat_version !== this.CHAT_VERSION) {
                 localStorage.clear();
                 return;
             }
