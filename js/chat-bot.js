@@ -143,7 +143,7 @@ class ChatBot {
         this.userID = localStorage.getItem('userID') || this._generateUserId();
         localStorage.setItem('userID', this.userID);
 
-        this.accessKey = 'f5fc1efd672709f397409acaaf7d0f57-stop';
+        this.accessKey = 'f5fc1efd672709f397409acaaf7d0f57';
         this.secretKey = '48d29482d88b6cdf5d122d36f68fc165';
 
         this.messagesContainer = this._resolveElement(
@@ -173,7 +173,7 @@ class ChatBot {
             const now = new Date();
             this._sendDataToSheet({
                 userID: this.userID,
-                'chat_version': '4.0',
+                'chat_version': '4.1',
                 FirstVisitUA: this._formatKyivDate(now),
                 FirstVisitMX: this._formatLocalDate(now),
                 LastAction: this._formatKyivDate(now),
@@ -331,6 +331,17 @@ class ChatBot {
 
     _clearMessages() {
         if (!this.messagesContainer) return;
+
+        // Rescue the offer form before clearing, so it's not lost from the DOM
+        const form = document.querySelector('.offer__form');
+        const host = this.messagesContainer.querySelector('#delivery-form-host');
+        if (form && host && host.contains(form)) {
+            form.classList.add('hidden');
+            form.style.opacity = '';
+            form.style.transform = '';
+            document.body.appendChild(form); // park it safely outside
+        }
+
         this.messagesContainer.innerHTML = '';
     }
 
@@ -847,11 +858,15 @@ class ChatBot {
 
                     const callTimeModal = document.getElementById('callTimeModal');
                     const endModal = document.getElementById('endConsultationModal');
+                    const endModalTwo = document.getElementById('endConsultationModalTwo');
 
                     if (this._shouldShowCallTimeModal()) {
                         if (callTimeModal) {
                             callTimeModal.classList.add('active');
                         }
+                    } else if (this.state.answers.height && endModalTwo) {
+                        endModalTwo.classList.add('active');
+                        setBodyScrollLock(true);
                     } else {
                         if (endModal) {
                             endModal.classList.add('active');
@@ -1118,18 +1133,24 @@ class ChatBot {
 
     _shouldShowCallTimeModal() {
         return (
-            this.state.answers.contact_phone ||
-            this.state.answers.main_form_phone ||
-            this.state.answers.whatsapp_phone
+            this.state.sawOrderForm &&  // ✅ must have seen .order__form
+            (
+                this.state.answers.contact_phone ||
+                this.state.answers.main_form_phone ||
+                this.state.answers.whatsapp_phone
+            )
         );
     }
 
     initClose() {
         const closeBtn = this.root.querySelector('#closeBtn');
         const endModal = document.getElementById('endConsultationModal');
+        const endModalTwo = document.getElementById('endConsultationModalTwo');
         const callTimeModal = document.getElementById('callTimeModal');
         const modalConfirmBtn = endModal?.querySelector('#confirmEnd');
+        const modalConfirmBtnTwo = endModalTwo?.querySelector('#confirmContinue');
         const modalCancelBtn = endModal?.querySelector('.cancel-btn');
+        const modalCancelBtnTwo = endModalTwo?.querySelector('#cancelCallMe');
         const offerForm = document.querySelector('.offer__form');
 
         // Submit call time
@@ -1214,31 +1235,56 @@ class ChatBot {
         if (!closeBtn) return;
 
         closeBtn.addEventListener('click', () => {
-            // Перевіряємо умови для модалки з часом дзвінка
             if (this._shouldShowCallTimeModal()) {
-                // Показуємо модалку з вибором часу
                 if (callTimeModal) {
                     callTimeModal.classList.add('active');
                 }
+            } else if (this.state.answers.height && endModalTwo) {
+                endModalTwo.classList.add('active');
+                setBodyScrollLock(true);
             } else {
-                // Показуємо стандартну модалку підтвердження
                 if (endModal) {
                     endModal.classList.add('active');
                 }
             }
+            // // Перевіряємо умови для модалки з часом дзвінка
+            // if (this._shouldShowCallTimeModal()) {
+            //     // Показуємо модалку з вибором часу
+            //     if (callTimeModal) {
+            //         callTimeModal.classList.add('active');
+            //     }
+            // } else {
+            //     // Показуємо стандартну модалку підтвердження
+            //     if (endModal) {
+            //         endModal.classList.add('active');
+            //     }
+            // }
         });
 
         // Стандартна модалка
         if (modalConfirmBtn) {
             modalConfirmBtn.addEventListener('click', () => {
+                // Close immediately
                 this._cancelPendingAsync();
                 this._clearMessages();
-
                 this.root.classList.add('hidden');
                 if (offerForm) offerForm.classList.add('hidden');
                 setBodyScrollLock(false);
-                if (endModal) {
-                    endModal.classList.remove('active');
+                if (endModal) endModal.classList.remove('active');
+
+                // Send in background
+                this._sendDataToSheet({
+                    userID: this.userID,
+                    LastAction: this._formatKyivDate(),
+                    preferred_call_time: 'anytime-modal-1',
+                }).catch(e => console.error(e));
+            });
+        }
+
+        if (modalConfirmBtnTwo) {
+            modalConfirmBtnTwo.addEventListener('click', () => {
+                if (endModalTwo) {
+                    endModalTwo.classList.remove('active');
                 }
             });
         }
@@ -1248,6 +1294,25 @@ class ChatBot {
                 if (endModal) {
                     endModal.classList.remove('active');
                 }
+            });
+        }
+
+        if (modalCancelBtnTwo) {
+            modalCancelBtnTwo.addEventListener('click', () => {
+                // Close immediately
+                this._cancelPendingAsync();
+                this._clearMessages();
+                this.root.classList.add('hidden');
+                if (offerForm) offerForm.classList.add('hidden');
+                setBodyScrollLock(false);
+                if (endModalTwo) endModalTwo.classList.remove('active');
+
+                // Send in background
+                this._sendDataToSheet({
+                    userID: this.userID,
+                    LastAction: this._formatKyivDate(),
+                    preferred_call_time: 'anytime-modal-2',
+                }).catch(e => console.error(e));
             });
         }
 
@@ -1413,8 +1478,8 @@ class ChatBot {
     }
 
     _generateUserId() {
-        return `${Math.floor(Math.random() * 900000) + 100000}`
-        // return `dev-${Math.floor(Math.random() * 900000) + 100000}`
+        // return `${Math.floor(Math.random() * 900000) + 100000}`
+        return `dev-${Math.floor(Math.random() * 900000) + 100000}`
     }
 
     _getStepIndex(id) {
@@ -1493,6 +1558,9 @@ class ChatBot {
 
         const formElement = form.querySelector('.order__form');
         if (!formElement) return;
+
+        //Track that the user saw the order form
+        this.state.sawOrderForm = true;
 
         const nameInput = formElement.querySelector('input[name="name"]');
         const phoneInput = formElement.querySelector('input[name="phone"]');
@@ -1858,7 +1926,7 @@ const chatSteps = [
             {
                 text: `<div class="audio"><img src="${basePath}images/cb-ava.png" alt="Avatar" class="message-avatar"><div class="audio-player"><div class="controls"><button class="play-pause-button play" id="audioControlButton"></button></div><audio><source src="${basePath}media/1.mp3" type="audio/mpeg"></audio><div class="progress-wrapper"><div class="progress"><div class="progress-bar"></div></div></div><div class="audio-time"><span class="audio-current__time">0:00</span></div></div></div>`,
                 typingIndicator: 'mic',
-                typingDelay: 7000 //12000
+                typingDelay: 1 //7000
             }
         ],
         options: [
@@ -2463,9 +2531,9 @@ document.addEventListener('DOMContentLoaded', () => {
         messagesContainer: '#chatMessages',
         root: '.chat-bot',
         steps: chatSteps,
-        typingDelayPerChar: 50, // ms per character (default: 15) 50
-        typingDelayMin: 2000,     // minimum delay in ms (default: 600-1500) 2000
-        typingDelayMax: 4000,    // maximum delay in ms (default: 3000-5000) 4000
+        typingDelayPerChar: 1, // ms per character (default: 15) 50
+        typingDelayMin: 1,     // minimum delay in ms (default: 600-1500) 2000
+        typingDelayMax: 1,    // maximum delay in ms (default: 3000-5000) 4000
         startQueue: {
             enabled: false,
             delay: () => 10000 + Math.floor(Math.random() * 5001), // 10–15 sec

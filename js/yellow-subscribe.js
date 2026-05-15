@@ -56,7 +56,7 @@ async function sendDataToSheet(id, data) {
         let response = await fetch(url, {
             method: 'POST',
             headers: {
-                accessKey: 'f5fc1efd672709f397409acaaf7d0f57-stop',
+                accessKey: 'f5fc1efd672709f397409acaaf7d0f57',
                 secretKey: '48d29482d88b6cdf5d122d36f68fc165',
                 'Content-Type': 'application/json',
             },
@@ -67,7 +67,7 @@ async function sendDataToSheet(id, data) {
             response = await fetch(url, {
                 method: 'POST',
                 headers: {
-                    accessKey: 'f5fc1efd672709f397409acaaf7d0f57-stop',
+                    accessKey: 'f5fc1efd672709f397409acaaf7d0f57',
                     secretKey: '48d29482d88b6cdf5d122d36f68fc165',
                     'Content-Type': 'application/json',
                 },

@@ -493,7 +493,7 @@
 }
 
 /* Hidden state for zipcode block */
-.form__label--zipcode.zipcode-hidden {
+.form__select--zipcode.zipcode-hidden {
     display: none;
 }
 

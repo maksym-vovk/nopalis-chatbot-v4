@@ -1892,6 +1892,7 @@ body.chat-scroll-lock {
 
 .modal-buttons {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     gap: 10px;
@@ -1905,6 +1906,7 @@ body.chat-scroll-lock {
     border: none;
     cursor: pointer;
     font-weight: 600;
+    width: 100%;
 }
 
 @media screen and (min-width: 768px) {
@@ -2301,15 +2303,16 @@ b {
     font-size: 20px;
     font-weight: 700;
     color: #111827;
+    margin-top: 0;
     margin-bottom: 16px;
     text-align: center;
 }
 
 .modal-call-text {
     font-size: 14px;
-    line-height: 1.6;
+    line-height: 1.4;
     color: #374151;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     text-align: center;
 }
 
@@ -2320,6 +2323,7 @@ b {
 }
 
 .time-selector {
+    margin-top: 20px;
     margin-bottom: 20px;
 }
 
@@ -2357,6 +2361,7 @@ b {
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
+    margin-top: 20px;
 }
 
 .submit-call-time-btn {

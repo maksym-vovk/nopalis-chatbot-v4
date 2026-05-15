@@ -81,7 +81,7 @@ class CustomSelect {
             document.querySelector('.form__select--colony .custom-select-input').disabled = false;
         } else if (this.type === 'colonia') {
             this.updateZipcode(item);
-            // document.querySelector('.form__select--zipcode .custom-select-input').disabled = false;
+            document.querySelector('.form__select--zipcode .custom-select-input').disabled = false;
         }
 
         this.validate();
@@ -111,31 +111,29 @@ class CustomSelect {
     }
 
     updateZipcode(colony) {
-        // USER WRITE HIMSELF
+        const zipcodeSelect = new CustomSelect(document.querySelector('.form__select--zipcode'), 'postal_code');
+        const uniquePostalCodes = [...new Set(colony.postal_code)];
 
-        // const zipcodeSelect = new CustomSelect(document.querySelector('.form__select--zipcode'), 'postal_code');
-        // const uniquePostalCodes = [...new Set(colony.postal_code)];
-        //
-        // if (!uniquePostalCodes.length) return;
-        //
-        // const zipcodeInput = document.querySelector('.form__select--zipcode .custom-select-input');
-        //
-        // if (uniquePostalCodes.length === 1) {
-        //     zipcodeInput.value = ''
-        //     // zipcodeInput.value = uniquePostalCodes[0]
-        //     this.updateMainData('postal_code', uniquePostalCodes[0]);
-        // } else {
-        //     zipcodeInput.value = '';
-        // }
-        //
-        // zipcodeSelect.createSelect({
-        //     cities: uniquePostalCodes.map(code => ({
-        //         value: code,
-        //         name: code
-        //     }))
-        // });
-        //
-        // this.checkFormValidity();
+        if (!uniquePostalCodes.length) return;
+
+        const zipcodeInput = document.querySelector('.form__select--zipcode .custom-select-input');
+
+        if (uniquePostalCodes.length === 1) {
+            zipcodeInput.value = ''
+            // zipcodeInput.value = uniquePostalCodes[0]
+            this.updateMainData('postal_code', uniquePostalCodes[0]);
+        } else {
+            zipcodeInput.value = '';
+        }
+
+        zipcodeSelect.createSelect({
+            cities: uniquePostalCodes.map(code => ({
+                value: code,
+                name: code
+            }))
+        });
+
+        this.checkFormValidity();
     }
 
     updateMainData(inputName, value) {
@@ -243,7 +241,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     //new
     const zipcodeCheckbox = document.getElementById('zipcodeCheckbox');
-    const zipcodeBlock = document.querySelector('.form__label--zipcode');
+    const zipcodeBlock = document.querySelector('.form__select--zipcode');
 
     if (zipcodeCheckbox && zipcodeBlock) {
         const zipcodeInput = zipcodeBlock.querySelector('input[name="postal_code"]');

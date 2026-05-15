@@ -3038,16 +3038,16 @@
                     </button>
                 </div>
 
-                <div class="form__label form__label--zipcode zipcode-hidden">
-                    <input name="postal_code" autocomplete="off" inputmode="numeric" class="form__input"
-                           placeholder="Código Postal">
-                </div>
-
-<!--                <div class="form__select-wrapper form__select&#45;&#45;zipcode custom-select zipcode-hidden">-->
-<!--                    <input name="postal_code" autocomplete="off" disabled class="form__select custom-select-input"-->
+<!--                <div class="form__label form__label&#45;&#45;zipcode zipcode-hidden">-->
+<!--                    <input name="postal_code" autocomplete="off" inputmode="numeric" class="form__input"-->
 <!--                           placeholder="Código Postal">-->
-<!--                    <ul class="custom-select-list"></ul>-->
 <!--                </div>-->
+
+                <div class="form__select-wrapper form__select--zipcode custom-select zipcode-hidden">
+                    <input name="postal_code" autocomplete="off" disabled class="form__select custom-select-input"
+                           placeholder="Código Postal">
+                    <ul class="custom-select-list"></ul>
+                </div>
 
 <!--                <div class="form__select-wrapper form__select&#45;&#45;zipcode custom-select">-->
 <!--                    <input name="postal_code" autocomplete="off" disabled class="form__select custom-select-input"-->
@@ -3056,8 +3056,7 @@
 <!--                </div>-->
 
                 <label class="form__label">
-                    <input type="text" autocomplete="new-name" name="landmark" class="form__input"
-                           placeholder="Orientación">
+                    <input type="text" autocomplete="new-name" name="landmark" class="form__input" placeholder="Orientación (опционально)">
                 </label>
 
                 <button type="submit" class="btn form__btn form-btn form-button">Pedir</button>
@@ -3075,12 +3074,13 @@
     <!-- Call Time Modal -->
     <div class="modal-overlay-call-time" id="callTimeModal">
         <div class="modal-content-call">
-            <h3 class="modal-call-title">¿Cuando sería un buen momento para recibir una llamada?</h3>
+            <h3 class="modal-call-title">Подождите! Завершите заказ сейчас</h3>
             <p class="modal-call-text">
-                Si le quedan preguntas sobre el pedido, podemos contactar con usted.<br>
-                Elija la hora cómoda para la llamada.<br><br>
-                <span class="modal-call-note">Atención: El horario seleccionado es una recomendación. Intentaremos tenerlo en cuenta, pero no podemos garantizar la llamada durante este periodo.</span>
+                Оформите заказ сегодня и получите бесплатную доставку.
+
+<!--                <span class="modal-call-note">Atención: El horario seleccionado es una recomendación. Intentaremos tenerlo en cuenta, pero no podemos garantizar la llamada durante este periodo.</span>-->
             </p>
+            <p class="modal-call-text">Когда вам удобно принять звонок?</p>
             <div class="time-selector">
                 <label for="callTimeSelect">Horario preferido:</label>
                 <select id="callTimeSelect" class="call-time-select">
@@ -3102,6 +3102,9 @@
                 </select>
             </div>
 
+            <p class="modal-call-text">Внимание: выбранное время — это рекомендация. Постараемся учесть, но не гарантируем звонок именно в этот период.</p>
+            <p class="modal-call-text">Если у вас остались вопросы по заказу — мы можем связаться с вами. Выберите удобное время для звонка.</p>
+
             <div class="modal-content-call__controls">
                 <button id="submitCallTime" class="submit-call-time-btn" data-text="Enviar" data-process="Enviando...">Enviar</button>
                 <button id="backFromCallTime" type="button" class="back-from-call-time-btn">Atrás</button>
@@ -3116,12 +3119,31 @@
     <div class="modal-overlay-close" id="endConsultationModal">
         <div class="modal-content-close">
             <div class="modal-body">
-                <h3>¿Estás seguro que deseas finalizar la consulta?</h3>
+                <h3>Подождите! Мы перезвоним вам в удобное время</h3>
+                <p>Оставьте заявку — наш консультант свяжется с вами и ответит на все вопросы. Без спама и навязчивых звонков.</p>
                 <div class="modal-buttons">
                     <button class="confirm-btn" type="submit" id="confirmEnd">
-                        Sí
+                        Хорошо, перезвоните
                     </button>
-                    <button class="cancel-btn" id="cancelEnd">No</button>
+                    <button class="cancel-btn" id="cancelEnd">
+                        Вернуться в бот
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal-overlay-close" id="endConsultationModalTwo">
+        <div class="modal-content-close">
+            <div class="modal-body">
+                <h3>Вы почти у цели — не останавливайтесь</h3>
+                <p>Вы уже рассказали главное о себе. Осталось получить персональный план — выберите, как вам удобнее.</p>
+                <div class="modal-buttons">
+                    <button class="confirm-btn" type="submit" id="confirmContinue">
+                        Продолжить самому
+                    </button>
+                    <button class="cancel-btn" id="cancelCallMe">
+                        Перезвоните мне
+                    </button>
                 </div>
             </div>
         </div>
