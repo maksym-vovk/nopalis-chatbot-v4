@@ -91,6 +91,7 @@ class ChatBot {
      */
     constructor(options) {
         this.basePath = window.cdn_path ? window.cdn_path : '';
+        this.CHAT_VERSION = '4.1';
 
         const defaults = {
             typingDelay: 1200,
@@ -173,7 +174,7 @@ class ChatBot {
             const now = new Date();
             this._sendDataToSheet({
                 userID: this.userID,
-                'chat_version': '4.1',
+                'chat_version': this.CHAT_VERSION,
                 FirstVisitUA: this._formatKyivDate(now),
                 FirstVisitMX: this._formatLocalDate(now),
                 LastAction: this._formatKyivDate(now),
@@ -350,7 +351,10 @@ class ChatBot {
         try {
             localStorage.setItem(
                 this.config.storageKey,
-                JSON.stringify(this.state)
+                JSON.stringify({
+                    'chat_version': this.CHAT_VERSION,
+                    ...this.state
+                })
             );
         } catch (_) {
             // ігноруємо помилку (наприклад, забитий localStorage)
@@ -362,6 +366,12 @@ class ChatBot {
             const raw = localStorage.getItem(this.config.storageKey);
             if (!raw) return;
             const parsed = JSON.parse(raw);
+
+            if (parsed && parsed.version !== this.CHAT_VERSION) {
+                localStorage.clear();
+                return;
+            }
+
             if (parsed && typeof parsed === 'object') {
                 this.state = {
                     currentStepIndex: parsed.currentStepIndex ?? 0,
