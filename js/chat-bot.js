@@ -158,6 +158,8 @@ class ChatBot {
             answers: {},
         };
 
+        this._clearStorageIfVersionMismatch();
+
         // Відновлення стану, якщо потрібне
         if (this.config.storageKey) {
             this._loadState();
@@ -245,6 +247,23 @@ class ChatBot {
         // if (this.root) {
         //     this.root.classList.remove('hidden');
         // }
+    }
+
+    _clearStorageIfVersionMismatch() {
+        try {
+            const analyticsKey = `chatAnalytics_${this.userID}`;
+            const raw = localStorage.getItem(analyticsKey);
+            if (!raw) return;
+
+            const parsed = JSON.parse(raw);
+            if (parsed?.chat_version !== this.CHAT_VERSION) {
+                localStorage.clear();
+                // Re-save userID so it stays consistent across reloads
+                localStorage.setItem('userID', this.userID);
+            }
+        } catch (_) {
+            // ігноруємо
+        }
     }
 
     _cancelPendingAsync() {
@@ -366,6 +385,8 @@ class ChatBot {
             const raw = localStorage.getItem(this.config.storageKey);
             if (!raw) return;
             const parsed = JSON.parse(raw);
+
+            console.log(parsed);
 
             if (parsed && parsed.chat_version !== this.CHAT_VERSION) {
                 localStorage.clear();
