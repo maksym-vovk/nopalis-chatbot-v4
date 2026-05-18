@@ -1180,7 +1180,7 @@ class ChatBot {
         const callTimeModal = document.getElementById('callTimeModal');
         const modalConfirmBtn = endModal?.querySelector('#confirmEnd');
         const modalConfirmBtnTwo = endModalTwo?.querySelector('#confirmContinue');
-        const modalCancelBtn = endModal?.querySelector('.cancel-btn');
+        const modalCancelBtn = endModal?.querySelector('#cancelEnd');
         const modalCancelBtnTwo = endModalTwo?.querySelector('#cancelCallMe');
         const offerForm = document.querySelector('.offer__form');
 
