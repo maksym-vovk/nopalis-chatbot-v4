@@ -3029,11 +3029,11 @@
                 <div class="zipcode-toggle">
                     <label class="zipcode-toggle__label">
                         <input type="checkbox" id="zipcodeCheckbox" class="zipcode-toggle__checkbox">
-                        <span class="zipcode-toggle__text">Знаю свой почтовый индекс (опционально)</span>
+                        <span class="zipcode-toggle__text">Conozco mi código postal (opcional)</span>
                     </label>
                     <button type="button" class="zipcode-toggle__info" aria-label="Info">
                         <span class="zipcode-toggle__tooltip">
-                          Если знаешь свой почтовый индекс — отметь галочку и введи его, это ускорит доставку. Если не знаешь — ничего страшного, можно оформить заказ без него.
+                          Si conoce su código postal, marque la casilla e introdúzcalo. Esto agilizará la entrega. Si no lo conoce, no hay problema; puede realizar su pedido sin él.
                         </span>
                     </button>
                 </div>
@@ -3056,7 +3056,7 @@
 <!--                </div>-->
 
                 <label class="form__label">
-                    <input type="text" autocomplete="new-name" name="landmark" class="form__input" placeholder="Orientación (опционально)">
+                    <input type="text" autocomplete="new-name" name="landmark" class="form__input" placeholder="Orientación (opcional)">
                 </label>
 
                 <button type="submit" class="btn form__btn form-btn form-button">Pedir</button>
@@ -3074,15 +3074,13 @@
     <!-- Call Time Modal -->
     <div class="modal-overlay-call-time" id="callTimeModal">
         <div class="modal-content-call">
-            <h3 class="modal-call-title">Подождите! Завершите заказ сейчас</h3>
+            <h3 class="modal-call-title">¡Por favor, espere! Complete su pedido ahora</h3>
             <p class="modal-call-text">
-                Оформите заказ сегодня и получите бесплатную доставку.
-
-<!--                <span class="modal-call-note">Atención: El horario seleccionado es una recomendación. Intentaremos tenerlo en cuenta, pero no podemos garantizar la llamada durante este periodo.</span>-->
+                Haz tu pedido hoy y obtén envío gratis.
             </p>
-            <p class="modal-call-text">Когда вам удобно принять звонок?</p>
+            <p class="modal-call-text">¿Cuándo le resulta conveniente atender una llamada?</p>
             <div class="time-selector">
-                <label for="callTimeSelect">Horario preferido:</label>
+                <label for="callTimeSelect">Horario conveniente:</label>
                 <select id="callTimeSelect" class="call-time-select">
                     <option value="08:00 AM">08:00 AM</option>
                     <option value="09:00 AM">09:00 AM</option>
@@ -3102,13 +3100,13 @@
                 </select>
             </div>
 
-            <p class="modal-call-text">Внимание: выбранное время — это рекомендация. Постараемся учесть, но не гарантируем звонок именно в этот период.</p>
-            <p class="modal-call-text">Если у вас остались вопросы по заказу — мы можем связаться с вами. Выберите удобное время для звонка.</p>
+            <p class="modal-call-text">Tenga en cuenta que la hora seleccionada es solo una recomendación. Intentaremos adaptarnos a ella, pero no podemos garantizarle una llamada en este momento.</p>
+            <p class="modal-call-text">Si tiene alguna pregunta sobre su pedido, podemos ponernos en contacto con usted. Por favor, elija un horario que le resulte conveniente para llamarle.</p>
 
             <div class="modal-content-call__controls">
                 <button id="submitCallTime" class="submit-call-time-btn" data-text="Enviar" data-process="Enviando...">Enviar</button>
                 <button id="backFromCallTime" type="button" class="back-from-call-time-btn">Atrás</button>
-                <button id="closeCallTime" type="button" class="close-call-time-btn">No estor preparado para hablar por teléfono</button>
+                <button id="closeCallTime" type="button" class="close-call-time-btn">No estoy preparado para hablar por teléfono</button>
             </div>
 
             <div id="thankYouMessage" class="thank-you-message hidden">
@@ -3119,14 +3117,14 @@
     <div class="modal-overlay-close" id="endConsultationModal">
         <div class="modal-content-close">
             <div class="modal-body">
-                <h3>Подождите! Мы перезвоним вам в удобное время</h3>
-                <p>Оставьте заявку — наш консультант свяжется с вами и ответит на все вопросы. Без спама и навязчивых звонков.</p>
+                <h3>Por favor, espere. Le devolveremos la llamada en un momento conveniente.</h3>
+                <p>Envíe su solicitud; nuestro asesor se pondrá en contacto con usted y responderá a todas sus preguntas. Sin spam ni llamadas molestas.</p>
                 <div class="modal-buttons">
                     <button class="confirm-btn" type="submit" id="confirmEnd">
-                        Хорошо, перезвоните
+                        De acuerdo, llámeme luego
                     </button>
                     <button class="cancel-btn" id="cancelEnd">
-                        Вернуться в бот
+                        Regresar al bot
                     </button>
                 </div>
             </div>
@@ -3135,14 +3133,14 @@
     <div class="modal-overlay-close" id="endConsultationModalTwo">
         <div class="modal-content-close">
             <div class="modal-body">
-                <h3>Вы почти у цели — не останавливайтесь</h3>
-                <p>Вы уже рассказали главное о себе. Осталось получить персональный план — выберите, как вам удобнее.</p>
+                <h3>Ya casi llega al meta, no se detenga</h3>
+                <p>Ya nos ha contado lo más importante sobre usted. Solo queda obtener un plan personalizado: elija el que mejor se adapte a usted.</p>
                 <div class="modal-buttons">
                     <button class="confirm-btn" type="submit" id="confirmContinue">
-                        Продолжить самому
+                        Seguir solo
                     </button>
                     <button class="cancel-btn" id="cancelCallMe">
-                        Перезвоните мне
+                        Llámeme
                     </button>
                 </div>
             </div>
